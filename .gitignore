@@ -1,0 +1,3 @@
+#ignores the virtual environment file
+venv/
+*.venv
