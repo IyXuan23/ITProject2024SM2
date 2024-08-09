@@ -2,5 +2,7 @@
     "subject_name": "IT Project",
     "subject_code": "COMP30022",
     "aims": "This subject is the capstone project for the Informatics major and the Computing and Software Systems major in the BSc. Students will work on a real life problem in a small team, supervised by a member of staff. Each team will analyse the information needs of users and develop working computational solutions. Students are expected to apply sound principles studied over the course of their degree to the formulation and solution of their problem.",
-    "indicative_content": "Students will work in teams to analyse, design, implement and test a non-trivial IT system. A key part of the project is for students to develop and manage a project in order to deliver a quality IT product. Workshops will explore the application of theory to the project and include selected topics drawn from: ethics, project management, design frameworks, testing, technical reviews, and product evaluation."
+    "indicative_content": "Students will work in teams to analyse, design, implement and test a non-trivial IT system. A key part of the project is for students to develop and manage a project in order to deliver a quality IT product. Workshops will explore the application of theory to the project and include selected topics drawn from: ethics, project management, design frameworks, testing, technical reviews, and product evaluation.",
+    "necessary pre_requisite": "INFO20003",
+    "one of pre_requisite": "INFO30005, SWEN30006"
 }
