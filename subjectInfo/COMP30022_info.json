@@ -19,5 +19,22 @@
         "ISYS30006",
         "433-340",
         "615-373"
+    ],
+    "assessments": [
+        {
+            "description": "The three major components of assessment are based on the student's ability to participate and contribute to a team-based information technology project. Students will be assessed on their ability to:\r\n\u2022 Work in small teams acting professionally and ethically\r\n\r\n\u2022 Analyse, design, implement, and test a system, following prescribed processes\r\n\r\n\u2022 Communicate effectively in written and oral presentations\r\n\r\n\u2022Contribute to team goals\r\n\r\nAssessment:\r\n\r\nThe first major component is the team's ability to conduct problem formulation and design, reporting, and to manage its processes, which includes regular reviews in workshops throughout the semester (50%). Associated work will require approximately 50-55 hours of work. This assessment addresses Intended Learning Outcomes (ILOs) 1, 2, 3 and 4. 55 hours (of work required)",
+            "timing": "Throughout the semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "The second major component is the team's final release of the product, 1000-2000 lines of code, submitted in week 12,   requiring approximately 30 - 35 hours of work, that assesses the team's ability to develop a non-trivial IT product using principles and techniques from computer science, software engineering, and informatics. This assessment addresses ILOs 1, 2 and 4. 35 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "The third major component is based on the individual's contribution to the project over the course of the semester. This ongoing assessment addresses ILO 3.\r\nILOs 1, 2, and 4 are addressed by the assessment components 1 and 2 (management and project respectively)\r\n\r\nILO 3 is addressed via the project management component of item 1 the individual component of item 3.",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        }
     ]
 }

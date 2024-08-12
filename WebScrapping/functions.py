@@ -28,7 +28,8 @@ def scrapeLinks(numOfPages, targetArray, url):
         print("scrapped page" + str(i))
         i += 1    
 
-def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed):
+def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed, 
+                assessments):
     """writes information to JSON file for the corresponding subbject. Naming convention is [subjectCode]_info.json"""
 
     data = {
@@ -39,7 +40,8 @@ def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq
         "necessary pre_requisite": necessaryPreReq,
         "one of pre_requisite": oneOfPreReq,
         "corequisites": coReq,
-        "non_allowed_subjects": nonAllowed 
+        "non_allowed_subjects": nonAllowed,
+        "assessments": assessments
     }
 
     with open(filePath, 'w') as json_file:
@@ -166,8 +168,6 @@ def scrapeNonAllowed(courseCode):
     response = requests.get(preReqURL)
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    print(soup.prettify())
-
     try:
         nonAllowedHeader = soup.find('h3', text='Non-allowed subjects')
 
@@ -206,9 +206,42 @@ def scrapeNonAllowed(courseCode):
         return nonAllowedSubjects
 
 
+def scrapeAssessment(courseCode):
+    """will scrape the assessments and return the items in a nested JSON style
+    unlikely to return empty (as far as i can tell all subjects have assessments)"""
 
-    
+    #note: url is in the form of:
+    #https://handbook.unimelb.edu.au/subjects/comp30022/assessment
+    courseCode = courseCode.lower()
+    assessmentURL = 'https://handbook.unimelb.edu.au/subjects/' + courseCode + '/assessment'
 
+    response = requests.get(assessmentURL)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    assessments = []
+
+    try:
+        table = soup.find('table', class_='assessment-details')
+
+        rows = table.find_all('tr')[1:]
+
+        for row in rows:
+            cols = row.find_all('td')
+            description = cols[0].get_text(separator='. ', strip=True)
+            timing = cols[1].get_text(strip=True)
+            percentage = cols[2].get_text(strip=True)
+
+            assessment = {
+                "description":description,
+                "timing":timing,
+                "percentage":percentage
+            }
+            assessments.append(assessment)
+
+        return assessments    
+
+    except AttributeError:
+        print("Assessment Not Found")
 
 def scrapSubject(url):
 
@@ -220,13 +253,15 @@ def scrapSubject(url):
     coReq = scrapeCoReq(subjectCode)
     nonAllowed = scrapeNonAllowed(subjectCode)
 
+    assessments = scrapeAssessment(subjectCode)
+
     #writing to JSON file
     fileName = subjectCode + '_info.json'
     filePath = os.path.join('subjectInfo', fileName)
 
-    writeJSONFile(filePath, subjectName, subjectCode, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed)
+    writeJSONFile(filePath, subjectName, subjectCode, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed,\
+                assessments)
 
-    #https://handbook.unimelb.edu.au/subjects/comp30022/assessment
     #https://handbook.unimelb.edu.au/2024/subjects/comp30022/dates-times
     #https://handbook.unimelb.edu.au/subjects/comp30022/further-information
 
