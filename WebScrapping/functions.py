@@ -28,29 +28,18 @@ def scrapeLinks(numOfPages, targetArray, url):
         print("scrapped page" + str(i))
         i += 1    
 
-def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq, oneOfPreReq):
+def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed):
     """writes information to JSON file for the corresponding subbject. Naming convention is [subjectCode]_info.json"""
-
-    necessaryStr = ''
-    oneOfStr = ''
-
-    for req in necessaryPreReq:
-        if necessaryStr != '':
-            necessaryStr = necessaryStr + ', '
-        necessaryStr = necessaryStr + req
-
-    for req in oneOfPreReq:
-        if oneOfStr != '':
-            oneOfStr = oneOfStr + ', '
-        oneOfStr = oneOfStr + req    
 
     data = {
         "subject_name": name,
         "subject_code": code,
         "aims": aims, 
         "indicative_content": indicativeContent,
-        "necessary pre_requisite": necessaryStr,
-        "one of pre_requisite": oneOfStr
+        "necessary pre_requisite": necessaryPreReq,
+        "one of pre_requisite": oneOfPreReq,
+        "corequisites": coReq,
+        "non_allowed_subjects": nonAllowed 
     }
 
     with open(filePath, 'w') as json_file:
@@ -141,9 +130,85 @@ def parsePreReq(courseCode):
                     singlePreReq.extend(parseTable(table))       
 
     except AttributeError:
-        print("Not Found")
+        print("Pre-Req Not Found")
 
     return singlePreReq, oneOfPreReq
+
+def scrapeCoReq(courseCode):
+    """function for scraping the co-requisite requirement, result will either be a string 'None', or 
+    it will return [TEMP VALUE] (function incomplete)""" 
+
+    courseCode = courseCode.lower()
+    preReqURL = 'https://handbook.unimelb.edu.au/subjects/' + courseCode + '/eligibility-and-requirements'
+
+    response = requests.get(preReqURL)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    try:
+        coReqHeader = soup.find('h3', text='Corequisites')
+        coReqPara = coReqHeader.find_next('p')
+
+        if coReqPara.text.strip().lower() == 'none':
+            return 'None'
+        else:
+            return 'tempValue'
+
+    except AttributeError:
+        print("coReq Not Found")
+
+def scrapeNonAllowed(courseCode):
+    """function will scrap Non-allowed subjects, either returning the string None, or a list of non-allowed
+    subjects"""
+
+    courseCode = courseCode.lower()
+    preReqURL = 'https://handbook.unimelb.edu.au/subjects/' + courseCode + '/eligibility-and-requirements'
+
+    response = requests.get(preReqURL)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    print(soup.prettify())
+
+    try:
+        nonAllowedHeader = soup.find('h3', text='Non-allowed subjects')
+
+    except AttributeError:
+        print("Non-allowed Subject Not Found")
+        return -1
+
+    #look for the none tag
+    nonAllowedPara = nonAllowedHeader.find_next('p')   
+    if nonAllowedPara.text.strip().lower() == 'none':
+        return 'None' 
+    
+    #there is something, look for tables first, then followed by paragraphs of strings
+    else:
+        nonAllowedSubjects = []
+
+        #we check each <p>, if there is a table, we extract the codes
+        #then check for text and extract subject codes [example: IT Project]
+        #we look for <p> until we hit the next header <h3>, then terminate the search
+        nextSubject = nonAllowedHeader.find_next(['p', 'h3'])
+
+        while nextSubject and nextSubject.name == 'p':
+
+            table = nextSubject.find('table')
+            if table:
+                nonAllowedSubjects.extend(parseTable(table))
+
+            else:
+                text = nextSubject.text.strip()
+
+                if text:
+                    nonAllowedSubjects.append(text)
+            
+            nextSubject = nextSubject.find_next(['p', 'h3'])
+
+        return nonAllowedSubjects
+
+
+
+    
+
 
 def scrapSubject(url):
 
@@ -152,12 +217,14 @@ def scrapSubject(url):
     subjectName, subjectCode, aims, indicativeContent = scrapeOverview(url)
 
     necessaryPreReq, oneOfPreReq = parsePreReq(subjectCode)
+    coReq = scrapeCoReq(subjectCode)
+    nonAllowed = scrapeNonAllowed(subjectCode)
 
     #writing to JSON file
     fileName = subjectCode + '_info.json'
     filePath = os.path.join('subjectInfo', fileName)
 
-    writeJSONFile(filePath, subjectName, subjectCode, aims, indicativeContent, necessaryPreReq, oneOfPreReq)
+    writeJSONFile(filePath, subjectName, subjectCode, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed)
 
     #https://handbook.unimelb.edu.au/subjects/comp30022/assessment
     #https://handbook.unimelb.edu.au/2024/subjects/comp30022/dates-times
