@@ -29,7 +29,7 @@ def scrapeLinks(numOfPages, targetArray, url):
         i += 1    
 
 def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed, 
-                assessments, dateTimes):
+                assessments, dateTimes, contactInfo):
     """writes information to JSON file for the corresponding subbject. Naming convention is [subjectCode]_info.json"""
 
     data = {
@@ -42,7 +42,8 @@ def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq
         "corequisites": coReq,
         "non-allowed subjects": nonAllowed,
         "assessments": assessments,
-        "dates and times": dateTimes
+        "dates and times": dateTimes,
+        "contact information": contactInfo
     }
 
     with open(filePath, 'w') as json_file:
@@ -244,6 +245,16 @@ def scrapeAssessment(courseCode):
     except AttributeError:
         print("Assessment Not Found")
 
+def scrapeContactInfo(soup):
+    """function will receive soup and scrape the contact info and return it in JSON format"""
+
+    contactDiv = soup.find('div', class_='course__body__inner__contact_details')
+
+    name = contactDiv.find('p').contents[0].strip()
+    email = contactDiv.find('a').get_text(strip=True)
+
+    return [name, email]
+
 def scrapeDateTime(courseCode):
     """function will scrape the date and times page, along with the relevant info in the given table, and return the info
     in JSON format"""
@@ -272,12 +283,12 @@ def scrapeDateTime(courseCode):
 
             dateTimes.append(dateTime)
 
-        return dateTimes
+        contactInfo = scrapeContactInfo(soup)
+        return dateTimes, contactInfo
 
 
     except AttributeError:
         print("Date Time Not Found")
-
 
 
 def scrapSubject(url):
@@ -292,14 +303,14 @@ def scrapSubject(url):
 
     assessments = scrapeAssessment(subjectCode)
 
-    dateTimes = scrapeDateTime(subjectCode)
+    dateTimes, contactInfo = scrapeDateTime(subjectCode)
 
     #writing to JSON file
     fileName = subjectCode + '_info.json'
     filePath = os.path.join('subjectInfo', fileName)
 
     writeJSONFile(filePath, subjectName, subjectCode, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed,\
-                assessments, dateTimes)
+                assessments, dateTimes, contactInfo)
 
     #https://handbook.unimelb.edu.au/subjects/comp30022/further-information
 
