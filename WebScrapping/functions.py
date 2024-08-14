@@ -29,19 +29,20 @@ def scrapeLinks(numOfPages, targetArray, url):
         i += 1    
 
 def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed, 
-                assessments):
+                assessments, dateTimes):
     """writes information to JSON file for the corresponding subbject. Naming convention is [subjectCode]_info.json"""
 
     data = {
-        "subject_name": name,
-        "subject_code": code,
+        "subject name": name,
+        "subject code": code,
         "aims": aims, 
-        "indicative_content": indicativeContent,
-        "necessary pre_requisite": necessaryPreReq,
-        "one of pre_requisite": oneOfPreReq,
+        "indicative content": indicativeContent,
+        "necessary pre-requisite": necessaryPreReq,
+        "one of pre-requisite": oneOfPreReq,
         "corequisites": coReq,
-        "non_allowed_subjects": nonAllowed,
-        "assessments": assessments
+        "non-allowed subjects": nonAllowed,
+        "assessments": assessments,
+        "dates and times": dateTimes
     }
 
     with open(filePath, 'w') as json_file:
@@ -243,6 +244,42 @@ def scrapeAssessment(courseCode):
     except AttributeError:
         print("Assessment Not Found")
 
+def scrapeDateTime(courseCode):
+    """function will scrape the date and times page, along with the relevant info in the given table, and return the info
+    in JSON format"""
+
+    #note: url is in the form of:
+    #https://handbook.unimelb.edu.au/2024/subjects/comp30022/dates-times
+    courseCode = courseCode.lower()
+    assessmentURL = 'https://handbook.unimelb.edu.au/subjects/' + courseCode + '/dates-times'
+
+    response = requests.get(assessmentURL)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    dateTimes = []
+
+    try:
+        table = soup.find('table', class_='contact_details')
+        rows = table.find_all('tr')
+
+        for row in rows:
+            header = row.find('th').get_text(strip=True)
+            data = row.find('td').get_text(strip=True)
+
+            dateTime = {
+                header:data
+            }
+
+            dateTimes.append(dateTime)
+
+        return dateTimes
+
+
+    except AttributeError:
+        print("Date Time Not Found")
+
+
+
 def scrapSubject(url):
 
     """function for scraping a singular subject information, and will return the data in the form of a json file"""
@@ -255,14 +292,15 @@ def scrapSubject(url):
 
     assessments = scrapeAssessment(subjectCode)
 
+    dateTimes = scrapeDateTime(subjectCode)
+
     #writing to JSON file
     fileName = subjectCode + '_info.json'
     filePath = os.path.join('subjectInfo', fileName)
 
     writeJSONFile(filePath, subjectName, subjectCode, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed,\
-                assessments)
+                assessments, dateTimes)
 
-    #https://handbook.unimelb.edu.au/2024/subjects/comp30022/dates-times
     #https://handbook.unimelb.edu.au/subjects/comp30022/further-information
 
 

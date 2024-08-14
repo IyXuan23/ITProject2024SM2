@@ -1,17 +1,17 @@
 {
-    "subject_name": "IT Project",
-    "subject_code": "COMP30022",
+    "subject name": "IT Project",
+    "subject code": "COMP30022",
     "aims": "This subject is the capstone project for the Informatics major and the Computing and Software Systems major in the BSc. Students will work on a real life problem in a small team, supervised by a member of staff. Each team will analyse the information needs of users and develop working computational solutions. Students are expected to apply sound principles studied over the course of their degree to the formulation and solution of their problem.",
-    "indicative_content": "Students will work in teams to analyse, design, implement and test a non-trivial IT system. A key part of the project is for students to develop and manage a project in order to deliver a quality IT product. Workshops will explore the application of theory to the project and include selected topics drawn from: ethics, project management, design frameworks, testing, technical reviews, and product evaluation.",
-    "necessary pre_requisite": [
+    "indicative content": "Students will work in teams to analyse, design, implement and test a non-trivial IT system. A key part of the project is for students to develop and manage a project in order to deliver a quality IT product. Workshops will explore the application of theory to the project and include selected topics drawn from: ethics, project management, design frameworks, testing, technical reviews, and product evaluation.",
+    "necessary pre-requisite": [
         "INFO20003"
     ],
-    "one of pre_requisite": [
+    "one of pre-requisite": [
         "INFO30005",
         "SWEN30006"
     ],
     "corequisites": "None",
-    "non_allowed_subjects": [
+    "non-allowed subjects": [
         "SWEN30007",
         "SWEN30004  Software Engineering Project",
         "COMP30016",
@@ -35,6 +35,38 @@
             "description": "The third major component is based on the individual's contribution to the project over the course of the semester. This ongoing assessment addresses ILO 3.\r\nILOs 1, 2, and 4 are addressed by the assessment components 1 and 2 (management and project respectively)\r\n\r\nILO 3 is addressed via the project management component of item 1 the individual component of item 3.",
             "timing": "Throughout the semester",
             "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Principal coordinator": "Chris Ewin"
+        },
+        {
+            "Coordinators": "Leon Sterling and Geela Chee"
+        },
+        {
+            "Mode of delivery": "On Campus (Parkville)"
+        },
+        {
+            "Contact hours": "36 hours, comprising of one 1-hour lecture and one 2-hour workshop per week"
+        },
+        {
+            "Total time commitment": "170 hours"
+        },
+        {
+            "Teaching period": "22 July 2024 to 20 October 2024"
+        },
+        {
+            "Last self-enrol date": "2 August 2024"
+        },
+        {
+            "Census date": "2 September 2024"
+        },
+        {
+            "Last date to withdraw without fail": "20 September 2024"
+        },
+        {
+            "Assessment period ends": "15 November 2024"
         }
     ]
 }
