@@ -29,12 +29,13 @@ def scrapeLinks(numOfPages, targetArray, url):
         i += 1    
 
 def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed, 
-                assessments, dateTimes, contactInfo):
+                assessments, dateTimes, contactInfo, availability):
     """writes information to JSON file for the corresponding subbject. Naming convention is [subjectCode]_info.json"""
 
     data = {
         "subject name": name,
         "subject code": code,
+        "subject availability": availability,
         "aims": aims, 
         "indicative content": indicativeContent,
         "necessary pre-requisite": necessaryPreReq,
@@ -70,6 +71,7 @@ def scrapeOverview(url):
 
     except AttributeError:
         subjectHeader = None
+        print("Subject Name Not Found")
 
     #scrapping aim and description
     try:
@@ -78,10 +80,34 @@ def scrapeOverview(url):
 
         aims = descriptionArray[1].text.strip()
         indicativeContent = descriptionArray[4].text.strip()
+
     except AttributeError:
         description = None
+        print("Subject Aims and Content Not Found")
 
-    return subjectName, subjectCode, aims, indicativeContent
+    try:
+        availability = []
+
+        table = soup.find('table', class_="zebra")
+        rows = table.find_all('tr')
+
+        for row in rows:
+            header = row.find('th')
+            content = row.find('td')
+
+            if (header and header.get_text(strip=True) == 'Availability'):
+                availableSem = content.find_all('div')
+
+                print(availableSem)
+
+                for div in availableSem:
+                    availability.append(div.get_text(strip=True))
+
+    except AttributeError:
+        print("Subject Availability Not Found")                
+                
+
+    return subjectName, subjectCode, aims, indicativeContent, availability
 
 def parseTable(table):
     """helper function: parse table from html, will return the courses as an array"""
@@ -295,7 +321,7 @@ def scrapSubject(url):
 
     """function for scraping a singular subject information, and will return the data in the form of a json file"""
 
-    subjectName, subjectCode, aims, indicativeContent = scrapeOverview(url)
+    subjectName, subjectCode, aims, indicativeContent, availability = scrapeOverview(url)
 
     necessaryPreReq, oneOfPreReq = parsePreReq(subjectCode)
     coReq = scrapeCoReq(subjectCode)
@@ -310,7 +336,7 @@ def scrapSubject(url):
     filePath = os.path.join('subjectInfo', fileName)
 
     writeJSONFile(filePath, subjectName, subjectCode, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed,\
-                assessments, dateTimes, contactInfo)
+                assessments, dateTimes, contactInfo, availability)
 
     #https://handbook.unimelb.edu.au/subjects/comp30022/further-information
 
