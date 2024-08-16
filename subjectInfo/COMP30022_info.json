@@ -42,38 +42,46 @@
     ],
     "dates and times": [
         {
-            "Principal coordinator": "Chris Ewin"
-        },
-        {
-            "Coordinators": "Leon Sterling and Geela Chee"
-        },
-        {
-            "Mode of delivery": "On Campus (Parkville)"
-        },
-        {
-            "Contact hours": "36 hours, comprising of one 1-hour lecture and one 2-hour workshop per week"
-        },
-        {
-            "Total time commitment": "170 hours"
-        },
-        {
-            "Teaching period": "22 July 2024 to 20 October 2024"
-        },
-        {
-            "Last self-enrol date": "2 August 2024"
-        },
-        {
-            "Census date": "2 September 2024"
-        },
-        {
-            "Last date to withdraw without fail": "20 September 2024"
-        },
-        {
-            "Assessment period ends": "15 November 2024"
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Chris Ewin"
+                },
+                {
+                    "Coordinators": "Leon Sterling and Geela Chee"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of one 1-hour lecture and one 2-hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
         }
     ],
     "contact information": [
-        "Chris Ewin",
-        "cewin@unimelb.edu.au"
+        {
+            "Semester 2": {
+                "name": "Chris Ewin",
+                "email": "cewin@unimelb.edu.au"
+            }
+        }
     ]
 }

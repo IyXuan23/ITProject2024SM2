@@ -51,7 +51,8 @@ def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq
         json.dump(data, json_file, indent=4)
 
 def scrapeOverview(url):
-    """function will scrape the subject code and name, overview content and indicative content, and return it as an array
+    """function will scrape the subject code and name, overview content and indicative content, and availability
+    and return it as an array
     note: there may be changes to this function down the line to add in ILOs"""
 
     #note: url is in the format:
@@ -97,8 +98,6 @@ def scrapeOverview(url):
 
             if (header and header.get_text(strip=True) == 'Availability'):
                 availableSem = content.find_all('div')
-
-                print(availableSem)
 
                 for div in availableSem:
                     availability.append(div.get_text(strip=True))
@@ -274,12 +273,34 @@ def scrapeAssessment(courseCode):
 def scrapeContactInfo(soup):
     """function will receive soup and scrape the contact info and return it in JSON format"""
 
-    contactDiv = soup.find('div', class_='course__body__inner__contact_details')
+    contactInfo = []
 
-    name = contactDiv.find('p').contents[0].strip()
-    email = contactDiv.find('a').get_text(strip=True)
+    container = soup.find('div', class_='layout-sidebar__side__inner')
+    sems = container.find_all('h5')
 
-    return [name, email]
+    for sem in sems:
+        currSem = sem.get_text(strip=True)
+        data = sem.find_next()
+        
+        nameContainer = data.find('p')
+
+        try:
+            name = nameContainer.contents[0].strip()
+
+        except TypeError:
+            name = nameContainer.find('span').get_text(strip=True)   
+
+        #for other formats, where the name is included in a span
+        email = data.find('a').get_text(strip=True)
+
+        jsonData = {currSem:{
+            'name': name,
+            'email': email
+        }}
+
+        contactInfo.append(jsonData)
+
+    return contactInfo
 
 def scrapeDateTime(courseCode):
     """function will scrape the date and times page, along with the relevant info in the given table, and return the info
@@ -293,24 +314,46 @@ def scrapeDateTime(courseCode):
     response = requests.get(assessmentURL)
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    dateTimes = []
+    availableSemsDateTimes = []
+    
 
     try:
-        table = soup.find('table', class_='contact_details')
-        rows = table.find_all('tr')
+        container = soup.find('div', class_="sidebar-tabs__panel")
+        ul = container.find('ul', class_='accordion')
 
-        for row in rows:
-            header = row.find('th').get_text(strip=True)
-            data = row.find('td').get_text(strip=True)
+        termList = ul.find_all('li')
 
-            dateTime = {
-                header:data
-            }
+        for lst in termList:
+            lstDivs = lst.find_all('div')
 
-            dateTimes.append(dateTime)
+            dateTimes = []
+
+            for div in lstDivs:
+                if div.has_attr('class') and 'accordion__title' in div['class']:
+                    termName = div.get_text(strip=True)
+
+                if div.has_attr('class') and 'accordion__hidden' in div['class']:
+                    table = div.find('table', class_='contact_details')
+                    rows = table.find_all('tr')
+
+                    for row in rows:
+                        header = row.find('th').get_text(strip=True)
+                        data = row.find('td').get_text(strip=True)
+
+                        dateTime = {
+                            header:data
+                        }
+
+                        dateTimes.append(dateTime)
+                    
+                    semDateTime = {
+                        termName:dateTimes
+                    }
+                    availableSemsDateTimes.append(semDateTime)        
+
 
         contactInfo = scrapeContactInfo(soup)
-        return dateTimes, contactInfo
+        return availableSemsDateTimes, contactInfo
 
 
     except AttributeError:
