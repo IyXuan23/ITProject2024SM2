@@ -28,8 +28,8 @@ def scrapeLinks(numOfPages, targetArray, url):
         print("scrapped page" + str(i))
         i += 1    
 
-def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed, 
-                assessments, dateTimes, contactInfo, availability):
+def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq, oneOfPreReq, altPreReq,
+                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability):
     """writes information to JSON file for the corresponding subbject. Naming convention is [subjectCode]_info.json"""
 
     data = {
@@ -39,6 +39,7 @@ def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq
         "aims": aims, 
         "indicative content": indicativeContent,
         "necessary pre-requisite": necessaryPreReq,
+        "alternate pre-requisite": altPreReq,
         "one of pre-requisite": oneOfPreReq,
         "corequisites": coReq,
         "non-allowed subjects": nonAllowed,
@@ -141,6 +142,54 @@ def parseTable(table):
 
     return courses        
 
+def parsePreReqOptions(soup):
+    """function will look through the soup, and look for whether there is the presence of option 1, 2, etc
+    If there is, it will return it in that format, else it will return None"""
+
+    preReqContainer = soup.find('div', id='prerequisites')
+
+    #look for the existence of options
+    allP = preReqContainer.find_all('p')
+    options = [p for p in allP if 'Option' in p.get_text(strip=True)]
+
+    preReq = []
+
+    if len(options) == 0:
+        return None, None
+    else:
+        for option in options:
+            
+            optionText = option.get_text(strip=True)
+            courses = []
+            txt = None
+
+            table = option.find_next()
+            table = table.find_next()
+            table = table.find('table')
+
+            if hasattr(table, 'name') and table.name == 'table':
+                courses = parseTable(table)
+
+                nextElem = table.find_next('p')
+                if hasattr(nextElem, 'get_text') and nextElem.get_text(strip=True) == 'AND':
+                    txt = nextElem.find_next('p').get_text(strip=True)
+            
+            else:
+                txt = option.find_next('p').get_text(strip=True)
+
+            data = {
+                'option': optionText,
+                'courses': courses,
+                'points': txt
+            }
+
+            preReq.append(data)
+        return preReq    
+
+        
+                    
+            
+
 def parsePreReq(courseCode):
     """function will look through the required pre-requisites of a subject, and return the necessary data accordingly.
     2 arrays will be returned, one with the subjects that are necessary [singlePreReq], and one where the student as to do (one of)
@@ -155,11 +204,14 @@ def parsePreReq(courseCode):
     response = requests.get(preReqURL)
     soup = BeautifulSoup(response.text, 'html.parser')
 
+    parsePreReqOptions(soup)
+
     try: 
         preReqContainer = soup.find('div', id='prerequisites')
 
         singlePreReq = []
         oneOfPreReq = []
+        altPreReq = []
 
         paragraphs = preReqContainer.find_all('p')
 
@@ -172,15 +224,31 @@ def parsePreReq(courseCode):
                 if table:
                     oneOfPreReq.extend(parseTable(table))
 
+            elif 'or' in text:
+                nextElem = para.find_next()
+
+                while nextElem and nextElem.name != 'h3':
+
+                    if nextElem.name == 'p':
+                        txt = nextElem.get_text(strip=True)
+                        if txt != '':
+                            altPreReq.append(txt)
+                    if nextElem.name == 'ul':
+                        liArray = nextElem.find_all('li')
+                        for li in liArray:
+                            altPreReq.append(li.get_text(strip=True))
+
+                    nextElem = nextElem.find_next()       
+
             else:
                 table = para.find('table')
                 if table:
-                    singlePreReq.extend(parseTable(table))       
+                    singlePreReq.extend(parseTable(table))        
 
     except AttributeError:
         print("Pre-Req Not Found")
 
-    return singlePreReq, oneOfPreReq
+    return singlePreReq, oneOfPreReq, altPreReq
 
 def scrapeCoReq(courseCode):
     """function for scraping the co-requisite requirement, result will either be a string 'None', or 
@@ -402,7 +470,7 @@ def scrapSubject(url):
 
     subjectName, subjectCode, aims, indicativeContent, availability = scrapeOverview(url)
 
-    necessaryPreReq, oneOfPreReq = parsePreReq(subjectCode)
+    necessaryPreReq, oneOfPreReq, altPreReq = parsePreReq(subjectCode)
     coReq = scrapeCoReq(subjectCode)
     nonAllowed = scrapeNonAllowed(subjectCode)
 
@@ -414,8 +482,8 @@ def scrapSubject(url):
     fileName = subjectCode + '_info.json'
     filePath = os.path.join('subjectInfo', fileName)
 
-    writeJSONFile(filePath, subjectName, subjectCode, aims, indicativeContent, necessaryPreReq, oneOfPreReq, coReq, nonAllowed,\
-                assessments, dateTimes, contactInfo, availability)
+    writeJSONFile(filePath, subjectName, subjectCode, aims, indicativeContent, necessaryPreReq, oneOfPreReq, altPreReq, \
+                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability)
 
     #https://handbook.unimelb.edu.au/subjects/comp30022/further-information
 

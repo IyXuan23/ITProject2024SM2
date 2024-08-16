@@ -21,6 +21,9 @@
         "Standard software development tools such as debuggers."
     ],
     "necessary pre-requisite": [],
+    "alternate pre-requisite": [
+        "Achieving at least 75% in a programming competency test."
+    ],
     "one of pre-requisite": [
         "COMP10001",
         "COMP10003"

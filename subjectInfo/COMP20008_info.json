@@ -1,0 +1,126 @@
+{
+    "subject name": "Elements of Data Processing",
+    "subject code": "COMP20008",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "aims": "Data processing is fundamental to computing and data science. This subject gives an introduction to various aspects of data processing including database management, representation and analysis of data, information retrieval, visualisation and reporting, and cloud computing. This subject introduces students to the area, with an emphasis on both tools and underlying foundations.",
+    "indicative content": "The subject's focus is on the data pipeline, and activities known colloquially as 'data wrangling'. Indicative topics covered include:",
+    "necessary pre-requisite": [],
+    "alternate pre-requisite": [
+        "Admission into one of the following:",
+        "GD-CS Graduate Diploma in Computer Science",
+        "MC-DATASC Master of Data Science",
+        "GD-DATASC Graduate Diploma in Data Science",
+        "MC-SOFTENG Master of Software Engineering",
+        "Students who have completed COMP10002 Foundations of Algorithms but neither COMP10001 Foundations of Computing nor COMP10003 Media Computation and who have knowledge of Python are invited to approach the subject coordinator to discuss their possible enrolment into the subject."
+    ],
+    "one of pre-requisite": [
+        "COMP10001",
+        "COMP10003",
+        "COMP90059"
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "INFO20002"
+    ],
+    "assessments": [
+        {
+            "description": "Project work during semester, applying data processing and analysis to datasets, requiring approximately 60 hours of work per student in total, due in approximately week 5 and week 11. Addresses Intended Learning Outcomes, (ILO) 1-4.. 60 hours (of work required). Hurdle requirement:. 20 / 50 in the continuous assessment",
+            "timing": "Due in approximately week 5 and week 11",
+            "percentage": "50%"
+        },
+        {
+            "description": "One 2 hour end-of-semester closed-book examination.  Addresses ILO 1 and 2.. 2 hours. Hurdle requirement:. 20 / 50 in the end-of-semester examination.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "James Bailey"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "42 hours,  comprising two 1-hour lectures and one 1.5-hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Chris Ewin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours, comprising two 1-hour lectures and one 2-hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "James Bailey"
+                ],
+                "email": [
+                    "baileyj@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Chris Ewin"
+                ],
+                "email": [
+                    "cewin@unimelb.edu.au"
+                ]
+            }
+        }
+    ]
+}

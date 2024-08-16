@@ -9,6 +9,7 @@
     "aims": "Solving problems in areas such as business, biology, physics, chemistry, engineering, humanities, and social sciences often requires manipulating, analysing, and visualising data through computer programming. This subject teaches students with little or no background in computer programming how to design and write basic programs using a high-level procedural programming language, and to solve simple problems using these skills.",
     "indicative content": "Fundamental programming constructs; fundamental data structures; abstraction; basic program structures; algorithmic problem solving, testing and debugging; introduction to the Web, multimedia and visualisation.",
     "necessary pre-requisite": [],
+    "alternate pre-requisite": [],
     "one of pre-requisite": [],
     "corequisites": "None",
     "non-allowed subjects": [

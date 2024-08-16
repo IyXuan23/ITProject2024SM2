@@ -9,6 +9,7 @@
     "necessary pre-requisite": [
         "INFO20003"
     ],
+    "alternate pre-requisite": [],
     "one of pre-requisite": [
         "INFO30005",
         "SWEN30006"
