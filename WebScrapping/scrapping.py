@@ -21,6 +21,6 @@ breadthURL = 'https://handbook.unimelb.edu.au/search?study_periods%5B%5D=all&are
 # scrapeLinks(NUM_OF_BREADTH_TRACK_PAGES, breadthtrackLinkArray, breadthURL)
 
 scrapSubject("https://handbook.unimelb.edu.au/subjects/comp30022")
-
-#scrapSubject("https://handbook.unimelb.edu.au/2024/subjects/comp10002")
 scrapSubject("https://handbook.unimelb.edu.au/2024/subjects/comp10001")
+
+scrapSubject("https://handbook.unimelb.edu.au/2024/subjects/comp10002")

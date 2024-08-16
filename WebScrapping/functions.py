@@ -76,11 +76,30 @@ def scrapeOverview(url):
 
     #scrapping aim and description
     try:
+        aims = None
+        indicativeContent = None
+
         container = soup.find('div', class_='course__overview-wrapper')
         descriptionArray = container.find_all('p')
 
-        aims = descriptionArray[1].text.strip()
-        indicativeContent = descriptionArray[4].text.strip()
+        for para in descriptionArray:
+            
+            if para.get_text(strip=True) == 'AIMS':
+                aims = para.find_next('p').get_text(strip=True)
+
+            elif para.get_text(strip=True) == 'INDICATIVE CONTENT':
+                
+                indicativeContent = para.find_next('p').get_text(strip=True)
+                if indicativeContent == '':
+                    ul = para.find_next('ul')
+                    if ul:
+                        lines = ul.find_all('li')
+                        indicativeContent = []
+                        for line in lines:
+                            indicativeContent.append(line.get_text(strip=True))
+
+            if indicativeContent and aims:
+                break
 
     except AttributeError:
         description = None
