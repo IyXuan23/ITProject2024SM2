@@ -305,11 +305,12 @@ def scrapeContactInfo(soup):
         name = []
         email = []
         
+        #scrape the names of the contact info
         try:
             for element in nameContainer.contents:
-
-                print(element)
-
+                
+                #check whether the element is a string, or the name is encoded within <span> or
+                #<p>, but also avoid emails which may also be encoded in <span> or <p>
                 if hasattr(element, 'name'):
                     if element.name == 'span' or element.name == 'p':
                         if not element.find('a'):
