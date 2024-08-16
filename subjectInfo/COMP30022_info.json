@@ -79,8 +79,12 @@
     "contact information": [
         {
             "Semester 2": {
-                "name": "Chris Ewin",
-                "email": "cewin@unimelb.edu.au"
+                "name": [
+                    "Chris Ewin"
+                ],
+                "email": [
+                    "cewin@unimelb.edu.au"
+                ]
             }
         }
     ]

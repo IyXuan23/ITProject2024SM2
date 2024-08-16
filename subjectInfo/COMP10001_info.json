@@ -135,20 +135,30 @@
     "contact information": [
         {
             "Summer Term": {
-                "name": "Ekaterina Vylomova",
-                "email": "ekaterina.vylomova@unimelb.edu.au"
+                "name": [
+                    "Ekaterina Vylomova"
+                ],
+                "email": [
+                    "ekaterina.vylomova@unimelb.edu.au"
+                ]
             }
         },
         {
             "Semester 1": {
-                "name": "comp10001-semester1@unimelb.edu.au",
-                "email": "comp10001-semester1@unimelb.edu.au"
+                "name": [],
+                "email": [
+                    "comp10001-semester1@unimelb.edu.au"
+                ]
             }
         },
         {
             "Semester 2": {
-                "name": "Shaanan Cohney",
-                "email": "comp10001-semester2@unimelb.edu.au"
+                "name": [
+                    "Shaanan Cohney"
+                ],
+                "email": [
+                    "comp10001-semester2@unimelb.edu.au"
+                ]
             }
         }
     ]

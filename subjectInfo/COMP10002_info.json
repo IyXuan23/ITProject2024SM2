@@ -124,14 +124,26 @@
     "contact information": [
         {
             "Semester 1": {
-                "name": "Jianzhong Qi",
-                "email": "jianzhong.qi@unimelb.edu.au"
+                "name": [
+                    "Jianzhong Qi",
+                    "Shaanan Cohney"
+                ],
+                "email": [
+                    "jianzhong.qi@unimelb.edu.au",
+                    "cohneys@unimelb.edu.au"
+                ]
             }
         },
         {
             "Semester 2": {
-                "name": "Alistair Moffat",
-                "email": "ammoffat@unimelb.edu.au"
+                "name": [
+                    "Alistair Moffat",
+                    "Artem Polyvyanyy"
+                ],
+                "email": [
+                    "ammoffat@unimelb.edu.au",
+                    "artem.polyvyanyy@unimelb.edu.au"
+                ]
             }
         }
     ]

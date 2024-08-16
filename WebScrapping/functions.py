@@ -196,7 +196,7 @@ def scrapeCoReq(courseCode):
         coReqHeader = soup.find('h3', text='Corequisites')
         coReqPara = coReqHeader.find_next('p')
 
-        if coReqPara.text.strip().lower() == 'none':
+        if coReqPara.text.strip().lower() == 'none' or coReqPara.text.strip() == '':
             return 'None'
         else:
             return 'tempValue'
@@ -302,15 +302,31 @@ def scrapeContactInfo(soup):
         data = sem.find_next()
         
         nameContainer = data.find('p')
-
+        name = []
+        email = []
+        
         try:
-            name = nameContainer.contents[0].strip()
+            for element in nameContainer.contents:
+
+                print(element)
+
+                if hasattr(element, 'name'):
+                    if element.name == 'span' or element.name == 'p':
+                        if not element.find('a'):
+                            name.append(element.get_text(strip=True))
+                if isinstance(element, str):
+                    name.append(element.strip())
 
         except TypeError:
-            name = nameContainer.find('span').get_text(strip=True)   
+            print("Contact Info Not Found")
+        
+        try:
+            emailContainer = data.find_all('a')
+            for eCon in emailContainer:
+                email.append(eCon.get_text(strip=True))
+        except TypeError:
+            print("Email Not Found")        
 
-        #for other formats, where the name is included in a span
-        email = data.find('a').get_text(strip=True)
 
         jsonData = {currSem:{
             'name': name,
