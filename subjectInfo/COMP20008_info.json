@@ -18,13 +18,13 @@
                     "COMP90059"
                 ]
             ],
-            "alternate pre-requisite": []
+            "additional pre-requisite": []
         },
         {
             "option": "Option 2",
             "necessary pre-requisite": [],
             "one of pre-requisite": [],
-            "alternate pre-requisite": [
+            "additional pre-requisite": [
                 "Admission into one of the following:",
                 "GD-CS Graduate Diploma in Computer Science",
                 "MC-DATASC Master of Data Science",

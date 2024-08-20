@@ -1,0 +1,99 @@
+{
+    "subject name": "Machine Learning",
+    "subject code": "COMP30027",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "aims": "Machine Learning, a core discipline in data science, is prevalent across Science, Technology, the Social Sciences, and Medicine; it drives many of the products we use daily such as banner ad selection, email spam filtering, and social media newsfeeds. Machine Learning is concerned with making accurate, computationally efficient, interpretable and robust inferences from data. Originally borne out of Artificial Intelligence, Machine Learning has historically been the first to explore more complex prediction models and to emphasise computation, while in the past two decades Machine Learning has grown closer to Statistics gaining firm theoretical footing.",
+    "indicative content": null,
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "COMP10002",
+                    "COMP20008"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Prerequisites"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-SOFTENG Master of Software Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ACTL30008",
+        "COMP90049"
+    ],
+    "assessments": [
+        {
+            "description": "Group or individual project 1 \u2013 Programming project (ILO2,5).  30 hours (of work required per student). 30 hours (of work required)",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group or individual project 2 \u2013 Prediction competition (ILO1-4).  \r\n30 hours (of work required per student). 30 hours (of work required)",
+            "timing": "From Week 9 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final closed-book examination (ILO1-5). 2 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Kris Ehinger"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours, comprising two 1-hour lectures and one 2-hour workshop (1-hour tutorial followed by 1-hour computer lab) per week. Some computer lab classes will require you to bring your own device."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Kris Ehinger"
+                ],
+                "email": [
+                    "kris.ehinger@unimelb.edu.au"
+                ]
+            }
+        }
+    ]
+}

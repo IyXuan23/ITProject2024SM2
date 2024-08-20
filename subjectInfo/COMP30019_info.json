@@ -1,0 +1,100 @@
+{
+    "subject name": "Graphics and Interaction",
+    "subject code": "COMP30019",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "aims": "This subject introduces the technologies of computer graphics and human-computer interaction along with the biological, psychological and social aspects of human perception and action that inform the application of those technologies. The emphasis is on 2D and 3D computer graphics and the geometric modelling techniques used for representing and interacting with objects in dynamic scenes. Techniques considered include transformation geometry, illumination models and the real-time rendering (shading) models. The subject is centred on developing Apps for tablet computers based on natural user interfaces (NUIs), a term used by developers of human-machine interfaces that effectively become invisible to their users through successive learned interactions. Technologies likely to be considered are: virtual reality, computer games, augmented reality, tele-presence, or other modalities such as interaction through the sense of touch, audio or image processing and analysis. This subject supports course-level objectives by allowing students to develop analytical skills to understand the complexity of developing real-world computer graphics and interaction applications.",
+    "indicative content": "Topics are drawn from computational geometry and human-computer interaction including:",
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP20003",
+                    "COMP20007",
+                    "COMP90038"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "MC-IT150 Master of Information Technology",
+                "GC-CS Graduate Certificate in Computer Science"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "433-380 Graphics and Computation",
+        "433-371 Interactive System Design"
+    ],
+    "assessments": [
+        {
+            "description": "Project 1 (30%) - Due week 7. ILOs 1 and 3 are addressed.. 30 hours (of work required)",
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "description": "Project 2 (60%) - Due first week of examination.  ILOs 1, 2, 4 and 5 are addressed.. 60 hours (of work required)",
+            "timing": "Due first week of examination",
+            "percentage": "60%"
+        },
+        {
+            "description": "Weekly quizes (10%).  ILOs 1, 2, 3, 4 and 5 are addressed.. 20 minutes (each)",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Jorge Goncalves"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours, comprising of one 2-hour lecture and one 2-hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "email:"
+                ],
+                "email": [
+                    "jorge.goncalves@unimelb.edu.au"
+                ]
+            }
+        }
+    ]
+}

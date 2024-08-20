@@ -30,13 +30,13 @@
                     "COMP10003"
                 ]
             ],
-            "alternate pre-requisite": []
+            "additional pre-requisite": []
         },
         {
             "option": "Option 2",
             "necessary pre-requisite": [],
             "one of pre-requisite": [],
-            "alternate pre-requisite": [
+            "additional pre-requisite": [
                 "Achieving at least 75% in a programming competency test."
             ]
         }

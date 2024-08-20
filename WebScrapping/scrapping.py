@@ -32,6 +32,15 @@ breadthURL = 'https://handbook.unimelb.edu.au/search?study_periods%5B%5D=all&are
 #scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp20005')
 #scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp20003')
 
+#TESTING: NEEDS OVERVIEW ADJUSTMENT
+#scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30013')
+#scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30020')
+#scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30023')
+#scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30024')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30019')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30027')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30026')
+
 
 
 

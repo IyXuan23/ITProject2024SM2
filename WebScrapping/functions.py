@@ -366,7 +366,7 @@ def parseORoptions(soup):
             'option': 'Option ' + str(optionNum),
             'necessary pre-requisite': necessaryPreReq,
             'one of pre-requisite': oneOfPreReq,
-            'alternate pre-requisite': altPreReq
+            'additional pre-requisite': altPreReq
         }
         optionList.append(optionData)
         optionNum += 1

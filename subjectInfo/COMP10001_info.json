@@ -13,7 +13,7 @@
             "option": "Option 1",
             "necessary pre-requisite": [],
             "one of pre-requisite": [],
-            "alternate pre-requisite": [
+            "additional pre-requisite": [
                 "None"
             ]
         }
