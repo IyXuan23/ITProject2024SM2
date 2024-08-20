@@ -29,7 +29,7 @@ def scrapeLinks(numOfPages, targetArray, url):
         i += 1    
 
 def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq, oneOfPreReq, altPreReq,
-                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability):
+                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability, preReqOptions):
     """writes information to JSON file for the corresponding subbject. Naming convention is [subjectCode]_info.json"""
 
     data = {
@@ -41,6 +41,7 @@ def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq
         "necessary pre-requisite": necessaryPreReq,
         "alternate pre-requisite": altPreReq,
         "one of pre-requisite": oneOfPreReq,
+        "pre-requisite options": preReqOptions,
         "corequisites": coReq,
         "non-allowed subjects": nonAllowed,
         "assessments": assessments,
@@ -155,7 +156,7 @@ def parsePreReqOptions(soup):
     preReq = []
 
     if len(options) == 0:
-        return None, None
+        return None
     else:
         for option in options:
             
@@ -204,7 +205,10 @@ def parsePreReq(courseCode):
     response = requests.get(preReqURL)
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    parsePreReqOptions(soup)
+    preReqOptions = parsePreReqOptions(soup)
+
+    if preReqOptions:
+        return [], [], [], preReqOptions
 
     try: 
         preReqContainer = soup.find('div', id='prerequisites')
@@ -248,7 +252,7 @@ def parsePreReq(courseCode):
     except AttributeError:
         print("Pre-Req Not Found")
 
-    return singlePreReq, oneOfPreReq, altPreReq
+    return singlePreReq, oneOfPreReq, altPreReq, []
 
 def scrapeCoReq(courseCode):
     """function for scraping the co-requisite requirement, result will either be a string 'None', or 
@@ -470,7 +474,7 @@ def scrapSubject(url):
 
     subjectName, subjectCode, aims, indicativeContent, availability = scrapeOverview(url)
 
-    necessaryPreReq, oneOfPreReq, altPreReq = parsePreReq(subjectCode)
+    necessaryPreReq, oneOfPreReq, altPreReq, preReqOptions = parsePreReq(subjectCode)
     coReq = scrapeCoReq(subjectCode)
     nonAllowed = scrapeNonAllowed(subjectCode)
 
@@ -483,7 +487,7 @@ def scrapSubject(url):
     filePath = os.path.join('subjectInfo', fileName)
 
     writeJSONFile(filePath, subjectName, subjectCode, aims, indicativeContent, necessaryPreReq, oneOfPreReq, altPreReq, \
-                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability)
+                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability, preReqOptions)
 
     #https://handbook.unimelb.edu.au/subjects/comp30022/further-information
 

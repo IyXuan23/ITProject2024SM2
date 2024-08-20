@@ -21,6 +21,7 @@
         "COMP10003",
         "COMP90059"
     ],
+    "pre-requisite options": [],
     "corequisites": "None",
     "non-allowed subjects": [
         "INFO20002"

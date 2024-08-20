@@ -11,6 +11,7 @@
     "necessary pre-requisite": [],
     "alternate pre-requisite": [],
     "one of pre-requisite": [],
+    "pre-requisite options": [],
     "corequisites": "None",
     "non-allowed subjects": [
         "Credit cannot be given for COMP10001 if students have already obtained credit for COMP20005 Engineering Computation (Intro. to Numerical Computation in C as of 2022).",

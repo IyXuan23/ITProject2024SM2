@@ -14,6 +14,7 @@
         "INFO30005",
         "SWEN30006"
     ],
+    "pre-requisite options": [],
     "corequisites": "None",
     "non-allowed subjects": [
         "SWEN30007",

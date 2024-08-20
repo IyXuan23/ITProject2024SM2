@@ -7,23 +7,30 @@
     "aims": "Programmers can choose between several representations of data. These will have different strengths and weaknesses, and each will require its own set of algorithms. This subject will cover some of the most frequently used data structures and their associated algorithms. The emphasis will be on justification of algorithm correctness, on analysis of algorithm performance, and on choosing the right data structure for the problem at hand.",
     "indicative content": "Sample projects are: approximate string matching for a translation memory, involving sorting and comparison of dynamic programming, branch-and-bound search and brute-force search using a variety of data structures (e.g. arrays, hash tables, tries); speech synthesis based on a pronouncing dictionary and pre-prepared grapheme-phoneme alignment data, based on parsing of the alignment data, hashing of variable length n-grams, and a variety of models for predicting the phoneme(s) associated with a given phoneme sequence (e.g. a simple unigram baseline or a hidden Markov model).",
     "necessary pre-requisite": [],
-    "alternate pre-requisite": [
-        "AND",
-        "A minimum of 25 credit points ofUniversity-level Mathematics subjects",
-        "Option 2",
-        "All ofCodeNameTeaching periodCredit PointsECON10005Quantitative Methods 1Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5COMP10002Foundations of AlgorithmsSemester 1 (On Campus - Parkville)Semester 2 (On Campus - Parkville)12.5",
-        "AND",
-        "A minimum of 12.5 credit points ofUniversity-level Mathematics subjects",
-        "Please note, this rule is exclusive of MAST10012",
-        "Option 3",
-        "Admission into the MC-SOFTENG Master of Software Engineering",
-        "AND",
-        "A minimum of 12.5 credit points ofUniversity-level Mathematics subjects",
-        "Please note, this rule is exclusive of MAST10012",
-        "Option 3",
-        "Admission into the MC-SOFTENG Master of Software Engineering"
-    ],
+    "alternate pre-requisite": [],
     "one of pre-requisite": [],
+    "pre-requisite options": [
+        {
+            "option": "Option 1",
+            "courses": [
+                "COMP10002"
+            ],
+            "points": "A minimum of 25 credit points ofUniversity-level Mathematics subjects"
+        },
+        {
+            "option": "Option 2",
+            "courses": [
+                "ECON10005",
+                "COMP10002"
+            ],
+            "points": "A minimum of 12.5 credit points ofUniversity-level Mathematics subjects"
+        },
+        {
+            "option": "Option 3",
+            "courses": [],
+            "points": "Admission into the MC-SOFTENG Master of Software Engineering"
+        }
+    ],
     "corequisites": "None",
     "non-allowed subjects": [
         "COMP20003",
