@@ -20,15 +20,27 @@
         "Asymptotic complexity",
         "Standard software development tools such as debuggers."
     ],
-    "necessary pre-requisite": [],
-    "alternate pre-requisite": [
-        "Achieving at least 75% in a programming competency test."
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP10001",
+                    "COMP10003"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Achieving at least 75% in a programming competency test."
+            ]
+        }
     ],
-    "one of pre-requisite": [
-        "COMP10001",
-        "COMP10003"
-    ],
-    "pre-requisite options": [],
     "corequisites": "None",
     "non-allowed subjects": [
         "COMP20005"

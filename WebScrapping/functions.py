@@ -28,8 +28,8 @@ def scrapeLinks(numOfPages, targetArray, url):
         print("scrapped page" + str(i))
         i += 1    
 
-def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq, oneOfPreReq, altPreReq,
-                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability, preReqOptions):
+def writeJSONFile(filePath, name, code, aims, indicativeContent, optionsPreReq,
+                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability):
     """writes information to JSON file for the corresponding subbject. Naming convention is [subjectCode]_info.json"""
 
     data = {
@@ -38,10 +38,7 @@ def writeJSONFile(filePath, name, code, aims, indicativeContent, necessaryPreReq
         "subject availability": availability,
         "aims": aims, 
         "indicative content": indicativeContent,
-        "necessary pre-requisite": necessaryPreReq,
-        "alternate pre-requisite": altPreReq,
-        "one of pre-requisite": oneOfPreReq,
-        "pre-requisite options": preReqOptions,
+        "pre-requisites": optionsPreReq,
         "corequisites": coReq,
         "non-allowed subjects": nonAllowed,
         "assessments": assessments,
@@ -187,9 +184,196 @@ def parsePreReqOptions(soup):
             preReq.append(data)
         return preReq    
 
-        
-                    
+
+def formatOptions(courseCode):
+    """function will look through the soup, and look for whether there is the presence of option 1, 2, etc
+    If there is, it will return it in that format, else it will call the other parsePreReq function"""
+
+    courseCode = courseCode.lower()
+    preReqURL = 'https://handbook.unimelb.edu.au/subjects/' + courseCode + '/eligibility-and-requirements'
+
+    response = requests.get(preReqURL)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    preReqContainer = soup.find('div', id='prerequisites')
+
+    #look for the existence of options
+    allP = preReqContainer.find_all('p')
+    options = [p for p in allP if 'Option' in p.get_text(strip=True)]
+    optionList = []
+
+
+    #there is no options label, we must then use the searching method
+    if len(options) == 0:
+        return parseORoptions(soup)
+    
+    #scrape option by option
+    else:
+        for option in options:
+            optionText = option.get_text(strip=True)
             
+            targetWords = ['all of', 'one of', 'or', 'and', '']
+            necessaryPreReq = []
+            oneOfPreReq = []
+            altPreReq = []    
+        
+            nextElem = option.find_next()
+
+            oneOfIndicator = False
+            andIndicator = False
+
+            print('OPTION START')
+
+            while ((nextElem not in options) and (hasattr(nextElem, 'get_text') 
+                                            and nextElem.get_text() != 'Corequisites')):
+
+                #if it is an item that is not AND, ALL OF, OR blank para
+                if ((hasattr(nextElem, 'get_text') and nextElem.get_text(strip=True).lower() not in targetWords) 
+                    or (not hasattr(nextElem, 'get_text'))):
+
+                    #if its a table, get the info
+                    if (hasattr(nextElem, 'name') and nextElem.name == 'table'):
+                        courses = parseTable(nextElem)
+
+                        #either parse it as a oneOf or necessary preReq, depending on what we saw before
+                        if (oneOfIndicator):
+                            oneOfPreReq.append(courses)
+                            #since oneOf / AND oneOf are equivalent in human reading
+                            oneOfIndicator = False
+                            andIndicator = False
+                        else:
+                            necessaryPreReq.append(courses)
+                    
+                    #if its text
+                    elif (hasattr(nextElem, 'name') and nextElem.name == 'p' and not nextElem.find('table')):
+                        
+                        txt = nextElem.get_text(strip=True)
+                        
+                        if (andIndicator):
+                            necessaryPreReq.append(txt)
+                            andIndicator = False 
+                        else:
+                            altPreReq.append(txt)
+
+                    #if its a list
+                    elif (hasattr(nextElem, 'name') and nextElem.name == 'ul'):
+                        
+                        liArray = nextElem.find_all('li')
+                        for li in liArray:
+                            altPreReq.append(li.get_text(strip=True))
+                
+                #check for 'One of' or 'All of', if neither are there, assume that it is 'All of'
+                if hasattr(nextElem, 'get_text'):
+                    if 'all of' in nextElem.get_text().lower():
+                        oneOfIndicator = False
+                    if 'one of' in nextElem.get_text().lower():
+                        oneOfIndicator = True
+                    if 'and' in nextElem.get_text().lower():
+                        andIndicator = True
+
+                nextElem = nextElem.find_next()
+
+            optionData = {
+                'option': optionText,
+                'necessary pre-requisite': necessaryPreReq,
+                'one of pre-requisite': oneOfPreReq,
+                'alternate pre-requisite': altPreReq
+            }
+            optionList.append(optionData)
+            print(optionData)
+    return optionList
+
+def parseORoptions(soup):
+
+    print('parsing using OR')
+
+    preReqContainer = soup.find('div', id='prerequisites')
+
+    #look for OR keywords, if there are, use them as options
+    allOR = preReqContainer.find_all('p')
+    options = [p for p in allOR if 'OR' in p.get_text(strip=True)]
+
+    #We add an initial item to start, have the loop run as many times as needed
+    options.insert(0, preReqContainer.find_next())
+
+    optionList = []
+    optionNum = 1
+
+    for option in options:
+        
+        targetWords = ['all of', 'one of', 'or', 'and', '']
+        necessaryPreReq = []
+        oneOfPreReq = []
+        altPreReq = []    
+    
+        nextElem = option.find_next()
+
+        oneOfIndicator = False
+        andIndicator = False
+
+        print('OPTION START')
+
+        while ((nextElem not in options) and (hasattr(nextElem, 'get_text') 
+                                        and nextElem.get_text() != 'Corequisites')):
+
+            #if it is an item that is not AND, ALL OF, OR blank para
+            if ((hasattr(nextElem, 'get_text') and nextElem.get_text(strip=True).lower() not in targetWords) 
+                or (not hasattr(nextElem, 'get_text'))):
+
+                #if its a table, get the info
+                if (hasattr(nextElem, 'name') and nextElem.name == 'table'):
+                    courses = parseTable(nextElem)
+
+                    #either parse it as a oneOf or necessary preReq, depending on what we saw before
+                    if (oneOfIndicator):
+                        oneOfPreReq.append(courses)
+                        #since oneOf / AND oneOf are equivalent in human reading
+                        oneOfIndicator = False
+                        andIndicator = False
+                    else:
+                        necessaryPreReq.append(courses)
+                
+                #if its text
+                elif (hasattr(nextElem, 'name') and nextElem.name == 'p' and not nextElem.find('table')):
+                    
+                    txt = nextElem.get_text(strip=True)
+                    
+                    if (andIndicator):
+                        necessaryPreReq.append(txt)
+                        andIndicator = False 
+                    else:
+                        altPreReq.append(txt)
+
+                #if its a list
+                elif (hasattr(nextElem, 'name') and nextElem.name == 'ul'):
+                    
+                    liArray = nextElem.find_all('li')
+                    for li in liArray:
+                        altPreReq.append(li.get_text(strip=True))
+            
+            #check for 'One of' or 'All of', if neither are there, assume that it is 'All of'
+            if hasattr(nextElem, 'get_text'):
+                if 'all of' in nextElem.get_text().lower():
+                    oneOfIndicator = False
+                if 'one of' in nextElem.get_text().lower():
+                    oneOfIndicator = True
+                if 'and' in nextElem.get_text().lower():
+                    andIndicator = True
+
+            nextElem = nextElem.find_next()
+
+        optionData = {
+            'option': 'Option ' + str(optionNum),
+            'necessary pre-requisite': necessaryPreReq,
+            'one of pre-requisite': oneOfPreReq,
+            'alternate pre-requisite': altPreReq
+        }
+        optionList.append(optionData)
+        optionNum += 1
+        print(optionData)
+
+    return optionList
+
 
 def parsePreReq(courseCode):
     """function will look through the required pre-requisites of a subject, and return the necessary data accordingly.
@@ -204,11 +388,8 @@ def parsePreReq(courseCode):
 
     response = requests.get(preReqURL)
     soup = BeautifulSoup(response.text, 'html.parser')
-
-    preReqOptions = parsePreReqOptions(soup)
-
-    if preReqOptions:
-        return [], [], [], preReqOptions
+    
+    #first look for 'OR' statements, and use these as to replace the options
 
     try: 
         preReqContainer = soup.find('div', id='prerequisites')
@@ -474,7 +655,6 @@ def scrapSubject(url):
 
     subjectName, subjectCode, aims, indicativeContent, availability = scrapeOverview(url)
 
-    necessaryPreReq, oneOfPreReq, altPreReq, preReqOptions = parsePreReq(subjectCode)
     coReq = scrapeCoReq(subjectCode)
     nonAllowed = scrapeNonAllowed(subjectCode)
 
@@ -482,12 +662,14 @@ def scrapSubject(url):
 
     dateTimes, contactInfo = scrapeDateTime(subjectCode)
 
+    optionsPreReq = formatOptions(subjectCode)
+
     #writing to JSON file
     fileName = subjectCode + '_info.json'
     filePath = os.path.join('subjectInfo', fileName)
 
-    writeJSONFile(filePath, subjectName, subjectCode, aims, indicativeContent, necessaryPreReq, oneOfPreReq, altPreReq, \
-                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability, preReqOptions)
+    writeJSONFile(filePath, subjectName, subjectCode, aims, indicativeContent, optionsPreReq, \
+                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability)
 
     #https://handbook.unimelb.edu.au/subjects/comp30022/further-information
 

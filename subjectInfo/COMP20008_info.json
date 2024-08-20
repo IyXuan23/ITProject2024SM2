@@ -7,21 +7,33 @@
     ],
     "aims": "Data processing is fundamental to computing and data science. This subject gives an introduction to various aspects of data processing including database management, representation and analysis of data, information retrieval, visualisation and reporting, and cloud computing. This subject introduces students to the area, with an emphasis on both tools and underlying foundations.",
     "indicative content": "The subject's focus is on the data pipeline, and activities known colloquially as 'data wrangling'. Indicative topics covered include:",
-    "necessary pre-requisite": [],
-    "alternate pre-requisite": [
-        "Admission into one of the following:",
-        "GD-CS Graduate Diploma in Computer Science",
-        "MC-DATASC Master of Data Science",
-        "GD-DATASC Graduate Diploma in Data Science",
-        "MC-SOFTENG Master of Software Engineering",
-        "Students who have completed COMP10002 Foundations of Algorithms but neither COMP10001 Foundations of Computing nor COMP10003 Media Computation and who have knowledge of Python are invited to approach the subject coordinator to discuss their possible enrolment into the subject."
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP10001",
+                    "COMP10003",
+                    "COMP90059"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "GD-CS Graduate Diploma in Computer Science",
+                "MC-DATASC Master of Data Science",
+                "GD-DATASC Graduate Diploma in Data Science",
+                "MC-SOFTENG Master of Software Engineering",
+                "Students who have completed COMP10002 Foundations of Algorithms but neither COMP10001 Foundations of Computing nor COMP10003 Media Computation and who have knowledge of Python are invited to approach the subject coordinator to discuss their possible enrolment into the subject."
+            ]
+        }
     ],
-    "one of pre-requisite": [
-        "COMP10001",
-        "COMP10003",
-        "COMP90059"
-    ],
-    "pre-requisite options": [],
     "corequisites": "None",
     "non-allowed subjects": [
         "INFO20002"

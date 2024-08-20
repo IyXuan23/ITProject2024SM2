@@ -6,10 +6,14 @@
     ],
     "aims": "Computing programming can be used to solve problems in many diverse areas, such as business, science, humanities, and design. Many tasks in these areas require manipulating, analysing, and visualising data and media using computer programs. This subject teaches students with little or no background in computer programming how to design and write basic programs using a high-level procedural programming language, and to solve simple problems using these skills, with a specific focus on media computation, such as manipulating images and dynamic web content.",
     "indicative content": "Fundamental programming constructs; fundamental data structures; abstraction; basic program structures; algorithmic problem solving; introduction to the media computation and introduction to web development, algorithms for programming visual design, programming user interfaces, iterative design.",
-    "necessary pre-requisite": [],
-    "alternate pre-requisite": [],
-    "one of pre-requisite": [],
-    "pre-requisite options": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        }
+    ],
     "corequisites": "None",
     "non-allowed subjects": [],
     "assessments": [

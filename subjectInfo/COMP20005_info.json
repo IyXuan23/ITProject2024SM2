@@ -1,0 +1,153 @@
+{
+    "subject name": "Intro. to Numerical Computation in C",
+    "subject code": "COMP20005",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "aims": "Many engineering disciplines make use of numerical solutions to computational problems. In this subject students will be introduced to the key elements of programming in a high level language, and will then use that skill to explore methods for solving numerical problems in a range of discipline areas.",
+    "indicative content": "On completion of this subject the student is expected to:",
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST10005",
+                    "MAST10006",
+                    "MAST10009",
+                    "MAST10021"
+                ],
+                [
+                    "MAST10007",
+                    "MAST10008",
+                    "MAST10022"
+                ]
+            ],
+            "alternate pre-requisite": [
+                "Note: Any of the above subjects may also be taken concurrently"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-ENG Master of Engineering",
+                "MC-ELECENG Master of Electrical Engineering",
+                "MC-SPATENG Master of Spatial Engineering",
+                "MC-MTRNENG Master of Mechatronics Engineering",
+                "MC-DINFENG Master of Digital Infrastructure Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "COMP10002",
+        "ENGR20005"
+    ],
+    "assessments": [
+        {
+            "description": "One Quiz. \r\n\r\nILOs 1, 2, 3, 4, 5 and 6 are addressed.. 30 minutes. Hurdle requirement:. Students are required to obtain 16/40 in the two programming assignments, and 24/60 on the quiz and exam when marks are combined.",
+            "timing": "Week 5 or Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Two Programming Assignments (40% combined). 35~40 hours each. \r\n\r\nILOs 1, 2 and 3 are addressed.. 35-40 hours (of work required). Hurdle requirement:. Students are required to obtain 16/40 in the two programming assignments, and 24/60 on the quiz and exam when marks are combined.",
+            "timing": "Due Week 8 and Week 11",
+            "percentage": "40%"
+        },
+        {
+            "description": "Two-hour programming exam\r\n(50%, examination period). \r\n\r\nILOs 1, 2, 3, 4, 5 and 6 are addressed.. 2 hours. Hurdle requirement:. Students are required to obtain 16/40 in the two programming assignments, and 24/60 on the quiz and exam when marks are combined.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Alistair Moffat"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "52 hours, comprising approximately thirty hours of lecture video content; and eleven two-hour workshop classes, one hour of which is tutorial style activity, and the second hour of which is individual work, with the tutor available to assist. Weekly opt-in in-person lecturer consultation opportunities will be provided to support students who wish to attend them."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Jianzhong Qi"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "52 hours, comprising approximately thirty hours of lecture video content; and eleven two-hour workshop classes, one hour of which is tutorial style activity, and the second hour of which is individual work, with the tutor available to assist. Weekly opt-in in-person lecturer consultation opportunities will be provided to support students who wish to attend them."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Professor Alistair Moffat"
+                ],
+                "email": [
+                    "ammoffat@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Dr Jianzhong Qi"
+                ],
+                "email": [
+                    "jianzhong.qi@unimelb.edu.au"
+                ]
+            }
+        }
+    ]
+}
