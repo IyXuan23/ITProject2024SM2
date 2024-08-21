@@ -5,8 +5,22 @@
         "Semester 1",
         "Semester 2"
     ],
-    "aims": "Data processing is fundamental to computing and data science. This subject gives an introduction to various aspects of data processing including database management, representation and analysis of data, information retrieval, visualisation and reporting, and cloud computing. This subject introduces students to the area, with an emphasis on both tools and underlying foundations.",
-    "indicative content": "The subject's focus is on the data pipeline, and activities known colloquially as 'data wrangling'. Indicative topics covered include:",
+    "overview": [],
+    "aims": [
+        "Data processing is fundamental to computing and data science. This subject gives an introduction to various aspects of data processing including database management, representation and analysis of data, information retrieval, visualisation and reporting, and cloud computing. This subject introduces students to the area, with an emphasis on both tools and underlying foundations.",
+        ""
+    ],
+    "indicative content": [
+        "The subject's focus is on the data pipeline, and activities known colloquially as 'data wrangling'. Indicative topics covered include:",
+        "Capturing data (data ingress)",
+        "Data representation and storage",
+        "Cleaning, normalisation and filling in missing data (imputation)",
+        "Combing multiple sources of data (data integration)",
+        "Query languages and processing",
+        "Scripting to support the data pipeline",
+        "Distributing a database over multiple nodes (sharding), cloud computing file systems",
+        "Visualisation and presentation"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

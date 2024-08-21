@@ -4,8 +4,17 @@
     "subject availability": [
         "Semester 1"
     ],
-    "aims": "Artificial intelligence is the quest to create intelligent agents that can complete complex tasks which are at present only achievable by humans. This broad field covers logic, probability, perception, reasoning, learning and action; and everything from Mars Rover robotic explorers to the Watson Jeopardy playing program. You will explore some of the vast area of artificial intelligence. Topics covered include: searching, problem solving, reasoning, knowledge representation and machine learning. Topics may also include some of the following: game playing, expert systems, pattern recognition, machine vision, natural language, robotics and agent-based systems.",
-    "indicative content": "On completion of this subject the student is expected to:",
+    "overview": [],
+    "aims": [
+        "Artificial intelligence is the quest to create intelligent agents that can complete complex tasks which are at present only achievable by humans. This broad field covers logic, probability, perception, reasoning, learning and action; and everything from Mars Rover robotic explorers to the Watson Jeopardy playing program. You will explore some of the vast area of artificial intelligence. Topics covered include: searching, problem solving, reasoning, knowledge representation and machine learning. Topics may also include some of the following: game playing, expert systems, pattern recognition, machine vision, natural language, robotics and agent-based systems.",
+        ""
+    ],
+    "indicative content": [
+        "Agents and search",
+        "Probabilistic reasoning",
+        "Reinforcement Learning",
+        "Pattern recognition for robotics."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

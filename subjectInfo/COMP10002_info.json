@@ -5,7 +5,10 @@
         "Semester 1",
         "Semester 2"
     ],
-    "aims": "In many projects, it is important for programmers to have fine control over low-level details of program execution, and to be able to assess the cost of a design decision on likely overall program performance. This subject introduces students to a system programming language that gives programmers this kind of control, explores a range of standard data structures and algorithmic techniques, and shows how to apply them to frequently encountered problems.",
+    "overview": [],
+    "aims": [
+        "In many projects, it is important for programmers to have fine control over low-level details of program execution, and to be able to assess the cost of a design decision on likely overall program performance. This subject introduces students to a system programming language that gives programmers this kind of control, explores a range of standard data structures and algorithmic techniques, and shows how to apply them to frequently encountered problems."
+    ],
     "indicative content": [
         "Introduction to computer organization",
         "Machine level representation of data",
@@ -18,7 +21,8 @@
         "Basic sorting algorithms (such as selection sort, insertion sort, quicksort)",
         "Basic data structures (such as binary search trees and hash tables)",
         "Asymptotic complexity",
-        "Standard software development tools such as debuggers."
+        "Standard software development tools such as debuggers.",
+        ""
     ],
     "pre-requisites": [
         {

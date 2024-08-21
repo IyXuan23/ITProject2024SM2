@@ -4,8 +4,14 @@
     "subject availability": [
         "Semester 1"
     ],
-    "aims": "Machine Learning, a core discipline in data science, is prevalent across Science, Technology, the Social Sciences, and Medicine; it drives many of the products we use daily such as banner ad selection, email spam filtering, and social media newsfeeds. Machine Learning is concerned with making accurate, computationally efficient, interpretable and robust inferences from data. Originally borne out of Artificial Intelligence, Machine Learning has historically been the first to explore more complex prediction models and to emphasise computation, while in the past two decades Machine Learning has grown closer to Statistics gaining firm theoretical footing.",
-    "indicative content": null,
+    "overview": [],
+    "aims": [
+        "Machine Learning, a core discipline in data science, is prevalent across Science, Technology, the Social Sciences, and Medicine; it drives many of the products we use daily such as banner ad selection, email spam filtering, and social media newsfeeds. Machine Learning is concerned with making accurate, computationally efficient, interpretable and robust inferences from data. Originally borne out of Artificial Intelligence, Machine Learning has historically been the first to explore more complex prediction models and to emphasise computation, while in the past two decades Machine Learning has grown closer to Statistics gaining firm theoretical footing.",
+        "This subject aims to introduce undergraduate students to the intellectual foundations of machine learning, and to introduce practical skills in data analysis that can be applied in graduates' professional careers.",
+        "CONTENT",
+        "Topics will be selected from: prediction approaches for classification/regression such as k-nearest neighbour, na\u00efve Bayes, discriminative linear models, decision trees, Support Vector Machines, Neural Networks; clustering methods such as k-means, hierarchical clustering; probabilistic approaches; exposure to large-scale learning."
+    ],
+    "indicative content": [],
     "pre-requisites": [
         {
             "option": "Option 1",

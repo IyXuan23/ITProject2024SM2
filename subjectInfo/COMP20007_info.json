@@ -4,8 +4,14 @@
     "subject availability": [
         "Semester 1"
     ],
-    "aims": "Programmers can choose between several representations of data. These will have different strengths and weaknesses, and each will require its own set of algorithms. This subject will cover some of the most frequently used data structures and their associated algorithms. The emphasis will be on justification of algorithm correctness, on analysis of algorithm performance, and on choosing the right data structure for the problem at hand.",
-    "indicative content": "Sample projects are: approximate string matching for a translation memory, involving sorting and comparison of dynamic programming, branch-and-bound search and brute-force search using a variety of data structures (e.g. arrays, hash tables, tries); speech synthesis based on a pronouncing dictionary and pre-prepared grapheme-phoneme alignment data, based on parsing of the alignment data, hashing of variable length n-grams, and a variety of models for predicting the phoneme(s) associated with a given phoneme sequence (e.g. a simple unigram baseline or a hidden Markov model).",
+    "overview": [],
+    "aims": [
+        "Programmers can choose between several representations of data. These will have different strengths and weaknesses, and each will require its own set of algorithms. This subject will cover some of the most frequently used data structures and their associated algorithms. The emphasis will be on justification of algorithm correctness, on analysis of algorithm performance, and on choosing the right data structure for the problem at hand."
+    ],
+    "indicative content": [
+        "Sample projects are: approximate string matching for a translation memory, involving sorting and comparison of dynamic programming, branch-and-bound search and brute-force search using a variety of data structures (e.g. arrays, hash tables, tries); speech synthesis based on a pronouncing dictionary and pre-prepared grapheme-phoneme alignment data, based on parsing of the alignment data, hashing of variable length n-grams, and a variety of models for predicting the phoneme(s) associated with a given phoneme sequence (e.g. a simple unigram baseline or a hidden Markov model).",
+        "Please view this video for further information:Design of Algorithms"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

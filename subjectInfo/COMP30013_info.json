@@ -5,8 +5,11 @@
         "Semester 1",
         "Semester 2"
     ],
-    "aims": null,
-    "indicative content": null,
+    "overview": [
+        "The subject consists of advanced studies in computing covering material which is not otherwise available to the student. The details of the topics covered will depend on the course of study selected and may involve substantial system development."
+    ],
+    "aims": [],
+    "indicative content": [],
     "pre-requisites": [
         {
             "option": "Option 1",

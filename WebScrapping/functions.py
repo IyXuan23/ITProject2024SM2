@@ -28,7 +28,7 @@ def scrapeLinks(numOfPages, targetArray, url):
         print("scrapped page" + str(i))
         i += 1    
 
-def writeJSONFile(filePath, name, code, aims, indicativeContent, optionsPreReq,
+def writeJSONFile(filePath, name, code, overview, aims, indicativeContent, optionsPreReq,
                 coReq, nonAllowed, assessments, dateTimes, contactInfo, availability):
     """writes information to JSON file for the corresponding subbject. Naming convention is [subjectCode]_info.json"""
 
@@ -36,6 +36,7 @@ def writeJSONFile(filePath, name, code, aims, indicativeContent, optionsPreReq,
         "subject name": name,
         "subject code": code,
         "subject availability": availability,
+        "overview": overview,
         "aims": aims, 
         "indicative content": indicativeContent,
         "pre-requisites": optionsPreReq,
@@ -75,8 +76,13 @@ def scrapeOverview(url):
 
     #scrapping aim and description
     try:
-        aims = None
-        indicativeContent = None
+        overview = []
+        aims = []
+        indicativeContent = []
+
+        #to store the elements from which we will read the text from, such as 
+        #AIMS, INDICATIVE CONTENT, etc.
+        elementList = []
 
         container = soup.find('div', class_='course__overview-wrapper')
         descriptionArray = container.find_all('p')
@@ -84,21 +90,53 @@ def scrapeOverview(url):
         for para in descriptionArray:
             
             if para.get_text(strip=True) == 'AIMS':
-                aims = para.find_next('p').get_text(strip=True)
+                elementList.append(para)    
 
             elif para.get_text(strip=True) == 'INDICATIVE CONTENT':
-                
-                indicativeContent = para.find_next('p').get_text(strip=True)
-                if indicativeContent == '':
-                    ul = para.find_next('ul')
-                    if ul:
-                        lines = ul.find_all('li')
-                        indicativeContent = []
-                        for line in lines:
-                            indicativeContent.append(line.get_text(strip=True))
+                elementList.append(para)    
 
             if indicativeContent and aims:
-                break
+                break  
+
+        startPoint = container.find('div', class_='course__overview-box')
+        stopPoint = container.find('div', id='learning-outcomes')
+
+        elementList.append(startPoint)
+
+        for element in elementList:
+            target = None
+
+            if hasattr(element, 'class') and element.get('class', [None])[0] == 'course__overview-box':
+                target = 'OVERVIEW'
+            else:
+                target = element.get_text(strip=True)    
+
+            nextElem = element.find_next()
+            while (nextElem not in elementList and nextElem != stopPoint):
+                
+                if (hasattr(nextElem, 'name') and nextElem.name == 'p'):
+                    txt = nextElem.get_text(strip=True)
+                    if target == 'OVERVIEW':
+                        overview.append(txt)
+                    elif target == 'AIMS':
+                        aims.append(txt)
+                    elif target == 'INDICATIVE CONTENT':
+                        indicativeContent.append(txt)
+
+                if (hasattr(nextElem, 'name') and nextElem.name == 'ul'):
+
+                    lines = nextElem.find_all('li')
+                    for line in lines:
+                        txt = line.get_text(strip=True)
+                        if target == 'OVERVIEW':
+                            overview.append(txt)
+                        elif target == 'AIMS':
+                            aims.append(txt)
+                        elif target == 'INDICATIVE CONTENT':
+                            indicativeContent.append(txt)
+
+                nextElem = nextElem.find_next()
+                        
 
     except AttributeError:
         description = None
@@ -124,7 +162,7 @@ def scrapeOverview(url):
         print("Subject Availability Not Found")                
                 
 
-    return subjectName, subjectCode, aims, indicativeContent, availability
+    return subjectName, subjectCode, overview, aims, indicativeContent, availability
 
 def parseTable(table):
     """helper function: parse table from html, will return the courses as an array"""
@@ -653,7 +691,7 @@ def scrapSubject(url):
 
     """function for scraping a singular subject information, and will return the data in the form of a json file"""
 
-    subjectName, subjectCode, aims, indicativeContent, availability = scrapeOverview(url)
+    subjectName, subjectCode, overview, aims, indicativeContent, availability = scrapeOverview(url)
 
     coReq = scrapeCoReq(subjectCode)
     nonAllowed = scrapeNonAllowed(subjectCode)
@@ -668,7 +706,7 @@ def scrapSubject(url):
     fileName = subjectCode + '_info.json'
     filePath = os.path.join('subjectInfo', fileName)
 
-    writeJSONFile(filePath, subjectName, subjectCode, aims, indicativeContent, optionsPreReq, \
+    writeJSONFile(filePath, subjectName, subjectCode, overview, aims, indicativeContent, optionsPreReq, \
                 coReq, nonAllowed, assessments, dateTimes, contactInfo, availability)
 
     #https://handbook.unimelb.edu.au/subjects/comp30022/further-information

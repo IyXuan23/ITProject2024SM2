@@ -4,8 +4,28 @@
     "subject availability": [
         "Semester 2"
     ],
-    "aims": "Declarative programming languages provide elegant and powerful programming paradigms and techniques that every programmer should know. This subject presents declarative programming languages and techniques.",
-    "indicative content": "INTENDED LEARNING OUTCOMES (ILO)",
+    "overview": [],
+    "aims": [
+        "Declarative programming languages provide elegant and powerful programming paradigms and techniques that every programmer should know. This subject presents declarative programming languages and techniques.",
+        ""
+    ],
+    "indicative content": [
+        "The dangers of destructive update",
+        "Functional programming",
+        "Recursion",
+        "Strong type systems",
+        "Parametric polymorphism",
+        "Algebraic types",
+        "Type classes",
+        "Defensive programming practice",
+        "Higher order programming",
+        "Currying and partial application",
+        "Lazy evaluation",
+        "Monads",
+        "Logic programming",
+        "Unification and resolution",
+        "Nondeterminism, search, and backtracking."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -6,8 +6,19 @@
         "Semester 1",
         "Semester 2"
     ],
-    "aims": "Solving problems in areas such as business, biology, physics, chemistry, engineering, humanities, and social sciences often requires manipulating, analysing, and visualising data through computer programming. This subject teaches students with little or no background in computer programming how to design and write basic programs using a high-level procedural programming language, and to solve simple problems using these skills.",
-    "indicative content": "Fundamental programming constructs; fundamental data structures; abstraction; basic program structures; algorithmic problem solving, testing and debugging; introduction to the Web, multimedia and visualisation.",
+    "overview": [],
+    "aims": [
+        "Solving problems in areas such as business, biology, physics, chemistry, engineering, humanities, and social sciences often requires manipulating, analysing, and visualising data through computer programming. This subject teaches students with little or no background in computer programming how to design and write basic programs using a high-level procedural programming language, and to solve simple problems using these skills.",
+        "This subject is the first subject in the Computing & Software Systems and the Informatics majors, and introduces students to programming and the basics of algorithmic thinking."
+    ],
+    "indicative content": [
+        "Fundamental programming constructs; fundamental data structures; abstraction; basic program structures; algorithmic problem solving, testing and debugging; introduction to the Web, multimedia and visualisation.",
+        "Examples of projects that students complete are:",
+        "A text analytics \u201clibrary\u201d consisting of a series of independent functions to calculate/extract different things given a document/document collection as input",
+        "A video recommender system, broken down into a series of functions",
+        "An AI player for an online card game, designed such that students play off against each other (and against the class) at the end of semester",
+        "Please view this video for further information:Foundations of Computing"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

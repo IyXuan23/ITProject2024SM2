@@ -4,8 +4,23 @@
     "subject availability": [
         "Semester 2"
     ],
-    "aims": "This subject introduces the technologies of computer graphics and human-computer interaction along with the biological, psychological and social aspects of human perception and action that inform the application of those technologies. The emphasis is on 2D and 3D computer graphics and the geometric modelling techniques used for representing and interacting with objects in dynamic scenes. Techniques considered include transformation geometry, illumination models and the real-time rendering (shading) models. The subject is centred on developing Apps for tablet computers based on natural user interfaces (NUIs), a term used by developers of human-machine interfaces that effectively become invisible to their users through successive learned interactions. Technologies likely to be considered are: virtual reality, computer games, augmented reality, tele-presence, or other modalities such as interaction through the sense of touch, audio or image processing and analysis. This subject supports course-level objectives by allowing students to develop analytical skills to understand the complexity of developing real-world computer graphics and interaction applications.",
-    "indicative content": "Topics are drawn from computational geometry and human-computer interaction including:",
+    "overview": [],
+    "aims": [
+        "This subject introduces the technologies of computer graphics and human-computer interaction along with the biological, psychological and social aspects of human perception and action that inform the application of those technologies. The emphasis is on 2D and 3D computer graphics and the geometric modelling techniques used for representing and interacting with objects in dynamic scenes. Techniques considered include transformation geometry, illumination models and the real-time rendering (shading) models. The subject is centred on developing Apps for tablet computers based on natural user interfaces (NUIs), a term used by developers of human-machine interfaces that effectively become invisible to their users through successive learned interactions. Technologies likely to be considered are: virtual reality, computer games, augmented reality, tele-presence, or other modalities such as interaction through the sense of touch, audio or image processing and analysis. This subject supports course-level objectives by allowing students to develop analytical skills to understand the complexity of developing real-world computer graphics and interaction applications.",
+        ""
+    ],
+    "indicative content": [
+        "Topics are drawn from computational geometry and human-computer interaction including:",
+        "2D and 3D computer graphics",
+        "Colour and illumination models",
+        "Raster and vector graphics",
+        "Geometric modelling",
+        "Rendering (shading) and visualisation",
+        "Geometric transformations (including projection)",
+        "Computational matrix geometry and/or animation (kinematics)",
+        "Interaction categories and styles (particularly graphical user interfaces)",
+        "Usability and accessibility (including interaction for people with disabilities)."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -4,8 +4,23 @@
     "subject availability": [
         "Semester 1"
     ],
-    "aims": "Over the last half-century, computers have improved at a faster rate than almost any other technology on the planet, yet the principles on which they work have remained mostly constant. In this subject, students will learn how computer systems work \"under the hood\".",
-    "indicative content": "Topics covered include:",
+    "overview": [],
+    "aims": [
+        "Over the last half-century, computers have improved at a faster rate than almost any other technology on the planet, yet the principles on which they work have remained mostly constant. In this subject, students will learn how computer systems work \"under the hood\".",
+        "The specific aim of this subject is for the students to develop an understanding of the basic concepts underlying computer systems. A key focus of this subject is the introduction of operating systems principles and computer network protocols. This knowledge is essential for writing secure software, for writing high performance software, and for writing network-based services and applications.",
+        ""
+    ],
+    "indicative content": [
+        "Topics covered include:",
+        "The role of the operating system",
+        "The memory hierarchy (caches, virtual memory, and working sets)",
+        "Interrupt handling, processes and scheduling",
+        "File systems",
+        "Introduction to multiprocessors and synchronization",
+        "Introduction to network protocols (OSI model)",
+        "Development of client-server applications",
+        "Computer system security and cryptographic protocols"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

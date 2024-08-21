@@ -5,8 +5,21 @@
         "Semester 1",
         "Semester 2"
     ],
-    "aims": "Many engineering disciplines make use of numerical solutions to computational problems. In this subject students will be introduced to the key elements of programming in a high level language, and will then use that skill to explore methods for solving numerical problems in a range of discipline areas.",
-    "indicative content": "On completion of this subject the student is expected to:",
+    "overview": [],
+    "aims": [
+        "Many engineering disciplines make use of numerical solutions to computational problems. In this subject students will be introduced to the key elements of programming in a high level language, and will then use that skill to explore methods for solving numerical problems in a range of discipline areas."
+    ],
+    "indicative content": [
+        "Algorithmic problem solving",
+        "Fundamental data types: numbers and characters",
+        "Approximation and errors in numerical computation",
+        "Fundamental program structures: sequencing, selection, repetition, functions",
+        "Simple data storage structures, variables, arrays, and structures",
+        "Roots of equations and of linear algebraic equations",
+        "Curve fitting and splines",
+        "Interpolation and extrapolation",
+        "Numerical differentiation and integration"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
