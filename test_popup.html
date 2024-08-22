@@ -7,8 +7,8 @@
 </head>
 <style>
     body {
-        width: 300px;  /* Adjust this value */
-        height: 400px; /* Adjust this value */
+        width: 400px;  /* Adjust this value */
+        height: 600px; /* Adjust this value */
         overflow: hidden;
         margin: 0;
         padding: 0;
@@ -22,7 +22,7 @@
   <script src="./microsoft.cognitiveservices.speech.sdk.bundle.js"></script>
   <body>
     <deep-chat id="chat-element"
-            style="border-radius: 10px; position: fixed; bottom: 23px; right: 1%; z-index: 1; width: calc(50vh - 10px); height: calc(50vh - 10px); padding-top: 10px; border-color: #e4e4e4; background: linear-gradient(90deg, rgb(239, 242, 247) 0%, 7.60286%, rgb(237, 240, 249) 15.2057%, 20.7513%, rgb(235, 239, 248) 26.297%, 27.6386%, rgb(235, 239, 248) 28.9803%, 38.2826%, rgb(231, 237, 249) 47.585%, 48.1216%, rgb(230, 236, 250) 48.6583%, 53.1306%, rgb(228, 236, 249) 57.6029%, 61.5385%, rgb(227, 234, 250) 65.4741%, 68.7835%, rgb(222, 234, 250) 72.093%, 75.7603%, rgb(219, 230, 248) 79.4275%, 82.8265%, rgb(216, 229, 248) 86.2254%, 87.8354%, rgb(213, 228, 249) 89.4454%, 91.8605%, rgb(210, 226, 249) 94.2755%, 95.4383%, rgb(209, 225, 248) 96.6011%, 98.3005%, rgb(208, 224, 247) 100%)"
+               style="z-index: 999; width: 100vw; height: calc(109vh - 56px); border-color: #e4e4e4; background: linear-gradient(90deg, rgb(239, 242, 247) 0%, 7.60286%, rgb(237, 240, 249) 15.2057%, 20.7513%, rgb(235, 239, 248) 26.297%, 27.6386%, rgb(235, 239, 248) 28.9803%, 38.2826%, rgb(231, 237, 249) 47.585%, 48.1216%, rgb(230, 236, 250) 48.6583%, 53.1306%, rgb(228, 236, 249) 57.6029%, 61.5385%, rgb(227, 234, 250) 65.4741%, 68.7835%, rgb(222, 234, 250) 72.093%, 75.7603%, rgb(219, 230, 248) 79.4275%, 82.8265%, rgb(216, 229, 248) 86.2254%, 87.8354%, rgb(213, 228, 249) 89.4454%, 91.8605%, rgb(210, 226, 249) 94.2755%, 95.4383%, rgb(209, 225, 248) 96.6011%, 98.3005%, rgb(208, 224, 247) 100%)"
             textInput='{
     "styles": {
       "container": {
@@ -35,12 +35,6 @@
       "text": {"padding": "10px", "paddingLeft": "15px", "paddingRight": "34px"}
     },
     "placeholder": {"text": "Ask me anything...", "style": {"color": "#606060"}}
-  }'
-            directConnection='{
-    "openAI": {
-      "key": "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",
-      "chat": {"max_tokens": 2000, "system_prompt": "Assist me with anything you can"}
-    }
   }'
                images="true"
                camera='{"button": {"position": "dropup-menu"}}'
@@ -71,7 +65,7 @@
       }'
             speechToText='{
       "azure": {
-        "subscriptionKey": "57cc542a7aa24da29f67f90a02c1339a",
+        "subscriptionKey": "",
         "region": "australiaeast"
       },
       "button": {
