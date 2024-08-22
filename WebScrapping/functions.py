@@ -222,7 +222,6 @@ def parsePreReqOptions(soup):
             preReq.append(data)
         return preReq    
 
-
 def formatOptions(courseCode):
     """function will look through the soup, and look for whether there is the presence of option 1, 2, etc
     If there is, it will return it in that format, else it will call the other parsePreReq function"""
@@ -376,11 +375,13 @@ def parseORoptions(soup):
                     
                     txt = nextElem.get_text(strip=True)
                     
-                    if (andIndicator):
-                        necessaryPreReq.append(txt)
-                        andIndicator = False 
-                    else:
-                        altPreReq.append(txt)
+                    if (txt != '' and txt != 'Prerequisites'):
+
+                        if (andIndicator):
+                            necessaryPreReq.append(txt)
+                            andIndicator = False 
+                        else:
+                            altPreReq.append(txt)
 
                 #if its a list
                 elif (hasattr(nextElem, 'name') and nextElem.name == 'ul'):
@@ -454,7 +455,7 @@ def parsePreReq(courseCode):
 
                     if nextElem.name == 'p':
                         txt = nextElem.get_text(strip=True)
-                        if txt != '':
+                        if txt != '' and txt != 'Prerequisites':
                             altPreReq.append(txt)
                     if nextElem.name == 'ul':
                         liArray = nextElem.find_all('li')
@@ -710,5 +711,3 @@ def scrapSubject(url):
                 coReq, nonAllowed, assessments, dateTimes, contactInfo, availability)
 
     #https://handbook.unimelb.edu.au/subjects/comp30022/further-information
-
-
