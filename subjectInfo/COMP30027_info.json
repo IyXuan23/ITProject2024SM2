@@ -22,9 +22,7 @@
                 ]
             ],
             "one of pre-requisite": [],
-            "additional pre-requisite": [
-                "Prerequisites"
-            ]
+            "additional pre-requisite": []
         },
         {
             "option": "Option 2",
