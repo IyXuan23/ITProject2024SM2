@@ -2,14 +2,16 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import os
+from functions import parseTable
 
-def writeCoursesJSONFile(filePath, overviewData, overviewTable, reqData, skillsData):
+def writeCoursesJSONFile(filePath, overviewData, overviewTable, reqData, skillsData, structureData):
 
     data = {
         'Overview text': overviewData,
         'Overview table': overviewTable,
         'Entry and participation requirements': reqData,
-        'Attribute, outcomes and skills': skillsData
+        'Attribute, outcomes and skills': skillsData,
+        'Course Structure': structureData
     }
 
     with open(filePath, 'w') as json_file:
@@ -98,6 +100,10 @@ def parseOL(ol):
 
     return olText    
 
+def parsePara(para):
+    txt = para.get_text(strip=True)
+    return txt    
+
 def scrapeReq(url):
 
     response = requests.get(url)
@@ -122,11 +128,8 @@ def scrapeReq(url):
         textData = []
 
         while (nextElem != stopDiv and nextElem not in headers):
-            
-            if hasattr(nextElem, 'name') and nextElem.name == 'p':
-                text = nextElem.get_text(strip=True)
-                if text != '':
-                    textData.append(text)
+            if parsePara(nextElem) != '':
+                textData.append(parsePara(nextElem))
 
             if hasattr(nextElem, 'name') and nextElem.name == 'ul':
                 textData.extend(parseUL(nextElem))    
@@ -152,7 +155,6 @@ def titleSearcherSkills(lst):
 
     return targetList      
     
-
 def scrapeSkills(url):
 
     response = requests.get(url)
@@ -191,6 +193,118 @@ def scrapeSkills(url):
 
     return skillsData    
 
+def elementSearcher(header, element, stopDivs):
+    """searches for sub-elements by iterating downwards from the provided element. 
+    Cannot be replaced by find() as the sub-elements are on the same hierarchy"""
+    targets = []
+
+    nextElem = header.find_next()
+    while nextElem not in stopDivs:
+
+        if hasattr(nextElem, 'name') and nextElem.name == element:
+            targets.append(nextElem)
+        nextElem = nextElem.find_next()
+
+    return targets
+
+def scrapStructureText(element):
+
+    if hasattr(element, 'name') and element.name == 'p':
+        txt = parsePara(element)
+        if txt != '':
+            return txt    
+
+    if hasattr(element, 'name') and element.name == 'ul':
+        return parseUL(element)
+
+    if hasattr(element, 'name') and element.name == 'ol':
+        return parseOL(element)
+
+    if hasattr(element, 'name') and element.name == 'table':
+        return parseTable(element)
+
+    return None    
+        
+def scrapeStructure(url):
+
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    container = soup.find('div', class_='sidebar-tabs__panel')
+    headers = container.find_all('h2')
+    stopDiv = container.find('div', class_='course__prev-next-buttons')
+
+    #structureData should hold a list of headers
+    structureData = {}
+
+    for header in headers:
+
+        headerData = {}
+        stopConditions = headers.copy()
+        stopConditions.append(stopDiv)
+        subHeaders = elementSearcher(header, 'h3', stopConditions)
+        nextElem = header.find_next()
+        headerText = header.get_text(strip=True)
+
+        extraText = []
+
+        #get the text before the subHeaders
+        while (nextElem not in headers and nextElem not in 
+        subHeaders and nextElem != stopDiv):
+
+            txt = scrapStructureText(nextElem)
+            if txt != None:
+                extraText.append(txt)
+            nextElem = nextElem.find_next()
+
+        headerData['overview'] = extraText
+
+        for subHeader in subHeaders:
+            
+            subHeaderData = {}
+            subStopConditions = stopConditions.copy()
+            subStopConditions = stopConditions.extend(subHeaders)
+            subSubHeaders = elementSearcher(subHeader, 'h4', stopConditions)
+            nextElem = subHeader.find_next()
+            subHeaderText = subHeader.get_text(strip=True)
+
+            extraSubText = []
+
+            while (nextElem not in headers and nextElem not in 
+            subHeaders and nextElem not in subSubHeaders and nextElem != stopDiv):
+
+                txt = scrapStructureText(nextElem)
+                if txt != None:
+                    extraSubText.append(txt)
+                nextElem = nextElem.find_next() 
+
+            subHeaderData['overview'] = extraSubText    
+            
+            for subSubHeader in subSubHeaders:
+                                    
+                nextElem = subSubHeader.find_next()
+                subSubHeaderData = {}
+                subSubHeaderText = subSubHeader.get_text(strip=True)
+                extraSubSubText = []
+
+                while (nextElem not in headers and nextElem not in subHeaders and 
+                nextElem not in subSubHeaders and nextElem != stopDiv):
+                    
+                    txt = scrapStructureText(nextElem)
+                    if txt != None:
+                        extraSubSubText.append(txt)
+
+                    nextElem = nextElem.find_next()
+                subSubHeaderData['overview'] = extraSubSubText   
+
+                subHeaderData[subSubHeaderText] = subSubHeaderData
+            headerData[subHeaderText] = subHeaderData
+        structureData[headerText] = headerData
+    return structureData    
+        
+        
+
+
 
 def scrapeCourses(url):
 
@@ -204,8 +318,11 @@ def scrapeCourses(url):
     #https://handbook.unimelb.edu.au/2024/courses/b-sci/attributes-outcomes-skills
     skillsData = scrapeSkills(url + '/attributes-outcomes-skills')
 
+    #https://handbook.unimelb.edu.au/2024/courses/b-sci/course-structure
+    structureData = scrapeStructure(url + '/course-structure')
+
     #writing to JSON file
     fileName = courseName + '_info.json'
     filePath = os.path.join('courseInfo', fileName)
 
-    writeCoursesJSONFile(filePath, overviewText, overviewTable, reqData, skillsData)
+    writeCoursesJSONFile(filePath, overviewText, overviewTable, reqData, skillsData, structureData)
