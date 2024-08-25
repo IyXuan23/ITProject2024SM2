@@ -4,14 +4,15 @@ import json
 import os
 from functions import parseTable
 
-def writeCoursesJSONFile(filePath, overviewData, overviewTable, reqData, skillsData, structureData):
+def writeCoursesJSONFile(filePath, overviewData, overviewTable, reqData, skillsData, structureData, majorsData):
 
     data = {
         'Overview text': overviewData,
         'Overview table': overviewTable,
         'Entry and participation requirements': reqData,
         'Attribute, outcomes and skills': skillsData,
-        'Course Structure': structureData
+        'Course Structure': structureData,
+        'Majors, minors and specialisations': majorsData
     }
 
     with open(filePath, 'w') as json_file:
@@ -301,10 +302,73 @@ def scrapeStructure(url):
             headerData[subHeaderText] = subHeaderData
         structureData[headerText] = headerData
     return structureData    
-        
-        
 
+def scrapeMajorTable(table):
 
+    tableData = {}
+
+    rows = table.find_all('tr')
+    rows.pop(0)
+    
+    for row in rows:
+
+        data = row.find_all('td')
+        majorName = data[0].get_text(strip=True)
+        creditPoints = data[1].get_text(strip=True) + ' Credits'
+
+        tableData[majorName] = creditPoints
+
+    return tableData
+
+def scrapeMajorText(element):
+
+    if hasattr(element, 'name') and element.name == 'p':
+        return parsePara(element)
+
+    if hasattr(element, 'name') and element.name == 'ol':
+        return parseOL(element)
+
+    if hasattr(element, 'name') and element.name == 'ul':
+        return parseUL(element)
+
+    if hasattr(element, 'name') and element.name == 'table':
+        return scrapeMajorTable(element)
+
+    return None    
+
+def scrapeMajors(url):
+
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+    
+    container = soup.find('div', class_='sidebar-tabs__panel')
+    header = container.find('h2')
+    stopDiv = container.find('div', class_='course__prev-next-buttons')
+
+    headers = []
+    headers.extend(elementSearcher(header, 'h3', stopDiv))
+    headers.extend(elementSearcher(header, 'h4', stopDiv))
+
+    majorsData = {}
+
+    for header in headers:
+
+        nextElem = header.find_next()
+        headerText = header.get_text(strip=True)
+        headerData = []
+
+        while nextElem not in headers and nextElem != stopDiv:
+            
+            data = scrapeMajorText(nextElem)
+            if data != None:
+                headerData.append(data)
+
+            nextElem = nextElem.find_next()
+
+        majorsData[headerText] = headerData   
+
+    return majorsData     
+            
 
 def scrapeCourses(url):
 
@@ -321,8 +385,11 @@ def scrapeCourses(url):
     #https://handbook.unimelb.edu.au/2024/courses/b-sci/course-structure
     structureData = scrapeStructure(url + '/course-structure')
 
+    #https://handbook.unimelb.edu.au/2024/courses/b-sci/majors-minors-specialisations
+    majorsData = scrapeMajors(url + '/majors-minors-specialisations')
+
     #writing to JSON file
     fileName = courseName + '_info.json'
     filePath = os.path.join('courseInfo', fileName)
 
-    writeCoursesJSONFile(filePath, overviewText, overviewTable, reqData, skillsData, structureData)
+    writeCoursesJSONFile(filePath, overviewText, overviewTable, reqData, skillsData, structureData, majorsData)
