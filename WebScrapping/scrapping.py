@@ -44,5 +44,7 @@ breadthURL = 'https://handbook.unimelb.edu.au/search?study_periods%5B%5D=all&are
 
 scrapeCourses('https://handbook.unimelb.edu.au/2024/courses/b-sci')
 
+scrapeCourses('https://handbook.unimelb.edu.au/2024/courses/b-des')
+
 
 
