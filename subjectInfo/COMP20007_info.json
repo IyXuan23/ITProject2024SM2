@@ -119,5 +119,55 @@
                 ]
             }
         }
-    ]
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures and workshops (combination of tutorial and individual/group work in a computer lab). The subject consolidates the introductory C programming exposure students will have attained through COMP10002 Foundations of Algorithms or COMP20006 Programming the Machine.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students have access to lecture notes, lecture slides and tutorial worksheets. The subject LMS site also contains links to recommended resources relating to programming and algorithmics, and advanced problems for students who want to extend themselves.",
+            "CAREERS / INDUSTRY LINKS",
+            "The subject provides students with intermediate-level, multi-module programming experience in C, and hands-on practicum with algorithmic analysis and development. It is highly relevant to any career involving \u201cbig data\u201d, and covers the staple of technical interviews by companies such as Google, Microsoft and Amazon. There is every expectation that the subject will incorporate guest lecture(s) from leading figures in algorithmics."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
 }

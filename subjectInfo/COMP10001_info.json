@@ -180,5 +180,55 @@
                 ]
             }
         }
-    ]
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures and workshops (combination of tutorial and individual/group work in a computer lab). Students get a hands-on introduction to Python through a series of online worksheets with embedded programming tasks/automatic assessment, and then go on to complete three projects.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students have access to lecture notes, lecture slides, tutorial worksheets, which houses the interactive worksheets as well as a programming environment. The subject LMS site also contains links to recommended resources relating to basic programming, and advanced problems for students who want to extend themselves.",
+            "CAREERS / INDUSTRY LINKS",
+            "As an introductory programming subject, this is relevant to all aspects of the IT industry. Exemplar companies/organisations which have been involved in the delivery of the subject (through guest lectures etc.) are: Palantir Technologies (software engineering, intelligent systems), AURIN (Australian Urban Research Infrastructure Network: geomatics, distributed computing, web development), VLSCI (Victorian Life Sciences Computing Initiative; computational biology, bioinformatics, distributed computing, big data). There have also been guest lecturers from within the university in fields including computational ophthalmology, electronic voting, and social media analysis."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
 }

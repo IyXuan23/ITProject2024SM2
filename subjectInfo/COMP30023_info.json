@@ -104,5 +104,61 @@
                 ]
             }
         }
-    ]
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures and workshops (tutorial and individual/group work). Students get a hands-on introduction to advanced programming through a series of problem solving exercises. Tasks will encapsulate operating system fundamentals and computer network protocols and services. Students will then go on to complete project work. Students will also learn how to use basic cryptographic primitives to protect data privacy and integrity. Students will begin to gain an understanding of how to analyse cryptographic protocols and what degree of privacy and integrity they achieve.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students have access to lecture notes, lecture slides, tutorial worksheets, a programming environment and the Department servers. The subject LMS site contains links to recommended resources relating to basic/advanced programming, and advanced problems resources relating to basic/advanced programming, and advanced problems for students who want to extend themselves.",
+            "CAREERS / INDUSTRY LINKS",
+            "The IT industry is a large and steadily growing industry. Skills in operating systems and programming development that exploits the underlying computer system are essential for working in the IT industry, for example in software development companies, website development companies, telecommunication companies and game development companies. There is scope for a range of companies/organisations to be involved in the delivery of the subject (through guest lectures etc.) including AURIN (Australian Urban Research Infrastructure Network: geomatics, distributed computing, web development), VLSCI (Victorian Life Sciences Computing distributed computing, big data)."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
 }

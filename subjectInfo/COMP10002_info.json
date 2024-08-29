@@ -166,5 +166,56 @@
                 ]
             }
         }
-    ]
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc. Students undertaking this subject will require regular access to the internet.",
+            "LEARNING AND TEACHING METHODS",
+            "The subject will be delivered through a combination of lectures, programming workshops, and programming exercises and assessed programming assignments. Students will also be expected to develop and submit programming assignments for assessment.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students will have access to lecture notes and lecture slides, and will be expected to own a copy of the textbook nominated by the coordinator. Other guidance will be provided via the LMS.",
+            "CAREERS / INDUSTRY LINKS",
+            "Programming competencies are a critical part of a range of career pathways, including in IT, engineering, and mathematics. In addition, an understanding of the fundamental nature of computation is a key enabler across all science discipline areas, including genetics and physics."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
 }

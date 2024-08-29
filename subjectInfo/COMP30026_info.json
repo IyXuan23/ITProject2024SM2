@@ -114,5 +114,42 @@
                 ]
             }
         }
-    ]
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject involves two 1-hour lectures per week followed by one 2-hour tutorial. Weekly tutorial problems are assigned and discussed in class. Tutors may use tutorial time to demonstrate applications of the theory, such as SAT-solver use, logic programming, and parsing. Lectures and tutorials are designed to be interactive, and the written assignments are designed to be challenging, so as to generate discussion. Although written assignments are submitted by students individually, in-plenum discussion of the problems encouraged.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "The subject uses online reading materials and offers access to visualisation tools (the JFLAP suite), an interactive learning platform (Grok), an online discussion forum, and advance access to all teaching materials, including slides used in lectures.",
+            "CAREERS / INDUSTRY LINKS",
+            "The subject is foundational. While the practice of computing changes fast, the theoretical underpinnings, and many of the basic concepts underlying computation, change only slowly. A foundation in logic and mathematics provides important conceptual tools that are used by theoreticians, computer scientists, and software engineering practitioners alike."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
 }

@@ -22,25 +22,25 @@ breadthURL = 'https://handbook.unimelb.edu.au/search?study_periods%5B%5D=all&are
 # scrapeLinks(NUM_OF_BREADTH_TRACK_PAGES, breadthtrackLinkArray, breadthURL)
 
 scrapSubject("https://handbook.unimelb.edu.au/subjects/comp30022")
-# scrapSubject("https://handbook.unimelb.edu.au/2024/subjects/comp10001")
-# scrapSubject("https://handbook.unimelb.edu.au/2024/subjects/comp10002")
-# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp10003')
+scrapSubject("https://handbook.unimelb.edu.au/2024/subjects/comp10001")
+scrapSubject("https://handbook.unimelb.edu.au/2024/subjects/comp10002")
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp10003')
 
-# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp20008')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp20008')
 
 #has options tag
-# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp20007')
-# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp20005')
-# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp20003')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp20007')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp20005')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp20003')
 
 #TESTING: NEEDS OVERVIEW ADJUSTMENT
-# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30013')
-# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30020')
-# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30023')
-# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30024')
-# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30019')
-# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30027')
-# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30026')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30013')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30020')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30023')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30024')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30019')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30027')
+scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30026')
 
 #scrapeCourses('https://handbook.unimelb.edu.au/2024/courses/b-sci')
 
