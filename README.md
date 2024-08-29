@@ -1,2 +1,4 @@
-# ITProject2024SM2
-Upgrading student handbook
+# Install the psycopg2 package
+```commandline
+pip install psycopg2
+```
