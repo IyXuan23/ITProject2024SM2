@@ -29,7 +29,7 @@ def scrapeLinks(numOfPages, targetArray, url):
         i += 1    
 
 def writeJSONFile(filePath, name, code, overview, aims, indicativeContent, optionsPreReq,
-                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability):
+                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability, furtherInfoData):
     """writes information to JSON file for the corresponding subbject. Naming convention is [subjectCode]_info.json"""
 
     data = {
@@ -44,7 +44,8 @@ def writeJSONFile(filePath, name, code, overview, aims, indicativeContent, optio
         "non-allowed subjects": nonAllowed,
         "assessments": assessments,
         "dates and times": dateTimes,
-        "contact information": contactInfo
+        "contact information": contactInfo,
+        "further info": furtherInfoData
     }
 
     with open(filePath, 'w') as json_file:
@@ -687,6 +688,110 @@ def scrapeDateTime(courseCode):
     except AttributeError:
         print("Date Time Not Found")
 
+def scrapeText(element, infoList, stopDiv):
+
+    if hasattr(element, 'name') and element.name == 'p':
+        print(element)
+        text = element.get_text(strip=True)
+        if text != '':
+            return text
+
+    if hasattr(element, 'name') and element.name == 'ul':
+        
+        data = []
+        lis = element.find_all('li')
+        for li in lis:
+            data.append(li.get_text(strip=True))
+        return data    
+
+    if hasattr(element, 'name') and element.name == 'ol':
+        data = []
+        lis = element.find_all('li')
+        for li in lis:
+            data.append(li.get_text(strip=True))
+        return data
+
+    if hasattr(element, 'name') and element.name == 'table':
+        data = []
+        rows = element.find_all('tr')
+        rows.pop(0)
+        for row in rows:
+            entries = row.find_all('td')
+            data.append(entries[0].get_text() + ": " + entries[1].get_text())
+
+    return None        
+
+def scrapeInfoLine(element, infoList, stopDiv):
+
+    textDiv = element.find('div', class_='accordion__hidden')   
+
+    infoData = []
+
+    #first check for header style
+    headerList = textDiv.find_all('h3')
+
+    #if no headers, append all the text as one list of strings
+    if len(headerList) == 0:
+        nextElem = element.find_next()
+        while nextElem != stopDiv and nextElem not in infoList:
+
+            text = scrapeText(nextElem, infoList, stopDiv)
+            if text != '' and text != [] and text != None:
+                infoData.append(text)
+
+            nextElem = nextElem.find_next()  
+
+    else:
+        for header in headerList:
+
+            textData = {}
+            headerData = []
+            
+            nextElem = header.find_next()
+
+            stopList = infoList.copy()
+            stopList.extend(headerList)
+
+            headerText = header.get_text(strip=True)
+
+            while nextElem not in stopList and nextElem != stopDiv:
+
+                text = scrapeText(nextElem, stopList, stopDiv)
+                if text != '' and text != [] and text !=None:
+                    headerData.append(text)
+                nextElem = nextElem.find_next()
+
+            textData[headerText] = headerData
+            infoData.append(textData)    
+
+    return infoData
+            
+
+def scrapeFurtherInfo(courseCode):
+
+    #note: url is in the form of:
+    #https://handbook.unimelb.edu.au/subjects/comp30023/further-information
+    courseCode = courseCode.lower()
+    furtherInfoURL = 'https://handbook.unimelb.edu.au/subjects/' + courseCode + '/further-information'
+
+    response = requests.get(furtherInfoURL)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    info = soup.find('ul', class_='accordion')
+    infoList = info.find_all('li', recursive=False)
+    stopDiv = soup.find('div', class_='course__prev-next-buttons')
+
+    furtherInfoData = {}
+
+    for li in infoList:
+        infoData = scrapeInfoLine(li, infoList, stopDiv)
+        
+        title = li.find('div', class_='accordion__title').get_text()
+
+        furtherInfoData[title] = infoData
+
+    return furtherInfoData    
+
 
 def scrapSubject(url):
 
@@ -703,11 +808,13 @@ def scrapSubject(url):
 
     optionsPreReq = formatOptions(subjectCode)
 
+    furtherInfoData = scrapeFurtherInfo(subjectCode)
+
     #writing to JSON file
     fileName = subjectCode + '_info.json'
     filePath = os.path.join('subjectInfo', fileName)
 
     writeJSONFile(filePath, subjectName, subjectCode, overview, aims, indicativeContent, optionsPreReq, \
-                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability)
+                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability, furtherInfoData)
 
     #https://handbook.unimelb.edu.au/subjects/comp30022/further-information
