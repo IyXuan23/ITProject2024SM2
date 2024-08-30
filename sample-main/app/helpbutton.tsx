@@ -94,7 +94,7 @@ export default function HelpButton() {
             camera={{ button: { position: 'dropup-menu' } }}
             directConnection={{
               openAI: {
-                key: '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',
+                key: 'Put the API',
                 chat: { max_tokens: 2000, system_prompt: 'Assist me with anything you can' },
               },
             }}
