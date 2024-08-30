@@ -691,7 +691,6 @@ def scrapeDateTime(courseCode):
 def scrapeText(element, infoList, stopDiv):
 
     if hasattr(element, 'name') and element.name == 'p':
-        print(element)
         text = element.get_text(strip=True)
         if text != '':
             return text

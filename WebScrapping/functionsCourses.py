@@ -106,6 +106,10 @@ def parsePara(para):
     txt = para.get_text(strip=True)
     return txt    
 
+def parseA(a):
+    txt = a.get_text(strip=True)
+    return txt
+
 def scrapeReq(url):
 
     response = requests.get(url)
@@ -130,8 +134,10 @@ def scrapeReq(url):
         textData = []
 
         while (nextElem != stopDiv and nextElem not in headers):
-            if parsePara(nextElem) != '':
-                textData.append(parsePara(nextElem))
+            
+            if hasattr(nextElem, 'name') and nextElem.name == 'p':
+                if parsePara(nextElem) != '':
+                    textData.append(parsePara(nextElem))
 
             if hasattr(nextElem, 'name') and nextElem.name == 'ul':
                 textData.extend(parseUL(nextElem))    
