@@ -1,0 +1,56 @@
+.main {
+  font-family: sans-serif;
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.topLeftImage {
+  position: absolute;
+  top: 10px;  
+  left: 10px; 
+  width: 100px; 
+  height: 100px; 
+}
+
+#pageTitle {
+  padding-bottom: 5px;
+}
+
+.components {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+
+.components > * {
+  margin: 0 20px;
+}
+
+.diagonalLine {
+  position: absolute;
+  transform: skewY(-2.5deg);
+  height: 200px;
+  width: 100%;
+  background: #e8f5ff;
+  padding-top: 30px;
+  margin-top: 50px;
+}
+
+.serverTitle {
+  display: contents;
+}
+
+.serverTitleIcon {
+  margin-left: 10px;
+}
+
+.backgroundVideo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: translate(-50%, -50%);
+  z-index: -1; 
+}

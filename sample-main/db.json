@@ -1,0 +1,7 @@
+{
+    "courses": [
+      { "id": 1, "name": "Bachelor of Arts", "code": "B-ARTS", "campus": "Parkville", "duration": "36 months full-time or 72 months part-time" },
+      { "id": 2, "name": "Bachelor of Science", "code": "B-SCI", "campus": "Parkville", "duration": "36 months full-time or 72 months part-time" },
+      { "id": 3, "name": "Bachelor of Environments", "code": "B-ENVS", "campus": "Parkville", "duration": "36 months full-time or 72 months part-time" }
+    ]
+  }
