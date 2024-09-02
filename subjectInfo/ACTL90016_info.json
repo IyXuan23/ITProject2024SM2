@@ -1,0 +1,140 @@
+{
+    "subject name": "Actuarial Science Research Report Part 1",
+    "subject code": "ACTL90016",
+    "subject availability": [
+        "Semester 1 (Extended)",
+        "Semester 2 (Extended)"
+    ],
+    "overview": [
+        "A research essay not exceeding 10,000 words on a topic approved by the Head of Department. The word count includes bibliography, footnotes, appendices and the number of words which would take up space used for tables, formulae and charts."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ACTL90003",
+                    "ACTL90004"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-COMACTS Master of Commerce (Actuarial Science)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "Research essay on a topic approved by the Head of Department. The word count includes bibliography, footnotes, appendices and the number of words which would take up space used for tables, formulae and charts.. 10,000 words",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended)": [
+                {
+                    "Principal coordinator": "Yuyu Chen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours [overall total for enrolment in ACTL90016 and ACTL90017 over two consecutive semesters]."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 30 June 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Principal coordinator": "Yuyu Chen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours [overall total for enrolment in ACTL90016 and ACTL90017 over two consecutive semesters]."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 24 December 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "24 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Extended)": {
+                "name": [
+                    "Yuyu Chen:"
+                ],
+                "email": [
+                    "yuyu.chen@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Extended)": {
+                "name": [
+                    "Yuyu Chen:"
+                ],
+                "email": [
+                    "yuyu.chen@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

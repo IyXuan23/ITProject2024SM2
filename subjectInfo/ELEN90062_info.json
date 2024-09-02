@@ -1,0 +1,146 @@
+{
+    "subject name": "High Speed Electronics",
+    "subject code": "ELEN90062",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "The aim of the subject is to provide theoretical and practical treatment of high-speed electronics. Through the subject, students will grasp the fundamental properties and models of high-speed signals and interconnects, acquire high-speed digital design skills with a focus on the modelling, analysis, design and application of high speed transistors, logic gates and modern logic families, and master the high-speed analogue design capability including the design of oscillators and filters for RF applications. The students will be exposed to the state-of-the-art technologies that are shaping the fast evolving semiconductor industry.INDICATIVE CONTENT",
+        "The topics include:",
+        "Fundamental properties of analogue systems;",
+        "Smith charts: principles and applications;",
+        "High-speed analogue circuits: voltage control oscillators, matching networks, and low noise amplifiers;",
+        "Bipolar junction transistors: device, switching, and logic;",
+        "CMOS: device, switching and logic;",
+        "High-speed signalling consideration: power dissipation, heat, signal propagation, and termination."
+    ],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ELEN90056"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ELEN40009 RF, Microwave and Optoelectronic Systems",
+        "ELEN40010 Digital Systems 4: High Speed Systems"
+    ],
+    "assessments": [
+        {
+            "description": "One final written examination. 3 hours. Hurdle requirement:. Students must pass the written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "70%"
+        },
+        {
+            "description": "Continuous assessment of submitted tutorial work, lab participation and reports, not exceeding 20 pages in total over the semester. 25-30 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "A mid-semester test. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinators": "Peter Dower and Christina Lim"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures and up to 24 hours of workshops"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Peter Dower"
+                ],
+                "email": [
+                    "pdower@unimelb.edu.au",
+                    "chrislim@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "TBA"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    [
+                        "B.G. Streetman, S. Banerjee, Solid State Electronic Devices. Prentice-Hall, 6th Edition;",
+                        "H. Johnson, M.Graham, High-speed digital design. Prentice-Hall;",
+                        "David Pozar, Microwave Engineering;",
+                        "Thomas Lee, The Design of CMOS Radio-Frequency Integrated Circuits."
+                    ]
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through lectures and workshop classes that combine both tutorial and hands-on laboratory activities.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students are provided with lecture slides, lecture notes, tutorial worksheets and solutions, a laboratory manual, and reference book lists.",
+            "CAREERS / INDUSTRY LINKS",
+            "The subject helps the students to acquire skill sets essential to the electrical engineers working for the companies and corporations in high-speed electronics industry such as Cadence Design Systems and Agilent Technologies."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

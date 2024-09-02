@@ -1,0 +1,141 @@
+{
+    "subject name": "Project Management in Science",
+    "subject code": "SKIL90004",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Projects drive most modern science organisations. Learn how to plan and manage projects, and to relate to a client, team members, and to other stakeholders. The subject covers the processes and tools/techniques in project management as well as the \u2018soft side\u2019 of managing people in projects. The subject uses the project management body of knowledge (PMBOK) covering the competencies in project management including scope, time, cost, quality, resource, risk, communication and integration management.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A group written assignment on writing a project charter. 750 words",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "A group assignment (4-6 per group,\r\nwith a 10 minute oral presentation of the project outcomes involving all students in the group (30%), and a 1,000 word summary from the group (10%)). All students will be marked equally on the group component. 10 minutes",
+            "timing": "From Week 8 to Week 10",
+            "percentage": "40%"
+        },
+        {
+            "description": "An individual assignment applying skills in computerised project management tools requiring 10-15 hours of work. 10 - 15 hours",
+            "timing": "End of semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final Exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance at greater than 80% of workshops throughout the semester",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinators": "Sneha Gupta and Daniel Czech"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 3-hour workshop per week for twelve weeks"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "SKIL90004-info@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "INDICATIVE KEY LEARNING RESOURCES",
+                    "There will be no set text book but the following recommended texts are appropriate.",
+                    [
+                        "Schwalbe, K., Introduction to Project Management, Fourth Edition, Course Technology 2012 (or similar books by Schwalbe)",
+                        "Gido and Clements., Successful Project Management, 5th ed., South-Western Cengage Learning, 2011.",
+                        "Meredith, J andMantel, S.Project Management: A Managerial Approach, 8th Ed., Wiley, 2012."
+                    ]
+                ]
+            }
+        ],
+        "Subject notes": [
+            "INDICATIVE CONTENT",
+            "The following content will be covered:",
+            [
+                "What is a project?",
+                "Scooping",
+                "Project roles",
+                "Planning a project",
+                "Budgeting and cost estimation",
+                "Risk management",
+                "Documentation of projects",
+                "Organisational structure and culture",
+                "Evaluating and ending projects"
+            ],
+            "CAREERS / INDUSTRY LINKS",
+            "This subject is relevant to careers as project consultants and managers in scientific fields. Since many large science-based organizations today carry out significant project work there is a large ongoing demand for people with knowledge of this topic from both private consulting and government run organizations. Students will develop real world skills that they can use in industry. There will be one or two lectures from invited practitioners from industry."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

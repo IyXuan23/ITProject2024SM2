@@ -1,0 +1,401 @@
+{
+    "subject name": "Research Internship",
+    "subject code": "SKIL90005",
+    "subject availability": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+    ],
+    "overview": [
+        "This subject allows graduate researchers to undertake a 3 to 6-month (full-time equivalent) research and development (R&D) internship with a host organisation (industry partner) in an area broadly related to their area of research. An internship is related to their area of research if it makes use of or contributes to their research skills or their discipline knowledge. Graduate researchers will undertake a defined research project within the host organisation and/ or participate in team-based R&D, while also being exposed to the broader operational contexts of the organisation or industry.",
+        "The internship will provide graduate researchers with the opportunity to apply their research skills and capacity in an organisational context, to gain practical experience and increase their discipline knowledge, and build professional networks to enhance their career options. Graduate researchers will have the opportunity to further develop their employability skills including communication, interpersonal, analytical, problem-solving, organisational, project-management and time-management skills, and to contextualise their research area within industry concerns and needs.",
+        "Enrolment in this subject requires approval to participate in the internship program, including approval by the Graduate Research Internships team and the graduate researcher's principal supervisor. Graduate researchers will be required to sign a student deed, which may include a confidentiality agreement and/or assign ownership of intellectual property generated during the internship to the host organisation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Completion of Research Integrity online training (RIOT)",
+                "Completion of a student deed, as part of an Intern Agreement signed by the University and the host organisation"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "The student must be admitted to a graduate research course and be actively enrolled in their thesis subject, or under examination.",
+                "Approval to participate in the internship program from the Graduate Research Internships team and the Principal Supervisor"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Participation of at least 60 full-time equivalent (FTE) days. 60 days (placement). Hurdle requirement:. Candidates must have met the participation requirements of the internship as outlined in the project plan and Intern Agreement",
+            "timing": "End of the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Internship final reports. 5-10 pages. Hurdle requirement:. Candidates must complete an internship final report and executive summary as required by the Intern Agreement",
+            "timing": "End of the assessment period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "January": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "460 hours"
+                },
+                {
+                    "Teaching period": "1 January 2024 to 31 March 2024"
+                },
+                {
+                    "Last self-enrol date": "28 February 2024"
+                },
+                {
+                    "Census date": "28 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "31 March 2024"
+                },
+                {
+                    "Assessment period ends": "31 March 2024"
+                }
+            ]
+        },
+        {
+            "February": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "460 hours"
+                },
+                {
+                    "Teaching period": "1 February 2024 to 30 April 2024"
+                },
+                {
+                    "Last self-enrol date": "3 April 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "30 April 2024"
+                },
+                {
+                    "Assessment period ends": "30 April 2024"
+                }
+            ]
+        },
+        {
+            "March": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "460 hours"
+                },
+                {
+                    "Teaching period": "1 March 2024 to 31 May 2024"
+                },
+                {
+                    "Last self-enrol date": "30 April 2024"
+                },
+                {
+                    "Census date": "30 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "31 May 2024"
+                },
+                {
+                    "Assessment period ends": "31 May 2024"
+                }
+            ]
+        },
+        {
+            "April": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "460 hours"
+                },
+                {
+                    "Teaching period": "1 April 2024 to 30 June 2024"
+                },
+                {
+                    "Last self-enrol date": "31 May 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "30 June 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "May": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "460 hours"
+                },
+                {
+                    "Teaching period": "1 May 2024 to 31 July 2024"
+                },
+                {
+                    "Last self-enrol date": "1 July 2024"
+                },
+                {
+                    "Census date": "1 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "31 July 2024"
+                },
+                {
+                    "Assessment period ends": "31 July 2024"
+                }
+            ]
+        },
+        {
+            "June": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "460 hours"
+                },
+                {
+                    "Teaching period": "1 June 2024 to 31 August 2024"
+                },
+                {
+                    "Last self-enrol date": "31 July 2024"
+                },
+                {
+                    "Census date": "31 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "31 August 2024"
+                },
+                {
+                    "Assessment period ends": "31 August 2024"
+                }
+            ]
+        },
+        {
+            "July": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "460 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to 30 September 2024"
+                },
+                {
+                    "Last self-enrol date": "2 September 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "30 September 2024"
+                },
+                {
+                    "Assessment period ends": "30 September 2024"
+                }
+            ]
+        },
+        {
+            "August": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "460 hours"
+                },
+                {
+                    "Teaching period": "1 August 2024 to 31 October 2024"
+                },
+                {
+                    "Last self-enrol date": "30 September 2024"
+                },
+                {
+                    "Census date": "30 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "31 October 2024"
+                },
+                {
+                    "Assessment period ends": "31 October 2024"
+                }
+            ]
+        },
+        {
+            "September": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "460 hours"
+                },
+                {
+                    "Teaching period": "1 September 2024 to 30 November 2024"
+                },
+                {
+                    "Last self-enrol date": "31 October 2024"
+                },
+                {
+                    "Census date": "31 October 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "30 November 2024"
+                },
+                {
+                    "Assessment period ends": "30 November 2024"
+                }
+            ]
+        },
+        {
+            "October": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "460 hours"
+                },
+                {
+                    "Teaching period": "1 October 2024 to 31 December 2024"
+                },
+                {
+                    "Last self-enrol date": "2 December 2024"
+                },
+                {
+                    "Census date": "2 December 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "31 December 2024"
+                },
+                {
+                    "Assessment period ends": "31 December 2024"
+                }
+            ]
+        },
+        {
+            "November": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "460 hours"
+                },
+                {
+                    "Teaching period": "1 November 2024 to 31 January 2025"
+                },
+                {
+                    "Last self-enrol date": "24 December 2024"
+                },
+                {
+                    "Census date": "24 December 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "31 January 2025"
+                },
+                {
+                    "Assessment period ends": "31 January 2025"
+                }
+            ]
+        },
+        {
+            "December": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "460 hours"
+                },
+                {
+                    "Teaching period": "1 December 2024 to 28 February 2025"
+                },
+                {
+                    "Last self-enrol date": "24 December 2024"
+                },
+                {
+                    "Census date": "24 December 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "28 February 2025"
+                },
+                {
+                    "Assessment period ends": "28 February 2025"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

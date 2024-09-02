@@ -1,0 +1,147 @@
+{
+    "subject name": "English & Theatre Studies Thesis Part 1",
+    "subject code": "ENGL40026",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "Topics selected in consultation with the coordinator. Enrolment in the thesis is across two consecutive semesters and students must enrol in the subject in each semester to ensure they are meeting the full 50 point requirement for the year-long subject."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ARTS40001"
+                ],
+                "Admission into the English and Theatre specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours), English and Theatre Studies specialisation (formal) in the GDA-ARTS Graduate Diploma in Arts (Advanced)"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ENGL40019 English Thesis",
+        "ENGL40023 English & Theatre Studies Thesis"
+    ],
+    "assessments": [
+        {
+            "description": "A thesis on an approved topic written over two consecutive semesters (due at the end of the second semester of enrolment). 15,000 words",
+            "timing": "Due at the end of the second semester of enrolment",
+            "percentage": "100%"
+        },
+        {
+            "description": "Hurdle requirement:. 1.\tStudents are required to attend a minimum of 80% of supervision meetings in order to qualify to have their written work assessed.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2.\tLate Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Justin Clemens"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular, documented consultations over two semesters with the supervisor(s) as arranged. Meetings should normally occur at least fortnightly and should be at least of half an hour duration."
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Justin Clemens"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular, documented consultations over two semesters with the supervisor(s) as arranged. Meetings should normally occur at least fortnightly and should be at least of half an hour duration."
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "jclemens@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "jclemens@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/culture-communication"
+        ]
+    }
+}

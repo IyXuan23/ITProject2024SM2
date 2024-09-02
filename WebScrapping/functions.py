@@ -3,6 +3,49 @@ from bs4 import BeautifulSoup
 import json
 import os
 
+def retrieveLinks(file):
+
+    with open(file, 'r') as f:
+        links = json.load(f)
+
+    return links['links']
+
+def scrapeOfferedLinks(numOfPages, targetArray, url):
+
+    className = 'search-result-item__anchor'
+    #while loop will iterate through all the subject pages and return an array of the links for each individual subject
+    i = 1
+    while (i <= numOfPages):
+
+        newURL = url + str(i) + '&sort=_score%7Cdesc'
+        response = requests.get(newURL)
+        soup = BeautifulSoup(response.text, 'html.parser')
+
+        resultLi = soup.find('ul', class_='search-results__list')
+
+        for li in resultLi:
+            link = li.find('a', class_=className)
+            courseCode = li.find('span', class_='search-result-item__code').get_text()
+            courseName = li.find('h3').get_text()
+            
+            available = li.find('div', class_='search-result-item__meta-primary')
+            if available.get_text(strip=True) != 'Not offered in 2024':
+                newLink = 'https://handbook.unimelb.edu.au' + link.get('href')
+                targetArray.append([courseCode, courseName, newLink])
+
+        print("scrapped page" + str(i))
+        i += 1    
+
+    
+    fileName = 'subjectLinks.json'
+    filePath = os.path.join('linkStorage', fileName)
+    #store in json for quick access
+    with open(filePath, 'w') as json_file:
+
+        data = {'links': targetArray}
+
+        json.dump(data, json_file, indent=4)
+
 def scrapeLinks(numOfPages, targetArray, url):
 
     """#function to scrape the links for each item, by iterating through their pages and getting the 
@@ -61,19 +104,6 @@ def scrapeOverview(url):
 
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
-
-    #scrapping name and subject code
-    try:
-        subjectHeader = soup.find('span', class_='header--course-and-subject__main')
-        subjectText = subjectHeader.text.strip()
-        parts = subjectText.split('(')
-        
-        subjectName = parts[0].strip()
-        subjectCode = parts[1].replace(')', '').strip()
-
-    except AttributeError:
-        subjectHeader = None
-        print("Subject Name Not Found")
 
     #scrapping aim and description
     try:
@@ -163,7 +193,7 @@ def scrapeOverview(url):
         print("Subject Availability Not Found")                
                 
 
-    return subjectName, subjectCode, overview, aims, indicativeContent, availability
+    return overview, aims, indicativeContent, availability
 
 def parseTable(table):
     """helper function: parse table from html, will return the courses as an array"""
@@ -481,9 +511,17 @@ def scrapeCoReq(courseCode):
 
     courseCode = courseCode.lower()
     preReqURL = 'https://handbook.unimelb.edu.au/subjects/' + courseCode + '/eligibility-and-requirements'
+    preReqURLAlt = 'https://handbook.unimelb.edu.au/2024/subjects/' + courseCode + '/eligibility-and-requirements'
+
+    print(preReqURL)
+    print(preReqURLAlt)
 
     response = requests.get(preReqURL)
     soup = BeautifulSoup(response.text, 'html.parser')
+
+    if response.url != preReqURL:
+        response = requests.get(preReqURLAlt)
+        soup = BeautifulSoup(response.text, 'html.parser')
 
     try:
         coReqHeader = soup.find('h3', text='Corequisites')
@@ -509,13 +547,15 @@ def scrapeNonAllowed(courseCode):
 
     try:
         nonAllowedHeader = soup.find('h3', text='Non-allowed subjects')
+        print('\n')
+        print(nonAllowedHeader)
 
     except AttributeError:
         print("Non-allowed Subject Not Found")
         return -1
 
     #look for the none tag
-    nonAllowedPara = nonAllowedHeader.find_next('p')   
+    nonAllowedPara = nonAllowedHeader.find_next('p')
     if nonAllowedPara.text.strip().lower() == 'none':
         return 'None' 
     
@@ -792,11 +832,11 @@ def scrapeFurtherInfo(courseCode):
     return furtherInfoData    
 
 
-def scrapSubject(url):
+def scrapSubject(url, subjectName, subjectCode):
 
     """function for scraping a singular subject information, and will return the data in the form of a json file"""
 
-    subjectName, subjectCode, overview, aims, indicativeContent, availability = scrapeOverview(url)
+    overview, aims, indicativeContent, availability = scrapeOverview(url)
 
     coReq = scrapeCoReq(subjectCode)
     nonAllowed = scrapeNonAllowed(subjectCode)

@@ -1,0 +1,145 @@
+{
+    "subject name": "Molecular and Cellular Biomedicine",
+    "subject code": "BIOM20001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The subject introduces students to the molecular and cellular aspects of biological systems, with particular emphasis on human biology. The subject is arranged for students to develop an understanding of the molecular aspects of biology at the biomolecular, sub-cellular and cellular level, leading to systems biology at an organismal level. This includes an understanding of the molecular and cellular basis of infections and host cell responses. The subject is multi-disciplinary being co-taught by staff in the departments of Anatomy & Neuroscience, Biochemistry & Molecular Biology, Genetics, Microbiology & immunology, and Pathology. There is particular emphasis on integration of these disciplines, with students receiving both theoretical and practical knowledge of fundamental research and development at the frontiers of these areas.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOL10002",
+                    "CHEM10006"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "BIOM10002"
+                ]
+            ],
+            "additional pre-requisite": [
+                "BIOL10003 Genes and Environment"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BCMB20002",
+        "CEDB20003",
+        "MIIM20001",
+        "PATH20001",
+        "Passing BIOM20001 Molecular and Cellular Biomedicine precludes subsequent credit for BCMB20006 Biochemistry in Agricultural Systems"
+    ],
+    "assessments": [
+        {
+            "description": "Written assignment (group work preparation - 4-6 students). 100 words (equivalent). Hurdle requirement:. Task must be completed to satisfactory standard (ie. a pass grade).",
+            "timing": "Week 2 or week 3",
+            "percentage": "0%"
+        },
+        {
+            "description": "2x written assignment (5% each)\r\nThroughout the teaching period. 500 words (each). Hurdle requirement:. Task must be completed to satisfactory standard (ie. a pass grade)",
+            "timing": "Week 3 or Week 4 and Week 9 or Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "5x intra-semester test (10% each)\r\nThroughout the teaching period. 45 minutes (each)",
+            "timing": "In Week 4, Week 6, Week 8, Week 10 and Week 12",
+            "percentage": "50%"
+        },
+        {
+            "description": "2 x examinations\r\nPart 1: written exam, individual assignment, 2 hours (30%)\r\nPart 2: written exam, group (4-6 students) assignment, 1 hour (10%). 3 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Must attend at least 80% of practical classes.. Hurdle requirement:. Must attend at least 80% of practical classes.",
+            "timing": "",
+            "percentage": "0%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Odilia Wijburg"
+                },
+                {
+                    "Coordinator": "Louise Adams"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Contact hours: \r\nWeekly: \r\n3hrs asynchronous lectures (pre-recorded)\r\n4hrs synchronous workshops\r\n\r\nFortnightly (total of 5 repeats):\r\n3hrs synchronous practical\r\n1hr synchronous assessment session\r\n\r\nTotal contact hours: 92 hours\r\n12 x 7hrs = 72 hrs\r\n5x 3hrs practicals = 15 hrs\r\n5x 1hr assessment session = 5 hrs"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinator"
+                ],
+                "email": [
+                    "MCB-BIOM20001@unimelb.edu.au",
+                    "MCB-BIOM20001@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Alberts B, Johnson A, Lewis J, Raff M, Roberts K, Walter P, \"Molecular Biology of the Cell\", 7th Edition"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "These individual texts are strongly recommended if you intend to pursue further study in the respective area:",
+                    "Nelson D, Cox M, \u201cLehninger Principles of Biochemistry\u201d, 6thEdition",
+                    "Griffiths AJF et al., Introduction to genetic analysis\u201d, 12thEdition",
+                    "Engleberg NC et al., Schaechter\u2019s Mechanisms of Microbial Disease\u201d 6thEdition",
+                    "Kumar V et al., Robbins Basic Pathology\u2019, 10thEdition",
+                    "\u00b7 Kumar V et al., 'Robbins Basic Pathology', 8th edition"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students enrolled in the Bachelor of Biomedicine.",
+            "Students undertaking this unit should have access to an internet-enabled computer.",
+            "B-BMED students who fail this subject with a mark of 45-49%, who do not fail any other subjects in the same semester may be eligible for a progression supplementary exam for this subject in line with theAssessment Procedure(point 15). Students will be contacted via email by the University Results final release date if they are eligible."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

@@ -18,9 +18,17 @@ subjectURL = 'https://handbook.unimelb.edu.au/search?study_periods%5B%5D=all&are
 courseURL = 'https://handbook.unimelb.edu.au/search?types%5B%5D=course&year=2024&subject_level_type%5B%5D=all&study_periods%5B%5D=all&area_of_study%5B%5D=all&org_unit%5B%5D=all&campus_and_attendance_mode%5B%5D=all&page='
 breadthURL = 'https://handbook.unimelb.edu.au/search?study_periods%5B%5D=all&area_of_study%5B%5D=all&types%5B%5D=breadth&year=2024&level_type%5B%5D=all&campus_and_attendance_mode%5B%5D=all&org_unit%5B%5D=all&page='
 
-# scrapeLinks(NUM_OF_COURSES_PAGES, courseLinkArray, courseURL)
-# scrapeLinks(NUM_OF_SUBJECTS_PAGES, subjectLinkArray, subjectURL)
-scrapeLinks(NUM_OF_BREADTH_TRACK_PAGES, breadthtrackLinkArray, breadthURL)
+#scrapeLinks(NUM_OF_COURSES_PAGES, courseLinkArray, courseURL)
+#scrapeOfferedLinks(NUM_OF_SUBJECTS_PAGES, subjectLinkArray, subjectURL)
+#scrapeLinks(NUM_OF_BREADTH_TRACK_PAGES, breadthtrackLinkArray, breadthURL)
+
+#5233 entries, we do it by 50s
+subjectLinks = retrieveLinks('linkStorage\subjectLinks.json')
+
+#0-51 DONE
+
+for link in subjectLinks[0:51]:
+    scrapSubject(link[2], link[1], link[0])
 
 #scrapSubject("https://handbook.unimelb.edu.au/subjects/comp30022")
 # scrapSubject("https://handbook.unimelb.edu.au/2024/subjects/comp10001")
@@ -52,9 +60,8 @@ scrapeLinks(NUM_OF_BREADTH_TRACK_PAGES, breadthtrackLinkArray, breadthURL)
 
 #scrapping for breadth track
 #scrapeBT('https://handbook.unimelb.edu.au/2024/components/btrack-121')
-
-for BT in breadthtrackLinkArray:
-    scrapeBT(BT)
+# for BT in breadthtrackLinkArray:
+#     scrapeBT(BT)
 
 
 

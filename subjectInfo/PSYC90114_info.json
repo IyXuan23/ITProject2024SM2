@@ -1,0 +1,98 @@
+{
+    "subject name": "Professional Psychology Skills 2",
+    "subject code": "PSYC90114",
+    "subject availability": [
+        "January"
+    ],
+    "overview": [
+        "This subject builds upon content and skills learned in PSYC90113 Professional Psychology Skills 1. Students will receive training in the rationale for mental state examinations within a comprehensive psychological assessment, practice key interviewing skills required to conduct an examination and write up an examination report from a hypothetical case. Students will receive a theoretical understanding of Acceptance and Commitment Therapy and provide a formulation of psychopathology and resilience, before practicing key strategies and applying that to a hypothetical case. Students will learn about the nature of psychological risk, the requirements of risk assessment, how to conduct an assessment, and how to intervene appropriately. The subject will include opportunities for students to practice newly acquired skills through role-plays and simulated client interactions."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "10 minute oral demonstration, and 750 word written report of mental state examination.. Hurdle requirement:. Must be completed",
+            "timing": "Early in the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written report demonstrating determination of psychological diagnosis  and case formulation. 1500 words. Hurdle requirement:. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written report demonstrating knowledge of Acceptance and Commitment Therapy principles. 1500 words. Hurdle requirement:. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Oral presentation (10 minute demonstration) and 1500 word written report of risk assessment and rationale referencing established literature. Hurdle requirement:. Must be completed.",
+            "timing": "End of semester",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "January": [
+                {
+                    "Principal coordinator": "Margaret Osborne"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "250 hours"
+                },
+                {
+                    "Teaching period": "15 January 2024 to 19 March 2024"
+                },
+                {
+                    "Last self-enrol date": "29 January 2024"
+                },
+                {
+                    "Census date": "2 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "8 March 2024"
+                },
+                {
+                    "Assessment period ends": "28 March 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "January": {
+                "name": [],
+                "email": [
+                    "mosborne@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}
