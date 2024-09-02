@@ -1,0 +1,42 @@
+{
+    "name": "Property",
+    "information": {
+        "Overview": [
+            "This breadth track for students qualifies students to apply for a 200-point (two-year) Master of Property."
+        ],
+        "Subject Options": [
+            "Breadth track for Bachelor of Commerce students ( B-COM)",
+            "This breadth track is suitableonlyfor Bachelor of Commerce students as some of the subjects assume background economics knowledge.",
+            [
+                "PROP20002",
+                "PROP20003",
+                "PROP30001",
+                "PROP30002"
+            ],
+            "",
+            "Optional Subject",
+            "The following subject allow students to deepen their understanding of how the Property Industry operates, how the Construction Industry relates to, and integrates with, Property decisions.",
+            [
+                "ABPL30059"
+            ],
+            "",
+            "Note: Design and Property Industry Studies (PROP20003) is required as prerequisite to Property Case Studies (ABPL30059)",
+            "Breadth track for Non-Commerce students",
+            [
+                "PROP10001",
+                "PROP20002",
+                "PROP20003"
+            ],
+            "",
+            "Optional Subjects",
+            "The following subject allow students to deepen their understanding of how the Property Industry operates, how the Construction Industry relates to, and integrates with, Property decisions",
+            [
+                "PROP30002"
+            ],
+            ""
+        ],
+        "What is a Breadth Track?": [
+            "A breadth track is a sequence of three or more subjects (taken as part of a Melbourne Bachelor degree) that progressively develops knowledge and skills relevant to a coherent domain, theme, topic or issue. It is a suggested set of subjects, rather than a requirement."
+        ]
+    }
+}

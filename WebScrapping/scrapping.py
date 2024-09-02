@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 
 from functions import *
 from functionsCourses import *
+from functionsBreadthTrack import *
 
 NUM_OF_SUBJECTS_PAGES = 314
 NUM_OF_COURSES_PAGES = 28
@@ -19,7 +20,7 @@ breadthURL = 'https://handbook.unimelb.edu.au/search?study_periods%5B%5D=all&are
 
 # scrapeLinks(NUM_OF_COURSES_PAGES, courseLinkArray, courseURL)
 # scrapeLinks(NUM_OF_SUBJECTS_PAGES, subjectLinkArray, subjectURL)
-# scrapeLinks(NUM_OF_BREADTH_TRACK_PAGES, breadthtrackLinkArray, breadthURL)
+scrapeLinks(NUM_OF_BREADTH_TRACK_PAGES, breadthtrackLinkArray, breadthURL)
 
 #scrapSubject("https://handbook.unimelb.edu.au/subjects/comp30022")
 # scrapSubject("https://handbook.unimelb.edu.au/2024/subjects/comp10001")
@@ -42,9 +43,18 @@ breadthURL = 'https://handbook.unimelb.edu.au/search?study_periods%5B%5D=all&are
 # scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30027')
 # scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30026')
 
-#scrapeCourses('https://handbook.unimelb.edu.au/2024/courses/b-sci')
 
-scrapeCourses('https://handbook.unimelb.edu.au/2024/courses/b-des')
+
+#scrapping for the (bachelor) courses
+
+#scrapeCourses('https://handbook.unimelb.edu.au/2024/courses/b-sci')
+#scrapeCourses('https://handbook.unimelb.edu.au/2024/courses/b-des')
+
+#scrapping for breadth track
+#scrapeBT('https://handbook.unimelb.edu.au/2024/components/btrack-121')
+
+for BT in breadthtrackLinkArray:
+    scrapeBT(BT)
 
 
 

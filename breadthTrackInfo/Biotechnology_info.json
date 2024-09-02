@@ -1,0 +1,26 @@
+{
+    "name": "Biotechnology",
+    "information": {
+        "Overview": [
+            "This track will introduce students to the principles of biotechnology, which is the use and manipulation of living organisms, or substances obtained from these organisms, to make products of value to humanity."
+        ],
+        "Subject Options": [
+            [
+                "BIOL10004",
+                "BIOL10005",
+                "BTCH20002"
+            ],
+            "",
+            "Students can extend this breadth track by taking:",
+            [
+                "BTCH30003"
+            ]
+        ],
+        "Notes": [
+            "These subjects are not approved as breadth for Bachelor of Science, Bachelor of Biomedicine or Bachelor of Engineering students."
+        ],
+        "What is a Breadth Track?": [
+            "A breadth track is a sequence of three or more subjects (taken as part of a Melbourne Bachelor degree) that progressively develops knowledge and skills relevant to a coherent domain, theme, topic or issue. It is a suggested set of subjects, rather than a requirement."
+        ]
+    }
+}
