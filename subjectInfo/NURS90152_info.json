@@ -1,0 +1,118 @@
+{
+    "subject name": "Critical Care Nursing",
+    "subject code": "NURS90152",
+    "subject availability": [
+        "Semester 2 (Extended) - Online"
+    ],
+    "overview": [
+        "This subject provides the theoretical knowledge for specialty practice in critical care. Students will extend their knowledge from Applied Pathophysiology and Foundations in Critical Care Nursing to understand acute and complex illnesses and disease in patients who are critically ill requiring complex care management. Students will gain essential knowledge to assess, plan, manage and evaluate interventions. Patient and family perspectives of illness will be considered in the development and implementation of multi-disciplinary care planning."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "NURS90076",
+                    "NURS90122"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Case Study Analysis. 1500 words",
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Case Study Analysis. 1500 words",
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Online test. 60 minutes",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Online Test. 60 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Participation in at least 60% of online discussion activities. Evidence of 30 % participation at subject midpoint and 30 % at the end of the assessment period. Hurdle requirement:. Students demonstrate active participation in relevant discussion board posts and activities, posts make clearly relevant, considered contribution to the discussion, facilitating reflection/extension of others' contributions, and posts promote ongoing discussion and participation of others, contributing to an environment that enhances learning.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 (Extended) - Online": [
+                {
+                    "Principal coordinator": "Laura Layton"
+                },
+                {
+                    "Coordinator": "Tim Davis"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "16"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "24 June 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students are required to familiarise themselves with the subject's Learning Management System (LMS), subject information, including assessment tasks."
+                },
+                {
+                    "Teaching period": "1 July 2024 to 17 November 2024"
+                },
+                {
+                    "Last self-enrol date": "5 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "24 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2 (Extended)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

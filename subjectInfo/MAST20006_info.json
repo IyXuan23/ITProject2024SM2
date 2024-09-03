@@ -1,0 +1,152 @@
+{
+    "subject name": "Probability for Statistics",
+    "subject code": "MAST20006",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject develops the probability theory that is necessary to understand statistical inference. Properties of probability are reviewed, random variables are introduced, and their properties are developed and illustrated through common univariate probability models. Models for the joint behavior of random variables are introduced, along with conditional probability and Markov chains. Methods for obtaining the distributions of functions of random variables are considered along with techniques to obtain the exact and approximate distributions of sums of random variables. These methods will be illustrated through some well known normal approximations to discrete distributions and by obtaining the exact and approximate distributions of some commonly used statistics. Computer packages are used for numerical calculations but no programming skills are required."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "MAST10018 Linear Algebra Extension Studies"
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST10006",
+                    "MAST10009",
+                    "MAST10021"
+                ],
+                [
+                    "MAST10007",
+                    "MAST10008",
+                    "MAST10010",
+                    "MAST10011",
+                    "MAST10022"
+                ]
+            ],
+            "additional pre-requisite": [
+                "MAST10019 Calculus Extension Studies",
+                "MAST10013 UMEP Maths for High Achieving Students"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MAST20004",
+        "MAST30015 Statistics for Mechanical Engineers (prior to 2011)",
+        "ELEN30002 Stochastic Signals and Systems (prior to 2011)"
+    ],
+    "assessments": [
+        {
+            "description": "Five written assignments due at regular intervals amounting to a total of up to 20 hours (4 hours each). 240 minutes (each)",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "A computer laboratory test. 45 minutes",
+            "timing": "End of semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Sophie Hautphenne"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week, 1 x one hour practice class per week, and 1 x one hour computer laboratory class per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "sophiemh@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Hogg and Tanis,Probability and Statistical Inference. 8th Edition, Prentice Hall, 2010."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course.",
+            "Students undertaking Actuarial Studies should take MAST20004 Probability instead of MAST20006 Probability for Statistics.",
+            "Students undertaking this subject are required to regularly use computers with the statistics package R installed.",
+            "Students undertaking this subject are not assumed to have any special computer skills at the beginning. They will learn the basic skills of using R in the subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

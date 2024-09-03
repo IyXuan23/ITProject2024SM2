@@ -1,0 +1,178 @@
+{
+    "subject name": "Calculus 2: Advanced",
+    "subject code": "MAST10021",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject covers the same material as MAST10006 Calculus 2, but to a greater depth and with a greater emphasis on concepts, mathematical rigour, and proofs.Students are introduced to functions of several variables, the notion of a limit, and properties of continuous functions. Moreover, level curves, partial derivatives, the chain rule, directional derivatives, tangent planes and extrema for functions of several variables are discussed.For functions of one variable, the concepts of differentiation and integration are reviewed, and the Fundamental Theorem of Calculus is presented. Integration by parts, and substitution are covered as the main methods of integration.The subject also exposes students to ordinary differential equations. In particular, linear differential equations of both first and second order are discussed, as well as separable first order equations. Several special functions, such as the hyperbolic functions, and their inverses are covered in this context. Applications include the description of population models, and electrical circuits and mechanical oscillators.The subject also introduces the idea of approximating functions by polynomials. In particular, Taylor polynomials for functions of one variable are discussed, and Taylor's theorem is presented.In addition, the subject introduces infinite sequences and series, and the concepts of convergence and divergence. In addition to the intuitive understanding of convergence, students will see the mathematical definition of convergence.Finally complex functions, and complex power series are introduced. In particular, the complex exponential function, and its properties are discussed."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Required subjects",
+                "A study score of at least 36 in VCE Specialist Mathematics 3/4, or equivalent"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "MAST10005"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "with a mark of at least 80%"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                [
+                    "MAST10007"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "with a mark of at least 75%"
+            ]
+        },
+        {
+            "option": "Option 4",
+            "necessary pre-requisite": [
+                [
+                    ""
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "with a mark of at least 75%"
+            ]
+        },
+        {
+            "option": "Option 5",
+            "necessary pre-requisite": [
+                [
+                    "MAST10022"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MAST10019 Calculus Extension Studies"
+    ],
+    "assessments": [
+        {
+            "description": "Six to eight assignments (written or online) due at regular intervals during semester (approximately 24 hours total, worth 15%).\r\n\r\nUp to one half of the assignment based assessment will be completed online.. 800 words (equivalent)",
+            "timing": "During the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "A written mid-semester test. 45 minutes",
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "3-hour written examination in the examination period (70%).. 3 hours",
+            "timing": "During the assessment period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Chenyan Wu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week, 1 x one hour practice class per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "chenyan.wu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    [
+                        "Spivak, Michael. Calculus. Fourth Edition. Publish or Perish, Inc., 2008.",
+                        "Folland, Gerald. B. Advanced Calculus. Prentice Hall, 2002."
+                    ]
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

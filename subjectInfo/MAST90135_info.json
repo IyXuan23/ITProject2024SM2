@@ -1,0 +1,109 @@
+{
+    "subject name": "Foundations of Analytics",
+    "subject code": "MAST90135",
+    "subject availability": [
+        "Term 4 - Online"
+    ],
+    "overview": [
+        "The Foundations of Analytics is a core subject in the Health specialisation. It looks at the foundational principles and practice of modern data analytics, including techniques of data manipulation, presentation, and analysis. It\u2019s teaching approach will emphasis interpretation underpinned by an understanding of the appropriate use of data, rather than just disseminating the technical details about performing an analysis. Students will be introduced to probability models used for a continuous response and will learn how to use methods such as linear models, tree-based methods and forecasting. Students will also use statistical software to analyse data."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST90130"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Contribution to online discussions.  Assessment will be based on participation.. 500 words",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Three concise essays to appraise the analytics used in a study, public debate and official report, each 300 words. . Students will be assessed based on their understanding and critique of the methods, and their discussion of the validity of the results. Due end of weeks 2, 4 and 6.. 900 words",
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Short answer online test  To include multiple choice questions to assess understanding of the analytics concepts.. 1250 words",
+            "timing": "Week 7",
+            "percentage": "35%"
+        },
+        {
+            "description": "Case study written assignment. Case study written assignment (2500 words. Students will be assessed based on their detailed understanding and critique of the methods, and their discussion of the validity of the results. Additionally, students should be able to perform their own analysis using techniques developed in the subject.. 2500 words",
+            "timing": "End of term",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Term 4 - Online": [
+                {
+                    "Coordinators": "Ian Gordon and Sue Finch"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "3-4 hours per week, including online lectures, discussion forums and other resources"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "7 October 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are given the opportunity to get used to the online platform, meet the instructors/tutors and become familiar with how to access resources before the teaching period starts."
+                },
+                {
+                    "Teaching period": "14 October 2024 to  8 December 2024"
+                },
+                {
+                    "Last self-enrol date": "8 October 2024"
+                },
+                {
+                    "Census date": "1 November 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "22 November 2024"
+                },
+                {
+                    "Assessment period ends": "15 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Term 4": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Students will have access to electronic copies of relevant readings"
+                ]
+            }
+        ]
+    }
+}

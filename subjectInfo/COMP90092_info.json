@@ -1,0 +1,167 @@
+{
+    "subject name": "Digital Innovation Project - Part 1",
+    "subject code": "COMP90092",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides students with the necessary skills to engage in a deep innovation investigation under the supervision of a member of the academic staff and in the context of industry engagement initiatives. Students working in groups use their computational knowledge to undertake customer inquiry, problem discovery, concept ideation and product validation for a real-world challenge. The digital innovation stream is taught by a combination of academics, industry experts and entrepreneurs, corporate executives, intellectual property attorneys and venture capitalists. As such, it provides a unique opportunity to gain real world experience while still in an academic environment."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "This subject will be split into two parts, Part 1 and Part 2 (continuing subjects). 50 credit points in total (Part 1 - 12.5 credit points, Part 2 \u2013 37.5 credit points)",
+                "Students must submit an Expression of Interest. Upon acceptance, students will need to complete an Enrolment Assistance form attaching approval to enrol."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "This subject is equivalent to 12.5 points in one semester and 37.5 pts in the second semester."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "COMP90055",
+        "COMP90082",
+        "INFO90008",
+        "INFO90010"
+    ],
+    "assessments": [
+        {
+            "description": "Computational Needs - One team-based written assignment, 4-5 students in a team(peer-assessed) on the computational needs of a particular context which identifies opportunities for digital innovation. Intended Learning Outcomes (ILOs) 1-5 and 8 are addressed in this assessment.. 2000 words",
+            "timing": "Week 7 of first semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Computational Design - One team-based progress report (peer-reviewed) detailing investigation findings and design requirements.  ILOs 1-5 and 8 are addressed in this assessment.. 3000 words",
+            "timing": "Week 12 of first semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Concept Pitch - One team-based oral presentation comprising 10 minutes per student (individual). This presentation should provide a detailed description from the team of a computational problem, a broad market review, an engineering concept of 3-4 solutions, regulation and reimbursement strategies, and IP challenges are assessed in this presentation.  ILOs 1-5 and 8 are addressed in this assessment.. 10 minutes",
+            "timing": "Week 2 of second semester",
+            "percentage": "5%"
+        },
+        {
+            "description": "Invention: An individual technical oral examination of no more than 30 minutes duration per student. Technical oral examination includes a formal presentation of 15 minutes followed by questions from an academic supervisor and academic examiner. ILOs 1-8 are addressed in this assessment.. 30 minutes",
+            "timing": "Week 10 of second semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Showcase : A 15 minutes (per student) general oral demonstration (team-based, peer assessed)   that showcases the final design concept and illustrates how it would be used to address the problem(s) identified in the investigation supported by display materials (e.g. video, poster, computer demonstration, prototype).  ILOs 1-8 are addressed in this assessment.. 15 minutes",
+            "timing": "Week 11 of second semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Technical Report: A professional final report (team-based, peer-assessed) of 8,000 words, excluding appendices or supporting material that can include diagrams, tables, computations and computer code/output. ILOs 1-8 are addressed in this assessment.. 8000 words",
+            "timing": "Exam period of second semester",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Adrian Pearce"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Lecture \u2013 1 hr per week; Workshop \u2013 2 hrs per week"
+                },
+                {
+                    "Total time commitment": "800 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Adrian Pearce"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Lecture \u2013 1 hr per week; Workshop \u2013 2 hrs per week"
+                },
+                {
+                    "Total time commitment": "800 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "adrianrp@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "adrianrp@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject will be delivered through lectures and workshops. Students working in groups use their computational knowledge to undertake customer inquiry, problem discovery, concept ideation and product validation for a real-world challenge.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students will be provided with lecture notes, workshop materials, and references to textbooks.",
+            "CAREERS / INDUSTRY LINKS",
+            "The digital innovation stream is taught by a combination of academics, industry experts and entrepreneurs, corporate executives, intellectual property attorneys and venture capitalists. As such, it provides a unique opportunity to gain real world experience while still in an academic environment."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

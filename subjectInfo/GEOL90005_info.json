@@ -1,0 +1,137 @@
+{
+    "subject name": "Hydrogeology/Environmental Geochemistry",
+    "subject code": "GEOL90005",
+    "subject availability": [
+        "February"
+    ],
+    "overview": [
+        "This subject will investigate, both qualitatively and quantitatively, the fundamental physical and chemical processes governing groundwater flow and composition, including aquifer properties, regional geology, hydrology and water-rock interactions. Field and laboratory methods such as well tests, water analysis in the field and in the laboratory and data analysis are demonstrated and used to characterise hydraulic conductivity and mixing, water types and potential contamination. A one-week field excursion to the Newer Volcanic Province and the Limestone Coast will draw together many of these concepts and will emphasise surface and groundwater connectivity and groundwater supported ecosystems.",
+        "This subject will have a 1-week intensive field trip that will be delivered in the week prior to the start of Semester 1 (pre-teaching period) and 6 weeks of teaching during weeks 1-6 of Semester 1."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "GEOL30003"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ENEN90038"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Team presentation (5-10 mins of presentation by each student). 500 words",
+            "timing": "End of the field excursion",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assignment: Field report. 2000 words",
+            "timing": "Due in weeks 2 - 3 of Semester 1",
+            "percentage": "40%"
+        },
+        {
+            "description": "Assignment: Practical Lab Report. 500 words",
+            "timing": "Due in weeks 5 - 6 of Semester 1",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assignment: Research plan. 2000 words",
+            "timing": "During the assessment period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Coordinator": "Ralf Haese"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "6-days (with 8 hours per day) field excursion in the week prior to the start of Semester 1. \r\n1 x two-hour lectures and 1 x two-hour practical class per week over 6 teaching weeks in Semester 1."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "12 February 2024"
+                },
+                {
+                    "Pre teaching requirements": "Readings to be completed in the pre-teaching period."
+                },
+                {
+                    "Teaching period": "19 February 2024 to  5 April 2024"
+                },
+                {
+                    "Last self-enrol date": "13 February 2024"
+                },
+                {
+                    "Census date": "15 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [],
+                "email": [
+                    "ralf.haese@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Selected chapter from Peter Ryan: Environmental and Low-Temperature Geochemistry and from C.W. Fetter: Applied Hydrogeology"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.earthsci.unimelb.edu.au/hydro"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

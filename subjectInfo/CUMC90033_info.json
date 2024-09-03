@@ -1,0 +1,145 @@
+{
+    "subject name": "Cultural Materials Conservation Science",
+    "subject code": "CUMC90033",
+    "subject availability": [
+        "July"
+    ],
+    "overview": [
+        "This subject aims to provide students, who have an assumed knowledge of chemistry, with an introductory understanding of the chemistry and science that influences the properties and behaviour of a range of original and added materials, associated with cultural heritage materials.  Within a conservation intervention hierarchy framework, students will apply their fundamental understanding of the relationship between materials (organic, inorganic and metal), their bonds, chemical structure, solubility and other properties to an understanding of the:",
+        "Material composition of cultural heritage objects and their susceptibility to chemical, physical and biological paths of degradation.",
+        "Application of intervention materials (like solvents, polymers and paints), which can be manipulated using auxiliary materials (solvents and poultices) to achieve the desired aesthetic or stabilisation conservation outcome, such as the removal of non-original materials, adhesion and consolidation.",
+        "Interaction of intervention materials with cultural heritage objects and the surrounding environment.",
+        "Students who do not have a background in Chemistry, can obtain this by doing the Chemistry Bridging Course, which will be offered by the Grimwade Centre prior to the delivery of this subject.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-CULMC Master of Cultural Materials Conservation",
+                "Principles of Cultural Materials Conservation specialisation (formal) in the GCA-ARTS Graduate Certificate in Arts (Advanced)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CUMC40008 Conservation Materials Chemistry"
+    ],
+    "assessments": [
+        {
+            "description": "Two technical reports. 500 words (each)",
+            "timing": "During the assessment period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Two technical reports. 500 words (each)",
+            "timing": "During the assessment period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Three technical reports. 500 words (each)",
+            "timing": "During the assessment period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Three technical reports. 500 words (each)",
+            "timing": "During the assessment period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Hurdle requirement:. Students are required to attend a minimum of 100% of classes in order to pass this subject and regular class participation is expected.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "During the assessment period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "July": [
+                {
+                    "Principal coordinator": "Petronella Nel"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours - 12 x 1 hour lectures and 12 x 2 hour practicals."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "24 June 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are expected to complete the course readings, review the online lectures and any other course preparation as outlined on the LMS.  The LMS will become available at the commencement of the pre-teaching dates."
+                },
+                {
+                    "Teaching period": "15 July 2024 to 26 July 2024"
+                },
+                {
+                    "Last self-enrol date": "28 June 2024"
+                },
+                {
+                    "Census date": "19 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "26 July 2024"
+                },
+                {
+                    "Assessment period ends": "16 August 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [],
+                "email": [
+                    "pnel@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "A subject reader will be available in the pre-teaching period."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "In addition to the Subject Reader, the following texts are recommended for this subject and can be purchased from online book stores and/or borrowed from the Bailleau library (copies will also be available in class):",
+                    [
+                        "Zumdahl, S & Zumdahl, SA 2014.Chemistry, 9th edition, Houghton Mifflin Company (highly recommended) (UniM ERC open high use 540 ZUM).",
+                        "Callister, W 2014.Material Science and Engineering an Introduction, 9th edition, USA:  John Wiley and Sons Inc. (UniM ERC open high use 620.11 CALL).",
+                        "Horie, C 1987.Materials for Conservation:  Organic Consolidants, Adhesives and Coatings, London:  Butterworths (UniM Bail high use 667.9 HORI).",
+                        "Horie, C 2010.Materials for Conservation:  Organic Consolidants, Adhesives and Coatings, London:  Butterworths (UniM e-book).",
+                        "Odegaard, N, Carroll, S & Zimmit, WS 2000.Material characterization Tests for Objects of Art and Archaeology, London:  Archetype Publications (UniM Bail high use 620.110287 ODEG).",
+                        "Mills, J & White, R 1994.The Organic Chemistry of Museum Objects, Oxford:  Butterworth and Heinemann (UniM Bail high use 069.53 MILL) (UniM e-book)."
+                    ],
+                    "It is also recommended students purchase a chemistry dictionary.",
+                    "Further recommended readings are listed in this guide and on the LMS.  Students are encouraged to augment their understanding of the topics discussed by drawing on this list.  In addition, it is expected students will develop their own learning and knowledge through wider reading and research, particularly with regard to completion of assessment items.",
+                    "Additional texts may be recommended."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/grimwadecentre#about"
+        ]
+    }
+}

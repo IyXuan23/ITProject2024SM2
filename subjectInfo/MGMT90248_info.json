@@ -1,0 +1,174 @@
+{
+    "subject name": "Analytics and Society",
+    "subject code": "MGMT90248",
+    "subject availability": [
+        "Term 2 - Online",
+        "Term 4 - Online"
+    ],
+    "overview": [
+        "This subject will broaden students\u2019 understanding of the variety of ways analytics is being used in society and the range of challenges that are associated with its use. It will also introduce students to how analytics may be used to support and drive social and organizational change.",
+        "Students will study the different stakeholders who engage in analytics projects, at both individual and group level, identifying the variation that occurs in their perspectives and its consequences for analytics use. Students will also examine the role that analytics plays in organisations and society, as a tool for evidence-based decision making and the evaluation of policies and their impact.",
+        "Students will examine professional codes of conduct for the use of analytics, in regard to ethical issues and ways to achieve an appropriate balance between privacy and utility.",
+        "Students will also investigate the motivations and ways that analytics is used by organisations to implement change, methods for measuring its impact and potential barriers for successful analytics deployment and service delivery."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST90130"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Code of Conduct, poster and written assignment. 1000 words",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Case scenario critical reflection. 1000 words",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Contribution to Online Discussions throughout term (20min/week for 8 weeks). 160 minutes",
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "description": "Case Analysis Report. 2500 words",
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Term 2 - Online": [
+                {
+                    "Coordinator": "Adil Bilal"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "4 hours per week (for a term of 8 weeks), including online lectures, resources and interactions"
+                },
+                {
+                    "Total time commitment": "160 hours"
+                },
+                {
+                    "Pre teaching start date": "22 April 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are given the opportunity to get used to the online platform, meet the instructors/tutors and become familiar with how to access resources before the teaching period starts."
+                },
+                {
+                    "Teaching period": "29 April 2024 to 23 June 2024"
+                },
+                {
+                    "Last self-enrol date": "23 April 2024"
+                },
+                {
+                    "Census date": "17 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "7 June 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "Term 4 - Online": [
+                {
+                    "Coordinator": "Adil Bilal"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "4 hours per week (for a term of 8 weeks), including online lectures, resources and interactions"
+                },
+                {
+                    "Total time commitment": "160 hours"
+                },
+                {
+                    "Pre teaching start date": "7 October 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are given the opportunity to get used to the online platform, meet the instructors/tutors and become familiar with how to access resources before the teaching period starts."
+                },
+                {
+                    "Teaching period": "14 October 2024 to  8 December 2024"
+                },
+                {
+                    "Last self-enrol date": "8 October 2024"
+                },
+                {
+                    "Census date": "1 November 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "22 November 2024"
+                },
+                {
+                    "Assessment period ends": "15 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Term 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "https://study.unimelb.edu.au/find/courses/graduate/master-of-applied-analytics"
+                ]
+            }
+        },
+        {
+            "Term 4": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "https://study.unimelb.edu.au/find/courses/graduate/master-of-applied-analytics"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Students will have access to electronic copies of relevant readings"
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

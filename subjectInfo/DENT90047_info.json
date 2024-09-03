@@ -1,0 +1,79 @@
+{
+    "subject name": "OMS Clinical Practice 1",
+    "subject code": "DENT90047",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject is the first of two clinical practice subjects taken by students enrolled in the Postgraduate Diploma in Oral and Maxillofacial Surgery.",
+        "A series of seminars, assigned readings, student-prepared assignments, case presentations, written examination answers and PBL exercises in relation to the practice of Oral and Maxillofacial Surgery contribute to the content of this subject. The Curriculum will be that defined by the College for the training of Oral and Maxillofacial Surgeons."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "To pass this subject, students must achieve an overall pass in written examinations, assignments, case presentations, viva voce and objective structured clinical examination (OSCE). Surgical skills and knowledge will be assessed by means of written and practical examinations including viva voce, OSCE and simulated surgery. Professional and peer review together with the provision of a surgical log book will be required to confirm the level of excellence required for a pass in this subject. The standards will be those defined by the College for the training of Oral and Maxillofacial Surgeons.",
+            "timing": "Throughout the teaching period",
+            "percentage": "100%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Five 3-hour sessions each week attending assigned clinics including one 3-hr session of clinical demonstration to undergraduate students."
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "https://ask.unimelb.edu.au",
+                    "enquiries-STEM@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ]
+    }
+}

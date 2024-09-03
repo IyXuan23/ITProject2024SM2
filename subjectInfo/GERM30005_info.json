@@ -1,0 +1,166 @@
+{
+    "subject name": "German 5",
+    "subject code": "GERM30005",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Students will consolidate their ability to communicate in German in oral and written discourse and develop cultural literacy in German by engaging with key themes in modern German-speaking societies such as the concept of \"kulturelle Werte\" and \"Jugendsprache\".",
+        "Students will develop more advanced language skills through reading short newspaper and magazine articles and watching film and television clips. They will produce shorter texts of different types and learn how to discuss contemporary issues. Students will also gain an understanding of the principles of organizing language as well as developing proficiency in the use of the appropriate linguistic tools for the formation of situation-appropriate vocabulary, sentence and text structures. Through the cultural studies seminars students will be introduced to selected aspects of the literature, culture and linguistics of German-speaking countries. Students will become familiar with specialized terminology and will develop analytical skills relevant to the topic area."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "GERM10002",
+                    "GERM20005"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "GERM10006",
+        "GERM20007"
+    ],
+    "assessments": [
+        {
+            "description": "Mid-semester test for the language seminar component (500 words). 30 minutes",
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Two assignments for the German studies component (1000 words),\u00a0due in weeks 8 and 11. 500 words (each)",
+            "timing": "From Week 8 to Week 11",
+            "percentage": "25%"
+        },
+        {
+            "description": "7 minutes oral group presentation. 300 words (each)",
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "description": "A reflective encyclopedia entry for the language seminar component. 200 words",
+            "timing": "Week 12",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written exam (2000 words). 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Andreas Wiebel"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total of 48 hours: one 2-hour seminar and two 1-hour seminars per week for 12 weeks."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "andreas.wiebel@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    [
+                        "Anne Buscha and Szilvia Szita, B Grammatik. Leipzig, Schubert Verlag. ISBN 978-3-941323-10-0."
+                    ]
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/soll"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Language Placement Test required",
+                    "Language Placement Test required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

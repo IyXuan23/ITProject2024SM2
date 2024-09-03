@@ -1,0 +1,169 @@
+{
+    "subject name": "Making Movies 1",
+    "subject code": "FLTV10010",
+    "subject availability": [
+        "Semester 1 - Online",
+        "Semester 2 - Online"
+    ],
+    "overview": [
+        "This subject has been designed and developed for online delivery and assessment only.",
+        "Making Movies 1 introduces students with little or no background in movie making to the fundamentals of filmmaking from the professional filmmaker\u2019s perspective.",
+        "Thisonlinesubject analyses the role of the key \u2018behind the scenes\u2019 creatives: film director, writer, producer, actor, production designer, editor and sound designer, to provide an insight into professional film making practice.",
+        "The subject also analyses key creative and practical skills such as application of genre, screenwriting, directing, cinematography, film editing & audio post-production, actor direction, production aesthetics, and film crew organisation.",
+        "Delivery is throughonlinelectures that include a wide range of film material, presented by professional film practitioners and some applied exercises. Assessments apply the knowledge gained in the lectures, including the application of the grammar of screen language to the analysis of a film project, through image-based story-telling, and a Director's vision of an original filmic idea."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Weekly Quiz: 12 brief multiple choice quizzes, relating to the weekly lecture. 800 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Visual Sequence: A sequence of original images (illustrations or photos or a combination of both) that tell a story (maximum of 10 images). 1600 words (equivalent)",
+            "timing": "Mid teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Director's Statement: Students are required to apply their Director's vision to an original film idea, articulating creative decision making across a range of areas. These include casting, genre, cinematography and audio design.. 1600 words (equivalent)",
+            "timing": "During the assessment period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinator": "Kate Whitbread"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "24 hours, comprising one 2-hour online lecture per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - Online": [
+                {
+                    "Coordinator": "Kate Whitbread"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "24 hours, comprising one 2-hour online lecture per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "For all",
+                    "enquiries, e.g. enrolment, class registration, special consideration enquiries:"
+                ],
+                "email": [
+                    "Contact Stop 1",
+                    "kwhitbread@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "For all",
+                    "enquiries, e.g. enrolment, class registration, special consideration enquiries:"
+                ],
+                "email": [
+                    "Contact Stop 1",
+                    "kwhitbread@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

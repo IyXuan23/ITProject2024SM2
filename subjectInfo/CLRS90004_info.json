@@ -1,0 +1,166 @@
+{
+    "subject name": "Clinical Research Thesis",
+    "subject code": "CLRS90004",
+    "subject availability": [
+        "February",
+        "Year Long (Extended)"
+    ],
+    "overview": [
+        "This subject provides students with the opportunity to design and conduct, under supervision, an independent clinical research project. Students will take responsibility for all aspects of the research project including the experimental design and collection of research data;, appropriate statistical analysis, and interpretation of data; and oral and written presentations of the results. Upon completion of this subject, participants will produce an original research demonstrating an effective writing style and reflecting sound reasoning, clarity of thinking and compliance with style requirements. Undertaking this subject provides an opportunity for students to define a research question and identify an appropriate methodology, conduct research independently, and demonstrate critical thinking reflecting breadth and depth of knowledge in clinical research."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CLRS90010",
+                    "CLRS90011",
+                    "CLRS90013",
+                    "CLRS90027"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the N01AA Master of Clinical Research",
+                "This subject is not available for students admitted in any other courses."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Extended literature review. 5,500 words",
+            "timing": "Middle of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Oral presentation describing project rationale and methodology. 15 minutes",
+            "timing": "Middle of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Oral presentation describing research findings. 15 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Minor research thesis - Students will receive regular feedback via consultation with the Subject Coordinator over the teaching period. 11,000 words. Hurdle requirement:. Student must achieve 50% in order to pass this assessment and to pass the subject.",
+            "timing": "End of the assessment period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Coordinator": "Anita Horvath"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "5 February 2024 to  3 June 2024"
+                },
+                {
+                    "Last self-enrol date": "29 February 2024"
+                },
+                {
+                    "Census date": "8 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "17 May 2024"
+                },
+                {
+                    "Assessment period ends": "10 July 2024"
+                }
+            ]
+        },
+        {
+            "Year Long (Extended)": [
+                {
+                    "Coordinator": "Anita Horvath"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "5 February 2024 to 28 October 2024"
+                },
+                {
+                    "Last self-enrol date": "16 February 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        },
+        {
+            "Year Long (Extended)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Nil"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Nil"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-research/"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

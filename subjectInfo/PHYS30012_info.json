@@ -1,0 +1,139 @@
+{
+    "subject name": "Physiology: Adapting to Challenges",
+    "subject code": "PHYS30012",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Physiology is the study of body systems and how it maintains homeostasis. The body systems are dynamic processes that must constantly adapt to changes both within the body and the outside environment. This subject will explore various adaptive processes in metabolism, circulation, respiration, body temperature, and muscle that is vital to maintenance of health. We will explore how these systems change and adapt at different life stages or events, such as growth, pregnancy, aging, exercise, or diet and nutrition. In addition, this subject will also explore the adaptive changes required to enable humans to survive in extreme environments or perform acts of physical endurance.",
+        "Student will engage with a number of areas of study that reflect the dynamic and evolving nature of physiology and research in physiology. Students will be introduced to new and modern research technologies that showcases recent advances in field of Physiology.",
+        "In this subject the lectures are supplemented by workshops where students have the opportunity to work collaboratively on a research project that will bring together elements of theoretical and practical Physiology. This project is designed to extend teamwork experiences, the ability to read critically, and to evaluate and communicate scientific information to both an expert audience, and a general audience."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHYS20008"
+                ],
+                [
+                    "BIOM20002"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "PHYS20009",
+                    "ZOOL20006",
+                    "ZOOL30007",
+                    "PATH30002",
+                    "BCMB30011",
+                    "BCMB30002",
+                    "BCMB30003",
+                    "BCMB30010",
+                    "CEDB30002",
+                    "PSYC20007",
+                    "PSYC20008"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Prerequisites for Bachelor of Science students"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "10 weekly online quizzes. 30 minutes (each)",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Take home exam. 1000 words",
+            "timing": "During the end of semester exam period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Peer evaluation through online Feedback quiz. 15 minutes (each)",
+            "timing": "Week 6 and 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "One individual written lay writing report directly related to the topics for the group poster project. 1000 words",
+            "timing": "From Week 9 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group presentation on poster project (approx 5-6 students per group)   \r\nStudent groups will work on their Group assignment throughout the Semester, from approx. weeks 4-11, with its presentation delivered in week 12. Approx 56 hours of time commitment is required per group to prepare and complete this assessment. 5000 words (equivalent)",
+            "timing": "Week 12",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Angelina Fong"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "4 hours per week of workshops"
+                },
+                {
+                    "Total time commitment": "140 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "angelina.fong@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

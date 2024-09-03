@@ -1,0 +1,136 @@
+{
+    "subject name": "Fundamentals of Finance",
+    "subject code": "FNCE90065",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject introduces students to the fundamentals of finance, financial securities and financial markets. Topics include: key financial concepts such as the time-value-of-money, risk, return, present value, diversification, arbitrage, leverage and voting control; key financial securities such as stocks, bonds, mortgages and other loans; key financial markets such as the stock, interest rate and foreign exchange markets; and key participants in financial markets such as investors, funds, companies, banks, intermediaries, governments and regulators.",
+        "This subject is designed for students who seek an understanding of financial concepts and markets, but who do not intend to pursue any further studies in finance."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "FNCE90018",
+        "FNCE90056",
+        "FNCE90060",
+        "This subject is not available to students admitted to the Master of Management (Finance), Master of Management (Accounting) or Master of Management (Accounting and Finance) programs."
+    ],
+    "assessments": [
+        {
+            "description": "Group assignment 1  (4-5 students per group). 3000 words",
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group assignment 2 (4-5 students per group). 3000 words",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Gaby Berhe Nardari"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three hours of lectures and seminars per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Gaby Berhe Nardari"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three hours of lectures and seminars per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

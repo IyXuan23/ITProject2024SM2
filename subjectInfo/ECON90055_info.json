@@ -1,0 +1,100 @@
+{
+    "subject name": "Computational Economics",
+    "subject code": "ECON90055",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces state-of-the-art computational techniques that benefit research in microeconomics, macroeconomics, econometrics, data administration and analysis. Students will learn to solve and estimate structural economic models and to apply these methods to substantive issues in various areas such as econometrics, industrial organisation, labour economics, economic history, and macroeconomics. Students will also learn how to handle spatial datasets for causal inference and undertake empirical analyses through efficient programming and probabilistic modelling. The course emphasises both theoretical knowledge of computational methods and practical skills."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Approval of Department of Economics Graduate Programs Director."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual Written Assignment. 1250 words",
+            "timing": "Week 3",
+            "percentage": "25%"
+        },
+        {
+            "description": "Individual Written Assignment. 1250 words",
+            "timing": "Week 6",
+            "percentage": "25%"
+        },
+        {
+            "description": "Individual Written Assignment. 1250 words",
+            "timing": "Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "Individual Written Assignment. 1250 words",
+            "timing": "Week 12",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Andy Wu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours of lectures and/or seminars per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

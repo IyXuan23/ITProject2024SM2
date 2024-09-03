@@ -1,0 +1,108 @@
+{
+    "subject name": "Economics for Actuaries",
+    "subject code": "ACTL90022",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces core economic principles and how these can be used in a business environment to help decision making and behaviour. It provides the fundamental concepts of microeconomics that explain how economic agents make decisions and how these decisions interact. It explores the principles underlying macroeconomics that explain how the economic system works, where it fails and how decisions taken by economic agents affect the economic system.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "MC-ACTSC Master of Actuarial Science",
+                "MC-ACTSCEN Master of Actuarial Science (Enhanced)",
+                "MC-ACTSCEX Master of Actuarial Science (Extended)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual Assignment (Week 10 or 11). 2000 words",
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Mid-Semester Test (Week 7 or 8). 1 hours",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "End-of-semester exam. 2 hours. Hurdle requirement:. final exam must be passed",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Jonathan Thong"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "jonathan.thong@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

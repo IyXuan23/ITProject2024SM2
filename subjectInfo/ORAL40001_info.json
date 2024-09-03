@@ -1,0 +1,134 @@
+{
+    "subject name": "Oral Health Research Project 4A",
+    "subject code": "ORAL40001",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject offers students the opportunity to gain an understanding and practical experience in oral health research in their own individually designed and supervised research project. Students are required to complete a research project and to produce a written thesis under the guidance of their supervisor(s).",
+        "Research projects will be offered in a wide variety of oral health research areas allowing students to choose a topic that interests them.",
+        "Students will be enrolled in a combination of research project subjects (4A and 4B) to ensure they complete a 75 point research project by the end of their course."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "The two subjects listed below must be completely concurrently in a full-time load."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "This subject forms 25 points of a 75 point research project required for completion of the BOH Hons degree and as such, is not a stand-alone subject. It must be undertaken in conjunction with Oral Health Research Project 4B (50 credit points) to enable completion of the degree."
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "An assignment (up to 3,000 words). 3,000 words",
+            "timing": "End of semester 1",
+            "percentage": "65%"
+        },
+        {
+            "description": "Research design presentation. 15 minutes",
+            "timing": "End of semester 1",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Julie Satur"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Approximately 30 hours per week"
+                },
+                {
+                    "Total time commitment": "204 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Julie Satur"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Approximately 30 hours per week"
+                },
+                {
+                    "Total time commitment": "204 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "https://ask.unimelb.edu.au",
+                    "enquiries-STEM@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "https://ask.unimelb.edu.au",
+                    "enquiries-STEM@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Project specific texts will be prescribed as required"
+                ]
+            }
+        ]
+    }
+}

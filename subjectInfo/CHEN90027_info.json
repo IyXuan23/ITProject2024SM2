@@ -1,0 +1,137 @@
+{
+    "subject name": "Future Fuels and Petroleum",
+    "subject code": "CHEN90027",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject will give an overview of petroleum and energy resources engineering, the technology and the economics."
+    ],
+    "indicative content": [
+        "The subject will present details on the types of fossil fuels available (coal, oil, natural gas), the geology involved in their formation and the underlying chemistry for power generation. Aspects of petroleum reservoir engineering will be detailed, including exploration, well drilling and reservoir control. The subsequent petroleum product processing will be explained, including refinery and subsequent chemical processing, including the various usages of petroleum products. The combustion of fossil fuels for power generation will be described, with detailed analysis of carbon emissions and reduction strategies, including carbon capture and storage. This will also involve details on enhanced oil recovery. Future fuels that replace petroleum, including hydrogen and methanol, will also be presented in terms of their potential, chemical synthesis and usage. In addition, economics of power generation will be covered, in terms of cost of electricity and carbon accounting, along with health and safety, risk assessment and management and legal issues of petroleum engineering.",
+        "Please view this video for further information:Future Fuels and Petroleum",
+        ""
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "CHEN40003 Reactor Engineering (Prior to 2010)"
+            ],
+            "one of pre-requisite": [
+                [
+                    "CHEN30001",
+                    "CHEN30005"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Laboratory based assignment, time commitment of approximately 13-15 hours. Intended learning outcomes (ILOs) 2 to 4 are addressed in this assessment.. 15 hours (of work required)",
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "Computer based assignment, time commitment of approximately 13-15 hours. Intended learning outcomes (ILOs) 2 to 4 are addressed in this assessment.. 15 hours (of work required)",
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "description": "Exam, closed book, 3 hours. Intended learning outcomes (ILOs) 1 to 4 are addressed in this assessment.. 3 hours",
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Colin Scholes"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x 1 hour lectures + 1 x 1 hour tutorial per week + 1 x 6 hours of laboratory work per semester"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Colin Scholes"
+                ],
+                "email": [
+                    "cascho@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Rackley, S.A., 2010, Carbon Capture and Storage, Elsevier"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject will be delivered through a combination of lectures and tutorials.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students will have access to lecture notes and lecture slides.",
+            "CAREERS / INDUSTRY LINKS",
+            "Speakers from industry are regular contributors to this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

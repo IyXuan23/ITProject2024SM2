@@ -1,0 +1,182 @@
+{
+    "subject name": "Techniques in Immunology",
+    "subject code": "MIIM30015",
+    "subject availability": [],
+    "overview": [
+        "This capstone subject provides an:",
+        "overview of common methods used to identify and characterise aspects of the immune system and its response against infectious pathogens;",
+        "overview of effective strategies used in constructing and presenting scientific reports, both oral and written; and",
+        "opportunity for completion of a student-lead research inquiry project which will be presented to student peers and academic staff members.",
+        "Laboratory techniques covered include molecular methods and functional assays used for the identification and characterisation of immunological tissues, activation markers and specific responses to pathogens, such as polymerase chain reaction (PCR), flow cytometry, enzyme immunoassays, protein electrophoresis, western blotting, bioinformatics, and immunofluorescence assays. Non-laboratory sessions will be used for the introduction of practical topics, data analysis, critical discussion of scientific research publications, research ethics and integrity, as well as discussion of strategies used in constructing and presenting scientific reports, both oral and written.",
+        "Upon completion of the subject students will have:",
+        "used molecular methods and functional assays to identify important characteristics of immune development and responses;",
+        "used common bioinformatics methods to analyse protein sequence data that relates to bias/similarity in protein receptors;",
+        "developed skills in constructing and presenting scientific reports, both oral and written;",
+        "participated in group work activities, both within and outside the Laboratory; and",
+        "developed safe scientific work practices."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "B. Science students",
+                "GENE20003 Experiments in Genetics",
+                [
+                    "MIIM30002"
+                ],
+                "Students who have obtained 40 - 49% for MIIM30002 are advised to discuss the possibility of enrolling with the subject coordinators.",
+                [
+                    "BIOM20001",
+                    "MIIM30002"
+                ],
+                "Students who have obtained 40 - 49% for MIIM30002 are advised to discuss the possibility of enrolling with the subject coordinators."
+            ],
+            "one of pre-requisite": [
+                [
+                    "MIIM20001",
+                    "BCMB20002"
+                ],
+                [
+                    "BCMB20005",
+                    "GENE20004",
+                    "MIIM20002",
+                    "PATH20003"
+                ]
+            ],
+            "additional pre-requisite": [
+                "This subject is only available to students enrolled in the Bachelor of Biomedicine and the Bachelor of Science",
+                "B. Biomedicine students"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "526-324 Immunological Techniques (pre 2010)",
+        "526-332 Techniques in Microbiology and Immunology (pre 2011)",
+        "MIIM30013 Techniques in Microbiology and Immunology (pre 2014)"
+    ],
+    "assessments": [
+        {
+            "description": "Oral presentation. 2.5 minutes",
+            "timing": "From Week 3 to Week 5",
+            "percentage": "12.5%"
+        },
+        {
+            "description": "written report practice activity. 30 minutes",
+            "timing": "Week 6",
+            "percentage": "2.5%"
+        },
+        {
+            "description": "Written report ( Expected to take about 10\u201015 hours to complete outside of class), to be submitted in weeks 7-9. 1300 words",
+            "timing": "From Week 7 to Week 9",
+            "percentage": "12.5%"
+        },
+        {
+            "description": "Poster presentation, including completion of all preparation milestones and the final presentation; Completed in groups of approx. 4 students\r\n(Preparation milestones worth 7.5%, equivalent 250 words per student), with the final presentation in week 12, 2.5minutes per student; worth 15%). 500 words (equivalent)",
+            "timing": "From Week 9 to Week 12",
+            "percentage": "22.5%"
+        },
+        {
+            "description": "Written Exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. Satisfactory use and completion of a Laboratory Notebook is required to pass this subject;\u00a0Laboratory notebook to be submitted in Week 12.",
+            "timing": "Week 12",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance is compulsory. Students who miss more than 20% of the practical component of this subject will not be eligible for final assessment.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Odilia Wijburg"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 1hr workshop per week plus up to 3hr practical per week (ie. up to 36hr practical per semester) plus 1hr lecture per week during semester"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "19 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "odilia@unimelb.edu.au",
+                    "klwaller@unimelb.edu.au",
+                    "daniel.clarke@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Janeway's Immunobiology (Murphy et al) 9th ed, 2017"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available to students enrolled in the:",
+            "Pre-2008 B. ScNG B. Sc.NG B. Biomed",
+            "This subject is a practical subject. It requires attendance at all scheduled sessions.",
+            "Whilst students will not be involved in the manipulation and handling of animals, reagents and media components derived from animals will be used in some experiments.",
+            "These experiments will be approved by the University of Melbourne Animal Welfare Committee.",
+            "Experiments contained in this unit will also be approved by the Biosafety and Gene Technology Committee.",
+            "Students wishing to register in this subject after the Quota Selection Date or after week 1 of a Semester should contact the subject coordinators."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "quota subject - application deadline as perhttp://biomedicalsciences.unimelb.edu.au/study/current-student-information/quota-subjects",
+                    "quota subject - application deadline as perhttp://biomedicalsciences.unimelb.edu.au/study/current-student-information/quota-subjects"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

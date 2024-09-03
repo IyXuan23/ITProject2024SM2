@@ -1,0 +1,136 @@
+{
+    "subject name": "Core Psychiatry I",
+    "subject code": "PSYT90078",
+    "subject availability": [
+        "February - Online"
+    ],
+    "overview": [
+        "The subject focuses on developing an understanding of evidence based aetiology, diagnosis, formulation, assessment, management, and prognosis for the major categories of psychiatric disorder. Students will begin to develop an integrated concept of psychological and scientific theories, so when formulating patients, consideration is given to their genetic risks or vulnerabilities, as well as the psycho-social context within which the presentation occurs.",
+        "This subject will cover skills such as history taking, mental state examination, formulation, risk and cognitive assessment, legal and ethical issues and basic sciences, psychological, social and biological treatments, research methodology and critical appraisal of research;",
+        "The subject will cover the epidemiology, aetiology, assessment, management and important issues of some of the key disorders in psychiatry;",
+        "This subject will aim to align with the proposed new Competency Based Fellowship of the Royal Australian and New Zealand College of Psychiatrists."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A written examination emulating the format of the Royal Australian and New Zealand College of Psychiatrists Examinations. 3 hours",
+            "timing": "End of the teaching period",
+            "percentage": "70%"
+        },
+        {
+            "description": "A written assignment. 2000 words",
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Hurdle requirement:. Fieldwork \u2013 3 RANZCP workplace based assessments (WBAs) by workplace supervisors (approx 90mins each or longer depending on competency) OR 3 Workplace Practical Activity Log sheets (WPALs) to be taken away and then checked by the subject coordinator after submission.",
+            "timing": "During the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance at 75% of sessions (for face to face students) OR Completion of 75% of online modules (for online students).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "February - Online": [
+                {
+                    "Coordinator": "Mahesh Jayaram"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Pre teaching start date": "29 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period, students should familiarise themselves with the online platform and may like to take the opportunity to read through preliminary information about the subject and the services and support that is available to them. Students are encouraged to use this time to also introduce themselves to peers and teaching staff and to learn about those they will be studying with throughout the term."
+                },
+                {
+                    "Teaching period": "5 February 2024 to  7 June 2024"
+                },
+                {
+                    "Last self-enrol date": "30 January 2024"
+                },
+                {
+                    "Census date": "8 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "10 May 2024"
+                },
+                {
+                    "Assessment period ends": "8 July 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    [
+                        "Gelder et al, Shorter Oxford Textbook of Psychiatry, 5th Edition 2006 Oxford",
+                        "Oyebode, Sims Symptoms in the Mind, 4th Edition 2008 Saunders",
+                        "Castle and Bassett, A Primer of Clinical Psychiatry, 2009 Churchill Livingstone",
+                        "Murray, Essential Psychiatry, 4th Edition 2008 Cambridge",
+                        "Tyrer and Silks, Cambridge Textbook of Effective Treatments in Psychiatry, 2008 Cambridge"
+                    ]
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available through theCommunity Access Program (CAP), subject to applicants meeting the entry requirements for the course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Students wishing to take this subject under Community Access must meet the course entry requirements to be eligible.",
+                    "Students wishing to take this subject under Community Access must meet the course entry requirements to be eligible."
+                ]
+            }
+        ]
+    }
+}

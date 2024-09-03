@@ -1,0 +1,127 @@
+{
+    "subject name": "Designing for Heat in the Public Domain",
+    "subject code": "ABPL90380",
+    "subject availability": [
+        "November"
+    ],
+    "overview": [
+        "The implication of climate change on the liveability of cities is becoming increasingly apparent. This seminar explores the issue of heat and thermal comfort in the design of the public domain.",
+        "This intensive is open to design students (architecture, landscape architecture and urban design) and planners. We will explore the potentials of contemporary digital tools (simulation, Rhino and grasshopper) and data (including sensors and real-time) combined with current theoretical writings crossing climate change science, cultural studies and digital design to develop innovative design and planning responses.Students will research and explore a range of techniques including data capture, the use of simulation software and engage critical analysis of design precedents to produce a design proposition for a site in Melbourne which responds directly to the issues of a warming climate.",
+        "Prescribed software programs with no costAutodesk Simulation (CFD)GrasshopperLadybug toolsPrescribed software programs with a costMcNeel RhinoPrescribed software toolsImage editing software (e.g. Affinity Photo)Vector editing software (e.g. Affinity Designer)Layout software (e.g. Affinity Publisher)Details of software availability and pricing are captured at:https://msd.unimelb.edu.au/current-students/student-experience/it-support"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-ARCH Master of Architecture",
+                "MC-LARCH Master of Landscape Architecture",
+                "MC-URBDES Master of Urban Design",
+                "MC-URPL Master of Urban Planning",
+                "MC-ARCHCM Master of Architecture/Master of Construction Management",
+                "MC-ARCHUCH Master of Architecture/Master of Urban Cultural Heritage",
+                "MC-ARCHUD Master of Architecture/Master of Urban Design",
+                "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+                "MC-ARCLARC Master of Architecture/Master of Landscape Architecture",
+                "MC-ARCPROP Master of Architecture/Master of Property",
+                "MC-LARCHUD Master of Landscape Architecture/Master of Urban Design",
+                "MC-LARCHUP Master of Landscape Architecture/Master of Urban Planning",
+                "MC-PROPUP Master of Property/Master of Urban Planning",
+                "MC-UPUD Master of Urban Planning/Master of Urban Design"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 100 credit points of study."
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-ARCH Master of Architecture",
+                "MC-LARCH Master of Landscape Architecture"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Research Strategy (group work), Written Report equivalent to \u00a01500 words per student, due at the end of week one. 1500 words (each)",
+            "timing": "Week 1",
+            "percentage": "30%"
+        },
+        {
+            "description": "Exploratory design application (text and image). 3500 words (equivalent)",
+            "timing": "one week after the end of teaching period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "November": [
+                {
+                    "Principal coordinator": "Wendy Walls"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "11 November 2024 to 27 November 2024"
+                },
+                {
+                    "Last self-enrol date": "14 November 2024"
+                },
+                {
+                    "Census date": "22 November 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "29 November 2024"
+                },
+                {
+                    "Assessment period ends": "4 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "November": {
+                "name": [],
+                "email": [
+                    "w.walls@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

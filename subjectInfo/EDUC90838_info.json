@@ -1,0 +1,156 @@
+{
+    "subject name": "Project in Clinical Education",
+    "subject code": "EDUC90838",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This project involves the conduct of a defined research project and results in the production of a minor thesis on a topic of practical importance to the participant\u2019s work in clinical education. Participants are encouraged and supported to select a topic that is important yet feasible to resolve within the bounds of this project. Preliminary work in refining the research question, designing the methodology, reviewing the literature and applying for ethics approval is undertaken in the preceding semester\u2019s subject: \u201cResearch Proposal in Clinical Education\u201d."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC90741",
+                    "EDUC90742",
+                    "EDUC90743",
+                    "EDUC90744",
+                    "EDUC90801",
+                    "EDUC90802",
+                    "EDUC90803",
+                    "EDUC90804",
+                    "EDUC90805",
+                    "EDUC90837"
+                ],
+                "This subject is not available for students admitted in any other courses."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-CLINED Master of Clinical Education"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual oral presentation. 10 minutes",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Minor thesis - not including 2,500 word literature review from prerequisite subject. 8000 words",
+            "timing": "End of semester",
+            "percentage": "80%"
+        },
+        {
+            "description": "Individual oral presentation. 10 minutes",
+            "timing": "End of semester",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Brett Vaughan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Brett Vaughan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Understanding Medical Education. Swanwick, Tim (Ed); Association for the Study of Medical Education. Edition: Second edition. Chichester, West Sussex, U.K. : Wiley Blackwell. 2014"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

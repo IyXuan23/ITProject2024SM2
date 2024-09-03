@@ -1,0 +1,110 @@
+{
+    "subject name": "Landscape Detail Design",
+    "subject code": "ABPL90074",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject was formerly called Advanced Landscape Technology.",
+        "This subject links the creative, practical and technical aspects of landscape architecture design process to construction by developing knowledge and skills that translate and communicate design into the language of construction documentation emphasising the materiality and assemblage of hard scapes. The subject also introduces CAD as the graphic medium for documentation. Knowledge and skills are developed through a series of assessment components:",
+        "A group assignment to critically review real documentation packages, conduct site visits and interview designers and present findings to their peers; and the main assignment of a landscape detail design and documentation project that utilises and synthesises skills and knowledge gained in the first two assignments and prerequisite subjects.",
+        "The assessment criteria encourage the integration of ESD technologies in the detail design process and the development of CAD skills. The subject is delivered through a series of lectures, CAD intensives, and weekly design documentation tutorials, readings, site visits, interviews with designers and presentations.",
+        "Prescribed software toolsDrafting software (e.g. Autodesk AutoCAD)Modelling software (e.g.McNeel Rhino, Autodesk 3Ds Max)Layout software (e.g. Affinity Publisher)",
+        "Details of software availability and pricing are captured athttps://edsc.unimelb.edu.au/student-experience/it-support",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "200pt Program course entry point in the MC-LARCH Master of Landscape Architecture",
+                "300pt Program course entry point in the MC-ARCLARC Master of Architecture/Master of Landscape Architecture",
+                "300pt Program course entry point in the MC-LARCHUD Master of Landscape Architecture/Master of Urban Design",
+                "300pt Program course entry point in the MC-LARCHUP Master of Landscape Architecture/Master of Urban Planning"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ABPL90078"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Documentation review (group work) equivalent to 1000 words per student. 1000 words (each)",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Landscape detail design and documentation, with 20% to assess weekly progress in tutorials from week 4 to 12, (equivalent to 4000 words per student). 4000 words (each)",
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Sidh Sintusingha"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "60 hours: 1 x 1 hour lecture per week; 1 x 4 hour studio per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

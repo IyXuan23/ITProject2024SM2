@@ -1,0 +1,120 @@
+{
+    "subject name": "Environmental Impact Assessment",
+    "subject code": "EVSC90015",
+    "subject availability": [
+        "Semester 1 - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject prepares students for environmental management roles by providing them with the principles of how human impacts on the environment might be detected and managed. The principles will be placed within the legal and social contexts of environmental impact assessment. At the completion of the subject, students should understand three aspects: prediction of the kind of changes that might occur with human activities; the design and implementation of proper monitoring programs that can detect changes; and assessment of those changes. Additionally, a strong emphasis is placed on the practical implementation of principles."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission to a postgraduate coursework program or fourth year or honours in environmental studies, environmental science, resource management, geography, environmental engineering, planning, development studies or by permission of the subject coordinator."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Essay. 2000 words",
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "4 in class quizzes during tutorial classes",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group oral presentation during one lecture class in groups of 5-7 students",
+            "timing": "During the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "description": "A written report due after the end of semester. 2500 words",
+            "timing": "During the assessment period",
+            "percentage": "45%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Candan Desem"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours comprising 2 hours of lectures per week and 2 hour tutorials in 6 weeks."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "candan.desem@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Downes, B.J.et al.(2002)Monitoring Ecological Impacts: Concepts and Practice in Flowing Waters. Cambridge University Press, Cambridge, UK."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Information Not Available"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "4th year and postgraduate"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

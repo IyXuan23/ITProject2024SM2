@@ -1,0 +1,121 @@
+{
+    "subject name": "Property Investment and Finance",
+    "subject code": "ABPL90036",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is an in-depth examination of property investment and financing strategy and decision-making, with a focus on cash flows, return, and value. Property investments are surveyed with emphases on the analysis of commercial real estate and the theory and methods of investment analysis in respect to tax and financial consequences. Financial and non-financial determinants of investment feasibility of income-producing property are covered. The subject covers a range of approaches used in financing of investment properties. A case-based approach facilitates student learnings in analysing investment and financing strategies as they are applied to real world scenarios. Students will learn financial modelling skills, the art of investment and financing decision making involving qualitative and quantitative skills, and considerations that add value to property assets and investment portfolios of investors",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ABPL90011",
+                    "ABPL90026"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1: Analysis of a case requiring decision related to repositioning of an investment portfolio. 1000 words (equivalent)",
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment 2: Analysis of a case involving construction of a portfolio of assets for an investor. 1000 words",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "ssignment 3: \r\nAnalysis of a case requiring investment decision for a proposed development project. 1000 words",
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment 4: Analysis of a case requiring examination of various financing options. 2000 words",
+            "timing": "Week 12",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Piyush Tiwari"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 3 hour  lecture per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Subject Coordinator"
+                ],
+                "email": [
+                    "Piyush.tiwari@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "G. Brown and G. Matysiak,Real Estate Investment: A Capital Market Approach,Prentice Hall, 2000.",
+                    "J.D. Fisher and Brueggman, W.B. real Estate Finance and Investment, McGraw Hill, 2018."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "G. Brown and G. Matysiak,Real Estate Investment: A Capital Market Approach,Prentice Hall, 2000."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

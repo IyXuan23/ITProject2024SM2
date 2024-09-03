@@ -1,0 +1,106 @@
+{
+    "subject name": "Research Project",
+    "subject code": "ECOM90021",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides students with the experience of carrying out research independently on specific topics. The student is required to conduct and present the results of an independent piece of applied econometrics research both orally and as an extended essay."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ECOM90022"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Hurdle requirement:. Initial report (A report to be submitted for feedback).",
+            "timing": "Week 3",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Draft essay (to be submitted for feedback).",
+            "timing": "Week 9",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Final presentation (oral presentation).. 10 minutes",
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "Essay. The word count includes bibliography, footnotes, appendices and tables.. 4000 words",
+            "timing": "Week 12",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Andrew Clarke"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 1-hour lecture"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "andrew.clarke@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,150 @@
+{
+    "subject name": "Techniques in Operations Research",
+    "subject code": "MAST30013",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces some major techniques and algorithms for solving nonlinear optimisation problems. Unconstrained and constrained systems will be considered, for both convex and non-convex problems. The methods covered include: interval search techniques, Newton and quasi-Newton methods, penalty methods for nonlinear programs, and methods based on duality. The emphasis is both on being able to apply and implement the techniques discussed, and on understanding the underlying mathematical principles. Examples involve the formulation of operations research models for linear regression, multi-facility location analysis and network flow optimisation.",
+        "A significant part of the subject is the project, where students work in groups on a practical operations research problem."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST20018"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Two written assignments (due in weeks 4 or 5 and 10 or 11 respectively). 500 words",
+            "timing": "From Week 4 to Week 10",
+            "percentage": "12%"
+        },
+        {
+            "description": "Mid-semester in-class assessment (20 minutes). 20 minutes",
+            "timing": "Week 7",
+            "percentage": "8%"
+        },
+        {
+            "description": "A group project involving a written report of up to 5 pages per student. 5 pages",
+            "timing": "End of semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "An oral presentation on the group project of about 4 minutes per person. 4 minutes",
+            "timing": "End of semester",
+            "percentage": "5%"
+        },
+        {
+            "description": "A written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Joyce Zhang"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week, 1 x one hour practice class per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "lele.zhang@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "H. A. Taha,Operations Research: An Introduction, McMillan, 5th Ed,1992.",
+                    "W. L. Winston,Operations Research: Applications and Algorithms, PWS-Kent, 1987.",
+                    "R. Fletcher,Practical Methods of Optimization, 2nd Ed, John Wiley & Sons, NY, 1987.",
+                    "J. Nocedal and S. J. Wright,Numerical Optimisation, Springer Series in Operations Research, Springer-Verlag, New York, 1999."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

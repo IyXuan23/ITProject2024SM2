@@ -1,0 +1,111 @@
+{
+    "subject name": "Audiology Practice A",
+    "subject code": "AUDI90053",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces students to the audiological evaluation of adult and paediatric populations. Through a combination of weekly self-directed learning activities, on campus lectures, workshops and practical sessions, students will become familiar with the standard audiological diagnostic clinical encounter. This subject also focuses on professionalism and clinical communication. Students will be supported to develop both verbal and non-verbal clinical communication skills through workshops, role-play and group activities."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Online test. 30 minutes",
+            "timing": "Early in the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Online test. 30 minutes",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written assignment. 1000 words",
+            "timing": "Week 7-9",
+            "percentage": "20%"
+        },
+        {
+            "description": "OSCE: comprising 2 x 10 minute stations.. 20 minutes. Hurdle requirement:. Must be passed overall, including a pass in at least one station.",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written exam. 1.5 hours. Hurdle requirement:. Examination must be passed",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance of at least a minimum of 80% of the weekly skill practical sessions across the semester.",
+            "timing": "Throughout the semester",
+            "percentage": "0%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Grace Nixon"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Lectures  (2 hours), Tutorials (1 hour), and Practical sessions  (3 hours) per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "nixon.g@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "subject name": "Statistical Mechanics",
+    "subject code": "PHYC90010",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject provides an advanced introduction to non-equilibrium statistical mechanics. The subject focuses on collective phenomena in complex many-body systems with an emphasis on diffusive processes, stability and the emergence of long-range order, with examples drawn from physics, chemistry, biology and economics. Specific topics include diffusive stochastic processes (Fokker-Planck equations), birth-death processes (master equations), kinetic transport, and spatio-temporal pattern formation in unstable nonlinear systems (bifurcations, chaos, reaction-diffusion equations)."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHYC30017"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Or equivalent."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Four assignments totalling up to 48 pages of written work, spaced equally. 48 pages",
+            "timing": "During the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "One written examination. 4 hours",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Jeffrey McCallum"
+                },
+                {
+                    "Coordinator": "Andy Martin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "TBA"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "msc@physics.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    [
+                        "K. Huang, 1987, Statistical Mechanics , Wiley. Covers thermodynamics, equilibrium classical and quantum statistical mechanics and phase transitions. Apart from some kinetic theory, it does not discuss non equilibrium systems (however, if you are starting from a base of understanding this text book you are in a good position to start this course).",
+                        "N.G. van Kampen, 1992 Stochastic processes in Physics and Chemistry , North Holland. Thorough discussion of fluctuations (Brownian motion) and birth and death processes (master equations).",
+                        "R. Kubo, N. Today and N. Hashitsume, 1991 Statistical Physics II: Non-equilibrium Statistical Mechanics, Springer. Covers similar ground to van Kampen as well as theory of non equilibrium thermodynamics: which are not covered in this subject.",
+                        "G. Nicolis and I. Prigogine, 1977, Self-organisation in non equilibrium systems, Wiley. A classic by the inventors of the theory of pattern formation.",
+                        "H.S.Wio, 1994, An introduction to Stochastic Processes and Non-equilibrium Statistical Physics , World Scientific. This book is followed closely in parts, especially on stability and pattern formation."
+                    ]
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

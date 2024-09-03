@@ -1,0 +1,183 @@
+{
+    "subject name": "French 5",
+    "subject code": "FREN20001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "What does it mean to be French in the 21st century? Why should this question be asked? The program will explore the controversies concerning French unity that are currently taking place in France, not only in political terms but primarily as a conception of language and culture. The background to these controversies will also be explored by looking into contemporary debates and what feeds into them from the recent past. To this end, the subject will draw on a range of material from popular culture such as songs, advertisements, news articles, comics, TV shows, sport as well as French cinema and literature to explore and analyse the way in which this identity has been negotiated by individuals or groups of individuals at different points in time. Parallels and contrasts will be made with the various policies and initiatives taken by successive governments to promote national unity and patriotic sentiment (from street names to museums, the army and the republican school). The way this myth of unity was initially construed will also be discussed in the light of key national and international events."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "FREN10003",
+                    "FREN20017",
+                    "FREN20018"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "VCE French study score of 35 or above (5 or above in IB French)"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Achievement of French 4 standard in the French placement test"
+            ]
+        },
+        {
+            "option": "Option 4",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "As otherwise determined by the French Program."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "FREN10006",
+        "FREN30003"
+    ],
+    "assessments": [
+        {
+            "description": "An in class 500 word written test. 60 minutes",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "An oral presentation (equivalent to 500 words). 10 minutes",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Research project. 1500 words",
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written test. This assessment includes a reflective component in addition to the task given to first year students.. 1500 words",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Hurdle requirement:. 1.\tAttendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Anne Taille"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "4 hours - 2 x 2-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "actaille@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Materials will be made available through the School."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/soll"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Language Placement Test required",
+                    "Language Placement Test required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

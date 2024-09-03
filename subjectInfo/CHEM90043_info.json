@@ -1,0 +1,107 @@
+{
+    "subject name": "Atmospheric Chemistry",
+    "subject code": "CHEM90043",
+    "subject availability": [
+        "February"
+    ],
+    "overview": [
+        "This subject explores the chemical transformations in the Earth's atmosphere, which is influenced by both natural processes and human activities. The subject will provide an introduction into the chemistry of the stratosphere and the troposphere to explore some important problems, such as acid rain, ozone depletion, photochemical smog, greenhouse gases and global warming."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CHEM30016"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Equivalent subject"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-SCICHE Master of Science (Chemistry)",
+                "MR-IRCHEM Master of Industrial Research (Chemistry)",
+                "Chemistry informal specialisation in the GDA-SCI Graduate Diploma in Science (Advanced)",
+                "Chemistry informal specialisation in the BH-SCI Bachelor of Science (Degree with Honours)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "At the 9-lecture mark each subject will be assessed by a written assignment. 1000 words",
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Examination after completion of the subject (this is seen as equivalent to 1500 words). 1.5 hours",
+            "timing": "End of the teaching period",
+            "percentage": "75%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Principal coordinator": "Colette Boskovic"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total contact hours 18: 12 hours of lectures and 6 hours of tutorials"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 22 March 2024"
+                },
+                {
+                    "Last self-enrol date": "1 March 2024"
+                },
+                {
+                    "Census date": "8 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "5 April 2024"
+                },
+                {
+                    "Assessment period ends": "19 April 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

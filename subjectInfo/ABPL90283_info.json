@@ -1,0 +1,154 @@
+{
+    "subject name": "Ecology for Design",
+    "subject code": "ABPL90283",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject explores the principles of ecological systems. It will introduce basic ecological concepts and fundamental ecological systems, and their applications in landscape design. It will include plants and biomes, soils and water, spatial geometries, emergence, resilience, and the ecological performance of designs in relation to design speculations.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-ARCH Master of Architecture",
+                "MC-ARCH2Y Master of Architecture",
+                "MC-ARCH3Y Master of Architecture",
+                "MC-LARCH Master of Landscape Architecture",
+                "MC-LARCH2Y Master of Landscape Architecture",
+                "MC-LARCH3Y Master of Landscape Architecture",
+                "MC-URPL Master of Urban Planning",
+                "MC-URBDES Master of Urban Design"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Approval from the subject coordinator."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Spatial analyses of project. 500-600 words (equivalent)",
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "description": "Field report 1 (throughout semester). 500-600 words (equivalent)",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Short answers 1. 500-600 words",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Field report 2. 500-600 words (equivalent)",
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "description": "Species used report. 500-600 words (equivalent)",
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "Short answers 2. 500-600 words",
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Report on a lecture. 500-600 words",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Catalogue. 1000-1200  words (equivalent)",
+            "timing": "Week 14",
+            "percentage": "20%"
+        },
+        {
+            "description": "Tutorial contribution, all weeks. Hurdle requirement:. Attendance at 70% of tutorials",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Margaret Grose"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Lecture 1 x 2 hours weekly; Tutorial 1 x 1 hour weekly"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "mgrose@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "W.E. Dramstad, J.D. Olson and R.T.T Forman.Landscape Ecology Principles in Landscape Architecture and Land Use Planning. Island Press, Washington, DC, 1996."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

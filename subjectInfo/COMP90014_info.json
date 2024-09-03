@@ -1,0 +1,146 @@
+{
+    "subject name": "Algorithms for Bioinformatics",
+    "subject code": "COMP90014",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "Technological advances in obtaining high throughput data have stimulated the development of new computational approaches to bioinformatics. This subject will cover core computational challenges in analysing bioinformatics data. We cover important algorithmic approaches and data structures used in solving these problems, and the challenges that arise as these problems increase in scale.",
+        "The subject is a core subject in the MSc (Bioinformatics) and is an elective in the Master of Information Technology and the Master of Engineering. It can also be taken by PhD students and by undergraduate students, subject to the approval of the lecturer."
+    ],
+    "indicative content": [
+        "The subject covers key algorithms used in bioinformatics, with a focus on genomics. Indicative topics are: sequence alignment (dynamic algorithms and seed-and-extend), genome assembly, variant detection, phylogenetic reconstruction, genomic intervals, complexity and correctness of algorithms, clustering and classification of genomics data, data reduction and visualisation.The subject assumes you have experience in programming and familiarity with the foundations of genomics."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "COMP90016"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "Completion of 50 points of core subjects"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-SCIBIF Master of Science (Bioinformatics)"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-CS Master of Computer Science"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Three assignments due in approximately weeks 4, 8 and 11.. 50 hours (of work required). Hurdle requirement:. students must achieve at least 50% (20/40 on assignments)",
+            "timing": "From Week 4 to Week 11",
+            "percentage": "40%"
+        },
+        {
+            "description": "One take home exam assignment due in the first week of the exam period.. 2 hours (of work required). Hurdle requirement:. Students must achieve at least 50% on the combined exam components (30 / 60 overall)",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Exam (late in the exam period). 2 hours. Hurdle requirement:. Students must achieve at least 50% on the combined exam components (30 / 60 overall)",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Grace Hall"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of one 2-hour lecture and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "166 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "grace.hall1@unimelb.edu.au",
+                    "Current students",
+                    "Past students, future students, general enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject will be delivered through a combination of lectures, group discussion, and tutorials. The assigned project work is also a key feature in the learning process.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students will have access to lecture notes and audio recording of the lectures. Papers drawn from the current literature are posted to the LMS for each topic. Students are expected to find and read additional papers from the literature relevant to their assignments.",
+            "CAREERS / INDUSTRY LINKS",
+            "The subject provides an in-depth introduction to the two main approaches to functional genomics current today. As such the subject provides a foundation for applied and research careers in bioinformatics. Guest lectures are given by practitioners in the field."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

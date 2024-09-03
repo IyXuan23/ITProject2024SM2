@@ -1,0 +1,104 @@
+{
+    "subject name": "Genetics for Agriculture",
+    "subject code": "AGRI10051",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The objective of this subject is to introduce students to the concepts of genetics and the effects of genetic variation and selection used to propagate valuable heritable trait combinations in crop plants and farm animals.",
+        "Topics covered include \u2010 Historical background around (origin) genetics, nature of variation, cell structure and cell division, early concepts of inheritance, Mendel's laws, chromosomal theory of inheritance, Quantitative genetics, Gene interactions, Major genes, Sex determination, differentiation and sex\u2010linkage, Sex influenced and sex\u2010limited traits, linkage\u2010detection, estimation, recombination and genetic mapping, Population genetics, Frequencies of genes and genotypes, Hardy\u2010Weinberg equilibrium, Molecular genetics, Gene expression and Central Dogma (DNA to RNA to protein), Genotyping and Genomic selection, Genetic defects and DNA testing, Conventional plant and animal improvement, Genotype and Environment interactions, genetic modification, implications of biotechnology to agricultural sustainability."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "AGRI10052"
+    ],
+    "assessments": [
+        {
+            "description": "4 intra-semester assessments, worth 7.5% each, based on practical classes and workshop activities, due in weeks 3, 5, 7 and 11. Hurdle requirement:. A mark of at least 50% in the combined intra-semester assessments",
+            "timing": "From Week 3 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "Mid-semester assessment (MST). 1 hours",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance at a minimum of 9 out of 11 tutorials.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Mohammad Pourkheirandish"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 hours lectures/ week, \r\n1\u2010hour tutorial/ week\r\n3 hours practicals/fortnight"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "mohammad.p@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

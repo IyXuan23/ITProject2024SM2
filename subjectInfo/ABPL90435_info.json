@@ -1,0 +1,111 @@
+{
+    "subject name": "Concrete Construction Systems",
+    "subject code": "ABPL90435",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Construction of commercial and high-rise buildings relies heavily on the use of reinforced concrete for its structural components. This subject introduces students to reinforced concrete systems and techniques for constructing commercial and high-rise buildings. Students will be taught how to interpret information provided by the engineers\u2019 reinforced concrete drawings and specifications that provides the necessary means to be able to transfer documented details into the physical built form. Students will investigate structural design concepts, structural behaviour and construction methods for reinforced concrete structural members. This includes reinforced concrete frames including slab and beam systems, prestressed concrete design concepts and introduction of hybrid wall construction systems and construction methods. Other related topics include exposed concrete surface finishes, sprayed concrete technology, concrete detailing and constructability."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ABPL90292",
+                    "ABPL90324"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Approval from the Master of Construction course coordinator"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ABPL90293  if taken prior to 2023"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment 1: design and proposed construction process for reinforced concrete elements. 1250 words",
+            "timing": "Week 5",
+            "percentage": "25%"
+        },
+        {
+            "description": "Assignment 2: design and proposed construction process for prestressed concrete system. 750 words",
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "description": "Examination focussing on the various structural systems covered in the subject. 3 hours. Hurdle requirement:. Student  must pass the exam to pass the subject .",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Vidal Paton-Cole"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1X2 hour lecture  and 1X2 hour tutorial  per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Subject Coordinator"
+                ],
+                "email": [
+                    "vidal.paton@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

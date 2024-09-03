@@ -1,0 +1,125 @@
+{
+    "subject name": "Geotechnical Engineering",
+    "subject code": "CVEN90050",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "AIMSSoil and rock are among the most important civil engineering materials. They form the foundations of all structures, can be rearranged to provide a topography to suit particular needs like embankments for road and railways, can form a structure in its own right when used for levee banks or dam walls, or may need to be removed to allow access such as with tunnels and cuttings. Students completing this unit should understand how to make simplifications to complex soil conditions, how to establish strength/deformation characteristics of the soil and how to apply fundamental geomechanics knowledge learned in earlier units to solve various geotechnical engineering applications topics, including problems involving the stability of an earth mass for these various situations and introducing the design of shallow foundations. Graduates from this subject will be able to work under the guidance of a chartered engineer to design and supervise construction of a range of geotechnical structures such as shallow foundations, embankments, and retaining walls.This subject builds directly on knowledge from a range of undergraduate and postgraduate subjects in the areas of mathematics, statistics, earth processes, and fluid mechanics. It also draws on knowledge of sustainability and management to provide context for problems.INDICATIVE CONTENTTopics covered include a review of pore-water pressures and effective stress, soil strength and compressibility (direct shear and triaxial testing, and others), consolidation, shallow foundations (bearing capacity and settlement), rigid and flexible earth retaining structures, reinforced soil walls, and introduction to geothermal energy."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CVEN30010",
+                    "ENEN20002"
+                ],
+                "Or equivalent"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Quiz- \r\nTwo 30-minute online tests (5% each). ILOs 1, 2 and 3 are addressed in the tests. 60 minutes (total)",
+            "timing": "About Week 4 and About Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written Assignment- \r\nAn individual assignment (10%) of a workload equivalent to 500 words, requiring approximately 13 hours of work. May use data from laboratory tests. Intended Learning Outcomes (ILOs) 1, 2 3, and 4 are addressed.. 13 hours (of work required)",
+            "timing": "About Week 5",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written Assignment- \r\nTwo group assignments of a workload equivalent to 1000 words or 15 hours per assignment per students (15% each). These assignments may use data from laboratory tests. Intended Learning Outcomes (ILOs) 1, 2 3, and 4 are addressed in these assignments. 30 hours (of work required)",
+            "timing": "About Week 8, 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written Exam- \r\nOne written examination. ILOs 1, 2,3 and 4 are addressed in the exam. 2 hours. Hurdle requirement:. Students must pass the final exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Guillermo Narsilio Ferrero"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "53 hours (Lectures: 3 hours per week; Tutorial: 1 hour per week; Laboratory: 5 hours per semester)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "narsilio@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Course notes will be made available in LMS or for purchase from the University Bookroom."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject is based principally on lectures and tutorials; and the critical reading of prescribed textbooks, lecture notes, and selected papers. Depending on availability of site constructions with works related to the subject objectives, a site visit co-organised by lecturers and experienced industry professionals is also implemented to reinforce some concepts learnt in the classrooms. Laboratory sessions are used to complement the fundamentals of strength (tri-axial) and compressibility (consolidation) testing and analysis.INDICATIVE KEY LEARNING RESOURCESCourse notes will be made available in LMS or for purchase from the University Bookroom, as well as selected journal articles, references to relevant AS/NZ and/or ASTM standards.CAREERS / INDUSTRY LINKSExperienced industry professionals and specialist contractors present during site visits and provide background material about the construction sites and projects (acting as case studies). These site visits are undertaken to enhance students understanding of typical geotechnical works, particularly in excavations and earth retaining structures."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

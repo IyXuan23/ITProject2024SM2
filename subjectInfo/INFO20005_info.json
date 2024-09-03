@@ -1,0 +1,114 @@
+{
+    "subject name": "User Interface Development",
+    "subject code": "INFO20005",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "A crucial skill in developing interactive systems is building clear and well-designed user interfaces across a range of technologies. In this subject, students will learn how to design and build user interfaces. The subject will introduce methods, techniques, and principles of visual communication applied to the design of user interfaces. Using state-of-the-art tools, students will iteratively design and prototype a novel user interface, going from concept to implementation through increasing levels of fidelity. Around this process students will learn how to iteratively translate requirements and intentions into design constructs and working interface prototypes."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "INFO10003"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "COMP10001",
+                    "COMP10003"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "An Individual Interface design analysis report (25%), of approximately 1000 words. Due in weeks 3-5. Intended Learning Outcome (ILO) 1 is addressed in the report.. 1000 words. Hurdle requirement:. To pass the subject, students must obtain:\r\n\r\nat least 50% of the marks available",
+            "timing": "From Week 3 to Week 5",
+            "percentage": "25%"
+        },
+        {
+            "description": "An Individual Interface prototyping report (25%), of approximately 1000 words. Due in week 5-7. ILO 2 is addressed in the report.. 1000 words. Hurdle requirement:. To pass the subject, students must obtain:\r\n\r\nat least 50% of the marks available",
+            "timing": "From Week 5 to Week 7",
+            "percentage": "25%"
+        },
+        {
+            "description": "An Individual Interface development project (50%), of approximately 2000 words. Due week 1 of examination period. ILO 3 is addressed in the project.. 2000 words. Hurdle requirement:. To pass the subject, students must obtain:\r\n\r\nat least 50% of the marks available",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Greg Wadley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours, comprising of one 2-hour lecture and one 2-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "greg.wadley@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject is delivered via a 2-hour Design Studio and 2-hour Tutorial held weekly on campus. Classes consist of a combination of lectures, discussions and computer-based learning. Outside class, students will study the practice of web design and implementation and work on assessment tasks.INDICATIVE KEY LEARNING RESOURCESThere are several excellent learning resources online and in the Library. These will be provided via LMS and discussed in class. The textbook \"Learning Web Design\" by Robbins is recommended and is available in the Library.CAREERS / INDUSTRY LINKSThis subject is core in the UX major of the Bachelor of Design, and teaches skills that are key to UX careers."
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

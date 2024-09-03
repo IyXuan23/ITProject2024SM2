@@ -1,0 +1,115 @@
+{
+    "subject name": "Mathematics Education: Primary 1",
+    "subject code": "EDUC91080",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject provides an introduction to teaching mathematics in Victorian primary schools. Teacher Candidates will develop mathematical content knowledge and mathematical pedagogical content knowledge for the effective teaching and learning of Number and Algebra using the four proficiency strands from the Australian/Victorian Curricula. Teacher Candidates will analyse the development of key concepts in primary mathematics and identify critical progression points for children\u2019s learning. They will consider children\u2019s conceptual development of Number constructs. Teacher Candidates will be introduced to assessment tools for children\u2019s understanding to improve school students\u2019 learning in the content strand Number and Algebra.",
+        "Teacher Candidates will reference Victorian and Australian curriculum documents and resources when lesson planning, administering classroom assessment and implementing effective teaching strategies. Teacher Candidates will consider important pedagogical issues such as: use of resources (including ICT), models of mathematical concepts, as well as explicit teaching and questioning. Teacher Candidates will explore how to differentiate in the mathematics classroom and engage in the Clinical Teaching Model to target teaching to differing needs of individual students."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "EDUC90778 Primary Mathematics Education 1 (no longer offered)"
+    ],
+    "assessments": [
+        {
+            "description": "Report: Analyse an assessment tool and interpret student data. 2000 words",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Essay: Identify and address a point of need. 1000 words",
+            "timing": "Late semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Examination: Assess students' knowledge and understanding of mathematical content knowledge and pedagogical content knowledge\r\n(2000 words equivalent). 2 hours. Hurdle requirement:. The examination must be passed.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "SMART tests requirement and content knowledge quizzes. Hurdle requirement:. All tests and quizzes must be completed with attainment of a minimum 80% score by the end of the teaching period (tests/quizzes may be retaken until 80% is achieved).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Attendance. Hurdle requirement:. A minimum of 80% attendance at, or engagement with, all sessions identified as contact hours (may include lectures, tutorials, seminars and workshops, both synchronous and asynchronous).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Catherine Pearn"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of on-campus classes"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Cath Pearn:",
+                    ""
+                ],
+                "email": [
+                    "cpearn@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Van de Walle, J., Karp, K., Bay-Williams, J., Brass, A., Bentley, B., Ferguson, S., Goff, W., Livy, S., Marshman, M., Martin, D., Pearn, C., Prodromou, T., Symons,\u202f D., Wilkie, K., & Wray, J. (2019).\u202fPrimary and middle years mathematics: Teaching developmentally\u202f(1st Australian ed.). Pearson Education Australia."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "Faculty of Education:https://education.unimelb.edu.au/"
+        ]
+    }
+}

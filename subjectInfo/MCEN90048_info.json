@@ -1,0 +1,133 @@
+{
+    "subject name": "Artificial Intelligence for Engineers",
+    "subject code": "MCEN90048",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Upon completion, students are expected to gain an overview of a major area of artificial intelligence known as deep learning, including Convolutional and Recurrent Neural Networks, Variational Autoencoders (VAEs) and Generative Adversarial Networks (GANs). Students will also learn computational intelligence methods of optimization and modelling.  An ongoing focus will be the applicability of these methods to engineering systems. Students are expected to practice some of the methods they learn on real and synthetic data and appreciate the strengths and limits of the approaches they learn.",
+        "A variety of topics in computational intelligence are expected to be covered, with selections to be made from 1) neural networks including generative networks, deep neural networks and convolution neural networks, 2) learning methods including unsupervised learning, reinforcement learning and semi-supervised learning, 3) appreciation of other Computational Intelligence methods: fuzzy systems and evolutionary algorithms and 4) an introduction to stochastic dynamic programming and its relationship to AI. Mechatronic applications in broader terms and case studies from other relevant areas of engineering will be discussed."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST20029"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "BMEN20003",
+                    "COMP10002",
+                    "COMP20005",
+                    "ENGR20005"
+                ]
+            ],
+            "alternate pre-requisite": [
+                "AND One of"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "MAST20030"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST20009",
+                    "MAST20032"
+                ],
+                [
+                    "BMEN20003",
+                    "COMP10002",
+                    "COMP20005",
+                    "ENGR20005"
+                ]
+            ],
+            "alternate pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written assignment 1 - Individual programming assignment. Intended Learning Outcomes (ILOs) 1-4 are addressed in this assessment.. 8 hours (of work required)",
+            "timing": "Week 4",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written assignment 2 - in a group of 2 -4 students, written analysis on a research or application idea of AI.  8 hours of work per student. ILOs 1-4 are addressed in this assessment.. 8 hours (of work required)",
+            "timing": "Week 8",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written assignment 3 - in a group of 2-4 students, a report and video presentation containing  programming and written analysis. ILOs 1-4 are addressed in this assessment.. 25 hours (of work required)",
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "In class tests - pre-lecture quizzes (4 throughout semester) 5 minutes each. ILOs 1-4 are addressed in this assessment.. 5 minutes",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "End of semester exam - closed book. ILOs 1-4 are addressed in this assessment.. 3 hours. Hurdle requirement:. Students are required to pass the exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Saman Halgamuge"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours comprising two 1 hour lectures and a 1 hour workshop each week."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

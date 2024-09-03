@@ -1,0 +1,99 @@
+{
+    "subject name": "Anatomy and Physiology",
+    "subject code": "ANAT90011",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject provides lectures in human structure and function for communication. An introduction to the auditory, respiratory, laryngeal and swallowing systems is provided, in addition to neuroanatomy. Students attend  laboratory sessions for guided observation and anatomical dissection classes, and attend lectures, workshops and/or tutorial sessions."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "4\u00a0x multiple choice (open book) online tests (10% each). 20 minutes (each)",
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Wet Lab peer-learning, written reflection. 750 words",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final exam. 2.5 hours. Hurdle requirement:. Students must pass the final exam in order to pass the subject overall.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Bryony Nayagam"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "b.nayagam@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.audspeech.unimelb.edu.au"
+        ]
+    }
+}

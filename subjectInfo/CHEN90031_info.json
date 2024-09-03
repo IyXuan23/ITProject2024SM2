@@ -1,0 +1,142 @@
+{
+    "subject name": "Sustainable Bioprocessing",
+    "subject code": "CHEN90031",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to establish an understanding of how chemical and biochemical engineering principles can be applied to the sustainable production of chemical products. The subject will focus on the application of biological conversion processes, in particular the use of microorganisms, and the conversion of renewable biomass feedstocks using chemical and biochemical pathways. This subject introduces students to the area of sustainable chemical production and bioprocessing, an area of growing importance to society.",
+        "Topics covered will include: biochemistry of biological feedstocks; basic microbiology, cell structure and nutritional requirements; products from microbes and bioprocesses; cell growth kinetics and product formation; batch and continuous microbial growth and product formation; cellular maintenance energy and endogenous respiration; design of fermentation processes; bioreactor design and kinetics; industrial sterilisation & aseptic design; chemical conversion of biomass; biochemical separation processes."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CHEN30001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following: MC-CHEMENG Master of Chemical Engineering, MC-SCIBIT Master of Biotechnology, Chemical specialisation (formal) in the MC-ENG Master of Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One examination. The examination paper will consist of problems designed to test whether the student has acquired the ability to apply fundamental principles to the solutions of problems involving bioprocesses. The problems set for the exam will be similar in style to those undertaken in the tutorial classes, but will require the student to show that they can extend themselves beyond the level of the simpler tutorial problems.  Intended Learning Outcomes (ILOs) 1, 2, and 4 are addressed in the examination.. 3 hours. Hurdle requirement:. At least 40% in the final exam is required to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        },
+        {
+            "description": "One written assignment. ILOs 1, 2. and 4 are addressed in the written assessment.. 25-30 hours (of work required)",
+            "timing": "Summer Intake: Due weeks 2 to 3; and Semester 1 : Due weeks 6 to 7.",
+            "percentage": "20%"
+        },
+        {
+            "description": "Two practical work assignments. (10% total; 5% each). ILO 3 is assessed in the practical work.. 13-15 hours (of work required)",
+            "timing": "Summer Intake: Due weeks 1 to 3; and Semester 1: Due weeks 2 to 5",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Greg Martin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3x 1-hour lectures  and 1x 1-hour tutorial per week, and  2x-2 hour practical work sessions per semester."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Associate Professor Greg Martin"
+                ],
+                "email": [
+                    "au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Schuler, M.L. ,2002 , and Kargi F.Bioprocess Engineering \u2013 Basic Concepts, 2nd edition, Prentice hall PTD, Upper Saddle River NY",
+                    "Bailey J.E. and Ollis, D.F., 1986,Biochemical Engineering Fundamentals, 2nd edition, McGraw-Hill NY"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject will be delivered through a combination of lectures and tutorials. Students will also complete experiments which will reinforce the material covered in lectures.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students will have access to lecture notes and lecture slides.",
+            "CAREERS / INDUSTRY LINKS",
+            "The skills gained in this subject are crucial to the career of a process engineer. They will be important for students wishing to progress to jobs in engineering design offices and in operational roles within a wide range of industries including petrochemicals, food processing, wastewater treatment and pulp and paper manufacture."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

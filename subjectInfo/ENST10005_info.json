@@ -1,0 +1,92 @@
+{
+    "subject name": "Exploring Science and Environment",
+    "subject code": "ENST10005",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject will introduce students to how science is undertaken in practice. Students will explore the fundamental concepts of the major scientific disciplines of chemistry, biology, physics and geology and their relationship with the environment. Students will gain an understanding of the importance of science for sustainable development and management of the environment.",
+        "The subject will draw on content covered in the other subjects offered as part of the Diploma in General Studies Extended program to apply scientific theories and concepts to a range of real-life situations in order to utilise and reinforce concepts presented as part of the subject."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Six assignments due fortnightly. Including writing up class activities, practical reports and field work worth 5 % each. 900 words (total)",
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Mid Semester Test. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written assignment. 500 words",
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. 80% attendance and regular participation",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Mode of delivery": "On Campus (Dookie)"
+                },
+                {
+                    "Contact hours": "2 hours of lectures per week\r\n2 hours of tutorials/workshops per week\r\n6 x 3 hour practicals/fieldtrip"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

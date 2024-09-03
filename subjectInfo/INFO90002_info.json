@@ -1,0 +1,178 @@
+{
+    "subject name": "Database Systems & Information Modelling",
+    "subject code": "INFO90002",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "The subject introduces key topics in modern information organisation, particularly with regard to structured databases. The well-founded relational theory behind modern structured query language (SQL) engines, has given them as much a place behind the web site of an organisation and on the desktop, as they traditionally enjoyed on corporate mainframes. Topics covered may include: the managerial view of data, information and knowledge; conceptual, logical and physical data modelling; normalisation and de-normalisation; the SQL language; data integrity; transaction processing, data warehousing, web services and organisational memory technologies. This is a core foundation subject for both the Master of Information Systems and Master of Information Technology."
+    ],
+    "indicative content": [
+        "This subject serves as an introduction to databases and data modelling from a data management perspective. Database design, from conceptual design through to physical implementation will be covered. This will include Entity Relationship modelling, normalisation and de-normalisation and SQL. Additionally the use of databases in various contexts will be explored (web based databases, connecting programs to databases, data warehousing, health contexts, geospatial databases).",
+        ""
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "INFO20003"
+    ],
+    "assessments": [
+        {
+            "description": "One team based database design assignment (20%) with 3-4 team members, comprising of a database design and a data dictionary equivalent to approximately 3000 words, released week 2 and due in week 6, requiring approximately 26-30 hours of work per student. Intended Learning Outcomes (ILO's) 1 to 3 are addressed in the database design and data dictionary.. 3000 words. Hurdle requirement:. To pass the subject, students must obtain at least 50% of the marks available in the non-examination based assessment.",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "One set of SQL answers to a series of questions run against a known database with fixed data content (10%) of approximately 1000 words, released in week 6 and due in week 9, requiring approximately 13-15 hours of work. ILO 4 is addressed in the assignment.. 1000 words. Hurdle requirement:. To pass the subject, students must obtain at least 50% of the marks available in the non-examination based assessment.",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "LMS timed quiz in weeks 6 and 12 each worth 10% (20%).. 1 hours. Hurdle requirement:. To pass the subject, students must obtain at least 50% of the marks available in the non-examination based assessment.",
+            "timing": "From Week 6 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "One written 2 hour end of semester examination (50%). ILO's 1 to 2 and 4 to 7 are addressed in the examination.. 2 hours. Hurdle requirement:. To pass the subject, students must obtain at least 50% of the marks available in the examination.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Tanya Linden"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours per week, comprising of one 2-hour lecture and one 1-hour tutorial"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Tanya Linden"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours per week, comprising of one 2-hour lecture and one 1-hour tutorial"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Tanya Linden"
+                ],
+                "email": [
+                    "lindent@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Tanya Linden"
+                ],
+                "email": [
+                    "lindent@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no prescribed texts for this subject."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Hoffer et al. \u201cModern Database Management\u201d \u2013 9th , 10th , 12th or 12th edition."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered in 3 hour classes. Each class will be made up of a combination of lectures, discussions and computer laboratory based learning. Outside class, students will study the practice of database implementation and usage and are encouraged to install and use a DBMS on their own computer as part of the course.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Whilst there is no single text for this subject, students would be encouraged to utilize one of the many Database textbooks available, there are a number of these in the Library. Additional readings will be made available as necessary via the LMS.",
+            "CAREERS / INDUSTRY LINKS",
+            "This subject is one of the building blocks for most careers in IT. A database makes the management of information possible and is one of the most prominently used technologies within all organisations."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,128 @@
+{
+    "subject name": "Experimental Animal Biology",
+    "subject code": "BIOL30002",
+    "subject availability": [],
+    "overview": [
+        "This subject will provide students with the opportunity to gain a first-hand laboratory experience of the structure and function of critical endocrine and neuroendocrine systems, including the reproductive system, and how environmental factors can affect an animal\u2019s physiology. Students will gain experience in experimental design, cutting-edge research techniques, data analysis, and scientific report writing and will be introduced to the practicalities of conducting a 5-week project in a research laboratory.",
+        "This subject gives students of science and biomedical science a solid foundation in laboratory practice in experimental animal biology. Students will be provided with an opportunity to engage in an authentic experience of scientific research: addressing questions in animal physiology to generate a hypothesis; designing an experiment; hands-on experience in the use of experimental animals; working in a group to complete the experiments and to collect and analyse the data; writing up an individual final report in the format of a scientific manuscript; and peer-review."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BCMB20002",
+                    "BIOM20001",
+                    "BIOM20002",
+                    "CEDB20003",
+                    "GENE20001",
+                    "MAST20031",
+                    "PHYS20008",
+                    "PHYS20009",
+                    "ZOOL20005",
+                    "ZOOL20006"
+                ],
+                "Students with equivalent alternative backgrounds should discuss their options with the coordinator."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "Students who complete this subject cannot normally also gain credit for: BIOL30008"
+    ],
+    "assessments": [
+        {
+            "description": "Group work and individual written task related to practicals. 2 individual written tasks (no more than 100 words each worth 5% each) and completed in class time, due weeks 1-4 and weeks 10-11. 100 words (each)",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual written work relating to practicals. 800 words",
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Individual 5-week Research Project Proposal. 500 words",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Peer and Supervisor assessment of group 5-week project practical contribution. 2% peer and 3% supervisor, in class time.. 10 minutes",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "5%"
+        },
+        {
+            "description": "Peer-reviewed 5-week group oral presentation. 10 minutes",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual 5-week Research Project Report. 2500 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinators": "Liz Bromfield and Nathan Burke"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x one hour lecture/tute per week; 1 x four hour practical class/laboratory-based research work time per week; one 4 hour excursion late in the semester."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "1 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "liz.bromfield@unimelb.edu.au",
+                    "nathan.burke@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

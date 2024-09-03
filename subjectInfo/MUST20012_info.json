@@ -1,0 +1,115 @@
+{
+    "subject name": "Music Theatre Combination Skills 1",
+    "subject code": "MUST20012",
+    "subject availability": [
+        "Semester 1 (Early-Start)"
+    ],
+    "overview": [
+        "This subject sets the foundation for synthesizing skills learned in the disciplines of acting, dancing, and singing in combination. Classes will focus on holistic techniques to integrate acting, singing and dancing within a context of large and small ensembles, as well as solo work.",
+        "Students will regularly present autonomously prepared songs for lecturer feedback and a peer-group audience with corresponding critical self-assessment. Students will receive both informal and formal feedback throughout the semester. Through technical skills and reflection students will develop how to integrate acting, singing and dancing."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MUST10015",
+                    "MUST10016"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MUST20004 Music Theatre Combination Class 2"
+    ],
+    "assessments": [
+        {
+            "description": "Combination Technical Skills Presentation 1 (Presentation \u2013 studio performance) individual presentation. 10-15 minutes",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Combination Technical Skills Presentation 2 (Production \u2013 Singing and Dancing) group presentation. 30 minutes",
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "Combination Technical Skills Presentation 3 (Acting through Song) individual and small ensemble presentation. 20 minutes",
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "description": "Reflection Report. 400 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum of 75% of all scheduled classes and submit all elements of assessment to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Coordinator": "Lyndall Dawson"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "72 hours, comprising one 2-hour Acting through Song class, one 1.5-hour Production class, and one 2.5-hour Presentation class per week for 12 weeks."
+                },
+                {
+                    "Total time commitment": "204 hours"
+                },
+                {
+                    "Teaching period": "12 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "23 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Lyndall Dawson:",
+                    ""
+                ],
+                "email": [
+                    "lyndall.dawson@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

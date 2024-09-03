@@ -1,0 +1,137 @@
+{
+    "subject name": "Engineering Capstone Project Part 2",
+    "subject code": "ENGR90038",
+    "subject availability": [
+        "Semester 1 (Early-Start)",
+        "Semester 2 (Early-Start)"
+    ],
+    "overview": [
+        "Please refer to ENGR90037 Engineering Capstone Project Part 1 for this information."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ENGR90037"
+                ],
+                "The student needs to be within the last 112.5 points of their Master of Engineering candidature to enrol in this Capstone subject."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BMEN90018",
+        "CVEN90047",
+        "CVEN90056",
+        "MCEN90022, MCEN90040, MCEN90042, MCEN90043, ELEN40001, ELEN40012, ELEN90067, ELEN90070, ELEN90081, ELEN90082, CVEN90064, CVEN90065."
+    ],
+    "assessments": null,
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of lectures"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of lectures"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Electrical students should contact Marcus Brazil -",
+                    "Civil, Spatial, Structural and Environmental students contact Murray Peel -",
+                    "Mechanical, Mechatronics and Aerospace students contact Bagus Nugroho -"
+                ],
+                "email": [
+                    "brazil@unimelb.edu.au",
+                    "mpeel@unimelb.edu.au",
+                    "bagus.nugroho@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [
+                    "Electrical students should contact Marcus Brazil -",
+                    "Civil, Spatial, Structural and Environmental students contact Murray Peel -",
+                    "Mechanical, Mechatronics and Aerospace students contact Bagus Nugroho -"
+                ],
+                "email": [
+                    "brazil@unimelb.edu.au",
+                    "mpeel@unimelb.edu.au",
+                    "bagus.nugroho@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

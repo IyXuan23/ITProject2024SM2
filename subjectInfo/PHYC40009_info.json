@@ -1,0 +1,126 @@
+{
+    "subject name": "Physics Research Project Pt1",
+    "subject code": "PHYC40009",
+    "subject availability": [
+        "Semester 1 (Extended)",
+        "Semester 2 (Extended)"
+    ],
+    "overview": [
+        "In this subject, students undertake a program of original research in one of the many research fields in which the School of Physics is active and internationally recognised: astrophysics, condensed matter physics, optics, and particle physics. The research may be experimental and/or theoretical in nature. It will be conducted under the supervision of a member of the Schools academic staff. The results will be reported in the form of a thesis. Students enrol in a total of 50 points of research project across the duration of the Graduate Diploma in Science (Advanced) program. This is achieved by enrolling in two of subjects across two consecutive semesters to achieve a total 50 credit points. Students enrol in a Part 1 subject in the first semester and a Part 2 subject in the second semester of the program.",
+        "This subject (PHYC40009 Physics Research Project Pt 1) is a 12.5 points version for one semester."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Coordinator approval \u2013 students are required to have an approved research project and supervisor before undertaking a research component"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Major thesis, comprising up to 25 pages of mixed text, diagrams, and mathematical formulas. 25 pages",
+            "timing": "",
+            "percentage": "90%"
+        },
+        {
+            "description": "An oral presentation lasting up to 20 minutes. 20 minutes",
+            "timing": "",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended)": [
+                {
+                    "Principal coordinator": "Jeffrey McCallum"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Teaching period": "26 February 2024 to 30 June 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Principal coordinator": "Jeffrey McCallum"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Teaching period": "22 July 2024 to 24 December 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "24 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Extended)": {
+                "name": [],
+                "email": [
+                    "msc@physics.unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Extended)": {
+                "name": [],
+                "email": [
+                    "msc@physics.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "subject name": "Management of Construction",
+    "subject code": "ABPL90313",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject provides an introduction to the nature and construction industry both locally and internationally. It investigates the roles and responsibilities of a range of industry stakeholders and introduces project procurement systems and contracts. Theories relating to management and project management and how they apply to the construction industry are presented. The subject then focuses on issues affecting the management of construction projects at the site level. An overview of production management and how it relates to the construction industry is provided along with consideration of issues affecting the efficient use of resources such as labour, subcontract labour, materials, plant and equipment. Labour productivity improvement techniques to such as work study and activity sampling are presented. Industrial relations, site safety and quality assurance are introduced along with construction project planning methods. Critical path scheduling is presented and the construction plan for a small scale building is undertaken."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment, focussing on numerical techniques related to construction productivity. 500 words (equivalent)",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Essay and class presentation focussing on issues facing construction management in the future. Essay due in week 7 and presentations (in pairs) held in weeks 8 to 12. 2000 words (equivalent)",
+            "timing": "From Week 7 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "description": "Assignment, critiquing a project plan for a small scale building. 500 words (equivalent)",
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "An open book examination equivalent to 2000 words focussing on a wide range of management issues covered during the semester relating the procurement and delivery of projects for the construction industry. 2 hours. Hurdle requirement:. A minimum mark of 40% has to be achieved in the examination in order to pass this subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Valerie Francis"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 hours of lecture  and  1 hour  tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinator"
+                ],
+                "email": [
+                    "vfrancis@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Annual Reader"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Safety boots, high visibility vests and a hard hat are required for construction site visits in this subject (to be provided by the student)."
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

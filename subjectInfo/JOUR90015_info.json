@@ -1,0 +1,154 @@
+{
+    "subject name": "Journalism Thesis Part 1",
+    "subject code": "JOUR90015",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "A research topic selected in consultation with the subject coordinator. Enrolment in the thesis is across two consecutive semesters and students must enrol in the subject in each semester to ensure they are meeting the full 37.5 point requirement for the year-long subject."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students must be admitted to the Master of Journalism or the Master of International Journalism in order to apply to enrol in this subject.",
+                "To be enrolled into the minor thesis, students must be in the final 100 points of their degree, with a weighted average mark of H1 (80%) across their previous 50 points of study (or equivalent) prior to enrollment in the thesis.",
+                "This subject is a capstone in the Master of Journalism or the Master of International Journalism programs and is not available to Community Access Program (CAP), Inbound Exchange/Study Abroad or Incoming Cross-institutional students."
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [
+        "JOUR90002 Journalism Thesis"
+    ],
+    "assessments": [
+        {
+            "description": "A thesis written over two consecutive semesters, due at the end of the second semester of study. 12,000 words",
+            "timing": "Due at the end of the second semester of study",
+            "percentage": "100%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: Students are required to attend a minimum of 80% of supervision meetings in order to qualify to have their written work assessed.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Jeff Sparrow"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total 25 hours: Regular meetings with the supervisor over two consecutive semesters of enrolment."
+                },
+                {
+                    "Total time commitment": "510 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Jeff Sparrow"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total 25 hours: Regular meetings with the supervisor over two consecutive semesters of enrolment."
+                },
+                {
+                    "Total time commitment": "510 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "jeffrey.sparrow@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "jeffrey.sparrow@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    [
+                        "Deacon, David, Michael Pickering, Peter Golding and Graham Murdoch (eds) (1999),Researching Communications: A Practical Guide to Methods on Media and Cultural Analysis, Arnold, London",
+                        "Hanson, Anders, Cottle, Simon, Negrine, Ralph and Newbold, Chris (eds) (1998)Mass Communication Research Methods, Macmillan, Basingstoke.",
+                        "McQuail, Denis (2010),McQuail\u2019s Mass Communication Theory, Sage, London.",
+                        "Bertrand, Ina and Peter Hughes (2005),Media Research Methods: Audiences, Institutions, Texts, Palgrave, Basingstoke"
+                    ]
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Please note:Information on this page refers to both Part 1 and Part 2 of this subject (JOUR90015 Journalism Thesis Part 1 and JOUR90016 Journalism Thesis Part 2)."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://graduate.arts.unimelb.edu.au/mcp/master-of-journalism.html"
+        ]
+    }
+}

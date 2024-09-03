@@ -1,0 +1,165 @@
+{
+    "subject name": "Introduction To Biomedical Research",
+    "subject code": "BIOM40001",
+    "subject availability": [
+        "February",
+        "July"
+    ],
+    "overview": [
+        "This subject aims to prepare students for the processes and strategies at the core of modern biomedical research. Using self-directed learning strategies, students will be guided through a series of online modules to serve as preparation for their own research projects. Modules on ethical considerations in biomedical research, data integrity and legislation, will equip students to consider these in the context of their own research. Students will learn about the importance of accurate research records, data documentation, and effective reference management including the use of an electronic laboratory notebook and reference management software. Real-world examples will be used to introduce experimental design and core statistical techniques enabling students to plan experiments and analyse their own data. Regular participation in a journal club will develop students\u2019 ability to critically appraise aspects of experimental design and data analysis and visualisation while resources developed by expert scientific communicators will aid students communicate their research, in both written and oral form, to a lay audience."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Online training modules on research integrity (RIOT), animal ethics and use of cell lines (8 modules: 1 hour per module to review content and complete a short assessment). 8 hours. Hurdle requirement:. Satisfactory completion evidenced by completion certification",
+            "timing": "Week 1",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Online training modules on record keeping via LabArchives and appropriate reference manager. 3 hours. Hurdle requirement:. Satisfactory completion evidenced by completion certification",
+            "timing": "Week 2",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Online quizzes (4 Quizzes \u2013 self paced) on statistics and experimental design. 6 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Students will do one presentation (20 minute presentation and 10 minutes of questions) to their journal club group and attend five journal clubs over the course of the subject.  Students will be expected to read the paper being presented weekly in preparation for the journal club activity.. 30 minutes",
+            "timing": "Weekly",
+            "percentage": "30%"
+        },
+        {
+            "description": "One lay writing assignment. 500 words",
+            "timing": "2 weeks after the end of teaching",
+            "percentage": "25%"
+        },
+        {
+            "description": "One 3MT oral presentation on student project. 3 minutes",
+            "timing": "4 weeks after the end of teaching",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Coordinators": "Avnika Ruparelia, Saw Hoon Lim, and Yossi Rathner"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Research Integrity Online Training 8 Hours (self-paced)\r\nRecord Keeping and Reference Management 3 Hours (self paced)\r\nStatistics (online) 6 hours (self paced)\r\nJournal Club 5 hours + preparation (5 weeks, synchronous)\r\n3 Minute Research Proposal 2 hours (in person)\r\n= 24 hours course work commitment"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "12 February 2024 to 25 March 2024"
+                },
+                {
+                    "Last self-enrol date": "20 February 2024"
+                },
+                {
+                    "Census date": "1 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "5 April 2024"
+                },
+                {
+                    "Assessment period ends": "22 April 2024"
+                }
+            ]
+        },
+        {
+            "July": [
+                {
+                    "Coordinators": "Saw Hoon Lim and Avnika Ruparelia"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Research Integrity Online Training 8 Hours (self-paced)\r\nRecord Keeping and Reference Management 3 Hours (self paced)\r\nStatistics (online) 6 hours (self paced)\r\nJournal Club 5 hours + preparation (5 weeks, synchronous)\r\n3 Minute Research Proposal 2 hours (in person)\r\n= 24 hours course work commitment"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to  2 September 2024"
+                },
+                {
+                    "Last self-enrol date": "30 July 2024"
+                },
+                {
+                    "Census date": "9 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "6 September 2024"
+                },
+                {
+                    "Assessment period ends": "30 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [],
+                "email": [
+                    "BIOM-40001@unimelb.edu.au",
+                    "Current students",
+                    "Past students, future students, general enquiries"
+                ]
+            }
+        },
+        {
+            "July": {
+                "name": [],
+                "email": [
+                    "BIOM-40001@unimelb.edu.au",
+                    "Current students",
+                    "Past students, future students, general enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students enrolled in BSc (Honours); BBiomed (Honours); MSc (RT, Biomedical and Health Sciences)"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "None"
+        ]
+    }
+}

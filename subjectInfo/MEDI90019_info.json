@@ -1,0 +1,165 @@
+{
+    "subject name": "Clinical Research Proposal",
+    "subject code": "MEDI90019",
+    "subject availability": [
+        "Semester 1 (Early-Start)",
+        "April"
+    ],
+    "overview": [
+        "In this subject students will have the opportunity to undertake a small clinical research investigation in an area of clinical interest. In consultation with a research supervisor and/or the course coordinator, participants will formulate a research question and undertake a systematic or literature review to evaluate the published evidence to synthesize an answer to their research question. This subject will provide participants with the practical knowledge required to plan an evidence based clinical research project with consideration given to the process and requirements of ethics approval."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the N01AA Master of Clinical Research",
+                "This subject is not available for students admitted in any other courses"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Research progress report. 1000 words. Hurdle requirement:. This is a hurdle assessment.",
+            "timing": "Week 8",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Written peer review feedback on submitted research progress report; student is assessed on the quality of feedback (500-750 words) given to peer. 500 words",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Oral presentation (Week 4 of Semester 2). 20 minutes",
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Ethics application. 2000 words. Hurdle requirement:. Ethics application submission is a hurdle requirement of this subject.",
+            "timing": "End of the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Written research report. 5000 words",
+            "timing": "End of the teaching period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Coordinator": "Anita Horvath"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Pre teaching start date": "5 February 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students will be advised to identify supervisors and projects prior to teaching period commencement"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "16 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "April": [
+                {
+                    "Coordinator": "Anita Horvath"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Pre teaching start date": "28 March 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students will be advised to identify supervisors and projects prior to teaching period commencement"
+                },
+                {
+                    "Teaching period": "15 April 2024 to 28 October 2024"
+                },
+                {
+                    "Last self-enrol date": "1 April 2024"
+                },
+                {
+                    "Census date": "17 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "23 August 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        },
+        {
+            "April": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

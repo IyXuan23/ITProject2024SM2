@@ -1,0 +1,184 @@
+{
+    "subject name": "Physics 2: Life Sciences & Environment",
+    "subject code": "PHYC10006",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject aims to develop students\u2019 understanding of the physics principles underpinning biological and environmental systems. It is designed for students with a sound background in physics, whose interests lie mainly in the biological sciences. Topics include:Fluids: blood pressure and the circulatory system, breathing and respiration (pressure in fluids, fluid flow, viscosity).Thermal physics: heating and cooling, energy balance of living organisms, ion movement across membranes (temperature and thermal energy, phase changes, heat transfer mechanisms, first law of thermodynamics, diffusion).Electricity and magnetism: bioelectricity, nerve conduction, electrical safety, power transmission, synchrotron, biological effects of electromagnetic fields (electric charge and field, electric potential, capacitance, electric circuits, resistance, magnetic fields and forces, Faraday\u2019s law of induction).Atomic physics and lasers: fluorescence imaging and spectroscopy, laser surgery (structure of the atom, photons, spectroscopy, interaction of light with matter);Radiation: radiation safety, therapeutic uses of radiation (the atomic nucleus, isotopes, nuclear decay and radiation, physical and biological half-life, ionising radiation); andImaging: modern biomedical imaging (X-rays, CT-scans and angiography, ultrasound imaging, positron emission tomography)."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Physics:"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students are required to meet both Physics and Mathematics prerequisites below",
+                "Study score of 25 or more in VCE Physics 3 and 4 or equivalent"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "PHYC10001",
+                    "PHYC10003"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                [
+                    "PHYC10009"
+                ],
+                [
+                    "MAST10014",
+                    "MAST10015"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "With a result of at least H2A",
+                "Mathematics:"
+            ]
+        },
+        {
+            "option": "Option 4",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Study score of 25 of more in VCE Mathematical Methods 3 and 4 or equivalent"
+            ]
+        },
+        {
+            "option": "Option 5",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the B-SCI Bachelor of Science"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "PHYC10002",
+        "PHYC10004",
+        "PHYC10007"
+    ],
+    "assessments": [
+        {
+            "description": "Ongoing assessment of practical work. Hurdle requirement:. Satisfactory completion of practical work is necessary to pass the subject (i.e. attendance and submission of work for at least 80% of workshop sessions together with a result for assessed work of at least 50%).",
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Ten weekly assignments (10 x 1.5%)",
+            "timing": "During the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Jacinta Den Besten"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week; 1 x one hour tutorial per week; 15 hours of practical work consisting of 6 x 2.5 hour laboratory sessions  during the semester."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Director of First Year Studies"
+                ],
+                "email": [
+                    "dfys@physics.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Introduction to Biological Physics for the Health and Life Sciences, 2nd Edition",
+                    "Kirsten Franklin, Paul Muir, Terry Scott, Paul Yates",
+                    "ISBN: 978-1-118-93448-7"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

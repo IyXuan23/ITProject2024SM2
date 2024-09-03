@@ -1,0 +1,134 @@
+{
+    "subject name": "Obligations",
+    "subject code": "LAWS50026",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject builds on and continues to develop skills introduced in the foundational subject Legal Method and Reasoning, including the close reading and critical analysis of cases and the interpretation and application of legislation. The substantive content of the subject considers the nature and foundations of the law of obligations through the study of four categories of private law obligation:",
+        "Obligations arising from exchange transactions (contracts);",
+        "The obligation not to mislead or deceive in trade or commerce (misleading conduct);",
+        "The obligation not to cause harm through inconsistent conduct (estoppel); and",
+        "The obligation to restore unjust gains (restitution for unjust enrichment).",
+        "Topics to be examined in detail will include:",
+        "The nature of private law obligations and the relationship between obligations and property;",
+        "The nature and foundations of contractual obligations;",
+        "The formation of contracts (the requirements of agreement, consideration, intention to create legal relations, certainty and capacity);",
+        "Formalities;",
+        "The doctrine of privity (by whom and against whom contractual obligations are enforceable);",
+        "The statutory wrong of misleading or deceptive conduct in trade or commerce;",
+        "The principles of estoppel (the nature of equity, equitable and common law estoppels and the remedial effects of equitable estoppel); and",
+        "The law of unjust enrichment (the nature of restitution for unjust enrichment, money claims, claims in respect of services and defences)."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "LAWS50023"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Response to a hypothetical problem. 750 words. Hurdle requirement:. This assessment task will be marked on a Pass/Fail basis. Students must pass this assessment to pass the subject. Resubmissions will be allowed.",
+            "timing": "From Week 3 to Week 4",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Take-home hypothetical exercise to be completed in pairs. 1500 words",
+            "timing": "From Week 5 to Week 8",
+            "percentage": "30%"
+        },
+        {
+            "description": "Response to a hypothetical problem (750 words) and a response to a short-answer/essay-style question (500 words).. 1250 words. Hurdle requirement:. This assessment task will be marked on a Pass/Fail basis. Students must pass this assessment to pass the subject. Resubmissions will be allowed.",
+            "timing": "Week 11",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Examination, open book. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Anna Chapman"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours"
+                },
+                {
+                    "Total time commitment": "144 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    [
+                        "Robertson and Paterson,Contract: Cases and Materials(Lawbook Co/Thomson Reuters, 14th ed, 2020)",
+                        "Specialist materials will also be made available via the LMS."
+                    ]
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    [
+                        "Robertson and Paterson,Principles of Contract Law(Lawbook Co/Thomson Reuters, 6thed, 2020)"
+                    ]
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "If required, please contactlaw-admissions@unimelb.edu.aufor subject coordinator approval.",
+                    "If required, please contactlaw-admissions@unimelb.edu.aufor subject coordinator approval."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

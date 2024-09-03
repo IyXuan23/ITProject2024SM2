@@ -1,0 +1,171 @@
+{
+    "subject name": "Experimental Animal Behaviour",
+    "subject code": "ZOOL30007",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "In this subject you will conduct group-based, hands-on, original research into animal behaviour. Over the semester you will be immersed in the entire process of scientific research - from hypothesis development and experimental design, through to data collection and statistical analysis. You will report your findings in spoken and written formats, and critically review the work of other students. Study animals range from insects and spiders, to fish, birds and mammals \u2013 in the lab, zoo or wild. You will emerge with an authentic experience of scientific research \u2013 complete with its challenges, frustrations and the thrill of scientific discovery."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ECOL20003"
+                ],
+                "Note: the following subject/s can also be taken concurrently (at the same time)",
+                [
+                    "ZOOL30006"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ZOOL20005",
+                    "ZOOL20006"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "MAST20031"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ZOOL20005",
+                    "BIOL20001",
+                    "ECOL20003"
+                ]
+            ],
+            "additional pre-requisite": [
+                "From 2024 onwards"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A written project plan submitted by the end of the first three weeks of semester. 200  words",
+            "timing": "From Week 2 to Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Reviews of written and spoken work by peers (2 written reviews, 400 words each and 1 oral review, 200 words; 25%) followed by a rejoinder to reviewer comments (500 words, 5%). 1500 words (total)",
+            "timing": "From Week 7 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "An oral presentation (approx. 1 hour group planning time;  2 hours of preparation of presentation slides and notes). 3 minutes",
+            "timing": "From Week 9 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Evaluation of contribution to project work by group members (including supervisor). 200 words",
+            "timing": "End of semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "A written scientific report. 2000 words (total)",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Emile van Lieshout"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours of tutorial per week (36 hours total) and 60 hours of practical project work in students' own time during the semester"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "evl@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "M. S. Dawkins,Observing animal behaviour: design and analysis of quantitative data,Oxford University Press, Oxford, 2007.",
+                    "P. Martin & P. Bateson,Measuring behaviour: an introductory guide,3rd Ed.Cambridge University Press, Cambridge, 2009"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course.",
+            "This subject was previously known as 654-320 Experimental Behavioural Zoology (prior to 2011)"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Commerce",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

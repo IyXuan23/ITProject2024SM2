@@ -1,0 +1,104 @@
+{
+    "subject name": "Research and Evidence 2",
+    "subject code": "PHTY90101",
+    "subject availability": [
+        "Semester 1 (Extended)"
+    ],
+    "overview": [
+        "This subject will build on research knowledge from Research and Evidence 1 and integrate to apply research concepts in the individual physiotherapy clinical practice streams. Specific content in this subject will focus on exploratory and experimental research design and methodology, incorporating statistical analysis and critical appraisal. Epidemiological constructs of prevalence, incidence and risk will be introduced in conjunction with applied clinical concepts such as number needed to treat and odds ratios. Methodology relating to survey design, development and analysis will be presented. Qualitative research methodology and interpretation will be introduced, included critical appraisal. On completion of this subject, students will be able to apply all five steps in practicing evidence-based physiotherapy: (1. Convert information needs into answerable questions, 2. Track down the best evidence with which to answer those questions, 3. Critically appraise research evidence, 4. Integrate evidence with clinical expertise & patient preferences and 5. Evaluate effectiveness of steps 1-4."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHTY90094"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Content quiz: Three (3) 10-question quizzes on module content. 30 minutes",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual written critical appraisal assignment. 1500 words",
+            "timing": "Mid semester",
+            "percentage": "35%"
+        },
+        {
+            "description": "Individual oral presentation in Journal Club. 10 minutes",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group written assignment. 2000 words",
+            "timing": "At the end of the assessment period",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended)": [
+                {
+                    "Coordinator": "Fiona Dobson"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "60 hours of lectures, self-directed tutorials and journal clubs and online learning"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "15 January 2024 to  7 June 2024"
+                },
+                {
+                    "Last self-enrol date": "26 January 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "The same texts as prescribed in Research and Evidence 1 (year 1) and Research and Evidence 3 (year 3) will be used in this subject:",
+                    [
+                        "Practice Evidence-Based Physiotherapy. (R Herbert, G Jamtvedt, J Mead and K Birger Hagen), London, Butterworth Heinemann, 2012.",
+                        "Foundations of Clinical Research: Applications to Practice (Portney LG & Watkins MP), 3rd ed. Pearson/Prentice Hall, Upper Saddle River, New Jersey, 2009"
+                    ]
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://physioth.unimelb.edu.au/"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

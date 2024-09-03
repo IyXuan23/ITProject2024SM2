@@ -630,26 +630,47 @@ def scrapeContactInfo(soup):
     container = soup.find('div', class_='layout-sidebar__side__inner')
     sems = container.find_all('h5')
 
+    print('scraping contact')
+
     for sem in sems:
         currSem = sem.get_text(strip=True)
         data = sem.find_next()
         
-        nameContainer = data.find('p')
         name = []
         email = []
         
         #scrape the names of the contact info
         try:
-            for element in nameContainer.contents:
-                
-                #check whether the element is a string, or the name is encoded within <span> or
-                #<p>, but also avoid emails which may also be encoded in <span> or <p>
-                if hasattr(element, 'name'):
-                    if element.name == 'span' or element.name == 'p':
-                        if not element.find('a'):
-                            name.append(element.get_text(strip=True))
-                if isinstance(element, str):
-                    name.append(element.strip())
+            nameContainer = data.find('p')
+            
+            if nameContainer != None:
+                for element in nameContainer.contents:
+                    
+                    #check whether the element is a string, or the name is encoded within <span> or
+                    #<p>, but also avoid emails which may also be encoded in <span> or <p>
+                    if hasattr(element, 'name'):
+                        if element.name == 'span' or element.name == 'p':
+                            if not element.find('a'):
+                                name.append(element.get_text(strip=True))
+                    if isinstance(element, str):
+                        name.append(element.strip())
+
+            else:
+                if hasattr(data, 'name') and data.name == 'div':
+                #format where the div contains both name and email
+                    if data.find('a') != None:
+                        txt = data.get_text(strip=True)
+
+                        if len(txt.split(':') == 2):
+
+                            currName, currEmail = txt.split(':')
+                            name.append(currName)
+                            email.append(currEmail)
+
+                        elif len(txt.split(':') == 1):
+                            name.append('NA')
+                            email.append(txt)
+
 
         except TypeError:
             print("Contact Info Not Found")
@@ -714,12 +735,11 @@ def scrapeDateTime(courseCode):
                         }
 
                         dateTimes.append(dateTime)
-                    
+
                     semDateTime = {
                         termName:dateTimes
                     }
                     availableSemsDateTimes.append(semDateTime)        
-
 
         contactInfo = scrapeContactInfo(soup)
         return availableSemsDateTimes, contactInfo

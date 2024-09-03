@@ -1,0 +1,109 @@
+{
+    "subject name": "Climate Modelling and Climate Change",
+    "subject code": "ERTH90026",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject describes the physics of the climate system, and how the system is represented in numerical models.",
+        "Key aspects include:",
+        "Radiation balance and heat balance of the earth",
+        "Carbon dioxide, water vapour and other Greenhouse Gas absorption spectra",
+        "Other key climate drivers including solar variability, aerosols and clouds",
+        "The global carbon cycle and the modelling of other greenhouse gases",
+        "Impacts of climate change including sea level rise and extreme events",
+        "It covers aspects of uncertainty and chaos to understand why climate models are imperfect but invaluable tools. Students will build a simple climate model and run numerical experiments with different greenhouse gases. Existing knowledge in python programming is recommended but can be acquired throughout the course. The subject will also briefly discuss the processes of the United Nations Framework Convention on Climate Change (UNCCC) and Intergovernmental Panel on Climate Change (IPCC).",
+        "The 12 lectures cover the following themes: 1. Introduction; 2. Radiative forcing; 3. Climate feedbacks; 4. Carbon & gas cycles; 5. Oceans & sea level rise; 6. Aerosols & Clouds; 7. Variability and El Nino*; 8. Water Cycle and Extremes; 9. Ensemble & probabilistic projections, D&A; 10. Scenarios, carbon dioxide removal and solar radiation management; 11. Climate Targets, carbon budgets and the Paris Agreement*; 12. Wrap Up",
+        "The lectures are accompanied with weekly exercises that provide students with hands-on conceptual learning, modelling and data analysis experience."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission to a Masters level program."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "3 Assignments (Essay plus programming), in weeks 3, 6, and 9.. 750 words (each)",
+            "timing": "From Week 3 to Week 9",
+            "percentage": "40%"
+        },
+        {
+            "description": "Weekly Exercises (written task plus programming). 150 words (each)",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Malte Meinshausen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "12 weeks: 1 x 3hr seminar (2hr lecture + 1hr practical) per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "The two texts recommended as preparation for this subject are:",
+                    "a) The Technical summary of the Intergovernmental Panel on Climate Change Fifth Assessment Report AR5, available here:http://ipcc.ch/pdf/assessment-report/ar5/wg1/WG1AR5_TS_FINAL.pdfand",
+                    "b) An introduction to python programming of your choice, e.g. the Google Python Class, available here:https://developers.google.com/edu/python/"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

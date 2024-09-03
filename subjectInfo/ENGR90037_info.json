@@ -1,0 +1,177 @@
+{
+    "subject name": "Engineering Capstone Project Part 1",
+    "subject code": "ENGR90037",
+    "subject availability": [
+        "Semester 1 (Extended)",
+        "Semester 2 (Extended)"
+    ],
+    "overview": [
+        "The subject involves undertaking a substantial group project (typically in groups of three students) requiring an independent investigation on an approved topic in advanced engineering design and / or research. Each project is carried out under the supervision of a member of academic staff and where appropriate an industry partner.",
+        "The emphasis of the project can be associated with either:",
+        "A well-defined project description, often based on a task required by an external, industrial client. Students will be tutored in the synthesis of practical solutions to complex technical problems within a structured working environment, as if they were professional engineering practitioners; or",
+        "A project description that will require an explorative approach, where students will pursue outcomes associated with new knowledge or understanding, within the engineering science disciplines, often as an adjunct to existing academic research initiatives.",
+        "It is expected that the Capstone Project will incorporate findings associated with both well-defined professional practice and research principles and will provide students with the opportunity to integrate technical knowledge and generic skills gained in earlier years.",
+        "The project component of this subject is supplemented by a lecture course dealing with project management tools and practices.",
+        "Please note:",
+        "Students enrolled in the suite of Master of Engineering programs must be within the final 112.5 points of their degree to enrol.",
+        "Students enrolled in the Master of Industrial Engineering must be within the final 100 points of their degree to enrol.",
+        "Students are to take Engineering Capstone Project Part 1 and then subsequently continue with Engineering Capstone Project Part 2 in the following semester. Upon successful completion of this project, students will receive 25 points credit."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Students enrolled in the suite of Master of Engineering programs must be within the final 112.5 points of their degree to enrol."
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Students enrolled in the Master of Industrial Engineering must be within the final 100 points of their degree to enrol."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BMEN90018",
+        "CVEN90047",
+        "",
+        "MCEN90022, MCEN90040, MCEN90042, MCEN90043, ELEN40001, ELEN40012, ELEN90067, ELEN90070, ELEN90081, ELEN90082, CVEN90064, CVEN90065.",
+        "Last updated: 16 April 2024"
+    ],
+    "assessments": [
+        {
+            "description": "Continuous Assessment on Professional Engineering Practice:\r\nAssignment 1 (individual assessment) due week 4-7 of 1st semester of project.. 10 hours",
+            "timing": "From Week 4 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "Continuous Assessment on Professional Engineering Practice:\r\nAssignment 2 (individual assessment) due week 8-12 of 1st semester of project.. 10 hours",
+            "timing": "From Week 8 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Non-technical presentation to lay-audience of no more\r\nthan 30 minutes (individual assessment). Due week 6-12 of 2nd semester of project.. 15 hours",
+            "timing": "From Week 6 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final written report (group assessment with individual components), due week 12 of 2nd semester of project. Groups between 2\u20104 students.. 60 hours. Hurdle requirement",
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Oral examination for each student of up to twenty minutes. Due in the exam period of the 2nd semester of the project.. 20 minutes. Hurdle requirement:. Students must achieve at least a pass average for the combination of oral examination and final written report.",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended)": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of lectures"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 30 June 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 24 December 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "24 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Extended)": {
+                "name": [
+                    "Electrical students should contact Marcus Brazil -",
+                    "Civil, Spatial, Structural and Environmental students contact Murray Peel -",
+                    "Mechanical, Mechatronics and Aerospace students contact Bagus Nugroho -"
+                ],
+                "email": [
+                    "brazil@unimelb.edu.au",
+                    "mpeel@unimelb.edu.au",
+                    "bagus.nugroho@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Extended)": {
+                "name": [
+                    "Electrical students should contact Marcus Brazil -",
+                    "Civil, Spatial, Structural and Environmental students contact Murray Peel -"
+                ],
+                "email": [
+                    "brazil@unimelb.edu.au",
+                    "mpeel@unimelb.edu.au",
+                    "bagus.nugroho@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

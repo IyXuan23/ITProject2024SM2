@@ -1,0 +1,114 @@
+{
+    "subject name": "Quality Use of Medicines",
+    "subject code": "NURS90071",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject addresses the application of pharmacokinetics and dynamics to clinical practice and introduces students to regulation and governance of prescribing, therapeutic planning across the life span, medication safety and risk and error management. This subject includes practical application of this knowledge in class and clinical practice and includes Integrated Professional Practice (IPP) hours."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHRM90002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "2 hour written examination. 2 hours",
+            "timing": "Week 8",
+            "percentage": "50%"
+        },
+        {
+            "description": "Completion of 20 hours of Integrated Professional Practice (IPP). 20 hours. Hurdle requirement:. Completion of 20 hours of Integrated Professional Practice (IPP)",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Four medication management plans. 2000 words (equivalent)",
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Medication prescribing competency assessment. 1000 words. Hurdle requirement:. Students must pass this assessment to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Snezana Kusljic"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hrs contact synchronous time consisting of: 24 hours of synchronous lectures; 8 hours of online content modules; and 4 hours of online case studies."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "skusljic@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no prescribed texts for this subject."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "A list of recommended readings will be provided upon commencement."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.nursing.unimelb.edu.au/"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "subject name": "Light, Lasers, Optics",
+    "subject code": "PHYC30023",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The subject will derive the fundamentals of modern optics and apply them to optical systems. We will begin with a matrix approach to geometric ray optics and progress to Gaussian beams with particular emphasis on laser beams and optical resonators. We will review the polarization of light using Jones matrices and Mueller calculus. Interference concepts will be developed and applied to interferometers, thin films and Fabry-Perot cavities. These concepts will be used to explain lasers, from Einstein concepts and population inversion to laser gain and longitudinal mode structure, for three-level and four-level systems, and extended to cover laser dynamics, Q-switched and mode-locked systems, and femtosecond combs.",
+        "Fibre optics and applications will include microstructured fibres, coupling, dispersion, fibre amplifiers and lasers. Non-linear optics will be introduced, including coupled-wave theory, harmonic generation, parametric amplification, Pockel and Kerr effects, four-wave mixing and phase conjugation. We will also review Raman, Mie and Brillouin scattering.",
+        "Fresnel and Fraunhofer diffraction theory and the angular spectrum representation of wavefields will be reviewed with emphasis on optical imaging. We will also describe modern optical microscopy from phase imaging to optical coherence tomography and super-resolution methods including STEM, STED, SLIM and TIRF."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Physics:",
+                [
+                    "PHYC20015"
+                ],
+                "Mathematics:"
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST20009",
+                    "MAST20032"
+                ],
+                [
+                    "MAST20026",
+                    "MAST20030",
+                    "PHYC20014",
+                    "MAST20033"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Students are required to meet both Physics and Mathematics prerequisites below"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": null,
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "Robert Scholten and Ann Roberts"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total 48 hours; 36 hours of lectures (3 x 1-hour lectures per week), 12 hours of tutorials (1-hour tutorials per week)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "BEA Saleh and MC Teich,Fundamentals of Photonics,2e, Wiley-Interscience",
+                    "JW Goodman,Introduction to Fourier Optics, McGraw-Hill",
+                    "DA Steck,Classical and Modern Optics,http://atomoptics.uoregon.edu/~dsteck/teaching/optics/",
+                    "FL, LM and LS Pedrotti,Introduction to Optics, 3e, Pearson",
+                    "Hecht,Optics, 4thedition, Addison-Wesley"
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

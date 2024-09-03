@@ -1,0 +1,132 @@
+{
+    "subject name": "Genomics and Bioinformatics",
+    "subject code": "BTCH90009",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject describes how technologies enabling the sequencing of complete genomes have transformed biological research in the past decades. Bioinformatics provides the tools to analyse these massive data connecting nucleic acids to the structures and functions of life. The advanced topics will review current knowledge on genomics and transcriptomics and describe the databases used to gather this information.",
+        "The course will provide to non-specialised life-scientists the core concepts in genomics and bioinformatics. It will describe how to utilise public databases to retrieve biological information and develop a critical understanding of the methods used to generate them. This subject will explore how genomes are sequenced and annotated, and how connections are drawn between the different levels of molecular organisation to build a systems understanding of complex biological processes."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Students who hold an equivalent genetics or biochemistry subject from their final year of study in an undergraduate degree from outside of the University of Melbourne are encouraged to apply for entry via an Enrolment Variation request."
+            ],
+            "one of pre-requisite": [
+                [
+                    "GENE30002",
+                    "GENE20001",
+                    "CEDB20003"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Report 1. 1200 words",
+            "timing": "From Week 2 to Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Report 2. 1200 words",
+            "timing": "From Week 5 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Report 3. 1200 words",
+            "timing": "From Week 7 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Report 4. 1200 words",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Oral presentation. 15 minutes",
+            "timing": "Week 11",
+            "percentage": "15%"
+        },
+        {
+            "description": "Essay. 500 words",
+            "timing": "Week 12",
+            "percentage": "5%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Alexandre Fournier-Level"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2x 1-hour lectures per week; 4x 3-hour practicals across semester"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "alexandre.fournier@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "\u201cPractical Bioinformatics\" by Michael Agostino (Garland Science)"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

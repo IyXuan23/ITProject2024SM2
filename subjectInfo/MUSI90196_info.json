@@ -1,0 +1,114 @@
+{
+    "subject name": "Orchestration",
+    "subject code": "MUSI90196",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject covers knowledge of the ranges and characteristics of standard Western instruments and voices and techniques for notation and combination of diverse instruments.",
+        "The subject will involve practical performance of the assignments directed by students. There will be a take-home exam, covering instrumental ranges, transposition, terms, techniques, and brief notated exercises as covered in lectures."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MUSI30025"
+    ],
+    "assessments": [
+        {
+            "description": "4 written assignments (arranging) \u2013 8% each. Due in weeks 3, 6, 8, 9.. 1 minutes (each)",
+            "timing": "Throughout the teaching period",
+            "percentage": "32%"
+        },
+        {
+            "description": "Arrangement for large ensemble. 2 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "18%"
+        },
+        {
+            "description": "Take-home exam. 1200 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Arrangment for educational use. 750 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Participation and direction in performance tutorials in weeks 3, 6, 9 & 12.",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Melody Eotvos"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "24 hours, comprising one 2-hour lecture / tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Melody Eotvos:"
+                ],
+                "email": [
+                    "melody.eotvos@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

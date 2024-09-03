@@ -1,0 +1,127 @@
+{
+    "subject name": "Introduction to Professional Practice",
+    "subject code": "VETS30030",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This capstone subject introduces students to aspects of professional practice for veterinarians, such as the role of the veterinarian in the community, characteristics of veterinary leadership and the skills required to work effectively as a team member and attend to the well-being of self and others. This subject also examines the major non-production animal industries in Australia and internationally, with a focus on the impact of management practices on the health and welfare of animal populations.",
+        "Students will develop an appreciation of the major determinants of profitability, productivity and sustainability of these industries, be able to describe the basic principles of breeding, management, nutrition, animal welfare and disease control as they relate to non-production animal industries and specify where veterinary input may be important. Students will gain an understanding of the ethical and legal frameworks that govern animal industries in Australia, assuring the safe, ethical and legal management of animals. Students will be given the opportunity to develop skills in risk assessment and handling of cattle, horses, sheep, dogs and cats before demonstrating their proficiency in the structured assessments."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "VETS20019"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "BCMB20002",
+                    "BIOM20001",
+                    "AGRI20043"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Permission of the Faculty of Science is required to enrol into this subject. Enrolment is limited to BSc students who have been selected into the Veterinary Bioscience major, leading to articulation into the Doctor of Veterinary Medicine.",
+                "Students must have successfully completed the following subjects:"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Up to four online assessments, equally weighted. 15 minutes (each)",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Attendance and participation in animal handling practicals. Hurdle requirement:. Students must attend and participate in all timetabled animal handling practicals to be considered as 'safe to attempt' the structured assessments of safe animal handling skills",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Written test. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Up to five structured assessments of animal handling skills. 15 minutes (each). Hurdle requirement:. Students must pass the structured assessments that evaluate safe handling of different domestic animal species. Students will be given the opportunity to practise their animal handling skills and receive formative feedback before demonstrating their proficiency in the structured assessments.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Personal reflection. 1000 words (equivalent)",
+            "timing": "From Week 8 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 1 hours",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Rebekah Brown"
+                },
+                {
+                    "Coordinator": "Cam Raw"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "100 hrs seminars, lectures, case studies and animal handling practicals"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "rebekah.brown@unimelb.edu.au",
+                    "cameron.raw@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

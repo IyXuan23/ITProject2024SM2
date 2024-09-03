@@ -1,0 +1,179 @@
+{
+    "subject name": "Numerical Algorithms in Engineering",
+    "subject code": "ENGR30004",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "In this subject, students will advance their learning about the computational algorithms in engineering. Students will learn about data structures necessary for the construction of efficient algorithms, such as linked-lists, stacks, trees and graphs.  Students will spend a majority of the subject learning about algorithms useful in solving engineering problems, such as search, insertion, deletion, sorting, random access with arrays and indices, shortest path search algorithms (Dijkstra's), Knapsack problem and numerical optimal control (Dynamic Programming).  Students are also introduced to some optimisation algorithms.  The concepts introduced will be reinforced through a contextual engineering project with Mechatronics focus."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST20029"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "COMP10002",
+                    "COMP20005",
+                    "ENGR20005",
+                    "BMEN20003"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "MAST20030"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "COMP10002",
+                    "COMP20005",
+                    "ENGR20005",
+                    "BMEN20003"
+                ],
+                [
+                    "MAST20009",
+                    "MAST20032"
+                ]
+            ],
+            "alternate pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1 - Programmig exercise with written report (individual). Intended Learning Outcomes (ILOs) 1 - 4 are addressed in this assessment.. 30 hours (of work required)",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment 2 - Programming exercise with written report (individual). ILOs 1 - 4 are addressed in this assessment.. 30 hours (of work required)",
+            "timing": "From Week 8 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "One three-hour final exam. ILOs 1 - 4 are addressed in this assessment.. 3 hours. Hurdle requirement:. Students need to pass the exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Saman Halgamuge"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of lectures and 24 hours of workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Saman Halgamuge"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of lectures and 24 hours of workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "aman.kidanemariam@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Prof. Saman Halgamuge"
+                ],
+                "email": [
+                    "saman@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "subject name": "Algebraic Topology",
+    "subject code": "MAST90023",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject studies topological spaces and continuous maps between them. It demonstrates the power of topological methods in dealing with problems involving shape and position of objects and continuous mappings, and shows how topology can be applied to many areas, including geometry, analysis, group theory and physics. The aim is to reduce questions in topology to problems in algebra by introducing algebraic invariants associated to spaces and continuous maps. Important classes of spaces studied are manifolds (locally Euclidean spaces) and CW complexes (built by gluing together cells of various dimensions). Topics include: homotopy of maps and homotopy equivalence of spaces, homotopy groups of spaces, the fundamental group, covering spaces; homology theory, including singular homology theory, the axiomatic approach of Eilenberg and Steenrod, and cellular homology."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST30005",
+                    "MAST30026"
+                ],
+                "Or equivalent"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Up to 60 pages of assignments (three assignments worth 20% each, due early, mid and late in semester). 60 pages",
+            "timing": "Throughout the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "description": "A written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Diarmuid Crowley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "dcrowley@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "A. Hatcher. Algebraic Topology, Cambridge University Press (2002), available online athttp://www.math.cornell.edu/~hatcher/AT/ATpage.html.W. S. Massey. A Basic Course in Algebraic Topology, Springer (1997).",
+                    "James Munkres, Elements of Algebraic Topology, Westview Press, 1st edition"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

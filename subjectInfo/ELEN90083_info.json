@@ -1,0 +1,192 @@
+{
+    "subject name": "Electrical Engineering Research Project",
+    "subject code": "ELEN90083",
+    "subject availability": [
+        "Summer Term",
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is for students to undertake a substantial individual research project on an approved topic over the semester, requiring independent investigation with a chosen supervisor either from a university (research institute) or from an industry partner.",
+        "Note: the student is responsible for contacting the potential supervisor for the project.",
+        "This subject can also be taken by Master of Electrical Engineering outgoing exchange students for research projects carried out in an overseas university.",
+        "If the project is to be carried out within the EEE Department, the student is encouraged to take ELEN90011 (Directed Studies) if possible.",
+        "The emphasis of the project can be associated with either",
+        "A well-defined project description, often based on a task required by an external, industrial client. Students will be tutored in the synthesis of practical solutions to complex technical problems within a structured working environment, as if they were professional engineering practitioners; or",
+        "A project description that will require an explorative approach, where students will pursue outcomes associated with new knowledge or understanding, often as an adjunct to existing academic research initiatives.",
+        "It is expected that the project will incorporate findings associated with both well-defined professional practice and research principles."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Enrolment in this subject requires approval by the subject coordinator."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "A written progress report of up to 1000 words.. 20-25 hours (of work required)",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "A written report of up to 6000 words, not including appendices, diagrams, tables, computations and computer output.. 120-130 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "An oral presentation of 30 minutes duration.. 60-70 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Principal coordinator": "Jingge Zhu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "8 hrs - meetings with supervisor"
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 16 February 2024"
+                },
+                {
+                    "Last self-enrol date": "11 January 2024"
+                },
+                {
+                    "Census date": "19 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "23 February 2024"
+                }
+            ]
+        },
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Jingge Zhu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "8 hrs - meetings with supervisor"
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Jingge Zhu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "8 hrs - meetings with supervisor"
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [
+                    "Email:",
+                    ""
+                ],
+                "email": [
+                    "jingge.zhu@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:",
+                    ""
+                ],
+                "email": [
+                    "jingge.zhu@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:",
+                    ""
+                ],
+                "email": [
+                    "jingge.zhu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

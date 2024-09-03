@@ -1,0 +1,303 @@
+{
+    "subject name": "Legal Internship",
+    "subject code": "LAWS50059",
+    "subject availability": [
+        "January",
+        "Semester 1",
+        "June",
+        "Semester 2",
+        "November"
+    ],
+    "overview": [
+        "The aim of this subject is to provide students with the opportunity to gain practical legal skills and undertake a public interest or community-focused legal workplace experience that complements and deepens their coursework learning in the Melbourne JD.",
+        "Internships can be hosted by any public interest organisation that will facilitate the student undertaking legally-oriented work, including government departments, regulatory and statutory bodies, courts and tribunals, legal assistance sector organisations such as legal aid or community legal centres, and non-government or not-for-profit organisations. Host organisations can be locally based, interstate or international and can be in person or remote/virtual (with approval).The proposed internship must be approved by the Subject Coordinators.",
+        "The internship experience should build on a students\u2019 studies to date in the Melbourne JD and be of an appropriately demanding standard to model professional legal work or practice.",
+        "Students must complete at least 15 days of unpaid practical legal experience at the host organisation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "LAWS50023",
+                    "LAWS50024",
+                    "LAWS50025",
+                    "LAWS50026",
+                    "LAWS50029",
+                    "LAWS90140"
+                ],
+                "Only approved applicants can enrol into this subject."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Some internship host organisations may have specific requirements regarding prerequisite subjects."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Pre-internship orientation and workshop participation. Hurdle requirement:. Students must complete the pre-internship orientation session and participate successfully at workshops in order to pass this subject.",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Performance on placement and Activity Log. Hurdle requirement:. Satisfactory performance on the 15 day placement is evidenced by the signed Legal Internship activity log.",
+            "timing": "Upon completion of internship placement",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Oral Presentation. 5 minutes",
+            "timing": "Due dates and submission methods will be advised via the LMS Canvas for each offering",
+            "percentage": "35%"
+        },
+        {
+            "description": "Reflective Portfolio. 3,500 words",
+            "timing": "Due dates and submission methods will be advised via the LMS Canvas for each offering",
+            "percentage": "65%"
+        }
+    ],
+    "dates and times": [
+        {
+            "January": [
+                {
+                    "Principal coordinator": "Kate Fischer-Doherty"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Students must complete at least 15 days of placement at an internship host organisation."
+                },
+                {
+                    "Total time commitment": "145 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 23 February 2024"
+                },
+                {
+                    "Last self-enrol date": "12 November 2023"
+                },
+                {
+                    "Census date": "19 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "23 February 2024"
+                },
+                {
+                    "Assessment period ends": "22 March 2024"
+                }
+            ]
+        },
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Kate Fischer-Doherty"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Students must complete at least 15 days of placement at an internship host organisation."
+                },
+                {
+                    "Total time commitment": "145 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "12 November 2023"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "June": [
+                {
+                    "Principal coordinator": "Kate Fischer-Doherty"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Students must complete at least 15 days of placement at an internship host organisation."
+                },
+                {
+                    "Total time commitment": "145 hours"
+                },
+                {
+                    "Teaching period": "24 June 2024 to 19 July 2024"
+                },
+                {
+                    "Last self-enrol date": "12 November 2023"
+                },
+                {
+                    "Census date": "5 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "26 July 2024"
+                },
+                {
+                    "Assessment period ends": "16 August 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Kate Fischer-Doherty"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Students must complete at least 15 days of placement at an internship host organisation."
+                },
+                {
+                    "Total time commitment": "145 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "12 November 2023"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        },
+        {
+            "November": [
+                {
+                    "Principal coordinator": "Kate Fischer-Doherty"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Students must complete at least 15 days of placement at an internship host organisation."
+                },
+                {
+                    "Total time commitment": "145 hours"
+                },
+                {
+                    "Teaching period": "18 November 2024 to 20 December 2024"
+                },
+                {
+                    "Last self-enrol date": "12 November 2023"
+                },
+                {
+                    "Census date": "6 December 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 January 2025"
+                },
+                {
+                    "Assessment period ends": "24 January 2025"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "January": {
+                "name": [
+                    "Email:",
+                    "Phone: +61 3 8344 6190",
+                    "Website:"
+                ],
+                "email": [
+                    "law-wil@unimelb.edu.au",
+                    "law.unimelb.edu.au/students/jd/enrichment/mls-clinics"
+                ]
+            }
+        },
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:",
+                    "Phone: +61 3 8344 6190",
+                    "Website:"
+                ],
+                "email": [
+                    "law-wil@unimelb.edu.au",
+                    "law.unimelb.edu.au/students/jd/enrichment/mls-clinics",
+                    ""
+                ]
+            }
+        },
+        {
+            "June": {
+                "name": [
+                    "Email:",
+                    "Phone: +61 3 8344 6190",
+                    "Website:"
+                ],
+                "email": [
+                    "law-wil@unimelb.edu.au",
+                    "law.unimelb.edu.au/students/jd/enrichment/mls-clinics"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:",
+                    "Phone: +61 3 8344 6190",
+                    "Website:"
+                ],
+                "email": [
+                    "law-wil@unimelb.edu.au",
+                    "law.unimelb.edu.au/students/jd/enrichment/mls-clinics"
+                ]
+            }
+        },
+        {
+            "November": {
+                "name": [
+                    "Email:",
+                    "Phone: +61 3 8344 6190",
+                    "Website:"
+                ],
+                "email": [
+                    "law-wil@unimelb.edu.au",
+                    "law.unimelb.edu.au/students/jd/enrichment/mls-clinics"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    [
+                        "There are no specifically prescribed or recommended texts for this subject.",
+                        "Specialist materials may be made available via the LMS."
+                    ]
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

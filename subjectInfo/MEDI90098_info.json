@@ -1,0 +1,158 @@
+{
+    "subject name": "Research Capstone - Part 1",
+    "subject code": "MEDI90098",
+    "subject availability": [
+        "Term 1 - Online",
+        "Term 3 - Online"
+    ],
+    "overview": [
+        "In conjunction with Research Capstone Part 2 (MEDI90099), this subject builds on the Cancer Research subject (MEDI90086) by supporting students with the research, design and presentation of a project proposal and substantial literature review that will form the basis of their research project.",
+        "In doing so, students will put into practice the advanced theoretical knowledge they have learnt during other Master of Cancer Sciences subjects and have the chance to explore an area of interest to them in detail. It will reinforce their abilities to evaluate existing research, utilise appropriate methodological techniques in cancer research, and to critically analyse and reflect on data."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDI90084",
+                    "MEDI90086"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "This subject is a CAPSTONE subject for the Master of Cancer Sciences.",
+                "Students must have completed at least four subjects (50 points), including the core subjects below:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Supervisory agreement and project summary. 500 words. Hurdle requirement:. Must be completed.",
+            "timing": "Week 3",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Structured literature review. 4000 words",
+            "timing": "Week 7",
+            "percentage": "80%"
+        },
+        {
+            "description": "Participation in discussion board discourse and end of module quizzes - week to week. 1000 words",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Term 1 - Online": [
+                {
+                    "Coordinators": "Sathana Dushyanthen and Giulia McCorkell"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "22 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students are required to familiarise themselves with the LMS and complete pre-readings in the pre-teaching period."
+                },
+                {
+                    "Teaching period": "29 January 2024 to 24 March 2024"
+                },
+                {
+                    "Last self-enrol date": "23 January 2024"
+                },
+                {
+                    "Census date": "16 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "8 March 2024"
+                },
+                {
+                    "Assessment period ends": "31 March 2024"
+                }
+            ]
+        },
+        {
+            "Term 3 - Online": [
+                {
+                    "Coordinator": "Sathana Dushyanthen"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "15 July 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students are required to familiarise themselves with the LMS and complete pre-readings in the pre-teaching period."
+                },
+                {
+                    "Teaching period": "22 July 2024 to 15 September 2024"
+                },
+                {
+                    "Last self-enrol date": "16 July 2024"
+                },
+                {
+                    "Census date": "9 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "30 August 2024"
+                },
+                {
+                    "Assessment period ends": "22 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Term 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        },
+        {
+            "Term 3": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "subject name": "Minor Thesis Part 2",
+    "subject code": "MEDS90030",
+    "subject availability": [
+        "Semester 1 (Early-Start) - Online",
+        "Semester 2 (Early-Start) - Online"
+    ],
+    "overview": [
+        "Refer to MEDS90029 Minor Thesis Part 1"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDS90029"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": null,
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start) - Online": [
+                {
+                    "Coordinator": "Debra Nestel"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start) - Online": [
+                {
+                    "Principal coordinator": "Debra Nestel"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "144 hours"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

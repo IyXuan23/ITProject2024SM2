@@ -1,0 +1,155 @@
+{
+    "subject name": "Biostatistics Research Project - S",
+    "subject code": "POPH90149",
+    "subject availability": [
+        "Semester 1 - Dual-Delivery",
+        "Semester 2 - Dual-Delivery"
+    ],
+    "overview": [
+        "The aim of the capstone project is to deliver to the student a practical experience in a health and medical research work setting. The focus is on the application of knowledge and skills learnt during the core and elective coursework subjects. In this subject, students will learn to address the types of challenges that the practising biostatistician and their collaborator(s) typically face.",
+        "The statistical analysis of real data almost always requires compromises, since no single method is always guaranteed to be superior and more than one approach may be reasonable. Students will gain experience in applied, biostatistical work. This will require an iterative approach, involving refinement of the research question, planning and conducting statistical analyses, and presenting and discussing results and conclusions in close collaboration with subject-matter experts.",
+        "Effective communication with subject-matter experts is an important part of the biostatistician\u2019s role in the workplace and, therefore, of the capstone project. Under the guidance of a biostatistical supervisor, students have the opportunity to work with subject-matter experts to apply appropriate statistical methods to answer proposed research questions. Students will give an oral presentation describing their methods and results, and provide a written report.",
+        "In this research project a single research question is addressed. The alternative capstone options, POPH90151 and POPH90288/POPH90289, both allow more breadth or depth: two distinct research projects or one large project with multiple challenges."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST90102",
+                    "MAST90101"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "a minimum of 50 credit points of study, inclusive of:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Portfolio or minor dissertation. 4,000 words",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        },
+        {
+            "description": "An oral presentation. 10 minutes",
+            "timing": "Week 11",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Megha Rajasekhar"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "Contact hours will vary depending upon the project and host organisation, and will be negotiated with the project supervisor.\r\nMeetings: 30 minutes to 2 hours per week.\r\nLab (on-site analysis of statistical data may be required by ethics): maximum two days per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Megha Rajasekhar"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "Contact hours will vary depending upon the project and host organisation, and will be negotiated with the project supervisor.\r\nMeetings: 30 minutes to 2 hours per week.\r\nLab (on-site analysis of statistical data may be required by ethics): maximum two days per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "megha.rajasekhar@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "megha.rajasekhar@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is not available in the Master of Public Health."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.mspgh.unimelb.edu.au"
+        ]
+    }
+}

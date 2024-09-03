@@ -1,0 +1,122 @@
+{
+    "subject name": "Anatomy & Physiology Research Project P1",
+    "subject code": "PHYS40005",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The student will conduct an original research project under supervision in the Department of Anatomy and Physiology or an affiliated institute from February to November. The student will be introduced to current literature and techniques in specialised areas. The student will acquire skills in experimental design, critical thinking, interpretation, and assessment of literature. The student will gain skills in communicating their research and complex research ideas in oral presentations and thesis writing. The research project will typically form part of a larger project or the basis of an expanded project. In either case, the work may culminate in a contribution to an original research publication.",
+        "",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOM40001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note: these can be taken concurrently (at the same time)"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Literature review. 5000 words",
+            "timing": "Due around Week 6 to 7 of Semester 1",
+            "percentage": "10%"
+        },
+        {
+            "description": "Oral presentation. 5 minutes plus 5 minutes answering questions.. 10 minutes",
+            "timing": "Due middle of Semester 1",
+            "percentage": "5%"
+        },
+        {
+            "description": "Research thesis. 10,000 words",
+            "timing": "Due late in Semester 2",
+            "percentage": "65%"
+        },
+        {
+            "description": "Laboratory performance",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Oral presentation. 10 minutes plus 5 minutes answering questions.. 15 minutes",
+            "timing": "Due end of Semester 2",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "Lincon Stamp, Marlene Hao, and Avnika Ruparelia"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinators:"
+                ],
+                "email": [
+                    "avnika.ruparelia@unimelb.edu.au",
+                    "lstamp@unimelb.edu.au",
+                    "hao.m@unimelb.edu.au",
+                    "Current students",
+                    "Past students, future students, general enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.physiology.unimelb.edu.au/"
+        ]
+    }
+}

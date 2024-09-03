@@ -1,0 +1,137 @@
+{
+    "subject name": "Renaissance Drama",
+    "subject code": "ENGL30053",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces students to a variety of Renaissance dramatic genres (history plays, romances, comedies of humours, domestic tragedies, satire, travel plays and tragedy), and in so doing, examines issues pertaining to the occult, religion, foreignness, politics and the early modern household. It focuses on plays by Shakespeare and his contemporaries not only in terms of aesthetics but of the commercial exigencies of the early modern theatrical marketplace. It develops a historically informed conception of the London stage by treating plays as marketable commodities and part of a repertory of offerings used to compete with other companies and attract playgoer patronage. Shakespeare is treated as an outstanding playwright but also as a shareholder in his own company, with a vested interest in its commercial success."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Short Paper. 1500 words",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Longer paper. 2500 words",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "David McInnis"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total 30 hours : a 1-hour lecture and a 1.5-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "mcinnisd@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Marlowe,Tamburlaine Part One; Edward ll;",
+                    "Greene,Friar Bacon and Friar Bungay;",
+                    "Anonymous,Famous Victories of Henry the Fifth; Arden of Faversham;",
+                    "Chapman, The Blind Beggar of Alexandria;",
+                    "Shakespeare,Henry V, Hamlet;",
+                    "Dekker,Old Fortunatus;",
+                    "Jonson, Every Man Out of His Humour.",
+                    "Links to digital editions of these plays will be provided, but students are welcome to use any edition (digital or hardcopy) that they like."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/culture-communication"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

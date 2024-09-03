@@ -1,0 +1,99 @@
+{
+    "subject name": "Learning Area Economics (SI) 3",
+    "subject code": "EDUC91272",
+    "subject availability": [
+        "January"
+    ],
+    "overview": [
+        "In this third learning area subject, Interns will consolidate their understandings of the theory and practice of teaching, and the Clinical Teaching Model, with particular attention given to the critique of contemporary issues and debates on Economics within Australia and beyond. Through this subject, Interns are supported to become reflective teachers of Economics with an understanding of relevant and appropriate sources of professional learning for teachers. Interns are also supported to become critical, informed members of the school community who are able to reflect on school and education curriculum and policies, as well as the resources and infrastructure available for Economics education.",
+        "The assessment tasks in this subject will support Interns in strengthening their skills in identifying and adapting appropriate pedagogical practices to differentiate teaching and meet the specific needs of students of diverse backgrounds and abilities, including Aboriginal and Torres Strait Islander students, as well as critiquing and responding to key educational issues that impact on teaching and learning."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC91244"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "EDUC91160"
+    ],
+    "assessments": [
+        {
+            "description": "Resource folio:\r\nFolio of teaching resources. 2500 words (equivalent)",
+            "timing": "4 weeks after the end of the intensive",
+            "percentage": "50%"
+        },
+        {
+            "description": "Report:\r\nWritten report on current issues in Economics. 2500 words",
+            "timing": "8 weeks after the end of the intensive",
+            "percentage": "50%"
+        },
+        {
+            "description": "Attendance. Hurdle requirement:. A minimum of 80% attendance at, or engagement with, all sessions identified as contact hours (may include lectures, tutorials, seminars and workshops, both synchronous and asynchronous).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "January": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours (16 hours of on-campus classes and 8 hours of asynchronous online activities)."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "8 January 2024 to 19 January 2024"
+                },
+                {
+                    "Last self-enrol date": "10 January 2024"
+                },
+                {
+                    "Census date": "2 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "23 February 2024"
+                },
+                {
+                    "Assessment period ends": "18 March 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Current VCAA VCE Economics Study Design",
+                    "https://www.vcaa.vic.edu.au/Documents/vce/economics/EconomicsSD-2017.pdf"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "VCE Economics support material",
+                    "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/economics/Pages/Index.aspx"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "Faculty of Education:https://education.unimelb.edu.au/"
+        ]
+    }
+}

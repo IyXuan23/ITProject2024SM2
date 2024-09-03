@@ -1,0 +1,133 @@
+{
+    "subject name": "Survival Analysis & Regression for Rates",
+    "subject code": "POPH90145",
+    "subject availability": [
+        "September - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject presents methods for the analysis of data where outcome events occur over time, particularly in the context of a cohort study or more general longitudinal designs. It starts with the estimation of constant rates and two-group comparison of rates using the rate ratio, and progresses to the use of life tables and the Kaplan-Meier procedures to estimate a survival curve when rates are not assumed to be constant over time and (possibly right-censored) time-to-event data are available. Much of the subject is devoted to studying Poisson and proportional hazards (Cox) regression methods that allow adjustment for confounding variables when comparing rates between two or more primary exposure groups. Emphasis is on practical application and interpretation of results in the context of standard epidemiological study designs and particularly longitudinal studies. Practical work estimating rates and fitting models to data will use the statistical package Stata."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "POPH90144"
+                ],
+                [
+                    "POPH90013",
+                    "POPH90014"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "POPH90142 Epidemiology & Analytic Methods 1 \nPOPH90143 Epidemiology & Analytic Methods 2"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A written assignment (involving calculations and diagrams) of not more than 8 pages due at the start of the 4th week of the delivery period. 8 pages",
+            "timing": "Week 4",
+            "percentage": "30%"
+        },
+        {
+            "description": "A written assignment of not more than 10 pages due about one week after the intensive delivery period. 10 pages",
+            "timing": "1 Weeks after the end of teaching",
+            "percentage": "40%"
+        },
+        {
+            "description": "An open-book examination (administered by the School). 1.5 hours",
+            "timing": "To be held during the examination period at the end of semester 2",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "September": [
+                {
+                    "Coordinator": "Eric Au"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "30 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "2 September 2024 to 24 October 2024"
+                },
+                {
+                    "Last self-enrol date": "12 September 2024"
+                },
+                {
+                    "Census date": "20 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "25 October 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "September": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "eric.au@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "BR Kirkwood and JAC Sterne, Essential Medical Statistics Second Edition, Blackwell Science, 2003."
+                ]
+            },
+            {
+                "Recommended texts and other resources": []
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.mspgh.unimelb.edu.au"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

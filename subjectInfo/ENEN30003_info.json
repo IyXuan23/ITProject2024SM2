@@ -1,0 +1,138 @@
+{
+    "subject name": "Environmental Systems Modelling & Design",
+    "subject code": "ENEN30003",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is the capstone for the Environmental System major in the Bachelor of Science. It addresses the major steps in environmental engineering design using the systems approach and builds on knowledge gained in subjects including Engineering Mathematics, Fluid Mechanics and Earth Processes for Engineering and assumes a familiarity with concepts of sustainability and engineering systems.",
+        "Engineering systems are often highly complex, especially environmental systems which are often not well understood. Engineering design of models of such systems pose significant challenges since the models typically involve a large number of decision variables (and therefore a large number of potential solutions), multiple competing objectives and are often subject to various constraints.",
+        "Factors that influence the design process include logical problem formulation which facilitates a systematic approach to problem solution, analysis of the model to identify optimal design solutions and investigation of model performance. The final decision-making process can be further complicated by the fact that different stakeholders may have different or conflicting preferences."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-ENG Master of Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ENEN20002"
+                ],
+                "Note: the following subject/s can also be taken concurrently (at the same time)",
+                [
+                    "ENGR30002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Phase I of the design project, including a report of maximum 10 pages, plus model files, due mid-semester.  Addressing Intended Learning Outcomes ( ILO's)  1,2,3 & 4.. 35 hours. Hurdle requirement:. phases 1 and 2 combined must be passed to pass the subject",
+            "timing": "Week 6",
+            "percentage": "35%"
+        },
+        {
+            "description": "Phase II of the design project, including a report of maximum 10 pages, plus model files, due end of the semester.  Addresses  ILO's 1 -6.. 35 hours. Hurdle requirement:. phases 1 and 2 combined must be passed to pass the subject",
+            "timing": "Week 12",
+            "percentage": "35%"
+        },
+        {
+            "description": "One final examination.\r\n Addresses  ILO's 1,2,3,5 & 6.. 90 minutes. Hurdle requirement:. Examination must be passed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Wenyan Wu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Up to 48 hours of contact hours, including lectures, tutorials and workshops."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Wenyan Wu"
+                ],
+                "email": [
+                    "wenyan.wu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Working knowledge of EXCEL and WORD."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

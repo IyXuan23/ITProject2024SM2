@@ -1,0 +1,113 @@
+{
+    "subject name": "Numerical Techniques in Finance",
+    "subject code": "FNCE40003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Numerical techniques focuses on the theory and application of numerical methods for solving financial problems. The applications may include option valuation, value at risk, term structure modelling, portfolio simulation and optimisation and capital budgeting. These applications motivate the study of matrix methods, the solutions of linear and nonlinear equations, interpolation and approximation methods, numerical integration and Monte Carlo methods. No prior programming experience is required as the principles of programming are covered."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "FNCE30001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the BH-COM Bachelor of Commerce (Degree with Honours)"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-COMACTS Master of Commerce (Actuarial Science)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment. 500 words",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Assignment. 2000 words",
+            "timing": "Week 12",
+            "percentage": "50%"
+        },
+        {
+            "description": "Presentation (500 words). 5 minutes",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Jonathan Dark"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three hours of lectures and workshops per week"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "jdark@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

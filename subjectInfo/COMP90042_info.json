@@ -1,0 +1,171 @@
+{
+    "subject name": "Natural Language Processing",
+    "subject code": "COMP90042",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "Much of the world's knowledge is stored in the form of text, and accordingly, understanding and harnessing knowledge from text are key challenges. In this subject, students will learn computational methods for working with text, in the form of natural language understanding, and language generation. Students will develop an understanding of the main algorithms used in natural language processing, for use in a diverse range of applications including machine translation, text mining, sentiment analysis, and question answering. The programming language used is Python."
+    ],
+    "indicative content": [
+        "Topics covered may include:",
+        "Text classification and unsupervised topic discovery",
+        "Vector space models for natural language semantics",
+        "Structured prediction for tagging",
+        "Syntax models for parsing of sentences and documents",
+        "N-gram language modelling",
+        "Automatic translation, and multilingual methods",
+        "Relation extraction and coreference resolution"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP30027",
+                    "COMP90049",
+                    "COMP90051",
+                    "COMP30018"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "100pt Program course entry point in the MC-IT Master of Information Technology",
+                "150pt Program course entry point in the MC-IT Master of Information Technology",
+                "Admission into or selection of one of the following:Artificial Intelligence (100pt) specialisation (formal) in the MC-IT Master of Information TechnologyArtificial Intelligence (150pt) specialisation (formal) in the MC-IT Master of Information TechnologyDistributed Computing (100pt) specialisation (formal) in the MC-IT Master of Information TechnologyDistributed Computing (150pt) specialisation (formal) in the MC-IT Master of Information TechnologyComputing (100pt) specialisation (formal) in the MC-IT Master of Information TechnologyComputing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Artificial Intelligence (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Artificial Intelligence (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Distributed Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Distributed Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Artificial Intelligence (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Artificial Intelligence (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Distributed Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Distributed Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "433-460 Human Language Technology",
+        "433-467 Text and Document Management",
+        "433-660 Human Language Technology",
+        "433-667 Text and Document Management",
+        "433-476 Text and Document Management"
+    ],
+    "assessments": [
+        {
+            "description": "2 short programming assignments.\r\n\r\nAssignment 1: due Week 5; weight 9%; duration 8-10 hours. \r\n\r\nAssignment 2: due Week 6; weight 8%; duration 7-10hours.. 15-20 hours (of work required). Hurdle requirement:. Please see below.",
+            "timing": "From Week 5 to Week 6",
+            "percentage": "17%"
+        },
+        {
+            "description": "A group-based (group of 2-3) research project essay working from Week 6 to 12 with a Week 12 submission.. 50-70 hours (of work required). Hurdle requirement:. Please see below.",
+            "timing": "From Week 6 to Week 12",
+            "percentage": "35%"
+        },
+        {
+            "description": "1 peer review assignment of other student groups' research project essays.. 5-10 hours (of work required). Hurdle requirement:. Please see below.",
+            "timing": "Week 12",
+            "percentage": "8%"
+        },
+        {
+            "description": "One examination.. 2 hours. Hurdle requirement:. Hurdle:\r\n50% overall  \r\n30/60 for continuous assessment  \r\n20/40 for final exam",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Jey Han Lau"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Jey Han Lau"
+                ],
+                "email": [
+                    "laujh@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHOD",
+            "The subject comprises a weekly 2 hour lecture followed by a 1 hour laboratory exercise. Weekly readings are assigned from relevant textbooks and the research literature, and weekly laboratory exercises are assigned. Additionally, a significant amount of project work is assigned.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "At the beginning of the semester, the coordinator will post a list of readings taken from relevant textbooks as well as research literature and research monographs. An indicative source of relevant material is the textbookSpeech and Language Processingby Dan Jurafsky and James H. Martin (2008).",
+            "CAREERS / INDUSTRY LINKS",
+            "A growing sector of the IT industry is concerned with leveraging the information that is locked up in semi-structured text data on the web. Large scale analysis and exploitation of this information depends on graduates with a solid grounding in natural language processing and text retrieval algorithms, and experience with implementing systems that are informed by the research literature."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

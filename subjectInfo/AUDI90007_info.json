@@ -1,0 +1,134 @@
+{
+    "subject name": "Clinical Audiology B",
+    "subject code": "AUDI90007",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "Clinical Audiology B is a year-long subject that builds on the knowledge and clinical skills obtained in first year. As a clinical subject it encompasses the clinical placement program, but also a theory arm that explores advanced aspects of clinical assessments, including complex cases, specialist diagnostic procedures and global health concepts. The assessments incorporate a combination of clinical skills and theoretical applications. Learning activities include on-line modules, in class workshops, inquiry and problem-based learning and peer learning activities.",
+        "The subject is part of the clinical placement program. Students should be expected to be allocated to clinical placements at the University Clinic and across metropolitan and rural services including hospitals and community settings.",
+        "",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AUDI90012",
+                    "AUDI90021",
+                    "AUDI90022",
+                    "AUDI90023"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Multiple choice quiz. 15 minutes",
+            "timing": "Week 8, semester 1",
+            "percentage": "5%"
+        },
+        {
+            "description": "Clinical exam (simulated patient and oral exam). 90 minutes. Hurdle requirement:. Students must pass Clinical exam to pass the subject",
+            "timing": "Exam period, semester 1",
+            "percentage": "30%"
+        },
+        {
+            "description": "Case study assignment. 1000 words",
+            "timing": "Week 6, semester 2",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written exam. 1 hours. Hurdle requirement:. Students must pass written exam to pass the subject",
+            "timing": "Exam period, semester 2",
+            "percentage": "25%"
+        },
+        {
+            "description": "Most Complex Patient presentation and discussion board contribution. 5 minutes",
+            "timing": "Week 11, semester 2",
+            "percentage": "10%"
+        },
+        {
+            "description": "Clinical portfolio and oral presentation. 500 words. Hurdle requirement:. Students must complete all components of the eportfolio to a satisfactory standard (50% mark) and pass the oral presentation to pass the assessment.",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Principal coordinator": "Grace Nixon"
+                },
+                {
+                    "Coordinator": "Lucy Shiels"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "38 hours lectures, problem-based learning case discussions, practical work and peer review assignments, 80 hours clinics."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [
+                    "Dr Grace Nixon"
+                ],
+                "email": [
+                    "nixon.g@unimelb.edu.au",
+                    "shiels.l@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Nil"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Nil"
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

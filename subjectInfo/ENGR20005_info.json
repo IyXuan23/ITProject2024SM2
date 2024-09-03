@@ -1,0 +1,180 @@
+{
+    "subject name": "Numerical Methods in Engineering",
+    "subject code": "ENGR20005",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "The aim of this subject is to equip students with computational tools for solving common physical engineering problems. The focus of the lectures is on archetypical physical engineering problems and their solutions via the effective implementation of classical algorithms.",
+        "Indicative content: basic programming concepts and construction such as: arrays, loops, conditional statements and functions; numerical computation techniques such as: root finding, systems of linear algebraic equations, least squares, interpolation, differentiation, integration, numerical integration of ordinary differential equations and two-point boundary value problems, numerical stability and convergence, numerical schemes using Fourier analysis",
+        "",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST10005",
+                    "MAST10007",
+                    "MAST10008",
+                    "MAST10022"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-MECHENG Master of Mechanical Engineering",
+                "MC-DINFENG Master of Digital Infrastructure Engineering",
+                "Mechanical specialisation (formal) in the MC-ENG Master of Engineering",
+                "Mechanical with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                "Mechanical with Aerospace specialisation (formal) in the MC-ENG Master of Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ENGR30003 Numerical Programming for Engineers"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment 1 - individual written report, including coding.. 10 hours",
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "description": "Assignment 2 - Individual written report including coding. 20 hours",
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final exam - Closed Book. 2 hours",
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Assigment 3 - individual written report, including coding.. 25 hours",
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "particiption in workshops",
+            "timing": "From Week 1 to Week 12",
+            "percentage": "5%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Andrew Ooi"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hrs lectures and 24 hrs of workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Cat Vreugdenhil"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hrs lectures and 24 hrs of workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "a.ooi@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "cat.vreugdenhil@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

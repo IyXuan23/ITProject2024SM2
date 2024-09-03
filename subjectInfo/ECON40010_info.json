@@ -1,0 +1,116 @@
+{
+    "subject name": "Game Theory",
+    "subject code": "ECON40010",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The subject provides a rigorous introduction to non-cooperative game theory and the economics of asymmetric information. The solution concepts covered include dominant strategies, as well as Nash, subgame perfect, Bayesian Nash and weak sequential equilibria."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ECON40001"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "BH-COM Bachelor of Commerce (Degree with Honours)",
+                "Economics specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ECON90022"
+    ],
+    "assessments": [
+        {
+            "description": "Take-home problem-set assignment 1. 625 words",
+            "timing": "Week 3",
+            "percentage": "7.5%"
+        },
+        {
+            "description": "Take-home problem-set assignment 2. 625 words",
+            "timing": "Week 6",
+            "percentage": "7.5%"
+        },
+        {
+            "description": "Take-home problem-set assignment 3. 625 words",
+            "timing": "Week 9",
+            "percentage": "7.5%"
+        },
+        {
+            "description": "Take-home problem-set assignment 4. 625 words",
+            "timing": "Week 12",
+            "percentage": "7.5%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Roberto Raimondo"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three hours of lectures/seminars per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Roberto Raimondo:"
+                ],
+                "email": [
+                    "rraim@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "subject name": "Facilitating Online Learning",
+    "subject code": "EDUC90970",
+    "subject availability": [
+        "Semester 2 - Online"
+    ],
+    "overview": [
+        "This subject provides an introduction to the guiding principles of effective teaching for learning in blended and online environments. It begins by reviewing the general principles of designing for learning, and then moves to the online context to consider what it means to become an online teacher and how the community of inquiry framework can be applied to develop teaching, cognitive and social presence. The subject continues with a critical analysis of the key elements of effective, student-centred approaches in blended and online learning environments, including the flipped classroom, the design and facilitation of learning tasks (i.e., inquiry projects, role-play simulations, peer collaboration), discussion board activities, feedback and assessment.",
+        "",
+        "The subject is evidence based, drawing on published research in the field, and also provides opportunities for participants to apply learnt skills by writing a proposal for, and creating a LMS mock-up of, a blended or fully online unit to use in their particular teaching and learning context. The subject is based around forming a Community of Inquiry (COI) exploring the Scholarship of Technology Enhanced Learning (SoTEL) to inform online learning design using a Design-Based Research (DBR) methodology."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC90002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Four reflective posts to individual ePortfolio (300-400 words each) and four peer feedback comments (50 words each) posted Weeks 3, 5, 8 and 11. 1500 words (equivalent)",
+            "timing": "From Week 3 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "An online draft proposal for the implementation of a blended or fully online unit, including peer review of this draft via a 10 minute class presentation. 1500 words (equivalent)",
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "LMS Unit online prototype, including revised proposal. 2000 words (equivalent)",
+            "timing": "Week 14",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 - Online": [
+                {
+                    "Coordinator": "Thomas Cochrane"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "Online equivalent to 20 contact hours (asynchronous discussions and structured online tasks)"
+                },
+                {
+                    "Total time commitment": "140 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "cochrane.t@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

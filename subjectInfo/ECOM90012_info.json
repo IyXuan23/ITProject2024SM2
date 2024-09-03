@@ -1,0 +1,121 @@
+{
+    "subject name": "Modelling the Australian Macroeconomy",
+    "subject code": "ECOM90012",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The aim of this subject is to provide students with a solid grounding in modern applied macroeconomic modelling. There are two components to the course. The first is theoretically orientated and builds on New Keynesian Dynamic Stochastic General Equilibrium (DSGE) models used to analyse the business cycle effects of macroeconomic policies. The second component is empirical. It will focus on the estimation of DSGE and the estimation and identification of Structural Vector Auto-Regressions (SVARs). Attention will be devoted to core components of a closed-economy frameworks as well as small-open economy models. Applications to Australia will be discussed. This subject also provides students with the experience of carrying out a research-based project on a specific topic in applied econometrics."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ECON40002"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ECOM40006",
+                    "ECOM90013"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ECOM40005"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment 1. 1000 words",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment 2. 1000 words",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Research Project (including Oral Presentation). 3000 words",
+            "timing": "From Week 12 to Week 13",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Guay Lim"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours of lectures/seminars per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "ghlim@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students may not gain credit for both ECOM90012 Modelling the Australian Macroeconomy and ECOM40005 Modelling the Australian Macroeconomy."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

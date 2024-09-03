@@ -1,0 +1,152 @@
+{
+    "subject name": "Screen & Cultural Studies Thesis Part 1",
+    "subject code": "SCRN40017",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "A research topic selected in consultation with the allocated supervisor. Enrolment in the thesis is across two consecutive semesters and students must enrol in the subject in each semester to ensure they are meeting the full 50 point requirement for the year-long subject."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "SCRN40019"
+                ],
+                "Please note:"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students enrolled in the thesis must also complete SCRN40019 Screen & Cultural Research Seminar (may be undertaken concurrently).",
+                "Students that commenced the Bachelor of Arts (Honours) in Screen and Cultural Studies or Graduate Diploma (Advanced) in Screen Studies or Cultural Studies  prior to 2022 and have already completed ARTS40001 Research Principles and Practices are not required to undertake SCRN40019.",
+                "This subject is only available to Screen and Cultural Studies Specialisation students enrolled in a BH-Arts, Bachelor of Arts (Degree with Honours) or a GDA-Arts, Graduate Diploma (Advanced) in Arts."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "SCRN40012 Cinema Studies Thesis",
+        "SCRN40014 Screen and Cultural Studies Thesis",
+        "SCRN40015 Screen Studies Thesis",
+        "SCRN40016 Screen & Cultural Studies Thesis",
+        "CULS40009 Cultural Studies Thesis"
+    ],
+    "assessments": [
+        {
+            "description": "A thesis on an approved topic written over two consecutive semesters. 15,000 words",
+            "timing": "Due at the end of the second semester of enrolment",
+            "percentage": "100%"
+        },
+        {
+            "description": "Hurdle requirement:. 1.\tStudents are required to attend a minimum of 80% of supervision meetings in order to qualify to have their written work assessed.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2.\tLate Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Mark Nicholls"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular, documented consultations over two semesters with the supervisor(s) as arranged. Meetings should normally occur at least fortnightly and should be at least of half an hour duration."
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Mark Nicholls"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular, documented consultations over two semesters with the supervisor(s) as arranged. Meetings should normally occur at least fortnightly and should be at least of half an hour duration."
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "markdn@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "markdn@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/culture-communication"
+        ]
+    }
+}

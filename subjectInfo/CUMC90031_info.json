@@ -1,0 +1,146 @@
+{
+    "subject name": "Analytical Science in Conservation",
+    "subject code": "CUMC90031",
+    "subject availability": [
+        "September"
+    ],
+    "overview": [
+        "This subject aims to provide students with an introduction to the fundamental principles and practical applications of the major analytical techniques used in cultural materials conservation. The subject builds upon the students' knowledge gained in CUMC90032 Technical Examination and Documentation, and CUMC90033 Cultural Materials Conservation Science. It covers methods accessible in a conservation laboratory and instrumental methods based upon:",
+        "Microscopy (visible and SEM)",
+        "Atomic spectroscopy (SEM-EDS, XRF and XRD",
+        "Molecular spectroscopy (FTIR and Raman)",
+        "Chromatography (GC-MS and HPLC).",
+        "Students learn to devise appropriate testing regimes, acquire control samples, prepare samples (eg. cross section), undertake analysis and manage analytical data.  Students will gain an understanding of the practical application of a range of analytical techniques (including their advantages and disadvantages, their sampling requirements, and whether the sample is destroyed) and the interpretation of results.  Students will apply fundamental examination and analytical techniques to the study of:",
+        "One focus object, which students will select and work on as a group.  Each group will investigate either a painting, paper or object based artefact",
+        "A variety of cultural heritage objects composed of organic, inorganic or metallic materials.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CUMC90032",
+                    "CUMC90033"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-CULMC Master of Cultural Materials Conservation",
+                "Principles of Cultural Materials Conservation specialisation (formal) in the GCA-ARTS Graduate Certificate in Arts (Advanced)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CUMC40006 Analytical Chemistry in Conservation"
+    ],
+    "assessments": [
+        {
+            "description": "Two analysis reports (20% each, 1000 words each). 2000 words (total)",
+            "timing": "During the assessment period",
+            "percentage": "40%"
+        },
+        {
+            "description": "A technical report. 3000 words",
+            "timing": "During the assessment period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend  100% of classes in order to pass this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "During the assessment period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "September": [
+                {
+                    "Principal coordinator": "Petronella Nel"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours - 12 x 1 hour lectures and 12 x 2 hour practicals."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "19 August 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are expected to complete the course readings, review the online lectures and any other course preparation as outlined on the LMS, which will become available at the commencement of the pre-teaching dates."
+                },
+                {
+                    "Teaching period": "9 September 2024 to 20 September 2024"
+                },
+                {
+                    "Last self-enrol date": "23 August 2024"
+                },
+                {
+                    "Census date": "13 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "11 October 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "September": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "pnel@unielb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "A subject reader will be available in the pre-teaching period. Additional texts may be recommended."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "In addition to the Subject Reader, the following texts are recommended for this subject and can be purchased from online book stores and/or borrowed from the Baillieu library (copies will also be available in class):",
+                    [
+                        "Artioli, G 2010.Scientific Methods and Cultural Heritage:  an introduction to the application of materials science to archaeometry and conservation science, New York:  Oxford University Press (UniM Bail high use 930.1028 ARTI).",
+                        "Hodges, C 1987.Artefacts - an introduction to early materials and technology, London:  Duckworth (UniM Bail 609.03 HODG).",
+                        "Horie, C 1987.Materials for Conservation:  Organic Consolidants, Adhesives and Coatings, London:  Butterworths (UniM Bail high use 667.9 HORI) (electronic resource).",
+                        "Mills, J & White, R 1994.The Organic Chemistry of Museum Objects, Oxford:  Butterworth adn Heinemann (UniM Bail high use 069.53 MILL) (electronic resource).",
+                        "Odegaard, N, Carroll, S & Zimmit, WS 2000.Material Characterization Tests for Objects of Art and Archaeology.  London:  Archetype Publications (UniM Bail high use 620.110287 ODEG).",
+                        "Skoog, DA, West, DM, Holler, FJ & Crouch, S 2014.Fundamentals of Analytical Chemistry, 9th edition, USA:  Brooks/Cole (UniM ERC open high use 543 SKOO).",
+                        "Stuart, B 2007.Analytical Techniques in Materials Conservation, London:  Wiley (UniM Bail high use 702.88 STUA)."
+                    ],
+                    "It is also recommended students purchase a chemistry dictionary.",
+                    "Further recommended readings are listed in this guide and on the LMS.  You are encouraged to augment your understanding of the topics discussed by drawing on this list.  In addition, it is expected that you will develop your own learning and knowledge through wider reading and research, particularly with regard to completion of assessment items.",
+                    "Additional texts may be recommended."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/grimwadecentre#about"
+        ]
+    }
+}

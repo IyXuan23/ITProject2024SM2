@@ -1,0 +1,104 @@
+{
+    "subject name": "Aerospace Dynamics and Control",
+    "subject code": "MCEN90045",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces performance, stability and control of a range of aerospace vehicles. It will cover the modelling of aerospace physical systems as ordinary differential equations, and then introduce mathematical techniques to analyse and control their behaviour.",
+        "The topics covered in this subject include:",
+        "\u2022 The fundamentals of flight dynamics for flight vehicles in the atmosphere. This will describe the flight dynamic models and stability of flight vehicles.\u2022 The fundamentals of spacecraft dynamics for six degree of freedom space vehicles. This will describe basic orbital mechanics and the translation and rotation of rigid bodies.\u2022 Other key topics that will be considered are control and estimation methods to stabilize flight and orbital vehicles, an introduction to inertial navigation systems and vertical take-off and landing aircraft models.",
+        "MATLAB will be used throughout the course to complement the presented concepts."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ELEN90055",
+                    "MCEN90038"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Three assignments worth 10% each, not exceeding 40 pages in total\r\n(approximately 30-35 hours of work). 40 pages",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "One mid semester test. 1 hours",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written examination. 3 hours. Hurdle requirement:. Students must pass the exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Airlie Chapman"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours - 3 x 1 hr lectures in week 1 to week 8, one 2 hr tutorial per week."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Airlie Chapman"
+                ],
+                "email": [
+                    "airlie.chapman@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

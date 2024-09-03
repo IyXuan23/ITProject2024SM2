@@ -1,0 +1,133 @@
+{
+    "subject name": "Water and Waste Water Management",
+    "subject code": "ENEN90029",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "AIMSIn this subject students will learn about the fundamentals of water quality and the associated standards for use as potable water, recycled water or discharge into the environment in a sustainable manner. The subject will include the identification of risks and measures to control those risks and various treatment processes including physical, chemical and microbiological treatment of water and wastewater. The concept of integrated water management will be introduced and reinforced in the group based project work throughout the semester. Students will learn about the systems for water reclamation and reuse. This subject builds on a range of student\u2019s general knowledge of water systems engineering that is developed in subjects like Systems Modelling and Design and builds on general knowledge of chemistry and biology. It is also assumed that students have developed skills on identifying and sourcing information, and can effectively work as a team to solve larger problems.Graduates from this subject may apply the skills developed in the water supply, waste water treatment, or water sensitive urban design areas.INDICATIVE CONTENTThis subject covers theoretical and practical management aspects of sustainable water supply and treatment, wastewater treatment and reuse. Specific topics include:",
+        "Integrated water management",
+        "Risk identification and management for water services",
+        "Water quality guidelines, regulations and performance criteria for treatment plant design",
+        "Water treatment processes and waste disposal",
+        "Wastewater treatment - physical, chemical and biological treatment technologies",
+        "Systems for water reclamation and reuse.",
+        "The students will produce a conceptual design of a water and wastewater treatment system for a small town."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "421-640 Water Supply and Waste Water Management",
+        "421-605 Managing Water Borne Risks"
+    ],
+    "assessments": [
+        {
+            "description": "A group assignment task totalling 3000 words. Intended Learning Outcomes (ILOs) 1 to 3 are addressed in this assignment. 15-20 hours (of work required)",
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "A group assignment task totalling 6000 words. ILOs 4 to 6 are addressed in the assignment. 45-50 hours (of work required)",
+            "timing": "Week 11",
+            "percentage": "35%"
+        },
+        {
+            "description": "One examination. ILOs 1 to 7 are addressed in the examination.. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Meenakshi Arora"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "54 hours (Lectures: 2 hours per week; Workshops: 2 hours per week; Practical site visit: one 6-hour)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Meenakshi Arora"
+                ],
+                "email": [
+                    "marora@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject is based on presentations by experienced university staff and industry professionals who present the lectures and case studies. The subject also involves problem based learning by doing a group project on conceptual design of integrated water and wastewater treatment plan.INDICATIVE KEY LEARNING RESOURCES",
+            [
+                "John C. Crittenden, R. Rhodes Trussell, David W. Hand, Kerry J. Howe, George Tchobanoglous,MWH's Water Treatment: Principles and Design, 3rd Edition, ISBN: 978-0-470-40539-0, Hardcover, 1920 pages, March 2012",
+                "Wastewater Engineering by Metcalf & Eddy"
+            ],
+            "CAREERS / INDUSTRY LINKSPresenters from water industry deliver several lectures and case studies with focus on industry problems. Students\u2019 learning is enhanced by problem based learning and by completing a concept design of an integrated water and wastewater management project. Site visits are undertaken to enhance students understanding of operating environment of a water treatment plant and sewage treatment plant and recycled water treatment plant. The subject provides industry exposure and prepares students well for their career and work in professional engineering world."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

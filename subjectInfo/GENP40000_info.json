@@ -1,0 +1,115 @@
+{
+    "subject name": "Primary Care Research Project Part 1",
+    "subject code": "GENP40000",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The student will conduct an original research project under the supervision of an academic staff member in the Department of General Practice from February to November. The student will be introduced to current literature and to the research techniques used in the specialised area in which their research sits. The research project may form part of a larger current study, by focussing on one small aspect, or it may be especially designed for the student by a researcher with shared interests. In either case it is expected that the work will culminate in an original research publication.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOM40001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Oral presentation of research proposal at end of Semester 1 (5 minutes presentation + 2 minutes for questions). 5-10 minutes. Hurdle requirement",
+            "timing": "Due at the end of Semester One",
+            "percentage": "10%"
+        },
+        {
+            "description": "Critical Review of the Literature of the thesis. 2000 words. Hurdle requirement",
+            "timing": "Due at the end of Semester One",
+            "percentage": "15%"
+        },
+        {
+            "description": "Oral presentation of research project (8 minutes presentation + 2 minutes for questions). 10-15 minutes. Hurdle requirement",
+            "timing": "Due at the end of Semester Two",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written research report (thesis). 10000 words. Hurdle requirement",
+            "timing": "During Semester Two examination period",
+            "percentage": "65%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Christine Hallinan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "380 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinator:"
+                ],
+                "email": [
+                    "ruby.biezen@unimelb.edu.au",
+                    "sparkin@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students must be enrolled in the Bachelor of Biomedicine (Honours) or Bachelor of Science (Honours) to complete this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.gp.unimelb.edu.au/"
+        ]
+    }
+}

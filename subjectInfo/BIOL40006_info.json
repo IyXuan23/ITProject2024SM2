@@ -1,0 +1,150 @@
+{
+    "subject name": "BioSciences Honours Research Project Pt1",
+    "subject code": "BIOL40006",
+    "subject availability": [
+        "Semester 1 (Extended)",
+        "Semester 2 (Extended)"
+    ],
+    "overview": [
+        "This subject is part of a sequence that together constitute the 75-point research project offered through the Bachelor of Science (Degree with Honours) stream in BioSciences.",
+        "The subject involves laboratory or field-based experimental research in an area of Ecology and Evolutionary Biology, Genetics, Genomics and Developmental Biology, or Plant Biology. The research projects cover a broad range of research from molecular to population and evolutionary biology in micro-organisms, insects, plants and animals.",
+        "The project will be based in the laboratory of an academic staff member in the School of BioSciences or an approved external supervisor, depending on the particular research project. The research project aims to develop a range of experimental and technical skills, a capacity to set goals and to design and plan experiments.",
+        "Apart from the help and guidance from their supervisor(s) each student also has a committee, which provides additional help and expertise, including advice on design of the research project. This committee and supervisor(s) are responsible for assessment of the research project subject. The subject also provides students with skills and knowledge for understanding original research and enhanced written and oral communication skills.",
+        "The subject involves experimental research under the direction of a supervisor."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the BH-SCI Bachelor of Science (Degree with Honours)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A research plan of a maximum 1000 words, due early in the first semester of the research project. 1000 words. Hurdle requirement",
+            "timing": "Early in the teaching period",
+            "percentage": "0%"
+        },
+        {
+            "description": "A literature Review of a maximum 3000 words, due during the first semester of the research project. 3000 words",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "An oral presentation on the research project, including questions due toward the end of the final semester of the research project. 30 minutes (total)",
+            "timing": "Second half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "A research thesis of up to 10,000 words due at the end of the final semester of the research project. 10000 words",
+            "timing": "End of the teaching period",
+            "percentage": "75%"
+        },
+        {
+            "description": "Benchmark - supervisor grade based on performance during the research project, finalised at completion of the research project",
+            "timing": "End of the teaching period",
+            "percentage": "5%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended)": [
+                {
+                    "Principal coordinator": "Bhawana Bhatta Kaudal"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor."
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 30 June 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Principal coordinator": "Bhawana Bhatta Kaudal"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor."
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 24 December 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "24 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Extended)": {
+                "name": [],
+                "email": [
+                    "bhawana.bhattakaudal@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Extended)": {
+                "name": [],
+                "email": [
+                    "bhawana.bhattakaudal@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

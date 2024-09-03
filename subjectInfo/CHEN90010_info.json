@@ -1,0 +1,173 @@
+{
+    "subject name": "Sustainable Minerals and Recycling",
+    "subject code": "CHEN90010",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The minerals industry is of utmost importance to the Australian economy. This subject focuses on the liberation, size reduction, size separation and concentration separations in minerals processing. A range of design processes in extractive metallurgy, including hydrometallurgy and pyrometallurgy will be highlighted. Concepts behind aspects of physico-chemical principles of mineral separation processes to produce metals and ceramic products from ores as well as recycled materials and consumer products will be described. The systems approach to recycling of products, process sustainability and environmental considerations is extremely important in mineral processing and this will be studied in detail.",
+        "Indicative content:  mineral processing separation concepts; the importance of sustainable mineral processing; the mechanisms used in dewatering mineral tailings; influence of material properties on recyclability; influence of recycling on material purity and properties; development of case studies in recycling products to recover valuable materials."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into Master of Chemical Engineering and Master of Chemical Engineering: Business; or Sustainability and Environmental; or Materials and Minerals programs"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "All other Master of Engineering students may seek approval from their Course Coordinator and the Subject Coordinator to take this subject."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CHEN40011 Minerals, Materials and Recycling"
+    ],
+    "assessments": [
+        {
+            "description": "One written assignment.  Intended Learning Outcomes 1 to 4 are addressed in this activity.. 10-13 hours (of work required)",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written assignment.  Intended Learning Outcomes 1 to 4 are addressed in this activity.. 10-13 hours",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written assignment.  Intended Learning Outcomes 1 to 4 are addressed in this activity.. 10-13 hours",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written examination.  Intended Learning Outcomes 1 to 4 are addressed in this activity.. 3 hours",
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "George Franks"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 x 2 hour lectures per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Professor George Franks"
+                ],
+                "email": [
+                    "gvfranks@unimelb.edu.",
+                    "au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "Lectures, homework assignments, worked examples case studies and guest lectures.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Comprehensive Lecture Notes are provided on LMS for the Students. Materials for the lecture notes are taken from the following list of sources which is provided to the students.MINERALS",
+            [
+                "Introduction to Mineral Processing, Kelly, E. G., and Spottiswood, D. J., 1995.Australian Mineral Foundation, (K&S)",
+                "Mineral Processing Technology, 6th Edition, Wills, B. A., 1997. Butterworth Heinemann, (Wills)"
+            ],
+            "METALS PRODUCTION",
+            [
+                "Principles of Extractive Metallurgy, F. Habashi, Gordon and Breach, 2nd ed., Vols 1-3, 1980. (Habashi).",
+                "Process Principles in Minerals & Materials Production, P. Hayes, Hayes Publishing, Brisbane, 1993. (Hayes).",
+                "Extraction Metallurgy, 3rd ed., J. D. Gilchrist, Pergamon Press, 1989. (Gilchrist)",
+                "Extractive Metallurgy of Copper, W. G. Davenport, M. King, M. Schlesinger, A. K. Biswas, 4th ed., Pergamon, 2002. (DKSB)"
+            ],
+            "MATERIALS",
+            [
+                "Materials Science and Engineering an Introduction, Callister, W. D. Jr.",
+                "Sixth Edition, John Wiley and Sons, 2003. (Call)",
+                "The Principals of Engineering Materials, Barrett, C. R., Nix, W. D., and Tetelman, A.S., Prentice Hall, 1973. (BNT).",
+                "Introduction to Engineering Materials, Second Edition, John, V. B., Macmillan Press, 1983. (John).",
+                "Principles of Materials Science and Engineering, 3rd edition, Smith, W. F., McGraw Hill, NY, 1996. (Smith)",
+                "Materials Selection in Mechanical Design, Ashby, M. F., Permagon Press 1992 and 1999. (Ashby).",
+                "Engineering Materials 1, 3rd edition, and Engineering Materials 2, Ashby, M. F. and Jones , D. R. H., Elsevier, 2005., Butterworth-Heinemann, (A&J)",
+                "MIT OpenCourseWare, Materials Science and Engineering Department,http://ocw.mit.edu/OcwWeb/index.htm(MIT)",
+                "Elements of Materials Science and Engineering, 3rd Edition, Van Vlack, L. H., 1975., Addison-Wesley, Reading, MA, (Van Vlack)",
+                "Introduction to Ceramics, 2nd Edition, Kingery, W. D., Bowen, H. K., Uhlmann, D. R., 1976. John Wiley and Sons, NY, (KBU)",
+                "Materials Science for Engineers, 5th edition, Anderson, J. C., Leaver, K. D., Leevers, P., Rawlings, R. D., 2003., Nelson Thornes, Ltd. London, (ALLR)",
+                "Coulson and Richardson\u2019s Chemical Engineering, Volume 6, Third Edition, R. K. Sinnot, R. K., 1999, Butterworth-Heinemann, (C&R).",
+                "Introduction to Dislocations, 2nd edition, D. Hull, Pergamon Press, Oxford, 1975, (Hull)",
+                "Materials Science and Engineering, G. F. Carter and D. E. Paul, 1991. ASM International, (C&P)",
+                "Physical Chemistry, 7th Edition, P. Atkins and J. de Paula, Oxford Univ. press, 2002. (Atkins)"
+            ],
+            "RECYCLING",
+            [
+                "The Metrics of Material and Metal Ecology, Reuter, M. A., Heiskanen, K., Boin, U., van Schaik, A., Verhoef, E. yang, Y., Georgalli, G., Elsevier, 2005. (Reuter)"
+            ],
+            "CAREERS / INDUSTRY LINKS",
+            "The recycling component of the subject, (lectures and a case study) is taught by an engineer from industry. There are also typically 2 or 3 other guest lecturers (1 to 2 hours) from industry as well."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

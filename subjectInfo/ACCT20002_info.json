@@ -1,0 +1,213 @@
+{
+    "subject name": "Intermediate Financial Accounting",
+    "subject code": "ACCT20002",
+    "subject availability": [
+        "Summer Term",
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject focuses on more advanced external financial reporting obligations applicable to entities within the framework of the Australian reporting environment. In particular, it examines key technical Accounting Standards integral to the preparation of general purpose financial statements by reporting entities. It also considers the theories that help explain why financial accounting exists as well as what motivates and affects the judgements of managers when making financial accounting reporting decisions. Finally, it critically reviews important contemporary accounting issues affecting the business community under consideration by accounting standard setters."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ACCT10002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assessment of Preparation Activities. 24 hours",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Online Quizzes. 2.5 hours",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "End-of-semester Examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Principal coordinator": "Jagjit Kaur"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 2-hour lectures and two 1-hour tutorials per week for six weeks"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to  9 February 2024"
+                },
+                {
+                    "Last self-enrol date": "8 January 2024"
+                },
+                {
+                    "Census date": "19 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "24 February 2024"
+                }
+            ]
+        },
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Bo Qin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2-hour lecture and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Like Jiang"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2-hour lecture and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [
+                    "Jagjit Kaur:"
+                ],
+                "email": [
+                    "jkaur@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 1": {
+                "name": [
+                    "Bo Qin:"
+                ],
+                "email": [
+                    "b.qin@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Like Jiang:",
+                    ""
+                ],
+                "email": [
+                    "like.jiang@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "subject name": "Environmental Geoscience",
+    "subject code": "ERTH20002",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject examines anthropogenic perturbations in a range of environmental systems by determining changes to physical-chemical processes at the Earth\u2019s surface. Case studies are presented discussing issues such as groundwater drawdown from mining, ocean acidification from rising CO2 in the atmosphere, acid mine drainage and the risks and benefits of geological CO2 storage and of unconventional gas production. The underlying processes are illustrated and the impacts are both qualitatively and quantitatively assessed, for example, by using a mass balance approach, reconstructing the groundwater flow field or by deriving imposed changes to chemical reactions and reaction rates at the Earth surface. Time scales of current perturbations are examined in the context of environmental changes in the geological past."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "3 written tests as part of practical classes due in weeks 3, 7, and 11. 20 minutes (each)",
+            "timing": "From Week 3 to Week 11",
+            "percentage": "25%"
+        },
+        {
+            "description": "A written assignment completed over a two week period. 1500 words",
+            "timing": "Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "A written theory exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Ralf Haese"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "A course specific reader will be available."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

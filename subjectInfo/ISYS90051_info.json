@@ -1,0 +1,135 @@
+{
+    "subject name": "Digital Impacts on Business and Society",
+    "subject code": "ISYS90051",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "In this subject, students examine the implications of the digitisation of data, information, and communications on organisations and society. Students will investigate how digitisation affects individuals, organisations, and society with associated security, compliance, legal and regulatory considerations. These implications are also examined in regard to ethical questions around information privacy, accessibility, ownership, and accuracy."
+    ],
+    "indicative content": [
+        "Topics covered may include the impact of new and emerging information products and services on social networks, on privacy, censorship and content control, information security, intellectual property, citizenship, and other aspects of organisational and daily life."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ISYS90026"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "One seminar paper (10%) with 4 group members comprised of an abstract of approximately 250 words plus a list of references. This is supported by a presentation (10%) of approximately 25 minutes duration. Intended Learning Outcomes (ILO's) 1 to 3 are addressed in the seminar paper.. 25-30 hours (of work required)",
+            "timing": "Between Weeks 3 - 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "Individual Assignment- \r\nOne critical thinking piece approximately 1800 words.\r\n\r\nILOs 1 to 3 are addressed in this essay.. 40-45 hours (of work required)",
+            "timing": "Mid semester",
+            "percentage": "35%"
+        },
+        {
+            "description": "One in-class test of 1.5 hours duration. Guided short answer questions will be completed under test conditions. These questions will be clearly linked to class materials and there will be a choice of questions.\u202fILO's 1 to 4 are addressed in this test.. 45-50 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "35%"
+        },
+        {
+            "description": "Engagement in seminar activities and contributions to online discussion. ILO's 1 to 3 are addressed in the seminar activities and online discussion.. 13-15 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Reeva Lederman"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of one 2-hour lecture per week and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Reeva Lederman"
+                ],
+                "email": [
+                    "reeva.lederman@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Learning and Teaching Methods",
+            "The subject is delivered in a 3 hour classes with each class containing a lecture, seminar discussion and student presentations.",
+            "Indicative Key Learning Resources",
+            "Students will have access to lecture notes and lecture slides. The subject LMS site also contains links to recommended literature and other resources.",
+            "Careers/Industry Links",
+            "The IT industry is a large and steadily growing industry. Critical understanding of the implication of digitisation for individuals, organisations and society is crucial for responsible professional practice in the IT industry."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.cis.unimelb.edu.au"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

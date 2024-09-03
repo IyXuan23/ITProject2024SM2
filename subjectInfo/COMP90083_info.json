@@ -1,0 +1,142 @@
+{
+    "subject name": "Computational Modelling and Simulation",
+    "subject code": "COMP90083",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Computers are invaluable tools for modelling and simulating complex systems in a range of real word domains. The complex behaviours exhibited by many biological, social and technological systems - such as epidemics, urban systems and robotics - challenge our ability to predict, analyse and design such systems. Building computational models of these systems can help us better understand their structure and behaviour, and make better decisions about their design and control.",
+        "The aim of this subject is to provide students with a solid foundation in the conceptual and technical skills required to design, implement and evaluate computational models of complex systems."
+    ],
+    "aims": [],
+    "indicative content": [
+        "Topics covered will be selected from:",
+        "the use of models for science, engineering and policy",
+        "dynamical systems analysis",
+        "complexity and emergent behaviour",
+        "agent-based models",
+        "design, communication and evaluation of models",
+        "analysis and visualisation of model behaviour",
+        "case study exemplars of specific types of models, such as:",
+        "spatial models (eg, transportation)network models (eg, epidemics)adaptive models (eg, robotics)",
+        "spatial models (eg, transportation)",
+        "network models (eg, epidemics)",
+        "adaptive models (eg, robotics)",
+        "spatial models (eg, transportation)",
+        "network models (eg, epidemics)",
+        "adaptive models (eg, robotics)"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP90038",
+                    "COMP20003",
+                    "COMP20007"
+                ],
+                [
+                    "COMP90041",
+                    "SWEN20003"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-CS Master of Computer Science",
+                "MC-SCICMP Master of Science (Computer Science)",
+                "MC-SOFTENG Master of Software Engineering",
+                "Software specialisation (formal) in the MC-ENG Master of Engineering",
+                "Software with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                "100pt Program course entry point in the MC-IT Master of Information Technology",
+                "150pt Program course entry point in the MC-IT Master of Information Technology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "One individual assignment, requiring approximately 25 - 30 hours of work, due in week 5.  Addressing Intended Learning Outcomes (ILO's) 1 and 4.. 30 hours (of work required)",
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "One staged group research project, done in teams of 2-3, including a proposal, report, and demonstration, requiring approximately 30 -40 hours of work, due in week 8 (proposal)  and week 12 (report and demonstration). ILO's 1 - 4 are addressed in this assessment... 40 hours (of work required)",
+            "timing": "From Week 8 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "description": "5 x Quizzes - 10%. ILOs 1, 2 and 3 are addressed.. 20 minutes (each)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester exam, 2 hours.  ILO's 1 -3 are addressed in the exam.. 2 hours. Hurdle requirement:. Students must achieve 15/30 on the exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Mario Andres Munoz Acosta"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "munoz.m@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered with a combination of lectures and tutorials. Weekly reading materials, practice sheets and videos are provided for further information."
+        ]
+    }
+}

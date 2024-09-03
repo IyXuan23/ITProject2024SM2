@@ -1,0 +1,107 @@
+{
+    "subject name": "Foundation Physiotherapy Sciences B",
+    "subject code": "PHTY90116",
+    "subject availability": [
+        "Semester 2 (Extended)"
+    ],
+    "overview": [
+        "This subject will build on Foundation Physiotherapy Sciences A to provide physiotherapy students with additional conceptual and evidence-based background in biomedical sciences that underpin physiotherapy clinical practice and research. It will build on and integrate prior knowledge of anatomy to an understanding of physiology and pathology in the areas of cardio-respiratory, musculoskeletal and neurological systems. Students will be expected to apply this knowledge in appropriate cases as a basis for developing clinical reasoning and decision-making skills in physiotherapy practice. The subject will be completed with an integration of body systems around complex problems."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHTY90115",
+                    "PHTY90117"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "ePortfolio. 1000 words (equivalent)",
+            "timing": "Students will be asked to take part in weekly discussion boards from teaching weeks 4-14, these discussions will form the basis of the artefacts with final submission end of Semester 2",
+            "percentage": "20%"
+        },
+        {
+            "description": "Continuous assessment: x4 weekly intra-semester quizzes (MCQs) each worth approximately 5%. 15 minutes (each). Hurdle requirement:. All must be passed",
+            "timing": "Beginning of weeks 2, 3, 4, 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "Mid-semester test (x1). Combination MCQs and short-answer questions.. 1.5 hours",
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written Exam (3 exams x 30 minutes). 30 minutes (each)",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Coordinator": "Free Coulston"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "9 hours per week of lectures and workshops each week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "24 June 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students will be advised to download and access the digital anatomy resources."
+                },
+                {
+                    "Teaching period": "1 July 2024 to  8 November 2024"
+                },
+                {
+                    "Last self-enrol date": "5 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2 (Extended)": {
+                "name": [],
+                "email": [
+                    "free.coulston@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

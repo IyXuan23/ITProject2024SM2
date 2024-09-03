@@ -1,0 +1,140 @@
+{
+    "subject name": "Research Methods in Surgical Education",
+    "subject code": "MEDS90011",
+    "subject availability": [
+        "Semester 1 (Early-Start) - Online"
+    ],
+    "overview": [
+        "Participants will be introduced to a range of research methods used in medical and surgical education. Key studies will be selected to highlight the strengths of different approaches. Both quantitative and qualitative research methods will be considered and ways in which these approaches complement each other.",
+        "The overall aims of this subject are:",
+        "To gain understanding of the breadth of methodologies for educational research",
+        "To appreciate the strengths and weaknesses of different educational research methodologies",
+        "To critically appraise current educational research"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDS90006",
+                    "MEDS90007",
+                    "MEDS90008",
+                    "MEDS90009"
+                ],
+                "Students enrolling in this subject as a single subject under the Community Access Program must meet the entrance requirements for the MC-SURGED."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "GC-SURGED Graduate Certificate in Surgical Education",
+                "GD-SURGED Graduate Diploma in Surgical Education",
+                "MC-SURGED Master of Surgical Education",
+                "This subject is not available for students admitted in any other courses."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Essay. The aim of this assessment is to provide students to reflect on a research method for educational research. Students will be expected to draw on 'methodology' research to identify best practice.. 1,000 words",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Research proposal. The aim of this assessment is to provide students with an opportunity to prepare a research proposal on a surgical educational project which will enable judgement of their ability to identify and articulate a research question relevant to surgical education, present a critique of current literature, locate their work in a theoretical framework, select appropriate methods for study, present a Gantt chart or similar representation of a research schedule.. 4,500 words",
+            "timing": "End of semester",
+            "percentage": "80%"
+        },
+        {
+            "description": "Hurdle requirement:. Experiential exercise (participate in simulated exercises in research methods), due on study day. The aim of this assessment is to ensure students 'experience' a research method - (e.g. individual interview, focus group) highlighting strengths and weaknesses of the approach.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start) - Online": [
+                {
+                    "Coordinator": "Debra Nestel"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "29 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period, students should complete pre-readings, which will be made available via Canvas"
+                },
+                {
+                    "Teaching period": "5 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "9 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Reading materials online"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "IT requirements:",
+            "Participants will require access to the internet with a minimum connection speed of 256Kbps to access course materials and to participate in on-line discussions and presentations forums. Faster connection speeds are preferred. Participants will also need to verify that their internet connection is configured to allow them to view streamed audio and video files. Test files will be made available for students to test their connections.",
+            "Participants are expected to have a headset and microphone connected to their computer for participation in on-line activities.",
+            "Participants will be expected to have access to the following Microsoft Office products to fully participate:",
+            [
+                "MS Word",
+                "MS Powerpoint"
+            ],
+            "All online applications will be web-based and no special software is required."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

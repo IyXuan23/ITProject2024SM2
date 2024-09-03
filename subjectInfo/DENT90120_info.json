@@ -1,0 +1,120 @@
+{
+    "subject name": "Dental Practice 2",
+    "subject code": "DENT90120",
+    "subject availability": [
+        "Year Long (Extended)"
+    ],
+    "overview": [
+        "This subject covers general dental practice including treatment planning and clinical practice of integrated dental care encompassing complex periodontal treatment, endodontics, fixed and removable prosthodontics, paediatric dentistry and management of patients having extensive and/or complex treatment needs due to medical conditions, a severely compromised dental status and/or high caries risk. Students will engage in clinical practice at the Royal Dental Hospital of Melbourne providing holistic, patient-centred oral health care, covering all aspects of oral health learnt to this point in the course. They will also have treatment planning sessions in groups, facilitated by a clinical supervisor. This subject should also be viewed as working in combination with other third year subjects as a means to provide total patient care."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Successful completion of all second year DDS subjects."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "On-going clinical supervisors' assessment on general dental practice, high caries risk, complex periodontal treatment and treatment planning. 150 hours",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Clinical Assessment on treatment planning and patient management. 6 hours",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Treatment Planning Portfolio based on five case examples from TPS Cases 1-12, including reflective piece. 1000 words",
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "description": "Case presentation exam, 1-hour viewing and preparation followed by 25-minute presentation viva voce. 85 minutes",
+            "timing": "End of year examination period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Continuing clinical assessment of the treatment of patients receiving orthodontic and paediatric dentistry care through a clinical log book assessed by the clinical supervisor (criteria provided) at the end of each session and presentation of a journal article at a seminar. 96 hours",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Continuous clinical assessment of endodontic and fixed prosthodontic patient log book. 112 hours",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Hurdle requirement:. Satisfactory standard in professional behaviour, determined by both Professional Behaviour Checklist and any Professional Behaviour notifications received.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 75% attendance at Lectures; 100% attendance at Seminars/Tutorials, Clinical Sessions & Treatment Planning",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Successful completion (pass/fail) in 2 clinical record audits conducted throughout the academic year incorporating specialist and general practice clinics.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long (Extended)": [
+                {
+                    "Principal coordinator": "Lyndall Smythe"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "650 hours"
+                },
+                {
+                    "Pre teaching start date": "22 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "Attend Orientation activities."
+                },
+                {
+                    "Teaching period": "23 January 2024 to 25 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 February 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

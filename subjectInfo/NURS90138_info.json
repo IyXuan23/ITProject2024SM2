@@ -1,0 +1,116 @@
+{
+    "subject name": "Radiation Oncology Nursing",
+    "subject code": "NURS90138",
+    "subject availability": [
+        "September - Online"
+    ],
+    "overview": [
+        "In this subject students will explore current and emerging treatments of specific cancer diagnoses and populations with radiotherapy in specialist cancer nursing care to prepare, support and assess people affected by cancer. Students will learn and advocate for the best practice treatment strategies in the management of site-specific toxicities of radiotherapy. Students will also explore different supportive care needs of people affected by cancer treated with radiotherapy and appreciate the importance of evidence-based interdisciplinary interventions to meet these needs."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "NURS90139",
+                    "NURS90137"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written Assessment. 1500 words",
+            "timing": "Middle of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Written Assessment. 500 words",
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Quiz. 30 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "September - Online": [
+                {
+                    "Coordinators": "Margie Hjorth and Trevor Saunders"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Pre teaching start date": "16 September 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students are expected to commit 5 hours per-week to their online learning activities \u2013 including self-directed learning, individual activities, group activities, discussion boards and webinars."
+                },
+                {
+                    "Teaching period": "23 September 2024 to 17 November 2024"
+                },
+                {
+                    "Last self-enrol date": "17 September 2024"
+                },
+                {
+                    "Census date": "4 October 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "1 November 2024"
+                },
+                {
+                    "Assessment period ends": "24 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "September": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There is no prescribed text for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

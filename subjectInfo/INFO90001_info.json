@@ -1,0 +1,167 @@
+{
+    "subject name": "Digital Health and Informatics Methods",
+    "subject code": "INFO90001",
+    "subject availability": [
+        "Semester 1 - Online",
+        "Semester 2 - Online"
+    ],
+    "overview": [
+        "This subject offers an overview of major health informatics research areas and methods that contribute to quality improvement, scientific research, and technological innovation in healthcare and biomedicine. The subject sets out the scientific foundations of digital health, and disciplined approaches to understanding the implications of digital health for health system performance.",
+        "The subject is arranged in blocks of study that examine methods for: (a) Undertaking digital health research and innovation projects, including: justifying a project in pragmatic and conceptual terms; drawing on existing practice and knowledge; specifying and staging work packages; meeting needs for partnerships and resources; assuring socially and ethically responsible conduct; reporting on progress rigorously and communicating for impact; (b) Managing exponential growth in health and biomedical knowledge, including: increasing openness in research data life cycle management; automating processes of generating, synthesising, and translating evidence; assuring the quality of electronic decision support systems for clinicians and patients; producing sophisticated forecasts and scenarios of the future of health; (c) Analysing structured and unstructured health data, including: wrangling phenome, exposome and other omics data; scaling up clinical, translational and population health research on platforms; approaching artificial intelligence in medicine through data analytics techniques and machine learning; (d) Modelling and simulating the dynamics of health conditions and health services, including: building personalised and population-level models of health and disease; mapping patient journeys, clinical workflows, and health supply chains; creating immersive environments for healthcare system learning and research."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Two written reports of individual work on assigned practical activities. Students will be able to choose from four topics. Each report will be 1000 words (20% each). 2000 words (total). Hurdle requirement:. To pass the subject, students must obtain at least 50% of the total marks available in the practical reports.",
+            "timing": "During the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Individual Oral Presentation. 10 minutes. Hurdle requirement:. To pass the subject, students must obtain 50% of total marks available in the class presentation and written project report.",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Major Project Report. 2000 words. Hurdle requirement:. A minimum grade of 50% must be achieved.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinator": "Kathleen Gray"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "2 hours per week of active participation in scheduled online tutorials. \r\nStudents unable to attend a tutorial may submit their contribution beforehand and review proceedings afterward.\r\n10hours per week of independent study and participation in asynchronous"
+                },
+                {
+                    "Total time commitment": "164 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - Online": [
+                {
+                    "Coordinator": "Kathleen Gray"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "2 hours per week of active participation in scheduled online tutorials. \r\nStudents unable to attend a tutorial may submit their contribution beforehand and review proceedings afterward.\r\n10hours per week of independent study and participation in asynchronous"
+                },
+                {
+                    "Total time commitment": "164 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "kgray@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "kgray@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "This subject is offered in semester 2 each year, as a 3 hour class one evening each week over a 12 week period, including lectures, tutorials and small group activities. Opportunities are provided for online interaction during class using students\u2019 personal internet-connected devices.Classroom teaching is complemented by a subject website in the University Learning Management System. Students unable to attend class on campus can participate each week, by going online to access lecture slides and recordings, undertake practical activities, and complete assessable work.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "This subject has no textbook. Students have access to electronic full-text of recommended readings, including current journal articles, government documents and industry reports. Examples:",
+            "Dahlin, S., Eriksson, H., & Raharjo, H. (2019). Process mining for quality improvement: propositions for practice and research. Quality Management in Healthcare, 28(1), 8-14.",
+            "Enam, A., Torres-Bonilla, J., & Eriksson, H. (2018). Evidence-based evaluation of eHealth interventions: systematic literature review. Journal of Medical Internet Research, 20(11), e10971. Full-text open access URL:https://www.jmir.org/2018/11/e10971",
+            "Gianfrancesco, M. A., Tamang, S., Yazdany, J., & Schmajuk, G. (2018). Potential biases in machine learning algorithms using electronic health record data. JAMA Internal Medicine, 178(11), 1544-1547.",
+            "Van de Velde, S., Kunnamo, I., Roshanov, P., Kortteisto, T., Aertgeerts, B., Vandvik, P. O., & Flottorp, S.(2018). The GUIDES checklist: development of a tool to improve the successful use of guideline-based computerised clinical decision support. Implementation Science, 13(1), 86.",
+            "Wong, A., Young, A. T., Liang, A. S., Gonzales, R., Douglas, V. C., & Hadley, D. (2018). Development and validation of an electronic health record\u2013based machine learning model to estimate delirium risk in newly hospitalized patients without known cognitive impairment. JAMA Network Open, 1(4), e181018. Full-text open access URL:https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2695078",
+            "CAREERS/INDUSTRY LINKS",
+            "This subject provides advanced knowledge and practical skills to work in digital health. This subject is offered jointly by the Faculty of Engineering and the Faculty of Medicine, Dentistry and Health Sciences, and makes local and international links with accomplished researchers and with experts from public and private sector organisations."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

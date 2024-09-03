@@ -1,0 +1,95 @@
+{
+    "subject name": "Industry Research Project",
+    "subject code": "CHEM70002",
+    "subject availability": [
+        "Time-based Research"
+    ],
+    "overview": [
+        "Students enrolled in the Master of Industrial Research (Chemistry) program are required to complete a 150 point Industry-based Research Project. The research project will be conducted within industry laboratories, supervised by a member of academic staff in the Faculty of Science and by the industry collaborator.",
+        "For how long and at what time within the enrolment the actual period of leave is to be taken needs to be negotiated with a student\u2019s supervisors.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A project-related seminar (up to 30 min), given after the student has enrolled in 150 points of the Research Project. 30 minutes",
+            "timing": "End of semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "A major thesis/project report, page limit of 60 pages, due after the student has enrolled in 150 points of the Research Project. The thesis will be examined by at least two members of academic staff from the relevant University department (not the primary University-based supervisor), and at least one external expert in the field.. 60 pages",
+            "timing": "End of semester",
+            "percentage": "35%"
+        },
+        {
+            "description": "An oral examination (viva) on the content of the thesis/research report, with a panel consisting of at least two members of academic staff from the relevant department and one industry expert external to the University. 60 minutes",
+            "timing": "End of semester",
+            "percentage": "35%"
+        },
+        {
+            "description": "Assessment of research performance based on attendance, application, initiative and demonstrated skills, by the project supervisors",
+            "timing": "End of semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "A project overview/research proposal (up to 10 pages of mixed text, diagrams and formulas) due after the student has enrolled in 25 points of Research project (pass/fail). 10 pages. Hurdle requirement:. satisfactory submission",
+            "timing": "End of semester",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Attendance at an industry-based safety and induction program before laboratory work commences. Hurdle requirement:. satisfactory attendance",
+            "timing": "Early term",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Time-based Research": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Teaching period": "\u2014  to  \u2014"
+                },
+                {
+                    "Last self-enrol date": "\u2014"
+                },
+                {
+                    "Census date": "\u2014"
+                },
+                {
+                    "Last date to withdraw without fail": "\u2014"
+                },
+                {
+                    "Assessment period ends": "\u2014"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

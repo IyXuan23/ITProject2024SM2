@@ -1,0 +1,135 @@
+{
+    "subject name": "Market and Business Research",
+    "subject code": "MKTG20004",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject develops students' knowledge of fundamental market and business research concepts. It addresses the purpose, procedures and applications of market business research; helps view market and business research from a 'users' and 'doers' perspective; and aims to improve the managerial value of such research for strategic decision making. Specific topics include the formulation of the research problem; research design; data collection instruments; data collection procedures; statistical data analysis tools including multiple regression analysis; and the interpretation and use of research results. Market and Business Research is designed for future marketing managers and researchers and aims to help students develop skills to address management problems using analytical tools."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MGMT20001",
+                    "MKTG10001"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Tutorial quizzes. 1000 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group assignment 1 (groups of 4 students). 3000 words",
+            "timing": "Second half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Group assignment 2 (groups of 4 students). 3000 words",
+            "timing": "Second half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Stephanie Kwari"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2-hour lecture and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Ms Stephanie Kwari:",
+                    ""
+                ],
+                "email": [
+                    "stephanie.kwari@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

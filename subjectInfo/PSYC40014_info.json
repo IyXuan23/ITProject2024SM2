@@ -1,0 +1,113 @@
+{
+    "subject name": "Advanced Research Methods in Psychology",
+    "subject code": "PSYC40014",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "In this subject, students will be introduced to advanced research skills and methods to critically investigate, measure and assess research topics involving human behaviour, interactions, and thought in a variety of contexts. In addition, students will acquire an understanding of fundamental principles in psychological assessment of individual traits and dispositions, in particular, how to evaluate the reliability and validity of psychological assessments. Emphasis will be placed on how the skills and techniques being taught are tools for gathering evidence relating to real-world problems typically encountered in the behavioural sciences, but not limited to this area, for which meaningful inferences can be generalised beyond the particular sample data available. Topics to be covered may include research design, implementation, and evaluation; techniques for measuring human behaviour, emotions, and interactions; the application of quantitative models to data in order to identify differences and associations, make predictions, and assert possible causation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students must be enrolled in the Graduate Diploma in Psychology."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "PSYC30013 Research Methods for Human Inquiry"
+    ],
+    "assessments": [
+        {
+            "description": "Essay. 1000 words",
+            "timing": "From Week 1 to Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment 1 (SAQ and data analysis). 1200 words",
+            "timing": "From Week 2 to Week 5",
+            "percentage": "25%"
+        },
+        {
+            "description": "Assignment 2 (SAQ and data analysis). 1600 words",
+            "timing": "From Week 6 to Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance of at least 80% of laboratory classes. In case of failure to meet the attendance hurdle requirement, additional work related to the missed class activities (e.g., short 500 word essay on missed topic) will be required before a passing grade can be awarded",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Andrew Perfors"
+                },
+                {
+                    "Coordinator": "Andrew Legg"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "40 contact hours comprising:\r\n12 x 2 hours of lectures per week; \r\n12 x 1 hour of weekly lab classes; and\r\n4 x 1 hour of weekly seminars."
+                },
+                {
+                    "Total time commitment": "185 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Principal Coordinator:"
+                ],
+                "email": [
+                    "rmhi-armp@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "No prescribed texts. Detailed lecture notes, problem sets, short answer questions, and multiple choice tests provided for each lecture."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

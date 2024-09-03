@@ -1,0 +1,103 @@
+{
+    "subject name": "Veterinary Bioscience: Cardiovasc System",
+    "subject code": "VETS30014",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Using clinical cases to illustrate principles, this subject examines the structure, function and potential for dysfunction of the cardiovascular system of the major domestic animal species. As students develop an understanding of the mechanisms of disease of this system, they will develop skills in the clinical evaluation of it and in the interpretation of relevant diagnostic procedures."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "VETS30016",
+                    "VETS30029",
+                    "VETS30030",
+                    "VETS30031"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Permission of the Faculty of Science is required to enrol into this subject. Enrolment is limited to BSc students who have been selected into the Veterinary Bioscience major, leading to articulation into the Doctor of Veterinary Medicine."
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Up to 5 online assessments of weekly case study exercises (each equally weighted). 30 minutes (each)",
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written Test. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Laura Dooley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "72"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "laura.dooley@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

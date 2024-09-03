@@ -1,0 +1,108 @@
+{
+    "subject name": "Veterinary Bioscience:Respiratory System",
+    "subject code": "VETS30018",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Using clinical cases to illustrate principles, this subject examines the structure, function and potential for dysfunction of the respiratory system of the major domestic animal species. As students develop an understanding of the mechanisms of disease of this system, they will develop skills in the clinical evaluation of it and in the interpretation of relevant diagnostic procedures."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "VETS30016",
+                    "VETS30029",
+                    "VETS30030",
+                    "VETS30031"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Permission of the Faculty of Science is required to enrol into this subject. Enrolment is limited to BSc students who have been selected into the Veterinary Bioscience major, leading to articulation into the Doctor of Veterinary Medicine."
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Up to 4 online assessments of weekly case study exercises (each equally weighted at 2.5%). 30 minutes (each)",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written Test. 1 hours",
+            "timing": "Late in the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "55%"
+        },
+        {
+            "description": "Oral presentation of a research activity that demonstrates the ability to integrate concepts across different discipline areas and organ systems, and to communicate these concepts to a diverse audience.  Presented online in video format; 5 minutes (500 words equivalence). 5 minutes",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Reza Sanaei"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "72"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "reza.sanaei@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

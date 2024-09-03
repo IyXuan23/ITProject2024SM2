@@ -1,0 +1,163 @@
+{
+    "subject name": "Consultation Liaison Psychiatry",
+    "subject code": "PSYT90024",
+    "subject availability": [
+        "August - Online",
+        "August - On Campus"
+    ],
+    "overview": [
+        "This unit aims to explore the relationship between physical and psychological health and illness. The key components of this relationship will be explored from both a theoretical and clinical perspective. These concepts include how psychological factors affect physical health, how physical illness can lead to psychological disturbance and the nature of somatisation. Common medical conditions with psychological associations will also be reviewed.",
+        "The activities of psychiatrists within general medical settings will be explored. This will include the clinical process of the consultation liaison assesment, the application of neuropsychological testing and the nature of interventions. Issues of communication, treatment adherence and relationship difficulties in medical settings will be addressed."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A brief case study derived for the students current placement, illustrating a number or principles in C-L psychiatry. 2000 words",
+            "timing": "Middle of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "One written examination (for face to face students) OR examination conducted entirely online requiring typing (for online students) emulating the format of the Royal Australian and New Zealand College of Psychiatrists Examinations. 2.5 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. 75% attendance of sessions (for face to face students) OR 75% completion of online modules (for online students)",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Either: 3 RANZCP Workplace Based Assessments (WBAs) by workplace supervisors ( OR 3 Workplace Practical Activity Log sheets (WPALs) to be completed by a suitable peer and checked by the subject coordinator after submission.",
+            "timing": "During the teaching period and up to two weeks after the subject has concluded",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "August - Online": [
+                {
+                    "Principal coordinator": "Mahesh Jayaram"
+                },
+                {
+                    "Coordinator": "Debra Menser"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "255 hours"
+                },
+                {
+                    "Pre teaching start date": "12 August 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period, students should familiarise themselves with the online platform and may like to take the opportunity to read through preliminary information about the subject and the services and support that is available to them. Students are encouraged to use this time to also introduce themselves to peers and teaching staff and to learn about those they will be studying with throughout the term."
+                },
+                {
+                    "Teaching period": "19 August 2024 to  8 November 2024"
+                },
+                {
+                    "Last self-enrol date": "13 August 2024"
+                },
+                {
+                    "Census date": "6 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "25 October 2024"
+                },
+                {
+                    "Assessment period ends": "9 December 2024"
+                }
+            ]
+        },
+        {
+            "August - On Campus": [
+                {
+                    "Coordinator": "Donovan Moncur"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "12 weeks x 3.5-hour seminars"
+                },
+                {
+                    "Total time commitment": "255 hours"
+                },
+                {
+                    "Teaching period": "19 August 2024 to  8 November 2024"
+                },
+                {
+                    "Last self-enrol date": "4 September 2024"
+                },
+                {
+                    "Census date": "13 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "1 November 2024"
+                },
+                {
+                    "Assessment period ends": "9 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "August": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Rundell J R, Wise M G (1999) Essentials of Consultation-Liaison Psychiatry, American Psychiatric Press, Washington DC"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available through theCommunity Access Program (CAP), subject to applicants meeting the entry requirements for the course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Students wishing to take this subject under Community Access must meet the course entry requirements to be eligible.",
+                    "Students wishing to take this subject under Community Access must meet the course entry requirements to be eligible."
+                ]
+            }
+        ]
+    }
+}

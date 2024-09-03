@@ -1,0 +1,215 @@
+{
+    "subject name": "Techniques in Molecular Science",
+    "subject code": "BCMB20005",
+    "subject availability": [],
+    "overview": [
+        "This is a subject suitable for students taking life science and biomedical subjects. It offers an introduction to the techniques used in many areas of molecular science.",
+        "Students taking the course will develop practical skills in the laboratory and an understanding of the techniques used in biochemistry and molecular biology to investigate biological problems.",
+        "Students will develop practical and research skills by exploiting the physico-chemical properties of molecules in a variety of experimental techniques, and interpreting the data they generate.",
+        "Students will apply these skills to the:",
+        "separation and characterisation of proteins; and",
+        "isolation, manipulation and characterisation of nucleic acids: and",
+        "examination of cellular structures.",
+        "Students will develop key scientific communication skills required to report on their practical work; as well as learning to relate theoretical principles to practical observations.",
+        "Online lectures will cover the theory of these standard laboratory techniques central to biochemistry and molecular biology and new methods driving the fields of genomics and proteomics."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "BIOL10004:\t\n\nBiology of Cells and Organisms"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BIOL10002",
+                    "BIOL10008",
+                    "BIOL10009"
+                ],
+                [
+                    "CHEM10003",
+                    "CHEM10004",
+                    "CHEM10006",
+                    ""
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Weekly MCQs on preparation for practical class. 15 minutes (each)",
+            "timing": "Weekly throughout the teaching period",
+            "percentage": "2.5%"
+        },
+        {
+            "description": "Assessed Practical performance. 800 words",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Weekly quizzes (10 MCQs per quiz). 10 minutes (each)",
+            "timing": "Throughout the teaching period",
+            "percentage": "6%"
+        },
+        {
+            "description": "Written reports based on experimental data (4 reports). 2000 words (total)",
+            "timing": "Throughout the teaching period",
+            "percentage": "47.5%"
+        },
+        {
+            "description": "Written final examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Continuous assessment through completion of an online Scientific Investigation module Continuous (3 x 1 hr modules embedded in class).. 3 hours",
+            "timing": "Throughout the teaching period",
+            "percentage": "9%"
+        },
+        {
+            "description": "Attendance-\r\n80% attendance at practical classes and tutorial sessions. Hurdle requirement:. Students who are absent for more than 20% of practical classes and/or tutorials in this subject might be ineligible for the final exam assessment (coordinator decision).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Amber Willems-Jones"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours per week of practicals, 1 hour per week online lecture, 2 hours per fortnight tutorial/workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "23 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Amber Willems-Jones"
+                },
+                {
+                    "Coordinator": "Alexander Rey"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours per week of practicals, 1 hour per week online lecture, 2 hours per fortnight tutorial/workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "19 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinator"
+                ],
+                "email": [
+                    "amber.willems@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "amber.willems@unimelb.edu.au",
+                    "rey.a@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Keith Wilson and John Walker,Principles and Techniques of Biochemistry and Molecular Biology, 6th Ed (2005) Cambridge University Press."
+                ]
+            }
+        ],
+        "Subject notes": [
+            [
+                "This subject is available for science credit to students enrolled in the BSc and BBiomed.",
+                "This subject is a specific prerequisite for completion of majors in Biochemistry and Molecular Biology, Pathology and the Biotechnology-Biochemistry stream.",
+                "If a BSc student wishes to complete a major in Biochemistry and Molecular Biology, they must complete this subject and\u2018Biochemistry and Molecular Biology\u2019 (BCMB20002)\u2019.",
+                "If a BBiomed student wishes to complete a major in Biochemistry and Molecular Biology, they must also complete\u2018Molecular and Cellular Biomedicine\u2019 (BIOM20001).",
+                "Students must enrol for one of the available laboratory days via the student portal before the start of the semester. Be aware that each day has limited places.",
+                "Students undertaking this subject are required to have regular access to an internet-enabled computer."
+            ]
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "quota subject - application deadline as perhttp://biomedicalsciences.unimelb.edu.au/study/current-student-information/quota-subjects",
+                    "quota subject - application deadline as perhttp://biomedicalsciences.unimelb.edu.au/study/current-student-information/quota-subjects"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

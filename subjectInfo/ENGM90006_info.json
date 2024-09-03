@@ -1,0 +1,130 @@
+{
+    "subject name": "Engineering Contracts and Procurement",
+    "subject code": "ENGM90006",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "Students will learn how to structure and work with engineering contracts to deliver and procure engineering outcomes in this subject. Students will develop a working knowledge of contract administration and gain an understanding of commercial aspects of engineering. All engineers interface commercially with engineering contracts throughout their careers, and thus the application of the subject content is broad. Those seeking to work as a contractor and as a contract administrator will find a direct application of this subject\u2019s content. Students will learn how to use procurement and contracts to develop successful engineering projects. This includes administration of the contracts and understanding the business environment where these contracts are agreed. These skills will be useful to students in their future work and apply to a wide range of engineering disciplines."
+    ],
+    "indicative content": [
+        "Management of engineering projects. This includes the role and responsibilities of corporate managers, market analysis, structuring of procurement options, development of contractual terms and conditions and the pricing of work.",
+        "Estimating and tendering engineering works via work breakdown structures, work method statements, risk identification and tendering principles. The study material also covers contract administration and project control functions and techniques including time and money negotiations and cash flow management."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Concurrent examination Task 1 - A limited-time written assignment (1200 words \u2013 48 hours time for the written assignment \u2013 25%). Intended Learning Outcomes (ILOs) 1 to 9 are addressed in this examination.. 48 hours",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Concurrent examination Task 2 \u2013 A 50-minute quiz (15%). \r\nThe first 50 minutes of the 48 hour exam period is allocated for this quiz.\r\nIntended Learning Outcomes (ILOs) 1 to 9 are addressed in this examination.. 50 minutes",
+            "timing": "During the examination period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written Assignment- a report of 1500 words (individual work)   Addressing ILOs 1, 2, 3, 4 and 6.. 30 hours",
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "description": "Participation and performance in a computer simulation exercise of running an engineering business. Addressing ILOs 1, 3, 4, 5 and 6.. 20 hours",
+            "timing": "From Week 5 to Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Six In class quizzes of 10 minutes.  Addressing  ILO's  1-8.. 12 hours",
+            "timing": "From Week 3 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "Perusall assignments (individual work).  \r\nAddressing ILO's 1-6.. 20 hours",
+            "timing": "From Week 1 to Week 10",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Robert Moehler"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours (Lectures/Tutorials: 3 hours per week)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Robert Moehler"
+                ],
+                "email": [
+                    "robert.moehler@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject is based principally on presentations by experienced industry and academic professionals who present the theory and practices of engineering procurement and contracts as illustrated by project case studies and example situations from real projects. A computer simulation game is undertaken whereby students compete by bidding for and managing projects as if they are the management team for a major contractor. This game is based on a UK company and provides key learning\u2019s and feedback on the interface between engineering contracting and corporate management. Students also critique a real Australian request for tender via an assignment.INDICATIVE KEY LEARNING RESOURCESExtensive course notes are provided on LMS.Australian Standard General Conditions of Contract provides a base document for the contract administrative section of the course and AS/NZS 4300 (the general conditions of contract for design and contract projects) is appropriate. This standard is available via the library using the database section of the library (search for SAI Global \u2013 Australian Standards and then follow prompt to 4300 via the standards search engine).CAREERS / INDUSTRY LINKSPresenters from industry provide insights via the case studies presented. The computer simulation is based on real industry practice and is the same simulation game run internationally for consultants and contractors. The main case study dissected throughout the subject is a real and current project."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

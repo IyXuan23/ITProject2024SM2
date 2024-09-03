@@ -1,0 +1,157 @@
+{
+    "subject name": "Vessels Nerves Lungs and Musculoskeletal",
+    "subject code": "MEDI90102",
+    "subject availability": [
+        "Semester 1 - Online",
+        "Semester 2 - Online"
+    ],
+    "overview": [
+        "In the subject, the student will learn about ultrasound assessment of lung and musculoskeletal ultrasound and learn how to perform ultrasound guided vascular access and nerve blocks"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MEDI90134",
+        "MEDI90135",
+        "MEDI90117",
+        "MEDI90118"
+    ],
+    "assessments": [
+        {
+            "description": "End of tutorial assessments - average of 10 questions at the end of each tutorial (approx. 100 questions in total). 100 minutes",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Case study quiz - answering 5 questions at the end of case studies (20 case studies in total) - totalling 100 questions. 100 minutes",
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "End of Semester Exam (50 questions). 100 minutes",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Practicum of a logbook of 50 cases. Hurdle requirement:. Practicum of a logbook of 50 cases during the semester",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - Online": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "30 hours for online study"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

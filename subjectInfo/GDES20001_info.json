@@ -1,0 +1,120 @@
+{
+    "subject name": "Graphic Design Studio 2: Image & Media",
+    "subject code": "GDES20001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The focus of this studio subject is the development of both design thinking and dexterity with tools, and an increased awareness of communication strategies and practices, \u2013 specifically the generation and articulation of design possibilities through a series of studio-based projects.",
+        "Through a study of visual design traditions using images, text and animated elements, drawing on visual cultural histories, students will expand their experience of communicating through image and text through a range of studio workshops to working with a range of design techniques and graphic methods. These workshops will be a combination of online contact time and independent study time.",
+        "Materials and SoftwareAdobe CC is required software for this subject. Please note that Adobe CC software is available in the labs on campus for all Breadth and Graphic Design students."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ARCH10001"
+                ],
+                [
+                    "FINA10026"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "GDES10001"
+                ]
+            ],
+            "additional pre-requisite": [
+                "FINA10040 Graphic Design Studio 1: Image and Text"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Project 1\r\nBook to Film - design a video artwork  (minimum 1 minute) using the supplied text as a starting point. 1000 words (equivalent)",
+            "timing": "Mid teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Project 2\r\nFilm to Book \u2013 using the video artwork from project 1, design and create a hardcopy book. 3000 words (equivalent)",
+            "timing": "During the assessment period",
+            "percentage": "75%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend 80% of scheduled classes and attempt all elements of assessment to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Amanda Morgan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising one 3-hour studio class per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Amanda Morgan:"
+                ],
+                "email": [
+                    "amanda.morgan1@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Materials and SoftwareAdobe CC is required software for this subject. Please note that Adobe CC software is available in the labs on campus for all Breadth and Graphic Design students."
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Design"
+            ]
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

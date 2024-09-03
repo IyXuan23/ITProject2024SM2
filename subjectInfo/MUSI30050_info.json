@@ -1,0 +1,172 @@
+{
+    "subject name": "Minor Music Performance 3",
+    "subject code": "MUSI30050",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "Students should have progressed at a level appropriate to their ability in the technical repertoire of the second instrument concerned.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Performance students:"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "Link to application form"
+            ],
+            "one of pre-requisite": [
+                [
+                    "MUSI20056",
+                    "MUSI30213"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Link to Enrolment Assistance form",
+                "Follow the link below to locate the Minor Music Performance application form, which must be completed in tandem with the Enrolment Assistance form.",
+                "Composition students:",
+                "A result of 75 or more in"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                "Link to application form"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Link to Enrolment Assistance form",
+                "Follow the link below to locate the Minor Music Performance application form, which must be completed in tandem with the Enrolment Assistance form."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "10-minute examination of approved technical repertoire. 2000 words (equivalent)",
+            "timing": "During the assessment period",
+            "percentage": "100%"
+        },
+        {
+            "description": "Hurdle requirement:. Satisfactory individual lesson teacher's report indicating progress made toward the examination",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum of 100% of all scheduled classes, rehearsals, and performances as directed.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "David Griffiths"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "30 hours, comprising one 30-minute individual lesson, and one 2-hour instrument class and/or concert practice class per week."
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "David Griffiths"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "30 hours, comprising one 30-minute individual lesson, and one 2-hour instrument class and/or concert practice class per week."
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "David Griffiths:",
+                    ""
+                ],
+                "email": [
+                    "griffithsd@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "David Griffiths:",
+                    ""
+                ],
+                "email": [
+                    "griffithsd@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

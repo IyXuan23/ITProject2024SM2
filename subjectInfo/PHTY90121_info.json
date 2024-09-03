@@ -1,0 +1,107 @@
+{
+    "subject name": "Lifespan Practice",
+    "subject code": "PHTY90121",
+    "subject availability": [
+        "Year Long (Extended)"
+    ],
+    "overview": [
+        "This subject, conducted in the clinical, community and university setting, will provide students with an opportunity to develop their clinical skills and to integrate their theoretical knowledge in lifespan (paediatric and gerontology) physiotherapy clinical practice. The emphasis in this subject is the application of clinical reasoning and evidence-based practice in the safe and effective management of individuals across the lifespan in the clinical setting. This includes working within a team to provide person and family-centred care."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHTY90117",
+                    "PHTY90089",
+                    "PHTY90090",
+                    "PHTY90091"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Paediatric Community Placement log. 16 hours. Hurdle requirement:. Students must complete Paediatric Community Placement log to pass subject",
+            "timing": "On completion of community placement hours",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Experiential Paediatric Clinical Placement: Assessed using Professional Behaviour Grading Form. 92 hours. Hurdle requirement:. Students must complete Experiential Paediatric Clinical Placement: to pass subject",
+            "timing": "End of paediatric clinical placement",
+            "percentage": "N/A"
+        },
+        {
+            "description": "ePortfolio task 1. 1500 words",
+            "timing": "End of paediatric clinical placement",
+            "percentage": "20%"
+        },
+        {
+            "description": "ePortfolio task 2. 1125 words",
+            "timing": "Submitted on completion of both clinical & community placements",
+            "percentage": "15%"
+        },
+        {
+            "description": "Gerontology placement: continuous clinical assessment using Assessment of Physiotherapy (APP) tool. 122 hours",
+            "timing": "End of gerontology clinical placement",
+            "percentage": "50%"
+        },
+        {
+            "description": "Gerontology Case Presentation. 10 minutes",
+            "timing": "During the last week of clinical placement",
+            "percentage": "15%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long (Extended)": [
+                {
+                    "Coordinators": "Kelly Bower and Tara Fitzgerald"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "304 hours"
+                },
+                {
+                    "Pre teaching requirements": "Students must submit valid pre-clinical documentation as listed in the course handbook page to administration staff by the deadline specified and communicated to students. Failure to submit these mandatory documents may result in students being unable to complete this subject."
+                },
+                {
+                    "Teaching period": "15 January 2024 to 15 November 2024"
+                },
+                {
+                    "Last self-enrol date": "26 January 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

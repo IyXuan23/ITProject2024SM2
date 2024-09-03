@@ -1,0 +1,126 @@
+{
+    "subject name": "Economic Evaluation 2",
+    "subject code": "POPH90095",
+    "subject availability": [
+        "February - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject is aimed at: consolidating student knowledge and skills of conventional microeconomic evaluation techniques covered in Economic Evaluation I; and giving students some hands-on practical experience in applying common methods and software used to undertake economic evaluations.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "POPH90093"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1:  Written assessment.  Due on the 5th day of teaching.. 1300 words",
+            "timing": "Day 5",
+            "percentage": "25%"
+        },
+        {
+            "description": "Assignment 2:  Written assessment.  Due 2 weeks after the end of teaching.. 1300 words",
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "25%"
+        },
+        {
+            "description": "Final Assignment due during the University's examination period.. 2400 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Coordinators": "Xinyang Hua and Tianxin Pan"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 30 March 2024"
+                },
+                {
+                    "Last self-enrol date": "4 March 2024"
+                },
+                {
+                    "Census date": "22 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "15 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [
+                    "",
+                    ""
+                ],
+                "email": [
+                    "tianxin.pan1@unimelb.edu.au",
+                    "xinyang.hua@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Gray, et.al. Applied Methods of Cost Effectiveness Analysis in Health Care, Oxford University Press 2011."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.mspgh.unimelb.edu.au"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

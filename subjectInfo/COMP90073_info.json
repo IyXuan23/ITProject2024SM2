@@ -1,0 +1,114 @@
+{
+    "subject name": "Security Analytics",
+    "subject code": "COMP90073",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "As we become more dependent on data in every aspect of our lives the task of protecting it and applications dependant on it becomes harder. The sheer quantity of data and sophistication of the attacks is rapidly making manual analysis infeasible. Security Analytics will examine how we can protect data and automate the analysis of data to better detect, predict and prevent privacy and security vulnerabilities."
+    ],
+    "indicative content": [
+        "The subject will first introduce the types of information leakage that can occur under several threat models and explore methods for protecting sensitive content during data analysis. The second part of the subject will introduce methods from machine learning that are widely used for cyber security analysis. Specific unsupervised machine learning techniques will be covered in more detail, which include methods for anomaly detection, alarm correlation and intrusion detection. The third part of the subject will introduce some of the theoretical challenges and emerging issues for security analytics research, based on recent trends in the evolution of security threats.",
+        "Indicative examples of the emerging challenges and issues that will be studied are privacy\u2010preserving analytics, adversarial machine learning, concept drift and new applications in monitoring critical infrastructure."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP30018",
+                    "COMP30027",
+                    "COMP90049"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Students must meet one of the following prerequisite options:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Programing and research-based project. 25 hours (of work required). Hurdle requirement:. A combined mark of at least 20/40 for both the projects.",
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Programing and research-based project. 40 hours (of work required). Hurdle requirement:. A combined mark of at least 20/40 for the projects.",
+            "timing": "Week 11",
+            "percentage": "25%"
+        },
+        {
+            "description": "One 2 hour end of semester written examination.. 2 hours. Hurdle requirement:. You must obtain 50% in the exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Sarah Monazam Erfani"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of  two 1 hour lectures and 1 tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Sarah Monazam Erfani"
+                ],
+                "email": [
+                    "sarah.erfani@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures and tutorials."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "subject name": "Architectural Engineering Thesis",
+    "subject code": "ABPL90390",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is the culmination of each student's studies in the Master of Architectural Engineering. It will offer a range of opportunities for students to demonstrate an original approach to research and design synthesising, in architecture and engineering. The capstone thesis is co-taught between the faculty of Architecture, Building and Planning and the Melbourne School of Engineering, providing an interdisciplinary environment for students. The subject is designed to provide students with an enriching experience that immerses them in a dual architectural-engineering research and design environment, fit for the double accreditation of their degree.",
+        "Students will be expected to demonstrate their aptitude to conduct research and contribute to the existing body of knowledge in architectural and engineering theory and practice.",
+        "The specific outputs of the thesis in terms of design and research will be determined on a case by case basis, with course coordinator approval."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ABPL90115",
+                    "ABPL90439"
+                ],
+                [
+                    "ABPL90143",
+                    "ABPL90438"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Interim project proposal presentation (intercrit 1) to supervisor(s) and jury panel of at least two other reviewers. Students will present the identified research gap, hypothesis and proposed methodology and data requirements (requiring 15 hours of work). 10 minutes",
+            "timing": "Week 4",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Mid-project report, outlining the context, literature review, methodology and method for the project, including feedback from Hurdle requirement 1 requiring 105 hours of work. 105 hours (of work required). Hurdle requirement:. A pass mark in this assessment",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Mid-project presentation to studio teacher and jury panel of at least two other reviewers (equivalent requiring 15 hours of work). Students will present their research work in progress comprising physical and digital models, drawings or animations, including results, as relevant to the individual project. 10 minutes. Hurdle requirement:. A pass mark in this assessment",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Interim project presentation (intercrit 2) to studio teacher and jury panel of at least two other reviewers (equivalent requiring 15 hours of work). Students will present their research work in progress comprising physical and digital models, drawings or animations, including results, as relevant to the individual project. 10 minutes",
+            "timing": "Week 9",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Final project presentation\u00a0to studio teacher and jury panel of at least two other reviewers and hand-in of all\u00a0design\u00a0material (large-scale drawings/models/animations) produced\u00a0during the\u00a0semester.\u00a0The presentation takes 10 mins,\u00a0followed by\u00a015-20 mins defense in front of the jury panel,\u00a0equivalent requiring 15 hours of work). Students will present and hand in their research comprising physical and digital models, drawings or animations, including results, as relevant to the individual project (equivalent requiring 70 hours of work). 25-30 minutes (total)",
+            "timing": "Week 14",
+            "percentage": "40%"
+        },
+        {
+            "description": "Final report incorporating revised sections of the Mid-project report, Requiring approximately 160 hours of work. 160 hours (of work required)",
+            "timing": "Week 14",
+            "percentage": "40%"
+        },
+        {
+            "description": "Individual journal containing reflections on the research process and progress, and the development of graduate attributes, presented in 3 individual journal entries totalling approximately 1000 words over the project period (start, mid-semester and end), and requiring about 10 hours of reflection, investigation and writing. 1000 words (equivalent). Hurdle requirement",
+            "timing": "Week 14",
+            "percentage": "N/A"
+        },
+        {
+            "description": "A weekly factual record of project progress including items such as\u00a0key decisions and resources used, requiring about 10 hours work, weeks 1- 12. 10 hours (of work required). Hurdle requirement",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Dominik Holzer"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "72 hours  Studios"
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Dominik Holzer"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "72 hours"
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "dominik.holzer@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "dominik.holzer@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Specified on a case by case basis."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Teaching methods:Weekly research methods information sessions plus regular (dual) supervisor meetings for both the architecture and engineering components."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

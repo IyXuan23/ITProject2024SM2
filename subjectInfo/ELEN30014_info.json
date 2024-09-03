@@ -1,0 +1,131 @@
+{
+    "subject name": "Analog and Digital Electronics Concepts",
+    "subject code": "ELEN30014",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject develops a fundamental understanding of the concepts behind and tools used for the analysis and design of analog and digital electronic systems. This is one of four subjects that define the Mechatronics Systems major in the Bachelor of Science and it is a core requirement of the Master of Engineering (Mechatronics).INDICATIVE CONTENT",
+        "Topics include:",
+        "Analog systems - time-domain differential equation models of RLC networks, initial conditions, transient response, transfer functions, frequency response, passive filters, impedance functions, two-port networks and dependent sources and matrix circuit representations, op-amp models.",
+        "Digital systems \u2013 encoding information and digital data processing, CMOS realisation of basic logic gates, timing contracts, acyclic networks, switching algebra, combinational logic synthesis, cyclic networks and memory, finite-state machines, metastability, synchronous timing and synchronisation, data-processing paths, control logic and stored-program machines.",
+        "Aspects of these topics will be explored through laboratory work involving simulation tools and hardware experiments."
+    ],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ELEN20005"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Graduate Students:",
+                "Admission into the MC-MTRNENG Master of Mechatronics Engineering",
+                "Undergraduate Students:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ELEN30009",
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "One written examination. 3 hours. Hurdle requirement:. Students must pass the end-of-semester written exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "Continuous assessment of quizzes, submitted assignments, tutorial, laboratory, and small group (2-3 students) project work, not exceeding 30 pages in total over the semester. 30-35 hours (of work required)",
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "A mid-semester test.. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Gavin Buskes"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 x 1 hour lectures and 12 x 2 hour workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "g.buskes@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "The subject is delivered through a combination of lectures and workshop classes for hands-on laboratory activities."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

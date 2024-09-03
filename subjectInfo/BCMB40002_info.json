@@ -1,0 +1,111 @@
+{
+    "subject name": "Biochemistry & Pharmacology Coursework",
+    "subject code": "BCMB40002",
+    "subject availability": [
+        "February"
+    ],
+    "overview": [
+        "Students undertaking this subject must complete three modules. The first module will introduce the concept of modern biomedical research through a number of breakthrough publications in the biochemistry and pharmacology fields. Students will learn how to communicate the significance of these publications to a non-specialist but scientifically educated audience in the written form.",
+        "A second professional skills module will teach students skills in scientific communication. Students will prepare an abstract and poster describing a methodology used in biochemistry or pharmacology research, discussing the contents of the poster with their peers.",
+        "A third module will cover frontier topics in biochemistry and analytical pharmacology. There will be lectures from experts in the field and students will learn how to critically evaluate scientific manuscripts, design experiments and implement appropriate statistical approaches.",
+        "This subject is taken together with BIOM40001 Introduction to Biomedical Research."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "BH-BMED Bachelor of Biomedicine (Degree with Honours)",
+                "BH-SCI Bachelor of Science (Degree with Honours)",
+                "MC-BMEDSC Master of Biomedical Science"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Take-home exam. 2000 words",
+            "timing": "Week 1 of Semester 1",
+            "percentage": "40%"
+        },
+        {
+            "description": "Abstract and poster, and 10 min Q&A oral defence of poster. 1250-2000 words",
+            "timing": "Week 3 of semester 1",
+            "percentage": "40%"
+        },
+        {
+            "description": "Essay. 1000 words",
+            "timing": "Week 5 of Semester 1",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Principal coordinator": "Graham Mackay"
+                },
+                {
+                    "Coordinator": "Michael Menden"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 hour tutorial in week 1, 15 hours of lectures daily across the first 2 weeks of the teaching period, 8 hours of online lectures to be viewed within the teaching period."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "12 February 2024 to 15 March 2024"
+                },
+                {
+                    "Last self-enrol date": "19 February 2024"
+                },
+                {
+                    "Census date": "23 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "8 March 2024"
+                },
+                {
+                    "Assessment period ends": "29 March 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [],
+                "email": [
+                    "gmackay@unimelb.edu.au",
+                    "michael.menden@unimelb.edu.au",
+                    "Current students",
+                    "Past students, future students, general enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.biochemistry.unimelb.edu.au/"
+        ]
+    }
+}

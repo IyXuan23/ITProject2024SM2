@@ -1,0 +1,132 @@
+{
+    "subject name": "Bioinstrumentation",
+    "subject code": "BMEN90033",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject teaches the fundamental theory, design and operational principles of biomedical instrumentation and measurement systems for the design of electronics for measurement and analysis of physiological parameters of the body and organs. The subject provides theory and practical exposure to understanding the basis of physiological signals and analysing biomedical signals, including hands-on experience in designing and building bioinstrumentation systems that can measure biological signals. Students will be introduced to medical devices, design principles, biomedical signals, biomedical instrumentation circuits and electrical safety and systems. These topics will be complemented by exposure to software tools for electronic circuit simulation and design. The subject is taught in a flipped classroom format and comprises: pre-tutorial reading, tutorials requiring student participation, guided workshops on using biosensors and transducers and individual self-paced project work.",
+        "Please view this video for further information:Bioinstrumentation"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BMEN30008"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Completion of prescribed reading, completion of tutorials and workshops. ILOs 1 and 2 are addressed in this assessment. 6 hours of work per week.. 60 hours (of work required)",
+            "timing": "From Week 2 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "Individual project ePortfolio comprising\r\n1) Design proposal (500 words; weighing 10%; due Week 4) 2) Design History (50 -200 words per week; 20%; due Week 6-12) \r\n3) Results Summary (800 words; weighing 15%; due during Exam Period) \r\nIntended Learning Outcomes (ILOs) 1-4 are addressed in this assessment.. 2700 words (total)",
+            "timing": "Throughout the semester",
+            "percentage": "45%"
+        },
+        {
+            "description": "Oral examination (Viva Voce): 15 minutes. ILOs 1-4 are addressed in this assessment.. 15 minutes. Hurdle requirement:. Students must pass the oral exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Sam John"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 1.5-hour of interactive discussion forums for 12 weeks, 1 x 1.5-hour tutorial per week for 10 weeks (Weeks 2-11) and 1 x 2-hour workshop per week for 10 weeks"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Pre teaching requirements": "Refresh content from pre-requisite subjects and complete canvas modules on the pre-requisite subject content in preparation for the subject"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Sam John"
+                ],
+                "email": [
+                    "sam.john@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Webb, Andrew G. (2018)Principles of Biomedical InstrumentationCambridge University Press ISBN 978-1-107-11313-8"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Enderle, J (2006)BioinstrumentationMorgan & Claypool Publishers",
+                    "Webster, J (ed) (2004)BioinstrumentationJohn Wiley & Sons",
+                    "Webster, J (ed) (2010)MedicalinstrumentationJohn Wiley & Sons, 4th edition",
+                    "Rangayyan, R (2015)Biomedical Signal AnalysisJohn Wiley & Sons, 2nd edition",
+                    "Hayes, T (2016)Learning the Art of ElectronicsCambridge University Press",
+                    "Hambley, A (2011)Electrical EngineeringPearson, 5th edition",
+                    "Nilsson, J, Riedel, S (2015)Electric CircuitsPearson, 10th edition",
+                    "Sedra, A: Microelectronic circuits Oxford University Press"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThis subject is delivered through online collaborative reading, in-class group discussions,  tutorials, hands-on workshop/laboratory activities, and self-paced individual project work.",
+            "INDICATIVE KEY LEARNING RESOURCESStudents are provided with discussion group online multimedia materials, electronic resources, industry-standard engineering software and hardware tools, project specifications, component specifications and reference lists.",
+            "CAREERS / INDUSTRY LINKSExposure to the biomedical industry through industry-sourced projects, including guest lectures or industry visits or virtual hospital tours."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

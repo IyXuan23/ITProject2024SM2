@@ -1,0 +1,119 @@
+{
+    "subject name": "Music Theatre Studio 4",
+    "subject code": "MUST20015",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject will further explore a range of stimulus requiring physical and vocal adjustments to best serve a breadth of narratives.",
+        "Students will expand on established technical skills across the three disciplines of acting, singing and dancing from Music Theatre Studio 3 to adapt their individual professional instrument to incorporate style and character as required by given texts and choreography through performance.",
+        "Classes will include acting, spoken-voice, dance techniques, solo singing and singing repertoire classes. Through skills-based performances and reflection, students will develop advanced knowledge of acting, singing, and dancing."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MUST20012",
+                    "MUST20013"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MUST20001 Dance Skills 3",
+        "MUST20002 Acting Skills 3",
+        "MUST20003 Voice Skills 3",
+        "MUST20005 Voice Skills 4"
+    ],
+    "assessments": [
+        {
+            "description": "Technical Skills Presentation (MT Dance Technique) 20-30 minutes group presentation requiring approximately 30 hours of work to complete. 20-30 minutes",
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "Skills Presentation (Repertoire, Spoken Voice) accumulative 30-40 minutes solo and group presentation requiring approximately 60 hours of work to complete. 30-40 minutes",
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "description": "Formal Skills Presentation (Acting, One to One Singing, MT Dance Choreography) accumulative 40 minutes of solo and group presentations requiring approximately 80 hours of work to complete. 40 minutes",
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "description": "Reflection Report. 1200 words",
+            "timing": "During the examination period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum of 75% of all scheduled classes and submit all elements of assessment to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Lyndall Dawson"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "195 hours, comprising 2.75 hours of Singing (one 45-minute Individual Lesson; one 2-hour Spoken Voice class), 4 hours of Acting (one 2-hour Shakespeare class; one 2-hour Scene Study class), 7 hours of Dance (two 1.5-hour Ballet classes; two 1.5-hour Jazz classes; one 1-hour Tap class) per week for 12 weeks, one 1-hour Acting (Audition) class per fortnight, and six 2-hour Repertoire Classes during weeks 7 to 12."
+                },
+                {
+                    "Total time commitment": "408 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Lyndall Dawson:",
+                    ""
+                ],
+                "email": [
+                    "lyndall.dawson@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

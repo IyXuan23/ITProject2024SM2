@@ -1,0 +1,125 @@
+{
+    "subject name": "Epidemiology in Practice",
+    "subject code": "POPH90243",
+    "subject availability": [
+        "February - Dual-Delivery"
+    ],
+    "overview": [
+        "Within \u2018Epidemiology in Practice\u2019 students will work to address issues in health and public health by learning and applying epidemiological concepts. Students will learn systematic review and meta-analysis methodology through undertaking a small systematic review and meta-analysis, and then making policy recommendations. Students will also learn questionnaire development principles and apply these principles in developing and piloting their own questionnaire.",
+        "In the second half of the subject, students will apply the concepts and methods involved in developing studies to assess the validity of questionnaires and tests to real-world examples in health/public health. The purpose and evaluation of screening programs will be discussed and applied to current controversies in screening. Lastly, students will learn about the role of natural experiments and how these study designs can be used to answer policy-relevant questions in public health."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "POPH90013",
+                    "POPH90014"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Oral Presentation (3 to 4 students per group) assessed as a group. 15 minutes",
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written assessment. 1750 words",
+            "timing": "Week 6",
+            "percentage": "35%"
+        },
+        {
+            "description": "Written assessment. 2000 words",
+            "timing": "4 Weeks after the end of teaching",
+            "percentage": "40%"
+        },
+        {
+            "description": "Video individual presentation. 5 minutes",
+            "timing": "4 Weeks after the end of teaching",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Coordinator": "Melissa Russell"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "5 February 2024"
+                },
+                {
+                    "Pre teaching requirements": "Completion of online material prior to the week 1 tutorials"
+                },
+                {
+                    "Teaching period": "12 February 2024 to 12 April 2024"
+                },
+                {
+                    "Last self-enrol date": "6 February 2024"
+                },
+                {
+                    "Census date": "1 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "12 April 2024"
+                },
+                {
+                    "Assessment period ends": "10 May 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [],
+                "email": [
+                    "melissar@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Students need to purchase the Stata statistical software package Survey Design and Analysis Services Pty Ltdwww.survey-design.com.au"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "The statistical software Stata is required to be purchased by students in this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

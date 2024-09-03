@@ -1,0 +1,150 @@
+{
+    "subject name": "Biological Psychology",
+    "subject code": "PSYC20006",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject studies the relationship between brain mechanisms and behaviour. Its major aim is to develop an appreciation of the neurobiological basis of psychological function and dysfunction via two approaches. The first emphasises a top-down method that links psychological functions to their biological substrates. Neuroscientific research techniques and what they can reveal about psychological function are emphasised. These techniques are presented within an historical context, beginning with transcranial magnetic stimulation (TMS), continuing with electroencephalography (EEG) and functional magnetic resonance imaging (fMRI), and finishing with modern molecular genetic techniques. The second approach emphasises a bottom-up approach including the topics of brain genetics and development, neurons and neural circuits, neurotransmission and neurotransmitter substances, and the structurofunctional properties of selected brain regions. Neurobiological principles are illustrated using conditions with abnormal neuronal function. The third approach combines the top-down and bottom-up approaches to demonstrate how combining knowledge of cognitive theory and structurofunctional properties of the brain enables diagnosis and interpretation of pathological conditions. Case studies are used to illustrate this approach.",
+        "",
+        "A quantitative methods component will be integrated into the lecture, tutorial and assessment structure of this subject. The aim is to provide an understanding of, and practical experience with, the appropriate experimental design and statistical analysis techniques used to evaluate hypotheses in Biological Psychology."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "512222 Behavioural Neuroscience 2",
+        "512225 Biological Psychology"
+    ],
+    "assessments": [
+        {
+            "description": "3 x Revision Quizzes. Each quiz contains 10 multiple-choice questions focusing on content delivered in recent lectures.. 10 minutes (each)",
+            "timing": "At equal intervals throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "An examination. 1.5 hours",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "description": "An assignment. 1500 words",
+            "timing": "From Week 7 to Week 11",
+            "percentage": "40%"
+        },
+        {
+            "description": "An online module. 500 words (equivalent)",
+            "timing": "From Week 4 to Week 7",
+            "percentage": "0%"
+        },
+        {
+            "description": "Attendance of at least 80% of laboratory classes.. Hurdle requirement:. In case of failure to meet the attendance requirement, additional work related to the missed class activities (e.g., an essay whose length is 500 words for each tutorial missed) will be required before a passing grade can be awarded.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Xue Jun Cheng"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 contact hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "xue.cheng@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Carlson, N.R., &BirkettM.A.(2016).Physiology of Behavior(12thed.).Pearson;",
+                    "Op de Beeck, H., & Nakatani, C. (2019). Introduction to Human Neuroimaging. Cambridge University Press;",
+                    "andGravetter, F.J., & Wallnau, L.B. (2017). Statistics for The Behavioral Sciences (10th ed.). Cengage Learning."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "subject coordinator approval required",
+                    "subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

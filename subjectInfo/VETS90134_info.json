@@ -1,0 +1,101 @@
+{
+    "subject name": "Vet Bioscience: Nervous System",
+    "subject code": "VETS90134",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject continues the integrated and inter-disciplinary approach to the study of organ function and dysfunction in animals that was introduced in year one of the DVM course. Building on students\u2019 prior knowledge of body system function and dysfunction and their experience of scientific and clinical reasoning, this subject introduces students to the structure and normal functioning of the nervous, ocular and auditory systems, and to the principles of dysfunction of these systems. Students learn about pharmacology and therapeutics as they relate to this system. Using case-based teaching approaches, they will apply their understanding of organ and system function and dysfunction to authentic situations that enhance the development of integrative clinical reasoning abilities, and to analysis of cases that involve multiple organ perturbation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "VETS90129"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "Written test. 1 hours",
+            "timing": "Mid semester (Week 5\u20107)",
+            "percentage": "35%"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "65%"
+        },
+        {
+            "description": "Aggregate Mark. Hurdle requirement:. Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinators": "Panos Loukopoulos and Andrew Stent"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "43 hours of lectures, practical classes and case studies"
+                },
+                {
+                    "Total time commitment": "100 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "panos.loukopoulos@unimelb.edu.au",
+                    "andrew.stent@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

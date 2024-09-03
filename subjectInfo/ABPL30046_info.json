@@ -1,0 +1,148 @@
+{
+    "subject name": "Steel and Concrete Structural Systems",
+    "subject code": "ABPL30046",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject was formerly known as Structures and Construction Systems.",
+        "Commercial construction can take many forms and often includes a multitude of complex systems with specific plant and equipment requirements. These commercial buildings can include high, medium or low rise office or apartment buildings, hospitals and institutional buildings, shopping centres, sporting facilities and warehouse industrial sheds. Each project has characteristic structural forms and resultant methods of construction. This subject investigates the various structural design concepts and their influence on construction. The topics covered include the interpretation of steelwork drawings and specifications, steel frame buildings and wide span industrial sheds, warehouse concrete pavements, basement construction and site retention methods, piling systems and construction methods to suit various geotechnical conditions, tilt slab construction methods and precast concrete building systems. Construction detailing and constructability are the key issues covered within each topic, together with organisation of the construction process and hybrid construction systems.",
+        "Incidental costs",
+        "Students will be required to purchase personal protective equipment (steel-toed boots, hard-hat, hi-vis vest and safety goggles); cost approx. $80 to $120 per person. Students may use equipment from a previous subject if these are in good working condition"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ABPL10005",
+                    "ABPL20053"
+                ],
+                "Students admitted to all other degrees:",
+                [
+                    "ABPL20053"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students admitted to the Bachelor of Design:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1: Design a construction system for either a steel frame, steel portal frame, or industrial ground slab. 700 words (equivalent)",
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assignment 2: Design a construction method for a precast, post-tensioned or composite concrete structures system. 700 words (equivalent)",
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written exam. 3 hours. Hurdle requirement:. A minimum mark of 40% must be achieved in the examination in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Vidal Paton-Cole"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours of lectures( 1X2 hour and 1X 1hour)  and 1 x 1 hour of tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinator"
+                ],
+                "email": [
+                    "vidal.paton@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Course notes / reader available from the university bookshop"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students undertaking this subject will be expected to regularly access an internet-enabled computer primarily for technical construction product information and for the LMS."
+        ],
+        "Incidental costs": [
+            "Students will be required to purchase personal protective equipment (steel-toed boots, hard-hat, hi-vis vest and safety goggles); cost approx. $80 to $120 per person. Students may use equipment from a previous subject if these are in good working condition"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "subject name": "Advanced Methods: Transforms",
+    "subject code": "MAST90067",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject develops the mathematical methods of applied mathematics and mathematical physics with an emphasis on integral transform and related techniques. An introduction is given to the calculus of variations and the Euler-Lagrange equation. Advanced complex contour integration techniques are used to evaluate and invert Fourier and Laplace transforms. The general theory includes convolutions, Green\u2019s functions and generalized functions. The methods of Laplace, stationary phase, steepest descents and Watson\u2019s lemma are used to asymptotically approximate integrals. Throughout, the theory is set in the context of examples from applied mathematics and mathematical physics such as the brachistochrone problem, Fraunhofer diffraction, Dirac delta function, heat equation and diffusion."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST30021"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST20030"
+                ]
+            ],
+            "additional pre-requisite": [
+                "MAST30029 Partial Differential Equations (pre-2014)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "No disallowed subject combinations among new-generation subjects."
+    ],
+    "assessments": [
+        {
+            "description": "Up to 50 pages of written assignments (two assignments worth 20% each, due mid and late in semester). 50 pages",
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Nick Beaton"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "nrbeaton@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Carl M. Bender and Steven A. Orszag, Advanced mathematical methods for scientists and engineers: Asymptotic methods and perturbation theory. Springer. (1999).George F. Carrier, Max Krook, and Carl E. Pearson, Functions of a Complex Variable: Theory and Technique, SIAM (2005)."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

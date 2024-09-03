@@ -1,0 +1,120 @@
+{
+    "subject name": "Orthodontics 1",
+    "subject code": "DENT90093",
+    "subject availability": [
+        "Year Long (Extended)"
+    ],
+    "overview": [
+        "This subject provides the basis for the study of orthodontics, the specialty of dentistry that is concerned with the study and treatment of malocclusions, which may be a result of tooth irregularity and/or disproportionate jaw relationships.",
+        "Learning is achieved through a series of weekly seminars as well as clinical placements. The subject introduces a student to all aspects of orthodontic treatment and inter-disciplinary management of patients.  Clinical training commences at the Royal Dental Hospital of Melbourne and the Melbourne Dental Clinic under the guidance of experienced orthodontists.  A student will begin to participate in regular meetings and interdisciplinary clinical sessions with members of the surgical teams at RMH. Other interdisciplinary meetings within the Dental School are regularly scheduled.",
+        "Each student is allocated roughly 50 new cases at the commencement of the course, including orthognathic surgery patients.  At the end of the year, each student also receives transfer cases. Students treat a variety of cases with different malocclusion types and of different ages.",
+        "All students attend weekly diagnosis and treatment planning sessions of student and unseen cases to foster collegiate interaction and friendly debate on treatment options.",
+        "The theoretical teaching covers a broad range of topics scheduled on cyclical rotation over the three years of the course and based on a review of the research literature. Students from all three years of the course attend all seminars. Students are assigned seminar topics on a roster at the beginning of the year and are required to research and present these topics to the class.",
+        "DDS Teaching RequirementAll students are required to conduct seminars for the Doctor of Dental Surgery students of roughly 24 hours annually. This is undertaken in the second half of each year."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Must be taken in linear numerical order : i.e. Orthodontics 1 \u2013 Orthodontics 3"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "2 X surgical orthodontic presentations (30 mins each). 60 minutes (total)",
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "description": "Pre-clinical Course \u2013 students will be taught and then assessed on wire bending, cephalometric analysis, photography and basic orthodontics. Hurdle requirement:. Overall pass required",
+            "timing": "February",
+            "percentage": "5%"
+        },
+        {
+            "description": "2 x written exams (3 hrs each) OR 1 x written exam (3 hrs) and a series of bone biology tests. 3-6 hours. Hurdle requirement:. Overall pass required",
+            "timing": "Mid Year",
+            "percentage": "20%"
+        },
+        {
+            "description": "2 x written exams. 6 hours. Hurdle requirement:. Overall pass required",
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "3 x seminar presentations with preparation of substantial handout on the assigned topic (2 hrs each). 6 hours. Hurdle requirement:. Overall pass required",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "2 X paediatric dentistry/orthodontic presentations. 30 minutes",
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "description": "Clinical Demonstrator assessment, Mid & End Year. Hurdle requirement:. Overall pass required",
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Hurdle requirement:. 100% Attendance for all Seminars & Clinical Sessions, including rostered On-Call Sessions, throughout the year (pass/fail)",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long (Extended)": [
+                {
+                    "Principal coordinator": "Paul Schneider"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1224 Hours Indicative"
+                },
+                {
+                    "Total time commitment": "1,224 hours"
+                },
+                {
+                    "Pre teaching start date": "4 December 2023"
+                },
+                {
+                    "Pre teaching requirements": "Read Proffitt textbook. Study DDS online orthodontics modules. Install QuickCeph on MacBook and start reading online documentation to learn program. Become familiar with camera."
+                },
+                {
+                    "Teaching period": "22 January 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "15 December 2023"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

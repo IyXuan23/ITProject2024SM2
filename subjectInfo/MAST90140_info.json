@@ -1,0 +1,113 @@
+{
+    "subject name": "Causal Inference",
+    "subject code": "MAST90140",
+    "subject availability": [
+        "Semester 1 - Online"
+    ],
+    "overview": [
+        "This unit covers modern statistical methods for assessing the causal effect of a treatment or exposure from randomised or observational studies.  The unit begins by explaining the fundamental concept of counterfactual or potential outcomes and introduces causal diagrams and directed acyclic graphs (DAGs) to identify visually confounding, selection and other biases that prevent unbiased estimation of causal effects. Key issues in defining causal effects that can be estimated in a range of contexts are presented using the concept of the \u201ctarget trial\u201d to clarify exactly what the analysis seeks to estimate. A range of statistical methods for analysing data to produce estimates of causal effects are then introduced. Propensity score and related methods for estimating the causal effect of a single time point exposure are presented, together with extensions to longitudinal data with multiple exposure measurements, and methods to assess whether the effect of an exposure on an outcome is mediated by one or more intermediate variables. Comparisons will be made throughout with \u201cconventional\u201d statistical methods. Emphasis will be placed on interpretation of results and understanding the assumptions required to allow causal conclusions. Stata and R software will be used to apply the methods to real study datasets."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST90100"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST90102",
+                    "POPH90144"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A 10-20-minute recorded presentation in which causal concepts are to be discussed. 1000 words (equivalent)",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Theoretical and practical exercises, and a written report, that allows demonstration of the understanding of concepts, the application of these concepts and interpretation of results. 1500 words",
+            "timing": "From Week 7 to Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "Theoretical and practical exercises. 1000 words",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "A written report covering a practical problem that allows demonstration of the understanding of concepts, the application of these concepts and interpretation of results. Presentation of results is in a format suitable for a journal publication.. 1500 words",
+            "timing": "From Week 12 to Week 14",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinator": "John Carlin"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "jbcarlin@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is delivered online via our partners in the Biostatistics Collaboration of Australia (www.bca.edu.au). It is not generally available in the Master of Public Health nor in any program outside the MSPGH."
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "subject name": "Landscape Practice",
+    "subject code": "ABPL90048",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject covers the documentation and professional practice responsibilities involved with the development of landscape architectural projects and related disciplines.",
+        "Prescribed software toolsDrafting software (e.g. Autodesk AutoCAD)Image editing softwareVector editing softwareLayout softwareDetails of software availability and pricing are captured at:https://msd.unimelb.edu.au/current-students/student-experience/it-support",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-ARCLARC Master of Architecture/Master of Landscape Architecture"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "702-405 (ABPL40004) Architectural Practice B (UG)",
+        "ABPL40025"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment 1, explores the identity and professional practice of landscape architecture, its code, ethics and modes of operation in a variety of spheres (individual work). 1000 words",
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment 2, examines the landscape architectural office environment from an administrative, managerial, construction, technology perspective, including the system of professionals in which it is positioned. Individual work 1500 words group work 500 words. 2000 words (equivalent)",
+            "timing": "Week 7",
+            "percentage": "40%"
+        },
+        {
+            "description": "Assignment 3, analyses standard, techniques and processes of revision in the design and documentation of landscape architectural projects (individual work). 2000 words (equivalent)",
+            "timing": "Week 11",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance in 75% of the classes is a mandatory requirement",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Ray Green"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Subject coordinator"
+                ],
+                "email": [
+                    "rjgreen@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

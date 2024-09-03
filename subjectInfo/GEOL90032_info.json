@@ -1,0 +1,96 @@
+{
+    "subject name": "Introduction to Mineralogy",
+    "subject code": "GEOL90032",
+    "subject availability": [
+        "October"
+    ],
+    "overview": [
+        "This is a 5-day course of lectures, practical sessions, and laboratory visits focussed on modern mineral identification techniques. The course will include demonstrations of X-ray diffraction (XRD), scanning electron microscopy (SEM), and electron microprobe analysis (EMPA). A revision of basic mineralogy concepts will be provided, before visiting Melbourne Museum to use some of the museum's mineralogy facilities (including the XRD) and a tour of the museum's mineral collection provided by the museum's senior geoscience curator. At the University of Melbourne, students will be introduced to in-house analysis techniques (e.g. SEM, EMPA, ICP-MS, micro-CT), taught how to evaluate the quality of resultant data, and how such data should be presented."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "4 x short daily quizzes",
+            "timing": "",
+            "percentage": "40%"
+        },
+        {
+            "description": "1 x comprehensive final exam to be held on the last day of the teaching period. 2 hours",
+            "timing": "End of the teaching period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "October": [
+                {
+                    "Principal coordinator": "Helen Green"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total of 40 contact hours over 5 days: x4hrs lectures & x4hrs practicals and/or lab demonstrations per day"
+                },
+                {
+                    "Total time commitment": "75 hours"
+                },
+                {
+                    "Pre teaching requirements": "During this pre-teaching period, students are required to complete pre-readings."
+                },
+                {
+                    "Teaching period": "14 October 2024 to 18 October 2024"
+                },
+                {
+                    "Last self-enrol date": "15 October 2024"
+                },
+                {
+                    "Census date": "15 October 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "17 October 2024"
+                },
+                {
+                    "Assessment period ends": "18 October 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Pre-reading to be completed in the pre-teaching period."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

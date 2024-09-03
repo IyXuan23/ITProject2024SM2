@@ -1,0 +1,118 @@
+{
+    "subject name": "Data Analysis",
+    "subject code": "BUSA90061",
+    "subject availability": [
+        "April"
+    ],
+    "overview": [
+        "Contemporary business is awash in data. Modern businesses\u2019 business processes and activities usually involve multiple streams of data from areas as diverse as marketing activities, operational processes and financial activities. Therefore, managers are frequently confronted with how to harness these to understand their business better, so that they can make more informed decisions. Data analysis is the process of converting such raw data into meaningful information to inform business decision-making.",
+        "This subject provides an introduction to the fundamental data analysis skills and techniques that are used in contemporary business and management. These skills are essential both for later MBA subjects, and also for solving managerial problems in your later career. The course is computer based and students are required to perform all manipulations and computations themselves."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "BUSA90480",
+                    "BUSA90481"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "One of:\nBUSA90351   BUSA90350   BUSA90352   BUSA90354   BUSA90353"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Contribution to class learning",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Personal reflection of learning through case discussion. 1500 words",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Syndicate assignment report (equivalent of individual 600 words). 600 words (each)",
+            "timing": "Day 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final Syndicate project report (equivalent of individual 1,200 words) and presentation (equivalent of individual 500 words). 1700 words (equivalent)",
+            "timing": "Day 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "End-of-semester examination. 90 minutes. Hurdle requirement:. Students need to pass the final exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "April": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "4 March 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during the pre-teaching period"
+                },
+                {
+                    "Teaching period": "4 April 2024 to  5 May 2024"
+                },
+                {
+                    "Last self-enrol date": "11 March 2024"
+                },
+                {
+                    "Census date": "5 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "19 April 2024"
+                },
+                {
+                    "Assessment period ends": "5 May 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students admitted to GD-BA, MC-BAPT, MC-BAPTME, 294PN, or students with permission of the MBA course coordinator"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "subject name": "Transport Systems",
+    "subject code": "CVEN90048",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The aim of this subject is to provide students with an introduction to urban traffic engineering and transport planning principles. General theory as well as analytical techniques for solving common transport engineering and modelling problems are presented. The key theme in this subject is how to improve the efficiency and sustainability of transport systems. This includes basics of traffic flow theory, simulation, and operation models, and understanding and predicting travel demand in urban transport networks. Behavioural choice modelling methods are used with real data from the Melbourne Metropolitan Area to predict demand for all modes of transport including public transport and non-motorised transport modes. The concepts of accessibility, efficiency and sustainability are introduced in the context of urban transport systems, and transport safety measures and best practices are also introduced."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Weekly reports on individual assignments of 2 hours each (x10), and 100 words each (x10), for 1.5% each (x10). Intended Learning Outcomes 1-6 are addressed in this assessment.. 20 hours (of work required)",
+            "timing": "From Week 2 to Week 11",
+            "percentage": "15%"
+        },
+        {
+            "description": "Group Project (group project with software, and programming models). Report from each group, with a workload per student equivalent to 2000 words, 45 hours per student. ILOs 2-5 are addressed in this assessment.. 45 hours (of work required)",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "35%"
+        },
+        {
+            "description": "Final examination. ILOs 1-6 are addressed in this examination.. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Neema Nassir"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours (Lectures: 2 hours per week; Tutorials: 2 hours per week)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Neema Nassir"
+                ],
+                "email": [
+                    "neema.nassir@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "Key learning and teaching methods include:",
+            "Lectures and large-group discussion of core themes and concepts. These are delivered by academic staff members. Lectures draw on real world case studies, key policy reference points and the introduction and description of basic analytical procedures or calculations. Lecturers employ multimedia, public speaking, and Socratic dialogue methods. Two hours of lectures are offered for each week of the academic program.",
+            "Engagement with required and suggested readings and information sources. Readings and information sources cover a mixture of policy documents, journal papers, online references and databases, government reports or guidelines, and other textual resources. Students are expected to undertake between 1-2 hours per week of reading and resource review to support concept acquisition and knowledge contextualisation, as well as to assist with execution of tutorial exercises, assignment work, and exam.",
+            "Tutorial and tutorial exercises in smaller-group format. This approach includes classic Q&A and calculation exercises. Tutors are primarily drawn from the specialist lecturers (from both academia and industry) tutoring in smaller groups, on specialised topics, with reference to the weekly tutorial exercises. Roughly one hour of tutorial time is available per week of the program.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "AUSTROADS, (2009). Guide to Traffic Engineering and Management, Sydney, Parts 2, 3, 4, 6, 9, 10 & 13.",
+            "Low, N. (2013).Transforming Urban Transport, The Ethics, Politics and Practices of Sustainable Mobility, EarthScan, Routledge, Oxon.",
+            "The Victorian Integrated Travel Survey (online database)www.transport.vic.gov.au/research/statistics/victorian-integrated-survey-of-travel-and-activity",
+            "The Victorian Transport Statistics Portal (online database)www1.transport.vic.gov.au/VTSP",
+            "Richardson, A.J., Ampt, E.S. and Meyburg, A.H. (1995).Survey Methods for Transport Planning. Eucalyptus Press.",
+            "Government of Victoria (2008). Victoria\u2019s Road Safety Strategy \u2013 arrive alive. Government of Victoriawww.roadsafety.vic.gov.au",
+            "Austroads, 2009. Austroads Guide to Road Design: Part 3 \u2013 Geometric Design. Austroads",
+            "VicRoads, 2013. Freeway Ramp Signals Handbook (online).https://www.vicroads.vic.gov.au/business-and-industry/technical-documents/freeway-ramp-signals-handbook",
+            "CAREERS / INDUSTRY LINKS",
+            "State Government departments and agencies are involved in providing input to the course material as well as data for the major assignment.",
+            "Students are also alerted to student membership opportunities at these organisations and encouraged to consider applying for membership."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

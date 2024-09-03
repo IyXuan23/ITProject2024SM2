@@ -1,0 +1,82 @@
+{
+    "subject name": "Dental Procedural Skills 1",
+    "subject code": "DENT90111",
+    "subject availability": [
+        "Year Long (Extended)"
+    ],
+    "overview": [
+        "This subject will be conducted as a pre-clinical laboratory subject building practical skills to prepare students for dental clinical practice. Students will develop initial manual dexterity and self-evaluation skills using virtual simulation facilities. Students will apply knowledge of disease processes, anatomy, common materials, equipment and instrumentation, and techniques for the management of caries (decay) and periodontal (gum) diseases. Students will undertake tasks on manikins to develop skills in preparing and restoring lost tooth structure (fillings), and in periodontal cleaning. Students will learn about correct posture, safety, and working as a team (assistant and operator) in the dental operatory during the provision of these procedures."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "4 x practical exams on Conservative Dentistry\r\n(2 hours each, worth 15% each). 8 hours. Hurdle requirement:. To gain a Pass (or better) in this subject, students must attain an overall pass across all four practical exams.",
+            "timing": "Throughout the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "description": "3x periodontics simulation practice assessments\r\n(Each assessment is 30 minutes of practical activity). 90 minutes. Hurdle requirement:. To gain a Pass (or better) in this subject, students must attain an overall pass across all three simulation practice assessments.",
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. 75% attendance at Lectures; 100% attendance at Practical Classes (including Computer Assisted Learning [CAL])",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long (Extended)": [
+                {
+                    "Principal coordinator": "Anu Polster"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "155 hours"
+                },
+                {
+                    "Teaching period": "22 January 2024 to 25 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 February 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

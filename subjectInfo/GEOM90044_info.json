@@ -1,0 +1,91 @@
+{
+    "subject name": "Geographic Information Systems",
+    "subject code": "GEOM90044",
+    "subject availability": [
+        "Summer Term - Off Campus"
+    ],
+    "overview": [
+        "This course will introduce the concept of a GIS as a problem solving technology within the geosciences, and through hands-on practical classes and lectures will provide the basic hands-on skills needed to design and implement a GIS project. Specific topics will include map projections and georeferencing, distortions in image data, raster and vector data models, incorporating digital terrain models and geophysical data, introduction to boolean logic and functions, data accuracy and access issues and limitations of GIS. The course will include examination of case histories of GIS projects and students will also build a GIS project of their own to solve a simulated exploration problem using MapInfo and other open-source software and a real world data set."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": null,
+    "dates and times": [
+        {
+            "Summer Term - Off Campus": [
+                {
+                    "Coordinator": "Ralf Haese"
+                },
+                {
+                    "Mode of delivery": "Off Campus"
+                },
+                {
+                    "Contact hours": "Total of 40 contact hours over 5 days: x4hrs lectures & x4hrs practicals per day"
+                },
+                {
+                    "Total time commitment": "75 hours"
+                },
+                {
+                    "Teaching period": "12 February 2024 to 16 February 2024"
+                },
+                {
+                    "Last self-enrol date": "13 February 2024"
+                },
+                {
+                    "Census date": "14 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "17 February 2024"
+                },
+                {
+                    "Assessment period ends": "19 February 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [],
+                "email": [
+                    "ralf.haese@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Reading expected to be completed will be made available in the pre-teaching period."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

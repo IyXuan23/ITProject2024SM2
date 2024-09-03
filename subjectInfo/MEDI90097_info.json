@@ -1,0 +1,123 @@
+{
+    "subject name": "Drug Discovery and Development",
+    "subject code": "MEDI90097",
+    "subject availability": [
+        "Term 1 - Online"
+    ],
+    "overview": [
+        "In this subject, students will gain a detailed understanding of all aspect of the drug development pipeline, beginning from the basic science research that triggers investigation of a new therapeutic strategy, through pre-clinical and clinical testing and final introduction to the general market. It will also cover practical issues such as funding considerations and the regulatory frameworks that exist  to ensure patient safety and eventual medication approval.  The design and methodology utilised in international drug discovery initiatives will be utilised to illustrate previously successful approaches."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students enrolling in this subject under CAP must meet the course entry requirements for the Graduate Certificate in Cancer Sciences"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Case Based Assessment; Due end of Week 4. 1000 words (equivalent)",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Presentation via web platform (1000 word equivalent); Due end of Week 6. 10 minutes",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written assignment. 2500 words",
+            "timing": "End of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Participation in Discussion Board discourse; Week to week. 500 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Term 1 - Online": [
+                {
+                    "Principal coordinator": "Theresa Connor"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "22 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period, students should familiarize themselves with the online platform and introduce themselves on the discussion board."
+                },
+                {
+                    "Teaching period": "29 January 2024 to 24 March 2024"
+                },
+                {
+                    "Last self-enrol date": "23 January 2024"
+                },
+                {
+                    "Census date": "16 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "8 March 2024"
+                },
+                {
+                    "Assessment period ends": "31 March 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Term 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Selected readings and resources will be made available to students via the leaning management system used for the subject."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Selected readings and resources will be made available to students via the leaning management system used for the subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

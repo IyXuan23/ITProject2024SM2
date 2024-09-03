@@ -1,0 +1,111 @@
+{
+    "subject name": "Professionalism and Clinical Processes A",
+    "subject code": "AUDI90055",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces students to key foundational concepts of self-awareness, reflective practice, and the dynamic nature of working with diverse populations in a healthcare setting, contextualised through a hearing health lens. On completion of the subject, students will be able to describe how individual attributes (of both themselves and others) impact professional practice in a clinical setting. Students will be able to demonstrate awareness of the foundational skills required for clinical practice."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Two written assignments. 1000 words (each)",
+            "timing": "Assignment 1: mid Semester; \r\nAssignment 2: End of Semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Group presentation. 20 minutes (total)",
+            "timing": "Between Weeks 3-9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Roleplay OSCE. 10 minutes",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written exam. 1 hours",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Clinical passport. 750 words (equivalent). Hurdle requirement:. Student must submit a satisfactory clinical passport",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance at 85% of placements",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Peter Carew"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Lectures (2 hours), workshops (2 hours) and clinical placements (2 hours) per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "pcarew@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

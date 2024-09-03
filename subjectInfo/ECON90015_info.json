@@ -1,0 +1,165 @@
+{
+    "subject name": "Managerial Economics",
+    "subject code": "ECON90015",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides an introduction to the fundamentals of microeconomics, strategy and key issues in macroeconomics, and applies this knowledge to business and management issues. Topics to be covered include: the working of competitive markets; the operation of business organisations such as cost management and pricing decisions; strategic behaviour and market outcomes in different market environments; the effect of public policy on business organisations; and the main macroeconomic influences on the business environment."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-MGMT Master of Management",
+                "MC-MGMTACT Master of Management (Accounting)",
+                "MC-MGMTFIN Master of Management (Finance)",
+                "MC-MGMTHRE Master of Management (Human Resources)",
+                "MC-MGMTMKT Master of Management (Marketing)",
+                "MC-ENGYSYS Master of Energy Systems",
+                "MC-IS Master of Information Systems",
+                "MC-AEMTRCS Master of Applied Econometrics",
+                "MC-AECOENH Master of Applied Econometrics (Enhanced)",
+                "761EM Master of Engineering Management",
+                "MC-PROP Master of Property",
+                "MC-IB Master of International Business",
+                "400pt Program course entry point in the MC-CMPROP Master of Construction Management/Master of Property"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MC-ECO Master of Economics",
+        "MC-MGMTAFN Master of Management (Accounting and Finance)"
+    ],
+    "assessments": [
+        {
+            "description": "Individual Assignment. 2000 words (total)",
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "Mid-Semester Exam. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "James Bugden"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Lectures, tutorials and workgroups totalling three hours per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "James Bugden"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Lectures, tutorials and workgroups totalling three hours per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "bugdenj@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "James Bugden:"
+                ],
+                "email": [
+                    "bugdenj@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "subject name": "Veterinary Bioscience: Cells to Systems",
+    "subject code": "VETS30029",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject takes a multi-disciplinary approach to the investigation of health and disease in domestic animals. Students will be introduced to the structural and functional organisational units of the body and to the fundamental principles of veterinary anatomy, physiology, biochemistry, pharmacology, general pathology and immunology. Students will gain a theoretical knowledge and practical laboratory skills that are fundamental to an appraisal of the health of domestic animals."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "VETS20019"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "BCMB20002",
+                    "BIOM20001",
+                    "AGRI20043"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Permission of the Faculty of Science is required to enrol into this subject. Enrolment is limited to BSc students who have been selected into the Veterinary Bioscience major, leading to articulation into the Doctor of Veterinary Medicine.",
+                "Students must have successfully completed the following subjects:"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Continuous within-class assessment of the practical component:  Up to 14 pre and post laboratory multiple choice quizzes, taking approximately 2 minutes each. 1000 words (equivalent)",
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written test. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Smitha Georgy"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "72 hours of lectures, case studies and practical classes"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "s.georgy@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

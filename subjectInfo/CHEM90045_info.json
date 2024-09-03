@@ -1,0 +1,92 @@
+{
+    "subject name": "Advanced Physical Organic Chemistry",
+    "subject code": "CHEM90045",
+    "subject availability": [
+        "March"
+    ],
+    "overview": [
+        "This subject will explore the interrelationship between bonding, structure and reactivity in organic molecules. Fundamental concepts of modern physical organic chemistry such as molecular orbital theory, orbital symmetry control, of organic reactions and the nature of reactive intermediates will be discussed to provide students with a thorough understanding of chemical reactivity and mechanisms."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of:",
+                "\u2022\tMaster of Science (Chemistry) (MC-SCICHE)",
+                "\u2022\tMaster of Industrial Research (Chemistry) (MR-IRCHEM)",
+                "\u2022\tBachelor of Science (Degree with Honours) - Chemistry Specialisation (BH-SCI)",
+                "\u2022\tGraduate Diploma in Science (Advanced) - Chemistry Specialisation (GDA-SCI)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "At the 9-lecture mark each subject will be assessed by a written assignment. 1000 words",
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Examination after completion of the subject (this is seen as equivalent to 1500 words). 1.5 hours",
+            "timing": "End of the teaching period",
+            "percentage": "75%"
+        }
+    ],
+    "dates and times": [
+        {
+            "March": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "4 March 2024 to 29 March 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "15 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "5 April 2024"
+                },
+                {
+                    "Assessment period ends": "19 April 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

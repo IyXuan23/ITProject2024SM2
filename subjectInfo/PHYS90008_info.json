@@ -1,0 +1,127 @@
+{
+    "subject name": "Advanced Seminars in Biomedical Sciences",
+    "subject code": "PHYS90008",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject uses Research Seminars as a vehicle to teach students the experimental approach to contemporary research questions. Students will attend seminars presented by a mixture of departmental faculty, invited speakers from outside the department, and postgraduate students who will discuss their current research findings and describe their experimental approaches. The seminars will be chosen to cover each of the evolving research themes within the department: sensory and systems neuroscience, metabolic and cardiovascular sciences, muscle biology, stem cell and developmental biology and related topics. Students will engage with a diverse range of research questions and the experimental strategies used to address them. Students will learn to critique seminars and to focus on the scientific essentials, i.e. what question is being addressed? What led up to this question? What strategies are being used to answer the question, and how well have they succeeded? Students will also attend a number of workshops throughout the semester where the students will have opportunities to engage with speakers from the seminars in which directed questions and structured discussion will be used to engage students further with the scientific issues arising from the seminars, as well as scientific communications skills."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "BIOM40001"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "BH-BMED Bachelor of Biomedicine (Degree with Honours)",
+                "BH-SCI Bachelor of Science (Degree with Honours)",
+                "Master of Science"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Journal Club. 15 minutes",
+            "timing": "From Week 7 to Week 8",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written assignment. 1000 words",
+            "timing": "From Week 9 to Week 10",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written assignment. 2000 words",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "description": "Attendance at weekly seminars. Hurdle requirement:. 75% attendance required",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Magda Montgomery"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "30"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinator:"
+                ],
+                "email": [
+                    "magdalene.montgomery@unimelb.edu.au",
+                    "Current students",
+                    "Past students, future students, general enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "No specific text. Recommended reading will be given with the pre-seminar questions for the three seminars used for assignments."
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.physiology.unimelb.edu.au/"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

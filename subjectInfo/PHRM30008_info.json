@@ -1,0 +1,161 @@
+{
+    "subject name": "Drugs: From Discovery to Market",
+    "subject code": "PHRM30008",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject will provide an overview of modern drug discovery and development, with an emphasis on the pharmacology that underpins the endeavour. The social, economic and scientific challenges facing contemporary drug discovery and development with respect to choice of suitable drug targets will be discussed; current drug targets, including receptors and enzymes, will be highlighted. Strategies \u2013 contrasting the complementary chemical-to-target and target-to-chemical approaches \u2013 to identify and optimise lead compounds will be presented. The material will include a discussion of small molecules as well as \u201cbiologicals\u201d, such as antibodies and nucleotides. A description of how these lead compounds become drug candidates and are characterised with regards to their pharmacodynamic (receptor binding and activation), pharmacokinetic (ability to reach their site of action) and toxicological/safety pharmacology properties will be provided. Finally the approaches to bring an identified drug candidate to the market will be examined. This part of the subject will consider the necessary human clinical trials, regulatory requirements and ongoing monitoring of approved drugs. The subject material will be presented via a combination of lectures, associated online learning materials, and \u201chot topic\u201d tutorials. The latter will focus on recent innovations in drug discovery, and will serve to highlight the close relationship between basic science and actual therapeutic agents."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHRM20001"
+                ],
+                [
+                    "BIOM20002"
+                ],
+                "Breadth students:"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "BSc students:",
+                "BBiomed students:",
+                "Students wishing to undertake this subject as breadth will need the approval of the subject co-ordinator."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "534-301"
+    ],
+    "assessments": [
+        {
+            "description": "3 x 20-minute multiple-choice online quizzes. (8-10 questions each).. 60 minutes",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "MST. 40 minutes",
+            "timing": "From Week 6 to Week 8",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written Project. 800 words",
+            "timing": "From Week 8 to Week 10",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written Exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinators": "Laura Edgington-Mitchell and Gary Anderson"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "laura.edgingtonmitchell@unimelb.edu.au",
+                    "gpa@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Recommended textbooks used by staff in the Department of Pharmacology & Therapeutics (many of which are available electronically through the library) include the most current or recent editions of:",
+                    [
+                        "Ritteret al, Rang & Dale\u2019sPharmacology; Elsevier.",
+                        "Golanet al,Principles of Pharmacology; Wolters Kluwer.",
+                        "Craig & Stitzel,Modern Pharmacology with Clinical Applications; Wolters Kluwer",
+                        "Katzung, Basic and Clinical Pharmacology, Lange",
+                        "Hardmanet al.,Goodman & Gilman\u2019s The Pharmacological Basis of Therapeutics; McGraw Hill."
+                    ]
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available to students enrolled in the pre 2008 BSc, New Generation BSc, Biomedicine degree."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

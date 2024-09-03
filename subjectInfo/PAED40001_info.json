@@ -1,0 +1,114 @@
+{
+    "subject name": "Paediatrics Research Project Part 1",
+    "subject code": "PAED40001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject provides students with the opportunity to design and conduct, under supervision, an independent biomedical research project. Specific research projects will depend on the availability of appropriate supervisors and resources. This subject will provide students with skills and experience conducting research in an area of human health and disease across the breadth of paediatric disciplines. Projects may include laboratory, clinical or public health research skills. Students will take responsibility for analysis, data interpretation and dissemination of the research findings via oral and written presentations. The course year starts in February and ends in November and is only available full time. This subject is designed to complement the accompanying coursework subjectPAED40002."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOM40001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A written report (thesis). 10000-12000 words",
+            "timing": "Due late October",
+            "percentage": "80%"
+        },
+        {
+            "description": "An oral presentation on the research project. 10-15 minutes",
+            "timing": "Due early November",
+            "percentage": "15%"
+        },
+        {
+            "description": "Supervisor's report on the student's overall research ability",
+            "timing": "Due early November",
+            "percentage": "5%"
+        },
+        {
+            "description": "Regular attendance at department and institute seminars. Hurdle requirement:. At least 40 seminars (approx. 1 per week) throughout the year",
+            "timing": "Year long",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Belinda McClaren"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "425 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinator:"
+                ],
+                "email": [
+                    "belinda.mcclaren@unimelb.edu.au",
+                    "helen.dcruz@rch.org.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students must be enrolled in the Bachelor of Biomedicine (Honours) or Bachelor of Science (Honours) to complete this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.paediatrics.unimelb.edu.au/"
+        ]
+    }
+}

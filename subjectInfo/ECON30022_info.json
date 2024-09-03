@@ -1,0 +1,142 @@
+{
+    "subject name": "Experimental Economics",
+    "subject code": "ECON30022",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Experimental Economics is a branch of economics that uses controlled experiments to evaluate theories and behavioural assumptions, as well as to test policies and their implementation. The subject will introduce students to experimental methods as applied in economics and present key findings from laboratory and field experiments. The first lecture in most weeks will be devoted to running experiments where students will experience different economic situations. The second lecture will present the theories underlying the experimental games and will use the experimental data from the first lecture (as well as other experimental data) as a vehicle for discussion. By comparing actual individual behaviour to the theoretical predictions, the course aims to provide a deep understanding of individual behaviour and how economic science progresses. Topics that will be covered may include risk, time, and social preferences, trading in a variety of markets such as auction and markets with price controls and for trading long-lived assets, voluntary provision of public goods and cooperation enforcement, social norms and behavioural game theory.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ECON20002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1. 800 words",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Weekly classroom experiment participation",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Assignment 2. 800 words",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Weekly online quiz",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours. Hurdle requirement:. To pass this subject, students must pass the end-of-semester exam",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Laura Liu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three hours of lectures and practical sessions per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Laura Liu:"
+                ],
+                "email": [
+                    "yang.liu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

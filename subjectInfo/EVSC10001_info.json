@@ -1,0 +1,134 @@
+{
+    "subject name": "The Global Environment",
+    "subject code": "EVSC10001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject is an introduction to Geoscience, Geography, Climate and Environmental Science. It provides an overview of the processes controlling the formation and evolution of our global environment. We begin by exploring the layered structure of the Earth, both solid and fluid constituent properties, and the importance of the orbital characteristics in controlling changes in the global climate. The evolution of the major physical features and landscapes of the Earth, including minerals, volcanoes, rivers, oceans and coastlines, are described in terms of plate tectonics and sea-level changes. The nature of widely occurring, important processes are studied, such as weathering, erosion and the transport of sediments. Natural chemical and energy cycles are highlighted. Causes of biogeographic patterns in plants and animals are explored at several  different time scales. Human impacts on and benefits from global environments are illustrated, using fire and natural resources as examples.   The circulation and interactions of the atmosphere and ocean are also examined, including descriptions of the Earth\u2019s present climate, the hydrological cycle, and past and future climate change."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Ten equally weighted short tests, held during the practical sessions. 800 words (total). Hurdle requirement:. Assessment must be passed overall",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group research project as a poster presentation. 1000 words (equivalent). Hurdle requirement:. Assessment must be passed",
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Examincation must be passed",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Attendance. Hurdle requirement:. A pass in the combined in-class tests and group assessment  and in the end semester theory exam are necessary to pass the subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Anne-Marie Tosolini"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week, 1 x two hour practical class per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "a.tosolini@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Earth's Dynamic Systems, Web Edition, Hamblin and Christiansen, available online through the LMS."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

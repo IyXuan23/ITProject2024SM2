@@ -1,0 +1,152 @@
+{
+    "subject name": "Educational Leadership in Surgery",
+    "subject code": "MEDS90017",
+    "subject availability": [
+        "Semester 1 (Early-Start) - Online"
+    ],
+    "overview": [
+        "Characteristics of educational leadership will be explored, including theories of leadership from business and management. These include trait, contingency and transformative theories. Originally introduced in subject 1, these concepts are explored in detail in relation to their application in surgical education. Teaching will explore similarities and differences between the contexts in which the theories were evolved and the landscape of surgical education. Students will also explore the conditions required for effective educational leadership.",
+        "The subject will also consider ways in which leadership can be taught at all levels of medical and surgical education. As a surgical competency expected of all surgeons, there is currently little formal curricula activity to support acquisition of leadership in this profession.",
+        "Students who aspire to senior educational roles, influencing local, state and national policy in medical and surgical education will be given the opportunity to consider strategies for lobbying government and other change activities.",
+        "Centres of excellence in surgical education will be studied. Where are they? How did they emerge? We will study historical factors and trends in other professions to project future directions of surgical education.",
+        "This subject is also designed to promote reflection on educational scholarship. What is it? How can it be achieved? How can it be sustained? We examine the learning environments we provide for surgical trainees. How can these be integrated into curriculum development",
+        "The overall aims of this subject are:",
+        "To appreciate the role of scholarship in surgical education",
+        "To reflect on leadership and the ways in which it is (or is not) supported in medical and surgical curricula",
+        "To consider characteristics of effective surgical education leaders",
+        "To consider future directions for surgical education and training"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDS90006",
+                    "MEDS90007",
+                    "MEDS90008",
+                    "MEDS90009"
+                ],
+                "This subject is not available for students admitted in any other courses."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "GC-SURGED Graduate Certificate in Surgical Education",
+                "GD-SURGED Graduate Diploma in Surgical Education",
+                "MC-SURGED Master of Surgical Education"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Verbal presentation in online tutorial. In this assessment, students will make a presentation on a specified issue on surgical education scholarship and leadership. Presentations will be assessed for verbal skills, written materials and content.. 15 minutes",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Essay - written reflection on the debate. In this assessment, students will reflect on the content and process (matter and method) of the debate.. 1,000 words",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Essay. In this assessment, students will conduct a case study on educational leadership, locating their 'educational leader' within leadership theory.. 3,500 words",
+            "timing": "End of semester",
+            "percentage": "70%"
+        },
+        {
+            "description": "Hurdle requirement:. Participation in debate, due on study day. In this assessment, students will participate in a formal debate on leadership. Students will be expected to have knowledge of formal debating, to demonstrate excellent verbal presentation skills and argument development. Content will draw on the literature and their experiences.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start) - Online": [
+                {
+                    "Coordinator": "Debra Nestel"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "29 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period, students should complete pre-readings, which will be made available via Canvas"
+                },
+                {
+                    "Teaching period": "5 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "9 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Reading materials online"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "IT requirements:",
+            "Participants will require access to the internet with a minimum connection speed of 256Kbps to access course materials and to participate in on-line discussions and presentations forums. Faster connection speeds are preferred. Participants will also need to verify that their internet connection is configured to allow them to view streamed audio and video files. Test files will be made available for students to test their connections.",
+            "Participants are expected to have a headset and microphone connected to their computer for participation in on-line activities.",
+            "Participants will be expected to have access to the following Microsoft Office products to fully participate:",
+            [
+                "MS Word",
+                "MS Powerpoint"
+            ],
+            "All online applications will be web-based and no special software is required."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "continuing-education@unimelb.edu.au"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

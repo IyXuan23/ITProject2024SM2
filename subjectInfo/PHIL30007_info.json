@@ -1,0 +1,117 @@
+{
+    "subject name": "The Philosophy of Philosophy",
+    "subject code": "PHIL30007",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject examines the nature of philosophy itself.  Students will read what many great philosophers have said about the methods, aims, and ambitions of philosophy.  They will examine how these views have been applied in thinking about various areas of philosophy, e.g. metaphysics, philosophy of mind, ethics.  The subject provides the opportunity to reflect on different strands in the philosophical tradition, which inspire conflicting projects in contemporary philosophy.  It should also encourage students to reflect on the nature and methods of the philosophy they have studied to date.  The subject is intended for students nearing completion of a philosophy major."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Bachelor of Arts students are required to completed the Level One requirements for the major before enrolling into this subject."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "This is a Capstone subject and only available to students in the Philosophy major within the Bachelor of Arts or the Philosophy specialisation of the Graduate Diploma in Arts. This subject is not available to students in the minor or as breadth."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Essay. 2000 words",
+            "timing": "From Week 4 to Week 8",
+            "percentage": "50%"
+        },
+        {
+            "description": "Essay. 2000 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Kai Tanter"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "35 hours - A 2-hour lecture every week for 12 weeks and a 1-hour tutorial one per week for 11 weeks (week 2 - week 12)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "kai.tanter@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Subject readings will be available online."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This capstone subject is compulsory and only available to students undertaking a major in Philosophy. It is not available in the minor or as breadth.  It is expected that students will have completed all required level 1 and level 2 subjects before enrolling in the capstone.",
+            "Bachelor of Arts students should endeavour to take the capstone subject in their final semester of study after completion of 25 pts of 3rd year. See theHandbook Bachelor of Arts entryfor each Discipline's requirements.",
+            "This subject is compulsory in the Graduate Diploma in Arts (Philosophy).",
+            "Enrolment in the Bachelor of Arts or Graduate Diploma in Arts (Philosophy) is required."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://shaps.unimelb.edu.au/philosophy"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

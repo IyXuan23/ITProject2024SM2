@@ -1,0 +1,132 @@
+{
+    "subject name": "Data Assimilation and Model Improvement",
+    "subject code": "ATOC90015",
+    "subject availability": [
+        "February"
+    ],
+    "overview": [
+        "Data assimilation refers to the process of combining model simulations of a natural system such as the atmosphere or ocean with observations to obtain an estimate of the actual trajectory of that system. It is vitally important to weather and climate prediction. Of all the improvements made to the Bureau of Meteorology\u2019s global forecasting system since 2011, the top 5 were all from improvements to the data assimilation system. It is data assimilation that produces the multi-decadal reanalyses from which details of climate change and climate model error can be deduced. A wide range of industries such as finance, mining and medicine now regularly use data assimilation tools that were originally developed for atmosphere/ocean data assimilation applications. The course will introduce and explain the data assimilation systems now used at the world\u2019s leading weather and climate forecasting centres. These systems include 4DVar and various flavours of the Ensemble Kalman filter. In addition, a brief introduction will be given to more accurate but more computationally expensive methods such as the particle filter and Monte-Carlo-Markov chain approaches."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Basic computing or programming."
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST10007"
+                ],
+                [
+                    "MAST10006"
+                ],
+                [
+                    "COMP10001",
+                    "COMP10002",
+                    "COMP20005",
+                    "COMP90059"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Linear algebra: Knowledge of matrices, inverse and matrix eigenvector/eigenvalue decompositions",
+                "Calculus: Knowledge of basic derivatives and limit theory"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "6 x 15min Quizzes. 90 minutes (total)",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written Assignment. 1000 words",
+            "timing": "Due during the second week of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written Assignment. 1000 words",
+            "timing": "Due during the first week of the assessment period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Oral Exam. 15-20 minutes",
+            "timing": "Due at the end of the assessment period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Coordinator": "Craig Bishop"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "12 February 2024 to 23 February 2024"
+                },
+                {
+                    "Last self-enrol date": "14 February 2024"
+                },
+                {
+                    "Census date": "23 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "15 March 2024"
+                },
+                {
+                    "Assessment period ends": "22 March 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [],
+                "email": [
+                    "craig.bishop@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "While there are no required texts for this subject, to prepare for the course consider consulting.",
+                    [
+                        "Probabilistic Forecasting and Bayesian Data Assimilation, Sebastian Reich and Colin Cotter, Cambridge University Press Publication.14 May 2015 \u2013 308 pages, and",
+                        "Atmospheric Data Analysis, Roger Daley, Cambridge University Press, 26 Nov 1993 - Science - 457 pages."
+                    ]
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

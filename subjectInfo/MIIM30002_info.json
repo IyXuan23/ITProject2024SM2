@@ -1,0 +1,153 @@
+{
+    "subject name": "Principles of Immunology",
+    "subject code": "MIIM30002",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject will describe the development, function and regulation of cells of the immune system; immunoglobulins; cytokines; immunological mechanisms operating in immunity to infectious disease; autoimmunity; hypersensitivity; and transplantation and tumour immunology. Content will be presented across five modules that involve investigations into innate immunity, immune recognition, adaptive immunity immunoregulation and immune memory, as well as the involvement of the immune system in disease. Students will engage with the content through a variety of activities including lectures, active workshops and flipped classroom-style discussions. Through understanding each module in this subject, students will gain an appreciation of the fundamentals and underlying mechanisms of the immune system, which will build a foundation for further studies in Immunology."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "B. Biomedicine students",
+                [
+                    "BIOM20001"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "BCMB20002",
+                    "MIIM20001"
+                ]
+            ],
+            "additional pre-requisite": [
+                "B. Science students"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Mid Semester Test. 45 minutes",
+            "timing": "From Week 5 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Mid Semester Test. 45 minutes",
+            "timing": "From Week 10 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "Online Quiz x5. 10 minutes (each)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Daniel Clarke"
+                },
+                {
+                    "Coordinators": "Odilia Wijburg and Keit Loi"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "daniel.clarke@unimelb.edu.au",
+                    "odilia@unimelb.edu.au",
+                    "joon.loi@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Janeway's Immunobiology (Murphy et al) 10th Edn, 2022"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available to students enrolled in the:",
+            "NG B. Sc.NG B. Biomed",
+            "Students enrolled in the BSc (pre-2008 BSc), BASc or a combined BSc course will receive science credit for the completion of this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

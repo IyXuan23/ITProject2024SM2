@@ -1,0 +1,102 @@
+{
+    "subject name": "Dental Research Project B",
+    "subject code": "DENT90123",
+    "subject availability": [
+        "Year Long (Extended)"
+    ],
+    "overview": [
+        "This subject is a continuation of subject Dental Research Project A. Students continue their group research project which must be completed, including preparation of a manuscript suitable for publication in a peer-reviewed journal or equivalent, and delivery of a 15 minute group oral presentation at the end of year."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "DENT90119"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One summary of the data collection and analysis of the research project outcomes - one per group. 1000 words. Hurdle requirement:. Pass Hurdle",
+            "timing": "To be submitted by\u00a0mid-year",
+            "percentage": "20%"
+        },
+        {
+            "description": "One written report of approximately 3000 words (per group). 3000 words (total)",
+            "timing": "End of second half of year teaching period",
+            "percentage": "35%"
+        },
+        {
+            "description": "One oral presentation (per group). 15 minutes",
+            "timing": "End of second half of year teaching period",
+            "percentage": "35%"
+        },
+        {
+            "description": "Satisfactory individual contribution to the group research project; as assessed by group Supervisor(s) and in reference to the team contract terms throughout the teaching period.. Hurdle requirement",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance at the 2 Day Annual Student Research Presentations",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long (Extended)": [
+                {
+                    "Principal coordinator": "Rachael Moses"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "80 (indicative)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Pre teaching start date": "22 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "Attend Orientation activities."
+                },
+                {
+                    "Teaching period": "23 January 2024 to 25 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 February 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,209 @@
+{
+    "subject name": "Calculus 1",
+    "subject code": "MAST10005",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject extends students' knowledge of functions and calculus and introduces them to the topics of vectors and complex numbers. Students will be introduced to new functions such as the inverse trigonometric functions and learn how to extend the techniques of differentiation to these. Integration techniques will be applied to solving first order differential equations.",
+        "Differential calculus: graphs of functions of one variable, trigonometric functions and their inverses, derivatives of inverse trigonometric functions, implicit differentiation and parametric curves. Integral calculus: properties of the integral, integration by trigonometric and algebraic substitutions and partial fractions with a variety of applications. Ordinary differential equations: solution of simple first order differential equations arising from applications such as population modelling. Vectors: dot product, scalar and vector projections, plane curves specified by vector equations. Complex numbers: arithmetic of complex numbers, sketching regions in the complex plane, De Moivre's Theorem, roots of polynomials, the Fundamental Theorem of Algebra."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Study score of 25 or more in VCE Mathematical Methods 3/4 or equivalent"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "MAST10012"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                [
+                    "MAST10014",
+                    "MAST10015"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MAST10006",
+        "MAST10008",
+        "MAST10009",
+        "MAST10019:",
+        "Calculus Extension Studies",
+        "MAST10013 UMEP Maths for High Achieving Students",
+        "Students may not enrol in MAST10005 Calculus 1 and MAST10006 Calculus 2 concurrently.",
+        "Students with a study score of 30 or more in VCE Specialist Mathematics 3/4 or equivalent, may not enrol in this subject for credit.",
+        "Bachelor of Science students are permitted to complete a maximum of three level-1 Mathematics and Statistics subjects. They are not permitted to complete all four of MAST10005, MAST10006, MAST10007 and MAST10010"
+    ],
+    "assessments": [
+        {
+            "description": "Six to eight assignments (written or online) due at regular intervals amounting to a total of up to 40 pages. 40 pages",
+            "timing": "During the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "A written mid-semester test. 45 minutes",
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Christopher Duffy"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week, 1 x one hour practice class per week, 1 x one hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Deborah King"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week, 1 x one hour practice class per week, 1 x one hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "christopher.duffy@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "dmking@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course.",
+            "Students with a study score of 30 or more in VCE Specialist Mathematics 3/4 or equivalent may not enrol in this subject for credit. Such students should enrol in one of",
+            [
+                "MAST10006 Calculus 2",
+                "MAST10007 Linear Algebra",
+                "MAST10008 Accelerated Mathematics 1",
+                "MAST10009 Accelerated Mathematics 2"
+            ],
+            "Students with a study score of 29 in VCE Specialist Mathematics 3/4 or equivalent, are eligible to enrol in MAST10005 Calculus 1, MAST10006 Calculus 2 or MAST10007 Linear Algebra. Such students should seek course advice before completing their enrolment."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

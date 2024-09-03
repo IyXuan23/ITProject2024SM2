@@ -1,0 +1,140 @@
+{
+    "subject name": "Evolution: Making Sense Of Life",
+    "subject code": "BIOL20001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "It is widely held that nothing in biology makes sense, except in the light of evolution. But evolutionary theory is crucial not only for making sense of organic diversity, but also for helping us understand and manage our interactions with other organisms: antibiotic and insecticide resistance, disease virulence, fisheries decline, spread of invasive species, human behaviour and life-histories are all informed by a knowledge of the processes of evolution. This subject will reveal the ubiquity of biological evolution in both natural and human modified environments. It will describe and explain the agents of change\u2014 drift, migration and selection, and show their effects on both single and multiple gene traits, and on the phylogenetic relationships of species. The subject will introduce co-evolutionary processes, which are critical for understanding traits that evolve through interactions between species, including humans. Particular topics will include (but not limited to): heritable variation; agents of evolution; artificial, natural and sexual selection; phenotypes and quantitative genetics; phylogeny, speciation and the tree of life; and antagonistic and mutualistic co-evolution. The subject will emphasise both the outcome and process of scientific research leading to our understanding of evolutionary processes, drawing on examples from across the diversity of life."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Pre 2021",
+                "BIOL10004 - Biology of Cells and Organisms",
+                "BIOL10005 - Genetics and The Evolution of Life"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BIOL10001",
+                    "BIOL10002",
+                    "BIOL10008",
+                    "BIOL10009",
+                    "BIOL10010",
+                    "BIOL10011",
+                    "BIOM10002"
+                ]
+            ],
+            "additional pre-requisite": [
+                "BIOL10003 - Genes and Environment"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "In-class assessment of interactive problems associated with each fortnightly workshop. 6 submissions (5 best-scoring submissions used to calculate grade, each worth 8%). 500 words (equivalent)",
+            "timing": "Due in Weeks 2,4,6,8,10,12",
+            "percentage": "40%"
+        },
+        {
+            "description": "A written essay on one of three optional topics. 1500 words total. 1500 words",
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 2 hours.. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Devi Stuart-Fox"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 x 1hr lectures per week and 6 x 2hr workshops over the semester (one fortnightly)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "BIOL-20001@lists.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Emlen DJ, Zimmer C. Evolution\u202f: Making Sense of Life. Third edition. Macmillan International Higher Education; 2020. (Please note any edition is suitable)"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

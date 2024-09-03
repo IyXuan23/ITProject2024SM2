@@ -1,0 +1,132 @@
+{
+    "subject name": "Cyber Security Management",
+    "subject code": "ISYS90090",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject introduces a range of information security management services implemented in industry. The subject will cover the fundamental principles and practice of security risk assessment, incident response and disaster recovery, knowledge leakage, systems and network security, and policy and culture. Students will develop an appreciation for the kinds of security practices that exist in industry in each of these areas.",
+        "This subject supports course-level objectives by allowing students to have in-depth knowledge of the specialist area of information security management. The subject\u2019s assessment tasks include the writing of a comprehensive consulting proposal and research into critical security issues faced by organisations. These tasks will encourage students to work in a team to develop a high-level of achievement in writing, research activities, and presentation skills."
+    ],
+    "indicative content": [
+        "Security principles and techniques discussed are: Models for understanding knowledge leakage, Security Risk Assessment Methods, Firewall and virtual private network (VPN) security scenarios, and Incident Response Methodology. Real world cases will be drawn from a range of organization types including critical infrastructure installations in Australia."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ISYS90026"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Selection of the Cyber Security specialisation (formal) in the MC-IT Master of Information Technology AND special permission from the subject coordinator"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the Information Systems specialisation (formal) in the MC-DINFENG Master of Digital Infrastructure Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "A quiz conducted each week in workshops across 10 weeks of the semester 2% each (Total 20% / 1000 words / 60mins). Intended Learning Outcomes (ILOs) 1-3 and 5 are addressed in this assessment.. 60 minutes (total)",
+            "timing": "From Week 2 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written Assignment - One individual report, requiring 26-30 hours of work. Intended Learning Outcomes (ILO's) 1, 2, 3 and 5 are addressed in the report.. 1500 words",
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written Assignment- \r\nOne group (4 members maximum) written assignment (consulting proposal), requiring 64-70 hours of work. ILO's 1 to 5 are addressed in the consulting proposal.. 2,500 words (each)",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Atif Ahmad"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 1-hour lecture per week.\r\nOne 2-hour workshop per week.\r\n36 contact hours in total."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "atif@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Whitman, M. E., & Mattord, H. J. (2014). Principles of information security. Cengage Learning. 5th Edition."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Teaching and Learning Methods",
+            "This subject will be delivered through a combination of lectures and workshops."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

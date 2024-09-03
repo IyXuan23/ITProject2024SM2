@@ -1,0 +1,118 @@
+{
+    "subject name": "BioSciences Minor Research Project Part2",
+    "subject code": "BIOL90031",
+    "subject availability": [
+        "Semester 1 (Early-Start)",
+        "Semester 2 (Early-Start)"
+    ],
+    "overview": [
+        "This subject is part 2 of the 50-point research project offered through the Graduate Diploma in Science (Advanced) stream in BioSciences. The subject involves laboratory and/or field-based experimental research in an area of Ecology and Evolutionary Biology or Molecular, Cell and Developmental Biology. The research projects cover a broad range of research from molecular to population and evolutionary biology in micro-organisms, insects, plants and animals. The project will be based in the research group of an academic staff member in the School of BioSciences or an approved external supervisor, depending on the particular research project. The research project aims to develop a range of experimental and technical skills, a capacity to set goals and to design and plan experiments. The subject also provides students with skills and knowledge to interpret and critically analyse original research and enhanced written and oral communication skills."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOL90029"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Research proposal (3,000 words), due at the end of Part 1. 3000 words",
+            "timing": "End of semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Oral presentation (20 min), due at the end of Part 2. 20 minutes",
+            "timing": "End of semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Research report (8,000 words), due at the end of Part 2. 8000 words",
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Principal coordinator": "Mike Haydon"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project. Students should discuss this with their supervisor but as a guide, a student enrolled in a 25-point research project subject would be expected to be engaged in their research for an average of 20 hours per week."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Principal coordinator": "Mike Haydon"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project. Students should discuss this with their supervisor but as a guide, a student enrolled in a 25-point research project subject would be expected to be engaged in their research for an average of 20 hours per week."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

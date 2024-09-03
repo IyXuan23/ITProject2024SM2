@@ -1,0 +1,134 @@
+{
+    "subject name": "Environmental Education",
+    "subject code": "EDUC90006",
+    "subject availability": [],
+    "overview": [
+        "Students will learn the theoretical underpinnings of environmental education through a study of the concept of environmentalism. The subject will combine an introduction to theory and practice in the field of environmental education. A particular focus will be on different understandings of nature and the environment and the implications of these for education. This will include the role that science has played and continues to play in our understanding of both the environment and education. The subject will provide students with some of the important strategies for the development of environmental education in a variety of sectors. It will also provide ideas for educational activities. In addition, the subject will deal with ways of actualising individuals or groups who wish to learn how to become involved in action for the environment and social change."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC90929",
+                    "EDUC90930",
+                    "EDUC91029",
+                    "EDUC91030"
+                ],
+                "*Students that commenced their course prior to 2021 may have completed EDUC90830 in place of EDUC91029, and EDUC90900 in place of EDUC91030:",
+                [
+                    "EDUC90830",
+                    "EDUC90900"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students admitted to courses/entry points not specified below have no prerequisites for this subject.",
+                "Students in the 200-point program of the Master of Education, Master of TESOL or Master of Modern Languages Education, must have completed the following four compulsory subjects*:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Accounts of Critical Experiences Essay 1. 1000 words",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Accounts of Critical Experience Essay 2. 1000 words",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Portfolio of Environmental Practices and Theory (Please see below). 3000 words (equivalent). Hurdle requirement:. Please see below",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. A minimum of 80% attendance at all tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Maurizio Toscano"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of on campus classes"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "m.toscano@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "www.education.unimelb.edu.au"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

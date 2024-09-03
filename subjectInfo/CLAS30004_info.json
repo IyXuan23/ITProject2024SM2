@@ -1,0 +1,169 @@
+{
+    "subject name": "Intensive Beginners Latin",
+    "subject code": "CLAS30004",
+    "subject availability": [
+        "Summer Term"
+    ],
+    "overview": [
+        "This subject teaches students to read Latin and covers the material of two semesters. It covers grammatical concepts and paradigms, sentence formation and translation and the reading of simple texts. The aim is for students to acquire the elements of syntax, grammar and vocabulary of Latin, sufficient to begin reading literary and non-literary texts. Some background in Roman cultural and political life will also be covered. Completion of the subject will enable a student to enrol in Intermediate Latin."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CLAS20021",
+        "CLAS10006",
+        "CLAS10007",
+        "CLAS20024/30007 Beginners Latin A",
+        "CLAS20025/30008 Beginners Latin B",
+        "CLAS10003 Intensive Beginners Latin",
+        "Students who have completed VCE Latin are not permitted to enrol in this subject, these students should see the subject listings for Post VCE Latin."
+    ],
+    "assessments": [
+        {
+            "description": "Twelve in-class tests due throughout the intensive teaching period. 10 minutes (each)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "6 translation and comprehension exercises due throughout the intensive teaching period",
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "A textual analysis of a passage translated in class. 300 words",
+            "timing": "During the examination period",
+            "percentage": "15%"
+        },
+        {
+            "description": "A mid-term exam. 2 hours",
+            "timing": "Week 4",
+            "percentage": "30%"
+        },
+        {
+            "description": "A final exam. 2 hours",
+            "timing": "At the end of the summer semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Principal coordinator": "Edward Jeremiah"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "96 hours - 1 hour lecture and 2 hours of tutorials per day for 32 days."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "8 January 2024 to 22 February 2024"
+                },
+                {
+                    "Last self-enrol date": "17 January 2024"
+                },
+                {
+                    "Census date": "19 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "23 February 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "edwardj@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    [
+                        "Classical Latin: An Introductory Course(JC McKeown)Hacket Publishing Company, Inc."
+                    ],
+                    [
+                        "Classical Latin: An Introductory Course,Workbook(JC McKeown)Hacket Publishing Company, Inc."
+                    ]
+                ]
+            }
+        ],
+        "Subject notes": [
+            "The subject dates and HECS/course fee census date for this subject change each year. Check your enrolment record for the correct census date for this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "http://shaps.unimelb.edu.au/classics-archaeology"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

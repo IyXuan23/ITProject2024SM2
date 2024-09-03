@@ -1,0 +1,173 @@
+{
+    "subject name": "Fundamentals of Cell Biology",
+    "subject code": "CEDB20003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The subject builds on the basic cell biology concepts introduced in first year biology and develops students\u2019 understanding of the processes that regulate the structure and function of eukaryotic cells. Using examples from plant and animal cells, the subject will outline the cellular structures and molecular processes that are fundamental for regulating cell function in multicellular organisms. It will also explore the external signals (physical, molecular, electrochemical) that can lead to changes in cell behaviour, gene expression, protein synthesis or cell replication."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "BIOL10008",
+                    "BIOL10009"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following: MC-SCIBIF Master of Science (Bioinformatics), MC-COMPBIO Master of Computational Biology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BIOM20001"
+    ],
+    "assessments": [
+        {
+            "description": "Mid Semester Test. 45 minutes",
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "description": "Poster; group submission. 1 pages",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "Mid Semester Test. 45 minutes",
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Weekly quizzes; open book\r\nBest 10 of a total of 12 quizzes (10 x 1.5%). 10 minutes",
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Reflection tasks; delivered online. 10 minutes (each)",
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "description": "Exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. Submission of at least 9 of 12 weekly worksheets (group or individual)",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Charlotte Clark"
+                },
+                {
+                    "Coordinator": "Jenny Gunnersen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours asynchronous online eLearning per week; 3 hours synchronous f2f workshops per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Charlotte Clark"
+                ],
+                "email": [
+                    "charlotte.clark@unimelb.edu.au",
+                    "jenny.gunnersen@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "B Alberts, A Johnson, J Lewis, M Raff, K Roberts & P Walter,Molecular Biology of the Cell, 6th edition, Garland Science (2015)."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is not available to students enrolled in the Bachelor of Biomedicine.",
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course.",
+            "This subject is available to students enrolled in the New Generation BSc, pre-2008 BSc, pre-2008 BASc, pre-2008 BBiomedSc.",
+            "Students undertaking this subject will be expected to regularly access an Internet-enabled computer. During semester there will be limited access to computer laboratories."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

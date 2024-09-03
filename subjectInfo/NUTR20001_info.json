@@ -1,0 +1,167 @@
+{
+    "subject name": "Food Nutrition and Health",
+    "subject code": "NUTR20001",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "In modern societies we are experiencing the great health challenges due to the way we live our lives. The driving force for our modern epidemic of obesity, diabetes and cardiovascular diseases is our own lifestyle, and at the leading edge of these factors is diet. This subject will look at the changes in diet over time with particular reference to our evolutionary development as a bipedal omnivore and the foods we evolved with and compare these to modern processed foods.",
+        "Connections will be made with these changed dietary factors to our health situation today, effects on the microbial makeup of our guts, with an overview of specific diet related medical conditions that have become common in modern times. These health-related issues will also be viewed from within a human life cycle framework from conception to old age. The subject will also look into how nutrition research is done, showing students how to separate actual scientific evidence from the plethora of information presented in popular press books, web sites and blogs.",
+        "The subject will combine lectures and tutorial activities that involve critically reviewing current scientific studies relating foods to health and disease and an assignment investigating in depth a specific food health connection. The topics to be covered are:",
+        "Research methodology and evidence in nutrition science",
+        "Evolution & human diet",
+        "Life cycle nutrition",
+        "Obesity and Metabolic Syndrome",
+        "Diet and CVD",
+        "Diet and diabetes",
+        "Diet and cancer",
+        "Diet and the gut microbiome"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "AGRI20043",
+                    "BIOM20001",
+                    "BIOM20002",
+                    "FOOD20003"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "BCMB20002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "FOOD20008"
+    ],
+    "assessments": [
+        {
+            "description": "Journal article critical review. 500 words",
+            "timing": "Week 8",
+            "percentage": "15%"
+        },
+        {
+            "description": "Mid semester test. 1 hours",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group assignment - 750 words written submission + 3min presentation (per student in group). 1000 words (equivalent)",
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Attendance and participation. Hurdle requirement:. Students must attend and complete at least 75% of the weekly tutorials and learning materials",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Kate Howell"
+                },
+                {
+                    "Coordinator": "Shirley Poon"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours - 1 x 2 hour lecture, 1 x 1 hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "khowell@unimelb.edu.au",
+                    "shirley.poon@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    [
+                        "Understanding Nutrition Australia & NZ 2nd edition, Whitney, Rolfes, Crowe, Cameron-Smith et al",
+                        "Journal article readings will be provided via the Learning Management System (LMS)."
+                    ]
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

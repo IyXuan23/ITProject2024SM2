@@ -1,0 +1,128 @@
+{
+    "subject name": "Enterprise Systems",
+    "subject code": "ISYS90036",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject is intended to help students understand (a) what in packaged enterprise application software (PEAS) is, (b) how such software is implemented, and (c) how organisations can maximize benefits from their often-large investments in packaged-software-based systems such as Enterprise Resource Planning (ERP), Customer Relationship Management (CRM), Supply Chain Management (SCM), and Business-Intelligence (BI) systems. These systems are important because most organisations around the world today rely on such systems to support their core business processes."
+    ],
+    "indicative content": [
+        "The subject discusses (a) what enterprise-systems software is, (b) claimed advantages and limitations of enterprise systems, (c) how best to implement packaged enterprise application software, (d) future directions that PEAS are likely to head as vendors respond to market pressures for integration between heterogeneous information systems, cloud computing, greater access from mobile devices, and demand for more information faster than ever before, and (e) what organisations need to do to maximize benefits from their often-large investments in packaged enterprise application software. Students will normally undertake approximately 10-15 hours of hands-on exercises with software from a leading vendor, SAP.",
+        "Please view this video for further information:Enterprise Systems"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ISYS90026"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One group assignment (3 members): analysis of Enterprise Systems related case studies. Intended Learning Outcomes (ILO's) 1, 2 and 3 are addressed in the group assignment. \r\n\r\nStudents must obtain a minimum weighted average mark of 50% for the two assignments.. 3000 words",
+            "timing": "Week 8",
+            "percentage": "30%"
+        },
+        {
+            "description": "One individual assignment: understanding SAP ERP software. \r\n\r\nIt involves completing two modules and writing a reflection of approximately 1500 words. The first module is due in week 6, the second module in week 8 and the report with reflection in week 12.\r\n\r\nILO's 1 and 4 are addressed in the individual assignment.\r\n\r\nStudents must obtain a minimum weighted average mark of 50% for the two assignments.. 25-30 hours (of work required)",
+            "timing": "Week 6, Week 8, and Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "One written 2-hour closed book end of semester examination. ILO's 1 to 3 are addressed in the examination.. 2 hours. Hurdle requirement:. Yes, To pass the subject, students must obtain at least 50% of the marks available in the examination.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Sherah Kurnia"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours per week, comprising of one 1.5-hour lecture and one 1.5-hour workshop in computer labs."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Sherah Kurnia"
+                ],
+                "email": [
+                    "sherahk@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Information about the recommended subject readings are available in the Subject Notes section."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Learning and Teaching Methods",
+            "The subject is delivered in 3-hour classes, with each class containing two lectures on theoretical concepts, and a class discussion or student presentations on a research paper related to the current lecture topic. Outside class, students will study theory and complete exercises designed to increase understanding of what enterprise systems are, and the way that they can contribute value to organisations.",
+            "Indicative Key Learning Resources",
+            "The key subject \u201chandout\u201d, including details of assignment and questions for discussion, will be available online from LMS. Key articles will be available online via the university library. Exercises for hands-on use of SAP ERP will be available online. Students will be provided with an account on an SAP ERP system sourced from the SAP-supported University Competency Centre at QUT. Lectures will be audio recorded via Lecture Capture and made available online.",
+            "Careers/Industry Links",
+            "This subject is relevant to careers as business analysts, IT managers, and consultants. Since almost all large organisations today have implemented enterprise systems, and such systems are constantly being upgraded, there is a large on-going demand for people with knowledge of this topic from both consulting and user organisations. Students will work on real-world cases of organisations attempting to maximise benefits from their use of enterprise systems. There will be one or two lectures from invited practitioners from industry."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.cis.unimelb.edu.au"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

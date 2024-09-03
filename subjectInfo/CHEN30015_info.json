@@ -1,0 +1,165 @@
+{
+    "subject name": "Safety and Sustainability Case Studies",
+    "subject code": "CHEN30015",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides an introduction to process work in process engineering, focusing specifically on process safety and sustainability. Material taught in other chemical engineering subjects will be reinforced via a series of assignments in which ill-defined and open-ended process engineering problems will be tackled. Both hypothetical and real case studies from the process engineering field are used throughout the subject.",
+        "Several assessment tasks combine to form a capstone project. Within this project students, in teams of three or four, perform design tasks related to the development of a Chemical Process Engineering facility. This capstone project culminates in an Environmental Effects Statement assignment. Several industry speakers, from the process engineering and environmental areas, talk and provide content to aid with this assignment.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CHEN20011",
+                    "ENGR30002"
+                ],
+                [
+                    "CHEN30016"
+                ],
+                "Note: these can be taken concurrently (at the same time)",
+                [
+                    ""
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note: these can be taken concurrently (at the same time)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CHEN90017 Process Engineering Case Studies"
+    ],
+    "assessments": [
+        {
+            "description": "Seven in-class Assignments, worth 50% (in total), conducted in groups of 3-4 students, each to be completed within a 3-hour workshop session. Preparation time of approximately 4-5 hours for each workshop (including pre-reading and additional research tasks). All Intended Learning Outcomes (ILOs) are addressed in these assignments. Delivered throughout the semester starting from Week 1. Workshops use both allocated and self-selected team assignments, with peer assessment employed to moderate individual grades. 60 hours (of work required)",
+            "timing": "Throughout the semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "One take home written report, conducted individually, worth 15%, and due in Weeks 4-5 of the semester, consisting of a maximum of 10 A4 pages (min 11pt font, single spaced, including any appendices, figures and tables). Overall time commitment of 15-20 hours. ILOs addressed in this assignment: 1, 2, 3, 6, 8. 20 hours (of work required)",
+            "timing": "From Week 4 to Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "One take home written report conducted individually, worth 10%, and due in Weeks 7-8 of the semester, consisting of a maximum of 6 A4 pages (min 11pt font, single spaced, including any appendices, figures and tables.) Overall time commitment of approximately 10-13 hours. ILOs addressed in this assignment: 1, 2, 3, 10. 13 hours (of work required)",
+            "timing": "From Week 7 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "description": "One take home written report conducted individually, worth 15%, and due in Week 10 of the semester, consisting of a maximum of 10 A4 pages (min 11pt font, single spaced, including any appendices, figures and tables.) Overall time commitment of 15-20 hours. ILOs addressed in this assignment: 1, 2, 3, 5, 7, 9. 20 hours (of work required)",
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "description": "One take home written report, conducted in groups of 3-4 students, worth 10%, and due in Week 12 of the semester, consisting of a maximum of 34 A4 pages for the group (page limit based on a group of 4, min 11pt font, single spaced, including any appendices, figures and tables.) Overall time commitment of 10-13 hours. ILOs addressed in this assignment: 1, 2, 3, 4, 5, 6, 7, 11, 12. 13 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Dalton Harvie"
+                },
+                {
+                    "Coordinator": "Stefano Freguia"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x two hour lecture + 1 x three hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Associate Professor Dalton Harvie"
+                ],
+                "email": [
+                    "daltonh@unimelb.edu.au",
+                    "stefano.freguia@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "Within this subject there is a mix of learning and teaching methods employed:",
+            [
+                "Lectures where technical content is reviewed",
+                "Group-based time-limited workshops. Students are expected to complete reading tasks prior to these workshops. The pre-reading may or may not be based upon technical content previously delivered in lectures. Peer assessment techniques are employed within these workshops",
+                "One of the larger assignments (take home) uses industrially relevant computer simulation packages. Computer lab time/space is made available",
+                "When examining the wider context in which engineers operate, videos and other multimedia material are employed",
+                "Several (>10) external speakers also place the knowledge learnt/practiced in current engineering context."
+            ],
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Lecture notes and relevant multimedia material are provided throughout the course (available for download from LMS). Students are expected to use the library, internet and other resources to research some of the topics themselves.",
+            "CAREERS / INDUSTRY LINKS",
+            "Depending on year-to-year availability and relevance to the various chosen projects, typically more than 10 external (industry) speakers participate in this course. Alongside providing valuable context to the projects and detailing current practice, these external speakers also outline current employment opportunities within the profession and give overviews of their particular industrial area."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

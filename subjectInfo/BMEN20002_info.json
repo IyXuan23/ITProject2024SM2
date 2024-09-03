@@ -1,0 +1,142 @@
+{
+    "subject name": "Anatomy & Physiology for Bioengineering",
+    "subject code": "BMEN20002",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject introduces students to human anatomy and physiology relevant to bioengineering applications, including medical devices and technology that overcomes physical disabilities. Students will be introduced to anatomical terminology, the structure and appearance of cells and tissues, biomedical engineering technologies, quantitative measurements and experimental techniques used to investigate the structure and function of different tissues, organs and organ systems. The anatomy and physiology taught in this subject may include the musculoskeletal system, sensory systems, neural systems and the cardiovascular system."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "BIOL10002",
+                    "BIOL10004",
+                    "BIOL10008",
+                    "BIOL10009"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time):"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BIOL10002",
+                    "BIOL10004",
+                    "BIOL10008",
+                    "BIOL10009"
+                ]
+            ],
+            "alternate pre-requisite": [
+                "Admission into the MC-BIOMENG Master of Biomedical Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ANAT20006",
+        "BIOM20002",
+        "PHYS20008"
+    ],
+    "assessments": [
+        {
+            "description": "Four individual assignments, in either written or oral format (500 words per written assignment or 5 minutes per oral presentation)(Weeks 4,6,8,10). Intended Learning Outcomes (ILOs) 1 - 5 are addressed in this assessment.. 2000 words",
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "One group written assignment (in teams of 2 - 3), 500 words per student. ILOs 1 - 5 are addressed in this assessment.. 500 words",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "One 2-hour written examination. ILOs 1 - 5 are addressed in this assessment.. 2 hours. Hurdle requirement:. Students must pass the end of semester examination to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinators": "Hamish Meffin and Daniel Heath"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3x 1-hour lectures per week (total 36 hours);\r\n1x 1-hour tutorial per week (total 12 hours);\r\n4x 3-hour workshops (total 12 hours);"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Associate Professor  Hamish Meffin"
+                ],
+                "email": [
+                    "hmeffin@unimelb.edu.",
+                    "au",
+                    "daniel.heath@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject is delivered through lectures, tutorials, quizzes and workshops. Assessment is in the form of workshop reports, an assignment, and a final exam.",
+            "INDICATIVE KEY LEARNING RESOURCESStudents are provided with lecture slides and recording, tutorials with worked solutions, tutorials with discussed solutions, previous exam questions with discussed solutions, and textbook references.",
+            "CAREERS / INDUSTRY LINKSThe lecture series features numerous guest lecturers from industry. Collectivlely, these lectures illustrate  many examples of how the  knowledge and concepts taught about the anatomy and physiology of systems of the body can be related to clinical applications relevant to biomedical engineering."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

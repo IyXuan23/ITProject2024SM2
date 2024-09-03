@@ -1,0 +1,154 @@
+{
+    "subject name": "Grid Integration of Renewables",
+    "subject code": "ELEN90077",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject develops a foundation for pursuing electrical engineering oriented research in the area of sustainable energy systems. This subject aims to introduce the concepts behind smart grids, future low-carbon energy networks, sustainable electricity systems as well as the main renewable and low-carbon generation technologies. The subject will introduce students to tools and techniques so that distributed energy resources (e.g. distributed renewable generation, storage, electric vehicles, demand response, etc.) may be integrated effectively into the power system in the context of both traditional grids and future smart grids."
+    ],
+    "indicative content": [
+        "This subject will cover the following topics:",
+        "Distributed low-carbon technologies",
+        "Introduction to distribution networks",
+        "Introduction to distributed low-carbon technologies (wind energy, photovoltaic systems, electric vehicles, electric heating, storage)",
+        "Wind Energy: impacts and challenges",
+        "Photovoltaic systems: impacts and challenges",
+        "Electric vehicles: impacts and challenges",
+        "Electric heat pumps and electric heating: impacts and challenges",
+        "Storage: impacts and challenges",
+        "Smart Distribution and Smart Transmission Networks",
+        "Distributed low-carbon technologies and active network management",
+        "Towards Smart Grids",
+        "Smart grids - Transmission and Distribution perspectives",
+        "Smart Transmission: HVDC and FACTS, dynamic line rating, post-contingency security, special protection schemes",
+        "The role of future Distribution System Operators",
+        "Low-carbon Electricity System",
+        "Towards low-carbon networks: relationship between sustainability and smart grids",
+        "Introduction to low-carbon thermal generation (nuclear, Carbon Capture and Storage, Concentrated Solar Power, biomass, etc.)",
+        "Utility-scale renewable technologies: wind farms; solar farms; other large-scale renewables; utility-scale batteries",
+        "System-level operational challenges and solutions for renewables integration: variability and uncertainty; low-inertia operation; low system-strength operation; minimum load issues; DER visibility; indistinct events; general stability issues; flexibility",
+        "System-level planning challenges and solutions for renewables integration: system adequacy and reliability; capacity credit of renewables and storage; extreme weather events and resilience; role of transmission",
+        "Sector coupling and multi-energy systems: decarbonisation of gas, heating and transport; role of hydrogen",
+        "Distributed energy systems: new technical and commercial architectures for two-sided systems and markets; demand response; aggregators and virtual power plants; distributed energy markets; peer-to-peer trading; local energy communities; microgrids"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Enrolment in a research higher degree (MPhil or PhD) in Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ELEN90074"
+                ]
+            ],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-ELECENG Master of Electrical Engineering",
+                "Electrical specialisation (formal) in the MC-ENG Master of Engineering",
+                "Electrical with Business specialisation (formal) in the MC-ENG Master of Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Individual Assessment / Project- \r\nWorkshop report. ILOs 3, 5, 6, and 7 are addressed in this assessment.. 36 hours (of work required)",
+            "timing": "From Week 1 to Week 6",
+            "percentage": "30%"
+        },
+        {
+            "description": "Individual Assessment / Project- \r\nWorkshop report.  ILOs 3, 5, 6, and 7 are addressed in this assessment.. 36 hours (of work required)",
+            "timing": "From Week 7 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "One written examination at the end of semester. ILOs 1-6 are addressed in this assessment.. 2 hours. Hurdle requirement:. Examination must be passed",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "Nando Ochoa Pizzali and Pierluigi Mancarella"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36  hours of lectures, up to 12 hours of tutorials, and up to 12 hours of workshops"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Prof. Nando Ochoa Pizzali"
+                ],
+                "email": [
+                    "luis.ochoa@unimelb.edu.au",
+                    "pierluigi.mancarella@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This mode of delivery of this subject is through lectures supported by tutorials and practical hands-on workshops.",
+            "Full set of lecture notes, tutorial sets and model solutions as well as workshop instructions are provided.",
+            "Guest speakers from the power industry are usually invited to give seminars on technical issues related to their respective companies and how these issues relate to the content of this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

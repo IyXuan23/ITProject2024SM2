@@ -1,0 +1,226 @@
+{
+    "subject name": "Distributed Systems",
+    "subject code": "COMP90015",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "The subject aims to provide an understanding of the principles on which the Web, Email, DNS and other interesting distributed systems are based. Questions concerning distributed architecture, concepts and design; and how these meet the demands of contemporary distributed applications will be addressed."
+    ],
+    "indicative content": [
+        "Topics covered include: characterization of distributed systems, system models, interprocess communication, remote invocation, indirect communication, operating system support, distributed objects and components, web services, security, distributed file systems, and name services."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "COMP90007",
+                    "COMP90038",
+                    "COMP90041"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:MC-MTRNENG Master of Mechatronics EngineeringMC-SOFTENG Master of Software EngineeringMC-ENG Master of EngineeringMC-SCICMP Master of Science (Computer Science)MC-CS Master of Computer ScienceGC-CS Graduate Certificate in Computer ScienceMC-DINFENG Master of Digital Infrastructure EngineeringMC-ELECENG Master of Electrical Engineering",
+                "MC-MTRNENG Master of Mechatronics Engineering",
+                "MC-SOFTENG Master of Software Engineering",
+                "MC-ENG Master of Engineering",
+                "MC-SCICMP Master of Science (Computer Science)",
+                "MC-CS Master of Computer Science",
+                "GC-CS Graduate Certificate in Computer Science",
+                "MC-DINFENG Master of Digital Infrastructure Engineering",
+                "MC-ELECENG Master of Electrical Engineering",
+                "MC-MTRNENG Master of Mechatronics Engineering",
+                "MC-SOFTENG Master of Software Engineering",
+                "MC-ENG Master of Engineering",
+                "MC-SCICMP Master of Science (Computer Science)",
+                "MC-CS Master of Computer Science",
+                "GC-CS Graduate Certificate in Computer Science",
+                "MC-DINFENG Master of Digital Infrastructure Engineering",
+                "MC-ELECENG Master of Electrical Engineering"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                "Selection of one of the following:"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "100pt Program course entry point in the MC-IT Master of Information Technology",
+                "150pt Program course entry point in the MC-IT Master of Information Technology",
+                "Admission into or selection of one of the following:Computing specialisation (formal) in the MC-IT Master of Information TechnologyCyber Security specialisation (formal) in the MC-IT Master of Information TechnologyDistributed Computing specialisation (formal) in the MC-IT Master of Information TechnologyArtificial Intelligence specialisation (formal) in the MC-IT Master of Information TechnologyDigital Innovation (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                "Cyber Security specialisation (formal) in the MC-IT Master of Information Technology",
+                "Distributed Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                "Artificial Intelligence specialisation (formal) in the MC-IT Master of Information Technology",
+                "Digital Innovation (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                "Cyber Security specialisation (formal) in the MC-IT Master of Information Technology",
+                "Distributed Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                "Artificial Intelligence specialisation (formal) in the MC-IT Master of Information Technology",
+                "Digital Innovation (150pt) specialisation (formal) in the MC-IT Master of Information Technology"
+            ]
+        },
+        {
+            "option": "Option 4",
+            "necessary pre-requisite": [
+                "Selection of the Human-Computer Interaction specialisation (formal) in the MC-IT Master of Information Technology"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual project work of approximately 50-55 hours of work, which reinforce lecture content and develop programming and writing skills. Project work is assessed in stages throughout the semester, with half of the work typically due in Week 8 and the remaining work due in Week 12. Intended Learning Outcomes (ILO's) 1 and 2 are  addressed extensively in the individual project work.. 50-55 hours (of work required). Hurdle requirement:. To pass the subject, students must obtain 20/40 in the individual project work.",
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "One 3 hour written examination. ILO 1 is addressed in this assessment.. 3 hours. Hurdle requirement:. To pass the subject, students must obtain 30/60 in the end-of-semester written examination.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Rajkumar Buyya"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of two hours of lectures and one hour of tutorial classes per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Rajkumar Buyya"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of two hours of lectures and one hour of tutorial classes per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Rajkumar Buyya"
+                ],
+                "email": [
+                    "rbuyya@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "rbuyya@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "TBA"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject will be delivered through a combination of lectures, tutorials and project work. The project work involves developing a distributed application and writing a report.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students will have access to lecture notes and lecture slides. The subject LMS site also contains links to recommended literature and current survey papers of distributed system principles and paradigms.",
+            "CAREERS / INDUSTRY LINKS",
+            "The subject provides the fundamentals in distributed systems that support a career in areas such as IT System Engineer, Enterprise Architect, Analytics, Software Developer, Systems Administration, and Network Engineer."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

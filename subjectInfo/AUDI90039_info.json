@@ -1,0 +1,101 @@
+{
+    "subject name": "Speech Pathology Practice 3",
+    "subject code": "AUDI90039",
+    "subject availability": [
+        "Semester 2 (Extended)"
+    ],
+    "overview": [
+        "The final clinical practice subject will consolidate the knowledge in Speech Pathology Practice 1 and 2. The subject extends the student's experience of speech pathology clinical settings and prepares the student for independent clinical practice following graduation. The clinical placements for this subject may include hospitals, community clinics, early intervention centres, specialist centres, school, private practices, residential aged care facilities and other clinical settings. Students will be allocated to 4 week placement during semester. Students can anticipate a rural placement during this subject OR AUDI90039 Speech Pathology Practice 3. This will be at the personal expense of students.",
+        "The student will be expected to engage with and actively participate in a variety of clinical experiences, assessing and managing a range of communication and/or swallowing disorders with infants, children, young people and adults. This subject provides the opportunity for students to develop their own personal growth and identity as a speech pathologist. Students will independently select and implement relevant diagnostic procedures and will plan and implement methods for the reduction of communication and/or swallowing difficulties during their clinical placements within this subject. To support student learning, workshops including reflective practice and discussion of clinically-relevant topics, will accompany the clinical placement experiences."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AUDI90033",
+                    "AUDI90034",
+                    "AUDI90035",
+                    "AUDI90036"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Hurdle requirement:. This subject is assessed as Pass/Fail. Students must pass all components of assessment to pass the subject.",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Assessment by Objective Structured Clinical Examination (OSCE).",
+            "timing": "The end of Semester 2",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Assessment of two clinical placements. Students' clinical performance during each placement will be assessed via the 'Competency Assessment in Speech Pathology' (COMPASS\u00ae) and the completion of a Clinical Portfolio.",
+            "timing": "The COMPASS\u00ae Assessments and the Clinical Portfolio are to be submitted within one (1) week after the final day of the clinical placement.",
+            "percentage": "N/A"
+        },
+        {
+            "description": "100% attendance and participation at all clinical placements.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Coordinator": "Ana Lopez Flores"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "320 hours"
+                },
+                {
+                    "Total time commitment": "368 hours"
+                },
+                {
+                    "Teaching period": "24 June 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "5 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "19 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://healthsciences.unimelb.edu.au/departments/audiology-and-speech-pathology"
+        ]
+    }
+}

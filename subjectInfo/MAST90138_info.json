@@ -1,0 +1,132 @@
+{
+    "subject name": "Multivariate Statistics for Data Science",
+    "subject code": "MAST90138",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Modern statistics and data science deals with data having multiple dimensions. Multivariate methods are used to handle these types of data. Approaches to supervised and unsupervised learning with multivariate data are discussed. In particular, methods for classification, clustering, and dimension reduction are introduced, which are particularly suited to high-dimensional data. Both parametric and nonparametric approaches are discussed."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST30025"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "MAST90104"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of:",
+                "\u2022 Master of Data Science (MC-DATASC) - Statistics Background Stream",
+                "\u2022 Master of Data Science (MC-DATASC) - Data Science Background Stream"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MAST90085 Multivariate Statistical Techniques"
+    ],
+    "assessments": [
+        {
+            "description": "Up to 20 pages of written assignments\u00a0(equivalent to approx. 20 hours). 20 pages",
+            "timing": "Early in the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Up to 20 pages of written assignments (equivalent to approx. 20 hours). 20 pages",
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Up to 20 pages of written assignments (equivalent to approx. 20 hours). 20 pages",
+            "timing": "Late in the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "55%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Dennis Leung"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours comprising 2 one-hour lectures per week and 1 one-hour practice class per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "dennis.leung@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

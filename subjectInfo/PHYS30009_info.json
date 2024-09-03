@@ -1,0 +1,135 @@
+{
+    "subject name": "Experimental Physiology",
+    "subject code": "PHYS30009",
+    "subject availability": [],
+    "overview": [
+        "This subject is designed for students interested in becomingcareer researchers. Students will work in groups of 10-12 individuals. Each group will select one project from a list of available research questions, research appropriate background information, formulate hypotheses/aims, design an experiment to test those hypotheses/aims, carry out the experiment over a 4 week experimental period, and ultimately write up their findings in the format of a peer-reviewed journal article. This subject will allow more independence in conceptualisation and execution of the research questions than the second-year subjectResearch-Based Physiology (PHYS20009)."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHYS20008",
+                    "PHYS20009"
+                ],
+                [
+                    "BIOM20002"
+                ],
+                "Bachelor of Science (pre 2009)"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Bachelor of Science",
+                "Bachelor of Biomedicine",
+                "All of:  \n\n536-201 Principles of Physiology and\n536-211 Physiology: Control of Body Function and\n536-222 Experimental Physiology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Presentation of a journal article. 10 minutes",
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "description": "Online submission of literature review (group task/10 students). 1000 words",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Academic assessed participation (5%) and peer-reviewed participation (5%) (ongoing)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final written report. 2000 words",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Laboratory notebook (Maintained throughout semester). 1000",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "Yossi Rathner and Angelina Fong"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3hrs Practical per week\r\n3hrs Workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "21 January 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "joseph.rathner@unimelb.edu.au",
+                    "angelina.fong@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Silverthorn, D.U., Human Physiology: An Integrated Approach 6th Ed., 2012 \u2013 Pearson"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "quota subject - application deadline as perhttp://biomedicalsciences.unimelb.edu.au/study/current-student-information/quota-subjects",
+                    "quota subject - application deadline as perhttp://biomedicalsciences.unimelb.edu.au/study/current-student-information/quota-subjects"
+                ]
+            }
+        ]
+    }
+}

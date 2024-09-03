@@ -1,0 +1,145 @@
+{
+    "subject name": "Chemistry: Structure and Properties",
+    "subject code": "CHEM20020",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject covers key concepts related to the stereochemical and electronic properties of molecules and the methods central to their study. Important elements of the subject include the spectroscopic characterisation and quantification of materials by a range of spectroscopic techniques, molecular orbital techniques and the application of approaches based on molecular symmetry and group theory to the understanding of molecular properties, stereo-selective reactions, bonding and spectroscopy. These topics have applications to advanced materials, light emitting polymers, chemical analysis and catalysis in biological and industrial systems."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CHEM10004"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students who have only successfully completed CHEM10006 Chemistry for Biomedicine or CHEM10009 Chemistry for BioSciences are required to contact the coordinator for approval."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "Students who have completed this subject cannot also gain credit for:",
+        "CHEM20014 Organic and Physical Chemistry 2",
+        "CHEM20021 Physical Chemistry 2",
+        "CHEM20022 Organic Chemistry 2",
+        "CHEM20023 Inorganic Chemistry 2",
+        "CHEM20024 Organic and Inorganic Chemistry 2",
+        "CHEM20025 Physical and Inorganic Chemistry 2"
+    ],
+    "assessments": [
+        {
+            "description": "Five short tests each of up to 60 minutes duration conducted on-line using the learning management system (LMS); the tests will run in weeks 2, 4, 7, 10 and 12 and each test will contribute equally to this component of the assessment. 60 minutes (each)",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "An examination. 3 hours",
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Patricia Jackson"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week; 1 x one hour tutorial per week; 3 x one hour seminars during the semester. Total 51 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "pjackson@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "P Atkins and J De Paula,Atkins\u2019 Physical Chemistry, 10th Ed, Oxford University Press, 2014",
+                    "M. Weller, T. Overton, J. Rourke and F. Armstrong,Inorganic Chemistry,6th Ed, Oxford University Press, 2014",
+                    "J. Clayden, N. Greeves and S. Warren,Organic Chemistry, 2nd Ed, Oxford University Press, 2012"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "It is recommended that students who plan to major in Chemistry to also have completed the following:",
+            [
+                "Mathematics and Statistics - two semesters of first year mathematics, for example MAST10005 Calculus 1, MAST10006 Calculus 2 and/or MAST10007 Linear Algebra.",
+                "Physics - VCE Units 3/4 12 Physics or equivalent, for example PHYC10005 Physics 1: Fundamentals"
+            ]
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "subject name": "Health Economics 2",
+    "subject code": "POPH90229",
+    "subject availability": [
+        "Semester 2 - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject builds on and extends the theoretical and analytical approaches to health economics introduced in Health Economics 1. The aim is to enhance students\u2019 ability to undertake economic analysis of health, health care and health policy issues by the use of more advanced theoretical and quantitative approaches.  The topics to be covered include Grossman\u2019s model of health production; health care quality; efficiency and equity of health care markets; health care costs control and financing; the economics of the pharmaceutical and life sciences industry; the economics of public and private health insurance; externalities and government\u2019s role in health care; health system reform; and evaluating the performance and impact of a health policy."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "POPH90094"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One Minor Assignment. 1500 words",
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "description": "Online examination. 1 hours",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Major essay. 2500 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Sabine Deij"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "30 hours (22 hours of lectures and 8 hours of tutorials, roughly 2-3 hours per week)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "sabine.deij@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "McPake, Normand, Smith and Nolan, \"Health Economics: An International Perspective\", Chapter 23-24, 4th Edition, 2020, Routledge"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Students will have access to electronic copies of relevant readings on LMS."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.mspgh.unimelb.edu.au"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

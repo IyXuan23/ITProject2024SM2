@@ -1,0 +1,188 @@
+{
+    "subject name": "Data Science Research Project Pt1",
+    "subject code": "MAST90108",
+    "subject availability": [
+        "Summer Term",
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "In this subject, students undertake a substantial research program in the area of Data Science. The research will be conducted under the supervision of a member of the School of Mathematics and Statistics or the Computing and Information Systems academic staff. The results will be reported in the form of a thesis and an oral presentation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students must have agreement from a supervisor."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A preliminary literature survey and research plan. 2 pages. Hurdle requirement",
+            "timing": "In the last week of teaching in Data Science Research Project pt1",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Students will give a presentation on their research projects where they will be assessed on their presentation skills and their ability to communicate their research to a general audience in a concise manner. 15 minutes",
+            "timing": "During weeks\u00a06-9 of the teaching period in Data Science Research Project pt2",
+            "percentage": "10%"
+        },
+        {
+            "description": "A thesis is the main requirement. Theses are expected to be 30-40 pages in length, excluding references, appendices, figures, and tables. Two bound hard copies of the thesis are to be submitted,\u00a0due in the last week of the teaching period in Data Science Research Project pt2. 30-40 pages",
+            "timing": "After the full 25 points of enrolment in the Data Science Research Project component",
+            "percentage": "90%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Coordinators": "Karim Seghouane and Michael Kirley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project. The minimum contact hours will be weekly one hour (6 X 1 hour)."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to  2 February 2024"
+                },
+                {
+                    "Last self-enrol date": "5 January 2024"
+                },
+                {
+                    "Census date": "19 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "23 February 2024"
+                }
+            ]
+        },
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "Michael Kirley and Karim Seghouane"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project. The minimum contact hours will be weekly one hour (12 X 1 hour)."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinators": "Karim Seghouane and Michael Kirley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project. The minimum contact hours will be weekly one hour (12 X 1 hour)."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [
+                    ","
+                ],
+                "email": [
+                    "mkirley@unimelb.edu.au",
+                    "abd-krim.seghouane@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 1": {
+                "name": [
+                    ","
+                ],
+                "email": [
+                    "mkirley@unimelb.edu.au",
+                    "abd-krim.seghouane@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    ","
+                ],
+                "email": [
+                    "mkirley@unimelb.edu.au",
+                    "abd-krim.seghouane@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

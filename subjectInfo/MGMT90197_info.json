@@ -1,0 +1,103 @@
+{
+    "subject name": "Advanced Organisational Behaviour",
+    "subject code": "MGMT90197",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject provides an advanced level survey of major topics in organisational behaviour (OB) research with a focus on identifying emerging areas of research in the field and related disciplines of general management, applied psychology, organisational studies and human resource management. Topics discussed may include: personality and individual differences, diversity, psychological and social-psychological theories, employee motivation and well-being, creativity and innovation, organizational justice, theories of leadership, leadership emergence and effectiveness, team dynamics, organisational culture/climate, social capital in the workplace, multilevel theory of the organisation, and the dark side of organisational life."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "MC-COMMGMT Master of Commerce (Management)",
+                "MC-COMMKTG Master of Commerce (Marketing)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Class attendance, preparation, and contribution",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Discussion assignments. 1500 words (equivalent)",
+            "timing": "From Week 4 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "Research reflection assignments. 1500 words (equivalent)",
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Individual Project. 2500 words",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Andrew Yu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "A/Prof Andrew Yu",
+                    ""
+                ],
+                "email": [
+                    "andrew.yu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ]
+    }
+}

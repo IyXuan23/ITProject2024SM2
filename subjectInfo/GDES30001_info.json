@@ -1,0 +1,137 @@
+{
+    "subject name": "Infographics Studio",
+    "subject code": "GDES30001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Infographics Studio introduces students to infographics through basic analogue techniques, high resolution digital technologies and current software programs, with a particular emphasis on the needs of graphic designers today.",
+        "The subject comprises lectures and project work exploring how complex information (data) can be transformed into elegant, simple and inventive graphic solutions. The subject alsointroduces artists and art movements significant to historical and contemporary visualisation.",
+        "Students investigate print, animated infographics and navigational/signage systems (including architectural/environmental signage), exploring ways to make the potentially arid stimulating, dynamic and persuasive.",
+        "Materials and SoftwareAdobe CC is required software for this subject. Please note that Adobe CC software is available in the labs on campus for all Breadth and Graphic Design students."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Note: the following subjects can also be taken concurrently (at the same time)",
+                [
+                    "FINA20029",
+                    "GDES30002"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "GDES20002"
+                ],
+                [
+                    "GDES20001"
+                ]
+            ],
+            "additional pre-requisite": [
+                "FINA20038 Colour Studio",
+                "FINA20037  Graphic Design Studio 2: Image and Media"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "5-minute individual presentation followed by a 500-word written paper. Class presentations take place in weeks 4\u20136. Written paper is due one week after presentation.. 1000 words (equivalent)",
+            "timing": "Mid teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Group presentation of a team-based design commission, developed by students to a specified brief, including research, a development folio and essay. Group Mark.. 1500 words (equivalent)",
+            "timing": "Second half of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Visual design portfolio. 2000 words (equivalent)",
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum of 75% of scheduled classes.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Students must submit all elements of assessment to be eligible for a pass in this subject. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Narelle Desmond"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising one 3-hour studio per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Narelle Desmond"
+                ],
+                "email": [
+                    "narelle.desmond@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Materials and SoftwareAdobe CC is required software for this subject. Please note that Adobe CC software is available in the labs on campus for all Breadth and Graphic Design students."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Design"
+            ]
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

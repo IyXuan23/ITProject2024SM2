@@ -1,0 +1,131 @@
+{
+    "subject name": "Large Data Methods & Applications",
+    "subject code": "ELEN90094",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This course provides an introduction to an important contemporary statistical toolset for applications including data science, machine learning, signal processing, financial engineering, biomedical engineering, communication systems and other high-dimensional statistical applications. The course will cover topics including introduction to random matrix theory models in engineering; eigenvalue distributions; finite-dimensional and large-dimensional techniques, covariance estimation, principal component analysis and spectral clustering. These topics will be supplemented by applications across a range of traditional and emerging domains involving big data sets.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Note: these can be taken concurrently (at the same time)"
+            ],
+            "one of pre-requisite": [
+                [
+                    "ELEN90054",
+                    "COMP90051",
+                    "MAST90105"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual assignment report. Intended Learning Outcomes (ILOs) 1, 3, 4 are addressed in this assessment.. 25-30 hours (of work required). Hurdle requirement:. Students must score above a hurdle requirement on the total of the individual assignments and final report. The hurdle requirement will be set by the Board of Examiners and be no higher than 50%.",
+            "timing": "From Week 4 to Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "Individual assignment report. ILOs 1, 3, 4 are addressed in this assessment.. 25-30 hours (of work required). Hurdle requirement:. Students must score above a hurdle requirement on the total of the individual assignments and final report. The hurdle requirement will be set by the Board of Examiners and be no higher than 50%.",
+            "timing": "From Week 9 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Submission of a preliminary group-based project report completed in groups (2-3 students). 10 hours of work per student. ILOs 1, 3 are addressed in this assessment.. 10 hours (of work required)",
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "Submission of a final group report not exceeding 30 pages completed in groups (2-3 students), including an individual contribution statement. 30-40 hours of work per student. ILOs 1, 3 are addressed in this assessment.. 30-40 hours (of work required). Hurdle requirement:. Students must score above a hurdle requirement on the total of the individual assignments and final report. The hurdle requirement will be set by the Board of Examiners and be no higher than 50%.",
+            "timing": "Week 14",
+            "percentage": "35%"
+        },
+        {
+            "description": "Oral presentation of project . 20 mins per group. ILOs 1,  are addressed in this assessment.. 20 minutes",
+            "timing": "Week 14",
+            "percentage": "15%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Matthew McKay"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of lectures (1 x two-hour lecture per week) and 12 hours of  Tutorials ( 1 x 1 hour Tutorial per week)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "Prof Matthew McKay: matthew.mckay@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "The subject is delivered through lectures and supported by tutorials.",
+            "Students have online access to subject notes, recorded videos, and problem sets with sample solutions. Throughout semester they have access to software such as MATLAB and software programs which are useful for their assignments and the course project.",
+            "Exposure to simulation tools and algorithms for processing real-world large data sets, interdisciplinary applications and teamwork, through the workshop-style tutorials and team-based course project."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

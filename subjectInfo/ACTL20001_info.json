@@ -1,0 +1,147 @@
+{
+    "subject name": "Introductory Financial Mathematics",
+    "subject code": "ACTL20001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to provide students with basic training on modern financial mathematics methods, which covers an overview of data analysis, principles of actuarial modelling and financial transactions, the understanding of real and nominal interest rates, the time value of money methods, bond pricing methods, assets replication methods, the equation of value methods, and project appraisals methods. This subject focuses on applying the above methods to the mathematical modelling of financial markets."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST10006",
+                    "MAST10007",
+                    "MAST10008",
+                    "MAST10009",
+                    "MAST10021",
+                    "MAST10022",
+                    "MAST20026"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Students must meet one of the following prerequisite options:",
+                "A total of 150 (out of 200) or more across MAST10006 or MAST10021 and MAST10007 or MAST10022;",
+                "A total of 120 (out of 200) or more across both MAST10008 and MAST10009 with a pass in each subject;",
+                "A total of 135 (out of 200) or more across MAST10007 or MAST10022 and MAST10009 with a pass in each subject;",
+                "A total of 135 (out of 200) or more across MAST10008 and MAST10006 or MAST10021 with a pass in each subject;",
+                "A pass in MAST10019 Calculus Extension Studies plus a total of 135 (out of 200) or more across both MAST10018 Linear Algebra Extension Studies and MAST20026 a pass in each subject;",
+                "A pass in MAST10019 Calculus Extension Studies plus a total of 135 (out of 200) or more across MAST10007 or MAST10022 and MAST20026 with a pass in each subject;",
+                "A total of 135 (out of 200) or more across both MAST10018 Linear Algebra Extension Studies and MAST10009 with a pass in each subject;",
+                "A total of 150 (out of 200) or more across both MAST10018 Linear Algebra Extension Studies and MAST10019 Calculus Extension Studies with a pass in each subject;",
+                "A total of 150 (out of 200) or more across both MAST10018 Linear Algebra Extension Studies and MAST10006 or MAST10021;",
+                "A total of 120 (out of 200) or more across both MAST10013 UMEP Mathematics for High Achieving Students and MAST10009 with a pass in each subject."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1. 1000 words",
+            "timing": "First half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assignment 2. 1000 words",
+            "timing": "Second half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours. Hurdle requirement:. To pass this subject, students must pass the end-of-semester exam",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Ping Chen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 1-hour lectures and a 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "pche@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Compound Interest and its Applications, Fitzherbert and Pitt, 2013"
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

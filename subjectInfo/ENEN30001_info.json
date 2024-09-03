@@ -1,0 +1,137 @@
+{
+    "subject name": "Environmental Eng Systems Capstone",
+    "subject code": "ENEN30001",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This capstone subject involves an investigation and problem-solving project which will require students to apply a broad knowledge to realistic problems typical of what would be expected with employment in the environmental engineering industry. The subject revolves around the engineering education framework - CIDO: conceive, design, implement, operate, with the addition of 'monitor and evaluate'. Students will apply skills developed in other subjects to a single overarching project that will run through the entire semester, and demonstrate an ability to design sustainable engineering projects. Focusing on urban stormwater management, the project will require the students to develop a conceptual and quantitative model of a small-scale environmental engineering system (i.e. a biofiltration system). The students will then build and operate these systems and undertake monitoring and analysis of their behaviour to provide a critical appraisal of the original model. Having characterised the system, interpretation and evaluation of the impacts of a scaled up system on associated human and non-human stakeholders will form part of an evidence based report. Students will also be expected to critically evaluate the quality of their model, assumptions, data and analysis. The subject will be supported by specialised lectures and workshops."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST20031",
+                    "ENEN20002",
+                    "CVEN20001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Selection of the Environmental specialisation (formal) in the MC-ENG Master of Engineering"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-ENVENG Master of Environmental Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Oral presentation (10%) of approximately 5 minutes per student on their characterisation of their system, requiring approx. 10-15 hour investigation and preparation plus workshop contact time, due about week 4. Intended Learning Outcomes (ILOs) 1, 2 and 5 are addressed in this assessment. 5 minutes",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Literature review and introductory project report, 800 words (20%) requiring approx. 20-30 hours of work plus workshop contact time, due about week 7. ILOs 1, 2 and 5 are addressed in this  report. 800 words",
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Project methods, results, discussion report, 1500 words (30%). ILOs 1 to 5 are addressed in this report. 1500 words",
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written 2 hour open-book exam (40%) in end semester exam period. ILOs 2, 3 and 4 are addressed in this exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Angus Webb"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours (Lectures: 12 hours per semester; Workshops: 24 hours per semester)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Teaching and learning activities will be based around the research project. Topics for lectures (12 x 1h) and workshops (12 x 2h) will be scheduled to complement project activities and assessment tasks, although phasing of project activities will be left up to project groups. Each week\u2019s lecture topic will reinforce previous learning necessary to complete that phase of the project work. Workshops will be run as consultation sessions to allow students to seek assistance with project implementation, and interpretation and write up of results.",
+            "Project work may need to be undertaken outside of Parkville campus, depending on the nature of the project. This could include other campuses of the university or off-campus locations. Project location will need to be determined during the project conception phase."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "Pre-requisite ENEN20002",
+            "With the subject coordinator\u2019s approval, students admitted to the MC-ENG Master of Engineering may undertake ENEN20002 concurrently with ENEN30001"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

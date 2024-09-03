@@ -1,0 +1,123 @@
+{
+    "subject name": "Quantitative Analysis of Finance II",
+    "subject code": "ECON90010",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The subject will focus on estimating and testing nonlinear models in finance including volatility models, artificial neural networks, factor models of contagion and discrete models of financial behaviour. Special attention will be given to estimating and testing dynamic latent factor models using Principal Components and Kalman filters, modelling risk neutral dynamics in option markets, and fat-tailed behaviour in asset returns using extreme value theory and copulas. Estimation and testing methods are based on maximum likelihood methods. A range of computer software will be used throughout the course. This subject also provides students with the experience of carrying out a research-based project on a specific topic in applied econometrics."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ECON90033",
+                    "ECOM90011"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Equivalent"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Test: MLE Estimation. 30 minutes",
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "description": "Test: MLE Testing. 30 minutes",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Test: Financial Models. 30 minutes",
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "description": "Research Project (including Oral Presentation). 4000 words",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "David Moreton"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three hours per week of lectures and tutorials."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "dmoreton@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students enrolled in the second year of the Master of Finance."
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

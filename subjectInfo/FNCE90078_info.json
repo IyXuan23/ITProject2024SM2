@@ -1,0 +1,101 @@
+{
+    "subject name": "Algorithmic Trading",
+    "subject code": "FNCE90078",
+    "subject availability": [],
+    "overview": [
+        "Global equity markets have changed fundamentally over the last decades Regulatory reforms to promote competition for trading services have led to considerable fragmentation of markets. New entrants and new technology have contributed to innovative new trading mechanisms and pricing structures. Today, markets are overwhelming electronic, with trading occurring using algorithms rather than manually. Graduates wishing to pursue careers in financial markets need to understand the new market structure that exists and have skills to understand and implement trading strategies in this environment. This subject will ensure students develop these skills and knowledge, through a combination of lectures and hands-on experience of manual and robot trading in online experimental markets.",
+        "The class is quite unique. Despite growing importance of computerised trading in financial markets, there exist hardly any finance classes that expose students to the issues, let alone allowing them to develop the skills to conceive robot traders themselves through participation in experimental online markets.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "FNCE30001"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "COMP10001",
+                    "COMP10002"
+                ],
+                [
+                    "ECOM20001",
+                    "ECON20003",
+                    "MAST20004",
+                    "MAST20005",
+                    "MAST20006"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Five in-class, online quizzes (15 minutes each). 75 minutes",
+            "timing": "From Week 1 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Two Algorithmic Development Tasks. 1200 words (each)",
+            "timing": "From Week 1 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Individual Report Assignment. 2000-2500 words (total)",
+            "timing": "Week 12",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Nitin Yadav"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2-hour lecture plus one 1-hour laboratory per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Algorithmic Trading is limited to 30 students per semester. Enrolment is by email application only to the Subject Coordinator, stating how you meet the eligibility requirements. All applicants will be invited to a 15-minute interview."
+        ]
+    }
+}

@@ -1,0 +1,142 @@
+{
+    "subject name": "Applied Animal Behaviour",
+    "subject code": "ANSC30003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject allows students to examine the behaviour of farm, companion and laboratory animals and highlights the processes and factors involved in cause and effect manipulating behavioural functionality. The subject will train students to describe, record and measure behaviour, examine the development of behaviour in a range of species; examine the effects of stimuli and communications; motivation, decision making, learning and memory; genetic and hormonal basis of behaviour; organisation, social, sexual, maternal, and dam-neonate interactions.",
+        "Topics covered include:",
+        "Describing, recording and measuring behaviour; development of behaviour",
+        "Stimuli and communication",
+        "Motivation and decision making",
+        "Learning and memory",
+        "Genetic influences on behaviour",
+        "Hormonal influences on behaviour",
+        "Organisation of behaviour",
+        "Social behaviour; sexual behaviour",
+        "Maternal behaviour and dam-neonate interactions; and behavioural problems"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ANSC20001",
+                    "PHYS20008",
+                    "ZOOL20006"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1. 750 words",
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assignment 2. 1250 words",
+            "timing": "Week 10",
+            "percentage": "35%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Lauren Hemsworth"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Twenty-four hours lectures, up to 12 hours tutorials and 12 hours practicals to be undertaken at Parkville and off-site"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "lauren.hemsworth@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject involves the use of animals. Students should be aware that this is an essential part of the course and exemption from this component is not possible."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

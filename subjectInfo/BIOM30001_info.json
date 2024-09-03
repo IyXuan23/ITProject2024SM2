@@ -1,0 +1,123 @@
+{
+    "subject name": "Frontiers in Biomedicine",
+    "subject code": "BIOM30001",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "In this subject, students are presented with established and developing issues affecting health and disease that require a holistic appreciation of medical biology, including anatomy, biochemistry, cell biology, physiology, pathology, microbiology, immunology and pharmacology.",
+        "Students should gain an integrated understanding of selected health issues that will be explored across their breadth of complexity from molecular mechanisms through to population health considerations. Health issues include: obesity and the metabolic syndrome; stem cells, tissue engineering and emerging technologies; respiratory health and disease; and mental health.",
+        "Students should also gain an appreciation of the research process and its relationship to the evolution of therapeutic approaches for the individual and across a population, including public health initiatives that assist in health promotion and disease control, through prevention and effective treatment."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOM20001",
+                    "BIOM20002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Writing for your audience. 600 words",
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "description": "Debate/discussion exercise (15 min oral presentation across 6 students); (approx. 2.5 mins per student). 15 minutes",
+            "timing": "Week 5",
+            "percentage": "5%"
+        },
+        {
+            "description": "Graphical analysis written assignment. 1000 words",
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "description": "Peer assessment (anonymous, online, written). 1 hours",
+            "timing": "Week 11",
+            "percentage": "5%"
+        },
+        {
+            "description": "Mid-semester test. 40 minutes",
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinators": "Rosa McCarty and Saw Hoon Lim"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three x 1-hour lectures per week plus six x 1-hour tutorials per semester."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Subject Coordinators"
+                ],
+                "email": [
+                    "BIOM-30001@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "On-line readings will be provided through the readings on-line site through the LMS."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students enrolled in the Bachelor of Biomedicine."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

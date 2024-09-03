@@ -1,0 +1,165 @@
+{
+    "subject name": "Epidemiology 1",
+    "subject code": "POPH90014",
+    "subject availability": [
+        "Semester 1 - Dual-Delivery",
+        "Semester 2 - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject is a core subject within the Master of Public Health, the Master of Epidemiology, the Master of Science (Epidemiology) and the Master of Biostatistics. Students should enrol in this subject early in their program of study.",
+        "Epidemiology is the study of the distribution and determinants of disease frequency in human populations and the application of this study to control health problems. It is a fundamental science of public health.",
+        "Three main tasks of epidemiology include description, causal inference and prediction. This subject focuses on the first two and emphasises the application of epidemiological evidence to informing public health practice and policy.",
+        "Description: the epidemiological measures of disease frequency and summary measures of population health are introduced and used to describe patterns and trends in disease occurrence within and between populations.  The role of routinely collected data, particularly for surveillance of infectious diseases, is discussed.",
+        "Causal inference: is key to applying epidemiological evidence to controlling health problems if interventions are to be effective.  In this subject, causal inference is considered within the modern counterfactual framework. Causal diagrams, which are an integral part of this approach to causal inference are introduced. The common experimental and observational study designs, and systematic reviews, and their relative strengths and weaknesses are discussed. The implications of common types of bias (selection bias, information bias, and confounding) are discussed, as are methods to minimise them. Methods to control for confounding, including standardisation, are discussed.",
+        "Differences in characteristics of the major sources of morbidity (infectious disease, non-communicable disease, and injury) are discussed in the context of prevention and early detection of disease. Transmission dynamics of infectious diseases are introduced in this context. The applicability of epidemiological evidence (external validity) to interventions in target populations is introduced. Measures of the validity and performance of tests for early detection are introduced."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "POPH90142 Epidemiology & Analytic Methods 1\nPOPH90143 Epidemiology & Analytic Methods 2"
+    ],
+    "assessments": [
+        {
+            "description": "Quiz. 750 words (equivalent)",
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "description": "Quiz. 750 words (equivalent)",
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written short answer assignment. 1500 words (equivalent)",
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written assignment. 2000 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Andrew Lau"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Andrew Lau"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "Andrew.lau@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "Andrew.lau@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Webb P, Bain C, Page A. Essential Epidemiology, 4th edition. Cambridge University Press, 2019"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.mspgh.unimelb.edu.au"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

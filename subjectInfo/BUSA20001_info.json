@@ -1,0 +1,133 @@
+{
+    "subject name": "Visualisation and Data Wrangling",
+    "subject code": "BUSA20001",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides an introduction to the essential skills for the management of business data to enable the application of analytics and evidence-based decision-making in business. It entails the study of the principles and tools for business data management and modelling. The focus of the subject is enabling business decision-making, and includes consideration of effective presentation and reporting of business data. Data sets will be drawn from multiple industries and business disciplines."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ACCT10001"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ECON20003",
+                    "ECOM20001",
+                    "MGMT20005",
+                    "MKTG20004",
+                    "MAST20005"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual data assignment. 500 words",
+            "timing": "First half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Two data projects (in groups of 3-4 students). Each student will contribute the equivalent of 2000 words for both projects. 2000 words (each)",
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours. Hurdle requirement:. To pass this subject students must pass the end of semester examination",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Derick Lyle"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 1-hour lecture and one 2-hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Derick Lyle:"
+                ],
+                "email": [
+                    "derick.lyle@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

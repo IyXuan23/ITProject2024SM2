@@ -1,0 +1,136 @@
+{
+    "subject name": "Metric and Hilbert Spaces",
+    "subject code": "MAST30026",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides a basis for further studies in modern analysis, geometry, topology, differential equations and quantum mechanics.It introduces the idea of a metric space with a general distance function, and the resulting concepts of convergence, continuity, completeness, compactness and connectedness. The subject also introduces Hilbert spaces: infinite dimensional vector spaces (typically function spaces) equipped with an inner product that allows geometric ideas to be used to study these spaces and linear maps between them.",
+        "Topics include: metric and normed spaces, limits of sequences, open and closed sets, continuity, topological properties, compactness, connectedness; Cauchy sequences, completeness, contraction mapping theorem; Hilbert spaces, orthonormal systems, bounded linear operators and functionals, applications."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST20022"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST10009",
+                    "MAST20026",
+                    "MAST20033"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Two or three written assignments due at regular intervals amounting to a total of up to 50 pages. 50 pages",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Alexandru Ghitza"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week, 1 x one hour practice class per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "aghitza@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "J. J. Koliha,Metrics, Norms and Integrals: An introduction to Contemporary Analysis, World Scientific, 2008",
+                    "L. Debnath and P. Mikusinski,Introduction to Hilbert Spaces with Applications, 2nd Ed, Academic Press, 1999",
+                    "E. Kreyszig,Introductory Functional Analysis with Applications, Wiley, 1989"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Commerce",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

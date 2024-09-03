@@ -1,0 +1,93 @@
+{
+    "subject name": "Project in Medical Research",
+    "subject code": "MEDS40008",
+    "subject availability": [
+        "March"
+    ],
+    "overview": [
+        "This subject, the third subject in the Bachelor of Medical Science (Degree with Honours), provides you with the opportunity to conduct an independent research project, in the form of either an advanced systematic review, meta-analysis or empirical project. Utilising the research proposal developed in the subject Advanced Medical Research, under supervision, you will demonstrate the application of knowledge and skills to execute a research project relevant to an identified clinical problem. Upon completion of this subject, you will produce a piece of original research demonstrating an effective writing style and reflecting sound reasoning, clarity of thinking and compliance with style requirements. In addition, during this subject, you will undertake an experiential placement in an area relevant to your research project. The aim of this placement is to advance your understanding and appreciation of the relationship between research and clinical practice, and to directly observe the application of evidence-based medicine."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDS40007"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Oral Presentation: Research progress  (5 minutes presentation and 2 minutes Q&A).. 7 minutes",
+            "timing": "Week 6 of teaching period",
+            "percentage": "5%"
+        },
+        {
+            "description": "Student logbook - Based on clinical placement (minimum of five clinical case reports, 300 words per case report). 1500 words",
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Clinical placement supervisor evaluation",
+            "timing": "End of the teaching period",
+            "percentage": "0%"
+        },
+        {
+            "description": "Final presentation of research findings to an audience of peers and professional colleagues (15 mins presentation and 5 mins Q&A). 20 minutes. Hurdle requirement:. Satisfactory completion of this assessment is required to pass this subject.",
+            "timing": "End of the assessment period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final research (advanced systematic review, meta-analysis or research project) report. 6500 words. Hurdle requirement:. Satisfactory completion of this assessment is required to pass the subject.",
+            "timing": "End of the assessment period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "March": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Task associated with systematic/scoping review creation (eg performing literature searches, screening of studies, extracting data and critically appraising the scientific literature) and preparation of assessments = 300 hours \r\nMeeting with supervisor/research team = 20 hours\r\nWriting workshops = 20 hours"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "25 March 2024 to 14 June 2024"
+                },
+                {
+                    "Last self-enrol date": "10 April 2024"
+                },
+                {
+                    "Census date": "15 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "17 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

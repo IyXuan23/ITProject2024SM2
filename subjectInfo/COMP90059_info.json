@@ -1,0 +1,176 @@
+{
+    "subject name": "Introduction to Programming",
+    "subject code": "COMP90059",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject introduces the fundamental concepts of computing programming, and how to solve simple problems using high-level procedural language, with a specific emphasis on data manipulation, transformation, and visualisation of data."
+    ],
+    "indicative content": [
+        "Fundamental programming constructs; fundamental data structures; abstraction; basic program structures; algorithmic problem solving; use of modules.",
+        "The subject assumes no prior knowledge of computer programming and is not suitable for students with prior programming experience."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "Students enrolled in any of the following courses are not permitted to take this subject:",
+        "Students enrolled in any of the following specialisations of the Master of Engineering are not permitted to take this subject:",
+        "Students who have completed or have been exempted from any of the following subjects are not permitted to take this subject:",
+        "COMP10001",
+        "COMP10002",
+        "COMP20005",
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "10 weekly formative programming tasks to be done online (worth up to 1% each). The best 5 will contribute towards assessment %.   Addressing Intended Learning Outcomes (ILO's) 1, 2, 3 and 4.. 10-20 hours (of work required)",
+            "timing": "From Week 1 to Week 11",
+            "percentage": "5%"
+        },
+        {
+            "description": "One programming-based assignment, requiring approximately 8-16 hours of work. Addressing Intended Learning Outcomes (ILO's) 1 and 3.. 8-16 hours (of work required)",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Mid-semester test. Addressing Intended Learning Outcomes (ILO's) 1, 2 and 3.. 1 hours",
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "One programming-based assignment, requiring approximately 12-20 hours of work. Addressing Intended Learning Outcomes ( ILO's) 1, 2, 3 and 4.. 12-20 hours (of work required)",
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "description": "One 3 hour written exam. Addresses Intende Learning Outcomes (ILOs) 1, 3 and 4.. 3 hours. Hurdle requirement:. 30/60 for the end-of-semester written examination.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Simon D'Alfonso"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Simon D'Alfonso"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Simon D'Alfonso"
+                ],
+                "email": [
+                    "dalfonso@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Simon D'Alfonso"
+                ],
+                "email": [
+                    "dalfonso@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Reading list will be circulated at the start of the pre-teaching period."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures and tutorials. Furthermore, there are weekly Python programming exercises for students to do via the Grok Academy Learning Platform."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,151 @@
+{
+    "subject name": "Dissertation Part 2",
+    "subject code": "MUSI40105",
+    "subject availability": [
+        "Semester 1 (Early-Start)",
+        "Semester 2 (Early-Start)"
+    ],
+    "overview": [
+        "This subject is the second part of a two-subject sequence.",
+        "Students will conceive, plan and execute a substantial research project, and present a paper at a conference organised by the Conservatorium of Music mid-way through the 2 semesters of enrolment.",
+        "This subject is the second part of a two-subject sequence, taught over two consecutive study periods. Students are required to enrol in MUSI40104 Dissertation Part 1 (18.75 points) and MUSI40105 Dissertation Part 2 (18.75 points), consecutively, for a total enrolment of 37.5 points.",
+        "Students will receive a 'CNT' grade for Part 1. An overall result for the subject is given following completion of the two-subject sequence.",
+        "Assessment, Subject Intended Learning Outcomes, and Total Time Commitment applies to the entire enrolments across Parts 1 and 2 of the subject.",
+        "The Total Time Commitment for the subject is approximately 510 hours, inclusive of the two study periods [MUSI40104 Dissertation Part 1 (18.75 points) and MUSI40105 Dissertation Part 2 (18.75 points)].",
+        "Refer toMUSI40104 Dissertation Part 1for details."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MUSI40104"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Attendance at twelve seminars during the 2 semesters of enrolment. 17 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "description": "A dissertation. 12,000 words",
+            "timing": "During the assessment period",
+            "percentage": "95%"
+        },
+        {
+            "description": "Hurdle requirement:. Presentation of two work-in-progress reports",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Coordinator": "Nicholas Tochka"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "12 hours across Part 1 and Part 2, comprising one fortnightly 1-hour seminar plus regular consultation with the appointed supervisor."
+                },
+                {
+                    "Total time commitment": "255 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "12 January 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Coordinator": "Nicholas Tochka"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "12 hours across Part 1 and Part 2, comprising one fortnightly 1-hour seminar plus regular consultation with the appointed supervisor."
+                },
+                {
+                    "Total time commitment": "255 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "12 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Nicholas Tochka:"
+                ],
+                "email": [
+                    "nicholas.tochka@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [
+                    "Nicholas Tochka:"
+                ],
+                "email": [
+                    "nicholas.tochka@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Refer toMUSI40104 Dissertation Part 1"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

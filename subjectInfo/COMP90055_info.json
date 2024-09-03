@@ -1,0 +1,166 @@
+{
+    "subject name": "Research Project",
+    "subject code": "COMP90055",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject involves in-depth investigation of a significant problem related to Computing. The subject also provides students with skills and knowledge for analysing and solving problems, and enhanced written and oral communication skills.",
+        "The subject is a research-based project, giving a capstone experience and piece of scholarship to students that is suitable as a pathway to PhD.",
+        "Enrolment in this subject requires a weighted average mark of 75 or above.",
+        "Completing enrolment into the subject will give students access, via the LMS, to information about possible topics, supervision, and timelines. Students should negotiate a project topic with a project supervisor before the start of semester. The topic must be relevant for the student\u2019s specialisation, broadly interpreted. Students who are in doubt about the suitability of a chosen topic can contact the degree coordinator for an opinion about its suitability.",
+        "By the end of Week 1 of semester, students must formally register their project, using an online form available via the LMS. If a chosen topic is deemed unsuitable, students will be alerted about this by the degree coordinator. Note that the degree coordinator's approval is an assessment hurdle requirement; if approval is not obtained, enrolment in the subject will be cancelled, until an acceptable project can be found."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Students who meet the above criteria will need to complete an Enrolment Assistance form; Coordinator approval is not required:"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "A weighted average mark of 75 or above, and no more than 75 points short of degree completion.",
+                "https://students.unimelb.edu.au/your-course/manage-your-course/course-enrolment/enrolment-assistance",
+                "Completing enrolment into the subject will give students access, via the LMS, to information about possible topics, supervision, and timelines. Students should negotiate a project topic with a project supervisor well before the start of semester. By the end of Week 1 of semester, students must formally register their project, using an online form available via the LMS."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "COMP90082",
+        "GEOM90017"
+    ],
+    "assessments": [
+        {
+            "description": "A detailed project proposal of 800-1000 words, due in Week 3, requiring approximately 10-12 hours of work, submitted to the project supervisor.. 12 hours (of work required)",
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "description": "One 15 minute presentation of the project, including answering audience questions, held in Week 12, requiring approximately 10-12 hours of work.. 12 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "A project report of 6000 - 8000 words, requiring approximately 320 hours of work, due in first week of examination period.\u00a0ILO's 1 to 3.. 320 hours (of work required). Hurdle requirement:. A mark of at least 50% (40/80) must be obtained for the project report.",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Peter Schachte"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular contact of at least one hour per week with a project supervisor"
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Farhana Choudhury"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular contact of at least one hour per week with a project supervisor"
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Peter Schachte"
+                ],
+                "email": [
+                    "schachte@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "farhana.choudhury@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

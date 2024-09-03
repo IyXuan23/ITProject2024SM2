@@ -1,0 +1,133 @@
+{
+    "subject name": "Evaluating the User Experience",
+    "subject code": "INFO90004",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "User Experience (UX) means the way we respond to technology, including our practical, intellectual, emotional and affective responses. UX is widely recognised as a major determinant of successful technology outcomes, and it provides the design inspiration behind some of the most successful innovations in digital technologies that define the present era. This subject concerns the methods and techniques that are used to identify what characterises UX and how you can recognise, measure and evaluate it in a variety of contexts. This entails a deep understanding of the psychological and social theories underlying UX, combined with practical knowledge of the various industry methods and tools currently in use. In terms of practice, an emphasis is placed on learning the skills needed to design, justify and conduct appropriate evaluations, and the interpretation of findings. In terms of theory, special emphasis is placed on how to identify and evaluate the various facets of UX, across a range of social and work-based settings, and across a range of technologies."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP90041",
+                    "ISYS90026"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-CS Master of Computer Science",
+                "MC-SOFTENG Master of Software Engineering"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                "Selection of the Human-Computer Interaction specialisation (formal) in the MC-IT Master of Information Technology"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following: 100pt Program course entry point in the MC-IT Master of Information Technology, 150pt Program course entry point in the MC-IT Master of Information Technology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1 \u2013 Expert Review/Critique - Involves three parts (a) Heuristic evaluation (500-1000 words, due in week 3; (b) Cognitive walkthrough of a given interactive technology (3 tasks, 300 words each), due in week 5 (c) Critical reflection on the benefits and limitations of each technique (500 words), due in week 5. Templates will be provided for this assignment. Requires total of approximately 20 hours of work. Due in week 3 and week 5. Addressing Intended Learning Outcomes (ILO's) 2, 3  and 4.. 20 hours (of work required)",
+            "timing": "From Week 3 to Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment 2 - Group Assessment/Project - Evaluation Report:\u00a0\u00a0Group project (3-4 students) to plan an evaluation, then collect and analyse data to evaluate the usability of a given interactive technology. Students are to submit a test plan in week 6, then present their evaluation methods and findings in a structured written report (4000 words) and a 5-minute video presentation in Week 12, requiring approximately 50 hours of work per student. Addressing ILO's 1, 2, 3  and 4.. 50  hours (of work required)",
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Assignment 3 - Take-home Exam:\u00a0Individual assignment (2000 words) responding to supplied questions, requiring approximately 30 hours of work. Students will be expected to apply, review and contrast benefits/limitations of different (specified) evaluation methods. Questions will be supplied to students in class during week 12.\u00a0Due first week of examination period. Addressing ILO's 1, 2 and 4.. 30 hours (of work required). Hurdle requirement:. To pass the subject, students must obtain at least 50% of the marks available in the take-home exam.",
+            "timing": "Week 14",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Melissa Rogerson"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2-hour lectures per week and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Melissa Rogerson"
+                ],
+                "email": [
+                    "melissa.rogerson@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Teaching and Learning Methods",
+            "This subject will be delivered through a combination of lectures and tutorials."
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

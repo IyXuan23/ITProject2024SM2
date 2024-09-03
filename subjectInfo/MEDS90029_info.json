@@ -1,0 +1,158 @@
+{
+    "subject name": "Minor Thesis Part 1",
+    "subject code": "MEDS90029",
+    "subject availability": [
+        "Semester 1 (Early-Start) - Online",
+        "Semester 2 (Early-Start) - Online"
+    ],
+    "overview": [
+        "This two-part subject will allow students to develop and investigate a research question of relevance to surgical education. Participants will design and implement a research project drawing on research methodologies from education. Participants will need to consider and where appropriate seek human research ethics approval for their study.",
+        "Traditional approaches to research projects will be followed including a critical review of relevant literature, writing researchable question/s, designing appropriate methodologies, analysing and reporting results, discussion including framing results in existing literature and drawing conclusion. Participants are also expected to demonstrate effective academic writing skills and present their project in an oral presentation.",
+        "The overall aims of this subject are:",
+        "To deepen understanding of educational research methodology",
+        "To provide participants with an opportunity to conduct a research project in surgical education",
+        "To apply skills relevant for educational research"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDS90006",
+                    "MEDS90007",
+                    "MEDS90008",
+                    "MEDS90009",
+                    "MEDS90011"
+                ],
+                "This subject is not available for students admitted in any other courses."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-SURGED Master of Surgical Education"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Thesis draft report including the introduction, research methods of the project. 5,000 words",
+            "timing": "Due end semester 1",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final individual presentation. 20 minutes",
+            "timing": "End semester 2",
+            "percentage": "20%"
+        },
+        {
+            "description": "Thesis report. 10,000 words",
+            "timing": "Due end semester 2",
+            "percentage": "70%"
+        },
+        {
+            "description": "Individual thesis proposal presentation.. 15 minutes. Hurdle requirement",
+            "timing": "Due workshop one",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start) - Online": [
+                {
+                    "Coordinator": "Debra Nestel"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "5 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start) - Online": [
+                {
+                    "Coordinator": "Debra Nestel"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "144 hours"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "8 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

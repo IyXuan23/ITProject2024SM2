@@ -1,0 +1,150 @@
+{
+    "subject name": "Bioinformatics Research Project Pt 1",
+    "subject code": "BINF90013",
+    "subject availability": [
+        "Semester 1 (Extended)",
+        "Semester 2 (Extended)"
+    ],
+    "overview": [
+        "This subject involves the development and application of the tools of bioinformatics to address a significant research problem. The subject also provides students with skills and knowledge for understanding original research and enhanced written and oral communication skills.",
+        "The process of matching students with supervisors and research projects will occur in the first semester of enrolment of the Bioinformatics stream of the Master of Science. Apart from the help and guidance from their supervisor(s) each student also has a committee that regularly meets with them and provides additional help and expertise. This committee is responsible for assessment of the research project subject.",
+        "Students need to ensure they have completed a total of 50points Research Project by the end of their course."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One research proposal incorporating a literature review. 5000 words",
+            "timing": "In the first semester of this subject",
+            "percentage": "15%"
+        },
+        {
+            "description": "An oral presentation on the proposed research. 20 minutes",
+            "timing": "In the first semester of this subject",
+            "percentage": "5%"
+        },
+        {
+            "description": "A progress report on the research project. 3000 words",
+            "timing": "In the first semester of this subject",
+            "percentage": "10%"
+        },
+        {
+            "description": "A final oral presentation. 20 minutes",
+            "timing": "At the end of the second semester of this subject",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written thesis. 15000 words",
+            "timing": "At the end of the second semester of this subject",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended)": [
+                {
+                    "Principal coordinator": "Vicky Perreau"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular meetings with supervisor, one hour weekly or fortnightly."
+                },
+                {
+                    "Total time commitment": "272 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 30 June 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Principal coordinator": "Vicky Perreau"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular meetings with supervisor, one hour weekly or fortnightly."
+                },
+                {
+                    "Total time commitment": "272 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 24 December 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "24 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Extended)": {
+                "name": [],
+                "email": [
+                    "vperreau@unimelb.edu.au",
+                    "vperreau@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Extended)": {
+                "name": [],
+                "email": [
+                    "vperreau@unimelb.edu.au",
+                    "vperreau@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

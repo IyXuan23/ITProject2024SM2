@@ -1,0 +1,137 @@
+{
+    "subject name": "Service and Relationship Marketing",
+    "subject code": "MKTG30003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The marketing of service presents unique challenges and opportunities to enhance value creation by customers. This is because of the intangible, heterogeneous nature of the offering and the critical role of service personnel in service delivery. Strategies to address these challenges and opportunities are presented. Topics include: buyer behaviour of services; managing effective servicescapes; the importance and measurement of service quality, customer satisfaction, perceived value and loyalty; relationship marketing philosophy and practice; managing supply and demand of perishable service; the role of service personnel and customers in value creation; minimising the role stress of service personnel; service failures, customer complaint behaviour and effective service recovery."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MKTG10001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Mid-semester Test. 50 minutes",
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "Group written report (groups of 3-4). 4000 words (total)",
+            "timing": "Week 11",
+            "percentage": "25%"
+        },
+        {
+            "description": "Group presentation (groups of 2) in an allocated week throughout semester. 10 minutes",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Cuc Nguyen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2-hour lecture and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Cuc Nguyen:",
+                    ""
+                ],
+                "email": [
+                    "cuc.n@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of the prescribed text by your lecturer"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

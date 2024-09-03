@@ -1,0 +1,109 @@
+{
+    "subject name": "Cardiorespiratory Physiotherapy",
+    "subject code": "PHTY90091",
+    "subject availability": [
+        "July"
+    ],
+    "overview": [
+        "This subject will apply a problem-based approach to describe the physiotherapy assessment and management of individuals with acute and chronic cardiorespiratory conditions. Students will integrate prior knowledge of anatomy, physiology, pharmacology and pathology with theoretical and evidence-based knowledge to generate an effective and comprehensive physiotherapy assessment and management plan. A variety of teaching methods will be employed to develop students\u2019 skills in the assessment and diagnosis of cardiorespiratory problems. A range of cardiorespiratory physiotherapy interventions will be introduced, and students will be trained in the appropriate execution of these techniques and relevant outcome measures to evaluate their efficacy. Consideration will also be given to the rights of individuals and the impact of team management processes in cardiorespiratory physiotherapy practice. This subject includes 12 hours of clinical (generic) placement."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Foundation Science for Physiotherapy A\nIntegrated Professional practice A"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "ePortfolio. 1250 words",
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written examination. 1.5 hours",
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Objective Structured Clinical Examination  (OSCE)  \r\n2 station OSCE each station 10 minutes. 20 minutes (total). Hurdle requirement:. Students must pass OSCE in order to pass subject",
+            "timing": "End of semester",
+            "percentage": "45%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance of >85% of practical skills classes",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "July": [
+                {
+                    "Coordinator": "Aiden Smart"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "186 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "23 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "8 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [],
+                "email": [
+                    "aiden.smart@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Pryor JA and Prasad SA (2008): Physiotherapy for respiratory and Cardiac Problems. 4 th ed. Edinburgh: Churchill Livingstone Elsevier."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://physioth.unimelb.edu.au/"
+        ]
+    }
+}

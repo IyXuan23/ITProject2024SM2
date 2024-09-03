@@ -1,0 +1,168 @@
+{
+    "subject name": "Property Case Studies",
+    "subject code": "ABPL30059",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This is a final year Bachelor of Environments subject, undertaken in a seminar studio based environment. It consolidates students\u2019 prior learning of property concepts and principles, property markets, property valuation, statutory planning, feasibility and investment evaluation and finance. Featuring real-world case studies of income producing commercial property investments and property development projects, it will nurture the student\u2019s interest and understanding of complex technical and financial processes related to property. The case studies will demonstrate the requirement and skills associated with the management of a wide range of professions and entities necessary to develop and manage commercial property investments and developments."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "ABPL20031 Principles of Property",
+                "ABPL20051 Construction Industry Studies - Property",
+                [
+                    "BLAW10001",
+                    "PROP20001",
+                    "PROP20003",
+                    "PROP20002"
+                ],
+                "And one of",
+                [
+                    "BLAW10001",
+                    "PROP10002",
+                    "PROP20001",
+                    "PROP20002"
+                ],
+                "It is strongly recommended that PROP30001 Valuation of Land and Buildings be undertaken / studied concurrently with ABPL30059 Property Case Studies"
+            ],
+            "one of pre-requisite": [
+                [
+                    "PROP20002"
+                ],
+                [
+                    "PROP20001"
+                ],
+                [
+                    "PROP20003",
+                    "ABPL20033"
+                ],
+                [
+                    "PROP10002",
+                    "MKTG10001"
+                ],
+                [
+                    "PROP20003",
+                    "ABPL20033"
+                ]
+            ],
+            "additional pre-requisite": [
+                "B-ENVS Bachelor of Environments students:",
+                "ABPL20004 Principles of Property Valuation",
+                "ABPL20052 Investment and Finance for Property",
+                "B-DES Bachelor of Design students admitted pre 2022:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Continuous Group Assessment comprising: (i) Group Report: Site Analysis including Planning Analysis Report (1000 words per student) due in week 5, 25%; (ii) Group Report: Market Analysis and Marketability Analysis Report (1000 words per student), due week 9 25%;",
+            "timing": "From Week 5 to Week 9",
+            "percentage": "50%"
+        },
+        {
+            "description": "Individual Assessment: Static feasibility study involving detailed calculation and substantiation of residual land valuation. Provision of detailed substantiation of all calculations; preparation of conclusions and recommendations. 1000 words (equivalent)",
+            "timing": "",
+            "percentage": "25%"
+        },
+        {
+            "description": "Individual Assessment Task: completion of two (2) Individual Reflective Journals reflecting upon group project, team and individual performance (2X 250 words equivalent per students) due weeks 7 and 10. 250 words (each)",
+            "timing": "From Week 7 to Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual Assessment Task: attendance at and participation in all seminars, presentations, studios and workshops for a total of 4 hours per week on the weekly scheduled teaching/tutoring day, for each of Weeks 1-12 inclusive, the 4-hour duration comprising 2 hours in the morning and 2 hours in the afternoon. Examples of participation include individual and group analysis of property related matters as preparation of staged feasibility reports",
+            "timing": "From Week 1 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual Assessment Task: weekly diaries",
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "description": "Hurdle requirement:. Submission of all pieces of assessment",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Minimum of 90% attendance at all seminars, studios, tutorials and workshops",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Dermot McGeown"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 2 hour Seminar and 1 x 2 hour studio per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "dmcgeown@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

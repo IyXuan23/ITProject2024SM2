@@ -1,0 +1,128 @@
+{
+    "subject name": "Health Economics 1",
+    "subject code": "POPH90094",
+    "subject availability": [
+        "Semester 1 - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject introduces students to health economics as a sub-discipline of economics. Students are provided with a comprehensive introduction to micro-economics, so the subject is suitable for students with no prior knowledge of economics. It paves the way for students to apply micro-economic concepts to the analysis of contemporary issues in public health and health care. Topics to be studied include the following:",
+        "Introduction to economics, micro-economics and welfare economics",
+        "Introduction to health economics",
+        "The demand for health and health care",
+        "The production and supply of health care; the economics of the health workforce",
+        "Behavioural economics in health care",
+        "The market for health care",
+        "Market failure and the role of government in health care,",
+        "Economics approaches to measuring equity in health and health care",
+        "The Australian health care system analysed from an economic perspective"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One Minor Assignment. 1000 words",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "A one and a half hour online open book multiple choice examination. 1.5 hours",
+            "timing": "Week 8",
+            "percentage": "30%"
+        },
+        {
+            "description": "Major Essay due at the end of the first week of the examination period.. 2500 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Sabine Deij"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "sabine.deij@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Principles of Microeconomics, 5th Edition, by Gans, King and Mankiw",
+                    "McPake B, Normand C, Smith S, Nolan A. Health economics: an international perspective. Routledge; 2020 May 4. Fourth EditionStudents will have access to electronic copies of relevant readings on LMS."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

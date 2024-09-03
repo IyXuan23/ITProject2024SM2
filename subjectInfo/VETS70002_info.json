@@ -1,0 +1,138 @@
+{
+    "subject name": "MVSc (Clinical) Practicum # PT",
+    "subject code": "VETS70002",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This is a subject for the practicum component of the Master of Veterinary Science (Clinical). For most students, the practicum will consist primarily of case studies in the Veterinary Hospital. Students will be provided with advanced clinical training in diagnostic, therapeutic, and technical skills associated with veterinary clinical sciences.",
+        "Students enrolled in the MVSc (Clinical) on a part-time basis will enrol in this subject."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "The entry requirement is a BVSc (usually at honours level) or recognised equivalent qualification, and applicants must be eligible to register as a veterinarian with the Veterinary Practitioners Registration Board of Victoria."
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [
+        "",
+        "Students enrolled in the practicum component subject will enrol in the thesis subject VETS90027 (weighted at 75%). They will not be allowed to enrol in thesis subject VETS90013 (weighted at 100%)."
+    ],
+    "assessments": [
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "At the end of period of candidature",
+            "percentage": "100%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Sebastien Bauquier"
+                },
+                {
+                    "Mode of delivery": "On Campus (Werribee)"
+                },
+                {
+                    "Contact hours": "It is envisaged that the majority of the students enrolled in this subject will be in the Residency Training Program, working an average of 40 hours per week."
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Sebastien Bauquier"
+                },
+                {
+                    "Mode of delivery": "On Campus (Werribee)"
+                },
+                {
+                    "Contact hours": "It is envisaged that the majority of the students enrolled in this subject will be in the Residency Training Program, working an average of 40 hours per week."
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Faculty of Science",
+                    "University of Melbourne, Victoria, 3010"
+                ],
+                "email": [
+                    "https://science.unimelb.edu.au/",
+                    "science-gr@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Faculty of Science",
+                    "University of Melbourne, Victoria, 3010"
+                ],
+                "email": [
+                    "https://science.unimelb.edu.au/",
+                    "science-gr@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

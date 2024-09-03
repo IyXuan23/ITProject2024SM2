@@ -1,0 +1,163 @@
+{
+    "subject name": "Research Project in Public Health - S",
+    "subject code": "POPH90255",
+    "subject availability": [
+        "Semester 1 - Dual-Delivery",
+        "Semester 2 - Dual-Delivery"
+    ],
+    "overview": [
+        "The Research Project is a capstone option within the Master of Public Health. Within the Research Project students will work in their chosen area of study with an appointed supervisor. Students will have the opportunity to undertake a literature review, develop research questions and undertake the research activities required to answer their research question. Activities include analysis of data, policy analysis, a small evaluation of a health program, a small qualitative research study, a systematic or narrative review of the literature, or the development of a research protocol. Some activities are only available in specific specialisations of the course."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "POPH90013",
+                    "POPH90014",
+                    "POPH90231"
+                ],
+                "Students are encouraged to seek advice from the Research Project Coordinator about their proposed research project the pre-requisite subjects and the specialisation-specific elective subjects."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students must achieve an aggregate result of at least 75% for:",
+                "Additionally, specialisation-specific elective subjects must be completed prior to undertaking a research project in specific public health specialisations. The type of research project students would be able to undertake would depend on the subjects they have completed and plan to do."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A research project progress report. 1000 words. Hurdle requirement:. Students must pass the Research Project Progress Report.",
+            "timing": "Week 6",
+            "percentage": "N/A"
+        },
+        {
+            "description": "An oral presentation (15 minutes presentation, 5 minutes questions). 20 minutes",
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "A final report. 5000-8000 words. Hurdle requirement:. Students must pass the written research report",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Supervisors Second Report",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "You must meet regularly with your supervisor.. Hurdle requirement:. Students need to meet every week with their supervisor(s)",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Dawn Choo"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "Students are expected to spend a minimum of 21 contact hours, including regular meetings with supervisor/s and attendance at: \r\n1.\tone full-day generic skills seminar in week 1 of semester.\r\n2.\tone half-day generic capstone completion skills seminar in week 9 of semester \r\n3.\tone half-day seminar of student oral presentations in week 11 of semester."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Ali Barr"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "Students are expected to spend a minimum of 21 contact hours, including regular meetings with supervisor/s and attendance at: \r\n1.\tone full-day generic skills seminar in week 1 of semester.\r\n2.\tone half-day generic capstone completion skills seminar in week 9 of semester \r\n3.\tone half-day seminar of student oral presentations in week 11 of semester."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "dawn.choo@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "alison.barr@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject.",
+                    "If required for their project, students will need to purchase the Stata statistical software package Survey Design and Analysis Services Pty Ltdwww.survey-design.com.au"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

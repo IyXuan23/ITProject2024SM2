@@ -1,0 +1,111 @@
+{
+    "subject name": "Actuarial Analytics and Data II",
+    "subject code": "ACTL40012",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject aims to further develop students\u2019 knowledge of modern analytical tools and techniques, including GLM, shrinkage techniques (e.g., LASSO and ridge regression), tree-based methods (e.g., random forests and GBM) and neural networks. It also teaches students to connect data analytics work to the actuarial control cycle and real-world business environments. Effective communication of findings to a range of business decision making audiences is also stressed."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ACTL30004",
+                    "ACTL30008"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "From 2021, students must have completed both of the following subjects:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual Written Assignment 1. 750 words (equivalent)",
+            "timing": "From Week 7 to Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Individual Written Assignment 2. 750 words (equivalent)",
+            "timing": "From Week 11 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours. Hurdle requirement:. To pass this subject, students must pass the end of semester exam",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Genevieve Hayes"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 hours of lecture and 1 hour of tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Genevieve Hayes:"
+                ],
+                "email": [
+                    "genevieve.hayes@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Main textbook:Raschka, S. and Mirjalili, V. (2019). Python Machine Learning (3rd ed). Packt.Supplementary textbook (optional):Geron, A. (2022). Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow (3rd ed). O\u2019Reilly."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

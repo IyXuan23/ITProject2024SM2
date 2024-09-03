@@ -1,0 +1,124 @@
+{
+    "subject name": "Health Program Evaluation 2",
+    "subject code": "POPH90090",
+    "subject availability": [
+        "Semester 2 - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject provides an extension of studies in Health Program Evaluation introduced in Health Program Evaluation 1, aiming to deepen the students understanding of the conceptual bases of evaluation and extend practical skills. Its focus is particularly on issues relating to the selection and development of an appropriate evaluation approach and methods for a particular health program, policy or service. The subject provides an initial grounding in the theoretical origins of program evaluation, contemporary approaches to evaluation as well as implementation science and knowledge translation. The subject then considers the development of an evaluation approach and design from an applied perspective. Case-studies of evaluations will be presented to provide an opportunity to consider theoretical, methodological and practical issues associated with the conduct of complex health program evaluations. Students will have an opportunity to develop evaluation proposals in response to real world funding and policy settings."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "POPH90014",
+                    "POPH90058"
+                ],
+                [
+                    "POPH90231"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One minor assignment. 1,200 words",
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "description": "One minor assignment. 1,500 words",
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "One major assignment. 3,000 words",
+            "timing": "During the examination period",
+            "percentage": "65%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Brad Astbury"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 2-hour lecture per week (Classroom)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "b.astbury@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Owen, J.M. Program Evaluation: Forms and Approaches, 3rd Edition, St. Leonards, Allen & Unwin, 2006.",
+                    "Ovretveit, J. (2002). Action evaluation of health programmes and changes: a handbook for a user. Abingdon: Radcliffe Medical Press"
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.mspgh.unimelb.edu.au"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

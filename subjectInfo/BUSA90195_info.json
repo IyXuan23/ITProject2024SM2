@@ -1,0 +1,88 @@
+{
+    "subject name": "Managerial Economics",
+    "subject code": "BUSA90195",
+    "subject availability": [
+        "July - Online"
+    ],
+    "overview": [
+        "Economics is relevant to everything an organisation does, from its operations and performance to its interactions with stakeholders and society more broadly.  This subject addresses fundamental economic concepts and analytical skills, providing students with the tools of economic reasoning necessary for developing and evaluating strategic business options and making better decisions. Applications lie in bargaining, price setting, creating competitive advantage, analysing different market environments and analysing situations with asymmetric information."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90059",
+                    "",
+                    "BUSA90552"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Weekly Problem Sets. 1500 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Mid-term test. 1 hours",
+            "timing": "Week 4",
+            "percentage": "30%"
+        },
+        {
+            "description": "Final assignment. 2500 words (equivalent). Hurdle requirement:. students are required to pass the final assignment to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "July - Online": [
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "8 July 2024 to 16 August 2024"
+                },
+                {
+                    "Last self-enrol date": "8 July 2024"
+                },
+                {
+                    "Census date": "18 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 August 2024"
+                },
+                {
+                    "Assessment period ends": "23 August 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

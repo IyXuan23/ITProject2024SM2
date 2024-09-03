@@ -1,0 +1,152 @@
+{
+    "subject name": "Digital Systems",
+    "subject code": "ELEN20006",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject develops a fundamental understanding of concepts used in the analysis, design and building of digital systems. Such systems form the information and communication technologies (ICT) that underpin modern society. This subject provides a foundation for subsequent subjects, including ELEN30013 Electronic System Implementation, ELEN90066 Embedded System Design and ELEN90061 Communication Networks."
+    ],
+    "indicative content": [
+        "Topics include:",
+        "Digital systems - quantifying and encoding information, digital data processing, design process abstractions;",
+        "Combinational logic \u2013 timing contracts, acyclic networks, switching algebra, logic synthesis;",
+        "Sequential logic \u2013 cyclic networks and finite-state machines, metastability, microcode;",
+        "These topics will be complemented by exposure to the hardware description language such as Verilog and the use of engineering design automation tools and configurable logic devices (e.g. FPGAs) in the laboratory.",
+        "Please view this video for further information:Digital Systems"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Selection of the Electrical specialisation (formal) in the MC-ENG Master of Engineering",
+                "Selection of the Electrical with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                "Admission into the MC-ELECENG Master of Electrical Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "PHYC10002",
+                    "PHYC10004"
+                ],
+                [
+                    "MAST10006",
+                    "MAST10009",
+                    "MAST10021"
+                ],
+                [
+                    "MAST10007",
+                    "MAST10008",
+                    "MAST10022"
+                ]
+            ],
+            "alternate pre-requisite": [
+                "MAST10019: Calculus Extension Studies",
+                "MAST10018: \t\n\nLinear Algebra Extension Studies"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "Mid-Semester Test. Intended Learning Outcomes (ILOs) 1 -4 are addressed in this assessment.. 1 hours",
+            "timing": "From Week 5 to Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "Oral assessment of laboratory skills and knowledge \u2013 10 minutes per student (approximately 15-20 hours of work per student);. ILOs 1-4 are addressed in this assessment.. 10 minutes (each)",
+            "timing": "From Week 6 to Week 8",
+            "percentage": "15%"
+        },
+        {
+            "description": "One written examination. ILOs 1-3 are addressed in this assessment.. 2 hours. Hurdle requirement:. Students must score above a hurdle requirement on the total of project oral assessment and final exam. The hurdle requirement will be set by the Board of Examiners and be no higher than 50%.",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "description": "Written report completed during labs and oral assessment of project \u2013 20 minutes per student (approximately 30-35 hours of work per student). ILOs 1-4 are addressed in this assessment.. 20 minutes (each). Hurdle requirement:. Students must score above a hurdle requirement on the total of project oral assessment and final exam. The hurdle requirement will be set by the Board of Examiners and be no higher than 50%.",
+            "timing": "From Week 11 to Week 12",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Jonathan Manton"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures (3 x one-hour lectures per week) and 36 hours of workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Jonathan Manton"
+                ],
+                "email": [
+                    "jmanton@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "The subject is delivered through a combination of lectures and workshop classes for hands-on laboratory activities."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

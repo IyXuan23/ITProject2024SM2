@@ -1,0 +1,105 @@
+{
+    "subject name": "Animal Production Systems: Epidemiology",
+    "subject code": "VETS90133",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Upon completion of this subject, students will be able to apply an understanding of host, pathogen and environmental factors, and the way in which livestock are managed to diagnose and manage disease and suboptimal productivity at the herd and flock level. The multifactorial nature of disease is reviewed, and techniques for measurement and prediction of disease prevalence and population health introduced. An understanding and application of study design and critical appraisal of evidence will enable students to link theory to practice in the management of population health problems."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Satisfactory completion of all subjects at DVM 1 level"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written test. 1 hours",
+            "timing": "From Week 7 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "55%"
+        },
+        {
+            "description": "Evidence-based medicine research activity - Students work collaboratively to address a designated research topic that requires them to research and evaluate the evidence.  Students will present their activity orally to their peers in group presentations.. 1500 words (equivalent). Hurdle requirement:. Students must complete the oral task to be eligible to pass the subject.",
+            "timing": "Due end of Week 11",
+            "percentage": "25%"
+        },
+        {
+            "description": "Aggregate subject mark. Hurdle requirement:. Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Mark Stevenson"
+                },
+                {
+                    "Coordinator": "Simon Firestone"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "72 hours of lectures, workshops, practical classes and case studies"
+                },
+                {
+                    "Total time commitment": "180 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "mark.stevenson1@unimelb.edu.au",
+                    "simon.firestone@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

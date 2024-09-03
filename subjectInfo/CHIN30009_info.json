@@ -1,0 +1,179 @@
+{
+    "subject name": "Chinese 6",
+    "subject code": "CHIN30009",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is a continuation of Chinese 5. It is designed for students of non-Chinese speaking background who have completed Chinese 5 (previously offered as Chinese 3A), or equivalent. Students will build on the knowledge gained through their previous studies and broaden their reading, listening comprehension, speaking and writing skills.Students will develop their ability to communicate in Chinese at a beginning-advanced level and their analytical skills of the Chinese language through engaging with a range of topics concerning contemporary Chinese society and culture. Their linguistic competence will be further enhanced through exposure to Chinese materials dealing with a variety of socio-cultural situations, writing and presenting opinion pieces on current issues in Chinese, and participating in group discussions. Study activities will be supported with linguistic and cultural resources, including background information in brief English passages, as well as video, audio and additional reading materials introducing the cultural topics.This subject will allow students to gain confidence and independence in handling written Chinese language materials so as to make the transition from textbook material to original Chinese texts."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "CHIN10017",
+                    "CHIN20003",
+                    "CHIN30008"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Equivalent"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CHIN20004"
+    ],
+    "assessments": [
+        {
+            "description": "Ongoing written class assignments and/or short tests (commencing week 2 and before end of semester)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "An oral class presentation. 3-5 minutes",
+            "timing": "Week 6",
+            "percentage": "5%"
+        },
+        {
+            "description": "A written essay of approximately 400 characters",
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "A listening comprehension test",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "An oral test. 5-8 minutes",
+            "timing": "During the examination period",
+            "percentage": "15%"
+        },
+        {
+            "description": "An examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Ruonan Zeng"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "A total of 48 hours: A 2-hour seminar, a 1-hour tutorial and a 1-hour practical per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "ruonan.zeng@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Wu Zhongwei, Gao Shunquan and Tao Lian.10 Level Chinese - Level 3, Integrated Textbook, Beijing Language and Culture University Press, 2015."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Adobe Creative Cloud can be used in this subject, it is recommended that you purchase a licence via Student IThttps://studentit.unimelb.edu.au/software#adobecc"
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Language Placement Test required",
+                    "Language Placement Test required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

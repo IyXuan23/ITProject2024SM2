@@ -1,0 +1,126 @@
+{
+    "subject name": "A First Course In Statistical Learning",
+    "subject code": "MAST90104",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Supervised statistical learning is based on the widely used linear models that model a response as a linear combination of explanatory variables. Initially this subject develops an elegant unified theory for a quantitative response that includes the estimation of model parameters, hypothesis testing using analysis of variance, model selection, diagnostics on model assumptions, and prediction. Some classification methods for qualitative responses are then developed. This subject then considers computational techniques, including the EM algorithm. Bayes methods and Monte-Carlo methods are considered. The subject concludes by considering some unsupervised learning techniques."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST90105"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into:",
+                "\u2022\tGraduate Diploma in Data Science - Statistics Stream (GD-DATASC)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MAST30025",
+        "MAST30027"
+    ],
+    "assessments": [
+        {
+            "description": "Four written assignments amounting to a total of up to 100 pages. 100pp \u2248 2000 words, due during regular intervals  (5% each). 100 pages",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "Week 7",
+            "percentage": "35%"
+        },
+        {
+            "description": "Computer labratory test. 45 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Weichang Yu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "4 x one hour lectures per week, 1 x one hour practice class per week, and 1 x one hour computer laboratory class per week"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "weichang.yu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

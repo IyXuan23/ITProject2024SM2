@@ -1,0 +1,112 @@
+{
+    "subject name": "Integrated Professional Practice B",
+    "subject code": "PHTY90128",
+    "subject availability": [
+        "Semester 2 (Extended)"
+    ],
+    "overview": [
+        "Integrated Professional Practice B will prepare students for diverse practice and an evolving physiotherapy career. This subject includes both on-campus and online learning, in addition to two clinical placements: a Future Career selective and a Work Readiness placement.",
+        "Building upon previous DPT learning and the DPT graduate attributes, this subject provides opportunities to extend, deepen, and apply knowledge, skills, and attributes. Students will focus on collaborative interprofessional practice, and implementation and evaluation of management plans that are responsive to the individual, systems of health and community care, and the environment.",
+        "Students will have an opportunity to select two from a choice of modules, for example advanced rehabilitation, rural health and private practice, and which align with their specific area of interest. The Future Career selective placement may additionally provide opportunities for students to choose a clinical, research, or professional practice placement in line with their specific area of interest as well as the opportunity for international based placements.",
+        "To further build and enhance transitional skills, knowledge, and attributes necessary for practice as physiotherapists, students will review the Australian and New Zealand Physiotherapy Council Practice thresholds, Codes of Conduct, and professional registration requirements.",
+        "Students will curate their ePortfolio assets and resources collected across the three years of the Doctor of Physiotherapy program, to produce and present a professional ePortfolio, which provides a reflective, critical and creative opportunity to demonstrate their learning journey and readiness for transition to practice."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHTY90118",
+                    "PHTY90119",
+                    "PHTY90120",
+                    "PHTY90121",
+                    "PHTY90125"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Professional ePortfolio  (Individual). 5000 words (equivalent)",
+            "timing": "End of first theory block",
+            "percentage": "40%"
+        },
+        {
+            "description": "Work Readiness Placement (Individual). 122 hours. Hurdle requirement:. Students are required to achieve a pass in the Australian Physiotherapy Practice (APP) form.",
+            "timing": "Second half of Semester 2",
+            "percentage": "40%"
+        },
+        {
+            "description": "Future Career Selective Placement (Individual). 122 hours. Hurdle requirement:. This is a Pass/Fail assessment. Students are required to achieve clinical competency as determined by a global rating of 'satisfactory', 'good' or 'excellent' on a Professional Behaviour form. A rating of 'unsatisfactory' constitutes a hurdle fail.",
+            "timing": "Second half of semester 2",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Infographic (Group of 4). 2500 words (equivalent)",
+            "timing": "End of semester",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Coordinators": "Tandy Hastings-Ison and Jessica Lees"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Lectures/workshops: 24hrs \r\n\r\nImmersive modules: 40hrs \r\n\r\nClinical placements: 244hrs \r\n\r\n\r\nThe high contact hours in this subject are primarily attributable to the: \r\n\r\n2x four week clinical placements which account for 32 clinical days \r\n\r\n2x immersive modules which assist students prior to undertaking their Future Career Selective placement. Each of these modules is designed to have 20 contact hours to allow the student to fully engage within one specific area of physiotherapy practice. These hours may include field trips, additional laboratory time (e.g. within the anatomy laboratory) or simulated experiences."
+                },
+                {
+                    "Total time commitment": "425 hours"
+                },
+                {
+                    "Teaching period": "8 July 2024 to 15 November 2024"
+                },
+                {
+                    "Last self-enrol date": "19 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2 (Extended)": {
+                "name": [],
+                "email": [
+                    "jessica.lees@unimelb.edu.au",
+                    "tandyh@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

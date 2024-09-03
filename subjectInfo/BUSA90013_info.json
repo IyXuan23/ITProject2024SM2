@@ -1,0 +1,180 @@
+{
+    "subject name": "Brand Management",
+    "subject code": "BUSA90013",
+    "subject availability": [],
+    "overview": [
+        "Brand Management is a course designed to prepare the student for the challenges of building, protecting and strengthening a brand. The course examines branding from across a range of different industries and is relevant for those interested in managerial, entrepreneurial, not for profit and government sectors. This is a very applied elective and examines all the the key areas of brand management including brand research, brand building, brand strategy, brand positioning, brand extension and brand architecture. The course is case based and uses examples from across the major areas of branding including consumer goods, services, B2B, retail branding and luxury goods."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90480",
+                    "BUSA90481",
+                    "BUSA90060",
+                    "BUSA90224",
+                    "BUSA90243",
+                    "BUSA90193",
+                    "BUSA90093",
+                    "BUSA90001"
+                ],
+                "Note: these subjects may be taken concurrently (at the same time)",
+                [
+                    "BUSA90026",
+                    "BUSA90227"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following: MC-ENTRPSP Master of Entrepreneurship, MC-ETRENH Master of Entrepreneurship (Enhanced)"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90482",
+                    "BUSA90483"
+                ],
+                "Note: these subjects may be taken concurrently (at the same time)",
+                [
+                    "BUSA90026",
+                    "BUSA90227"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Contribution to class learning. 800 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Syndicate participation. 500 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Syndicate assignment (each syndicate group has 4 - 5 students). 1000 words (each)",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Final examination. 2700 words. Hurdle requirement:. students are required to pass the final examination to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "30 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "13 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 5 hours of readings to prepare for the subject during pre-teaching period"
+                },
+                {
+                    "Teaching period": "20 January 2024 to 28 January 2024"
+                },
+                {
+                    "Last self-enrol date": "10 December 2023"
+                },
+                {
+                    "Census date": "22 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "23 January 2024"
+                },
+                {
+                    "Assessment period ends": "28 January 2024"
+                }
+            ]
+        },
+        {
+            "June": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "15 June 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 5 hours of readings to prepare for the subject during pre-teaching period"
+                },
+                {
+                    "Teaching period": "22 June 2024 to 30 June 2024"
+                },
+                {
+                    "Last self-enrol date": "21 April 2024"
+                },
+                {
+                    "Census date": "24 June 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "25 June 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [],
+                "email": [
+                    "programservices@mbs.edu"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students admitted to MC-BA, MC-BAPT, GD-MKTG, 294PN, or students with permission of the MBA course coordinator"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "subject name": "Introduction to Statistical Computing",
+    "subject code": "MAST90101",
+    "subject availability": [
+        "Semester 1 - Dual-Delivery"
+    ],
+    "overview": [
+        "The aim of this subject is to provide students with the knowledge and skills required to undertake moderate to high level data manipulation and management in preparation for statistical analysis of data typically arising in health and medical research. In particular, students gain experience in data manipulation and management using two major statistical software packages (Stata and R) and acquire fundamental programme skills for efficient use of each of these software packages."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Practical exercise (approx 4 hours of work, no more than 4 pages). 600 words",
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written assignment 1 (approx 10 hours of work, no more than 10 pages). 1800 words",
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written assignment 2 (approx 10 hours of work, no more than 10 pages). 1800 words",
+            "timing": "Week 8",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written assignment 3 (approx 10 hours of work, no more than 10 pages). 1800 words",
+            "timing": "Week 12",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Emily Karahalios"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "30 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "emily.karahalios@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Resources Provided to Students online: Course notes and assignments.",
+                    "Special Computer Requirements: Stata and R (open access) statistical software."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "subject name": "Applied Aural Musicianship 1",
+    "subject code": "MUSI10204",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject develops fundamental musical hearing, focusing on tonal harmonic relationships and rhythmic properties.",
+        "Students determine their own pathways, concentrating on skills most relevant to their individual needs and interests.",
+        "Learning activities may include specialized keyboard lab sessions, lectures, tutorial workshops, and varied online experiences through which students will be supported in developing their overall aural abilities."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "4 Customised Online Tests (10% x 4) requiring approximately 20 hours work in total. 800 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Practical Assignment 1 - application of chosen skills to topics, as specified.. 250 words (equivalent)",
+            "timing": "Early in the teaching period",
+            "percentage": "12.5%"
+        },
+        {
+            "description": "Practical Assignment 2 - application of chosen skills to topics, as specified.. 250 words (equivalent)",
+            "timing": "Mid teaching period",
+            "percentage": "12.5%"
+        },
+        {
+            "description": "Practical Assignment 3 - application of chosen skills to topics, as specified.. 250 words (equivalent)",
+            "timing": "Late in the teaching period",
+            "percentage": "12.5%"
+        },
+        {
+            "description": "Practical Assignment 4 - application of chosen skills to topics, as specified.. 250 words (equivalent)",
+            "timing": "During the assessment period",
+            "percentage": "12.5%"
+        },
+        {
+            "description": "Preparation for and participation in in\u2010class exercises, demonstrating skill development over time. Requiring approximately 10 hours of work.. 200 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Hurdle requirement:. 80% attendance is required.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Melody Eotvos"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "30 hours, comprising 18 hours on campus (one 1-hour tutorial and one 30-minute seminar per week) plus 12 hours of asynchronous online lectures"
+                },
+                {
+                    "Total time commitment": "80 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Melody Eotvos:"
+                ],
+                "email": [
+                    "melody.eotvos@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Subject guide will be posted on the LMS."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

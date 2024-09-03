@@ -1,0 +1,101 @@
+{
+    "subject name": "Graduate Seminar in Vision Science",
+    "subject code": "OPTO90017",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides advanced critical appraisal of contemporary and controversial issues in vision science. Each week, students will attend a 1-hour seminar on recent research completed in the vision sciences. Students will also attend a 1 hour discussion of a recent publication in the field (reflecting a fundamental idea or a controversy of competing ideas or empirical evidence), that will form that basis of critical discussion. The choice of issues to be discussed will be determined at the start of the subject."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One 1-hour seminar presentation (20%) and written supporting material (1000 words, 10%). 1 hours",
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Five peer reviews. 3000 words (total)",
+            "timing": "During the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Seminar participation",
+            "timing": "",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Holly Chinnery"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 contact hours comprising two 1-hour seminars per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "holly.chinnery@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

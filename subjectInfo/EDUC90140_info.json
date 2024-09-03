@@ -1,0 +1,135 @@
+{
+    "subject name": "Curriculum Leadership and Management",
+    "subject code": "EDUC90140",
+    "subject availability": [
+        "March - Dual-Delivery"
+    ],
+    "overview": [
+        "The subject focuses on the leadership and management issues focused on improving teaching and learning in schools. It provides a definition of curriculum leadership, explores contemporary ideas of teaching and learning, explores the key leadership role of capacity building, and considers the contexts in which schools exist and how these impact on schools."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC90929",
+                    "EDUC90930",
+                    "EDUC91029",
+                    "EDUC91030"
+                ],
+                "*Students that commenced their course prior to 2021 may have completed EDUC90830 in place of EDUC91029, and EDUC90900 in place of EDUC91030:",
+                [
+                    "EDUC90830",
+                    "EDUC90900"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students admitted to courses/entry points not specified below have no prerequisites for this subject.",
+                "Students in the 200-point program of the Master of Education, Master of TESOL or Master of Modern Languages Education, must have completed the following four compulsory subjects*:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A report that documents the student's journey as a curriculum leaders.. 2500 words",
+            "timing": "Mid semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "A report that considers an aspect or aspects of curriculum leadership based on examples provided.. 2500 words",
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. Minimum of 75% attendance at all tutorials, seminars and workshops.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "March": [
+                {
+                    "Coordinator": "Berni Moreno"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "14 February 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period, students should access materials on the LMS."
+                },
+                {
+                    "Teaching period": "1 March 2024 to 22 March 2024"
+                },
+                {
+                    "Last self-enrol date": "16 February 2024"
+                },
+                {
+                    "Census date": "8 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "26 April 2024"
+                },
+                {
+                    "Assessment period ends": "26 May 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "March": {
+                "name": [
+                    "Berni Moreno <",
+                    ">"
+                ],
+                "email": [
+                    "b.moreno@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

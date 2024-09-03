@@ -1,0 +1,142 @@
+{
+    "subject name": "Problem Solving in Environmental Science",
+    "subject code": "EVSC30002",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject focuses on how science contributes to environmental decision-making and management. Students will investigate how science from different disciplines is used and apply it to the process of environmental monitoring and assessment. Workshops associated with each module will emphasize practical aspects of how decisions get made in the face of scientific uncertainty. An individual capstone project will provide opportunities for in-depth critical thinking and analysis in an area of interest chosen by the student. By the end of the subject, students will have a scientific toolbox that they can use to solve real-world environmental problems after graduation whether undertaking further study or in the workforce."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "EVSC30003",
+                    "ECOL20003",
+                    "EVSC20004",
+                    "EVSC20007",
+                    "MAST20031"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A written examination during class time, covering lecture and workshop material. 50 minutes",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Individual capstone project oral presentation during class time. 8 minutes",
+            "timing": "From Week 6 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "Individual written self-reflection based on workshops 1 and 2. 300 words",
+            "timing": "Week 4",
+            "percentage": "7.5%"
+        },
+        {
+            "description": "Group graphical abstract based on workshops 3 or 4. 300 words (equivalent)",
+            "timing": "Week 6",
+            "percentage": "7.5%"
+        },
+        {
+            "description": "Individual capstone project written report. 2000 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Suzie Reichman"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 x one-hour lectures per week, and 18 hours of workshops during the semester"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "suzie.reichman@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

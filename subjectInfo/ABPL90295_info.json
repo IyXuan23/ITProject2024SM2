@@ -1,0 +1,147 @@
+{
+    "subject name": "Construction Regulations and Control",
+    "subject code": "ABPL90295",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to give students an introduction to construction regulations including:",
+        "relevant State and Commonwealth government legislation and the Building Code of Australia (including performance requirements, Deemed to Satisfy solutions and alternative solutions);",
+        "fire technology including fire science, fire statistics, causes of fire, wildfire, fire prevention, fire containment, automatic fire detection, fire properties of materials, fire resistance levels, human movement and emergency egress, emergency warning systems, emergency lighting and controlling fire spread;",
+        "an overview of the BCA Deemed to Satisfy fire related provisions and associated standards and codes;",
+        "an introduction to fire safety engineering including analysing fire and smoke spread, use of computer tools, preparing alternative solutions, evaluating alternative solutions;",
+        "an introduction to sustainable building practice in the context of the legislation, regulations standards and codes,"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "Admission into or selection of one of the following:200pt Program course entry point in the MC-CM Master of Construction ManagementAdmission into or selection of one of the following:300pt Program course entry point in the MC-ARCHCM Master of Architecture/Master of Construction ManagementAdmission into or selection of one of the following:300pt Program course entry point in the MC-CMPROP Master of Construction Management/Master of Property",
+                "200pt Program course entry point in the MC-CM Master of Construction Management",
+                "300pt Program course entry point in the MC-ARCHCM Master of Architecture/Master of Construction Management",
+                "300pt Program course entry point in the MC-CMPROP Master of Construction Management/Master of Property",
+                "200pt Program course entry point in the MC-CM Master of Construction Management",
+                "300pt Program course entry point in the MC-ARCHCM Master of Architecture/Master of Construction Management",
+                "300pt Program course entry point in the MC-CMPROP Master of Construction Management/Master of Property"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ABPL90086",
+                    "ABPL90293",
+                    "ABPL90312",
+                    "ABPL90313",
+                    "ABPL90335",
+                    "ABPL90435"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ABPL90292",
+                    "ABPL90324"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Approval from the Course coordinator"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One exam. 2 hours. Hurdle requirement:. Regardless of assignment results, a minimum mark of 40% has to be achieved in the examination in order to pass this subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "One group assignment on the ability to interpret and apply the Building Code of Australia (BCA) to a building on campus (equivalent to 2000 words per student). 2000 words (each)",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "An individual assignment on a detailed application of several specific BCA and Australian Standard requirements. 1000 words",
+            "timing": "End of semester",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Wei Yang"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours: 1 x 2 hour lecture per week; 1 x 1 hours class work per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "wei.yang@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "International Fire Engineering Guidelines.FIRE.Canberra: Australian Building Codes Board, 2005.Beever, Paula.Research into cost-effective fire safety measures for residential buildings. Melbourne: Centre for Environmental Safety and Risk Engineering, Victoria University of Technology, 1998."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

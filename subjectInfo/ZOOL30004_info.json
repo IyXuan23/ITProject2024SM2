@@ -1,0 +1,162 @@
+{
+    "subject name": "Evolutionary Applications",
+    "subject code": "ZOOL30004",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Is Darwin\u2019s extraordinary idea relevant for our species? The subject highlights the power of Darwin\u2019s theory of the evolution of adaptation by natural (and sexual) selection for understanding our origins and the present human condition, with an emphasis on exploring the claim that we cannot fully appreciate anthropogenic systems in the absence of an evolutionary perspective. The subject briefly examines the recent evolutionary history of hominids and highlights the challenges and significance of distinguishing between nature and nurture in shaping contemporary life-histories and behaviour. The subject focusses especially on the application of evolutionary theory to informing our understanding and management of global anthropogenic issues, including antibiotic, insecticide and other forms of resistance; vaccines and viruses; pathogen virulence; response to selection arising from environmental change, including pollution and climate; and the management of natural resources. Classes combine lectures and tutorials, and there is a strong emphasis on distinguishing between unsubstantiated conjecture and concepts that are supported by rigorous science.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "25 points of 200-level subjects that address biological or human-related issues"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ECOL20003",
+                    "BIOL20001"
+                ]
+            ],
+            "additional pre-requisite": [
+                "By arrangement with the coordinator",
+                "From 2024 onwards"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "25 points of relevant 200-level subjects in biology (ZOOL, ECOL, BIOL, EVSC, BOTA, BIOM, or others subject to course coordinator approval)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Multiple choice quiz via online polling held in every lecture (grade drawn from best 15 scores). 2 minutes (each)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Six online text annotation tasks, every second week of the teaching period. 30 minutes (each)",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Two reviews of anonymous student opinion pieces. 250 words (each)",
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "description": "A written opinion piece (essay). 1000 words",
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written online open-book examination. 90 minutes",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Mark Elgar"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 x one hour lectures per week; 16 hours excursion, tutorial or practical work during the semester"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "m.elgar@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

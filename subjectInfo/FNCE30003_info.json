@@ -1,0 +1,144 @@
+{
+    "subject name": "International Finance",
+    "subject code": "FNCE30003",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Topics include concepts, operation and terminology of foreign exchange markets; international investment decision making; sources of and approaches to dealing with foreign exchange exposure; political risk; and international funding mechanisms and decision making in multinational business organisations."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "620-270 Applied Statistics"
+            ],
+            "one of pre-requisite": [
+                [
+                    "FNCE20005"
+                ],
+                [
+                    "ECOM20001",
+                    "ECON20003",
+                    "MAST20004",
+                    "MAST20005",
+                    "MAST20006",
+                    "MAST20018",
+                    "MAST20029"
+                ]
+            ],
+            "additional pre-requisite": [
+                "FNCE20001  Business Finance",
+                "620-261 Introduction to Operations Research (2008 or earlier)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "306-311 International Finance"
+    ],
+    "assessments": [
+        {
+            "description": "Mid-semester test. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Group assignment (2000 words). 500 words (each)",
+            "timing": "From Week 5 to Week 8",
+            "percentage": "15%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Qi Zeng"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One two-hour lecture and one one-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Qi Zeng:"
+                ],
+                "email": [
+                    "qzeng@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

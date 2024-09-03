@@ -1,0 +1,202 @@
+{
+    "subject name": "Mechanics & Materials",
+    "subject code": "MCEN30017",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject consists of three distinct and fundamentally related topics -",
+        "An introduction to the fundamentals of materials science will be given on atomic structure and bonding, crystal structures and defects, elastic and plastic deformation, dislocations and strengthening and failured (fast fracture, fatigue and creep)",
+        "The mechanics of materials section will extend the concepts of material mechanical behaviour by detailing elastic/inelastic behaviour and introducing the concepts of stress and strain analysis. Topics covered may include the definition of principal stresses, plane stress, plane strain, two-dimensional stress and strain analysis, torsion, pure bending, transverse loading, Mohr\u2019s circle, failure criteria, inelastic behaviour, residual stress",
+        "This subject will also provide an introduction to finite element analysis (FEA) and its application for stress-strain analysis. Particular emphasis will be placed on the fundamental mechanisms by which materials fail under loading.",
+        ""
+    ],
+    "indicative content": [
+        "Mechanics:the definition of principal stresses, plane stress, plane strain, two-dimensional stress and strain analysis, torsion, pure bending, transverse loading, Mohr\u2019s circle, failure criteria, inelastic behaviour, residual stress.",
+        "Materials: atomic structure and bonding, crystal structures and defects, elastic and plastic deformation, dislocations and strengthening and failure (fast fracture, fatigue and creep).",
+        "Finite element analysis (FEA): FEA procedure, application of FEA to discrete systems and continuous bodies.",
+        "Please view this video for further information:Mechanics & Materials",
+        ""
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Selection of one of the following: Materials specialisation (formal) in the MC-MECHENG Master of Mechanical Engineering, Materials and Minerals specialisation (formal) in the MC-CHEMENG Master of Chemical Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ENGR20004"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Attendance and participation in materials labs and submission of written assignments, due\u00a0weeks\u00a07 to 9. Addresses Intended Learning Outcomes (ILOs) 1 and 2. 15 hours (of work required)",
+            "timing": "From Week 7 to Week 9",
+            "percentage": "15%"
+        },
+        {
+            "description": "One mid semester written examination.\u00a0 Addresses ILOs 1 to 4. 90 minutes",
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Attendance and participation in Finite Element Analysis (FEA) workshops, and one written assignment approximately 15 pages. ILO 5 is addressed with these workshops sessions. 25 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "One end of semester written examination. Addresses ILOs 1 to 4.. 90 minutes",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Tesfaye Molla"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures, 12 hours of tutorials and 12 hours of workshops."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Zhe Liu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Tesfaye Molla"
+                ],
+                "email": [
+                    "tesfaye.molla@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Zhe Liu"
+                ],
+                "email": [
+                    "zhe.liu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Callister WD Jr,Materials Science and Engineering."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures, tutorials and laboratories. For e-learning, the lectures are recorded and made available to students through the University's online learning system.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "A.P. Boresi and R. J. Schmidt,Advanced Mechanics of Materials.",
+            "W. D. Callister, Jr.,Materials Science and Engineering - an Introduction.",
+            "Lecture Noteson LMS."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "subject name": "Building Services and Operations",
+    "subject code": "ABPL90032",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The focus of this subject lies in the integration of services and energy efficient strategies into the fabric of the building and its construction process. After introductory material on environmental quality and energy related issues, the subject provides students with knowledge in the field of electrical, mechanical, air handling, hydraulic and communication services and particularly the construction issues they generate: levels of documentation and decision-making required; connections with process planning; spatial requirements for functioning, installation and access purposes; protection and quality assurance; building tolerances; systems integration; layout strategies; work sequences and temporary works; contract coordination; testing; maintenance; and upgrading-replacement.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-CONMG2Y Master of Construction Management",
+                "GC-ENVDES Graduate Certificate in Environmental Design",
+                "200pt Program course entry point in the MC-CM Master of Construction Management"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ABPL90086"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ABPL90292",
+                    "ABPL90324"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Approval from the Course Coordinator"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Class participation, to drive collective, creative technical outcomes during class discussions.",
+            "timing": "",
+            "percentage": "10%"
+        },
+        {
+            "description": "Gathering of discussion-specific data throughout the semester, requiring independent and team research about technical and construction aspects of building services.. 2000 words (equivalent)",
+            "timing": "Week 8",
+            "percentage": "40%"
+        },
+        {
+            "description": "Professional report. This major work demonstrates the technical understanding and ability to evaluate building services options in design and construction.. 3000 words (equivalent)",
+            "timing": "Week 12",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Christopher Jensen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "cjensen@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

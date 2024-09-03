@@ -1,0 +1,173 @@
+{
+    "subject name": "Current Advances in Molecular Science",
+    "subject code": "BCMB30012",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "In this subject, students will learn about the current advances in molecular science fields encompassed by the disciplines of biochemistry and molecular biology. Students will critique cutting edge research in depth, delving into the experimental evidence underpinning our understanding of the molecular world. The topics to be examined include regulation of gene expression, gene function and genomic manipulation protein behaviour in cellular applications, the dynamics of the living cell, and metabolic adaptation.",
+        "Through written and oral tasks, students will become proficient in interpreting and synthesizing scientific knowledge and presenting conclusions, as well as writing critiques and recommendations for a range of audiences including, public organisations, industry and the general public."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BCMB20002",
+                    "BIOM20001"
+                ],
+                [
+                    "BCMB20005",
+                    "GENE20004"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "3 written submissions (worth 10% each). 500 words (each)",
+            "timing": "First half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Mid Semester Test (approximately week 6). 30 minutes",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group presentation on journal article with guidance by academic mentor (approximately week 11 or 12)  15\u2010Minutes per group of 4\u20105. 15 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written submission on journal article. 750 words",
+            "timing": "During the examination period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Exam. 90 minutes",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Attendance at workshops. Hurdle requirement:. Attendance at 70% of workshops",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Heather Verkade"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 hours of workshops per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Heather Verkade"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 hours of workshops per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "BCMB-30012@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "BCMB-30012@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

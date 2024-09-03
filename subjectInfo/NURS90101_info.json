@@ -1,0 +1,121 @@
+{
+    "subject name": "Mental Health Nursing Practice 1",
+    "subject code": "NURS90101",
+    "subject availability": [
+        "Semester 1 (Extended) - Online"
+    ],
+    "overview": [
+        "In this subject students will apply theoretical principles outlined in each module to support comprehensive consumer screening, assessment, monitoring and care planning in mental health nursing practice. Students will apply current legal, ethical and policy frameworks to their clinical practice. Students will learn to incorporate knowledge and evidence of biopsychosocial factors influencing consumer and family/carer outcomes to inform their clinical decision making in practice and demonstrate sound clinical leadership skills."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Current employment and clinical support in a mental health speciality area."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Formative written assessment (Professional Practice Portfolio Part A). 500 words. Hurdle requirement:. Students must pass this assessment.",
+            "timing": "First half of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Summative written assessment \r\n(Professional Practice Portfolio Part B). 500 words. Hurdle requirement:. Students must pass this assessment",
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Clinical Skills Assessments x 5 (300 words each)\r\n(Professional Practice Portfolio Part C). 1500 words (equivalent). Hurdle requirement:. Students must pass all five clinical skill assessments",
+            "timing": "Distributed evenly across the study period and due by the end of assessment period.",
+            "percentage": "0%"
+        },
+        {
+            "description": "Professional Behaviours (supervisor log). Hurdle requirement:. Record 16 weeks of activity (activity type includes clinical supervision/ reflective practice professional development and team meeting attendance)",
+            "timing": "End of the teaching period",
+            "percentage": "0%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended) - Online": [
+                {
+                    "Coordinators": "Cathy Daniel and Liz Currie"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "3 webinars of 1 hour duration"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Pre teaching start date": "8 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students will familiarise themselves with the online platform which will provide an overview of the subject, assessment requirements and expected activities and behaviours. They will also be provided with information about studying online and informed about the University resources available to them."
+                },
+                {
+                    "Teaching period": "15 January 2024 to  2 June 2024"
+                },
+                {
+                    "Last self-enrol date": "19 January 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Extended)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Students undertaking this subject as CAP would need to be currently employed in a setting where they have access to an educator to complete the clinical skills.",
+                    "Students undertaking this subject as CAP would need to be currently employed in a setting where they have access to an educator to complete the clinical skills."
+                ]
+            }
+        ]
+    }
+}

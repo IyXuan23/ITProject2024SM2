@@ -1,0 +1,110 @@
+{
+    "subject name": "Child & Adolescent Oral Health 1",
+    "subject code": "DENT90067",
+    "subject availability": [
+        "Semester 2 (Early-Start)"
+    ],
+    "overview": [
+        "This subject is a continuation of Growth Studies which is a component of Oral Structure and Function 2 in first year. It will be conducted as a pre-clinical subject and has 2 components: Paediatric Dentistry and Orthodontics.",
+        "In the specialty of Paediatric dentistry, student learning will include: oral diagnosis and treatment planning for children; sealants and preventive resin restorations; dental radiographic techniques pertaining to children and adolescents; restorative procedures in primary and mixed dentition; behaviour management of pre-cooperative children in a clinical setting; conscious sedation and general anaesthesia for young patients; techniques of administering local anaesthesia to young patients; fluoride therapies; cleft lip and palate; molar incisor hypomineralisation; pulpal therapy for children; oral pathology in infants and young children; gingivitis and periodontal disease in children; management of dento-alveolar trauma in children; dietary counselling for families; space maintenance; management of traumatic injuries in the primary dentition; crossbite management and infant's first dental visit.",
+        "In the speciality of orthodontics, student learning will include the following: knowledge in applying common terminology related with dento-facial growth and development; endocrinology of human growth; appreciation of qualitative and quantitative measurements of growth and development; appreciation of the relevance of growth assessment in the clinical setting; identification of how occlusion develops from the primary to permanent dentition and arch dimensional changes that occur in this time and familiarity with the use of common interceptive treatments and orthopaedics in treatment planning."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Successful completion of all 1st Semester (Teaching Blocks 1 and 2) 2nd Year DDS subjects."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "1 x computer-based short-answer test on paediatric dentistry and orthodontics.. 1 hours",
+            "timing": "At the end of Block 3",
+            "percentage": "20%"
+        },
+        {
+            "description": "Continuous assessment of pre-clinical laboratory cavity preparation procedures pertaining to paediatric dentistry and orthodontics",
+            "timing": "Throughout Blocks 3 and 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "1 x written examination on paediatric dentistry and orthodontics.. 3 hours",
+            "timing": "At the end of Block 4",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. 75% attendance at Lectures; 100% attendance at Seminars/Tutorials, Practical Classes (including Laboratory Sessions), and Pre-Clinical Sessions",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Principal coordinator": "Siew-May Loo"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "81 (indicative)"
+                },
+                {
+                    "Teaching period": "24 June 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "5 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "https://ask.unimelb.edu.au",
+                    "enquiries-STEM@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Cameron AC and Widmer RP2008Handbook of Pediatric Dentistry3 rd ed, Mosby",
+                    "Hall RK1994 PediatricOro-facial Medicine and PathologyChapman and Hall Medical",
+                    "Koch G, Poulsen S2009Pediatric Dentistry: A Clinical Approach2 nd ed, Wiley-Blackwell",
+                    "McDonald RE, Avery DR and Dean JA2011Dentistry for the Child and Adolescent9 th ed, Mosby",
+                    "Profitt WR, Fields HW, Ackerman JL, Sinclair PM, Thomas PM and Tulloch JFC2007ContemporaryOrthodontics5 th ed, Mosby",
+                    "Scully CM and Welbury R1994Color Atlas of Oral diseases in Children and AdolescentsWolfe",
+                    "Therapeutic guidelines \u2013 Oral and Dental. Therapeutic Guidelines Limited, Melbourne, 2012"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

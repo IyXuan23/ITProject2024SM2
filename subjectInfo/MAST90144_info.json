@@ -1,0 +1,112 @@
+{
+    "subject name": "Stochastic Optimisation",
+    "subject code": "MAST90144",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Stochastic optimisation encompasses many diverse areas including control theory, reinforcement learning, multiarmed bandit problems, simulation optimisation, and neural networks. Stochastic optimisation can be succinctly described as sequential decision making under uncertainty. In a sequential decision problem, the system being modelled progresses through a finite or infinite number of stages. At each stage, the system is in a particular state taken from a discrete or continuous state space, and decision (action) is taken which may depend on the stage and/or state. The aim is to design a set of decisions or actions (a policy) at each stage, so that an objective function is optimised. Randomness is incorporated into the problem by exogeneous information that is only realised once a decision is made at each stage. Topics include Markov decision processes, approximate dynamic programming, reinforcement learning, simulation optimisation, and robust optimisation. This subject provides a rigorous mathematical treatment of stochastic optimisation, and will include applications selected from logistics, finance, transportation, health, resource allocation, e-commerce, and supply chain management."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST30001",
+                    "MAST30022"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Up to 40 pages of assignments (4 written assignments worth 10% due in weeks 5, 7, 9, and 11).. 40 pages",
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "A three-hour written examination, worth 60% of the mark, during the examination period. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Mark Fackrell"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 one-hour interactive lectures per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "fackrell@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Powell, W. B., Reinforcement Learning and Stochastic Optimization: A Unified Framework for Sequential Decisions. Wiley-Interscience, 2022.",
+                    "Powell, W. B., Sequential Decision Analytics and Modeling: Modeling with Python. Now Foundation and Trends, 2022.",
+                    "Birge, J. R. and Louvreau, F. Introduction to Stochastic Optimisation, 2ndedition. Springer Science, 2011."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

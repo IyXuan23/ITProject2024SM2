@@ -1,0 +1,140 @@
+{
+    "subject name": "Procurement Methods",
+    "subject code": "ABPL90327",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The subject exposes students to construction procurement in a broad sense, by articulating and examining the legal and functional links between multiple contracting parties in project delivery. Different procurement methods with their associated contract types are introduced, and the theories and principles governing their selection discussed. To this end, decision support system tools that can facilitate the selection process are introduced and practiced with case studies. Ethics in procurement, public procurement concerns and strategies, as well as international differences in the use of procurement methods, are also covered."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "Admission into or selection of one of the following:200pt Program course entry point in the MC-CM Master of Construction ManagementAdmission into or selection of one of the following:300pt Program course entry point in the MC-ARCHCM Master of Architecture/Master of Construction ManagementAdmission into or selection of one of the following:300pt Program course entry point in the MC-CMPROP Master of Construction Management/Master of Property",
+                "200pt Program course entry point in the MC-CM Master of Construction Management",
+                "300pt Program course entry point in the MC-ARCHCM Master of Architecture/Master of Construction Management",
+                "300pt Program course entry point in the MC-CMPROP Master of Construction Management/Master of Property",
+                "200pt Program course entry point in the MC-CM Master of Construction Management",
+                "300pt Program course entry point in the MC-ARCHCM Master of Architecture/Master of Construction Management",
+                "300pt Program course entry point in the MC-CMPROP Master of Construction Management/Master of Property"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ABPL90313",
+                    "ABPL90335"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Class participation, demonstrating active involvement in a range of class activities and peer discussions",
+            "timing": "",
+            "percentage": "10%"
+        },
+        {
+            "description": "Assignment 1: Individual report focusing on the decision process for selecting the best procurement method for a project. Including articulation of common and innovative procurement strategies, applying critical analysis of the key factors (Product, Programme, Price)",
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment 2: Group assignment, a professional report focusing on the strategic approach (motivation for tendering and/or bidding) for one selected stakeholder in different procurement deliver methods. The report is equivalent to 1500 per group member and the class presentation is equivalent to 500 words per group member (report 30% + presentation 10%). Report Due week 11 and class presentation due week 12. 2000 words (equivalent)",
+            "timing": "From Week 11 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "description": "Examination equivalent to 2000 words demonstrating a critical analysis of the theories, principles and tools applied across a variety of construction procurement methods. 2 hours. Hurdle requirement:. A minimum mark of 40% has to be achieved in the examination in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Hurdle requirement:. A minimum of 75% of attendance (in class and tutorials)",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Paulo Vaz Serra"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "p.vazserra@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://msd.unimelb.edu.au/master-construction-management"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

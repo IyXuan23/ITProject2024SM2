@@ -1,0 +1,139 @@
+{
+    "subject name": "Text Analytics for Health",
+    "subject code": "COMP90090",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "Text analytics (also known as natural language processing) is becoming increasingly important in clinical and public health given the near-ubiquitous adoption of text-based Electronic Health Record (EHR) systems in clinical care, and the widespread use of social media and online communities for health-related peer support. This subject aims to provide students with a grounding in applied health-related text analytics using a range of different data sources and application areas."
+    ],
+    "indicative content": [
+        "Topics covered may include: introduction to text analytics and text analytics for health applications; introduction to healthcare and public health; development of text analytics pipelines for clinical notes; best practice in data annotation; clinical information extraction using rule-based methods and machine learning; knowledge resources for clinical text analytics; \u202fclinical text analytics toolkits; utilization of text analytics and social media for health applications; sentiment and stance analysis in social media data; data management, privacy, and ethical issues in health-related text analytics."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Permission of the coordinator is required prior to enrolling in this subject (some programming experience in Python is required)"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "Or equivalent"
+            ],
+            "one of pre-requisite": [
+                [
+                    "COMP90059",
+                    "COMP90038"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:MC-IT Master of Information TechnologyAdmission into or selection of one of the following:MC-CS Master of Computer ScienceAdmission into or selection of one of the following:GD-CS Graduate Diploma in Computer ScienceAdmission into or selection of one of the following:MC-IS Master of Information Systems",
+                "MC-IT Master of Information Technology",
+                "MC-CS Master of Computer Science",
+                "GD-CS Graduate Diploma in Computer Science",
+                "MC-IS Master of Information Systems",
+                "MC-IT Master of Information Technology",
+                "MC-CS Master of Computer Science",
+                "GD-CS Graduate Diploma in Computer Science",
+                "MC-IS Master of Information Systems"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Short essay on ethical issues in health text analytics - Equivalent to approximately 500 words in total. 10 hours (of work required)",
+            "timing": "Week 3",
+            "percentage": "15%"
+        },
+        {
+            "description": "Two individual programming assignments \u2013 Equivalent to approximately 2,000 words in total (2x1,000 words). Due in Week 4 & 7.. 40 hours (of work required). Hurdle requirement:. 50% hurdle \u2013 Students are required to obtain at least 50% collectively on the three programming assignments.",
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Participation in online discussion \u2013 Equivalent to 500 words in total. 10 hours (of work required)",
+            "timing": "From Week 1 to Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Independent project (Individual) \u2013 Equivalent to 2,000 words. Due at the start of the exam period. 40 hours (of work required). Hurdle requirement:. 50% hurdle \u2013 Students are required to obtain at least 50% on their individual, independent project.",
+            "timing": "End of semester",
+            "percentage": "45%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Mike Conway"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "mike.conway@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures and tutorials"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

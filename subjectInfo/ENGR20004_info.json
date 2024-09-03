@@ -1,0 +1,318 @@
+{
+    "subject name": "Engineering Mechanics",
+    "subject code": "ENGR20004",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "The aim of this subject is to provide an introduction to modelling the stresses and deformations that occur when axial, torsional and flexural loads are applied to a body in static equilibrium, as well as the translational and rotational motions that eventuate in a body subject to different load applications. This material will be complemented with laboratory and project based approaches to learning.",
+        "The subject provides the basis for all the mechanical engineering subjects that follow. The calculations introduced in this subject are the most common type of calculations performed by professional mechanical engineers in all sectors of the industry.",
+        "INDICATIVE CONTENTTopics to be covered include free-body diagrams; equilibrium; force systems; stresses and strains; coordinate systems; statically indeterminate systems; flexure; bending under combine loads; torsion; power transmission; kinematics; relative motion; particle kinetics; impulse and momentum; vibration; rigid body motion; angular impulse and momentum; work and energy.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Either",
+                [
+                    "MAST10006",
+                    "MAST10007"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "PHYC10001",
+                    "PHYC10003",
+                    "PHYC10009"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "Admission into or selection of one of the following:MC-CIVENG Master of Civil EngineeringMC-ENVENG Master of Environmental EngineeringMC-MECHENG Master of Mechanical EngineeringMC-MTRNENG Master of Mechatronics EngineeringMC-SOFTENG Master of Software EngineeringMC-ARCHENG Master of Architectural Engineering",
+                "MC-CIVENG Master of Civil Engineering",
+                "MC-ENVENG Master of Environmental Engineering",
+                "MC-MECHENG Master of Mechanical Engineering",
+                "MC-MTRNENG Master of Mechatronics Engineering",
+                "MC-SOFTENG Master of Software Engineering",
+                "MC-ARCHENG Master of Architectural Engineering",
+                "MC-CIVENG Master of Civil Engineering",
+                "MC-ENVENG Master of Environmental Engineering",
+                "MC-MECHENG Master of Mechanical Engineering",
+                "MC-MTRNENG Master of Mechatronics Engineering",
+                "MC-SOFTENG Master of Software Engineering",
+                "MC-ARCHENG Master of Architectural Engineering",
+                "For Bachelor of Science, Bachelor of Biomedicine, and Bachelor of Commerce students:",
+                "One ofCodeNameTeaching periodCredit PointsPHYC10001Physics 1: AdvancedSemester 1 (On Campus - Parkville)12.5PHYC10003Physics 1Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5PHYC10009Foundations of PhysicsSemester 1 (On Campus - Parkville)12.5",
+                "PHYC10005 - Physics 1: Fundamentals"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "MAST10008",
+                    "MAST10009"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                [
+                    "MAST10021",
+                    "MAST10022"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 4",
+            "necessary pre-requisite": [
+                [
+                    "MAST10007",
+                    "MAST10021"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 5",
+            "necessary pre-requisite": [
+                [
+                    "MAST10022",
+                    "MAST10006"
+                ],
+                "Either",
+                [
+                    "MAST10006",
+                    "MAST10007"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ENGR10005",
+                    "PHYC10001",
+                    "PHYC10003",
+                    "PHYC10009"
+                ]
+            ],
+            "additional pre-requisite": [
+                "For Bachelor of Environments and Bachelor of Design students:",
+                "One ofCodeNameTeaching periodCredit PointsENGR10005StaticsSemester 2 (On Campus - Parkville)12.5PHYC10001Physics 1: AdvancedSemester 1 (On Campus - Parkville)12.5PHYC10003Physics 1Semester 2 (On Campus - Parkville)Semester 1 (On Campus - Parkville)12.5PHYC10009Foundations of PhysicsSemester 1 (On Campus - Parkville)12.5",
+                "PHYC10005 - Physics 1: Fundamentals"
+            ]
+        },
+        {
+            "option": "Option 6",
+            "necessary pre-requisite": [
+                [
+                    "MAST10008",
+                    "MAST10009"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 7",
+            "necessary pre-requisite": [
+                [
+                    "MAST10021",
+                    "MAST10022"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 8",
+            "necessary pre-requisite": [
+                [
+                    "MAST10007",
+                    "MAST10021"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 9",
+            "necessary pre-requisite": [
+                [
+                    "MAST10022",
+                    "MAST10006"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ENGR20003"
+    ],
+    "assessments": [
+        {
+            "description": "Weekly online quizzes. Requiring a total time commitment of 5 hours. Intended Learning Outcomes (ILOs) 1-5 addressed in these tests.. 5 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "description": "Assignments and laboratories (4 x 7.5%). Due in weeks 3, 7, 10 and 12.\u00a0Requiring a total time commitment of approximately 30 hours. ILOs 1-5 addressed in these assignments.. 30 hours (of work required)",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "One mid-semester test. ILOs 1-5 addressed in these tests.. 1.5 hours",
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "One written exam. ILOs 1-5 are addressed in this exam.. 3 hours. Hurdle requirement:. The examination is a hurdle and must be passed to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Christian Brandl"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures and 24 hours of labs/tutorials."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Daniel Chung"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures and 24 hours of labs/tutorials."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "christian.brandl@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Meriam JL and Kraige LG,Engineering Mechanics : Dynamics7th Edition",
+                    "HGibbeler RC,Statistics and Mechanics of Materials3rd Edition"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students will have access to lecture notes, lecture slides and workshop questions on LMS.",
+            "CAREERS / INDUSTRY LINKS",
+            "A 2 hour question and answer session with representatives from industry will be hosted for Engineering Mechanics students.",
+            "ENGR20004- 2016 summer teaching dates: 9th Jan to 17th Feb, the exam will be held during the following week."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "subject name": "Clinical Paediatric Physiotherapy",
+    "subject code": "PHTY90030",
+    "subject availability": [
+        "August - Off Campus"
+    ],
+    "overview": [
+        "This subject will develop clinical reasoning skills in the management of paediatric conditions and focuses on overall patient management and education rather than 'hands-on' physiotherapy treatment. Students have a two-week clinical placement block which may include attending the Royal Children's Hospital or associated clinics in Melbourne. Interstate students will be able to attend clinical placements closer to home. The two-week placement block will include clinically-relevant online tutorials. Students will prepare a case study for presentation at the end of the clinical placement block and submit assignments throughout the remainder of the semester. Case presentations will be conducted  online."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHTY90040"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written assignment. 2000 words",
+            "timing": "Week 10",
+            "percentage": "40%"
+        },
+        {
+            "description": "Case presentation. 10 minutes (total)",
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Clinical practice journal. 1500 words",
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "description": "Continuous clinical assessment. 1000 words",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "August - Off Campus": [
+                {
+                    "Coordinator": "Tara Fitzgerald"
+                },
+                {
+                    "Mode of delivery": "Off Campus"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "19 August 2024 to 22 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 September 2024"
+                },
+                {
+                    "Census date": "13 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "18 October 2024"
+                },
+                {
+                    "Assessment period ends": "19 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://healthsciences.unimelb.edu.au/departments/physiotherapy"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

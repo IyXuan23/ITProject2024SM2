@@ -1,0 +1,114 @@
+{
+    "subject name": "Analysing Ecosystems and Their Values",
+    "subject code": "ENST90044",
+    "subject availability": [
+        "Semester 1 (Early-Start)"
+    ],
+    "overview": [
+        "Terrestrial ecosystems provide a wide range of values\u2014from biodiversity and carbon storage to clean water and recreational opportunities in interaction with social systems. Managing ecosystems to sustain these values requires understanding what values exist in a given ecosystem, their interactions with society and how they change over time and space. However, natural ecosystems and the social context within which they are embedded are inherently variable across scales\u2014capturing the many ecosystem values presents a significant challenge. This unit will explore the principles of, and approaches to, ecosystem assessment and monitoring across both the biophysical and social domains. We will focus on developing practical skills in the design of social and biophysical assessments, data collection and the analysis of quantitative and qualitative data associated with natural resources and their management. Example assessment approaches include ecological monitoring, forest inventory, stakeholder analysis, participatory mapping and value-based conversations, among many others. We will draw on examples from a range of ecosystems around the world.",
+        "This subject will involve practicals and a three-day, pre-semester field trip.",
+        "",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Practical Reports (due fortnightly in weeks 2, 4, 6, 8, 10 and 12) (500 words each x 6 = 3000 words) (60%). 3000 words",
+            "timing": "Throughout the semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "Ecosystem Assessment and Monitoring Project (semester-long, submitted during examination period) (2000 words) (40%). 2000 words",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Principal coordinator": "Luke Kelly"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total Contact Hours = 72 hrs\r\n4 hrs of practicals per weeks = 48 hrs \r\n3-day pre-semester field trip (@8 hrs per day) = 24 hrs"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "19 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "1 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "ltkelly@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Bolker B. 2008. Ecological Models and Data in R. Princeton University Press.",
+                    "Hilborn R, Mangel M. 1997. The Ecological Detective: Confronting Models with Data. Princeton University Press.",
+                    "Example journal article:",
+                    "Dobbs C, Kendal, D, Nitschke CR 2014. Multiple ecosystem services and disservices of the urban forest: Establishing their connections with landscape structure and socio-demographics. Ecological Indicators. 43, pp 44-55."
+                ]
+            }
+        ],
+        "Incidental costs": [
+            "Students maybe asked to contribute to food and expenses while in the field."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

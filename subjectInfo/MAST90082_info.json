@@ -1,0 +1,124 @@
+{
+    "subject name": "Mathematical Statistics",
+    "subject code": "MAST90082",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The theory of statistical inference is important for applied statistics and as a discipline in its own right. After reviewing random samples and related probability techniques including inequalities and convergence concepts the theory of statistical inference is developed. The principles of data reduction are discussed and related to model development. Methods of finding estimators are given, with an emphasis on multi-parameter models, along with the theory of hypothesis testing and interval estimation. Both finite and large sample properties of estimators are considered. Applications may include robust and distribution free methods, quasi-likelihood and generalized estimating equations. It is expected that students completing this course will have the tools to be able to develop inference procedures in novel settings."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST20005"
+                ],
+                "12.5 credit points of level 3 subject in statistics or stochastic processes which could include one of the below:"
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST30001",
+                    "MAST30025",
+                    "MAST30027",
+                    "MAST30020"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "MAST90104 A First Course In Statistical Learning"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-DATASC Master of Data Science"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Continuing assessment of up to 40 hours work, worth 20% of the mark, throughout the semester. 40 hours",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Liuhua Peng"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one-hour interactive lectures per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "liuhua.peng@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

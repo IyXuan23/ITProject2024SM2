@@ -1,0 +1,136 @@
+{
+    "subject name": "Capstone Studies in Finance",
+    "subject code": "FNCE90062",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This capstone subject is designed to put finance theory into practice and integrate a wide range of analytical skills developed by students enrolled in the Master of Management (Finance) and Master of Management (Accounting and Finance) programs. Working in groups, students will develop analyst reports on topics including firm valuation, capital structure, mergers and acquisitions, corporate governance, and other contemporary issues and present these for assessment using a range of relevant pedagogical approaches. Upon successful completion of this subject, students will be able to apply the tools, techniques and approaches typically required of financial analysts that support decision-making in corporate finance and investment management."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Completion of all foundation subjects and compulsory subjects plus at least one elective subject",
+                "Note: the following subject/s can also be taken concurrently (at the same time)"
+            ],
+            "one of pre-requisite": [
+                [
+                    "FNCE90011"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Admission into one of the following: MC-MGMTFIN Master of Management (Finance), MC-MGMTAFN Master of Management (Accounting and Finance)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Mid-semester test. 750 words",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Mid-semester test. 750 words",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group presentation of final report scheduled during the final meeting. 20 minutes",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group written report. (Due 10 days after presentation). 5000 words",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Attila Balogh"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 3-hour lecture per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Zhen Shi"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 3-hour lecture per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Rosenbaum, J. and J Pearl (2013).Investment Banking: Valuation, Leveraged Buyouts and Mergers and Acquisitions, 2nd edition, New York: Wiley-Finance.",
+                    "OR",
+                    "Rosenbaum, J. and J Pearl (2020).Investment Banking: Valuation, Leveraged Buyouts and Mergers and Acquisitions, 3rd edition, New York: Wiley-Finance."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

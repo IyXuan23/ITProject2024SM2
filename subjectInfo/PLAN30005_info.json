@@ -1,0 +1,161 @@
+{
+    "subject name": "Urban Precinct Studio",
+    "subject code": "PLAN30005",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The focus of this capstone studio is on planning the development and/or redevelopment of a precinct-scale urban site. Students will undertake site analysis, visioning, detailed concept planning and implementation considerations that together lead to the creation of a precinct structure plan or an urban design and planning framework.",
+        "This capstone studio provides students opportunities to consolidate, extend, and apply the theories and skills acquired in the fields of urban design and urban planning. The learning process is student-driven, involving authentic project sites that offer real-life complexities and challenges. Both group and individual tasks are incorporated in the subject curriculum. Presentation and critic sessions are organised regularly to sharpen student\u2019s oral, visual, and written communication skills.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "ABPL20049\t Introduction to Urban Design & Planning"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the B-ENVS Bachelor of Environments"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "PROP10001",
+                    "PLAN10002",
+                    "GEOM20013"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "PLAN20002",
+                    "ARCH20002"
+                ],
+                [
+                    "PLAN10001",
+                    "ARCH20003"
+                ]
+            ],
+            "alternate pre-requisite": [
+                "Admission into the B-DES Bachelor of Design"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ABPL30060 Urban Precinct Studio"
+    ],
+    "assessments": [
+        {
+            "description": "Group presentation  1 (3-4 students per group):  15 mintutes, equivalent to 400 words  per student. 400 words (equivalent). Hurdle requirement:. For the purposes of meeting this hurdle requirement, each presentation must be complete and constitute a genuine attempt to address the requirements of the task. Presenting only part of an assessment (e.g. only the template of a poster) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "Week 4",
+            "percentage": "5%"
+        },
+        {
+            "description": "Group report 1  (3-4 students per group,  1200 words equivalent per student). 1200 words (equivalent)",
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "description": "Group presentation 2, (3-4 students per group). 15 minutes presenatation,  400 words equivalent per student). 400 words (equivalent). Hurdle requirement:. presentation must be complete and constitute a genuine attempt to address the requirements of the task",
+            "timing": "Week 6",
+            "percentage": "5%"
+        },
+        {
+            "description": "Group report 2,  (3-4 students per group 400 words equivalent per student). 400 words (equivalent)",
+            "timing": "Week 6",
+            "percentage": "5%"
+        },
+        {
+            "description": "Individual presentation 1 (10 minutes  including presentation  and critic ). 400 words (equivalent). Hurdle requirement:. presentation must be complete and constitute a genuine attempt to address the requirements of the task",
+            "timing": "Week 10",
+            "percentage": "5%"
+        },
+        {
+            "description": "Individual presentation 2 (10 minutes including  presentation  and critic ). 400 words (equivalent). Hurdle requirement:. presentation must be complete and constitute a genuine attempt to address the requirements of the task",
+            "timing": "Week 14",
+            "percentage": "5%"
+        },
+        {
+            "description": "Individual report. 4000 words (equivalent)",
+            "timing": "Week 14",
+            "percentage": "50%"
+        },
+        {
+            "description": "Participation. 800 words (equivalent)",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Sun Sheng Han"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 hour of lecture and and 6 hours of studio  ( 2X 3 hours) per week."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "sshan@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Nevolo, L, The History of the City, Scholar Press, London, 1980Kostoff, S, The City Shaped: Urban Patterns and Meanings through History, Thames and Hudson, London, 1991.Lynch, K, The Image of the City, Cambridge, Mass., 1960.Mumford , L, The City in History, Penguin Books, 1961.Webb, M, The City Square, Thames and Hudson, London, 1990."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "subject name": "German Cultural Studies A",
+    "subject code": "GERM20006",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Students will acquire fundamental research skills needed to complete a German major including the use of the library, online research resources and relevant bibliographical software. Students will learn to synthesise information from a range of scholarly sources. In the seminar, students will begin to engage with important cultural and linguistic aspects of German and acquire a broader genre literacy. Students will also engage with key cultural organisations and undertake site visits. They will become aware of some of the formal properties of discourse in German on cultural and historical issues. In their written and spoken German they will begin the transition to higher-level output such as the presentation of different points of view, and will be introduced to academic genres such as the analytical essay and the literature review (in English). This subject will equip German major students from the German 1 entry point with the language and research skills needed for admittance into the German Studies Capstone subject with its greater emphasis on cultural, historical and social themes and their related linguistic forms."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "GERM20004"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Writing Folio, due in weeks 3, 6 and 9.. 1000 words (equivalent)",
+            "timing": "From Week 3 to Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "Group speaking project and peer reviews (oral or written), due in weeks 7-8 and 11. 1000 words (equivalent)",
+            "timing": "From Week 8 to Week 11",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written tests in weeks 5 and 10. 1000 words (total)",
+            "timing": "From Week 5 to Week 10",
+            "percentage": "25%"
+        },
+        {
+            "description": "Case-study based on interview. 1000 words",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum of 75% of tutorials in order to pass this subject. All pieces of work must be submitted to pass this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Dominik Lack"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 1-hour research skills tutorial, 1 x 2-hour cultural studies seminar."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "dominik.lack@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "A package of readings will be provided on the subject LMS site."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/soll"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Language Placement Test required",
+                    "Language Placement Test required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

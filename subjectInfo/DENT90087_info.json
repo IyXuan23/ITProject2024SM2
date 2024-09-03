@@ -1,0 +1,130 @@
+{
+    "subject name": "Endodontics 1",
+    "subject code": "DENT90087",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "This subject in Endodontics provides the first introductory level into advanced training in all aspects of the discipline in order to prepare a student for further specialty practice, or teaching and research in the second and third years. The subject introduces students to advanced study and research into the nature and treatment of disorders of the pulp and periapical tissues, and the relationship of these to other dental and systemic conditions.",
+        "The subject structure comprises didactic and clinical components. Students can expect to be introduced to the following areas during the three-year cycle of the Endodontics subject themes: a. Pulp Biology & Clinical Endodontics I, b. Clinical Endodontics II, c. General Considerations in Endodontics, d. Dental Trauma, e. Endodontic Surgery, f. Evidence-Based Endodontics. In each year, two themes are covered. Entry point into the cycle depends on the year of commencement, but all six themes will be studied by the end of third year. The literature review involves the critical analysis of published scientific research papers.",
+        "The aims of this subject are to prepare dentists to an introduction to practice endodontics at an advanced (specialist) level, based on current knowledge of the pathobiology of the pulp and periapex; to equip dentists to keep pace with advances in the discipline; and to contribute in a scholarly manner to the discipline.",
+        "Didactic ComponentStudents participate in a weekly seminar program conducted during the year. The seminar program includes three components: 1. seminar topic, 2. current literature review, and 3. case presentations.  Students are rostered to each activity, and the number of times each student presents in each component depends on the year level and the number of students.",
+        "Clinical ComponentClinical experience constitutes 50% of the subject, Students are rostered to the clinic, with the emphasis on the management of complex cases, and includes non-surgical and surgical treatment. Cases completed during these sessions will form the basis of the case presentations in seminars and for the clinical case portfolio submitted for assessment throughout the year."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Must be taken in linear numerical sequence: Endodontics 1 \u2013 Endodontics 3 over 3 years."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "2 x Logbook Submissions (minimum 10 cases each), Mid-Year & End Year, 10% each",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "2 x Viva Voce Exams (30 mins each), Mid-Year & End Year, 20% each. 60 minutes (total)",
+            "timing": "Mid and end of year examination periods",
+            "percentage": "40%"
+        },
+        {
+            "description": "Written Exam. 1.5 hours",
+            "timing": "Mid-year examination period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written Exam. 3 hours",
+            "timing": "End of year examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Active seminar participation in Clinical Case reports, seminar topics, handouts and literature reviews. Hurdle requirement",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Attendance. Hurdle requirement:. 100% attendance of all Emergency Service Sessions (pass/fail)",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Attendance. Hurdle requirement:. 100% attendance for all Seminars & Clinical Sessions, including rostered On-Call Sessions\u00a0(pass/fail)",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Participation. Hurdle requirement:. Overall achievement of a satisfactory grade for Clinical Demonstrator Feedback Forms (pass/fail)",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Coordinator": "Peter Parashos"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Up to 800 Contact Hours consisting of a combination of;\r\n\u2022\t1 x 5 Hour Seminar per week.\r\n\u2022\t5 x 3.5 hour Clinical Sessions per week.\r\n\u2022\t34 x 3.5 Hour DHSV Emergency Service Sessions"
+                },
+                {
+                    "Total time commitment": "1,224 hours"
+                },
+                {
+                    "Pre teaching start date": "29 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "-"
+                },
+                {
+                    "Teaching period": "5 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "9 February 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [
+                    "Professor Peter Parashos"
+                ],
+                "email": [
+                    "parashos@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

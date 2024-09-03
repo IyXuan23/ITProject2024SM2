@@ -1,0 +1,134 @@
+{
+    "subject name": "Lean Construction",
+    "subject code": "ABPL90414",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Drawing from the lean principles originating in the Toyota Production System (TPS), lean practices have gained popularity in the construction industry (known as lean construction). Lean construction enhances value on projects and uncovers wasted resources. It has the potential to help owner organisations, contractors, and subcontractors to realise improvements in project delivery\u2014including in terms of cost, schedule, quality, and productivity. This subject aims to develop students\u2019 knowledge and understanding of lean construction as a philosophy, a bundle of lean tools, and a problem-solving culture which forms the lean construction body of knowledge. Key topics include lean philosophy, lean tools, and lean practices, and how they apply to construction in a national and international context."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "200pt Program course entry point in the MC-CM Master of Construction Management",
+                "300pt Program course entry point in the MC-ARCHCM Master of Architecture/Master of Construction Management",
+                "300pt Program course entry point in the MC-CMPROP Master of Construction Management/Master of Property"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ABPL90313"
+                ]
+            ],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "300pt Program course entry point in the MC-CM Master of Construction Management",
+                "400pt Program course entry point in the MC-ARCHCM Master of Architecture/Master of Construction Management",
+                "400pt Program course entry point in the MC-CMPROP Master of Construction Management/Master of Property"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Approval from the Course Coordinator"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1 (individual) \u2013 Reflection essay on the role of variation in flow through the in-class simulation games. 750 words (equivalent)",
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assignment 2 (individual) \u2013 Experimental report of process improvement using value stream mapping (VSM). 2000 words (equivalent)",
+            "timing": "Week 6",
+            "percentage": "40%"
+        },
+        {
+            "description": "Assignment 3 (group of two students) - a professional report on implementation of a lean practice in the construction industry,\u00a01750 words per student. 1750 words (each)",
+            "timing": "Week 11",
+            "percentage": "35%"
+        },
+        {
+            "description": "Assignment 4 (group of two students) \u2013 group presentation communicates assignment 3 report findings. 10 minutes",
+            "timing": "Week 12",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Shang Gao"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1X3 hour seminar per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinator"
+                ],
+                "email": [
+                    "shang.gao@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

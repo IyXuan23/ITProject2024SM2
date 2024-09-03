@@ -1,0 +1,132 @@
+{
+    "subject name": "Web Security",
+    "subject code": "COMP90074",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "The Internet pervades nearly every aspect of our lives, from banking through to dating, and onto our interactions with government. As more of our lives move online we face ever greater risks to our data and way of life from internet vulnerabilities and attacks. Web Security will examine the fundamentals behind common vulnerabilities and attacks, and will introduce students to ways of mitigating the risks associated with them. It will also examine some of the ethical challenges faced when evaluating security and disclosing vulnerabilities."
+    ],
+    "indicative content": [
+        "The subject will examine some of the cyber security challenges faced during system implementation and deployment. In particular it will identity common attack vectors, covering in more detail some of the Open Web Application Security Project (OWASP) Top 10 list of web application vulnerabilities, which may include topics such as injection, cross\u2010site scripting, session hijacking, and cross\u2010site request forgery, amongst others. Where appropriate practical examples will be examined to relate theory to practice. The subject will discuss methods for mitigating the risks associated with such vulnerabilities, and may include discussions on distributed denial of service, input validation and sanitisation, penetration testing, and the associated ethical and legal constraints, automated vulnerability scanning, and web application firewalls."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "COMP90015"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-CS Master of Computer Science"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                "Selection of the Cyber Security specialisation (formal) in the MC-IT Master of Information Technology"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One programming\u2010based assignment in 2 parts (30\u201040 hours). Due in two parts, week 5 and 8.. 30 hours (of work required). Hurdle requirement:. Students must get a combined mark of 50% in the projects.",
+            "timing": "From Week 5 to Week 8",
+            "percentage": "25%"
+        },
+        {
+            "description": "One individual written report, consisting\r\nof approximately 1200\u20101500 words (25\u201035 hours).. 1200 words. Hurdle requirement:. Students must get a combined mark of at least 50% in the assignments.",
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "One 2 hour written examination.. 2 hours. Hurdle requirement:. Students must achieve a mark of at least 25/50 on the exam.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Toby Murray"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "toby.murray@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures and tutorials."
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

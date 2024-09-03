@@ -1,0 +1,117 @@
+{
+    "subject name": "Random Matrix Theory",
+    "subject code": "MAST90103",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Random matrix theory is a diverse mathematical tool. It draws together ideas from linear algebra, multivariate calculus, analysis, probability theory, group and representation theory, differential geometry, combinatorics and mathematical physics. It also enjoys a wide number of applications, ranging from wireless communication in engineering, to time series analysis in statistics, quantum chaos and quantum field theory in physics, to the Riemann zeta function zeros and prime numbers in number theory. A self contained development of random matrix theory will be undertaken in this course from various viewpoints.",
+        "Topics to be covered include:",
+        "Gaussian random matrix models and their application in likelihood analysis and modelling covariance matrices in time series analysis;",
+        "eigenvalue densities and the concept of eigenvalue repulsion;",
+        "classification of random matrices ensembles;",
+        "derivation of Jacobians for matrix transformations such as diagonalisations;",
+        "joint eigenvalue densities and correlation functions;",
+        "orthogonal polynomials and the concept of determinantal point processes;",
+        "supersymmetry and non-linear sigma-models;",
+        "the log-gas picture;",
+        "free probability theory and its application to matrix sums and products.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST30021"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST20009",
+                    "MAST20032"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Up to 40 hours of assignments (four assignments worth 10% each, due at equally spaced intervals throughout the semester).. 40 hours",
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Mario Kieburg"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "m.kieburg@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

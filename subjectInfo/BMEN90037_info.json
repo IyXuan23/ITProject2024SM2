@@ -1,0 +1,128 @@
+{
+    "subject name": "Bioengineering Data Analytics",
+    "subject code": "BMEN90037",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject teaches fundamentals of data analysis as relevant to modern biomedical engineering, in an integrated approach that combines theory with highly contextualised, project-based learning. Students are introduced to the foundations of probability and random variables, statistical hypothesis testing, linear and nonlinear regression, data classification and dimensionality reduction techniques. Each topic is explicated via case studies from clinical, industrial and research applications of biomedical engineering, covering topics in biomechanics, biosensors, bioinformatics, biomedical imaging and biomaterials."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST20029"
+                ],
+                "Note: the following subject/s can also be taken concurrently (at the same time):"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BMEN20003",
+                    "COMP20005"
+                ]
+            ],
+            "additional pre-requisite": [
+                "BMEN20001 Biomechanical Physics & Computation",
+                "Or equivalent"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BMEN90026 Clinical Trials and Regulations"
+    ],
+    "assessments": [
+        {
+            "description": "Workshop Reports (8 x 3-page reports). Intended Learning Outcomes (ILOs) 1-6 are addressed in this assessment.. 3 pages",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "50%"
+        },
+        {
+            "description": "Mid-Semester Test. ILOs 1 and 2 are addressed in this assessment.. 50 minutes",
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final Exam. ILOs 1, 2, 4-6 are addressed in this assessment.. 2 hours. Hurdle requirement:. Students must pass the end of semester examination to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Katie Davey"
+                },
+                {
+                    "Coordinator": "Matt Faria"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3x 1-hour lectures per week for 12 weeks, 1x 3-hour computer-based workshop per week incorporating tutorial syle learning for 11 weeks"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "catherine.davey@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject is delivered through lectures, tutorials, quizzes and workshops. Assessment is in the form of workshop reports, an assignment, and a final exam.",
+            "INDICATIVE KEY LEARNING RESOURCESStudents are provided with lecture slides and recording, tutorials with worked solutions, workshops with code solutions, previous MST and exam questions with worked solutions.",
+            "CAREERS / INDUSTRY LINKSThe lecture series features guest lecturers from industry and short videos interviewing people about application of concepts to industry. There is also an interactive tutorial based on real world applications. Collectivlely, these examples illustrate how the knowledge and concepts taught throughout the course have relevant application to biomedical engineering in industry."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,139 @@
+{
+    "subject name": "Advanced Topics in Nutrition",
+    "subject code": "NUTR30004",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject critically examines a range of key aspects of the application of human nutrition, along with current fields of research investigation adding to the understanding of nutrition science. These include, but are not limited to: sports nutrition, nutritional genomics, nutrient\u2010gene interactions, fad diets, evolution of the human diet, nutritional supplements, intestinal microbiome and health, brain function and nutrition, bioactive foods, foetal origins of disease, epigenetic and nutrition in disease, nutritional deficiencies. Students will undertake case studies in the above mentioned topics in which they will evaluate and interpret recent research data and findings."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "FOOD20003",
+                    "NUTR20001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Critical analysis of a scientific poster summarised in a  report. 500 words. Hurdle requirement:. This assessment must be submitted to pass this subject",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written Assignment (Review of a topic chosen from the list of emerging areas of nutrition research provided). 1500 words (equivalent). Hurdle requirement:. This assessment must be submitted to pass this subject",
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "End of Semester Project: Creation of Individual Poster. 1250 words (equivalent). Hurdle requirement:. This assessment must be submitted to pass this subject",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "End of Semester Project: Summary of Project. 750 words. Hurdle requirement:. this assessment must be submitted to pass this subject",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum of 80% of tutorials.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Julia Steenkamp"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours of lectures/tutorials"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "julia.steenkamp@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

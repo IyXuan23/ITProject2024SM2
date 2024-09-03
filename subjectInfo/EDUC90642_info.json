@@ -1,0 +1,129 @@
+{
+    "subject name": "Critical Thinking and Curriculum",
+    "subject code": "EDUC90642",
+    "subject availability": [
+        "August"
+    ],
+    "overview": [
+        "This subject examines the role of thinking in teaching and learning. The aim is for students to gain both a theoretical understanding of the methods and strategies, as well as the practical ability to apply them. The subject aims to examine how thinking in schools articulates with the general capabilities in the curriculum, as well as asking how such capabilities affect educational equity and social justice. The background of a variety of educational approaches will be explored to clarify what teaching and learning thinking might mean. The approaches examined will be applicable across the disciplines and in different educational contexts. Beginning with the view that we teach thinking by teaching the skills and tools from various thinking skills programs the exploration moves on to more sophisticated and complex theories and approaches. Students will have the opportunity to participate in lessons based on these approaches and to apply them to individual educational contexts and interests. Students will leave with a deeper understanding of thinking, teaching and the education of thinking."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC90929",
+                    "EDUC90930",
+                    "EDUC91029",
+                    "EDUC91030"
+                ],
+                "*Students that commenced their course prior to 2021 may have completed EDUC90830 in place of EDUC91029, and EDUC90900 in place of EDUC91030:",
+                [
+                    "EDUC90830",
+                    "EDUC90900"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students admitted to courses/entry points not specified below have no prerequisites for this subject.",
+                "Students in the 200-point program of the Master of Education, Master of TESOL or Master of Modern Languages Education, must have completed the following four compulsory subjects*:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Analysis of a Thinking Situation. 2000 words",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Inquiry into Critical and Creative Thinking. 3000 words",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. A minimum of 75% attendance at all tutorials, seminars and workshops.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "August": [
+                {
+                    "Principal coordinator": "Harry Galatis"
+                },
+                {
+                    "Coordinator": "Matthew Cunnane"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "11 August 2024 to 22 September 2024"
+                },
+                {
+                    "Last self-enrol date": "19 August 2024"
+                },
+                {
+                    "Census date": "23 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "13 September 2024"
+                },
+                {
+                    "Assessment period ends": "7 October 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "August": {
+                "name": [],
+                "email": [
+                    "m.cunnane@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There is no prescribed text for this subject. Readings will be identified."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

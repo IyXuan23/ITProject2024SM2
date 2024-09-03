@@ -1,0 +1,116 @@
+{
+    "subject name": "Preclinical Optometry",
+    "subject code": "OPTO90024",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "Note: This subject is only available to students enrolled in the Doctor of Optometry.",
+        "This subject provides training in the optometric procedures for the examination of the eyes and introduces common vision and ocular disorders. On completion of the subject, students will be able to investigate a patient\u2019s visual problems, make a diagnosis, and plan an appropriate course of management for common conditions. Topics include: refractive anomalies of the eye, including explanations of the origin and development of refractive anomalies and the approaches used to detect and correct refractive errors; anomalies of accommodation, including presbyopia; anomalies of ocular motility and binocular vision, including their clinical assessment and management; and the detection and basis of disorders of the visual pathway. Practical sessions introduce students to taking and recording a routine patient history, investigating an ocular complaint, completing a comprehensive refractive examination, performing a routine screen to detect overt visual dysfunction. Additionally, students will work in small groups to link themes in basic vision science with clinical practice."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Clinical proficiency examinations  - 3 x 45-mins each. 135 minutes (total). Hurdle requirement:. Satisfactory performance in clinical proficiency examinations.",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 2 hours",
+            "timing": "During the semester 1 examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "During the semester 2 examination period",
+            "percentage": "45%"
+        },
+        {
+            "description": "Group oral presentation (~6 students per group). 60 minutes (total)",
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "description": "Hurdle requirement:. 100% attendance at preclinical duties",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Coordinator": "Jia Jia Lek"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Four 1-hour lectures/tutes per week throughout the year; 3 hours of practical work per week in semester 1 and an average of 8 hours of practical work per week in semester 2. Plus attendance at the Doctor of Optometry Student Conference"
+                },
+                {
+                    "Total time commitment": "300 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [
+                    "Dr Jia Jia Lek"
+                ],
+                "email": [
+                    "jjlek@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Benjamin W (2006)Borish\u2019s Clinical Refraction.2nd Ed. Pub. Butterworth-Heinemann.Elliott D.B. (2007)Clinical Procedures in Primary Eye Care.3rd Ed. Pub. Elsevier."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Basic optometric equipment will need to be purchased by each student. There will be an information session advising students of what is required early in semester 1. Students will have the opportunity to submit orders for equipment towards the end of semester 1 ready for use in semester 2.",
+            "Students are strongly advised to purchase their own equipment, which they will continue to use during their course and after graduation. However, those students who do not have their own equipment will be able to borrow equipment for classes."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

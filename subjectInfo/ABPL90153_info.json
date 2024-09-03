@@ -1,0 +1,103 @@
+{
+    "subject name": "Complex Building Energy Modelling",
+    "subject code": "ABPL90153",
+    "subject availability": [],
+    "overview": [
+        "The subject teaches how to use two modelling approaches to investigate and communicate complex and innovative environmental solutions for energy efficient building design. Led by experienced software users from industry and from software manufactures, this course will allow students to specialise in a software tool which they may already be using at their work.",
+        "Based on a case study approach students will assess an existing or new building project and prepare the documentation arguing for the innovative approaches to energy efficiency that are proposed. Focus will not only be on learning how to model these complex scenarios, but also how to interpret their practicality and develop risk profiles allowing end users to be able to choose between innovation and benefit.Prescribedsoftware programs with no costIES Virtual EnvironmentDetails of software availability and pricing are captured at:https://msd.unimelb.edu.au/current-students/student-experience/it-support",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ABPL90086"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Concept design presentation to class. 1000 words (equivalent)",
+            "timing": "Last day of class",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final Report. 2000 words",
+            "timing": "3 Weeks after the end of teaching",
+            "percentage": "40%"
+        },
+        {
+            "description": "Take home exam, due 2 weeks after last day of class. 2000 words (equivalent)",
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Principal coordinator": "Christopher Jensen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "29 January 2024 to  9 February 2024"
+                },
+                {
+                    "Last self-enrol date": "10 January 2024"
+                },
+                {
+                    "Census date": "9 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "16 February 2024"
+                },
+                {
+                    "Assessment period ends": "1 March 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "cjensen@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

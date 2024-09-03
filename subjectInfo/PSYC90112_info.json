@@ -1,0 +1,98 @@
+{
+    "subject name": "Research Project",
+    "subject code": "PSYC90112",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "This subject focuses on research skills for students undertaking professional training in psychology. The project can draw from a range of methodologies relevant to developing evidence-based research literacy in generalised psychological practice. Students will investigate a substantive individual research question under appropriate academic supervision and submit the results of the research in the form of an oral presentation and written report."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "An APAC accredited psychology major sequence including third-year psychological research methods."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written research proposal  (Pass/fail). 500 words (total). Hurdle requirement:. Must be submitted",
+            "timing": "Mid-semester 1",
+            "percentage": "0%"
+        },
+        {
+            "description": "Written literature review and research\r\nmethod. 2000 words. Hurdle requirement:. Must be submitted",
+            "timing": "End of Semester 1",
+            "percentage": "25%"
+        },
+        {
+            "description": "Oral presentation of research findings; 15\u2010Minutes (1,500 words equivalent). 15 minutes. Hurdle requirement:. Oral presentation must be delivered",
+            "timing": "Mid\u2010semester 2",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written research report. 6000 words. Hurdle requirement:. Must be submitted",
+            "timing": "End of Semester 2",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Principal coordinator": "Margaret Osborne"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "272 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [],
+                "email": [
+                    "mosborne@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

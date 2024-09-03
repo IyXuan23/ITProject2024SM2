@@ -1,0 +1,138 @@
+{
+    "subject name": "Digital Product Management",
+    "subject code": "BUSA90527",
+    "subject availability": [],
+    "overview": [
+        "Product Managers are the all-rounders in a technology team. Product managers understand customer and business needs, and drive the conception of digital products that meet those needs. They are the owners and drivers of what digital product is build, and partners of the software engineers that design, build, and deliver the products. They work throughout the digital product lifecycle, from the beginning steps of writing product requirements documents, through the tradeoffs and prioritisation during development, to the delivery of the digital products to users, and its subsequent improvement through iteration. Along the way, they are the communicators and evangelists that work up, across and inside the organisation to ensure information flows effectively.",
+        "The subject is designed to give students a real-world understanding of the craft of product management. The subject will give students an introductory grounding in ten critical competency areas of product management, and bring together practical examples, contemporary thinking, and also masterclasses from industry."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90480",
+                    "BUSA90481",
+                    "BUSA90060",
+                    "BUSA90224",
+                    "BUSA90243",
+                    "BUSA90001",
+                    "BUSA90193",
+                    "BUSA90093"
+                ],
+                [
+                    "BUSA90026",
+                    "BUSA90227"
+                ],
+                "Note: these subjects may be taken concurrently (at the same time)"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90482",
+                    "BUSA90483"
+                ],
+                [
+                    "BUSA90227",
+                    "BUSA90026"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following: MC-ENTRPSP Master of Entrepreneurship, MC-ETRENH Master of Entrepreneurship (Enhanced)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Contribution to class learning",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "In-class syndicate assignments. 800 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Syndicate report. 1000 words (each)",
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Syndicate presentation. 1200 words (each)",
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final examination. 2 hours. Hurdle requirement:. Students must pass the final examination to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. Students are required to attend at least 80% of classes to pass the subject",
+            "timing": "Throughout the teaching period",
+            "percentage": "0%"
+        }
+    ],
+    "dates and times": [
+        {
+            "August": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "22 August 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during the pre-teaching period"
+                },
+                {
+                    "Teaching period": "29 August 2024 to  7 September 2024"
+                },
+                {
+                    "Last self-enrol date": "21 April 2024"
+                },
+                {
+                    "Census date": "30 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "6 September 2024"
+                },
+                {
+                    "Assessment period ends": "14 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

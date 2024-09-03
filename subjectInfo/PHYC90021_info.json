@@ -1,0 +1,152 @@
+{
+    "subject name": "Research Project",
+    "subject code": "PHYC90021",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "In this subject, students undertake a substantial program of original research in one of the many research fields in which the School of Physics is active and internationally recognised: astrophysics, condensed matter physics, optics, and particle physics. The research may be experimental and/or theoretical in nature. It will be conducted under the supervision of a member of the School\u2019s academic staff. The results will be reported in the form of a substantial thesis. In most instances, it is expected that the results will also be submitted for publication in a learned scientific journal. As part of their introduction to the research topic, students will be required to complete a seminar series and/or reading course providing advanced theoretical and/or practical training in the field."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A preliminary literature survey and research plan (mixed text, diagrams, and mathematical formulas; pass/fail). 10 pages",
+            "timing": "At the end of year one or after the student has enrolled in 25 points of Research Project",
+            "percentage": "N/A"
+        },
+        {
+            "description": "An oral presentation (up to 20 minutes; pass/fail). 20 minutes",
+            "timing": "At the end of year one or after the student has enrolled in 25 points of Research Project",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Major thesis, comprising up to 50 pages of mixed text, diagrams, and mathematical formulas. 50 pages",
+            "timing": "At the end of the second year of the MSc",
+            "percentage": "90%"
+        },
+        {
+            "description": "An oral presentation lasting up to 30 minutes. 30 minutes",
+            "timing": "At the end of the second year of the MSc",
+            "percentage": "10%"
+        },
+        {
+            "description": "Hurdle requirement:. Successful completion of a seminar series and/or reading course (depending on the research stream) providing advanced theoretical and/or practical training, marked on a pass/fail basis",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Jeffrey McCallum"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor, but an overall weekly commitment of 40 hours per week, comprising seminars and research, is expected."
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Jeffrey McCallum"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor, but an overall weekly commitment of 40 hours per week, comprising seminars and research, is expected."
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "msc@physics.unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "msc@physics.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Links to additional information": [
+            "http://graduate.science.unimelb.edu.au/programs/msc/physics"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

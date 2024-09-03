@@ -1,0 +1,135 @@
+{
+    "subject name": "Hearing Devices and Rehabilitation B",
+    "subject code": "AUDI90024",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "Hearing Devices and Rehabilitation B is a year-long subject that builds on the knowledge and clinical skills obtained in first year. This clinical subject focuses on adopting a holistic approach to hearing rehabilitation in adults with a hearing impairment. Theoretical knowledge will include emerging technological advancements in hearing devices, complex cases, advanced verification procedures and evidence-based practices in adult hearing rehabilitation.",
+        "The subject is part of the clinical placement program. Students should be expected to be allocated to clinical placements at the University Clinic and across metropolitan and rural services including hospitals and community settings."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AUDI90021",
+                    "AUDI90023",
+                    "AUDI90047",
+                    "AUDI90050"
+                ],
+                "For students completing 1st Year prior to 2021",
+                [
+                    "AUDI90023",
+                    "AUDI90021"
+                ],
+                "AUDI90015 Acoustics"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "For students completing 1st Year from 2021 onwards",
+                "AUDI90017 Perception of Sound & Speech"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "MCQ. 30 minutes",
+            "timing": "Semester 1 - week 7",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written hearing devices and rehabilitation assignment. 1500 words",
+            "timing": "Semester 1 - week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Clinical exam (simulated patient and oral exam). 2000 words (equivalent). Hurdle requirement:. Students must pass the Clinical Exam to pass the subject",
+            "timing": "End of semester 1",
+            "percentage": "30%"
+        },
+        {
+            "description": "Clinical portfolio and oral presentation. 500 words (equivalent). Hurdle requirement:. Students must complete all components of the e-portfolio to a satisfactory standard (50% mark) and pass the oral presentation to pass the assessment.",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "5 min Video presentation. 500 words (equivalent)",
+            "timing": "Semester 2 - week 10",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written exam. 2 hours. Hurdle requirement:. Students must pass the exam to pass the subject",
+            "timing": "End of semester 2",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Coordinators": "Peter Carew and Dominic Power"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Lectures and Practical Sessions: 40 hours. Clinics: 70 hours."
+                },
+                {
+                    "Total time commitment": "255 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [],
+                "email": [
+                    "pcarew@unimelb.edu.au",
+                    "dpower@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Nil"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Hearing Aids2nd Edition, Dillon, H., 2012, Boomerang Press (Thieme)"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

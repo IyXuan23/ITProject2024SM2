@@ -1,0 +1,130 @@
+{
+    "subject name": "Research Project Part 3",
+    "subject code": "MAST90121",
+    "subject availability": [
+        "Semester 1 (Early-Start)",
+        "Semester 2 (Early-Start)"
+    ],
+    "overview": [
+        "In this subject, students undertake a substantial research program in the area of Mathematics and Statistics. The research will be conducted under the supervision of a member of the School's academic staff. A list of the research interests of the School of Mathematics and Statistics is outlined on thewebsite of the School. The results of the research will be reported in the form of a thesis and an oral presentation.",
+        "A Research Methods Mini Course (RMMC) will be run during Part 1 of the Research Project.",
+        "Students should leave the RMMC with an understanding of:",
+        "1. the basic nature of research;",
+        "2. how to cite correctly and run a citation manager;",
+        "3. how to organise their time to begin researching effectively;",
+        "4. how to foster academic integrity to avoid the danger of plagiarism."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST90120",
+                    "MAST90117"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Students must satisfy the requirements for entry into the Master of Science (Mathematics and Statistics program)."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MAST90118"
+    ],
+    "assessments": null,
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Coordinator": "Matthew Tam"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Students should discuss this with their supervisor but as a guide, a student enrolled in a 50 point research project subject would be expected to be engaged in their research for an average of forty hours per week or 800 hours for the semester. Students enrolled in a 37.5, 25 or 12.5 point research subject would be expected to be engaged in their research on a pro-rata basis."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Coordinator": "Matthew Tam"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Students should discuss this with their supervisor but as a guide, a student enrolled in a 50 point research project subject would be expected to be engaged in their research for an average of forty hours per week or 800 hours for the semester. Students enrolled in a 37.5, 25 or 12.5 point research subject would be expected to be engaged in their research on a pro-rata basis."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "ms-msc-coordinator@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "ms-msc-coordinator@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

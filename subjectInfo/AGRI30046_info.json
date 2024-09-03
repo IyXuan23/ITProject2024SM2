@@ -1,0 +1,175 @@
+{
+    "subject name": "Agronomy",
+    "subject code": "AGRI30046",
+    "subject availability": [
+        "Semester 2 - On Campus",
+        "Semester 2 - On Campus"
+    ],
+    "overview": [
+        "This subject focuses on understanding the main agronomic factors affecting Australian agriculture in the endeavour for efficient and sustainable farming systems. It builds on students\u2019 knowledge of crop production with a particular emphasis placed on the management of and interaction between fertilisers, water, pests and weeds. The subject begins with a general introduction on the application of principles of agronomy for guiding the formulation of decisions made by producers, their interpretation and the impacts they may have. Students will interpret and analyse soil, crop and system information with a view to predicting fertiliser requirements and designing other management strategies for common agronomic scenarios and problems. Students will critically evaluate the impacts agronomic decisions have on the production and quality of crops and wider cropping systems."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "AGRI20035",
+                    "AGRI20037"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Practical report. 800 words",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Practical report. 1200 words",
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "End-of-Semester examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 - On Campus": [
+                {
+                    "Principal coordinator": "James Hunt"
+                },
+                {
+                    "Coordinator": "Allison Gurung"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "10 x 2 hour lectures\r\n6 X 2 hour tutorials\r\n4 x 3 hour workshops\r\n2 field trips ( 1 x 8 hr and 1 x 4 hr)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - On Campus": [
+                {
+                    "Principal coordinator": "James Hunt"
+                },
+                {
+                    "Coordinator": "Allison Gurung"
+                },
+                {
+                    "Mode of delivery": "On Campus (Dookie)"
+                },
+                {
+                    "Contact hours": "10 x 2 hour lectures\r\n6 X 2 hour tutorials\r\n4 x 3 hour workshops\r\n2 field trips ( 1 x 8 hr and 1 x 4 hr)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "james.hunt@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "james.hunt@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

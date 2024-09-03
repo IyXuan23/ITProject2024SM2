@@ -1,0 +1,131 @@
+{
+    "subject name": "Microbiology in Agriculture",
+    "subject code": "AGRI20044",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces students to the diverse world of microbiology and the roles that microorganisms play in all aspects of agriculture, including animal, plant and soil science. The basic structure and biology of microorganisms will be covered, with a focus on bacteria, viruses and fungi. Aspects of molecular biology and genetics will also be introduced. The role that microorganisms play within the environment, in particular relating to plant, animal and soil health, will also be considered. The use of microorganisms in food and beverage production is also discussed, as well as how bioinformatics can be utilised in agricultural microbiology."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "AGRI10050",
+                    "BIOL10006"
+                ],
+                [
+                    "AGRI10051",
+                    "AGRI10052"
+                ],
+                [
+                    "BIOL10008",
+                    "BIOL10009"
+                ],
+                [
+                    "BIOL10010",
+                    "BIOL10011"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Students must meet one of the following prerequisite sets:",
+                "SET A",
+                "SET B"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "4 written assessment tasks worth 5% each; to be completed during practicals and/or workshops",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Intra-semester test held approximately week 6 or 7. 1 hours",
+            "timing": "From Week 6 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum 80% of scheduled workshops/practical classes",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Glenn Browning"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "54 hours. 33 hours of lectures and 21 hours of practicals or workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "glenfb@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

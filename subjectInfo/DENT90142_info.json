@@ -1,0 +1,104 @@
+{
+    "subject name": "Professional Practice 1",
+    "subject code": "DENT90142",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "This subject supports students as they begin to develop their professional identity as dental practitioners through the development of their personal values, attitudes, and behaviours. This subject will focus on social responsibility and professionalism, communication and leadership, critical thinking, and health promotion. Topics integrated within this subject include cultural safety for Aboriginal and Torres Islander people and communities, digital health, sustainability, ethical practice, and person-centred care. Students will develop skills in critical reflection and evidence-based dentistry as they examine the impact of oral health and disease on individuals, communities, and the environment."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Portfolio incorporating reflective practice. 4000 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Written assignment. 1500 words",
+            "timing": "During the first half of year teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Group presentation (4-6 student per group). 20 minutes",
+            "timing": "End of the first half of  year teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Oral presentation. 10 minutes",
+            "timing": "During the second half of year teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Principal coordinator": "Matt Hopcraft"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "108 hours"
+                },
+                {
+                    "Total time commitment": "256 hours"
+                },
+                {
+                    "Pre teaching start date": "24 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "Attend Orientation activities."
+                },
+                {
+                    "Teaching period": "29 January 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 February 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [],
+                "email": [
+                    "m.hopcraft@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "subject name": "Minor Research Project Part 1",
+    "subject code": "MAST90114",
+    "subject availability": [
+        "Semester 1 (Extended)",
+        "Semester 2 (Extended)"
+    ],
+    "overview": [
+        "In this subject, students undertake a substantial research program in the area of Mathematics and Statistics. The research will be conducted under the supervision of a member of the School's academic staff. A list of the research interests of the School of Mathematics and Statistics is outlined on thewebsite of the School. The results will be reported in the form of a thesis and an oral presentation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "This research project option is only available to students in special cases, and only with approval of the Master of Science (Mathematics and Statistics) program coordinator."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A preliminary literature survey and research plan (pass/fail). 2 pages. Hurdle requirement",
+            "timing": "At the end of week eight of Minor Research Project Part 1",
+            "percentage": "N/A"
+        },
+        {
+            "description": "A thesis is the main requirement. Theses are expected to be 30-40 pages in length, excluding references, appendices, figures and tables. Two bound hard copies of the thesis are to be submitted two weeks prior to the end of the teaching period in the final semester of Research project enrolment. 30-40 pages",
+            "timing": "After the full 25 points of enrolment in the Minor Research Project component",
+            "percentage": "90%"
+        },
+        {
+            "description": "Students will have to give presentations on their research projects in the last week of that teaching period. 15 minutes",
+            "timing": "On a date to be announced by the Department of Mathematics and Statistics at the beginning of semester",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended)": [
+                {
+                    "Coordinator": "Matthew Tam"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 30 June 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Coordinator": "Matthew Tam"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 24 December 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "24 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Extended)": {
+                "name": [],
+                "email": [
+                    "ms-msc-coordinator@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Extended)": {
+                "name": [],
+                "email": [
+                    "ms-msc-coordinator@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

@@ -1,0 +1,126 @@
+{
+    "subject name": "Cadastral Surveying",
+    "subject code": "GEOM90041",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "Cadastral surveying relates to the laws of land ownership and the definition of property boundaries and is a core responsibility for the surveying industry and profession. This subject introduces the legal framework of cadastral surveying, the land tenure system in Victoria, and the methods of performing cadastral surveys, including computations and documentation, as it is required for land acquisition, land compensation and land subdivision procedures. This subject builds on students\u2019 knowledge of property law and complements other spatial subjects that can lead to a graduate becoming a licensed surveyor."
+    ],
+    "indicative content": [
+        "Surveying Software,Graphic Language and Design,Map and Plan Systems, Standardization and Calibration, Survey Information Sources, Survey Marks, Descriptions of Occupation, Levelling, Feature Surveys and Plans, Quality Assurance, Surveying using Global Navigation Satellite Systems Units, Symbols and Conversion Factors, Surveying Act and Regulations."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "GEOM20015"
+                ],
+                [
+                    "ABPL90041"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Four cadastral surveying practical assignments (20% each) with preparation of resulting computations and survey documents, each of a workload of 20 hours (approx. 1000 words per item) spread equally over weeks 1 - 9. Intended Learning Outcomes (ILOs) 1 to 5 are addressed in these assignments. 80 hours (of work required)",
+            "timing": "From Week 1 to Week 9",
+            "percentage": "80%"
+        },
+        {
+            "description": "One 30 hour approx. 1500 word assignment. ILOs 1 to 5 are addressed in this assignment. 30 hours (of work required)",
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Davood Shojaei"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours (Lectures: 24 hours per semester; Lab Exercises: 24 hours per semester)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Davood Shojaei"
+                ],
+                "email": [
+                    "shojaeid@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "THIS SUBJECT IS OFFERED EVERY EVEN YEAR",
+            "LEARNING AND TEACHING METHODS",
+            "The subject is based principally on presentations by an academic lecturer and an experienced industry professional who present theoretical and practical aspects of the subject. In addition each student prepares a written report based on practical surveying assignments. A computer laboratory will be used by students to prepare resulting computations and survey documents of the practical assignments.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Script and reading materials will be provided by lecturers.",
+            "CAREERS / INDUSTRY LINKS",
+            "The subject is primarily delivered by an experienced industry professional that has an extensive knowledge in cadastral surveying. Working as a cadastral surveyor you acquire knowledge of the laws and procedures relating to land ownership and development."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

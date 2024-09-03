@@ -1,0 +1,150 @@
+{
+    "subject name": "Structural Theory and Design 2",
+    "subject code": "CVEN90049",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces more advanced methods of structural analysis and design, and their applications to the engineering of reinforced concrete and structural steel in compliance with the standards. Students will be given the opportunity to integrate the use of different materials into the design of contemporary structures through design projects. This subject would typically be that final subject in the sequence of structural engineering subjects for civil engineering students who do not want to specialise in structural engineering.",
+        "Topics covered include: structural analyses of beams and frames by the stiffness matrix method; finite element analyses; computer analysis using commercial software package; structural design of reinforced concrete beams, slabs and columns; structural design of steel beams, columns and connections; consideration of sustainability in structural design."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CVEN30009"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "10 Weekly quizzes worth 1% each of 5 min  (10 x 5 mins). Intended Learning Outcomes (ILOs) 1, 2 and 4-6 are addressed in this assessment.. 50 minutes",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Seven continuous group assessments to be completed by a group of 5 students during the workshop, contributing towards the design project. ILOs 1, 3 \u2013 7 are addressed in these assessments. 1 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "7%"
+        },
+        {
+            "description": "Design project - Conceptual design report to be completed by a group of 5 students. Workload equivalent to 400 words per student. ILOs 1, 3 \u2013 7 are addressed in this assessment.. 10 hours (of work required)",
+            "timing": "Week 4",
+            "percentage": "8%"
+        },
+        {
+            "description": "Design project \u2013 Detailed design report to be completed by a group of 5 students. Workload equivalent to 750 words per student, ILOs 1, 3 \u2013 7 are addressed in this assessment.. 20 hours",
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Design project- 5 minutes oral presentation on the detailed design, individual assessment. Workload equivalent to 500 words, ILOs 1, 3 \u2013 7 are addressed in this assessment. 13 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written assignment - 500 words literature review, individual assessment. ILO 7 is addressed in this assessment.. 13 hours (of work required)",
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written test, 10%, ILOs 1 and 2 are addressed in this assessment.. 40 minutes",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written test, 15%, ILOs 4 to 6 are addressed in this assessment.. 40 minutes",
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written test, 15%, ILOs 4 to 6 are addressed in this assessment.. 40 minutes",
+            "timing": "Week 12",
+            "percentage": "15%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Elisa Lumantarna"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours (Lectures: 12 hours per semester; Workshops: 36 hours per semester)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "elu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject will be delivered through a) pre-recorded materials on theory and design concepts, b) weekly interactive sessions to consolidate learning of the presented materials, and c) weekly workshops. In addition, students will undertake a design exercise that involves applying the learnt techniques in solving problems that are likely to be encountered in practice.INDICATIVE KEY LEARNING RESOURCESStudents will have access to lecture slides, recommended reading materials, Australian Standard AS3600 for the Design of Concrete Structures, Australian Standard AS4100 for the Design of Steel Structures, EXCEL spreadsheets showing examples of numerical simulations and SPACE GASS package. The subject's LMS site also contains worked solutions for all tutorial problems.CAREERS / INDUSTRY LINKSRepresentatives from Steel Reinforcement Institute of Australia will contribute to the teaching of the subject. In addition, practising structural engineers will also contribute to the teaching of the subject and give advice on the assignment exercises.",
+            "Students who successfully complete this course would typically find employment in a civil engineering consultancy or contracting company and could use the knowledge from this subject to propose designs or design variations under the supervision of a chartered professional engineer."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

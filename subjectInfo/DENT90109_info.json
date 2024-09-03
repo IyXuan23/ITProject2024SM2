@@ -1,0 +1,92 @@
+{
+    "subject name": "Research Project A",
+    "subject code": "DENT90109",
+    "subject availability": [
+        "Year Long (Extended)"
+    ],
+    "overview": [
+        "This two-part subject provides students with the opportunity to learn the essential skills needed to undertake research. In addition, students will gain first-hand experience in experimental design, and in data collection, analysis, and presentation. Students will undertake a literature review, a research report and an oral presentation.",
+        "This subject must be taken in conjunction with DENT90110 Research Project B in consecutive years."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "DENT90108"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Literature review. 4000 words. Hurdle requirement:. Students must meet satisfactory requirements. Re-assessment will be permitted with a fail of 40-49. Maximum grade on re-assessment is 50.",
+            "timing": "Towards the end of the Research Project A",
+            "percentage": "15%"
+        },
+        {
+            "description": "Oral presentation. 15 minutes",
+            "timing": "Towards the end of Research Project A",
+            "percentage": "10%"
+        },
+        {
+            "description": "Research report. 13000 words",
+            "timing": "Towards the end of Research Project B",
+            "percentage": "60%"
+        },
+        {
+            "description": "Oral presentation. 15 minutes",
+            "timing": "Towards the end of Research Project B",
+            "percentage": "15%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long (Extended)": [
+                {
+                    "Coordinator": "Paolo Cattaneo"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "20 November 2023 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "1 December 2023"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

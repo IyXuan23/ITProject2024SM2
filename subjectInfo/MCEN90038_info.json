@@ -1,0 +1,142 @@
+{
+    "subject name": "Dynamics",
+    "subject code": "MCEN90038",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject continues from Engineering Mechanics to deepen the understanding of (momentum-based) Newtonian Mechanics. It focuses on the study of the motion of rigid bodies in 3D space in kinematics, kinetics and finally the Newton Euler approach of obtaining the equation of motion as well as collision of rigid bodies. Extension to multi-body systems is introduced in each concept. System analysis is introduced by focusing on a case study of gyroscopic motion.",
+        "Kinematics of rigid bodies:",
+        "Non inertial coordinate systems",
+        "Rotation representation",
+        "Angular velocity and acceleration in non-inertial frame",
+        "Constraints.",
+        "Rigid Body Kinetics",
+        "Kinetics of rigid bodies:",
+        "Inertia tensor, principle axis",
+        "Parallel axis theorem.",
+        "Newton-Euler Approach to obtaining equation of motion.",
+        "Collision of Rigid Bodies:",
+        "Impulse-momentum principle",
+        "Collision of point masses (particles)",
+        "Collision of unconstrained rigid bodies",
+        "Collision of constrained rigid bodies.",
+        "Gyroscopic motion.",
+        "Please view this video for further information:Dynamics"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ENGR20004"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Cannot be taken concurrently."
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One written\u00a0closed book examination. ILOs 1 to 2 addressed in the exam.. 3 hours. Hurdle requirement:. The examination is a hurdle and must be passed to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "Attendance and participation in laboratory class with a written report not exceeding 10 pages.. 10-15 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Three written assignments not exceeding 30 pages in total.  Assignment 1 due in weeks 3-5, Assignment 2 due in weeks 6-7, Assignment 3 due in weeks 8-11. ILOs 1-2 are addressed in these assignments. 10%  each (30% in total).. 30-35 hours (of work required)",
+            "timing": "From Week 3 to Week 11",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Raquel de Souza Fauro"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures, 12 hours of workshops and tutes."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Raquel de Souza Fauro"
+                ],
+                "email": [
+                    "r.desouza@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

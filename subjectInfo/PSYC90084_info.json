@@ -1,0 +1,99 @@
+{
+    "subject name": "Neuroanatomy for Neuropsychologists",
+    "subject code": "PSYC90084",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "A semester-long subject on human neuroanatomy, with particular emphasis on clinical and radiographic correlation. The content will be delivered through 12 lectures, accompanied by virtual brain dissection.",
+        "The primary objective of the subject is to provide a neuroanatomical framework that is relevant to an understanding of basic neurology, and clinical neurological examination, and neuropsychological disorders. Neurological, neuropathological, and neuroimaging issues will be considered wherever relevant throughout the subject. Students will come to understand (1) anatomical relations through an appreciation of their developmental origins, (2) the multiple ways in which developmental and acquired brain impairments manifest themselves neuroanatomically, (3) how major anatomical landmarks can be identified on virtual dissection and structural magnetic resonance imaging, (4) the neuroanatomical rationale underpinning the basic neurological examination, and (5) the derivation of neuroanatomical terminology and nomenclature."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Three brief (500 word) assessments over the course of the semester, or one written assignment (1,500 words) on a selected neuroanatomical topic.. 1500 words (equivalent). Hurdle requirement:. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement",
+            "timing": "Throughout the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Multiple choice and short answer examination.. 1 hours. Hurdle requirement:. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. Hurdle requirement of at least 80% attendance at all coursework and seminar activities associated with this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Charles Malpas"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1.5 hours of lectures/seminars per week for 12 weeks"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Charles Malpas"
+                ],
+                "email": [
+                    "charles.malpas@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Blumenfeld, H. Neuroanatomy through clinical cases, 2ndEdition. Sinauer Associates, 2010."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

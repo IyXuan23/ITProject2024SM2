@@ -1,0 +1,105 @@
+{
+    "subject name": "Learning Area Commerce 2",
+    "subject code": "EDUC91127",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject builds upon the theory and practice of teaching established in Learning Area Commerce 1 by further developing Teacher Candidates\u2019 repertoire of subject specific practices and teaching resources and deepen their understanding of curriculum, pedagogy and assessment of Years 7-10 Commerce, and the Clinical Teaching Model.",
+        "Teacher Candidates will build on their knowledge of planning, structuring and sequencing learning programs, and are supported to identify and use teaching and classroom communication strategies designed to improve learning outcomes. Teacher Candidates will be supported to reflect on, evaluate and improve their teaching programs. This includes developing an understanding of differentiation as a tool to cater for diverse learners and to promote student engagement and participation. Teacher Candidates will also build their capacity to assess and provide feedback on student learning using a variety of tools.",
+        "The assessment tasks in this subject will support the development of Teacher Candidates\u2019 understanding of the roles of assessment in teaching and learning, along with the integration of curriculum, assessment and reporting knowledge into the development of teaching and learning sequences."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC91097"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Teacher Candidates who commenced prior to 2022 may have completed EDUC90431 Learning Area Commerce & Bus. Studies 1."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "EDUC90432 Learning Area Commerce & Bus. Studies 2 (no longer offered)"
+    ],
+    "assessments": [
+        {
+            "description": "Report: Report\u202fon assessment in Commerce. 2000 words",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Planning document: Unit plan. 3000 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Attendance. Hurdle requirement:. A minimum of 80% attendance at, or engagement with, all sessions identified as contact hours (may include lectures, tutorials, seminars and workshops, both synchronous and asynchronous).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Hugh Gundlach"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours (16 hours of on-campus classes and 8 hours of online asynchronous activities)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "ACARA Australian Curriculum Economics and Business Years 7 to 10",
+                    "https://www.australiancurriculum.edu.au/f-10-curriculum/humanities-and-social-sciences/economics-and-business/",
+                    "ACARA Australian Curriculum Civics and Citizenship Years 7 to 10",
+                    "https://www.australiancurriculum.edu.au/f-10-curriculum/humanities-and-social-sciences/civics-and-citizenship/",
+                    "VCAA Victorian Curriculum Economics and Business Levels 7 to 10",
+                    "https://victoriancurriculum.vcaa.vic.edu.au/the-humanities/economics-and-business/curriculum/f-10",
+                    "VCAA Victorian Curriculum Civics and Citizenship Levels 7 to 10",
+                    "https://victoriancurriculum.vcaa.vic.edu.au/the-humanities/civics-and-citizenship/curriculum/f-10"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "Faculty of Education:https://education.unimelb.edu.au/"
+        ]
+    }
+}

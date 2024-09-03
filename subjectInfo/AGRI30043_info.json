@@ -1,0 +1,137 @@
+{
+    "subject name": "Resource Management Economics",
+    "subject code": "AGRI30043",
+    "subject availability": [
+        "February"
+    ],
+    "overview": [
+        "This subject is about principles of economics applied to analysing, understanding and solving problems and informing policy in natural resource and environmental management. Emphasis is on applying the techniques of benefit cost analysis to inform choices about public investment and policies affecting the management of natural resource and the environment."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "AGRI20042",
+                    "ECON10004"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ECON30028 Resource Management Economics"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment 1. 500 words (equivalent)",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written assignment. 1500 words",
+            "timing": "3 Weeks after the end of teaching",
+            "percentage": "30%"
+        },
+        {
+            "description": "Examination. 2 hours. Hurdle requirement:. Students must achieve a minimum of 50% in the examination to pass the subject",
+            "timing": "6 Weeks after the end of teaching",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum 80% of scheduled workshops/practical classes",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Principal coordinator": "Alex Sinnett"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "5 x 9-5pm during teaching period (3 days in week 1 and 2 days in week 2)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "12 February 2024 to 25 February 2024"
+                },
+                {
+                    "Last self-enrol date": "14 February 2024"
+                },
+                {
+                    "Census date": "1 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "15 March 2024"
+                },
+                {
+                    "Assessment period ends": "7 April 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [],
+                "email": [
+                    "a.sinnett@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

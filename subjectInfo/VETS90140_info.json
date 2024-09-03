@@ -1,0 +1,108 @@
+{
+    "subject name": "Animal Production Systems: Applications",
+    "subject code": "VETS90140",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "During placements in animal production industry, animal welfare and zoo settings, students acquire skills in animal handling and observe and participate in a range of animal management practices. Integrating knowledge and understanding derived from other subjects in their course, students evaluate issues relating to animal health, welfare and production (and conduct critical analysis of data provided to them). Using case studies and experience in placements, students will develop skills analysing and interpreting problems relating to productivity, profitability, and sustainability in these systems, and will link theory to practice by analysing observed practices with critical appraisal of the literature."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "VETS90133"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Up to 8 online quizzes (each equally weighted) 15 minutes (each) 2 hours (total) (2,000 words equivalence). 15 minutes (each)",
+            "timing": "Throughout the semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Written exam (1,000 words equivalence). 1 hours. Hurdle requirement:. Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Extramural placements, to be completed during non-teaching periods over the first and second years of the course. 60 days (placement). Hurdle requirement:. Students must complete the 11 weeks of approved extramural placements including a minimum 4 weeks in Category A (extensive production industries), minimum 2 weeks in Category B (intensive production industries)and 1 to 4 weeks in Category C (educational farms, welfare/small animal shelters and zoos) by the end of this subject. Approved placements may be local, regional, interstate or international.",
+            "timing": "By the end of Week 12",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Written extramural placement reports (500 words each - Up to 6,000 words equivalence) (total). 500 words (each). Hurdle requirement:. Students must complete a brief written summary of each extramural placement.",
+            "timing": "By the end of Week 12",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Aggregate Mark. Hurdle requirement:. Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Jennifer Carter"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "73 hours of lectures, workshops, practical classes and case studies + 11 weeks of extramural placements to be completed during non-teaching periods over the first two years of the DVM course"
+                },
+                {
+                    "Total time commitment": "204 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "jennifer.carter@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

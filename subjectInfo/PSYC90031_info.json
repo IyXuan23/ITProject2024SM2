@@ -1,0 +1,106 @@
+{
+    "subject name": "Adult Psychopathology",
+    "subject code": "PSYC90031",
+    "subject availability": [
+        "Summer Term"
+    ],
+    "overview": [
+        "This subject aims to present major approaches to psychological disorders, in which psychopathology is contrasted with \"normal\" functioning. Reference is made to various theoretical approaches to the aetiologies of disorders/problems, with a focus on recognising the clinical pictures of common psychological disorders/problems that occur in a variety of settings, including, depression, the anxiety disorders, substance abuse/dependence and neurocognitive disorders."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "527CL Master of Psychology (Clinical Psychology)",
+                "527CN Master of Psychology (Clinical Neuropsychology)",
+                "080CL Master of Psychology (Clinical Psychology)/Doctor of Philosophy",
+                "080CN Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy",
+                "MC-PROPSYC Master of Professional Psychology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "LMS test. 30 minutes. Hurdle requirement",
+            "timing": "Week 2",
+            "percentage": "20%"
+        },
+        {
+            "description": "Exam. 2 hours. Hurdle requirement",
+            "timing": "Week 4",
+            "percentage": "80%"
+        },
+        {
+            "description": "Hurdle requirement:. Hurdle requirement of at least 80% attendance at all coursework and seminar activities associated with this subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "16 January 2024 to 30 January 2024"
+                },
+                {
+                    "Last self-enrol date": "19 January 2024"
+                },
+                {
+                    "Census date": "22 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "6 February 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [
+                    "Professor Lisa Phillips"
+                ],
+                "email": [
+                    "lisajp@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "A series of readings will be provided."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "American Psychiatric Association (2013). Diagnostic and Statistical Manual (DSM-V). Washington, D.C: Author.",
+                    "Rieger, E. (Ed.) (2011). Abnormal Psychology: Leading Researcher Perspectives. (2nd edition). McGraw-Hill."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

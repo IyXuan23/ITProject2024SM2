@@ -1,0 +1,105 @@
+{
+    "subject name": " Current Genetics: Cells and Development",
+    "subject code": "GENE90020",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject will provide an in-depth coverage of cellular and developmental genetics with respect to recent advances and insights. This subject will extend basic knowledge in these areas gained during a student\u2019s undergraduate degree with topics ranging from the molecular basis of gene regulation, genetic control cell function, developmental programmes of embryogenesis and their evolution, and the use of model organisms in biomedical studies. It will consist of blocks of lectures, literature review and analysis where published papers are analysed and discussed, and of student oral presentations. The subject provides students with skills and knowledge for understanding original research and enhanced written and oral communication skills. The course will be offered in alternating years."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "GENE20001",
+                    "BIOL20001",
+                    "BIOM20001"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One individual oral presentation. 20 minutes",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Two or three peer review assessments of oral presentations. 200 words",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "An individual essay with illustrations. 2000 words",
+            "timing": "During the assessment period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Online or in-class quizzes. 4 x Quiz (250 words equivalent each). 1000 words (total)",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Michael Murray"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "12 x one-hour weekly lecture;\r\n12 x two-hour weekly session that may include: i) peer assessment of student presentations, ii) guest lectures, iii) workshops and discussion relevant to the written assignment iv) tutorials to reinforce lecture material"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "murraym@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

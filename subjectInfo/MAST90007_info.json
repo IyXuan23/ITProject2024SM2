@@ -1,0 +1,117 @@
+{
+    "subject name": "Statistics for Research Workers",
+    "subject code": "MAST90007",
+    "subject availability": [],
+    "overview": [
+        "This subject is designed to provide students with detailed training in statistical methods as applied to the design and analysis of projects undertaken by postgraduate students, across all disciplines.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "It is expected that participants will have studied mathematics at VCE level, or equivalent. Students must be enrolled in a Masters-Level program or above.",
+                "This subject will involve mathematical, statistical and computing skills."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MAST20005",
+        "MAST90044",
+        "MAST90058",
+        "Students who have completed MAST10010 Data Analysis 1 or MAST10011 Experimental Design and Data Analysis must obtain subject coordinator\u2019s approval before enrolling in this subject."
+    ],
+    "assessments": [
+        {
+            "description": "Up to 8 online quizzes, including the use of statistical software (continuous assessment), equivalent to approximately 1000 words.. 1000 words (equivalent)",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "An examination. 1.5 hours",
+            "timing": "At the conclusion of the subject",
+            "percentage": "50%"
+        },
+        {
+            "description": "An assignment on the analysis and interpretation of quantitative data from an empirical research study to be submitted two weeks after completion of the subject. 1500 words",
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Winter Term": [
+                {
+                    "Principal coordinator": "Ian Gordon"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "8 days intensive: 48 hours (24 hours of lectures and 24 hours of practical classes); 29 June to 3 July, and 13 July to 17 July."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "24 June 2024 to 12 July 2024"
+                },
+                {
+                    "Last self-enrol date": "16 June 2024"
+                },
+                {
+                    "Census date": "5 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "12 July 2024"
+                },
+                {
+                    "Assessment period ends": "26 July 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Winter Term": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "irg@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.scc.ms.unimelb.edu.au/"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

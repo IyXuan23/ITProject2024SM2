@@ -1,0 +1,112 @@
+{
+    "subject name": "Thinking and Reasoning with Data",
+    "subject code": "MAST90044",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "What conclusion can be drawn from a pool of data? How can a scientist draw meaningful conclusions while not overreaching? How can modelling help the scientist interpret data? This subject will address these questions by teaching students critical thinking and data analysis skills. After completing this subject students will understand the basic principles of sampling and experimental design, how the results of statistical analyses are reported, the statistical thinking behind common statistical procedures and will be able to carry out a range of standard statistical techniques."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MAST20005",
+        "MAST90007",
+        "MAST90058",
+        "Students who have completed MAST10010 Data Analysis 1 or MAST10011 Experimental Design and Data Analysis must obtain subject coordinator\u2019s approval before enrolling in this subject"
+    ],
+    "assessments": [
+        {
+            "description": "Up to 30 pages of written assignments (three assignments worth 15%, 15% and 20% due early, mid and late in semester). 30 pages",
+            "timing": "During the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "A written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Aurore Delaigle"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours comprising two 1-hour lectures per week and one 2-hour computer laboratory session per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "aurored@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "To be advised."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "To be advised."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

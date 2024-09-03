@@ -1,0 +1,254 @@
+{
+    "subject name": "Engineering Mathematics",
+    "subject code": "MAST20029",
+    "subject availability": [
+        "Summer Term",
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject introduces important mathematical methods required in engineering such as manipulating vector differential operators, computing multiple integrals and using integral theorems. A range of ordinary and partial differential equations are solved by a variety of methods and their solution behaviour is interpreted. The subject also introduces sequences and series including the concepts of convergence and divergence.",
+        "",
+        "Topics include: Vector calculus, including Gauss\u2019 and Stokes\u2019 Theorems; sequences and series; Fourier series, Laplace transforms; systems of homogeneous ordinary differential equations, including phase plane and linearization for nonlinear systems; second order partial differential equations and separation of variables.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST10006",
+                    "MAST10009",
+                    "MAST10021"
+                ],
+                [
+                    "MAST10007",
+                    "MAST10008",
+                    "MAST10022"
+                ]
+            ],
+            "additional pre-requisite": [
+                "MAST10019 Calculus Extension Studies",
+                "MAST10013 UMEP Maths for High Achieving Students",
+                "MAST10018 Linear Algebra Extension Studies"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "MC-BIOMENG Master of Biomedical Engineering",
+                "MC-CHEMENG Master of Chemical Engineering",
+                "MC-CIVENG Master of Civil Engineering",
+                "MC-ELECENG Master of Electrical Engineering",
+                "MC-ENVENG Master of Environmental Engineering",
+                "MC-MECHENG Master of Mechanical Engineering",
+                "MC-MTRNENG Master of Mechatronics Engineering",
+                "MC-ARCHENG Master of Architectural Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MAST20009",
+        "MAST20030"
+    ],
+    "assessments": [
+        {
+            "description": "Three written assignments due at regular intervals amounting to a total of up to 40 pages. 40 pages",
+            "timing": "During the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "A written test. 45 minutes",
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must pass the assessment during semester to pass the subject. That is, students must obtain a mark of at least 15% out of 30% for the combined assignment and mid semester test mark to pass the subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Principal coordinator": "Antoinette Tordesillas"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Summer semester: 6 x 1 hours lectures per week, 2 x one hour practice classes per week. Semester 1 and 2: 3 x one hour lectures per week, 1 x one hour practice class per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 16 February 2024"
+                },
+                {
+                    "Last self-enrol date": "10 January 2024"
+                },
+                {
+                    "Census date": "19 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "24 February 2024"
+                }
+            ]
+        },
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Christine Mangelsdorf"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Summer semester: 6 x 1 hours lectures per week, 2 x one hour practice classes per week. Semester 1 and 2: 3 x one hour lectures per week, 1 x one hour practice class per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Marcus Brazil"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Summer semester: 6 x 1 hours lectures per week, 2 x one hour practice classes per week. Semester 1 and 2: 3 x one hour lectures per week, 1 x one hour practice class per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [],
+                "email": [
+                    "atordesi@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "mangel@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "brazil@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "E Kreysig,Advanced Engineering Mathematics,10th Edition, Wiley, USA 2011."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students enrolled in the BSc (new degree only) will receive science credit for the completion of this subject.",
+            "Note for BSc (new degree) students: This subject is intended only for students pursuing an Engineering Systems major, who do not wish to take any further study in Mathematics and Statistics or Physics. Other students, including those wanting to supplement their Engineering Systems major with further study in Mathematics and Statistics or Physics, should seek advice.",
+            "Students undertaking this subject are required to regularly use computers with MATLAB installed."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

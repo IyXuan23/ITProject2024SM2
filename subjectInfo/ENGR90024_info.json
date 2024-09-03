@@ -1,0 +1,131 @@
+{
+    "subject name": "Computational Fluid Dynamics",
+    "subject code": "ENGR90024",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "AIM",
+        "Within this subject you will learn how to use Computational Fluid Dynamics (CFD) to solve practical industrial and research related fluid flow and heat/mass transfer problems.  The major assessment within this subject is a capstone project, requiring a CFD treatment of a major piece of equipment related to your degree discipline area.  This project may be industry or research based. Learning is supported by a number of structured group-based workshops completed throughout the semester, requiring completion of associated on-line quizzes.  Guest lectures from academia and industry will share insights into how they use CFD in their research/workplace.",
+        "SUBJECT CONTENT",
+        "The content of this subject is split between two related modules:",
+        "1) Fundamentals of CFD: Within this module we will cover the mathematical basis of modern CFD methods, using MATLAB as a programming tool to demonstrate specific fundamental concepts.  Specific topics include overview, conservation laws, advection-diffusion equations, differencing schemes, finite volume method, stability analysis, error analysis, boundary conditions and solution algorithms for solving Navier-Stokes equations.",
+        "2) Applications of CFD: This module will be based around the industry-relevant CFD package ANSYS Fluent. Specific topics include: How to run a basic simulation, meshing, laminar 2D and 3D flows, boundary conditions, discretisation methods, visualisation, turbulence, disperse multiphase flows, free-surface multiphase flows, coupled heat and mass transfer, chemical reactions, use of CFD in industry and research.",
+        "Please view this video for further information:Computational Fluid Dynamics"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ENGR30002",
+                    "MCEN30018",
+                    "BMEN90036"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Major assignment, completed individually, requiring multiple simulations of a discipline-specific piece of equipment, documented within a technical report. Intended Learning Outcomes (ILOs) 1 - 6 are addressed in the assignment.. 80 hours (of work required). Hurdle requirement:. Students must pass the major assignment to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Major assignment project pitch, completed individually.  Intended Learning Outcomes (ILOs) 1 - 6 are addressed in the assignment.. 15 hours (of work required)",
+            "timing": "From Week 6 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "description": "Online quizzes (10 x 3% ), to be completed individually;\r\n4-hour each (including participation in an associated 3-hour workshop). Intended Learning Outcomes (ILOs) 1 - 6 are addressed in the quizzes.. 40 hours",
+            "timing": "From Week 1 to Week 10",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Dalton Harvie"
+                },
+                {
+                    "Coordinator": "Joe Berry"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 x 1 hour lectures, 10 x 3 hour workshops, additional voluntary consultation sessions"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Associate Professor Dalton Harvie"
+                ],
+                "email": [
+                    "daltonh@unimelb.edu.au",
+                    "berryj@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject will be delivered through a combination of lectures and workshops. Students will also complete two assignments which will reinforce the material covered in lectures.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students will have access to lecture material, computing resources, and Computational Fluid Dynamics software. The subject LMS site also contains example MATLAB and C computer code, and worked solutions, relevant to the workshops.",
+            "CAREERS / INDUSTRY LINKS",
+            "One assignment will involve the use of the Computational Fluid Dynamics software in an engineering context."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

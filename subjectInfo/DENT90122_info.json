@@ -1,0 +1,106 @@
+{
+    "subject name": "Principles of Dental Practice 2",
+    "subject code": "DENT90122",
+    "subject availability": [
+        "Year Long (Extended)"
+    ],
+    "overview": [
+        "This subject covers the principles of general dental practice including treatment planning and the practice of integrated dental care encompassing complex periodontal treatment, endodontics, fixed and removable prosthodontics, paediatric dentistry, orthodontics and management of patients having extensive and/or complex treatment needs due to medical conditions, a severely compromised dental status and/or high caries risk.",
+        "This subject introduces students to more complex aspects of restorative dental treatment including the basic concepts and application of implant dentistry as part of a comprehensive treatment plan and overdentures."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Successful completion of all second year DDS subjects."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "1 x combined Paediatric Dentistry and Orthodontics Objective Structured Clinical Examination (OSCE). 1 hours",
+            "timing": "To be held in June",
+            "percentage": "15%"
+        },
+        {
+            "description": "1 x OSCE on Advanced Endodontics, Fixed Prosthodontics and Implants. 1 hours",
+            "timing": "To be held in June",
+            "percentage": "15%"
+        },
+        {
+            "description": "1 x OSCE exam on Prosthodontics and Endodontics. 1 hours",
+            "timing": "End of year examination period",
+            "percentage": "15%"
+        },
+        {
+            "description": "1 x written exam on Orthodontics and paediatric dentistry, Advanced Endodontics, Fixed Prosthodontics and Implants. 2.5 hours",
+            "timing": "End of year examination period",
+            "percentage": "25%"
+        },
+        {
+            "description": "1 x written exam on clinical general dental practice, high caries risk, treatment planning and complex periodontics. 2.5 hours",
+            "timing": "End of year examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Hurdle requirement:. 75% attendance at Lectures; 100% attendance at Practical Classes, Clinical Sessions, and Clinical & Case Simulations/Discussions",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long (Extended)": [
+                {
+                    "Principal coordinator": "Rebecca Wong"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "155 (indicative)"
+                },
+                {
+                    "Total time commitment": "235 hours"
+                },
+                {
+                    "Pre teaching start date": "22 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "Attend Orientation activities."
+                },
+                {
+                    "Teaching period": "23 January 2024 to 25 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 February 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

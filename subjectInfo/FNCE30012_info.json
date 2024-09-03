@@ -1,0 +1,138 @@
+{
+    "subject name": "Foundations of FinTech",
+    "subject code": "FNCE30012",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Technology has been transforming the financial industry, with the potential to disrupt traditional industry structure and practice. The subject is organised around a number of real\u2010world issues, in order to introduce fundamental underlying economic (including money, moral hazard, property rights and bank runs) and psychological (including engagement, trust and privacy) problems, and how technology could provide transformative solutions to those problems (e.g., big data, distributed ledgers, artificial intelligence, machine learning and natural language processing). Cases will illustrate the core concepts. The emphasis is on foundations, so students will be able to apply the learned concepts in novel situations."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1 - required subjects",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "FNCE10002",
+                    ""
+                ],
+                [
+                    "ECOM20001",
+                    "ECON20003",
+                    "ECON20005"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2 - alternative enrolment",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Students wishing to enrol into FNCE30012 Foundations of FinTech who have not met the listed prerequisite subjects are to email the subject coordinator listed on the Dates and times page, with evidence supporting how they meet requirements. If enrolment is approved, students will be contacted. Please note, waivers are not guaranteed and the decision from the Faculty is final."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "FNCE90084"
+    ],
+    "assessments": [
+        {
+            "description": "Eleven in\u2010class quizzes (not more than 50 words each). 550 words",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Two individual homework\r\nassignments (not more than 600 words each). 1200 words",
+            "timing": "From Week 4 to Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "One individual term project papers (not more than 800 words each). 800 words",
+            "timing": "From Week 8 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours. Hurdle requirement:. To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Nitin Yadav"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2\u2010hour lecture per week plus one 1\u2010hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Nitin Yadav:"
+                ],
+                "email": [
+                    "nitin.yadav@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

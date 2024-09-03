@@ -1,0 +1,94 @@
+{
+    "subject name": "Advanced Quantum Field Theory",
+    "subject code": "PHYC90057",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Quantum field theory has been at the forefront of important breakthroughs in both physics and mathematics in past decades. This subject develops an advanced understanding of the quantum properties of non-Abelian gauge theory via the use of modern field-theoretical methods. Non-Abelian gauge theory is the underlying structure behind the Standard Model of particle physics.",
+        "The subject introduces path integrals (including for fermions) in field theory. We develop functional methods to derive Feynman rules from the path integral and calculate the effective action and effective potential. Another major topic is renormalisation. We will explore renormalisation using the method of dimensional regularisation to calculate loop integrals. We will derive the Callan-Symanzik equation and the implications of renormalisation group flow such as asymptotic freedom. We will also study the subtleties of quantising non-Abelian gauge theories through topics such as gauge fixing, Fadeev-Popov ghosts and BRST invariance.",
+        "Time permitting, further specific topics may be taken from effective field theory and power-counting, anomalies, non-perturbative techniques, topological defects, and other extended objects in field theory.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students must take",
+                "PHYC90008 Quantum Field Theory (Semester 1)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "One written assignment due in week 7. 20 hours (of work required)",
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "One written assignment due in Week 11. 20 hours (of work required)",
+            "timing": "Week 11",
+            "percentage": "15%"
+        },
+        {
+            "description": "One 3.5 hour written exam during the examination period. 3.5 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinators": "David Simpson and Matthew Dolan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours comprising 3 one-hour lectures/week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "N/A"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Peskin and Schroder,An Introduction toQuantum Field Theory",
+                    "Weinberg,The Quantum Theory of FieldsI and II"
+                ]
+            }
+        ]
+    }
+}

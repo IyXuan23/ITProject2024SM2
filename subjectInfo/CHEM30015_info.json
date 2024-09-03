@@ -1,0 +1,124 @@
+{
+    "subject name": "Advanced Practical Chemistry",
+    "subject code": "CHEM30015",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject will build on the experience gained in second year practical chemistry through the synthesis and characterisation of complex molecules, the acquisition and interpretation of advanced spectroscopic and physical data and the investigation of chemical systems through computational techniques. It consists of a series of laboratory-based experiments aimed at developing skills in the synthesis, safe handling and analysis of chemical substances of a range of different classes of compounds; an understanding of modern characterisation techniques (e.g. chromatography, atomic and molecular spectroscopy); and the operation of instrumentation for the acquisition of kinetic, structural and thermodynamic data.",
+        "A component of this subject will also involve the development of skills in independent practical work through the design and implementation of experimental procedures and techniques, and data interpretation. The subject will also provide opportunities for the development of scientific writing and presentation skills, problem solving and small group collaboration, while introducing resources and software commonly used within chemical research fields (i.e. scientific databases, chemical drawing software, molecular modelling & optimisation, etc).",
+        "In addition to increased proficiency in standard techniques, this subject provides an introduction into research-based chemistry through integrated and themed experiments. It will provide skill development in a range of techniques utilised in the modern chemistry laboratory.",
+        "The subject provides experience across multiple traditional chemical disciplines whilst highlighting the importance of these disciplines in diverse 'real world' applications such as materials science and medicinal chemistry."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CHEM20019"
+                ],
+                [
+                    "CHEM30016"
+                ],
+                "Exchange students are required to contact the subject coordinator prior to enrolment."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "10 individual experiments (one per week):\r\neach experiment is chosen from a group of 2-4 available experiments in each block. The assessment type for each experiment is either written report, viva or oral presentation, determined by the academic in charge of the experiment.\r\nIncludes 7 short experiments (6 hours of preparation time for the report/ viva/ presentation) and 3 long experiments (12 hours of preparation time for the report/ viva/ presentation ). 78 hours (of work required)",
+            "timing": "From Week 1 to Week 10",
+            "percentage": "78%"
+        },
+        {
+            "description": "Group experiment: 20-minute group oral presentation. 10 hours (of work required)",
+            "timing": "From Week 9 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group experiment, with written report completed in group (3 students/group). 12 hours (of work required)",
+            "timing": "During Weeks 9 - 12, with report due during the examination period",
+            "percentage": "12%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Wallace Wong"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "On average 7 hours a week of practical laboratory work. Total 84 hours."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "third-year-lab@chemistry.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "The laboratory manual for this subject (available as a PDF document on-line)"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "A laboratory coat and safety glasses are required for laboratory activities (to be provided by the student).",
+            "It is recommended that students who plan to major in Chemistry to also have completed the following:",
+            [
+                "Mathematics and Statistics - two semesters of first year mathematics, for example MAST10005 Calculus 1, MAST10006 Calculus 2 and/or MAST10007 Linear Algebra.",
+                "Physics - VCE Units 3/4 12 Physics or equivalent, for example PHYC10005 Physics 1: Fundamentals"
+            ]
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "subject name": "Paediatric Physiotherapy Theory",
+    "subject code": "PHTY90013",
+    "subject availability": [
+        "February - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject will comprise theoretical knowledge and discussion of current advances in physiotherapy in the areas of paediatric cardiorespiratory, neurological and orthopaedic physiotherapy. Study of bioscience pertaining to these areas will form the basis for the management of common paediatric conditions. This subject involves a two-week intensive theory block. Students will complete a class presentation and submit two written assessment tasks during the subject."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHTY90040"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "For Postgraduate Certificate students:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Class presentation. 10 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written assignment. 1500 words",
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written assignment. 3000 words",
+            "timing": "During the end of subject assessment period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Coordinator": "Tara Fitzgerald"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "12 February 2024 to 23 February 2024"
+                },
+                {
+                    "Last self-enrol date": "14 February 2024"
+                },
+                {
+                    "Census date": "5 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "12 April 2024"
+                },
+                {
+                    "Assessment period ends": "22 April 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.physioth.unimelb.edu.au/programs/pgrad/index.html"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "subject name": "Critical Thinking with Analytics",
+    "subject code": "MAST90130",
+    "subject availability": [
+        "Term 1 - Online",
+        "Term 3 - Online"
+    ],
+    "overview": [
+        "Introduction to the principles and practice of dealing with data, including measurement scales, data organisation, summaries, study design and inference. Students will learn how to think critically about the use of data in the public and private sectors, and appraise how results and analyses are presented by outlets such as the media. Emphasis will focus on interpretation and understanding of the appropriate use of data rather than the technical details of performing the analysis."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "It is expected that students will already be familiar with basic concepts from statistics and probability."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Contribution to online discussions. Assessment will be based on participation. 500 words (total)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Two concise essays to appraise the use of data in a study, public debate and official report, each 300 words. Students will be assessed based on their understanding and critique of the methods of design, analysis, and inference, and their discussion of the validity of the results. Due end of weeks 3 and 5. 600 words (total)",
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Formative online tests. To include multiple choice and short answer questions to assess understanding of the analytics concepts. End of weeks 2, 6 and 8. 1250 words (total)",
+            "timing": "From Week 2 to Week 8",
+            "percentage": "35%"
+        },
+        {
+            "description": "Case study written assignment. Students will be assessed based on their detailed understanding and critique of the methods of design, analysis, and inference, and their discussion of the validity of the results. week 9 - during assessment period. 2500 words",
+            "timing": "Week 9",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Term 1 - Online": [
+                {
+                    "Principal coordinator": "Ian Gordon"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "3-4 hours per week, including online lectures, discussion forums and other resources"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "22 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are given the opportunity to get used to the online platform, meet the instructors/tutors and become familiar with how to access resources before the teaching period starts."
+                },
+                {
+                    "Teaching period": "29 January 2024 to 24 March 2024"
+                },
+                {
+                    "Last self-enrol date": "23 January 2024"
+                },
+                {
+                    "Census date": "16 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "8 March 2024"
+                },
+                {
+                    "Assessment period ends": "31 March 2024"
+                }
+            ]
+        },
+        {
+            "Term 3 - Online": [
+                {
+                    "Principal coordinator": "Ian Gordon"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "3-4 hours per week, including online lectures, discussion forums and other resources"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "15 July 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are given the opportunity to get used to the online platform, meet the instructors/tutors and become familiar with how to access resources before the teaching period starts."
+                },
+                {
+                    "Teaching period": "22 July 2024 to 15 September 2024"
+                },
+                {
+                    "Last self-enrol date": "16 July 2024"
+                },
+                {
+                    "Census date": "9 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "30 August 2024"
+                },
+                {
+                    "Assessment period ends": "22 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Term 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        },
+        {
+            "Term 3": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Students will have access to electronic copies of relevant readings"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "subject name": "Special Topics in Finance A",
+    "subject code": "FNCE90043",
+    "subject availability": [
+        "February"
+    ],
+    "overview": [
+        "Special subjects may be offered from time to time which are tailored to the interests of permanent and/ or visiting members of staff."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-COMFIN Master of Commerce (Finance)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Project report. 2500 words",
+            "timing": "End of the teaching period",
+            "percentage": "100%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "18 hours"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 29 March 2024"
+                },
+                {
+                    "Last self-enrol date": "4 March 2024"
+                },
+                {
+                    "Census date": "22 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "17 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [
+                    "Federico Nardari"
+                ],
+                "email": [
+                    "federico.nardari@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

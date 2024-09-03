@@ -1,0 +1,108 @@
+{
+    "subject name": "Macroeconomics",
+    "subject code": "ECON90080",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is an introduction to advanced study of macroeconomics. An integrated theoretical framework \u2013 a simple life cycle model \u2013 is used to explore the central issues of macroeconomics. Major topics to be covered include income determination and economic growth, economic fluctuations and business cycle, fiscal and monetary policy, open economy, and international trade. The overall objective of this subject is to provide students with an integrated neoclassical approach to address substantive macroeconomic questions to improve their critical thinking and analytical skills and enhance their understanding of aggregate economic behaviour."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ECON20001",
+                    "ECON20002"
+                ],
+                "Or equivalent"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-AEMTRCS Master of Applied Econometrics",
+                "MC-AECOENH Master of Applied Econometrics (Enhanced)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ECON30009"
+    ],
+    "assessments": [
+        {
+            "description": "Group Assignment. Normally 2-3 students per group. 700 words",
+            "timing": "Week 5",
+            "percentage": "8%"
+        },
+        {
+            "description": "Mid-Semester Test. 90 minutes (total)",
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group Assignment. Normally 2-3 students per group. 700 words",
+            "timing": "Week 10",
+            "percentage": "7%"
+        },
+        {
+            "description": "Final Exam. 180 minutes. Hurdle requirement:. Successful completion of this subject requires a pass (50%) in the final exam",
+            "timing": "During the examination period",
+            "percentage": "65%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "James Hansen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two hours of lectures and a one hour tutorial each week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "james.hansen@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

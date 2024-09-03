@@ -1,0 +1,217 @@
+{
+    "subject name": "Chemical Engineering Minor Research Proj",
+    "subject code": "CHEN90026",
+    "subject availability": [
+        "Summer Term",
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "Students will undertake as individuals or as a member of a team a designated investigative project which could involve a critical literature review, experimental research and/or development, theoretical modelling, process simulation and/or the solution of an industrial problem. Rigorous planning and scheduling of the project, time management, written and verbal technical communication, interpretation of results and team work will be required. Lectures will be presented on laboratory safety, and the use of statistical methods for experimental data analysis.Engineering graduates need the ability to research topics and to perform structured investigations. This research project subject provides students with an opportunity to develop these skills and to develop an appreciation of the importance of lifelong learning.",
+        ""
+    ],
+    "indicative content": [
+        "The exact content covered in the subject will depend to some extent on the nature of the research project. Topics covered will most probably include literature searches, laboratory safety, risk assessment, data modelling, data analysis, error analysis and report writing.",
+        "This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practice Hurdle (EPH)."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 125 credit points of study towards the 300 point degree."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-CHEMENG Master of Chemical Engineering",
+                "Chemical specialisation (formal) in the MC-ENG Master of Engineering",
+                "Chemical with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                "This is inclusive of any advanced standing (i.e. For example, 100 points of advanced standing would only require a student to have completed 25 points of credit before enrolling)."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "",
+        "CHEN90023"
+    ],
+    "assessments": [
+        {
+            "description": "A written report of up to 25 pages, not including appendices, diagrams, tables, computations and computer output. Intended Learning Outcomes (ILOs) 2 to 4 will be assessed through the written report. Written reports will be due during the first week of the exam period.. 140-150 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "75%"
+        },
+        {
+            "description": "Conduct will be assessed on the student's understanding of the project and their participation in the project. ILO 1 will be assessed through the student's performance in research workspace.",
+            "timing": "Throughout the teaching period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Principal coordinator": "George Chen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 X 2-hour lectures in a semester"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 16 February 2024"
+                },
+                {
+                    "Last self-enrol date": "11 January 2024"
+                },
+                {
+                    "Census date": "19 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "24 February 2024"
+                }
+            ]
+        },
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "George Franks"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 X 2-hour lectures in a semester"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Ali Zavabeti"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 X 2-hour lectures in a semester"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [
+                    "Dr George Chen"
+                ],
+                "email": [
+                    "gechen@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 1": {
+                "name": [
+                    "Prof George Franks"
+                ],
+                "email": [
+                    "gvfranks@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Dr Ali Zavabeti"
+                ],
+                "email": [
+                    "ali.zavabeti@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "Students will receive one-on-one instruction on how to complete an open-ended research project on some topic in chemical engineering. They will undertake a project either individually or as part of a team of two or three students. Students will take responsibility for their time management setting priorities and establishing a program that will allow them to complete their project within the time allowed.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students will be guided throughout their project by one or two researchers associated with the research activity that they have been assigned to. These researchers will be their guides and mentors on the project. Students will also be provided with access to key relevant research papers. They will be expected to identify further material which they will be able to access through the University Library system. Students will also have access to appropriate software packages.",
+            "CAREERS / INDUSTRY LINKS",
+            "Many of the projects that will usually be available to the students will relate to some problem or activity found in the process industries."
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

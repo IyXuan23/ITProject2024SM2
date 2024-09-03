@@ -1,0 +1,126 @@
+{
+    "subject name": "Energy and the Environment",
+    "subject code": "EVSC20006",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Modern human societies have developed an apparently insatiable appetite for the production and consumption of energy, which has brought with it far-reaching adverse consequences to the environment. Energy is a well-understood aspect of science; thermodynamics describes the fundamental principles that determine the efficiency with which energy can be harvested, stored, produced, transmitted or consumed. The environmental impacts of the production and consumption of energy are less fully understood and have to be balanced against the availability of key resources, the cost of managing those resources, the efficiency with which they may be utilised and the political and ethical consequences of obtaining them.",
+        "This subject provides a quantitative survey of the chemistry and physics behind conventional and alternative energy sources, including fossil fuels, bio-fuels, the capture of energy from solar, geothermal, hydro and wind sources and their storage, and the generation of energy from nuclear fission and fusion processes. Each energy source is assessed in terms of its environmental impacts, its dependence on critical or scarce resources and the social or political consequences of reliance on that energy source with respect to long-term sustainability."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "VCE Maths Methods or equivalent (including admission into the Bachelor of Science)"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "A minimum of 12.5 credit points ofLevel 1 Chemistry or Physics subjects"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "midsemester test. 30 minutes",
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "description": "group assignment. 1000 words",
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Exam. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Kelvin Say"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48-hours total: 3 lectures per week for 12 weeks, 1 tutorial per week for 12 weeks"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "kelvin.say@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

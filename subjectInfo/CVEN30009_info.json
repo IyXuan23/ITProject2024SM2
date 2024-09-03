@@ -1,0 +1,163 @@
+{
+    "subject name": "Structural Theory and Design",
+    "subject code": "CVEN30009",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject introduces the basic methods of structural analysis and the design of simple structures which are built of reinforced concrete, steel, timber and masonry. A feature of this subject is the integration of the design and analytical skills in dealing with contemporary structures that have an effective blending of materials for achieving satisfactory performance and economy in construction.",
+        "This subject consolidates basic structural theory and design abilities that underpin further specialised studies in structural design in engineering masters programs. It also gives students some basic capabilities to seek work experience in the engineering profession.",
+        "INDICATIVE CONTENTTopics covered include: stress analysis in beams, deflection calculations using direct integration and virtual work methods, structural analyses of beams and frames by the force method, structural design of reinforced concrete beams and columns, design of pad footing, structural design of steel beams, columns and ties, design of timber joists and masonry squat walls."
+    ],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1 (studied from 2023)",
+            "necessary pre-requisite": [
+                [
+                    "ENGR20003"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2 (studied prior to 2023)",
+            "necessary pre-requisite": [
+                [
+                    "ENGR20004",
+                    "ENGR20003"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-CIVENG Master of Civil Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One mid-semester quiz. ILOs 1-2, 7-9 are addressed. 30 minutes",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "One group design assignment \u2013 Work load equivalent to 1200 words per student, in groups of about 3 students. Intended Learning Outcomes (ILOs) 2, 4, 6, 7 and 9 are addressed in this assignment. 30 hours (of work required)",
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "Three individual laboratory reports (5% each, workloads equivalent to 200 words each, total of 15%), each lab report requiring approximately 5 hours of work. ILOs 1, 2, 5 and 7 are addressed in the four laboratory reports. 15 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "One examination. ILOs 1 to 9 are addressed in the examination. 2 hours",
+            "timing": "End of semester",
+            "percentage": "45%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Xuemei Liu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "50 hours (Lectures: 36 hours per semester; Laboratory/Tutorial/Design workshops: 14 hours per semester)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Xuemei Liu"
+                ],
+                "email": [
+                    "xuemei.liu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject will be delivered through a combination of lectures and tutorials. In addition, students will undertake miniature experiments to reinforce materials covered in the lectures and also a design exercise which involves applying the learnt techniques in solving problems that are likely to be encountered in practice.INDICATIVE KEY LEARNING RESOURCESStudents will have access to lecture slides, recommended reading materials. The subject LMS site also contain worked solutions for all tutorial problems.CAREERS / INDUSTRY LINKSSenior practising engineers from industry will deliver some of the lectures and case studies with focus on typical industry design considerations.Having completed this unit, students will acquire skills to design and analyse simple structures."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

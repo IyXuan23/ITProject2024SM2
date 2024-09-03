@@ -1,0 +1,143 @@
+{
+    "subject name": "Chemistry Honours Research Project Pt1",
+    "subject code": "CHEM40011",
+    "subject availability": [
+        "Semester 1 (Extended)",
+        "Semester 2 (Extended)"
+    ],
+    "overview": [
+        "The research project involves undertaking experimental and/or theoretical research in an area relevant to one of the research groups in the School of Chemistry. The subject will enable students to develop the process and practice of chemical research; increase students' knowledge and understanding of chemical science; encourage the development of students' individual investigative skills, critical thought and the ability to evaluate information and to analyse experimental data; and ensure that students receive essential training in laboratory safety procedures.",
+        "Students enrol in a total of 62.5 points of research project across the duration of the Honours program. This is achieved by enrolling in two of subjects across two consecutive semesters to achieve a total 62.5 credit points. Students enrol in a Part 1 subject in the first semester and a Part 2 subject in the second semester of the program.",
+        "This subject (CHEM40011 Chemistry Research Project Pt 1) is a 37.5 point version for one semester."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "A major study (one half of a full-time year of study at third year level) in Chemistry.",
+                "Admission into the Bachelor of Science (Degree with Honours) program in the School of Chemistry.",
+                "Students must also be concurrently enrolled in (or have completed) the required coursework subjects for the Bachelor of Science (Degree with Honours) program in the School of Chemistry."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Attendance for safety and induction program and achievement of 65 % in the exam on completion of the program. 60 minutes. Hurdle requirement:. A minimum of 65 % must be obtained for the safety exam. Multiple attempts are allowed for this exam.",
+            "timing": "The week before the start of semester of the first semester of enrolment.",
+            "percentage": "N/A"
+        },
+        {
+            "description": "A preliminary literature survey and research plan (up to 5 pages of mixed text, diagrams and formulas) due in the final two weeks of the first semester; this will form the basis of the Introduction to the major thesis. 5 pages. Hurdle requirement:. Students will need to satisfactorily pass this item (assessed on pass/fail basis) through assessment by their supervisor. Multiple attempts are allowed for this item.",
+            "timing": "Due at the end of the first semester of enrolment.",
+            "percentage": "N/A"
+        },
+        {
+            "description": "A major thesis, due on completion of the project, assessed by a panel of examiners. 30 pages",
+            "timing": "Start of the exam period of the second semester of enrolment",
+            "percentage": "35%"
+        },
+        {
+            "description": "An oral exam (viva) on the content of the thesis, occurring within two weeks of submission of the thesis , assessed by a panel of examiners. 30 minutes",
+            "timing": "End of the exam period of the second semester of enrolment",
+            "percentage": "35%"
+        },
+        {
+            "description": "A project-related oral presentation, occurring in the month prior to submission of the thesis, assessed by a panel of examiners. 30 minutes",
+            "timing": "End of the teaching period of the second semester of enrolment",
+            "percentage": "10%"
+        },
+        {
+            "description": "Supervisor's assessment of research performance based on commitment, technical competence, independence and contribution to the project. 20 hours (of work required)",
+            "timing": "End of the teaching period of the second semester of enrolment",
+            "percentage": "20%"
+        },
+        {
+            "description": "Attendance at seminar series providing advanced theoretical training, continuous throughout semester. Hurdle requirement:. Students will need to attend 75% of seminar series, as assessed by their Supervisor.",
+            "timing": "Throughout both semesters",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended)": [
+                {
+                    "Principal coordinator": "Colette Boskovic"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "510 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 30 June 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Principal coordinator": "Colette Boskovic"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "510 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 24 December 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "24 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

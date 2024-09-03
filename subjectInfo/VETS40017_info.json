@@ -1,0 +1,88 @@
+{
+    "subject name": "Veterinary Clinical Skills",
+    "subject code": "VETS40017",
+    "subject availability": [
+        "February"
+    ],
+    "overview": [
+        "This subject is only available to incoming exchange students.",
+        "It is not available for students enrolled in an award program at the University of Melbourne.",
+        "The subject consists of blocks of practical work in clinical disciplines selected by the student and approved by the subject coordinator. This may be undertaken in the Veterinary Hospital, specialised academic units, research laboratories or approved practices."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Students approved for enrolment into this subject participate in the clinical elective rotations alongside students formally enrolled in the veterinary science course of the Faculty of Veterinary and Agricultural Sciences. Opportunities to enrol into this subject each semester are limited by the capacity of the Veterinary Hospital to accommodate additional students."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Completion of adequate pre-clinical training.",
+                "Enrolment into this subject requires approval of the subject coordinator.",
+                "The language of instruction is English. Students must be fluent in spoken and written English."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Continuous assessment of performance in each of the four elective rotations (blocks) 4 x 25%",
+            "timing": "Throughout the teaching period",
+            "percentage": "100%"
+        },
+        {
+            "description": "Hurdle requirement:. To successfully pass this subject a student must pass each elective rotation.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Principal coordinator": "Abdul Jabbar"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Clinical Rotations within the Greencross Vet Hospital at the University of Melbourne encompassing all but not excluding tutorials, clinical rounds, and in some rotation's clinical presentations"
+                },
+                {
+                    "Total time commitment": "480 hours"
+                },
+                {
+                    "Teaching period": "12 February 2024 to  3 May 2024"
+                },
+                {
+                    "Last self-enrol date": "28 February 2024"
+                },
+                {
+                    "Census date": "1 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "5 April 2024"
+                },
+                {
+                    "Assessment period ends": "10 May 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Nil"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

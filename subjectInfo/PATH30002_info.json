@@ -1,0 +1,174 @@
+{
+    "subject name": "Techniques for Investigation of Disease",
+    "subject code": "PATH30002",
+    "subject availability": [],
+    "overview": [
+        "PATH30002 Techniques for Investigation of Disease is the capstone subject for the Pathology Major and consolidates the principles and concepts introduced in PATH30001. These laboratory-based classes aim to develop an authentic practical and theoretical understanding of the modern scientific investigation of disease.",
+        "Techniques used will include histopathology, macroscopic analysis, bioinformatic approaches, molecular pathology and critical analysis of published research papers. Comparisons will be made between normal and abnormal tissues, organs and functions in the context of tissue regeneration and repair, acute and chronic inflammation, neurodegenerative disorders, and cancer. Diseases to be examined include major conditions affecting society.",
+        "This course will introduce students to basic principles of laboratory based analytical methods that are currently used in Biomedical Research and Diagnostic and Forensic Pathology laboratories."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PATH20001",
+                    "BCMB20002"
+                ],
+                [
+                    "PATH30001"
+                ],
+                "Either:"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BCMB20005",
+                    "PATH20003"
+                ]
+            ],
+            "additional pre-requisite": [
+                "B. Science students:"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "BIOM20001"
+                ],
+                [
+                    "PATH30001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "A Level 2 practical subject deemed equivalent.",
+                "B. Biomedicine students:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Formative Research Report. 1660 words. Hurdle requirement:. completion and submission of report 1",
+            "timing": "Week 2",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Research report components: Introduction Materials and Methods, Results, Discussion. 1650 words",
+            "timing": "Throughout the semester",
+            "percentage": "48%"
+        },
+        {
+            "description": "Final Full Research Report. 1660 words",
+            "timing": "From Week 8 to Week 10",
+            "percentage": "12%"
+        },
+        {
+            "description": "Symposium - small group presentations, 8-12 students per group (10 minute presentation and 5 minute question time). 15 minutes",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Examination. 1 hours",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Continuous assessment of laboratory performance. Hurdle requirement:. Attendance: Students who miss more than 20% of the practical component of this subject will not be eligible for final assessment.",
+            "timing": "From Week 1 to Week 11",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Sophie Paquet-Fifield"
+                },
+                {
+                    "Coordinator": "Theo Mantamadiotis"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3.5 hours of practicals per week (Total 35 hours)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "23 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinators"
+                ],
+                "email": [
+                    "Sophie.paquet@unimelb.edu.au",
+                    "theom@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Kumar V., et al.,Robbins and Cotran Pathologic Basis of Disease, Saunders Elsevier."
+                ]
+            }
+        ],
+        "Subject notes": [
+            [
+                "Laboratory coat and safety glasses are required.",
+                "Students should be familiar with the University policy on Plagiarism and must sign and attach an Anti-Plagiarism declaration to each Assessment Activity.",
+                "Completion and submission of all assessment activities by the submission dates indicated in the subject practical manual is a compulsory requirement of the subject."
+            ],
+            "Students concerned they may be asked to participate in animal use activities to which they have a conscientious objection should raise the matter with their subject coordinator at the earliest opportunity to increase the chances that alternative arrangements can be made. In line with the policy relative to Conscientious Objection to Animal Use (MPF1182), the University will endeavour to make reasonable accommodation for conscientious objections of students in this area, although it will not always be possible to excuse students from particular activities. For more details on this policy, please go tohttp://policy.unimelb.edu.au/MPF1182."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "quota subject - application deadline as perhttp://biomedicalsciences.unimelb.edu.au/study/current-student-information/quota-subjects",
+                    "quota subject - application deadline as perhttp://biomedicalsciences.unimelb.edu.au/study/current-student-information/quota-subjects"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

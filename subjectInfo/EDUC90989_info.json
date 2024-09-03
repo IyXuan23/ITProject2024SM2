@@ -1,0 +1,172 @@
+{
+    "subject name": "Capstone Professional Project",
+    "subject code": "EDUC90989",
+    "subject availability": [
+        "Semester 1 - Dual-Delivery",
+        "Semester 2 - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject involves students undertaking a substantial project requiring an independent investigation of a topic that they regard as directly related to their own professional practice and/or within their area of specialisation. Students will draw on theory, knowledge and skills developed through their degree to design and complete their professional capstone project.  The project can be a:",
+        "workplace investigation negotiated by the student with the relevant host organisation;",
+        "theoretical or explorative study; or",
+        "research project involving secondary data analyses.",
+        "Note that students will not be allowed to undertake any project that involves the collection of primary data that requires Human Research Ethics Approval.",
+        "Students will demonstrate their ability to define a problem, review relevant theoretical and practical literature, design an approach and apply it to their defined problem. Students will present their scholarly findings in a conference presentation format (designed for the subject) that facilitates peer learning and fosters professional alliances and networks."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 150 credit points of study"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "MC-ED Master of Education",
+                "MC-TESOL Master of TESOL",
+                "MC-MLED Master of Modern Languages Education"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 100 credit points of study"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "MC-EDEDMGT Master of Education (Educational Management)",
+                "960EC Master of Education (Educational Management)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "EDUC90419",
+        "EDUC90057 Education Capstone Research Project (no longer offered)",
+        "EDUC90620 Research Methods in Education (no longer offered)"
+    ],
+    "assessments": [
+        {
+            "description": "Abstract for conference paper. 1000 words",
+            "timing": "Early in the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Conference Presentation (20 minutes presentation and 10 minutes questioning; equivalent to 3000 words). 30 minutes (total). Hurdle requirement:. Conference paper must be presented",
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Conference paper. 6000 words",
+            "timing": "End of the assessment period",
+            "percentage": "60%"
+        },
+        {
+            "description": "On Campus study period attendance and participation requirements. Hurdle requirement:. A minimum of 80% attendance at all scheduled on-campus sessions; and\r\nA minimum of 80% participation in all online sessions, including the completion of set tasks; and\r\nParticipation in the on-campus conference (6 hours with a one-hour break in the middle).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Online study period participation requirements. Hurdle requirement:. A minimum of 80% participation in all online sessions, including scheduled webinars and the completion of set tasks; and Participation in the online conference, via Webinar (6 hours with a one-hour break in the middle).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Jenny Chesters"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours: comprising 24 hours of on campus or online activities (including a dual mode conference) and 12 hours of asynchronous online activities"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Jenny Chesters"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours: comprising 24 hours of on campus or online activities (including a dual mode conference) and 12 hours of asynchronous online activities"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "jenny.chesters@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "jenny.chesters@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Electronic readings will be made available on the LMS."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

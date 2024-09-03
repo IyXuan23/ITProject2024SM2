@@ -1,0 +1,115 @@
+{
+    "subject name": "Nursing Science 2",
+    "subject code": "NURS90125",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject builds on the knowledge gained in Nursing Science 1 and examines the pathophysiology of different body systems. The common conditions that alter skin, the nervous system, cardiovascular, respiratory, gastrointestinal, endocrine, musculo-skeletal and genitourinary and reproductive systems will be examined. Students will add to their knowledge of drugs by examining the physiological action of selected subcutaneous, intramuscular and intravenous medications."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "NURS90129"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "(or the pre-2019 version of this subject NURS50003 Nursing Science 1)"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Case study 1 analysis - online activity. 500 words",
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "description": "Case study 2 analysis - online activity. 1000 words",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Case study 3 analysis - online activity. 1000 words",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written take home exam. 1000 words",
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Students must pass the 2-hour written examination to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Andrew Scanlon"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours lectures"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Bullock, S. & Manias, E. (2017). Fundamentals of pharmacology (8th ed.) Pearson Australia.",
+                    "McCance, K. & Huether, S. (2019). Pathophysiology: The biologic basis for disease in adults and children (8th ed).  St. Louis: Elsevier Mosby.",
+                    "Patton, K. & Thibodeau. G. & (2018). Anatomy and physiology (10th ed.). St. Louis: Elsevier Mosby.",
+                    "Stedman\u2019s medical dictionary for the health professions and nursing. Australian and New Zealand Edition (7th ed.). (2012). Philadelphia: Lippincott, Williams and Wilkins."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Rang, H., Dale, M., Ritter, J. et al. (2016). Rang and Dale\u2019s Pharmacology. (8th ed.) Elsevier Churchill Livingstone."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.nursing.unimelb.edu.au/"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,189 @@
+{
+    "subject name": "Executive Internship",
+    "subject code": "PPMN90039",
+    "subject availability": [
+        "Semester 1 - Off Campus",
+        "Semester 2 - Off Campus"
+    ],
+    "overview": [
+        "In this subject students will be placed in an organisation which either has governmental responsibilities or deals with government, where they will work under the supervision and guidance of a senior manager in the organisation. Students will be required to use their own networks to make an initial contact with a potential organisation. Their choice will then need to be ratified by the department. Students will carry out research or analytical exercises of relevance to the organisation that will be involved in high-level and complex policy making. Students will study the structure, culture and policy environment of the organisation and develop advanced analytical, research and report-writing skills as well as negotiating and interpersonal skills. Students completing this course should expect to acquire significant insight into the complexities of policy making and management. During the internship an academic supervisor will advise them.",
+        "If primary research is carried out during the internship, ethics approval is the responsibility of the host organisation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "All Internship students need to have a GPA of 70, and be in the second half points of the degree in the semester they intend to enrol (e.g. final 100 points of the 200 program).",
+                "Students are required to apply for permission to enrol into this subject prior to commencement of the internship. Students should make this application via the online application form:"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-PAENH Master of Public Administration (Enhanced)",
+                "MC-PA Master of Public Administration",
+                "344AB Master of Public Policy and Management",
+                "https://artsunimelb.formstack.com/forms/internship_application",
+                "More application information please refer to Subject Notes."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Organisational analysis. 2000 words",
+            "timing": "During placement hours",
+            "percentage": "20%"
+        },
+        {
+            "description": "Reflective Essay. 3000 words",
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Professional portfolio / report. 5000 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Progress report. Hurdle requirement:. For the purposes of meeting this hurdle requirement, the submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "During placement hours",
+            "percentage": "0%"
+        },
+        {
+            "description": "Oral presentation. 5-10 minutes. Hurdle requirement:. For the purposes of meeting this hurdle requirement, the submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "During teaching weeks",
+            "percentage": "0%"
+        },
+        {
+            "description": "Supervisor assessment form. Hurdle requirement:. 1. For the purposes of meeting this hurdle requirement, the submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "Last week of placement",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.  There is an expectation that students attend lectures where offered.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 3. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Off Campus": [
+                {
+                    "Principal coordinator": "Ali Reza Yunespour"
+                },
+                {
+                    "Mode of delivery": "Off Campus"
+                },
+                {
+                    "Contact hours": "A pre-placement induction seminar (2 hours) and a mid-semester catch up seminar (2 hours) delivered online.  Other hours to be determined in consultation with host supervisor(s) and subject coordinator."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - Off Campus": [
+                {
+                    "Coordinator": "David McGinniss"
+                },
+                {
+                    "Mode of delivery": "Off Campus"
+                },
+                {
+                    "Contact hours": "A pre-placement induction seminar (2 hours) and a mid-semester catch up seminar (2 hours) delivered online.  Other hours to be determined in consultation with host supervisor(s) and subject coordinator."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "alireza.yunespour@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "david.mcginniss@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students should make this application via the online application form:",
+            "Application Form",
+            "Applications will be reviewed in two rounds:",
+            "Round 1 (Semester 1 availability): closing 31 October",
+            "Round 2 (Semester 2 availability): closing 31 May",
+            "Students will receive outcomes within two weeks of the closing date for the relevant round. For further information including FAQS on the Application and Selection Process see:https://arts.unimelb.edu.au/students/wil#faqs",
+            "*Late applications will be considered in both semesters if you meet the eligibility requirements and have secured a placement except in the event of the quota subject places reaching capacity. Please contact Experiential Learning Officer if you\u2019re submitting a late application form:ssps-internships@unimelb.edu.au"
+        ],
+        "Off-campus study": [
+            {
+                "This subject has a workplace component": [
+                    "Semester-long internship subject. In this subject students will be placed in an organisation which either has governmental responsibilities or deals with government, where they will work under the supervision and guidance of a senior manager in the organisation."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/ssps"
+        ]
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "subject name": "Research Project in Comp Biology Pt2",
+    "subject code": "SCIE90023",
+    "subject availability": [
+        "Semester 1 (Extended)",
+        "Semester 2 (Extended)"
+    ],
+    "overview": [
+        "The research project option within the Master of Computational Biology will be available for students who have demonstrated a strong aptitude for research to perform a short research project under the direction of a supervisor. The research project will build on the skills obtained in the course. Students will determine the structure they follow in consultation with the project coordinator."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "An average of at least 80% in associated coursework in the Master of Computational Biology; and agreement of a supervisor.",
+                "Enrolment in second semester of this subject is dependent on successful completion of first semester."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-COMPBIO Master of Computational Biology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A literature survey and research plan. 2 pages. Hurdle requirement:. Pass/Fail",
+            "timing": "Week 8 of Research Project part 1",
+            "percentage": "N/A"
+        },
+        {
+            "description": "An intermediate report on the progress in the research project. Hurdle requirement:. Pass/Fail",
+            "timing": "Week 8 of Research Project part 2",
+            "percentage": "N/A"
+        },
+        {
+            "description": "An oral presentation on the content of the research project. 30 minutes",
+            "timing": "In the final weeks of the teaching period in which the research report is due",
+            "percentage": "10%"
+        },
+        {
+            "description": "A research report. The research report is expected to be 40 \u2013 60 pages in length, excluding references, appendices, figures and tables. 40-60 pages",
+            "timing": "Two weeks prior to the end of the final semester of enrolment in the full 50 point research",
+            "percentage": "90%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended)": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular meetings with supervisor, one hour weekly or fortnightly. Distribution of time between specific tasks will be decided in negotiation with the supervisor, but an overall weekly commitment of 10 hours per week is expected (per 12.5 loading)"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "1 January 2024 to 28 June 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "28 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular meetings with supervisor, one hour weekly or fortnightly. Distribution of time between specific tasks will be decided in negotiation with the supervisor, but an overall weekly commitment of 10 hours per week is expected (per 12.5 loading)"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "29 June 2024 to 22 December 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "22 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

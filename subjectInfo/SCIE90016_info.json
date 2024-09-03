@@ -1,0 +1,108 @@
+{
+    "subject name": "Biotechnology Research Project",
+    "subject code": "SCIE90016",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "This subject provides students with the opportunity to design and conduct independent research under supervision. Specific research projects will depend upon the availability of appropriate expertise but may address a broad range of biotechnology issues.",
+        "Students will also develop skills in writing scientific reports and giving oral presentations."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students must have obtained an H1 average for subjects completed in their first year of Masters study. Students gain Subject Coordinator approval through raising Enrolment Assistance Form (https://students.unimelb.edu.au/your-course/manage-your-course/course-enrolment/enrolment-assistance)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "An individual written research proposal. 1000 words",
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "An individual oral presentation on findings to date given within the host department/lab. 10 minutes",
+            "timing": "Week 28",
+            "percentage": "10%"
+        },
+        {
+            "description": "An individual written thesis up to 7,000 words. 7,000 words",
+            "timing": "Week 44",
+            "percentage": "70%"
+        },
+        {
+            "description": "A final individual oral presentation given within the host department/lab. 10 minutes",
+            "timing": "Week 42",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Coordinator": "Alex Johnson"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular meetings with supervisor, one hour weekly or fortnightly."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [],
+                "email": [
+                    "johnsa@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://graduate.science.unimelb.edu.au/"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

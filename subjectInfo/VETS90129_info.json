@@ -1,0 +1,98 @@
+{
+    "subject name": "Vet Bioscience: Locomotion",
+    "subject code": "VETS90129",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject continues the integrated and inter-disciplinary approach to the study of body system function and dysfunction in animals that was introduced in year one of the DVM course. Building on students\u2019 prior knowledge of body system function and dysfunction and their experience of scientific and clinical reasoning, this subject introduces students to the structure and normal functioning of those body systems that contribute to locomotion. Dysfunction and the consequences of dysfunction will also be explored. Studies will encompass the structure and function of the musculoskeletal system and those elements of the integumentary system that contribute to locomotion. The development and organisation of the nervous system will be introduced in this unit, and the focus will then turn to those elements of the spinal cord and peripheral nervous system essential for locomotory control. Students will be introduced to the clinical disciplines of gait analysis and lameness assessment, orthopaedics, diagnostic imaging and anatomic pathology as they relate to these systems. Using case-based teaching approaches, they will apply their understanding of system structure, function and dysfunction to authentic situations that enhance the development of integrative clinical reasoning abilities."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Satisfactory completion of all subjects at DVM 1 level"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "2x written tests, equally weighted. 30 minutes (each)",
+            "timing": "From Week 2 to Week 10",
+            "percentage": "40%"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Aggregate mark. Hurdle requirement:. Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Christina Murray"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "43 hours of lectures, practical classes and case studies"
+                },
+                {
+                    "Total time commitment": "100 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "cmmurray@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

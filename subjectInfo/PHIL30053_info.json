@@ -1,0 +1,133 @@
+{
+    "subject name": "Philosophy of Language",
+    "subject code": "PHIL30053",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Philosophers have been interested in language for two key reasons. On the one hand, language helps to focus our thoughts on particular features of the world (like Donald J. Trump or collusion). On the other hand, language plays an essential role in coordinating with others (like pointing things out or telling tall tales) and building complex shared social institutions (marriage, democracy). This subject examines these two key roles of language and how they interact.",
+        "The first weeks will focus on language as a representational medium. Throughout the 20th century, philosophers took the philosophy of language to be crucial to any systematic understanding of the world. If you want to understand colours, or moral properties, or individual persons, or numbers, or the various properties discovered by science, you should first make sure you understand how we represent these things in language. Otherwise we're likely to end up talking at cross-purposes or to be seduced by incoherent ideas. We\u2019ll look at central figures in the development of this representationalist tradition, including Locke, Mill, Frege, Russell, Strawson, Chomsky and Kripke. Next, we consider how we use language as a practical tool in our messy real-world environment. We use language to make requests, tell jokes, and get married \u2013 not just to represent facts. Often our use of language involves rough and ready improvisations, which rely on our knowledge of each other and of what\u2019s going on around us to get the point across. Key figures in this pragmatic tradition include Wittgenstein, Grice, Austin, Searle, Sperber and Wilson, and Lewis.",
+        "In the final weeks, we\u2019ll bring these theoretical tools to bear on two contemporary debates in the philosophy of language \u2013 metaphors and slurs. A metaphor, like \u2018rivers of blood\u2019, can pack an emotional punch and suggest factual claims that are not literally expressed. Theorists disagree about what explains this distinctive evocative power. Unlike metaphors, slurs like \u2018bitch\u2019 or \u2018wog\u2019 don\u2019t leave room for interpretation: they\u2019re standardly used to single out specific social groups as the target of contempt. But it\u2019s not clear how slurs do this dirty work. Getting clear about metaphors and slurs can help understand how language is intimately tied to both human cognition, social institutions, and social subordination."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Essay. 1000 words",
+            "timing": "Week 5",
+            "percentage": "25%"
+        },
+        {
+            "description": "Essay. 1000 words",
+            "timing": "Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "Final Essay. 2000 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Laura Schroeter"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "A 2 hour seminar each week for 12 weeks. Students are also expected to engage with 1.5 hours of online material each week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Subject readings will be available online"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "htthttp://shaps.unimelb.edu.au/philosophy"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

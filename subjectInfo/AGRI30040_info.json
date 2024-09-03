@@ -1,0 +1,117 @@
+{
+    "subject name": "Agribusiness Marketing & Value Chains",
+    "subject code": "AGRI30040",
+    "subject availability": [
+        "July"
+    ],
+    "overview": [
+        "This subject is about applying principles of agricultural economics, agribusiness marketing and agribusiness value chain analysis to analysing and understanding the process of creating value in agricultural products, from the perspectives of individual firms in the value chain and of the whole value chain."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AGRI20042"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Multiple choice test. 30 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written Assignment. 1500 words",
+            "timing": "Due in week 1 of semester 2",
+            "percentage": "30%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "Due in week 3 of semester 2",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "July": [
+                {
+                    "Principal coordinator": "Paul Deane"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x 9-5pm in week 1 and 2 x 9-5pm in week 2 of teaching period"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "8 July 2024 to 19 July 2024"
+                },
+                {
+                    "Last self-enrol date": "10 July 2024"
+                },
+                {
+                    "Census date": "19 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 August 2024"
+                },
+                {
+                    "Assessment period ends": "18 August 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "paul.deane@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ]
+    }
+}

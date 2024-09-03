@@ -1,0 +1,144 @@
+{
+    "subject name": "Constructed Ecologies",
+    "subject code": "ABPL90263",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Constructed Ecologies engages with the key principles of ecology as a fundamental requirement for landscape architectural practice. Typical topics include biodiversity, soils, changing rural ecologies, wetlands and stormwater design strategies including water flows, environmental history informing design, and performative design. The focus is on ecosystem function. The course emphasises foundations of ecology, suburban design, and designing with water. The course will address case studies from around the world as illustrations of ecological principles informing design.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-LARCH2Y Master of Landscape Architecture"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ABPL90283"
+                ]
+            ],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "300pt Program course entry point in the MC-LARCH Master of Landscape Architecture",
+                "MC-LARCH3Y Master of Landscape Architecture"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Water Flow Hydro Lab report (individual task) , equivalent to 1000 words. 1000 words (equivalent)",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Water Flow Hydro Lab Video by group work. 3-4 minutes",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Suburban charrette in class in groups (equivalent to 500 words per student). 3 hours",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "Three written responses of approx. 600 words each. 1800 words (equivalent)",
+            "timing": "Week 8",
+            "percentage": "30%"
+        },
+        {
+            "description": "Project Report. 1000 words (equivalent)",
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "Tutorial participation",
+            "timing": "From Week 1 to Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance of at least 80% at tutorials and lectures is a hurdle requirement for this subject.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Margaret Grose"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinator"
+                ],
+                "email": [
+                    "mgrose@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Grose, M. J. (2017)Constructed Ecologies. Critical Reflections on Ecology with Design.Routledge"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

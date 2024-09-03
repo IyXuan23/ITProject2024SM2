@@ -1,0 +1,142 @@
+{
+    "subject name": "Introduction to Biomaterials",
+    "subject code": "BMEN30009",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is designed to enable students to apply the fundamental principles of material sciences to biomedical applications. It will introduce different materials (polymers, metals, ceramics and composites) and their behaviours in contact with biological environments. In addition, students will learn about the properties of biological materials like bone, muscles, skin and vasculature."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "BIOL10004 Biology of Cells and Organisms",
+                "Mid-year intake students must seek approval from subject coordinator to enrol in Biology or Chemistry Year 1 selective and BMEN30010 concurrently. Please attach approval to enrolment assistance form."
+            ],
+            "one of pre-requisite": [
+                [
+                    "CHEM10003",
+                    "CHEM10006"
+                ],
+                [
+                    "BIOL10002",
+                    "BIOL10008",
+                    "BIOL10009"
+                ],
+                [
+                    "BMEN30010"
+                ]
+            ],
+            "additional pre-requisite": [
+                "BMEN20001 Biomechanical Physics and Computation"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BMEN90023 Biomaterials"
+    ],
+    "assessments": [
+        {
+            "description": "Two online quizzes each worth 5% each. 15 minutes each\r\n(30 minutes total) Intended Learning  Outcomes (ILOs) 1 and 2 are addressed in this assessment.. 30 minutes (total)",
+            "timing": "From Week 4 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written laboratory reports (groups of two or three students; 1000 words per student). ILOs 1 - 3, 5 and 6 are addressed in this assessment.. 1000 words",
+            "timing": "From Week 6 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written report on Group Assignment (groups of three or four students; 1000-word per student). ILOs 1 - 4 and 6 are addressed in this assessment.. 1000 words",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Oral presentation on Group Assignment (groups of three or four students; 5-minute presentation per student). ILOs 1 - 4 and 6 are addressed in this assessment.. 5 minutes",
+            "timing": "From Week 11 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written 2-hour examination. ILOs 1 - 4 are addressed in this assessment.. 2 hours. Hurdle requirement:. Students must pass the examination to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Brooke Farrugia"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 2\u2010hour and 1 x 1 hour lectures per week (total 36 hours)\r\n1 x 2\u2010hour workshops per week for 10 weeks (total 20 hours)\r\n2 x 2 hour practicals a semester (total 4 hours)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Dr Brooke Farrugia"
+                ],
+                "email": [
+                    "brooke.farrugia@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject will be delivered through lectures and, workshops, and laboratory practicals. Students will have the opportunity to design their laboratory practical to incorporate lecture and workshop content, and learn experimental design.",
+            "INDICATIVE KEY LEARNING RESOURCESStudents will be provided to lecture notes, workshop materials, and references to textbooks.",
+            "CAREERS / INDUSTRY LINKSStudents will have the opportunity to attend a site visit, and guest lectures from experts in the field."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "subject name": "MechEng Summer Research Project",
+    "subject code": "ENGR90043",
+    "subject availability": [
+        "Summer Term"
+    ],
+    "overview": [
+        "The subject involves undertaking a summer-intensive research project requiring an independent investigation on an approved topic within one of the research groups in the Department of Mechanical Engineering. It is primarily intended for Master of Mechanical Engineering and Master of Mechatronics Engineering students. Each project is carried out under the supervision of a member of academic staff and where appropriate, a delegated co-supervisor from the research group. To enrol in this subject, the student must first discuss with and obtain approval from a potential supervisor.",
+        "Through regular supervisory meetings, the students will be guided through the research process. This will include understanding existing literature; problem formulation; experiment design; data acquisition, analysis and synthesis. The emphasis here will be on attempting something novel, leading to new knowledge or understanding.",
+        "It is expected that the Summer Research Experience subject will incorporate findings associated with both well-defined professional practice and research principles and will provide students with the opportunity to integrate technical knowledge and generic skills gained in earlier years."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "The Summer Research Project Project is intended to be taken where possible the final year of the candidature, but early enough so that students can use this to help them decide whether they wish to apply for PhD study. \n\nThis subject has the prerequisites of:\n\n\u2022\tHaving completed at least 100 points of Masters degree at time of enrolment \n\n\u2022\tHaving an average of H2A or above for Masters.\n\n\u2022\tHaving secured the explicit approval and agreement of an Academic Supervisor for this subject"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Scope of Works Report. Intended Learning Outcomes (ILOs) 1-7 are addressed in this assessment.. 10 hours",
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "description": "Progress Assessment, including mark for weekly engagement in supervisory meetings and the quality of work and progress assessed in a written report (individual). ILOs 1-7 are addressed in this assessment.. 20 hours",
+            "timing": "From Week 6 to Week 8",
+            "percentage": "15%"
+        },
+        {
+            "description": "Individual technical presentation to general audience. ILOs 2-7 are addressed in this assessment.. 15 hours",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Final Report  (individual assessment). ILOs 1-7 are addressed in this assessment.. 40 hours. Hurdle requirement:. Students must pass the final report to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Coordinator": "Nicholas Hutchins"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "A minimum of 1 hour per week of contact with academic supervisor (and co-supervisor where applicable)."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "4 December 2023 to 16 February 2024"
+                },
+                {
+                    "Last self-enrol date": "19 December 2023"
+                },
+                {
+                    "Census date": "5 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "1 March 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [
+                    "Nicholas Hutchins"
+                ],
+                "email": [
+                    "nhu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

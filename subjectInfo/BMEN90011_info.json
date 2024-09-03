@@ -1,0 +1,131 @@
+{
+    "subject name": "Tissue Engineering & Stem Cells",
+    "subject code": "BMEN90011",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "Students studying Tissue Engineering and Stem Cells will become familiar with the history, scope and potential of tissue engineering, and the potential role of stem cells in this field. This subject will address the use of biomaterials in tissue engineering; major scaffold materials and fabrication methods, scaffold strength and degradation; cell sources, selection, challenges and potential manipulation; cell-surface interactions, biocompatibility and the foreign body reaction; the role and delivery of growth factors for tissue engineering applications; in vitro and in vivo tissue engineering strategies, challenges, cell culture, scale-up issues and transport modelling; ethical and regulatory issues; clinical applications of tissue engineering, such as bone regeneration, breast reconstruction, cardiac and corneal tissue engineering, and organogenesis (e.g. pancreas).",
+        "This subject provides students with exposure to and understanding of a range of new and emerging applications of biomedical engineering. It includes research-led learning with opportunities to interact with experts and active researchers in the fields of stem cells and tissue engineering. The subject covers aspects of biology, materials engineering and process engineering which underpin tissue engineering and provides examples of the applications of this evolving area of technology."
+    ],
+    "indicative content": [
+        "Topics covered include tissue organization & tissue dynamics, stem cells, cellular fate processes & signalling, the ECM as scaffold material, natural and synthetic polymers for tissue engineering, bioceramics, scaffold design and fabrication, tailoring biomaterials, cell culture and cell nutrition, bioreactors for tissue engineering, risk management in tissue engineering, ethics in tissue engineering.",
+        "Please view this video for further information:Tissue Engineering and Stem Cells",
+        ""
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "411-394 / 411-651 Tissue Engineering",
+        "411-650 Tissue Engineering & Bionanotechnology",
+        "600-652 Tissue Engineering & Stem Cells",
+        "BTCH90008 Tissue Engineering and Stem Cells"
+    ],
+    "assessments": [
+        {
+            "description": "Written assignment (Intended Learning Outcomes (ILOs) 1,2 and 6 are addressed). 2000 words",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Two laboratory classes and report (Intended Learning Outcomes (ILOs) 3 and 5 are addressed). 1500 words",
+            "timing": "From Week 3 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "End of semester Written Exam (Intended Learning Outcomes (ILOs) 1 to 6 are addressed). 90 minutes. Hurdle requirement:. Examination must be passed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Andrea O'Connor"
+                },
+                {
+                    "Coordinator": "David Nisbet"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of lectures, 12 hours of workshops, 12 hours of tutorials and 6 hours of laboratory work per semester."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Associate Professor Andrea O'Connor"
+                ],
+                "email": [
+                    "a.oconnor@unimelb.edu.au",
+                    "david.nisbet@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject will be delivered through a combination of lectures and tutorials. Students will also complete two laboratory practical sessions which will reinforce the material covered in lectures.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students will have access to lecture notes and tutorial problem sheets with solution guides for the tutorial calculations provided after the tutorials. The assignments will involve a literature review along with peer reviewing and feedback.",
+            "CAREERS / INDUSTRY LINKS",
+            "Guest lectures will be given by experts in the field from industry and/or research institutions."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

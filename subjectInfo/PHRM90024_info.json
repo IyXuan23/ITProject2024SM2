@@ -1,0 +1,103 @@
+{
+    "subject name": "Pharmacology for Physiotherapy B",
+    "subject code": "PHRM90024",
+    "subject availability": [
+        "Semester 1 - Online"
+    ],
+    "overview": [
+        "Pharmacology for Physiotherapy B will extend students\u2019 knowledge integration of the key considerations that underpin safe and effective drug therapy. Building on prior knowledge developed in Pharmacology for Physiotherapy A, students will gain knowledge of pharmacological treatment of chronic metabolic diseases such as diabetes and obesity, neurological disorders, cancer, infection, and polypharmacy. Students will integrate and contextualise the underpinning principles of pharmacology in clinical setting with authentic clinical scenarios."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHRM90023",
+                    "PHTY90115",
+                    "PHTY90116"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "2 Online quizzes. 15 minutes (each)",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Take home written assignment. 1000 words",
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "ePortfolio. 1000 words",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinators": "Michelle Hansen and Rosa McCarty"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "18 hours lectures &/or workshops across the semester"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "PHRM-healthprof@unimelb.edu.au",
+                    "PHRM-healthprof@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

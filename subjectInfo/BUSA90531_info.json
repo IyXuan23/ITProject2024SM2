@@ -1,0 +1,106 @@
+{
+    "subject name": "Analytics for Strategic Management",
+    "subject code": "BUSA90531",
+    "subject availability": [],
+    "overview": [
+        "Over the past decade, there has been a growing demand for big data and analytics in business and public organisations. As society is moving towards to a \u201cbig data world\u201d, there is growing interest for analytics, machine learning and artificial intelligence. While not every manager is going to become a data analyst, the broader spectrum of general managers still needs to understand how they can use the power of analytics to improve their firm\u2019s business performance. In essence, they need to understand what analytics can, and cannot do in terms of contributing to the development of a better and more sustainable overall strategy for their firm. This subject addresses the strategic management issues related to the fast-moving big data world from the general manager\u2019 perspective, as opposed to the data scientist\u2019s perspective."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90480",
+                    "BUSA90481",
+                    "BUSA90243",
+                    "BUSA90060",
+                    "BUSA90093",
+                    "BUSA90193",
+                    "BUSA90224",
+                    "BUSA90026",
+                    "BUSA90001",
+                    "BUSA90482",
+                    "BUSA90483"
+                ],
+                [
+                    "BUSA90227"
+                ],
+                "Note: BUSA90227 is a concurrent pre-requisite and may be done concurrently with the subject."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Contribution to class learning. 200 words (equivalent). Hurdle requirement:. Students are required to attend 90% of classes to pass the subject,",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual assignments - mini weekly case write-ups. 2700 words (total)",
+            "timing": "Throughout the teaching period",
+            "percentage": "35%"
+        },
+        {
+            "description": "Syndicate assignment. 3000 words (total)",
+            "timing": "End of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Final Examination. 1500 words. Hurdle requirement:. Students are required to pass the final exam to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "January": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "8 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during the pre-teaching period"
+                },
+                {
+                    "Teaching period": "15 January 2024 to 22 March 2024"
+                },
+                {
+                    "Last self-enrol date": "9 January 2024"
+                },
+                {
+                    "Census date": "2 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "1 March 2024"
+                },
+                {
+                    "Assessment period ends": "29 March 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

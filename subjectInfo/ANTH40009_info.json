@@ -1,0 +1,109 @@
+{
+    "subject name": "Anthropology Thesis Part 1",
+    "subject code": "ANTH40009",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "An independent research project on a topic to be approved by the Anthropology Honours/Graduate Diploma (Advanced) Program coordinator, under the supervision of a member of the academic staff."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "BH-ARTS Bachelor of Arts (Degree with Honours)",
+                "GD-ARTS Graduate Diploma in Arts"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ANTH40007 Anthropology & Social Theory Thesis",
+        "ANTH40008 Anthropology Thesis"
+    ],
+    "assessments": [
+        {
+            "description": "A thesis due at the end of the second semester of enrolment. 15,000 words. Hurdle requirement:. *",
+            "timing": "Due at the end of the second semester of enrolment",
+            "percentage": "100%"
+        },
+        {
+            "description": "Hurdle requirement:. 1.\tStudents are required to attend regular supervision meetings.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2.\tLate Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Tamara Kohn"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular, documented consultations over two semesters with the supervisor(s) as arranged. Meetings should normally occur at least fortnightly and should be at least of half an hour duration."
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "tkohn@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Appropriate texts will be determined in consultation with Thesis supervisor."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/ssps"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

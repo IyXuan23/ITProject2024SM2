@@ -1,0 +1,110 @@
+{
+    "subject name": "Evidence Based Learning and Teaching 2",
+    "subject code": "EDUC90582",
+    "subject availability": [
+        "January"
+    ],
+    "overview": [
+        "This subject builds on EDUC90580Evidence Based Learning & Teaching 1, providing participants with opportunities to develop knowledge and understanding related to student learning and achievement. Participants further explore the contribution of learning theories and review them using an evidence-based approach.",
+        "This subject provides opportunities for participants to develop an in-depth understanding of student assessment, in particular the significance of making accurate judgments of students\u2019 readiness to learn. It focuses on key teacher skills and capacities: designing evidence based developmental learning progressions that are linked to curriculum outcomes; designing assessment tasks to locate students on a developmental learning progression; interpreting and analysing formal and informal evidence of student learning to determine readiness to learn; planning for learning, based on an understanding of student\u2019s readiness to learn; exploring implications for pedagogical practices and classroom organization; and evaluating the effectiveness of assessment tasks and teaching strategies.",
+        "This subject, along with the EDUC90594Developing Clinical Practice 2and EDUC90844Learning Area B2, requires participants to implement theClinical Praxis Project.TheClinical Praxis Project will extend on learning from the Clinical Praxis Exam in year 1, by enabling participants to focus on the class as a whole and provide differentiated or structured teaching and learning opportunities for all students in the class."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC90580"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Construction of judgement-based assessment rubrics. 1000 words (equivalent)",
+            "timing": "March",
+            "percentage": "20%"
+        },
+        {
+            "description": "Analysis of Assessment data (component of the Clinical Praxis Project). 1600 words (equivalent)",
+            "timing": "June",
+            "percentage": "30%"
+        },
+        {
+            "description": "Evaluation of the effectiveness of teaching (component of the Clinical Praxis Project). 1800 words",
+            "timing": "October",
+            "percentage": "35%"
+        },
+        {
+            "description": "Assessment for Graduate Teachers (AfGT) Task, Element 4. 600 words (equivalent). Hurdle requirement:. The AfGT Task Element 4 must be passed",
+            "timing": "October",
+            "percentage": "15%"
+        },
+        {
+            "description": "Hurdle requirement:. 100% attendance at all scheduled lectures, tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "January": [
+                {
+                    "Principal coordinator": "Pam Robertson"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "8 January 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "5 March 2024"
+                },
+                {
+                    "Census date": "8 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "12 July 2024"
+                },
+                {
+                    "Assessment period ends": "27 October 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "January": {
+                "name": [],
+                "email": [
+                    "p.robertson@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

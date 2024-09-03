@@ -1,0 +1,141 @@
+{
+    "subject name": "Investigating Earth's Structure",
+    "subject code": "GEOL20002",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject explores the structure and dynamics of planet Earth. It focuses on the large-scale processes that control the different types of rock that make up our planet, where those rocks are found and how they change over geological time. The subject emphasises the formation and evolution of surface features such as mountain belts and basins. As such, this subject provides the essential theoretical and practical framework to understand the fundamental geological processes involved with the rock cycle, including the later modification of rocks through deformation and metamorphism. These topics provide a conceptual framework for later geoscience subjects. Lectures, practicals and fieldwork will cover three linked themes: (1) solid Earth geophysics, (2) large scale tectonics, its drivers and its links to the formation of different rock types, and (3) deformation and secondary structures in rocks."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "12.5 credit points of Level 1 or Level 2 Geoscience, Geography, Chemistry or Biology Subjects"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual field trip assignment. 1000 words. Hurdle requirement:. Students are required to attend the excursion and score 50% and above in the assessment of this component.",
+            "timing": "Two weeks after the field excursion",
+            "percentage": "25%"
+        },
+        {
+            "description": "Practical test. 1000 words (equivalent)",
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "Practical exercises (two 500-word assignments equally weighted). 1000 words (total)",
+            "timing": "Week 3 and week 5 of the semester respectively",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written examination. 1 hours",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Mark Quigley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 x one hour lectures per week, 1 x two hour practical classes per week, and a two-day (6-hour per day) weekend field trip at Cape Liptrap held during semester (typically in Week 4 but timing dependent on tides)."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "mark.quigley@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course.",
+            "Previously known as 625-202 Earth Structure and Dynamics (prior to 2010)",
+            "Previously known as 625-202 Sedimentary Basins to Mountain Belts (prior to 2009)",
+            "Special Requirements: Students should consult the Earth Sciences web site for dates, charges for excursions, accommodation and food and other information including safety requirements related to the field component. Virtual field work options are available for students who may not be able to fully participate in the excursion, please discuss your circumstances with the subject co-ordinator",
+            "Costs: Costs will be levied for fieldwork components. Details will be available on the school webpage prior to commencement of the semester"
+        ],
+        "Incidental costs": [
+            "Field trip costs including: travel, accommodation and food of approximately $160. Please note that this price listed is indicative and students will be advised of the exact price closer to the field trip date."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

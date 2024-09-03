@@ -1,0 +1,113 @@
+{
+    "subject name": "Otolaryngology Advanced Coursework",
+    "subject code": "OTOL40002",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The proposed subject requires students to attend weekly departmental scientific seminars, and a subset of lectures in Anatomy & Physiology (ANAT90004). Assessment will be based on a written report and an oral presentation. Students will be required to provide a 3000-word report reviewing the scientific literature relevant to their chosen area of research, and an oral presentation will be made on the critical analysis of a journal paper. The proposed format provides students with an introduction to the anatomy and physiology of the auditory system, as well as experience in the interpretation, critical analysis and presentation of scientific data. These skills are pertinent to their training in the communication and interpretation of scientific literature and research, and provide students with a sound basis on which to undertake the lab-based research component of the Honours year."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BIOM40001"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "BH-BMED Bachelor of Biomedicine (Degree with Honours)",
+                "BH-SCI Bachelor of Science (Degree with Honours)"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Literature review & aims-written. 3000 words. Hurdle requirement",
+            "timing": "From Week 4 to Week 7",
+            "percentage": "60%"
+        },
+        {
+            "description": "Critical review of journal paper (oral presentation). 20 minutes. Hurdle requirement",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "description": "Attendances of lecture series. Hurdle requirement:. In case of failure to meet the hurdle requirement, additional work will be required before a passing grade can be awarded.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Hayden Eastwood"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "26"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinator:"
+                ],
+                "email": [
+                    "haydente@unimelb.edu.au",
+                    "shanafi@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.medoto.unimelb.edu.au/"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

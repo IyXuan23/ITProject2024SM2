@@ -1,0 +1,101 @@
+{
+    "subject name": "Applications of Clinical Pharmacology",
+    "subject code": "NURS90075",
+    "subject availability": [
+        "Semester 2 - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject supports the development of advanced nursing practice knowledge in the quality use of medicines by exploring the clinical and social contexts for the safe use of medicines. The subject meets the needs of multiple cohorts of students with varying levels of experience and scope of practice. It extends students' knowledge of social and ethical principles of medication management and allows the student to explore how these principles are applied in the nursing practice setting. Furthermore, this subject incorporates application of science to clinically relevant context with a focus on medication management and supporting prescribing."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Quiz. 30 minutes",
+            "timing": "Week 3",
+            "percentage": "15%"
+        },
+        {
+            "description": "Reflection. 250 words. Hurdle requirement:. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task.",
+            "timing": "Week 5",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Written exam. 90 minutes",
+            "timing": "Week 8",
+            "percentage": "35%"
+        },
+        {
+            "description": "Assignment. 2500 words",
+            "timing": "Week 12",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Snezana Kusljic"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "skusljic@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

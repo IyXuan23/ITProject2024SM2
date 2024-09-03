@@ -1,0 +1,137 @@
+{
+    "subject name": "Design of Sustainable Structures",
+    "subject code": "CVEN90016",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject introduces students to the structural design and analysis of prestressed concrete and timber structures with applications to multi-storey buildings and other infrastructures in compliance with the Standards. This subject will build on the knowledge from CVEN30009 Structural Theory and Design and CVEN90049 Structural Theory and Design 2, particularly on the fundamental behaviour of structural elements under flexural, shear and axial load.This subject will also expose students to emerging technology to achieve more sustainable structures. Students will also explore various techniques to evaluate a structural design from a sustainability perspective.Students who complete this subject are likely to find employment in design consultancy or concrete construction companies and work under the supervision of a senior engineer.",
+        "The subject covers topics such as design of partially prestressed concrete beams; High performance concrete; Design against physical and chemical attack of concrete structures; Design of engineered timber structures, Design for low carbon emission; and Life-cycle analysis and circular economy."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the 746ST Master of Engineering Structures"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "CVEN90049"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Group Design Assignment: one group design report (individual workload equivalent 1500 words). Intended Learning Outcomes (ILOs) 1 and 3 are addressed in this assessment.. 25 hours (of work required)",
+            "timing": "Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "Group Laboratory Experiment and report (individual work load equivalent 300 words). ILOs 4 and 5 are addressed in this assessment.. 5 hours (of work required). Hurdle requirement:. Participation is compulsory in order to pass the subject.",
+            "timing": "Week 6",
+            "percentage": "5%"
+        },
+        {
+            "description": "Individual sustainability assessment (equivalent 500 words) . ILO 6 is addressed in this assessment.. 10 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written, closed book examination. ILOs 1 to 6 are addressed in this examination.. 3 hours. Hurdle requirement:. Students must pass the exam in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Xuemei Liu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 contact hours (24 hours of lecture, 24 hours of workshops/practicals)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "xuemei.liu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Foster, S., Warner, R. and Faulkes, K. (2013)Prestressed Concrete, 3rd Edition. Pearson."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSLectures, with examples, are used to convey basic information and concepts. Lectures are supplemented with tutorial problems, a virtual laboratory class, and several assignments (one of which includes a hands-on concrete technology laboratory class), all of which reinforce the student\u2019s understanding of the core material. Concept design workshops are given in conjunction with experienced bridge and building design consultants from industry; they give the students the opportunity to test their acquired skills.INDICATIVE KEY LEARNING RESOURCESRecommended texts:Foster, S, Warner, R. and Faulkes, K (2013)Prestressed Concrete, 3rd Edition. PearsonDesign Standard: Standards Australia, Concrete Structures, AS3600-2009.CAREERS / INDUSTRY LINKSThree concept design exercises are given in conjunction with experienced structural design consultants from industry."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

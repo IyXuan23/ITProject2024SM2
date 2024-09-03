@@ -1,0 +1,143 @@
+{
+    "subject name": "Modelling Complex Software Systems",
+    "subject code": "SWEN90004",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "AIMSMathematical modelling is important for understanding and engineering many facets of complex systems. The aim of this subject is for students to understand the range and use of mathematical theories and notations in the analysis of discrete systems, how to abstract the key aspects of a problem into a model to handle complexity, and how models can be employed to verify large-scale complex software systems.INDICATIVE CONTENTTopics covered will be selected from: deterministic and stochastic modelling; dynamical systems; cellular automata; agent-based modelling; complex networks; simulation and analysis of complex systems; concurrent systems modelling, analysis and implementation; process algebra; temporal logic and model checking."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "COMP30026"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "COMP20003",
+                    "COMP20007",
+                    "COMP90038"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-CS Master of Computer Science"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "433-441 Systems Modelling and Analysis",
+        "433-641 Systems Modelling and Analysis",
+        "SWEN40004 Modelling Complex Software Systems"
+    ],
+    "assessments": [
+        {
+            "description": "One research project (involving a programming task and report writing) executed individually by each student, expected to take approximately 25 - 30 hours.   Intended Learning Outcomes (ILOs) 1-4 are addressed in this assessment.. 25-30 hours (of work required). Hurdle requirement:. To pass the subject, the student must obtain: at least 50% overall,  and at least 50% (20/40) in project work.",
+            "timing": "From Week 5 to Week 7",
+            "percentage": "25%"
+        },
+        {
+            "description": "One research project (involving programming and report writing) executed in groups of up to three students. Requiring 25-30 hours of work for each student. ILOs 2-5 are addressed in this assessment.. 25 - 30 hours (of work required). Hurdle requirement:. To pass the subject, the student must obtain: at least 50% overall, and at least 50% (25/50) in project work.",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "A written examination. ILOs 1-4 are addressed in this assessment.. 2 hours. Hurdle requirement:. To pass the subject, the student must obtain: at least 50% overall, and at least 50% (25/50) in the written examination.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Artem Polyvyanyy"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours consisting of two 1-hour lectures and one 1-hour tutorial per week. Some computer lab classes will require you to bring your own device."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Artem Polyvyanyy"
+                ],
+                "email": [
+                    "artem.polyvyanyy@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject will be delivered through a combination of lectures, hands-on workshops, individual assignments, and a team project in which students use modelling and simulation to study a complex system.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "A package of notes will be made available to the students at the start of the course. An addition reference is: Kramer, Jeff, and Jeff Magee: Concurrency: State Models and Java Programs, John Wiley and Sons, 2nd edition (2006).",
+            "CAREERS / INDUSTRY LINKS",
+            "The ability for software engineers and computer scientists to abstract and analyse complex problems is key to their profession. As software systems continue to be deployed in increasingly complex and critical environments, such as transport control, manufacturing, and healthcare, the tools and methods for analysing complex systems will become more important."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

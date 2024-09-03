@@ -1,0 +1,121 @@
+{
+    "subject name": "The World of Engineering Management",
+    "subject code": "ENGM90014",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject examines the structure and basic building blocks of high performing organisations from a senior management perspective. It covers tools and techniques to conduct both an analysis of the external environment and the strategies to align the appropriate internal skills and capabilities.",
+        ""
+    ],
+    "indicative content": [
+        "The subject includes:",
+        "The role of leadership in strategy formulation and its balance with execution",
+        "Overcoming the barriers to implementation of strategic plans",
+        "Business integration and managing technology",
+        "Entrepreneurship in modern business."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One individual case analysis. No more than 1000 words. Time commitment of approximately 25 hours. Due Weeks 4 to 12. Intended learning outcomes (ILOs) 1 to 6 are addressed in this assessment.. 25 hours (of work required)",
+            "timing": "From Week 4 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "One group assignment, typically five students each group. No more than 4000 words. Time commitment of approximately 35 - 40 hours. Due Weeks 4 to 12. Intended learning outcomes (ILOs) 1 to 6 are addressed in this assessment.. 40 hours (of work required)",
+            "timing": "From Week 4 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Individual participation.  Throughout the semester. Due throughout the teaching period. Intended learning outcomes (ILOs) 1 to 6 are addressed in this assessment.. 200 hours (of work required)",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Open-book exam. Three hours during the end-of-semester exam peroid. Intended learning outcomes (ILOs) 1 to 6 are addressed in this assessment.. 3 hours. Hurdle requirement:. The examination must be passed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Marianne Gloet"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours normally delivered as 1 x 3 hour lecture/tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Dr Marianne Gloet"
+                ],
+                "email": [
+                    "marianne.gloet@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through lectures, tutorials, case studies and workshop sessions.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students are provided with lecture slides, case studies, tutorial materials and solutions.",
+            "CAREERS / INDUSTRY LINKS",
+            "Insights into the generic skills required of engineering graduates working as engineers and managers in government and oganisations from all industry sectors."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

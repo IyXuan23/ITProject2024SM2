@@ -1,0 +1,155 @@
+{
+    "subject name": "Engineering Modelling and Design",
+    "subject code": "ENGR10006",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The subject will develop your understanding of the engineering modelling and design processes by taking you through the life cycle of a real-world engineering project and using a combination of lectures and hands-on workshop sessions.",
+        "You will work in a small team of students on one of several interdisciplinary engineering challenges, applying engineering concepts, scientific knowledge and creative problem-solving skills in order to satisfy specific design goals.",
+        "Along the way you will gain an understanding of the depth and breadth of the engineering design process, while gaining competency in the technical tools and professional skills required to not only complete the challenge, but more broadly help serve the engineering needs of an increasingly complex society.",
+        "Please view this video for further information:Engineering Modelling and Design"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "A mark of at least 25 in VCE Math Methods, or equivalent"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:B-SCI Bachelor of ScienceB-BMED Bachelor of Biomedicine",
+                "B-SCI Bachelor of Science",
+                "B-BMED Bachelor of Biomedicine",
+                "B-SCI Bachelor of Science",
+                "B-BMED Bachelor of Biomedicine"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                [
+                    "MAST10014",
+                    "MAST10015"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Submission of a final team report not exceeding 30 pages, including an individual contribution statement.  Approximately 40 hours of work per team (3-4 students). Intended Learning Outcomes (ILOs) 1 - 6 are addressed in this assessment.. 40 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "description": "Submission of a written design planning report of no more than 5 pages, completed in project teams. Approximately 10 hours of work per team (3-4 students). ILOs 3 and 4 are addressed in this assessment.. 10 hours (of work required)",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Submission of a team video presentation of not more than 2 minutes duration showcasing the project. Approximately 5 hours of work per team (3-4 students). ILOs 1 and 4 are addressed in this assessment.. 10 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "5%"
+        },
+        {
+            "description": "Public display and presentation of project outcomes in Week 12 of semester in project teams. Approximately 10 hours of work per team (3-4 students). ILOs 1 and 5 are addressed in this assessment.. 10 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Continuous individual assessment of assignments, in-class laboratory exercises and / or project work not exceeding 20 pages in total over the semester. Approximately 20 hours of work per team per student. ILOs 1-6 are addressed in this assessment.. 20 hours (of work required). Hurdle requirement:. Total of all individual hurdle assessments must be passed.",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Regular individual online assessments in the form of quizzes. Approximately 10-13 hours of work per student. ILOs 1, 3 and 4 are addressed in this assessment.. 13 hours (of work required). Hurdle requirement:. Total of all individual hurdle assessments must be passed.",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Completion of 2 skills modules over the course of the semester. Approximately 6-8 hours of work per student. ILO 5 is addressed in this assessment.. 8 hours (of work required). Hurdle requirement:. Total of all individual hurdle assessments must be passed.",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Gavin Buskes"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Per week:\r\n1 x 3-hour workshop;\r\nPer semester:\r\n8 x 1-hour lectures\r\n2 x 2-hour skills workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Gavin Buskes"
+                ],
+                "email": [
+                    "g.buskes@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,190 @@
+{
+    "subject name": "Techniques in Microbiology",
+    "subject code": "MIIM30016",
+    "subject availability": [],
+    "overview": [
+        "This capstone subject provides an:",
+        "overview of methods used to identify and characterise infectious microbial agents;",
+        "overview of methods for studying the replication, gene function and evolution of pathogenic microbes and the interactions between infectious agents and their mammalian hosts;",
+        "overview of strategies used in constructing and presenting scientific reports, both oral and written; and",
+        "opportunity for completion of a student-lead research inquiry project which will be presented to student peers and academic staff members.",
+        "Laboratory techniques covered include molecular methods and functional assays used for the identification and characterisation of microbial agents (including bacteria and viruses), such as polymerase chain reaction (PCR), flow cytometry, enzyme immunoassays, protein electrophoresis, western blotting, bioinformatics and immunofluorescence assays. Non-Laboratory sessions will be used for the introduction of practical topics, data analysis, critical discussion of scientific research publications, research ethics and integrity, as well as discussion of strategies used in constructing and presenting scientific reports, both oral and written.",
+        "Upon completion of the subject students will have:",
+        "used molecular methods and functional assays to identify important characteristics of microbial agents;",
+        "used common bioinformatics methods to analyse DNA and protein sequence data;",
+        "experience in numerous methodologies used to understand host-pathogen interactions;",
+        "developed skills in constructing and presenting scientific reports, both oral and written;",
+        "participated in group work activities, both within and outside the Laboratory; and",
+        "developed safe scientific work practices"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MIIM20001",
+                    "MIIM30011"
+                ],
+                "MIIM20003 Experimental Microbiology",
+                [
+                    "MIIM30011"
+                ],
+                "Bachelor of Science students (2013 on)",
+                [
+                    "MIIM20001",
+                    "MIIM20002"
+                ],
+                [
+                    "MIIM30011"
+                ],
+                "Bachelor of Biomedicine students",
+                [
+                    "BIOM20001",
+                    "MIIM20002"
+                ],
+                [
+                    "MIIM30011"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission to the Bachelor of Biomedicine or the Bachelor of Science",
+                "Bachelor of Science students (pre 2013)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "526-321 Molecular Microbiology Techniques (pre 2010)",
+        "526-332 Techniques in Microbiology and Immunology (pre 2011)",
+        "MIIM30013 Techniques in Microbiology and Immunology (pre 2014)"
+    ],
+    "assessments": [
+        {
+            "description": "Oral presentation. 5 minutes",
+            "timing": "Mid semester",
+            "percentage": "12.5%"
+        },
+        {
+            "description": "Completion of a milestone assessment literacy module. 30 minutes",
+            "timing": "Mid semester",
+            "percentage": "2.5%"
+        },
+        {
+            "description": "Written report (Expected to take about 10\u201015 hours to complete outside of class). 1300 words",
+            "timing": "Mid semester",
+            "percentage": "12.5%"
+        },
+        {
+            "description": "Poster presentation, including completion of preparation milestones and the final presentation; Completed in groups of approx. 4-5 students.\r\n(Preparation milestones worth 7.5%, equivalent 250 words per student), with the final presentation in week 12 (equivalent to 250 words per student; worth 15%). 500 words (equivalent)",
+            "timing": "Late in the teaching period",
+            "percentage": "22.5%"
+        },
+        {
+            "description": "Written Exam. 2 hours",
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. Satisfactory use and completion of a Laboratory Notebook is required to pass this subject; Laboratory\u00a0Notebook to\u00a0be submitted\u00a0in week 12.",
+            "timing": "Week 12",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance is compulsory. Students who miss more than 20% of the practical component of this subject will not be eligible for final assessment.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Karena Waller"
+                },
+                {
+                    "Coordinator": "Elizabeth Aitken"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "23 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "klwaller@unimelb.edu.au",
+                    "elizabeth.aitken@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Wilson, Salyers, Whitt, and Winkler, Bacterial Pathogenesis: a Molecular Approach, (3rd Edition), ASM Press USA.",
+                    "Principles of Virology, Flint SJ et al., 3rd Edition 2009 ASM Press USA (two volumes)"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is a practical subject. It requires attendance in at least 80% of all scheduled practical sessions.",
+            "Whilst students will not be involved in the manipulation and handling of animals, reagents and media components derived from animals will be used in some experiments.",
+            "These experiments will be approved by the University of Melbourne Animal Welfare Committee.",
+            "Experiments contained in this unit will also be approved by the Biosafety and Gene Technology Committee.",
+            "Students wishing to register in this subject after the Quota Selection Date or after week 1 of a Semester should contact the subject coordinators."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "quota subject - application deadline as perhttp://biomedicalsciences.unimelb.edu.au/study/current-student-information/quota-subjects",
+                    "quota subject - application deadline as perhttp://biomedicalsciences.unimelb.edu.au/study/current-student-information/quota-subjects"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

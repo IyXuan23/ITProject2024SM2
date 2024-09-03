@@ -1,0 +1,139 @@
+{
+    "subject name": "Spatial Analytics",
+    "subject code": "ABPL90408",
+    "subject availability": [
+        "Term 3 - Online"
+    ],
+    "overview": [
+        "Spatial Analytics is the study of geospatial digital data, information, knowledge and models to understand trends, complexities and inform decision process. The subject explores approaches at the intersection of spatial information, statistics and spatial analytics to further students\u2019 understanding of the built environment.",
+        "The new science of cities is driven by the deluge of data that enables the mapping of new geographies that can be explored, analysed and synthesized. Studies of urban settlements require a deeper knowledge of digital data and how to access, interrogate and synthesis such data.",
+        "A range of research methods will be taught in combination with case studies to provide fundamental skills in Python, spatial analysis and sharpen critical spatial and analytical thinking. At the end you will have a set of Jupyter Notebooks in Python that can be deployed in future cases such as health, urban planning and real estate for evidence-based decision making."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ABPL90407",
+                    "MAST90130"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-URBDES Master of Urban Design",
+                "MC-URPL Master of Urban Planning",
+                "MC-ARCH Master of Architecture",
+                "MC-PROP Master of Property",
+                "MC-UPUD Master of Urban Planning/Master of Urban Design",
+                "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+                "MC-ARCHUD Master of Architecture/Master of Urban Design",
+                "MC-PROPUP Master of Property/Master of Urban Planning"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assessment for critical reflection  (1/2). 750 words",
+            "timing": "Week 2",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assessment for critical reflection  (2/2). 750 words",
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "description": "Case study proposal and design. 1000 words",
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "Student Project. 2500 words",
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Term 3 - Online": [
+                {
+                    "Coordinators": "Jennifer Day and Kerry Nice"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "15 July 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are given the opportunity to get used to the online platform, meet the instructors/tutors and become familiar with how to access resources before the teaching period starts."
+                },
+                {
+                    "Teaching period": "22 July 2024 to 15 September 2024"
+                },
+                {
+                    "Last self-enrol date": "16 July 2024"
+                },
+                {
+                    "Census date": "9 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "30 August 2024"
+                },
+                {
+                    "Assessment period ends": "22 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Term 3": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Students will have access to electronic copies of relevant readings"
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

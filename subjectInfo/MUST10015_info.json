@@ -1,0 +1,114 @@
+{
+    "subject name": "Music Theatre Contextual Studies 2",
+    "subject code": "MUST10015",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject expands awareness of the history and major developments in music theatre of the second half of the 20th century within social, cultural and historical contexts and as they connect to diverse objectives and influences.",
+        "Through research and debate, students will have the opportunity to further advance analytical skills in elements of structure and performance of music theatre works. Students will extend skills in musicianship, aural studies and music theory. This will provide them with an analytical music theory framework and vital skills for their practice-based voice and music studies.",
+        "Through research, debate and the demonstration of skills, students will develop deeper understanding of the development of music theatre through to the contemporary era."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MUST10013",
+                    "MUST10014"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Group Debate (Music Theatre Styles and Society) group presentation. 25 minutes",
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "description": "Skills Presentation (Music Theatre Music Theory and Skills) individual presentation. 15 minutes",
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "Analytical essay (Music Theatre Music Theory and Skills). 1000 words",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Research essay (Music Theatre Styles and Society). 1000 words",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum of 75% of all scheduled classes and submit all elements of assessment to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Peter Rutherford"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising one 1.5-hour Music Theory and Skills class and one 1.5-hour Music Theatre History class per week for 12 weeks."
+                },
+                {
+                    "Total time commitment": "204 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Peter Rutherford:",
+                    ""
+                ],
+                "email": [
+                    "peter.rutherford@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

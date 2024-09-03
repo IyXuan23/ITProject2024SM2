@@ -1,0 +1,121 @@
+{
+    "subject name": "Music, Learning & Technology",
+    "subject code": "MUSI90238",
+    "subject availability": [
+        "Semester 1 - Online"
+    ],
+    "overview": [
+        "This subject provides students with an overview of how educational technologies can support student learning and assessment for 21st century learning.",
+        "Emphasis is placed on the integration of educational technologies through music pedagogy in the context of instrumental music teaching. Students will have opportunities to explore, research and design practical music performance learning activities that use educational technologies to support student performance motivation and personalisation of learning.",
+        "Focus will be given to the exploration of contemporary educational technologies that are research-informed and related to instrumental music teaching."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Seven 250-word weekly reflections and responses. 1750 words (total)",
+            "timing": "During the teaching period",
+            "percentage": "35%"
+        },
+        {
+            "description": "Group Discussion Facilitation: Lead and respond to a relevant topic within the discussion forum area; elected week 750 words each person. 750 words",
+            "timing": "During the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Project/Research Report Part 1: Proposal. 500 words",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Project/Research Report Part 2: Final 3-4 minute video presentation. 250 words (equivalent)",
+            "timing": "End of the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "description": "Project/Research Report Part 3: Final Project Submission/Written Research. 2500 words",
+            "timing": "During the assessment period",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinator": "Carol Johnson"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "6 hours, comprising three, 2-hour synchronous sessions (multiple session offerings) at beginning, middle and end points of the semester."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Carol Johnson:"
+                ],
+                "email": [
+                    "carol.johnson@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "A reading package will be made available for students through Readings Online."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

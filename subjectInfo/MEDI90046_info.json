@@ -1,0 +1,172 @@
+{
+    "subject name": "3-D Echocardiography & New Technologies",
+    "subject code": "MEDI90046",
+    "subject availability": [
+        "Semester 1 - Online",
+        "Semester 2 - Online"
+    ],
+    "overview": [
+        "This will provide advanced knowledge for the performance and interpretation of 3-Dimensional echocardiography, as well as introducing new technologies and novel applications of clinical ultrasound.",
+        "Topics include:",
+        "Transducer design and method of 3-D reconstruction",
+        "How to perform 3-D transthoracic examination",
+        "How to perform 3-D transoesophageal examination",
+        "Understanding cropping and manipulation of recorded images",
+        "Reporting 3-D examinations",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDI90056",
+                    "MEDI90057",
+                    "MEDI90058",
+                    "MEDI90059"
+                ],
+                "This subject is not available for students admitted in any other courses."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-CU Master of Clinical Ultrasound"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One open-book multiple-choice examination of 50 questions, during exam week. 100 minutes",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Completion of multiple choice questions (10 MCQ for each of 10 tutorials), during each tutorial. 20 minutes (each)",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Interpretation of 25 case studies - assessed by structured questions pertaining to each case (5 MCQ per case), total time 250 minutes. 250 minutes",
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "An estimated 30 hours of contact time for online study is required"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - Online": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "An estimated 30 hours of contact time for online study is required"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-ultrasound/"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-ultrasound/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "All course materials will be provided during the course."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available to part-time and full-time students",
+            "This subject is not available to Commonwealth Supported students.",
+            "Administration is via e-mail."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "subject name": "Complex Case Models in Speech Pathology",
+    "subject code": "AUDI90041",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This unit focuses on problem based learning to build student competencies in working with complex, multifaceted clinical cases. The content will focus on a range of issues across the lifespan including neurological diseases, diverse cultural backgrounds, mental health, behavioural difficulties, pre-intentional and multimodal communication, diverse socio-economic backgrounds, adolescent development and health, aged care and hearing loss. Students will be required to integrate information from a variety of sources, apply knowledge acquired in previous units, address professional issues that arise during complex cases and communicate their ideas clearly and effectively in both written and oral format."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AUDI90033",
+                    "AUDI90034",
+                    "AUDI90035",
+                    "AUDI90036"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "3 case studies (1x oral, 1x written and 1x video)  Each case equivalent to 800 words. 2400 words (equivalent). Hurdle requirement:. Students must pass all of the case studies to pass the subject",
+            "timing": "First case due week 4-6; second case due week 7-9; and third case due week 11-12",
+            "percentage": "45%"
+        },
+        {
+            "description": "Attendance and participation in group discussions in tutorials. 600 words (equivalent)",
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "2 Objective Structured Clinical Exams (1 hour each, equivalent to 1000 words). 2 hours. Hurdle requirement:. Students must pass both of the OSCEs in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Georgie Johnson"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "georgie.johnson@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

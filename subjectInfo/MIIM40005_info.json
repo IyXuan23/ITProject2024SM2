@@ -1,0 +1,112 @@
+{
+    "subject name": "Micro & Immuno Research Project Part 1",
+    "subject code": "MIIM40005",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The research project for Honours in Microbiology and Immunology aims to extend a student\u2019s knowledge of microbiology/immunology and related areas; provide experience in research techniques and approaches with the advice and guidance of one of the research groups within or affiliated with the department; enhance the student\u2019s ability to find and critically assess existing scientific information; to develop skills in communication (both written and oral) of scientific concepts related to microbiology/immunology and related areas."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Research thesis consisting of a literature review, materials and methods, results and discussion. 15,000-20,000 words",
+            "timing": "Due late in Semester 2",
+            "percentage": "75%"
+        },
+        {
+            "description": "Oral examination of research project (5-minute presentation and 25-minute questions). 30 minutes (total)",
+            "timing": "During examination period Semester 2",
+            "percentage": "10%"
+        },
+        {
+            "description": "One oral presentation. 10 minutes",
+            "timing": "Mid-Year",
+            "percentage": "5%"
+        },
+        {
+            "description": "Supervisors mark,\u00a0submitted by research supervisor",
+            "timing": "At end of year",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "Ashraful Haque and Amy Chung"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinators:"
+                ],
+                "email": [
+                    "ashraful.haque@unimelb.edu.au",
+                    "awchung@unimelb.edu.au",
+                    "Current students",
+                    "Past students, future students, general enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students must be enrolled in the Bachelor of Biomedicine (Honours) or Bachelor of Science (Honours) to complete this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.microbiol.unimelb.edu.au/"
+        ]
+    }
+}

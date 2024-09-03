@@ -1,0 +1,95 @@
+{
+    "subject name": "Research Design 1",
+    "subject code": "DENT90031",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject will introduce students to the principles of research and the inherent methodologies, as well as to the methods for critical appraisal of the available scientific literature. Students will have the opportunity to plan a research investigation in an area of clinical interest. In consultation with a research supervisor and/or the course coordinator, participants will formulate a research question."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Essay 1: Research problem. 1000 words",
+            "timing": "Middle of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Essay 2: Critical appraisal of literature (related to the research problem). 2000 words",
+            "timing": "Toward the end of the teaching period",
+            "percentage": "70%"
+        },
+        {
+            "description": "Completion of RIOT training module. 4 hours. Hurdle requirement:. Must be completed in accordance with university requirements.",
+            "timing": "First half of the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "David Manton"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 1-hour lecture each week plus three hours of non-contact private study each week."
+                },
+                {
+                    "Total time commitment": "140 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "https://ask.unimelb.edu.au",
+                    "enquiries-STEM@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

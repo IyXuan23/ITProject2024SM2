@@ -1,0 +1,128 @@
+{
+    "subject name": "Designing Novel Interactions",
+    "subject code": "INFO90003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "New interaction technologies continuously expand the range of input and output methods available in human-computer interaction. Interaction is no longer limited to desktop computers, windows-based interfaces, or keyboards and mice. Interfaces now include tangible communication, mobile and ubiquitous devices, ambient displays and sensing in public spaces. Novel interactions require specific methods to enable their conception, design, evaluation and use in creating interactive systems. This subject will introduce a selection of different interaction media and examine the specific methods used to create interactive systems with them. Underlying these specific methods are general conceptual approaches to design that are focussed on innovative or disruptive interactions between users and technology. Case studies will cover both fundamental research and industrial design practice. An emphasis is placed on developing the skills to critique and adapt different interface technologies and paradigms, to develop prototype systems, and evaluate new interactions to ensure that they meet their intended goals.",
+        "This subject follows a flipped classroom model. This means that the lectures are delivered online and class time is used for practical activities and active learning tasks."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "COMP90041"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-CS Master of Computer Science",
+                "MC-SOFTENG Master of Software Engineering",
+                "100pt Program course entry point in the MC-IT Master of Information Technology",
+                "150pt Program course entry point in the MC-IT Master of Information Technology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1: Ideation. Set sketches of increasing levels of fidelity and interactive mockup of an application that addresses a design brief. Individual assignment due in week 3-5 (30%). Addresses Intended Learning Outcomes (ILO's) 2, 3 and 4.. 20 hours (of work required)",
+            "timing": "From Week 3 to Week 5",
+            "percentage": "30%"
+        },
+        {
+            "description": "Assignment 2: Implementation. Students will build a functional prototype of an interactive system that addresses a design brief and demonstrate it through a 3-minute video and a 2000-word report. Group/individual assignment, due in the second week of the examination period (60%). Addresses ILO's 1, 3, and 4.. 20 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Weekly online quizzes held throughout the semester. Approximately 20 minutes each (10%). Addresses ILO 1 and 2.. 20 minutes",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Arzoo Atiq"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2-hour lecture per week and one 2-hour workshop in weeks 2-12. Some computer lab classes will require you to bring your own device. Please check upon preferencing timetable."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Pre teaching requirements": "Please complete Telstra Creator Space induction before the start of semester. https://eng.unimelb.edu.au/telstra-creator-space/start-making"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Arzoo Atiq"
+                ],
+                "email": [
+                    "arzoo.atiq@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Teaching and Learning Methods",
+            "This subject will be delivered through a combination of lectures and workshops."
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

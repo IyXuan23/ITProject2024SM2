@@ -1,0 +1,129 @@
+{
+    "subject name": "Human Structure and Function",
+    "subject code": "BIOM20002",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The subject introduces students to the organisation and function of the human body. General principles of anatomy, basic embryology and the characteristics of the major tissues and organs are covered. The concept of homeostasis, neural and humoral control systems and aspects of oxygen transport, digestion and metabolism, acid-base and fluid balance and temperature regulation are studied. Foundations of pharmacology, receptor-ligand interactions and principles of drug action are covered."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOL10002",
+                    "CHEM10006"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "BIOM10002"
+                ]
+            ],
+            "additional pre-requisite": [
+                "BIOL10003 Genes and Environment"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ANAT20006",
+        "PHYS20008"
+    ],
+    "assessments": [
+        {
+            "description": "5 Progressive Learning Tasks (4% each). 35 minutes (each)",
+            "timing": "After each topic block",
+            "percentage": "20%"
+        },
+        {
+            "description": "Mid-Semester Test (MST). 1 hours",
+            "timing": "From Week 5 to Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written Physiology Lab Report. 1000 words",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "Anatomy practical test. 1 hours",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Michelle Rank"
+                },
+                {
+                    "Coordinators": "Yossi Rathner, Angelina Fong, and Jacinta Crawley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "6 hours of lectures per week, 2 hours of CAL workshops per week, 4x 2hr Anatomy practicals and 1 x 3hr Physiology practical per semester"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "biom-20002@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Eizenberg, N., C. Briggs, C. Adams & G. Ahern. General Anatomy: Principles and Applications.",
+                    "Sydney: McGraw-Hill, 2007.",
+                    "Principles Of Human Anatomy And Physiology 2nd Asia-Pacific Edition Gerard J Tortora -Wiley Direct"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students enrolled in the Bachelor of Biomedicine.Students are expected to have regular access to an internet-enabled computer.Students are expected to be familiar with word processing, data management and graphical software packages and to be competent in electronic search techniques.This subject is not available for incoming exchange or as cross institutional study.",
+            "B-BMED students who fail this subject with a mark of 45-49%, who do not fail any other subjects in the same semester may be eligible for a progression supplementary exam for this subject in line with theAssessment Procedure(point 15). Students will be contacted via email by the University Results final release date if they are eligible."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

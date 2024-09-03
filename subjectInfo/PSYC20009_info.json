@@ -1,0 +1,151 @@
+{
+    "subject name": "Personality and Social Psychology",
+    "subject code": "PSYC20009",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject examines human individuality and relatedness, the core themes of personality and social psychology. Its focus is on how we are unique individuals but also connected to others. The personality section investigates the nature and structure of individual differences, how these differences are assessed, and how they can be explained psychologically and biologically. The social psychology section examines how individuals construct their sense of self and identity, how they perceive and evaluate other people, how they form relationships, and how their behaviour is influenced by their social groups and cultural context.",
+        "A quantitative methods component will be integrated into the lecture, tutorial, and assessment structure of this subject. The aim is to provide an understanding of, and practical experience with, the appropriate experimental design and statistical analysis techniques used to evaluate theories in Personality and Social Psychology."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "512223 Personality and Social Psychology 2",
+        "512228 Personality and Social Psychology"
+    ],
+    "assessments": [
+        {
+            "description": "An examination. 1.5 hours",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "description": "An assignment. 1500 words",
+            "timing": "From Week 5 to Week 10",
+            "percentage": "40%"
+        },
+        {
+            "description": "A Group Presentation. 10 minutes",
+            "timing": "From Week 9 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "An online module. 500 words (equivalent)",
+            "timing": "From Week 3 to Week 6",
+            "percentage": "0%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance of at least 80% of laboratory classes.\r\nIn case of failure to meet the attendance requirement, additional work related to the missed class activities (e.g., an essay whose length is 500 words for each tutorial missed) will be required before a passing grade can be awarded.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Research participation in up to 2.5 hours of research activities as detailed at https://psychologicalsciences.unimelb.edu.au/research/research-experience-program with 2% awarded for each hour of participation (by the end of week 12). 2.5 hours",
+            "timing": "From Week 1 to Week 12",
+            "percentage": "5%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Said Shafa"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One x 2 hour Lecture per week plus one x 2 hour Laboratory/Tutorial per fortnight"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Dr Said Shafa"
+                ],
+                "email": [
+                    "said.shafa@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Eliot R. Smith, Diane M. Mackie & Heather M. Claypool (2015). Social Psychology : Fourth Edition. Taylor & Francis."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "subject coordinator approval required",
+                    "subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

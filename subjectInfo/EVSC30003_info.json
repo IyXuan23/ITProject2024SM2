@@ -1,0 +1,143 @@
+{
+    "subject name": "Environmental Risk Assessment",
+    "subject code": "EVSC30003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to provide students with the skills to undertake and critically evaluate environmental risk assessments. Students will learn a range of qualitative and quantitative tools from a variety of disciplines, and apply them to environmental risk problems. Students completing this subject should be familiar with the concept of exposure pathways; understand the ecological processes associated with contamination in aquatic and terrestrial ecosystems; be able to develop empirical models; estimate exposures and responses in ecological systems; and develop a critical understanding of methodologies used in environmental risk assessment.",
+        "Topics include the concepts of risk assessment, psychology and history of risk perception, Australian standards for risk assessment, risk assessment frameworks, exposure pathways, hazard assessment, casual and empirical modeling, inference from data, endpoints and management goals, interval arithmetic, logic trees, environmental toxicology, decision-making under risk and uncertainty, social context of risk, and risk management."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Neither MAST10012 Introduction to Mathematics nor UMEP Mathematics for High Achieving Students is accepted as a prerequisite."
+            ],
+            "one of pre-requisite": [
+                [
+                    "ECOL20003",
+                    "EVSC20004",
+                    "EVSC20007",
+                    "MAST20004",
+                    "MAST20005",
+                    "MAST20006",
+                    "MAST20029",
+                    "MAST20031"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Other relevant quantitative, statistics and mathematics subjects may be considered as prerequisites, please contact the subject coordinator."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written assignment of up to 1500 words based on the first practical, including an online reading component. 1500 words",
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "description": "Two collaborative practical tasks (of approx. 300 words each) completed in groups of 2-4 during class time, mid-semester. 600 words (total)",
+            "timing": "From Week 6 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Take-home examination of up to 2000 words at the end of the first week of the examination period. 2000 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Bonnie Wintle"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 x one hour lectures per week; and 3-hour (equivalent) practicals every 2 weeks excluding Weeks 1 and 12"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "bonnie.wintle@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "subject name": "Supply Chain Analytics",
+    "subject code": "MGMT90258",
+    "subject availability": [
+        "May - Online",
+        "November - Online"
+    ],
+    "overview": [
+        "This subject is focused on decision making relevant to supply chain management. Key topics include: network design, economic order quantity, news-vendor models, pricing and revenue management, and incentive conflicts and coordination using contracts."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "PR-SCM Professional Certificate in Supply Chain Management",
+                "MC-SCM150 Master of Supply Chain Management"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Approval of Subject Coordinator",
+                "Note when seeking Subject Coordinator approval you will need to meet the following criteria:",
+                "An undergraduate degree or equivalent;",
+                "A minimum of at least 3 years of full-time documented relevant professional experience;  OR  professional experience of at least 5 years of full-time documented relevant work experience."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Multiple choice quizzes. (3 x 15-minute quizzes). 750 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Reflection on online discussion board participation. (Requires participation in discussion activities in all four weeks). 250 words",
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written Assignment. 1500-2000 words",
+            "timing": "End of the assessment period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "May - Online": [
+                {
+                    "Coordinator": "Sharyn Grant"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Pre teaching start date": "20 May 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are given the opportunity to get used to the online platform and become familiar with how to access resources before the teaching period starts."
+                },
+                {
+                    "Teaching period": "27 May 2024 to 23 June 2024"
+                },
+                {
+                    "Last self-enrol date": "21 May 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "21 June 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "November - Online": [
+                {
+                    "Coordinator": "Lusheng Shao"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Pre teaching start date": "4 November 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are given the opportunity to get used to the online platform and become familiar with how to access resources before the teaching period starts."
+                },
+                {
+                    "Teaching period": "11 November 2024 to  8 December 2024"
+                },
+                {
+                    "Last self-enrol date": "5 November 2024"
+                },
+                {
+                    "Census date": "15 November 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "6 December 2024"
+                },
+                {
+                    "Assessment period ends": "15 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "May": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "sharyn.grant@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "November": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "lusheng.shao@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

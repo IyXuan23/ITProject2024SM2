@@ -1,0 +1,128 @@
+{
+    "subject name": "Molecular Aspects of Cell Biology",
+    "subject code": "BCMB30003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject describes the molecular mechanisms underpinning eukaryotic cell organisation, morphology and behaviour and their importance in biomedicine. We will explore the relationships between cellular organisation and the biological functions of normal and stressed cells, as well experimental strategies for investigating the molecular basis of these relationships. The subject matter includes the compartmentalisation of eukaryotic cells; intracellular trafficking of biomolecules; the structure, function and biogenesis of subcellular organelles; protein folding and maturation; vesicle-mediated transport; structure and function of the extracellular matrix and cell adhesion molecules and their role in diseased states such as malignancies; cellular stress responses and linked signal transduction events; cytoskeletal structures and the signal transduction processes regulating the assembly and disassembly of actin-cytoskeleton; molecular processes determining cell movement and shape changes; imaging of processes within live cells."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Other combinations that provide similar background will be considered by the coordinator."
+            ],
+            "one of pre-requisite": [
+                [
+                    "BCMB20002",
+                    "BIOM20001"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "5-10 written assessments totalling approx. 1600 words and prepared figures. 1600 words",
+            "timing": "Throughout the semester",
+            "percentage": "35%"
+        },
+        {
+            "description": "Mid Semester Test 1. 30 minutes",
+            "timing": "Around week 5",
+            "percentage": "10%"
+        },
+        {
+            "description": "Mid Semester Test 2. 30 minutes",
+            "timing": "Around week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written Exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "description": "Attendance at 70% of workshops. Hurdle requirement:. Attendance at 70% of workshops i.e. 10-11 x 2 hour workshops",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Diana Stojanovski"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 hours of workshops per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "d.stojanovski@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Alberts et alMolecular Biology of the Cell, 5th or 6th edition, Garland Science"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students enrolled in the BSc (pre-2008 BSc), BASc or a combined BSc course will receive science credit for the completion of this subject.",
+            "Students undertaking this subject will be expected to regularly access an internet-enabled computer."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "subject name": "Solar Energy",
+    "subject code": "ENEN90033",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "AIMSThis subject provides the application of principles of solar energy engineering. A number of solar technologies and applications methods are investigated.This subject uses a project based learning where students work in teams to design a solar system for a particular application considering environmental, social and financial constraints. Students learn to apply the principles of solar energy and design.Knowledge gained in this subject will allow graduates to practice in the area of renewable energy industry. The subject complements other subjects offered in the energy theme of the Department such as Energy for Sustainable Development and Sustainable Infrastructure Engineering.INDICATIVE CONTENT",
+        "Introduction to Solar Energy in the energy economy; Fundamental heat & mass transfer; Radiation properties of materials; and selective surfaces",
+        "Solar Geometry and solar angles; atmospheric effects and radiation prediction; and Solar radiation measurement",
+        "Flat plate collectors design and performance characteristic",
+        "Concentrating collectors design and performance characteristic; Evacuated tube collectors",
+        "Solar System design methods",
+        "Fundamentals of photovoltaic systems",
+        "Solar process heating",
+        "Solar drying, Solar cookers, Green houses and Solar stills",
+        "Solar water pumping; Solar refrigeration",
+        "Built environment applications passive and active systems",
+        "Solar hot water and solar heat pump systems.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One examination. Intended Learning Outcomes (ILOs) 1 to 3 are addressed in the examination. 3 hours",
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "One 2000 word report. ILOs 1 to 3 are addressed in the report. 50 hours (of work required)",
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "One group task 1000 words per person. ILOs 1 to 3 are addressed in the group task.. 30 hours (of work required)",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Lu Aye"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours (Lectures/Tutorials: 3 hours per week)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Associate Professor Lu Aye"
+                ],
+                "email": [
+                    "l.aye@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject is based on presentations by two expert lecturers and one expert industry person in the field. In addition each student prepares a group research report on a topic of their interest selected from an extensive list. Numerical problems solving based on analysis and design are investigated.INDICATIVE KEY LEARNING RESOURCESReference books:",
+            [
+                "John A. Duffie and William A. Beckman 2006Solar Engineering of Thermal Processes, Wiley, Hoboken, N.J."
+            ],
+            [
+                "Soteris A. Kalogirou 2009Solar Energy Engineering: Processes and Systems[electronic resource], Elsevier/Academic Press Burlington, MA."
+            ],
+            "Journal:",
+            [
+                "Solar Energy"
+            ],
+            "CAREERS / INDUSTRY LINKSAustralian Solar Energy Council"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

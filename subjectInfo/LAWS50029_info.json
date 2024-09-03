@@ -1,0 +1,122 @@
+{
+    "subject name": "Contracts",
+    "subject code": "LAWS50029",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject studies:",
+        "the content of contracts;",
+        "the termination of contracts; and",
+        "invalidating factors in contract formation.",
+        "The study of contract builds on the foundations laid in LAWS50026 Obligations. It covers express terms (and their interpretation) and implied terms. The study of termination includes termination for breach, for failure of condition, and by frustration, and touches on the proprietary consequences of contracts. The study of invalidating factors includes misinformation (mistake, misrepresentation, misleading conduct), abuse of power (duress, undue influence, third party impropriety, unconscionable dealing, and unconscionable conduct) and illegality."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "LAWS50023",
+                    "LAWS50026"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Three sets of multiple-choice quizzes.. 3 hours",
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Examination. 4000 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Wayne Jocic"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours"
+                },
+                {
+                    "Total time commitment": "144 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Teaching staff:",
+                    ""
+                ],
+                "email": [
+                    "Wayne Jocic",
+                    "contact theLaw SchoolAcademic Support Office"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    [
+                        "Jeannie Paterson and Andrew Robertson,Contract Cases and Materials, 14th edition, 2020.",
+                        "Specialist materials will be made available via the LMS."
+                    ]
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "If required, please contactlaw-admissions@unimelb.edu.aufor subject coordinator approval.",
+                    "If required, please contactlaw-admissions@unimelb.edu.aufor subject coordinator approval."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}
