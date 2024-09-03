@@ -9,7 +9,7 @@ conn = psycopg2.connect(database="postgres", user="postgres.seqkcnapvgkwqbqipqqs
 cur = conn.cursor()
 cur.execute("""TRUNCATE TABLE course CASCADE;""")
 
-folder_path = 'courseInfo'
+folder_path = 'course'
 
 for file_path in glob.glob(os.path.join(folder_path, '*.json')):
     with open(file_path) as file:
