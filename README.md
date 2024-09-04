@@ -6,4 +6,4 @@
 
 OR 
 
-Install psycopg2 using: pip install psycopg2. (Try pip3 install psycopg2 if doesn't work).
+Install psycopg2 using: pip install psycopg2. (Try pip3 install psycopg2 if doesn't work) -> Can't confirm.
