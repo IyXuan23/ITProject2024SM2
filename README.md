@@ -4,3 +4,6 @@
 3. To run any script, please type ./myenv/bin/python ImportScripts/[script_name].py into Shell or Ternimal
 4. When you are done please type: deactivate.
 
+OR 
+
+Install psycopg2 using: pip install psycopg2. (Try pip3 install psycopg2 if doesn't work).
