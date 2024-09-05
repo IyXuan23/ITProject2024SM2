@@ -72,7 +72,7 @@ def scrapeLinks(numOfPages, targetArray, url):
         i += 1    
 
 def writeJSONFile(filePath, name, code, overview, aims, indicativeContent, optionsPreReq,
-                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability, furtherInfoData):
+                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability, furtherInfoData, ilo):
     """writes information to JSON file for the corresponding subbject. Naming convention is [subjectCode]_info.json"""
 
     data = {
@@ -82,6 +82,7 @@ def writeJSONFile(filePath, name, code, overview, aims, indicativeContent, optio
         "overview": overview,
         "aims": aims, 
         "indicative content": indicativeContent,
+        "intended learning outcomes": ilo,
         "pre-requisites": optionsPreReq,
         "corequisites": coReq,
         "non-allowed subjects": nonAllowed,
@@ -194,6 +195,24 @@ def scrapeOverview(url):
                 
 
     return overview, aims, indicativeContent, availability
+
+def scrapeILO(url):
+
+    ILOList = []
+
+    response = requests.get(url)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    container = soup.find('div', class_='sidebar-tabs__panel')
+    ILOContainer = container.find('div', id='learning-outcomes')
+
+    ILOs = ILOContainer.find('ul', class_='ticked-list')
+
+    lis = ILOs.find_all('li')
+    for li in lis:
+        ILOList.append(li.get_text(strip=True))
+
+    return ILOList
 
 def parseTable(table):
     """helper function: parse table from html, will return the courses as an array"""
@@ -376,8 +395,11 @@ def parseORoptions(soup):
     
         nextElem = option.find_next()
 
+        creditText = None
+
         oneOfIndicator = False
         andIndicator = False
+        creditIndicator = False
 
         print('OPTION START')
 
@@ -387,6 +409,13 @@ def parseORoptions(soup):
             #if it is an item that is not AND, ALL OF, OR blank para
             if ((hasattr(nextElem, 'get_text') and nextElem.get_text(strip=True).lower() not in targetWords) 
                 or (not hasattr(nextElem, 'get_text'))):
+                
+                #if it has a requirement of credits, get the credit requirements
+                if (hasattr(nextElem, 'find') and nextElem.find(text=True, recursive=False) and \
+                    'credit points' in nextElem.find(text=True, recursive=False)):
+                    
+                    creditText = nextElem.find(text=True, recursive=False)
+                    creditIndicator = True
 
                 #if its a table, get the info
                 if (hasattr(nextElem, 'name') and nextElem.name == 'table'):
@@ -394,11 +423,22 @@ def parseORoptions(soup):
 
                     #either parse it as a oneOf or necessary preReq, depending on what we saw before
                     if (oneOfIndicator):
+                        #append credit line in beforehand if necessary
+                        if (creditIndicator):
+                            oneOfPreReq.append(creditText)
+                            creditIndicator = False
+
                         oneOfPreReq.append(courses)
                         #since oneOf / AND oneOf are equivalent in human reading
                         oneOfIndicator = False
                         andIndicator = False
+
                     else:
+                        #append credit line in beforehand if necessary
+                        if (creditIndicator):
+                            necessaryPreReq.append(creditText)
+                            creditIndicator = False
+
                         necessaryPreReq.append(courses)
                 
                 #if its text
@@ -513,9 +553,6 @@ def scrapeCoReq(courseCode):
     preReqURL = 'https://handbook.unimelb.edu.au/subjects/' + courseCode + '/eligibility-and-requirements'
     preReqURLAlt = 'https://handbook.unimelb.edu.au/2024/subjects/' + courseCode + '/eligibility-and-requirements'
 
-    print(preReqURL)
-    print(preReqURLAlt)
-
     response = requests.get(preReqURL)
     soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -547,8 +584,6 @@ def scrapeNonAllowed(courseCode):
 
     try:
         nonAllowedHeader = soup.find('h3', text='Non-allowed subjects')
-        print('\n')
-        print(nonAllowedHeader)
 
     except AttributeError:
         print("Non-allowed Subject Not Found")
@@ -629,8 +664,6 @@ def scrapeContactInfo(soup):
 
     container = soup.find('div', class_='layout-sidebar__side__inner')
     sems = container.find_all('h5')
-
-    print('scraping contact')
 
     for sem in sems:
         currSem = sem.get_text(strip=True)
@@ -857,6 +890,8 @@ def scrapSubject(url, subjectName, subjectCode):
     """function for scraping a singular subject information, and will return the data in the form of a json file"""
 
     overview, aims, indicativeContent, availability = scrapeOverview(url)
+    
+    ilo = scrapeILO(url)
 
     coReq = scrapeCoReq(subjectCode)
     nonAllowed = scrapeNonAllowed(subjectCode)
@@ -874,6 +909,6 @@ def scrapSubject(url, subjectName, subjectCode):
     filePath = os.path.join('subjectInfo', fileName)
 
     writeJSONFile(filePath, subjectName, subjectCode, overview, aims, indicativeContent, optionsPreReq, \
-                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability, furtherInfoData)
+                coReq, nonAllowed, assessments, dateTimes, contactInfo, availability, furtherInfoData, ilo)
 
     #https://handbook.unimelb.edu.au/subjects/comp30022/further-information
