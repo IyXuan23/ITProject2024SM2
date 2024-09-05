@@ -11,13 +11,21 @@ def convert_to_daterange(period_str):
     Returns:
     str: A PostgreSQL daterange formatted string.
     """
-    start_date_str, end_date_str = period_str.split(" to ")
-    start_date = datetime.strptime(start_date_str, "%d %B %Y").date()
-    end_date = datetime.strptime(end_date_str, "%d %B %Y").date()
+    # Replace ' - ' or '-' with ' to ' for compatibility
+    if '-' in period_str:
+        return None  # Return None if both start and end are invalid
+    try:
+        # Split the string into start and end dates
+        start_date_str, end_date_str = period_str.split(" to ")
+        # Try parsing the start and end dates
+        start_date = datetime.strptime(start_date_str.strip(), "%d %B %Y").date()
+        end_date = datetime.strptime(end_date_str.strip(), "%d %B %Y").date()
 
-    daterange_str = f'[{start_date},{end_date}]'
-
-    return daterange_str
+        # Return the daterange string
+        return f'[{start_date},{end_date}]'
+    except ValueError as e:
+        print(f"Error parsing date range '{period_str}': {e}, using default dates.")
+        return None
 
 def convert_to_date(date_str):
     """
@@ -30,5 +38,14 @@ def convert_to_date(date_str):
     Returns:
     str: A PostgreSQL date formatted string.
     """
-    date = datetime.strptime(date_str, "%d %B %Y").date()  # Fix applied here
-    return date
+    # Check for invalid placeholders like '—' or empty strings
+    if '—' in date_str or not date_str.strip():
+        return None
+    
+    try:
+        # Try parsing the date string
+        return datetime.strptime(date_str.strip(), "%d %B %Y").date()
+    except ValueError as e:
+        # Handle any ValueError due to improper date formatting
+        print(f"Error parsing date '{date_str}': {e}")
+        return None
