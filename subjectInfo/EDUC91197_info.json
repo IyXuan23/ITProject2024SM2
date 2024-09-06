@@ -26,17 +26,15 @@
         {
             "option": "Option 1",
             "necessary pre-requisite": [
-                "Note: the following subject/s can also be taken concurrently (at the same time)"
-            ],
-            "one of pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)",
                 [
                     "EDUC90419"
                 ]
             ],
-            "alternate pre-requisite": [
-                "Admission into or selection of one of the following:",
+            "one of pre-requisite": [
                 "GC-EDRES Graduate Certificate in Educational Research"
-            ]
+            ],
+            "alternate pre-requisite": []
         },
         {
             "option": "Option 2",
@@ -44,15 +42,12 @@
                 "Enrolment in the 200-point program",
                 "Completion of a minimum of 125 credit points of study",
                 "A H2A (75%) average or above",
-                "Note: the following subject/s can also be taken concurrently (at the same time)"
-            ],
-            "one of pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)",
                 [
                     "EDUC90419"
                 ]
             ],
-            "alternate pre-requisite": [
-                "Admission into one of the following:",
+            "one of pre-requisite": [
                 "Admission into or selection of one of the following:MC-ED Master of EducationMC-TESOL Master of TESOLMC-MLED Master of Modern Languages Education",
                 "MC-ED Master of Education",
                 "MC-TESOL Master of TESOL",
@@ -60,7 +55,8 @@
                 "MC-ED Master of Education",
                 "MC-TESOL Master of TESOL",
                 "MC-MLED Master of Modern Languages Education"
-            ]
+            ],
+            "alternate pre-requisite": []
         },
         {
             "option": "Option 3",
@@ -68,15 +64,12 @@
                 "Enrolment in the 100-point program",
                 "Completion of a minimum of 50 credit points of study",
                 "A H2A (75%) average or above",
-                "Note: the following subject/s can also be taken concurrently (at the same time)"
-            ],
-            "one of pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)",
                 [
                     "EDUC90419"
                 ]
             ],
-            "alternate pre-requisite": [
-                "Admission into one of the following:",
+            "one of pre-requisite": [
                 "Admission into or selection of one of the following:MC-ED Master of EducationMC-TESOL Master of TESOLMC-MLED Master of Modern Languages Education",
                 "MC-ED Master of Education",
                 "MC-TESOL Master of TESOL",
@@ -84,36 +77,34 @@
                 "MC-ED Master of Education",
                 "MC-TESOL Master of TESOL",
                 "MC-MLED Master of Modern Languages Education"
-            ]
+            ],
+            "alternate pre-requisite": []
         },
         {
             "option": "Option 4",
             "necessary pre-requisite": [
                 "Completion of a minimum of 50 credit points of study",
                 "A H2A (75%) average or above",
-                "Note: the following subject/s can also be taken concurrently (at the same time)"
-            ],
-            "one of pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)",
                 [
                     "EDUC90419"
                 ]
             ],
-            "alternate pre-requisite": [
-                "Admission into or selection of one of the following:",
+            "one of pre-requisite": [
                 "MC-INSLEAD Master of Instructional Leadership"
-            ]
+            ],
+            "alternate pre-requisite": []
         },
         {
             "option": "Option 5",
             "necessary pre-requisite": [],
-            "one of pre-requisite": [],
-            "alternate pre-requisite": [
-                "Admission into or selection of one of the following:",
+            "one of pre-requisite": [
                 "MC-TEACHEC Master of Teaching (Early Childhood)",
                 "MC-TEACHPR Master of Teaching (Primary)",
                 "MC-TEACHSA Master of Teaching (Secondary)",
                 "MC-TEACHSI Master of Teaching (Secondary) Internship"
-            ]
+            ],
+            "alternate pre-requisite": []
         },
         {
             "option": "Commencement of the Master of Teaching prior to 2022 in a version of the course that included a Research Option.",

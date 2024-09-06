@@ -339,19 +339,30 @@ def formatOptions(courseCode):
                     elif (hasattr(nextElem, 'name') and nextElem.name == 'p' and not nextElem.find('table')):
                         
                         txt = nextElem.get_text(strip=True)
+
+                        print(nextElem)
+                        print('\n')
+
+                        #prevent program from scrapping weird ways of 'one of' etc.
+                        if ('one of' not in txt):
                         
-                        if (andIndicator):
-                            necessaryPreReq.append(txt)
-                            andIndicator = False 
-                        else:
-                            altPreReq.append(txt)
+                            if (andIndicator):
+                                necessaryPreReq.append(txt)
+                                andIndicator = False 
+                            else:
+                                altPreReq.append(txt)
 
                     #if its a list
                     elif (hasattr(nextElem, 'name') and nextElem.name == 'ul'):
                         
                         liArray = nextElem.find_all('li')
                         for li in liArray:
-                            altPreReq.append(li.get_text(strip=True))
+                            
+                            if (oneOfIndicator):
+                                oneOfPreReq.append(li.get_text(strip=True))
+                            else:
+                                altPreReq.append(li.get_text(strip=True))
+                        oneOfIndicator = False        
                 
                 #check for 'One of' or 'All of', if neither are there, assume that it is 'All of'
                 if hasattr(nextElem, 'get_text'):
@@ -459,7 +470,11 @@ def parseORoptions(soup):
                     
                     liArray = nextElem.find_all('li')
                     for li in liArray:
-                        altPreReq.append(li.get_text(strip=True))
+                        if (oneOfIndicator):
+                            oneOfPreReq.append(li.get_text(strip=True))
+                        else:
+                            altPreReq.append(li.get_text(strip=True))
+                    oneOfIndicator = False        
             
             #check for 'One of' or 'All of', if neither are there, assume that it is 'All of'
             if hasattr(nextElem, 'get_text'):

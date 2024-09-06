@@ -28,8 +28,8 @@ subjectLinks = retrieveLinks('linkStorage\subjectLinks.json')
 #0-50 DONE
 #51-266 DONE
 #267-892 DONE
-for link in subjectLinks:
-      scrapSubject(link[2], link[1], link[0])
+# for link in subjectLinks:
+#       scrapSubject(link[2], link[1], link[0])
 
 # print(courseLinks.index([
 #             "080CN",
@@ -37,7 +37,7 @@ for link in subjectLinks:
 #             "https://handbook.unimelb.edu.au/2024/courses/080cn"
 #         ]))
 
-#scrapSubject('https://handbook.unimelb.edu.au/subjects/busa90531', 'Analytics for Strategic Management', 'BUSA90531')
+scrapSubject('https://handbook.unimelb.edu.au/subjects/educ91197', 'Research Project in Education', 'EDUC91197')
 
 #scrapSubject("https://handbook.unimelb.edu.au/subjects/comp30022")
 # scrapSubject("https://handbook.unimelb.edu.au/2024/subjects/comp10001")
