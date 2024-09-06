@@ -1,0 +1,134 @@
+{
+    "subject name": "The Art of Scientific Computation",
+    "subject code": "COMP90072",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "The physical, social and engineering sciences make widespread use of numerical simulations and graphical representations that link underlying their theoretical foundations with experimental or empirical data. These approaches are routinely designed and conducted by researchers with little or no formal training in computation, assembling instead the necessary skills from a variety of sources. There is an art to assembling computational tools that both achieve their goals and make good effective use of the available computational resources.",
+        "This subject introduces students to a wide range of skills that are commonly encountered in the design and construction of computational tools in research applications:",
+        "Formulation of the task as a sequence of operations or procedures that express the context of the assigned problem in a form accessible to digital computing (Mathematica).",
+        "Implementation of this formulation using computer languages appropriate for numerically intensive computation (C, C++, Fortran)",
+        "Modularization of computationally intensive tasks, either as user-written procedures or existing libraries (for example BLAS, lapack)",
+        "Documentation of the code to explain both its design, operation and limitations (LaTeX)",
+        "Instrumentation of the code to verify its correct operation and monitor its performance (gprof)",
+        "Optimization of the code, including the use of parallelization (OpenMPI)",
+        "Visualization of data using graphical packages or rendering engines (Geomview, OpenGL)",
+        "Interaction with the code through a graphical user interface (Python, Matlab)",
+        "These skills are introduced to the student by undertaking a short project that is selected in consultation with the Subject Coordinator."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "to plan and execute a short computational research project that includes conception, implementation and application of appropriate computational methods,",
+        "to understand the effective use and limitations of the numerical algorithms that are used in completing the project,",
+        "to communicate the results obtained from the project using graphical output and computer typesetting software,",
+        "to make efficient use of the available computational resources through the use of tools to profile, optimize and parallelize the code generated in the project,",
+        "to document the project with sufficient detail and clarity that it could be used as the basis of further development by others."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "This subject cannot be undertaken by any student admitted to any of the following courses:",
+        "MC-ENG Master of Engineering",
+        "MC-IT Master of Information Technology",
+        "MC-SCICMP Master of Science (Computer Science)",
+        "MC-DATASC Master of Data Science"
+    ],
+    "assessments": [
+        {
+            "description": "The software tools that are written by the student and submitted will be assessed on the basis of their accuracy in achieving the goals of the project and the computational efficiency with which these goals are met (60% of total assessment).. 100 hours. Hurdle requirement:. The software developed by the student must be submitted electronically in a form that it can be (if necessary) compiled and executed and must include sample input and output files.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "A document that describes the design of the software tools, the context of the project (which may be in any branch of physical, social or engineering science) and specimen applications of the software will contribute the remaining 40% of the assessment.. 40 hours. Hurdle requirement:. A document formatted using LaTeX must be submitted that describes the design and operation of the computer code produced by the student",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Roger Rassool"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Roger Rassool"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

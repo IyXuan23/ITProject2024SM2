@@ -1,0 +1,166 @@
+{
+    "subject name": "Building Information Modeling",
+    "subject code": "CVEN90062",
+    "subject availability": [
+        "Semester 2 - Online",
+        "Semester 2 - On Campus"
+    ],
+    "overview": [
+        "In the past few years, the Architecture Engineering and Construction (AEC) industry has observed the evolution of simple 2D drafting programs into integrated Building Information Modelling (BIM) based on 3D spatial technologies. In this subject, students will learn how BIM is used to model, store and visualise architectural, structural, and facilities components of an infrastructure in 3D. Students will also learn how adding time and cost information to BIM allows AEC to foster collaboration in designing infrastructures, minimize the risk of construction errors and optimise the maintenance of them.",
+        "The subject is of particular relevance to students wishing to establish a career in civil engineering, property management, surveying, spatial information and urban planning but is also relevant to a range of disciplines where 3D building information should be considered."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the function of BIM in the Architecture, Engineering and Construction industry",
+        "Apply BIM in designing, visualising and maintaining components of infrastructures",
+        "Analyse how collaborative techniques in BIM increase productivity and reduce the risk of construction and usage errors",
+        "Design infrastructures and plan for their construction and maintenance using BIM"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1, 1500 word report and a BIM file on designing and communicating an infrastructure; group submission. Intended Learning Outcomes (ILOs) 2 and 3 are addressed in this assessment.. 40 hours (of work required)",
+            "timing": "Week 6",
+            "percentage": "40%"
+        },
+        {
+            "description": "Assignment 2, 1500 word report and a BIM file on analysing an infrastructure; individual submission. ILO 4 is addressed in this assessment.. 40 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "4 x quizzes each worth 5%. ILO s 1-4 are addressed in this assessment.. 20 hours (of work required)",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 - Online": [
+                {
+                    "Coordinator": "Benny Chen"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "48 hours"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - On Campus": [
+                {
+                    "Coordinator": "Benny Chen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:",
+                    ""
+                ],
+                "email": [
+                    "yiqun.c@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Benny Chen"
+                ],
+                "email": [
+                    "yiqun.c@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "TBC"
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

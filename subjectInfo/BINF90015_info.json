@@ -1,0 +1,157 @@
+{
+    "subject name": "Bioinformatics Research Project Pt 3",
+    "subject code": "BINF90015",
+    "subject availability": [
+        "Semester 1 (Early-Start)",
+        "Semester 2 (Early-Start)"
+    ],
+    "overview": [
+        "his subject involves the development and application of the tools of bioinformatics to address a significant research problem. The subject also provides students with skills and knowledge for understanding original research and enhanced written and oral communication skills.",
+        "The process of matching students with supervisors and research projects will occur in the first semester of enrolment of the Bioinformatics stream of the Master of Science. Apart from the help and guidance from their supervisor(s) each student also has a committee that regularly meets with them and provides additional help and expertise. This committee is responsible for assessment of the research project subject.",
+        "Students need to ensure they have completed a total of 50points Research Project by the end of their course."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "critical appraisal of scientific literature;",
+        "planning of research;",
+        "development and application of bioinformatics tools in the analysis of scientific data;",
+        "writing research proposals, reports and a thesis"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "BINF90009",
+                    "BINF90014"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One research proposal incorporating a literature review. 5000 words",
+            "timing": "In the first semester of this Project",
+            "percentage": "15%"
+        },
+        {
+            "description": "An oral presentation on the proposed research. 20 minutes",
+            "timing": "In the first semester of this Project",
+            "percentage": "5%"
+        },
+        {
+            "description": "A progress report on the research project. 3000 words",
+            "timing": "In the second semester of this Project",
+            "percentage": "10%"
+        },
+        {
+            "description": "A final oral presentation. 20 minutes",
+            "timing": "At the end of the final semester of this Project",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written thesis. 15000 words",
+            "timing": "At the end of the final semester of this Project",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Coordinator": "Vicky Perreau"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Principal coordinator": "Vicky Perreau"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "vperreau@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "vperreau@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

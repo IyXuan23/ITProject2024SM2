@@ -26,6 +26,12 @@
         "Unification and resolution",
         "Nondeterminism, search, and backtracking."
     ],
+    "intended learning outcomes": [
+        "Apply declarative programming techniques",
+        "Write medium size programs in a declarative language",
+        "Write programs in which different components use different languages",
+        "Select appropriate languages for each component task in a project"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

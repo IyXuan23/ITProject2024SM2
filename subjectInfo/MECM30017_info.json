@@ -1,0 +1,123 @@
+{
+    "subject name": "Digital and Mobile Journalism",
+    "subject code": "MECM30017",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject teaches writing, design and production skills for digital media, with a focus on journalism created on mobile devices, a significant, but still emerging, field of contemporary news production. Students learn how to produce and manage content across a range of digital media platforms and formats (video, audio, image, text); with a key component of the course capturing video and recording audio to industry standard. Techniques taught involve production of both breaking news and rich content non-fiction stories, as well as practices of curating and sharing digital content. Students also learn to edit non-fiction stories and rich media files using a range of software designed for phones, laptops and desktop computers.",
+        "The practical skills taught are embedded in a pedagogical framework of media ethics and digital transformation studies."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Have an understanding of the place of digital production and mobile journalism in the contemporary media landscape",
+        "Have a familiarity with the techniques used to produce, distribute and curate media reports on mobile devices to a professional standard",
+        "Develop an understanding of industry standards for production and delivery of digital video",
+        "Develop an understanding of the ethical considerations in reporting on mobile media, and an ability to analyse situational reporting in terms of ethical and social constraints."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "MECM30010 Writing Journalism"
+            ],
+            "one of pre-requisite": [
+                [
+                    "MECM10006",
+                    "MECM20013"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Audio report (edited audio report of 120 seconds, including interview, equivalent to 800 words). 800 words (equivalent)",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Piece to Camera Project. 1200 words",
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Video Project. 2000 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Class participation",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Steven McIntyre"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "A 1-hour lecture and 1.5-hour tutorial per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "samci@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,102 @@
+{
+    "subject name": "Diagnostic Radiology 5",
+    "subject code": "RADI90021",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject reviews and consolidates all areas of Radiology and its associated pathology.. It aims to continue to enhance observational, higher level  analytical and communication skills of radiology trainees in their 4th year of RANZCR training with a specific focus on student preparation for the RANZCR Part 2 examinations.This subject represents the culmination of the formal teaching program and aims to solidify the participants approach to clinical competencies expected of a consultant radiologist. As such it covers all body systems  at a more advanced level, building on skills and knowledge gained from the earlier core subjects.Students will consolidate and improve upon a broad range of competencies, knowledge and understanding of key radiological diagnoses across a variety of imaging modalities for effective patient management and care.Teaching methods include interactive tutorial case based sessions facilitated by subspecialist expert radiologists and pathologists, with a focus on case based learning blueprinted to the Royal Australian and New Zealand College of Radiologists (RANZCR) curriculum.",
+        "Assessment tasks include oral case based and formal written examinations."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate an ability to accurately interpret both normal and common abnormal radiological findings on various imaging modalities  including Plain Xray, CT, ultrasound, MRI, Angiography; Nuclear medicine, including PET",
+        "Demonstrate an ability to recognize common pathologies relevant to radiology",
+        "Discuss the choice of imaging modality for common radiological conditions, taking into account radiation safety issues  (ALARA principles)",
+        "Successfully present written and oral radiology cases in a preparatory format for the RANZCR examination"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written Case Report examination. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Master of Medicine Written Case  Report  examination. 90 minutes",
+            "timing": "End of semester",
+            "percentage": "35%"
+        },
+        {
+            "description": "Master of Medicine Oral exam. 3000 words",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Patricia Desmond"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "255 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "pdesmond@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "subject name": "Structuring and Managing Patient Data",
+    "subject code": "ISYS90078",
+    "subject availability": [
+        "Semester 2 - Online"
+    ],
+    "overview": [
+        "This subject develops familiarity with technical and administrative aspects of health information science \u2013 when, why and how health data can be generated, collected, stored, communicated and integrated to inform patient care, health research and health services management. It provides an overview of the knowledge and tools that are essential for managing and governing digital patient record data for primary and secondary uses.",
+        "Lectures and tutorials cover four major topics: (a) Structuring health data in the era of big data in healthcare; (b) Managing and governing electronic health and medical records for safety and quality of care, including: standards, terminologies and mapping approaches applicable to clinical data and clinical documentation; (c) Structural and semantic interoperability to support data use for connected care and population health, including: Fast Healthcare Interoperability Resources (FHIR); (d) Managing and governing secondary use of data, including health services administration and health research, including: approaches to data privacy and security, repositories, retrieval, quality assessment, and linkage."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the roles of a range of information standards and protocols in ensuring the quality of patient health data",
+        "Analyse relative merits of various ways in which different health information systems record patient data, and explain how such data can be mapped",
+        "Demonstrate understanding of different levels of interoperability among health information systems, and explain uses of methods and tools for optimising the value of patient data through exchange between systems",
+        "Critically interpret typical requirements for retrieval and re-use of patient data for purposes other than clinical care, and propose refinements that reflect advances in approaches to digital health data analysis",
+        "Demonstrate integration and application of health data management principles in the design of new health information systems"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "HLTH90006",
+                    "ISYS90069"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A three part report, progressively written over the semester.  Part 1 due in week 6;  part 2 due in week 12; part 3 due in week 14, 1000 words for each part; 3000 words in total and worth 20% each (60% in total). Intended Learning Outcome (ILO) 5 is addressed in this assessment.. 90-100 hours (of work required). Hurdle requirement:. An aggregate result of 30/60 or more is required to pass the subject.",
+            "timing": "From Week 6 to Week 14",
+            "percentage": "60%"
+        },
+        {
+            "description": "Four written reports of individual work on assigned practical activities, 500 words per report; 2000 words in total and worth 10% each (40% in total). Due weekly in weeks 2, 5, 8, and 11. ILO's 1 to 4 are addressed in this assessment.. 30-35 hours (of work required). Hurdle requirement:. An aggregate result of 20/40 or more is required to pass the subject.",
+            "timing": "From Week 2 to Week 11",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 - Online": [
+                {
+                    "Principal coordinator": "Kathleen Gray"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "1 hour per week of 1-1 tutorials;\r\n2 hours per week of asynchronous learning using resources in Canvas LMS"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Kathleen Gray"
+                ],
+                "email": [
+                    "kgray@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "Opportunities are provided for online interaction during class using students\u2019 personal internet-connected devices.",
+            "Classroom teaching is complemented by a subject website in the University Learning Management System. Students unable to attend class on campus can participate each week, by going online to access lecture slides and recordings, undertake practical activities, and complete assessable work.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "This subject has no textbook. Students have access to electronic full-text of recommended readings, including current journal articles, government documents and industry reports. Examples:",
+            "Australian Digital Health Agency. Resources for Implementers and Developers. Specifications. Clinical documents.https://developer.digitalhealth.gov.au/specifications/clinical-documents",
+            "Australian Institute of Health and Welfare. Australian Metadata Repository \u2013 METeORhttps://www.aihw.gov.au/about-our-data/metadata-standards",
+            "HL7 FHIR Foundation. (Health Level 7\u202fFast Healthcare Interoperability Resources).http://fhir.org/",
+            "International Organization for Standardization.  Technical Committees. ISO/TC215 \u2013 Health Informaticshttps://www.iso.org/committee/54960.html",
+            "OpenEHR Foundation.https://openehr.org, especially Clinical Knowledge Managerhttps://openehr.atlassian.net/wiki/spaces/healthmod/pages/426016773/State+of+the+CKM+2019",
+            "SNOMED International. (Systematized NOmenclature of MEDicine).http://snomed.org/",
+            "Victoria. Health data standards and systems.https://www2.health.vic.gov.au/hospitals-and-health-services/data-reporting/health-data-standards-systems",
+            "CAREERS/INDUSTRY LINKS",
+            "This subject provides fundamental knowledge and practical skills to work in digital health. This subject is offered jointly by the Faculty of Engineering and the Faculty of Medicine, Dentistry and Health Sciences, and makes local and international links with accomplished researchers and with experts from public and private sector organisations.",
+            "_________________________________________________________________________"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

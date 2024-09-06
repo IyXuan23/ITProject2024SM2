@@ -1,0 +1,167 @@
+{
+    "subject name": "Advanced Case Studies Practicum",
+    "subject code": "MEDI90048",
+    "subject availability": [
+        "Semester 1 - Online",
+        "Semester 2 - Online"
+    ],
+    "overview": [
+        "Students are required to submit 50 clinical ultrasound patient scans done in the workplace using the online logbook provided. In addition, 50 advanced and rare clinical ultrasound case studies will be provided for interpretation and reporting."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Perform 50 clinical ultrasound cases in the workplace and report findings in a logbook",
+        "Interpret a wide range of clinical ultrasound and echocardiography cases",
+        "Practice reporting on rare and unusual cases",
+        "Interpret and report 50 and case studies using recorded images."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDI90056",
+                    "MEDI90057",
+                    "MEDI90058",
+                    "MEDI90059"
+                ],
+                "This subject is not available for students admitted in any other courses."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-CU Master of Clinical Ultrasound"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Interpretation of case studies assessed by structured questions pertaining to each case (5 MCQ per case) - Total time is 500 minutes. 5000 words (equivalent)",
+            "timing": "Prior to semester completion",
+            "percentage": "100%"
+        },
+        {
+            "description": "Hurdle requirement:. Submission of logbook of 50 clinical ultrasound cases performed in the students' workplace.",
+            "timing": "Prior to semester completion.",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "An estimated 30 hours of contact time for online study is required"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - Online": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "An estimated 30 hours of contact time for online study is required"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-ultrasound/"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "https://study.unimelb.edu.au/find/courses/graduate/master-of-clinical-ultrasound/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "All course materials will be provided during the course."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available to part-time and full-time students",
+            "This subject is not available to Commonwealth Supported students.",
+            "This subject is not available as breadth.",
+            "Administration is via e-mail."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

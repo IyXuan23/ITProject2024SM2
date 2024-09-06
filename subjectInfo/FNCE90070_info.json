@@ -1,0 +1,112 @@
+{
+    "subject name": "Experimental Methods in Decision Studies",
+    "subject code": "FNCE90070",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject involves in-depth analysis of experimental design used for the study of human decision-making. The focus is on the experimental research pipeline. This includes the design of experiments involving human participants and related data analysis in the context of theoretical models of choice under uncertainty, inter-temporal choice, and complex choice situations. The subject also includes topics of good scientific practice and meta-research."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify an open research question in the field and generate a corresponding research hypothesis that can be tested experimentally.",
+        "Design an experiment appropriate to testing or exploring theories about human decision-making.",
+        "Design and validate a data analysis pipeline that is appropriate for the scientific question at hand.",
+        "Critically evaluate experimental research studies.",
+        "Identify good research practices and explain their relevance."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Draft research proposal. 1000 words",
+            "timing": "From Week 7 to Week 8",
+            "percentage": "15%"
+        },
+        {
+            "description": "Reviews of peers' draft research proposal (2 x 400 words reviews). 800 words",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final research proposal (including updated draft). 2500 words. Hurdle requirement:. Students need to achieve a passing grade (of 50%) on the final research proposal to pass the subject.",
+            "timing": "Week 12",
+            "percentage": "35%"
+        },
+        {
+            "description": "Peer-feedback on research proposal ( 2 x 200 word feedback survey). 400 words",
+            "timing": "First week of the examination period",
+            "percentage": "5%"
+        },
+        {
+            "description": "Participation on asynchronous discussion (one contribution per week). 100 words (equivalent)",
+            "timing": "From Week 1 to Week 12",
+            "percentage": "5%"
+        },
+        {
+            "description": "Article presentations (in groups, 20 minutes, fortnightly). 1000 words (equivalent)",
+            "timing": "From Week 1 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Learning matrix assignment (in groups, 10 minutes, fortnightly). 500 words (equivalent)",
+            "timing": "From Week 1 to Week 12",
+            "percentage": "15%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Pablo Franco Ulloa"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours (one 3-hour workshop per week)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "subject name": "Professional Psychology Placement 2",
+    "subject code": "PSYC90116",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides students with further opportunities to put into practice the knowledge and skills acquired in earlier subjects in this course and extends their practical experience gained through Professional Psychology Placement 1. Students will be given further opportunity to engage with simulated client interactions and role-plays, and they will also be given the opportunity to practice their skills with patients in a variety of clinical contexts under the supervision of a registered psychologist. They will also receive training in the delivery of psychology services via telehealth modalities. To complete the subject students will investigate an individual research question relevant to professional practice and submit a written report of a case study including assessment, formulation, literature review, tailored intervention, and outcome monitoring."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Recognise the clinical features of mental health disorders, problem-oriented interviewing and communication, formal clinical examination, diagnostic formulation, and case presentation;",
+        "Identify the principles underlying the delivery of psychology services via telehealth modalities;",
+        "Demonstrate knowledge of research principles and methods applicable to the study of professional psychology."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PSYC90006",
+                    "PSYC90007",
+                    "PSYC90011",
+                    "PSYC90031",
+                    "PSYC90114",
+                    "PSYC90115"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Written report- addressing aspects of telehealth delivery of psychological services. 1500 words. Hurdle requirement:. For the purposes of meeting this hurdle requirement, the assessment must be complete and constitute a genuine attempt to address the requirements of the task.",
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Completion of simulated and actual patient case work - assessment, diagnosis and intervention planning (Pass/fail). 220 hours. Hurdle requirement:. For the purposes of meeting this hurdle requirement, the assessment must be complete and constitute a genuine attempt to address the requirements of the task.",
+            "timing": "Throughout the semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "Written report of an independent single case study relevant to professional practice including assessment, case formulation, literature review, tailored intervention, and outcome monitoring. 2500 words. Hurdle requirement:. For the purposes of meeting this hurdle requirement, the assessment must be complete and constitute a genuine attempt to address the requirements of the task.",
+            "timing": "End of semester",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Lisa Catania"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Principal Supervisor: Lisa Catania"
+                ],
+                "email": [
+                    "lisa.catania@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "subject name": "Introduction to the IB",
+    "subject code": "EDUC90333",
+    "subject availability": [
+        "Term 1 - Online",
+        "Term 3 - Online"
+    ],
+    "overview": [
+        "This subject introduces participants to the International Baccalaureate (IB), as a philosophy and framework for learning and teaching. It examines the essential elements of the IB model including the IB mission statement, and the Primary Years Programme (PYP), Middle Years Programme (MYP), and Diploma Programme (DP). Participants will focus on developing understandings of international education, values education, and the centrality of the Learner Profile to an IB education as well as exploring theoretical implications of international mindedness in the IB\u2019s programmes."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate knowledge and understanding of the philosophies, values and history underpinning the International Baccalaureate programmes;",
+        "Demonstrate an understanding of the centrality of the IB Mission Statement to an IB education;",
+        "Articulate the centrality of the Learner Profile to an IB education and the implications for learning and teaching in the IB;",
+        "Critically analyse the role of the IB programmes within a broader education landscape;",
+        "Articulate theoretical understandings and implications of operating a curriculum that has a clear internationalist ideology."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Critical reading presentation (in pairs, 500 words per student; 1000 words equivalent for the subject). 10 minutes",
+            "timing": "From Week 2 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "Learner profile presentation (1500 words equivalent). 15 minutes",
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "description": "International education essay. 3000 words",
+            "timing": "Week 9",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Term 1 - Online": [
+                {
+                    "Principal coordinator": "Nicky Dulfer"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "24"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "22 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "Week 0 (week before term begins): optional webinar to test online tools."
+                },
+                {
+                    "Teaching period": "29 January 2024 to 24 March 2024"
+                },
+                {
+                    "Last self-enrol date": "23 January 2024"
+                },
+                {
+                    "Census date": "16 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "8 March 2024"
+                },
+                {
+                    "Assessment period ends": "31 March 2024"
+                }
+            ]
+        },
+        {
+            "Term 3 - Online": [
+                {
+                    "Coordinator": "Stephen Chatelier"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "24 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "15 July 2024"
+                },
+                {
+                    "Pre teaching requirements": "Week 0 (week before term begins): optional webinar to test online tools."
+                },
+                {
+                    "Teaching period": "22 July 2024 to 15 September 2024"
+                },
+                {
+                    "Last self-enrol date": "16 July 2024"
+                },
+                {
+                    "Census date": "9 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "30 August 2024"
+                },
+                {
+                    "Assessment period ends": "22 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Term 1": {
+                "name": [],
+                "email": [
+                    "continuing-education@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Term 3": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "\"International Baccalaureate\" is a registered trademark of the International Baccalaureate Organization"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "https://study.unimelb.edu.au/find/courses/graduate/master-of-international-education-international-baccalaureate/"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

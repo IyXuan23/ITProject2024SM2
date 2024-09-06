@@ -1,0 +1,123 @@
+{
+    "subject name": "Landscape Ecology",
+    "subject code": "FRST90015",
+    "subject availability": [
+        "Semester 1 (Early-Start)"
+    ],
+    "overview": [
+        "The interactions between spatial context and ecosystem composition and structure can have a significant influence on the management of our natural environment. Spatial and temporal patterning of ecosystems can influence ecosystem functioning which in turn can affect resource availability for flora and fauna, dynamics of plant communities, and lead to the alteration of disturbance regimes. Humans play a critical role in shaping the spatial context on ecosystems within landscapes, both creating and affecting these relationships. This subject will cover the principles of landscape ecology with a focus on understanding how spatial heterogeneity, spatial extent, agents of change (i.e. fire, climate) and the role of humans (i.e. forest management, urbanisation) influence ecosystem patterns and in turn ecological processes (i.e. plant migration, meta-population dynamics, provisioning of ecosystem services). Case studies will be drawn from international and domestic examples from urban, agricultural, and forested landscapes.",
+        "",
+        "This subject will involve lectures, practicals and a 3-day field trip."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate the key principles of landscape ecology including spatial heterogeneity, spatial extent, landscape-level ecological processes and role of humans in shaping landscape patterns and processes;",
+        "Recognise and apply pattern-process relationships in a wide diversity of landscape types and geographical locations;",
+        "Explain how changes in spatial patterns (i.e. fragmentation, connectivity, heterogeneity) impact on the conservation of flora and fauna;",
+        "Demonstrate how human decisions and actions modify landscape patterns and processes and then predict and discuss the ecological implications for this locally, regionally and globally; and",
+        "Use geographic information systems (GIS) and mechanistic models to investigate and identify spatial patterns and ecological processes at variety of spatial extents."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Long essay. 1500 words",
+            "timing": "Week 8",
+            "percentage": "30%"
+        },
+        {
+            "description": "Individual oral presentation (500 words). 10 minutes",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Landscape Ecology Project. 3000 words",
+            "timing": "Due throughout weeks 4, 6, 8,10, 12 and in the assessment period.",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Principal coordinator": "Craig Nitschke"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total contact 72 hours = lectures 24 hours (12 weeks x 2 hours), practicals 24 hours (12 weeks x 2 hours) field trip 24 hours (3 days x 8 hours). Note that the field trip is scheduled from Monday to Wednesday in the week immediately prior to the commencement of Semester 1."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "19 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "1 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Associate Professor Craig Nitschke"
+                ],
+                "email": [
+                    "craign@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Turner MG, RH Gardner. 2015. Landscape Ecology in Theory and Practice: Pattern and Process 2nd Ed. Springer, New York.",
+                    "Gergel SE, Turner MG. 2017. Learning Landscape Ecology: A Practical Guide to Concepts and Techniques 2nd Ed. Springer, New York."
+                ]
+            }
+        ],
+        "Incidental costs": [
+            "Students may be asked to contribute to travel and accommodation expenses while in the field."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

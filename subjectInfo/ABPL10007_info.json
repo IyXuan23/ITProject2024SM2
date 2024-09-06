@@ -1,0 +1,165 @@
+{
+    "subject name": "Environmental Technologies",
+    "subject code": "ABPL10007",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "The subject focuses on the basic principles and concepts of Environmentally Sustainable Design (ESD) and tectonic design to develop design ideas and translate them into built form. Students learn about passive design strategies, structures, materials' physical and ecological properties, conventional and innovative construction techniques, and life-cycle issues to reshape the built environment.",
+        "Through analysis, observation, experimentation, testing and review, students explore how design ideas can become environmentally sustainable buildings. They also explore how such buildings interact with natural environments and the inhabitants. Human comfort is discussed as a goal that should be achieved by considering the challenges and opportunities for the built environment to create a better social and environmental future."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify the possible interactions between natural and built environments to achieve human comfort through Environmentally Sustainable Design (ESD).",
+        "Apply passive design strategies and design complementary active systems and services to assure high Internal Environmental Quality (IEQ) performance.",
+        "Identify and apply structural principles and material systems that underpin the design of the built environment.",
+        "Use drawing conventions and technical vocabulary. Demonstrate an understanding of the challenges of technical representation.",
+        "Draw on evidence and a critical perspective to reflect on the future challenges and opportunities for sustainable construction."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ARCH10001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ABPL20036"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment 1: : Site Analysis (group Work) \u2013 Verbal presentation and A3 drawing set. 400 words (equivalent)",
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "description": "Assignment 2: : ESD project (individual work) \u2013 A3 drawing set. 2000 words (equivalent)",
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "description": "Assignment 3: :Tectonic project (individual work) \u2013 A3 drawing set. 1000 words (equivalent)",
+            "timing": "Week 14",
+            "percentage": "25%"
+        },
+        {
+            "description": "Weeky Quiz. 600 words (equivalent)",
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Xavier Cadorel"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1X2  hour lecture  (including online learning (30min) and lectures (90min)) and 1X2 hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Xavier Cadorel"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1X2  hour lecture  (including online learning (30min) and lectures (90min)) and 1X2 hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

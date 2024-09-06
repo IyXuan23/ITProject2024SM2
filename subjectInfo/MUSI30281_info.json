@@ -1,0 +1,121 @@
+{
+    "subject name": "Advanced Harmonic Studies",
+    "subject code": "MUSI30281",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces Jazz & Improvisation students to advanced harmonic concepts and techniques.",
+        "Through practical performance activities, deep listening exercises and transcription, students acquire tools to creatively navigate highly chromatic and atonal environments as players and listeners.",
+        "This subject is only available to students enrolled in theJazz and Improvisationmajor of the B-MUS Bachelor of Music."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "perform highly chromatic and atonal melodies, and harmonic structures;",
+        "transcribe highly chromatic and atonal melodies, and harmonic structures;",
+        "aurally distinguish intervals in highly chromatic and atonal performance contexts."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MUSI20180"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the Jazz & Improvisation major in the B-MUS Bachelor of Music"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MUSI30238 Advanced Harmonic and Rhythmic Studies"
+    ],
+    "assessments": [
+        {
+            "description": "One 3-minute viva voce practical demonstration (video submission). 7.5 hours (of work required)",
+            "timing": "Early in the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Transcribe a 2 to 3-minute piece of music. 17.5 hours (of work required)",
+            "timing": "End of the teaching period",
+            "percentage": "35%"
+        },
+        {
+            "description": "One 5-minute performance of a transcription along with the original recording. 12.5 hours (of work required)",
+            "timing": "Late in the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "One notated transcription with accompanying analysis, equivalent to 500 words. 12.5 hours (of work required)",
+            "timing": "During the assessment period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum of 80% of all scheduled classes and performances as directed.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Andrea Meagher"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "12 hours, comprising one 1-hour practical class per week"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Andrea Keller-Meagher:"
+                ],
+                "email": [
+                    "andrea.keller@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

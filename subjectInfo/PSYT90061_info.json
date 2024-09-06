@@ -1,0 +1,167 @@
+{
+    "subject name": "Psychopharmacology",
+    "subject code": "PSYT90061",
+    "subject availability": [
+        "July - On Campus",
+        "July - Online"
+    ],
+    "overview": [
+        "This selective will provide a brief revision of basic pharmacological principles of pharmacokinetics and pharmacodynamics including the relevance of age, gender, ethnicity, common drug interactions, environmental influences, route of administration. The primary focus of the different seminars will be the major drug types commonly used in psychiatric practice including the underlying neurochemical basis for their use in specific disorders and specified primary target syndromes and symptoms."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "To describe the basic pharmacological principles and their relevance to clinical prescribing",
+        "To underline the theoretical underpinnings of the common psychiatric disorders such as depression and psychoses, and discuss the underlying basis for the use of specific psychotropic medications",
+        "To critically analyse the literature on drug trials",
+        "To apply a rational and practical approach to prescribing psychotropics including the management of side effects, the drug-resistant patient, use in specific patient groups such as the medically unwell, pregnant and lactating patients and the elderly patient",
+        "To discuss the presentation and management of drug induced movement disorders"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A pharmacokinetic calculation exercise based on formulae discussed in the lecture material, approx. 1 hour. 1 hours",
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Two short answer exercises based on case material (approximately 500 words each). 500 words (each)",
+            "timing": "End of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "A critical analysis exercise based on case material (approximately 500 words). 500 words",
+            "timing": "End of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance at 75% of sessions (for face-to-face students) OR completion of 75% of online modules (for online students).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "July - On Campus": [
+                {
+                    "Coordinators": "Trevor Norman and Mahesh Jayaram"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to  9 August 2024"
+                },
+                {
+                    "Last self-enrol date": "9 July 2024"
+                },
+                {
+                    "Census date": "19 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "16 August 2024"
+                },
+                {
+                    "Assessment period ends": "9 September 2024"
+                }
+            ]
+        },
+        {
+            "July - Online": [
+                {
+                    "Principal coordinator": "Mahesh Jayaram"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "6 weekly x 3.5 hr modules"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Pre teaching start date": "24 June 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period, students should familiarise themselves with the online platform and may like to take the opportunity to read through preliminary information about the subject and the services and support that is available to them. Students are encouraged to use this time to also introduce themselves to peers and teaching staff and to learn about those they will be studying with throughout the term."
+                },
+                {
+                    "Teaching period": "1 July 2024 to  9 August 2024"
+                },
+                {
+                    "Last self-enrol date": "25 June 2024"
+                },
+                {
+                    "Census date": "12 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "9 August 2024"
+                },
+                {
+                    "Assessment period ends": "9 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Leonard B, Fundamentals of Psychopharmacology, 2nd edition, Wiley &Sons, Europe 1997",
+                    "Stahl S M, Essential Psychopharmacology: neuroscientific Basis and Practical Applications, Cambridge University Press, Cambridge, 2000."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available through theCommunity Access Program (CAP), subject to applicants meeting the entry requirements for the course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Students wishing to take this subject under Community Access must meet the course entry requirements to be eligible.",
+                    "Students wishing to take this subject under Community Access must meet the course entry requirements to be eligible."
+                ]
+            }
+        ]
+    }
+}

@@ -34,7 +34,7 @@ def scrapeOfferedLinks(numOfPages, targetArray, url, fileName):
                 targetArray.append([courseCode, courseName, newLink])
 
         print("scrapped page" + str(i))
-        i += 1    
+        i += 1   
 
     filePath = os.path.join('linkStorage', fileName)
     #store in json for quick access

@@ -1,0 +1,167 @@
+{
+    "subject name": "Sensing and Measurement",
+    "subject code": "GEOM20015",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject will introduce students to principles, technologies and procedures used for sensing and measurement of different physical environments and explore how the collected information supports decision making in various applications. This subject explains the theoretical and practical aspects of mapping the physical world to a digital representation. Students will learn the concept of a digital twin, the role of sensing and measuring for connecting the physical world with its digital representations, and exemplary applications of sensing and measuring in the domain of infrastructure engineering. The practical sessions will give hands-on experience with a range of sensing and measurement technologies in a problem-solving context. Students who develop proficiency in the practice of this subject will be able to apply this knowledge in the workplace for capturing and sensing the environment.",
+        "The subject content is based on the fundamental insight that, since no exact measurement exists, we always observe phenomena with uncertainty. Error theory and concepts of sensing and measurement are discussed and accompanied by computations such as levelling, traversing, IoT, positioning, deformation monitoring, map projections and the shape of the Earth, data capturing, map preparation and incorporation of field surveys into drafting, modelling applications, and Digital Twins. The fieldwork will make arrangements for on-campus and online students.",
+        "Please view this video for further information:Sensing and Measurement"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "SILO 1. Apply knowledge of basic science fundamentals relevant to spatial systems;",
+        "SILO 2. Design and acquire field sensing and measurements using modern technologies in a team;",
+        "SILO 3. Process measurements to produce various outputs showing real environment and elevation with appropriate accuracy and visual representation;",
+        "SILO 4. Incorporate captured data into modelling and drafting software packages;",
+        "SILO 5. Apply the processes involved in representing the contiguous real world in a metric abstracted form."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-SPATENG Master of Spatial Engineering",
+                "MC-DINFENG Master of Digital Infrastructure Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "VCE mathematics"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "equivalent"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual Assessment: \r\nOral  Practical Exam.  (15 minute duration requiring approximately 40 hours of work).\r\nAddressing Intended Learning Outcomes (ILO)'s 1 and 2.. 15 minutes",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "One  Individual online test (30 minute duration requiring 12 hours of work). \r\nAddressing ILO's 1 and 2.. 30 minutes",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "One individual online test (30 minute duration requiring 12 hours of work).\r\nAddressing ILO's 1 and 2.. 30 minutes",
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group Assessment:\r\nThree group reports \r\n(10% each) (1000 words \r\nequivalent per report) \r\nshowing progress through the fieldwork \r\ntasks (which have \r\narrangements for on campus and online \r\nstudents). Due in weeks 4, 5 and 7.\r\nAddressing ILO's 1 -5.. 40 hours (of work required)",
+            "timing": "From Week 4 to Week 7",
+            "percentage": "30%"
+        },
+        {
+            "description": "Group Assessment: One group report (2000 words equivalent per report) showing competency through fieldwork tasks.   Addressing ILO's 1 - 5.. 25 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinators": "Davood Shojaei and Amir Khodabandeh"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Flipped classroom:\r\n1 hour on video-recorded material per week;\r\n1 hour on interactive practice session per week.\r\nLabs:\r\n 3 hours with a demonstrator per week; Self-guided research/lab hours for the project"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Davood Shojaei"
+                ],
+                "email": [
+                    "shojaeid@unimelb.edu.au",
+                    "akhodabandeh@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

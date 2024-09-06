@@ -1,0 +1,133 @@
+{
+    "subject name": "Study Design in Clinical Research",
+    "subject code": "CLRS90011",
+    "subject availability": [
+        "March"
+    ],
+    "overview": [
+        "Identifying the most appropriate study design is important for generating the best evidence to answer a clinical research question. A well-designed study will clearly identify a range of variables including the participant population, the intervention or exposure of interest and the outcomes to be investigated and how data will be collected. Understanding the various indications for different study designs is important for not only devising a new study but also for critically reviewing published studies.",
+        "This subject will provide students with an in-depth understanding of the principles and application of a variety of study designs in a clinical/medical setting. Key areas that will be covered include:",
+        "1. examining the range of quantitative, qualitative and mixed-methods approaches such as",
+        "experimental and quasi-experimental, cohort, cross-sectional and single-subject designs;",
+        "participant observation, in-depth interviews, case-studies, focus groups and artefact analysis designs;",
+        "screening, preventive and genetic/biomarker trials",
+        "construction and administration of surveys and questionnaires and;",
+        "the use of clinical bioinformatics, e-health and large population datasets.",
+        "2. strategies for matching study aims/objectives with selection of an appropriate study design3. exploring sources of bias in research such as randomization, allocation, concealment and blinding and their relationship to the principles of internal and external validity4. using published reporting guidelines (eg CONSORT statement) to aid in the design and reporting of a study5. participant recruitment/retention/attrition, outcome measure selection and the application of power calculations6. the principles of drug evaluation and regulation"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "describe the essential elements of a range of quantitative, qualitative and mixed-methods study designs",
+        "critically appraise the application, strengths and limitations of a range of quantitative, qualitative and mixed-methods study designs",
+        "develop a strategy to identify and select an appropriate study design required to answer a specific research question.",
+        "critically discuss the implications of poor study design, or inappropriate design selection, on outcome selection, measurement and analysis",
+        "discuss issues associated with the concepts of internal and external validity.",
+        "design a clinical research study and justify selection of different design elements",
+        "demonstrate expertise in reporting on the critical appraisal and quality assessment of published clinical research studies"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CLRS90027"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Examination (equivalent to 1000 words) on the last day of intensive teaching period. 60 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "2 x 10min group presentation during the intensive teaching period, describing a critical evaluation of a selection of published clinical research trials (equivalent to 2000 words). 20 minutes (total)",
+            "timing": "During the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Design and critical discussion/justification of a clinical research study using a scenario selected by negotiation with the Subject Co-ordinators. 2000 words (equivalent)",
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "March": [
+                {
+                    "Coordinator": "Monira Hussain"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "25 March 2024 to 28 March 2024"
+                },
+                {
+                    "Last self-enrol date": "25 March 2024"
+                },
+                {
+                    "Census date": "5 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "26 April 2024"
+                },
+                {
+                    "Assessment period ends": "6 May 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "March": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://study.unimelb.edu.au/find/courses/graduate/graduate-certificate-in-clinical-research/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Students will be provided with articles and references that support the teaching program as part of their course materials."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

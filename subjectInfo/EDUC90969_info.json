@@ -1,0 +1,179 @@
+{
+    "subject name": "IB MYP Advanced",
+    "subject code": "EDUC90969",
+    "subject availability": [
+        "Term 2 - Online",
+        "Term 4 - Online"
+    ],
+    "overview": [
+        "This subject will explore the Middle Years Programme (MYP) standards and practices guidelines. The principles of instructional design and the role of collaborative working practice for learning and teaching will be explored in order to address the expectations and requirements of specific subject areas. There will be a focus on developing interdisciplinary links and reflecting the learner profile through the evaluation and selection of appropriate teaching and learning materials. Issues and approaches for differentiating learning and teaching and responding to diverse learning characteristics will also be addressed."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Examine principles of instructional design and the role of collaborative working practice for learning and teaching that incorporate MYP standards and practices",
+        "Investigate and apply principles of instructional design for developing curriculum that meets the expectations and requirements of specific subjects and differentiates learning and teaching activities in response to diverse learning characteristics",
+        "Articulate strategies for developing interdisciplinary links and embedding the learner profile in MYP curriculum",
+        "Explain the relationship between curriculum, methodology and assessment in specialised disciplines"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC90331",
+                    "EDUC90333",
+                    "EDUC90968"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Critical reading task. 500 words (equivalent)",
+            "timing": "From Week 2 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written task: MYP unit planner. 2250 words",
+            "timing": "Week 5",
+            "percentage": "45%"
+        },
+        {
+            "description": "Presentation: interdisciplinary learning (20 minutes). 2250 words (equivalent)",
+            "timing": "Week 8",
+            "percentage": "45%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Term 2 - Online": [
+                {
+                    "Coordinator": "Stephen Chatelier"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "24 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "22 April 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are required to complete reading that will be provided via LMS."
+                },
+                {
+                    "Teaching period": "29 April 2024 to 23 June 2024"
+                },
+                {
+                    "Last self-enrol date": "23 April 2024"
+                },
+                {
+                    "Census date": "17 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "7 June 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "Term 4 - Online": [
+                {
+                    "Coordinator": "Stephen Chatelier"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "24 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "7 October 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are required to complete reading that will be provided via LMS."
+                },
+                {
+                    "Teaching period": "14 October 2024 to  8 December 2024"
+                },
+                {
+                    "Last self-enrol date": "8 October 2024"
+                },
+                {
+                    "Census date": "1 November 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "22 November 2024"
+                },
+                {
+                    "Assessment period ends": "15 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Term 2": {
+                "name": [],
+                "email": [
+                    "schatelier@unimelb.edu.au",
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        },
+        {
+            "Term 4": {
+                "name": [],
+                "email": [
+                    "schatelier@unimelb.edu.au",
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Students are required to meet the requirements of this subject, as listed on theeligibility and requirementspage of the Handbook",
+                    "Students are required to meet the requirements of this subject, as listed on theeligibility and requirementspage of the Handbook"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

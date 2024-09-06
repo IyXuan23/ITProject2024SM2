@@ -1,0 +1,182 @@
+{
+    "subject name": "Principles of Ultrasound Heart Scan",
+    "subject code": "MEDI90049",
+    "subject availability": [
+        "Semester 1 - Online",
+        "Semester 2 - Online"
+    ],
+    "overview": [
+        "This subject will outline a physics related to medical ultrasound use; an introduction to transthoracic echocardiography using the focused assessment technique HEARTscan (Haemodyanmic Echocardiography Assessment in Real Time).",
+        "Topics include:",
+        "The role of Echocardiography in Perioperative and Critical Care Medicine",
+        "Optimising Ultrasound Images (Knobology)",
+        "Physics/Modes of Ultrasound/Transducers",
+        "Anatomy of the Heart",
+        "Anatomy of the Valves",
+        "Comprehensive Transthoracic Echocardiography Examination",
+        "Basic Haemodynamic State Assessment",
+        "HEARTscan Valves",
+        "HEARTscan Case Studies",
+        "Comprehensive Transoesophageal Echocardiography Examination Artefacts"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the physics related to ultrasound generation",
+        "Understand the different modes of ultrasound, including M-mode, two-dimensional imaging, Doppler ultrasound and colour flow mapping",
+        "Understand transducer design principles",
+        "Understand the basis of artefact generation",
+        "Understand the basis of optimising ultrasound images",
+        "Understand how to obtain transthoracic echocardiography images",
+        "Understand basic assessment of haemodynamic state",
+        "Understand basic valve assessment using colour flow and two-dimensional imaging",
+        "Interpret and complete a HEARTscan study",
+        "Review 20 HEARTscan studies"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "Admission into or selection of one of the following:GC-CLINUS Graduate Certificate in Clinical UltrasoundGD-CLINUS Graduate Diploma in Clinical UltrasoundMC-CU Master of Clinical UltrasoundGD-PERIMED Graduate Diploma in Perioperative Medicine",
+                "GC-CLINUS Graduate Certificate in Clinical Ultrasound",
+                "GD-CLINUS Graduate Diploma in Clinical Ultrasound",
+                "MC-CU Master of Clinical Ultrasound",
+                "GD-PERIMED Graduate Diploma in Perioperative Medicine",
+                "GC-CLINUS Graduate Certificate in Clinical Ultrasound",
+                "GD-CLINUS Graduate Diploma in Clinical Ultrasound",
+                "MC-CU Master of Clinical Ultrasound",
+                "GD-PERIMED Graduate Diploma in Perioperative Medicine",
+                "This subject is not available for students admitted in any other courses."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MEDI90125",
+        "MEDI90112",
+        "MEDI90129",
+        "MEDI90142"
+    ],
+    "assessments": [
+        {
+            "description": "One open-book multiple-choice examination consisting of 50 questions, students will have 1 week to complete the examination",
+            "timing": "During the assessment period",
+            "percentage": "80%"
+        },
+        {
+            "description": "Completion of self assessment modules at the end of each tutorial",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "Delivered online"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - Online": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "Delivered online"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "https://study.unimelb.edu.au/find/courses/graduate/graduate-certificate-in-clinical-ultrasound/"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "https://study.unimelb.edu.au/find/courses/graduate/graduate-certificate-in-clinical-ultrasound/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Royse C, Donnan G, Royse A. Pocket Guide to Perioperative and Critical Care Echocardiography. 2006; McGraw-Hills"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is not available to Commonwealth Supported Students.",
+            "This subject is not available as breadth.",
+            "Administration is via e-mail"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "subject name": "Integrated Musical Practice 2",
+    "subject code": "MUSI40089",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "Vocal and instrumental students will further develop technique, stylistic awareness and interpretative insight through an individually designed program of repertory. Individual and group lessons, and sustained individual practice enable the preparation of a mid-semester presentation and an end-of-semester performance contextualised by program notes."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "demonstrate understanding and application of a key aspect of repertoire relevant to their performance area;",
+        "demonstrate an understanding of issues of musical style;",
+        "present a musically cohesive recital program, contextualised by accompanying program notes;",
+        "further develop skills in performing the component works of a program with technical and musical capability."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MUSI40088"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "In-class presentation on the performance practice or historical context of a single work to be performed in the final recital, mid-semester. 10 minutes",
+            "timing": "From Week 5 to Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final recital. 20 minutes",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Program note accompanying the performance. 500 words",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Ken Murray"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "15 hours comprising, twelve 30-minute lessons, four 2-hour group classes, and initial 30-minute consultation with coordinator"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Ken Murray"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "15 hours comprising, twelve 30-minute lessons, four 2-hour group classes, and initial 30-minute consultation with coordinator"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Ken Murray:",
+                    ""
+                ],
+                "email": [
+                    "kenjm@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Ken Murray:",
+                    ""
+                ],
+                "email": [
+                    "kenjm@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

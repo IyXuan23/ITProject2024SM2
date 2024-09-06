@@ -1,0 +1,108 @@
+{
+    "subject name": "Flora of Victoria",
+    "subject code": "BOTA90005",
+    "subject availability": [
+        "Summer Term"
+    ],
+    "overview": [
+        "This subject is designed for students wishing to take a summer course, and who are interested in the biology of native plants and plant communities and environments in Victoria. It is suited to students studying environmental science or environmental studies.",
+        "Topics covered include:",
+        "biogeographic regions of Victoria: climate, landforms, geology, soils and vegetation types;",
+        "biology of Victorian plants: intraspecific variation and adaptation to local conditions, ecotypes and clines, mallee plants, coastal plants, alpine plants;",
+        "conservation and threats to the Victorian flora: weeds, diseases, pests, fire, extinctions."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "examine the biogeography and biology of the Victorian flora",
+        "appraise and classify Victorian plants",
+        "investigate the evolutionary history,  threats to and the conservation value of  Victoria's ecosystems"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written assignments. 1500 words (total)",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written assignment. 3000 words",
+            "timing": "At the start of Semester 1",
+            "percentage": "25%"
+        },
+        {
+            "description": "A written examination in the summer semester examination period. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "65%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Principal coordinator": "Mike Bayly"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "21 hours of lectures and 33 hours of practical work, including fieldwork, full-time over two weeks in early February"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "5 February 2024 to 15 February 2024"
+                },
+                {
+                    "Last self-enrol date": "7 February 2024"
+                },
+                {
+                    "Census date": "12 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "16 February 2024"
+                },
+                {
+                    "Assessment period ends": "29 February 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [],
+                "email": [
+                    "mbayly@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -88,7 +88,7 @@
         {
             "Semester 2": [
                 {
-                    "Coordinators": "Bella Gu and Leopold Ried"
+                    "Coordinator": "Leopold Ried"
                 },
                 {
                     "Mode of delivery": "On Campus (Parkville)"
@@ -131,10 +131,10 @@
         {
             "Semester 2": {
                 "name": [
-                    "Dr Bella Gu"
+                    "Dr Leopold Ried"
                 ],
                 "email": [
-                    "bella.gu@unimelb.edu.au"
+                    "leopold.ried@unimelb.edu.au"
                 ]
             }
         }

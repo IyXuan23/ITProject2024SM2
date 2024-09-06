@@ -1,0 +1,161 @@
+{
+    "subject name": "Communication Networks",
+    "subject code": "ELEN90061",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject introduces the basic principles, analysis, and design of communication networks. It covers relevant analytical methods, the layered network architecture of the Internet, and a multitude of network protocols.",
+        "Analytical tools from queueing, optimisation, and graph theories are used to develop an in-depth understanding of basic principles and the role they play in network design. Specifically, queueing and graph theories are emphasised as methodological frameworks for communication network delay and structure analysis.",
+        "The concepts taught in this subject lead to a better understanding of the Internet as well as modern communication paradigms such as Software-Defined Networks, Machine-to-Machine communication, Internet of Things, and social networks.",
+        "Topics covered may include:",
+        "The layered network architecture with a focus on physical-layer multiple access (TDM, FDM, WDM), link layer protocols and medium access control (MAC), network layer topologies, least-cost routing algorithms and protocols, transport layer protocols and the principles and techniques of practical reliable transport;",
+        "LAN protocols, Ethernet, Wi-Fi, and serial communications;",
+        "The Internet's network layer including the Internet Protocol (IP) and routing protocols including an introduction to BGP and the operation of forwarding tables in routers and shortest prefix routing;",
+        "The Internet's transport layer protocols UDP and TCP, including the flow and congestion control algorithms;",
+        "Network security, application layer, cloud and fog computing, Machine-to-Machine communication, and Internet of Things;",
+        "Queuing theory: basics, birth-death processes, M/M/x and Markovian queues, networks of queues;",
+        "Basics of graph theory and social network analysis relevant to communication networks."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse, design, and simulate modern communication networks by drawing upon cognitive, technical, and creative skills",
+        "Quantitatively analyse and synthesise modern communication networks by applying fundamental engineering modelling methods",
+        "Demonstrate mastery of theoretical knowledge on basic concepts related to communication network design, the layered architecture, and relevant network protocols, and their relationship and to reflect critically on their theory and professional practice",
+        "Apply fundamental techniques from communication networks to address problems associated with engineering systems and use numerical and simulation tools when appropriate while working in a small team",
+        "Demonstrate technical research skills on communication networks to justify and interpret related engineering solutions, methodologies, conclusions, and professional decisions",
+        "Communicate effectively with specialist audiences as well as professionals across different engineering disciplines, through media such as concise technical reports and informational videos or live presentations"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ELEN90054"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ELEN40005 Communication Networks"
+    ],
+    "assessments": [
+        {
+            "description": "A one-hour progress test. 1 hours. Hurdle requirement:. Total of all individual hurdle assessments must be passed",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "A one-hour progress test. 1 hours. Hurdle requirement:. Total of all individual hurdle assessments must be passed",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Continuous individual assessment of project work, including peer assessment, not exceeding 50 pages per student over the semester. Approximately 50 hours of work per student. 50 hours (of work required). Hurdle requirement:. Total of all individual hurdle assessments must be passed",
+            "timing": "Throughout the teaching period",
+            "percentage": "55%"
+        },
+        {
+            "description": "Submission of a final team report not exceeding 30 pages, including an individual contribution statement. Approximately 30 hours of work per team (3-4 students). 30 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Rajitha Senanayake"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures and up to 24 hours of workshops"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "rajitha.senanayake@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "TBA"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    [
+                        "Computer Networking: A Top Down Approach Featuring the Internet, 6th edition. Jim Kurose, Keith Ross, Addison-Wesley, 2012",
+                        "Computer Networks, 5th edition. Andrew S. Tanenbaum , David J. Wetherall, Prentice Hall, 2010",
+                        "Data Networks: 2nd edition. Dimitri Bertsekas, Robert Gallager, Prentice-Hall, 1992",
+                        "Queuing Theory: Volume 1: Theory and Volume 2: Computer Applications, Leonard Kleinrock, John Wiley and Sons, 1975"
+                    ]
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through lectures and workshop classes that combine both tutorial and hands-on laboratory activities.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students are provided with lecture slides, tutorial worksheets and solutions, workshop notes, and reference text lists.",
+            "CAREERS / INDUSTRY LINKS",
+            "Exposure to networking standards and protocols used by industry throughout the world.",
+            "Exposure to industry standard engineering design automation tools through laboratory activities."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

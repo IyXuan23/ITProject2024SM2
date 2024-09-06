@@ -1,0 +1,125 @@
+{
+    "subject name": "Biomedicine Research Project Part 1",
+    "subject code": "MEDI40014",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to provide opportunities for students to gain an understanding in, and extend the practice of biomedical research.The student will conduct an original research project in a basic or clinical research laboratory under the supervision of a research scientist from the Dept during the period February to November.The student will be introduced to current literature and techniques in specialised areas.The research project will form part of a larger project or the basis of an expanded project. In both cases the work may culminate in an original research publication."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify the position of their research, and develop a hypothesis and the supporting aims required to test the hypothesis.",
+        "Solve problems and troubleshoot throughout the research period.",
+        "Extend the research observations to formulate ideas for future scope of the research.",
+        "Select, summarise and critically appraise published research in an area of clinical and biological sciences.",
+        "Identify and apply ethical conduct of animal and human experimental ethics, including regulatory requirements.",
+        "Demonstrate critical analysis and decision-making skills.",
+        "Compare and contrast the relevant literature in understanding the research question posed.",
+        "Conduct supervised research on a chosen research project and work effectively in a team environment and autonomously at times.",
+        "Effectively plan and organise research methodologies and techniques to be implemented.",
+        "Demonstrate excellent time management skills.",
+        "Communicate the method and findings of a research project in oral and written form. Engagement with the audience/examiner, maintaining interest from the audience and demonstrating adequate stage presence (eye contact, steady pace, confidence). Strong ability to answer questions confidently and with sound knowledge of the research area."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOM40001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Literature review and research plan. 3000 words. Hurdle requirement:. Achieve minimum H3 grade",
+            "timing": "Due end of March",
+            "percentage": "10%"
+        },
+        {
+            "description": "A research abstract (250 words in length) describing the research findings to date, followed by a 5-minute oral presentation to two examiners and 10 minutes of question time. 15 minutes. Hurdle requirement:. Achieve minimum H3 grade",
+            "timing": "Due in September",
+            "percentage": "5%"
+        },
+        {
+            "description": "A written research thesis. 10000 words. Hurdle requirement:. Achieve minimum H3 grade",
+            "timing": "Due before end of October",
+            "percentage": "75%"
+        },
+        {
+            "description": "Oral presentation of research project (15 minutes presentation + 5 minutes question time). 20 minutes. Hurdle requirement:. Achieve minimum H3 grade",
+            "timing": "Due early November",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Barbara White"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinator:",
+                    "Barbara Fam"
+                ],
+                "email": [
+                    "bcfam@unimelb.edu.au",
+                    "jmayall@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.austinmedicine.unimelb.edu.au/"
+        ]
+    }
+}

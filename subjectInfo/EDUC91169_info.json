@@ -1,0 +1,110 @@
+{
+    "subject name": "Learning Area Mathematics 3",
+    "subject code": "EDUC91169",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "In this third learning area subject, Teacher Candidates will consolidate their understandings of the theory and practice of teaching, and the Clinical Teaching Model, with particular attention given to the critique of contemporary issues and debates on Mathematics within Australia and beyond. Through this subject, Teacher Candidates are supported to become reflective teachers of Mathematics with an understanding of relevant and appropriate sources of professional learning for teachers. Teacher Candidates are also supported to become critical, informed members of the school community who are able to reflect on school and education curriculum and policies, as well as the resources and infrastructure available for Mathematics education.",
+        "The assessment tasks in this subject will support Teacher Candidates in strengthening their skills in identifying and adapting appropriate pedagogical practices to differentiate teaching and meet the specific needs of students of diverse backgrounds and abilities, including Aboriginal and Torres Strait Islander students, as well as critiquing and responding to key educational issues that impact on teaching and learning."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate strong Mathematics subject and pedagogical content knowledge including differentiation of teaching and content selection and organisation to meet the specific needs of students of diverse backgrounds and abilities, including Aboriginal and Torres Strait Islander students.",
+        "Select and integrate Mathematics teaching strategies and resources, including ICT, to meet the specific needs of students from diverse backgrounds, and to engage students in their learning.",
+        "Critically reflect on key educational issues and theories that impact on teaching and learning in Mathematics.",
+        "Identify appropriate sources of professional learning support and plan professional learning needs."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC91139"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "EDUC90460 Learning Area Mathematics (Additional) 2"
+    ],
+    "assessments": [
+        {
+            "description": "Resource\u202fFolio: Folio\u202fof teaching\u202fresources. 2500 words (equivalent)",
+            "timing": "Mid semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Report: Written report on current issues in Mathematics. 2500 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Attendance. Hurdle requirement:. A minimum of 80% attendance at, or engagement with, all sessions identified as contact hours (may include lectures, tutorials, seminars and workshops, both synchronous and asynchronous).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Scott Cameron"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of on-campus classes"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "scott.cameron@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "Faculty of Education:https://education.unimelb.edu.au/"
+        ]
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "subject name": "Declarative Programming",
+    "subject code": "COMP90048",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "Declarative programming languages provide elegant and powerful programming paradigms which every programmer should know. This subject presents declarative programming languages and techniques."
+    ],
+    "indicative content": [
+        "The dangers of destructive update",
+        "Functional programming",
+        "Recursion",
+        "Strong type systems",
+        "Parametric polymorphism",
+        "Algebraic types",
+        "Type classes",
+        "Defensive programming practice",
+        "Higher order programming",
+        "Currying and partial application",
+        "Lazy evaluation",
+        "Monads",
+        "Logic programming",
+        "Unification and resolution",
+        "Nondeterminism, search, and backtracking"
+    ],
+    "intended learning outcomes": [
+        "Apply declarative programming techniques",
+        "Write medium size programs in a declarative language",
+        "Write programs in which different components use different languages",
+        "Select appropriate languages for each component task in a project"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP20003",
+                    "COMP20007",
+                    "COMP90038"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "MC-SOFTENG Master of Software Engineering",
+                "MC-ENG Master of Engineering",
+                "MC-SCICMP Master of Science (Computer Science)",
+                "MC-CS Master of Computer Science",
+                "GC-CS Graduate Certificate in Computer Science"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                "Selection of one of the following:"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following: 100pt Program course entry point in the MC-IT Master of Information Technology, 150pt Program course entry point in the MC-IT Master of Information Technology",
+                "Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                "Distributed Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                "Artificial Intelligence specialisation (formal) in the MC-IT Master of Information Technology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "COMP30020"
+    ],
+    "assessments": [
+        {
+            "description": "Two small programming assignments, requiring approximately 3-5 hours each; Due Weeks 4 and 8-9 (5% each). Addressing Intended Learning Outcomes (ILOs') 1 and 2.. 10-16 hours (of work required). Hurdle requirement:. Please see below",
+            "timing": "From Week 4 to Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "Two programming projects, requiring approximately 12-20 hours each; Due Weeks 6 and 11-12 (15% each). Addressing Intended Learning Outcomes (ILOs') 1-4.. 20-30 hours (of work required). Hurdle requirement:. Please see below",
+            "timing": "From Week 6 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "One written, closed-book examination. Intended Learning Outcomes (ILO) 1.. 2 hours. Hurdle requirement:. Please see below",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Peter Schachte"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Peter Schachte"
+                ],
+                "email": [
+                    "schachte@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "This subject comprises 24 one-hour lectures plus 11 one-hour workshops combining group discussion and individual and small group programming work. Additionally, students develop two medium-size declarative programs for assessment.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "At the beginning of the semester, the coordinator will propose a textbook on declarative programming, which will be made available through University Book Shop and library. The current suggested textbook is Bryan O'Sullivan, John Goerzen & Don Stewart: Real World Haskell, O\u2019Reilly Media. This textbook can also be read online gratis. Lecture notes for the subject are also available online.",
+            "CAREERS / INDUSTRY LINKS",
+            "Over the last few years, the mainstream software industry has become quite interest in functional programming, as it promises more robust software by altogether avoiding many classes of problem common in non-declarative languages. Skills developed in this subject complement skills taught in other subjects, better equipping students for work in software design and implementation."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

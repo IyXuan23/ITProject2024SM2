@@ -22,14 +22,14 @@ breadthURL = 'https://handbook.unimelb.edu.au/search?study_periods%5B%5D=all&are
 #scrapeOfferedLinks(NUM_OF_SUBJECTS_PAGES, subjectLinkArray, subjectURL, 'subjectLinks.json')
 #scrapeLinks(NUM_OF_BREADTH_TRACK_PAGES, breadthtrackLinkArray, breadthURL)
 
-# subjectLinks = retrieveLinks('linkStorage\subjectLinks.json')
-courseLinks = retrieveLinks('linkStorage\courseLinks.json')
+subjectLinks = retrieveLinks('linkStorage\subjectLinks.json')
+#courseLinks = retrieveLinks('linkStorage\courseLinks.json')
 
 #0-50 DONE
 #51-266 DONE
 #267-892 DONE
-# for link in subjectLinks[19:]:
-#       scrapSubject(link[2], link[1], link[0])
+for link in subjectLinks:
+      scrapSubject(link[2], link[1], link[0])
 
 # print(courseLinks.index([
 #             "080CN",
@@ -53,7 +53,7 @@ courseLinks = retrieveLinks('linkStorage\courseLinks.json')
 
 #TESTING: NEEDS OVERVIEW ADJUSTMENT
 # scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30013')
-# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30020')
+# scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30020', 'Declarative Programming', 'COMP30020')
 # scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30023')
 # scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30024')
 # scrapSubject('https://handbook.unimelb.edu.au/2024/subjects/comp30019')
@@ -62,9 +62,9 @@ courseLinks = retrieveLinks('linkStorage\courseLinks.json')
 
 
 #0-44 done
-for link in courseLinks[45:]:
-    print(link[1])
-    scrapeCourses(link[2], link[1], link[0])
+# for link in courseLinks[45:]:
+#     print(link[1])
+#     scrapeCourses(link[2], link[1], link[0])
 
 #scrapping for the (bachelor) courses
 

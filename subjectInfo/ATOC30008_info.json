@@ -1,0 +1,156 @@
+{
+    "subject name": "Atmospheric Processes and Composition",
+    "subject code": "ATOC30008",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject presents a comprehensive view of the processes that are responsible for the structure, composition and properties of the atmosphere. It will focus on local and regional scales, covering aerosol and cloud processes such as formation, precipitation and lightning. It will address how these atmospheric processes and composition interact with the climate system - discussing major weather systems, land use, air quality and greenhouse gas fluxes. This subject will involve a face-to-face or virtual field trip to the Creswick campus in week 5 of semester to observe the atmospheric boundary layer state and chemical composition using state of the art monitoring equipment."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the thermal structure of the atmosphere using the fundamental principles of thermodynamics, surface energy fluxes and cloud microphysics",
+        "Use these principles to explain regional scale meteorological processes such as clouds, precipitation, stability and boundary layer behaviour including air pollution",
+        "Assess the dependence and influence of these processes on external factors such as larger scale weather systems, local land use, coastlines and topography",
+        "Describe and implement observational techniques for measuring the atmospheric state and composition",
+        "Present implications of observed atmospheric conditions and composition as written technical reports",
+        "Implement appropriate numerical methods and write computer code to analyse and understand real-world atmospheric data."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ATOC20003",
+                    "EVSC20007"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "MAST10005"
+                ],
+                "A minimum of 12.5 credit points ofLevel 2 Physics, Mathematics or Chemistry subjects"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "BOTH OF:",
+                "Admission into Master of Climate Science"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ATOC20002"
+    ],
+    "assessments": [
+        {
+            "description": "Three short practical assignments/problem sets. 1000 words (total)",
+            "timing": "Evenly spaced throughout the semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Field-data report. 1000 words",
+            "timing": "Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Claire Vincent"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "60 hours: 1 x 2-hour lecture per wee1, 1 x 3 hour tutorial per week. Field trip will replace lecture and tutorial times in week 5, either as virtual or face-to-face field trip."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "claire.vincent@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Atmospheric Science, An Introductory Surveyby J.M.Wallace and P.V.Hobbs (students are not required to purchase this text)"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

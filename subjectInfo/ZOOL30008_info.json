@@ -1,0 +1,150 @@
+{
+    "subject name": "Experimental Marine Biology",
+    "subject code": "ZOOL30008",
+    "subject availability": [],
+    "overview": [
+        "This subject explores the techniques and methods of undertaking marine biological research, including experimental and sampling design, data collection, statistical analysis of data, presentation of the research results and peer review. Students will participate in a group project, in which they will design, execute, analyse and interpret observational and experimental studies of marine animals, plants and algae in field and laboratory settings."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "translate a general question in marine biology to a specific testable hypothesis;",
+        "develop an experimental sampling design;",
+        "generate and analyse data;",
+        "compose and revise a scientific paper;",
+        "compile new knowledge from observation and the literature; and",
+        "critically review other's written work."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ECOL20003",
+                    "EVSC20004",
+                    "MAST20031"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Report abstract and introduction. 1000 words",
+            "timing": "3 - 4 weeks post fieldwork",
+            "percentage": "30%"
+        },
+        {
+            "description": "Report methods, results and discussion (drafted and revised based on assessor comments on abstract and introduction). 2500 words",
+            "timing": "8-9 weeks post fieldwork",
+            "percentage": "60%"
+        },
+        {
+            "description": "Completion of peer review assessment form, providing feedback for two complete student reports (200 words each). 400 words (total)",
+            "timing": "6 - 8 weeks post fieldwork",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "January": [
+                {
+                    "Coordinator": "John Morrongiello"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Before and after field work, 1 day each of lectures and tutorial work undertaken on-campus (2 x 6 hrs = 12 hours); and 5 days of practical field work undertaken at marine labs in Queenscliff (5 x 8 hours = 40 hours) in early to mid-February."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "17 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students are required to spend time reading scientific papers prior to the start of teaching. Papers will be distributed to students via the LMS at the start of the pre-teaching period."
+                },
+                {
+                    "Teaching period": "31 January 2024 to 14 February 2024"
+                },
+                {
+                    "Last self-enrol date": "15 December 2023"
+                },
+                {
+                    "Census date": "9 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "15 March 2024"
+                },
+                {
+                    "Assessment period ends": "19 April 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "January": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "ZOOL30008@zoology.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Quota limit applied - UoM students will be given preference over CAP applicants",
+                    "Quota limit applied - UoM students will be given preference over CAP applicants"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

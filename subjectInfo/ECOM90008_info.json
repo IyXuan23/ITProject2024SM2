@@ -1,0 +1,126 @@
+{
+    "subject name": "Microeconometrics",
+    "subject code": "ECOM90008",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The specification, estimation, and testing of a range of models used to analyse microeconometric data is examined. The models to be considered may include discrete choice models, models for censored and truncated data, models of duration data, models with self-selectivity, models of count data and panel data. This subject also provides students with the experience of carrying out a research-based project on a specific topic in applied econometrics."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify microeconometric models appropriate for different types of survey data",
+        "Explain why and how standard techniques of estimations must be modified in a variety of microeconometric situations",
+        "Apply econometric techniques to test hypothesis in a variety of microeconometric models",
+        "Evaluate the robustness of results obtained from using econometric techniques on real world microeconometric data",
+        "Analyse results obtained from microeconometric data and explain their implications for economic theory",
+        "Orally present the results of an independent piece of research",
+        "Complete a written research project"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ECOM40006",
+                    "ECOM90013"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ECOM40001"
+    ],
+    "assessments": [
+        {
+            "description": "Within-Semester Test. 40 minutes",
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "Within-Semester Test. 40 minutes",
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "description": "Research Project (including Oral Presentation). 4000 words",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Guo Yan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Guo Yan:"
+                ],
+                "email": [
+                    "yan.g@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students may not be given credit for both ECOM90008 Microeconometrics and ECOM40001 Microeconometrics."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

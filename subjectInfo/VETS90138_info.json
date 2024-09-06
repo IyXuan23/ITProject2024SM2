@@ -1,0 +1,107 @@
+{
+    "subject name": "Veterinary Parasitology B",
+    "subject code": "VETS90138",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject continues the study of parasitic infectious agents as causes of disease in animals. It includes the important features and life cycle considerations of common and important flatworm, protozoal and non-strongyloid nematode infections, the host-parasite interaction and the pathogenesis of disease, disease transmission and epidemiology, methods of diagnosis of parasitic disease as well as prevention, control and treatment."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Outline the broad groups of direct, food-borne and vector-borne parasites that are common and important in Australia and internationally, and explain impacts on animal health, public health, production and welfare",
+        "Apply knowledge of parasite pathogenicity to identify clinical signs of common and important flatworm, protozoal and non-strongyloid nematode infections, and diagnose these parasites by choosing relevant samples to collect and selecting appropriate diagnostic tests",
+        "Design adaptive, integrated parasite control programs for flatworm, protozoal and non-strongyloid nematode parasitic infections of domestic animals",
+        "Identify potential host and environmental sources of parasitic zoonoses and advise on appropriate reporting response, diagnosis, prevention and control"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "VETS90131"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "Written test. 1 hours",
+            "timing": "From Week 7 to Week 9",
+            "percentage": "35%"
+        },
+        {
+            "description": "Written Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "65%"
+        },
+        {
+            "description": "Aggregate Mark. Hurdle requirement:. Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinators": "Robin Gasser and Vito Colella"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "43 hours of lectures and practical classes"
+                },
+                {
+                    "Total time commitment": "100 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "robinbg@unimelb.edu.au",
+                    "vito.colella@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

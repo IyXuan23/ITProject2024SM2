@@ -1,0 +1,244 @@
+{
+    "subject name": "Data Analysis",
+    "subject code": "BUSA90060",
+    "subject availability": [],
+    "overview": [
+        "Contemporary business is awash in data. Modern business processes and activities usually involve multiple streams of data from areas as diverse as marketing activities, operational processes and financial activities. Therefore, managers are frequently confronted with how to harness these to understand their business better, so that they can make more informed decisions. This subject provides the fundamental quantitative skills necessary for an MBA student to extract information from data, through quantitative analysis, to make better managerial decisions. Students will be familiarized with the tools of quantitative analysis, develop the necessary skills for analytical thinking and a quantitative mind set in measuring performance. The fundamental quantitative skills from this subject provide a foundation to the advanced subjects within the MBA and provide students an analytical framework towards solving managerial problems later in their career."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse and summarise multivariate data clearly using Excel",
+        "Apply the principles of statistical variation in data analysis.",
+        "Select appropriate performance metrics based on statistical principles",
+        "Combine multiple performance metrics quantitatively.",
+        "Distinguish between correlation and causation in statistical analyses",
+        "Construct relevant statistical models from ambiguous business problems",
+        "Undertake regression analysis to quantify complex relationships between multiple explanatory variables and a response variable",
+        "Identify elements from regression output that are directly relevant to a business problem or question.",
+        "Identify and model nonlinear effects and interactions in regression models",
+        "Measure and articulate statistically significant relationships between variables",
+        "Apply quantitative methods and analyses to identify optimal decision strategies and risks",
+        "Evaluate the robustness and appreciate the limitations of data analyses"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90532",
+                    "BUSA90552",
+                    "BUSA90480"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "15 x Class preparation exercises (equivalent of individual 300 words). 300 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Mid-term test. 90 minutes",
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "Syndicate assignment (equivalent of individual 500 words). 500 words (equivalent)",
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "description": "Final Examination. 3 hours. Hurdle requirement:. students are required to pass the final exam to pass the subject.",
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "January": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "140 hours"
+                },
+                {
+                    "Pre teaching start date": "8 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during the pre-teaching period"
+                },
+                {
+                    "Teaching period": "15 January 2024 to 22 March 2024"
+                },
+                {
+                    "Last self-enrol date": "8 January 2024"
+                },
+                {
+                    "Census date": "2 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "1 March 2024"
+                },
+                {
+                    "Assessment period ends": "29 March 2024"
+                }
+            ]
+        },
+        {
+            "April": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "30 hours"
+                },
+                {
+                    "Total time commitment": "140 hours"
+                },
+                {
+                    "Pre teaching start date": "1 April 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during pre-teaching period"
+                },
+                {
+                    "Teaching period": "8 April 2024 to 14 June 2024"
+                },
+                {
+                    "Last self-enrol date": "1 April 2024"
+                },
+                {
+                    "Census date": "19 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "24 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "July": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "30 hours"
+                },
+                {
+                    "Total time commitment": "140 hours"
+                },
+                {
+                    "Pre teaching start date": "24 June 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during pre-teaching period"
+                },
+                {
+                    "Teaching period": "1 July 2024 to  6 September 2024"
+                },
+                {
+                    "Last self-enrol date": "14 June 2024"
+                },
+                {
+                    "Census date": "12 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "16 August 2024"
+                },
+                {
+                    "Assessment period ends": "13 September 2024"
+                }
+            ]
+        },
+        {
+            "September": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "30 hours"
+                },
+                {
+                    "Total time commitment": "140 hours"
+                },
+                {
+                    "Pre teaching start date": "16 September 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during pre-teaching period"
+                },
+                {
+                    "Teaching period": "23 September 2024 to 29 November 2024"
+                },
+                {
+                    "Last self-enrol date": "6 September 2024"
+                },
+                {
+                    "Census date": "4 October 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "8 November 2024"
+                },
+                {
+                    "Assessment period ends": "6 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "April": {
+                "name": [],
+                "email": [
+                    "programservices@mbs.edu"
+                ]
+            }
+        },
+        {
+            "July": {
+                "name": [],
+                "email": [
+                    "programservices@mbs.edu"
+                ]
+            }
+        },
+        {
+            "September": {
+                "name": [],
+                "email": [
+                    "programservices@mbs.edu"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students admitted to GD-BA, MC-BAPT, MC-BAPTME, 294PN, or permission of the MBA course coordinator"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}
