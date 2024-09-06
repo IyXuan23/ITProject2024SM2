@@ -9,10 +9,19 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "The major financial problems faced by public and private firms. The specific problems of private firms are considered at length",
+        "Techniques and instruments for managing risk. Especially insurance contracts and the use of hedging instruments such as futures contracts and swap contracts.",
+        "Management of liquidity and working capital of the firm through bank lines of credit and trade credit.",
+        "A broad understanding of the capital structure of the firm. In addition to the standard questions of debt v equity, long term v short term debt and fixed v floating debt, other forms of financing are considered, especially franchising and leasing.",
+        "How firms use weighted average cost of capital in choosing projects. How real options affect the capital budgetting decision. How dividend imputation effects the WACC of firms.",
+        "The essential features of relations between commercial banks and firms, and also investment banks and firms."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
             "necessary pre-requisite": [
+                "87.5 credit points from ",
                 [
                     "BUSA90480",
                     "BUSA90481",
@@ -25,6 +34,7 @@
                     "BUSA90482",
                     "BUSA90483"
                 ],
+                "25 credit points from ",
                 [
                     "BUSA90026",
                     "BUSA90227"

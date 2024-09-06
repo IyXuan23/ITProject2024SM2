@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the main concepts underlying data warehouse design and implementation, data quality and retrieval and analysis of data.",
+        "Be familiar with data warehousing and its relationship to decision-making.",
+        "Design a Data warehouse",
+        "Be familiar with the role of data warehousing in customer relationship management."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -12,6 +12,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "be able to use matrix techniques to represent and solve a system of simultaneous linear equations",
+        "understand the use of vectors\u00a0as a tool for describing lines and planes in solid geometry",
+        "understand the\u00a0axiomatic definition of an\u00a0abstract vector spaces of arbitrary dimension",
+        "understand linear transformations, their matrix representations and applications",
+        "be familiar with the use of a computer package for symbolic and numeric calculation",
+        "be able to\u00a0construct a simple mathematical proof"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

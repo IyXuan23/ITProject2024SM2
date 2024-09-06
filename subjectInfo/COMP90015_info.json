@@ -12,6 +12,10 @@
     "indicative content": [
         "Topics covered include: characterization of distributed systems, system models, interprocess communication, remote invocation, indirect communication, operating system support, distributed objects and components, web services, security, distributed file systems, and name services."
     ],
+    "intended learning outcomes": [
+        "Be able to apply the principles and paradigms of distributed systems in design, development and critical reasoning",
+        "Demonstrate an ability to implement a complex distributed application from first principles"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

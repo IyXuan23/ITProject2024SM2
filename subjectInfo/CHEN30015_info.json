@@ -11,6 +11,20 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Approach and solve open-ended design problems in the field of process engineering",
+        "Place problems being solved within the context in which engineering processes take place",
+        "Be able to evaluate data from a range of sources to allow a coherent professional engineering technical report to be prepared",
+        "Use high-level team management techniques",
+        "Gain advanced skills in the use of process engineering software",
+        "Be able to lay out a Chemical Process Engineering facility",
+        "Design and modify Piping and Instrumentation Diagrams",
+        "Access and use Australian Standards for equipment design",
+        "Use pinch and energy analysis techniques to minimise plantwide energy consumption",
+        "Perform HAZOP and QRA safety analyses",
+        "Construct an Environmental Impact Assessment",
+        "Use sustainable engineering techniques, such as Life Cycle Analysis"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

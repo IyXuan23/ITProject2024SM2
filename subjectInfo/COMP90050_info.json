@@ -17,6 +17,12 @@
         "Recovery from Failures",
         "Map Reduce Models"
     ],
+    "intended learning outcomes": [
+        "Evaluate performance and reliability in building applications involving large-scale database systems",
+        "Investigate and analyse database technologies used in large-scale applications such as search engines",
+        "Apply the concepts and technologies underpinning new forms of Web data to database systems",
+        "Understand algorithms associated with transaction processing and recovery from failures and concepts employed in modern database systems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

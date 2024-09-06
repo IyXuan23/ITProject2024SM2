@@ -9,6 +9,20 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the multi-disciplinary nature of designing a tall building and the role of a structural engineer in the design of tall buildings",
+        "Describe the design criteria and loading conditions for buildings",
+        "Develop conceptual designs of floors using different floor systems",
+        "Develop conceptual designs of lateral load resisting systems for buildings",
+        "Calculate dynamic wind loads on tall buildings using the dynamic response factor approach",
+        "Interpret wind tunnel test results to obtain equivalent wind loads",
+        "Understand the concepts behind perception of motion, calculate the serviceability acceleration levels in tall buildings responding to wind loading",
+        "Develop approximate models for analysing structural systems in buildings",
+        "Develop computer models for analysing structural systems in buildings",
+        "Develop conceptual designs of foundation systems for different buildings and soil types",
+        "Identify different facade systems commonly used in building structures",
+        "Identify and analyse different structural systems using case study buildings."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

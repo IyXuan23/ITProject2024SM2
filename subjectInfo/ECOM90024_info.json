@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the main considerations involved in developing a successful forecasting model.",
+        "Implement and evaluate models for forecasting trends and seasonality.",
+        "Characterise, model and forecast cycles using moving average (MA), autoregressive (AR), and autoregressive moving average models (ARMA) for both stationary and non-stationary time series.",
+        "Implement and interpret point, interval, density and probability forecasts.",
+        "Apply common techniques to evaluate forecast performance and to combine forecasts from different models.",
+        "Demonstrate proficiency in time series data handling and modelling using statistical software."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate an understanding of the fundamental mathematical theory behind nonlinear optimization;",
+        "Model and analyse nonlinear optimisation problems;",
+        "Apply various methods to solve nonlinear optimisation problems, including convex, non-convex, differentiable and non-differentiable problems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

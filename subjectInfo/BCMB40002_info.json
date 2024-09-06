@@ -12,6 +12,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate an advanced understanding of experimental design, experimental implementation, data and statistical evaluation and communication as it relates to modern biomedical research",
+        "Communicate research data, and its critical interpretation and scientific context in written scientific communication",
+        "Communicate research data, and its critical interpretation and scientific context in oral communication",
+        "Critically evaluate scientific data and interpret and contextualise scientific information from the literature"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

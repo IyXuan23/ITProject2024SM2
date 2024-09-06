@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Draw on their knowledge of diverse learners, instructional strategies, and learning needs as central to making judgements about teaching for inclusion (Graduate Standards 1.1; 1.2; 1.6; 2.1; 2.4)",
+        "Collect, analyse, interpret and use reliable assessment evidence about diverse learners, what they already know and what they are ready to learn to make judgements about learning and subsequent adjustments to teaching (Graduate Standards 2.3; 3.1; 3.6; 5.1; 5.2; 5.3; 5.4; 5.5)",
+        "Plan for and implement research informed pedagogical practices and strategies for differentiating teaching across a lesson sequence to address the individual learning needs for specific learners within a group/class context across the full range of abilities (Graduate Standards 1.3; 1.5; 1.6; 3.2; 3.3)",
+        "Connect and engage with learners through effective verbal and non-verbal communication by offering teaching strategies that are responsive to the learner\u2019s strengths and needs (Graduate Standards 1.2; 3.3; 3.5; 4.1; 4.3; 4.5)"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
@@ -27,7 +33,7 @@
             "necessary pre-requisite": [
                 [
                     "EDUC90898",
-                    "EDUC91020"
+                    ""
                 ]
             ],
             "one of pre-requisite": [],

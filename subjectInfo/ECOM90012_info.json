@@ -9,6 +9,18 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Specify and estimate VAR/SVAR models",
+        "Generate and understand impulse response functions and forecast error variance decompositions",
+        "Understand alternative identification strategies and apply them to identify monetary policy shocks, fiscal shocks, and technology shocks",
+        "Specify a basic New Keynesian model; generalise it for a small open economy as well as other commonly included extensions in empirical applications",
+        "Apply econometrics methods (Generalized Method of Moments and the Kalman filter) commonly used to estimate DSGE models",
+        "Analyse policies by simulating DSGE models",
+        "Understand the relevance of optimal and unconventional policies",
+        "Evaluate recent central bank and academic research using VAR/SVAR and small-open economy DSGE models",
+        "Orally present the results of an independent piece of research",
+        "Complete a written research report"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

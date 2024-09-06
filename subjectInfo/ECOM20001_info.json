@@ -10,6 +10,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply least-squares method of estimation and inference to the context of single and multiple linear regression;",
+        "Use statistical program to estimate econometric models, test hypotheses, and undertake forecasting exercises.; and",
+        "Understand and explain various problems that arise in the development and interpretation of econometric models including multicollinearity, specification error, heteroskedasticity, autocorrelation, internal validity and external validity."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

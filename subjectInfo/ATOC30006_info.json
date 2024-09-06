@@ -10,6 +10,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the dynamic balances of key climate variables on climate time scales",
+        "Derive and apply simple quantitative models of the impact of atmospheric radiative processes on climate",
+        "Quantitatively analyse the sensitivity of key climate variables to altered forcing",
+        "Describe at a qualitative level the key tools used for climate prediction",
+        "Interpret the role of model uncertainty in attribution and prediction of climate change",
+        "Implement simple numerical models encapsulating the dynamics of key climate variables",
+        "Explain the underlying concepts of climate change coherently and comprehensibly"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

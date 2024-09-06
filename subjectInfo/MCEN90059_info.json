@@ -11,6 +11,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "1. Explain the different statistical methods available for analysis of different processes;",
+        "2. Perform both parametric and non-parametric hypothesis tests for a range of engineering problems;",
+        "3. Design and plan for collecting experimental data to uncover critical information and knowledge in industry-based problem;",
+        "4. Demonstrate an understanding of the concepts of reliability engineering and the relationship between the time to time failure distribution, the reliability function and the hazard rate;",
+        "5. Analyse how an organization can improve its processes, products and services, and integrate its several functions through the best use of quality engineering;",
+        "6. Apply the total quality management, Six-Sigma, and Benchmarking into organisations."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -24,6 +24,14 @@
         "Standard software development tools such as debuggers.",
         ""
     ],
+    "intended learning outcomes": [
+        "Read, write and debug typical small-scale programs in a system programming language such as C",
+        "Discuss, analyse, implement, and apply standard data structures such as linked lists, binary search trees, and hash tables",
+        "Discuss, analyse, and apply a range of sorting and searching algorithms",
+        "Present logical arguments for the correctness of a given algorithm",
+        "Choose between different algorithms for simple problems by analysing their complexity",
+        "Use a command line interface and standard development tools for programming"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -11,6 +11,15 @@
         "Please view this video for further information:Fluid Mechanics"
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply the fundamental conservation laws of fluid mechanics to solve relevant engineering problems that address global needs",
+        "Solve mechanical energy balances in pipe flow, scale-up pumps and mixers",
+        "Apply the Navier-Stokes equations to determine velocity profiles in axisymmetric and planar flows",
+        "Predict the flow depth in various open-channel flow scenarios",
+        "Calculate forces on submerged objects",
+        "Apply the key dimensionless parameters in fluid mechanics in relevant contexts.",
+        "Use basic programming concepts to solve fluid mechanics problems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

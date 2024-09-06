@@ -13,6 +13,16 @@
         "This subject serves as an introduction to databases and data modelling from a data management perspective. Database design, from conceptual design through to physical implementation will be covered. This will include Entity Relationship modelling, normalisation and de-normalisation and SQL. Additionally the use of databases in various contexts will be explored (web based databases, connecting programs to databases, data warehousing, health contexts, geospatial databases).",
         ""
     ],
+    "intended learning outcomes": [
+        "Understand the different technologies available to manage structured data, and the evolutionary process that led to them",
+        "Be able to construct data models at the conceptual, logical and physical level from real-world, natural language requirements documents and apply data normalisation to these models",
+        "Be able to competently use a CASE tool (computer-aided software engineering)",
+        "Be competent in basic SQL and familiar with the usage of advanced SQL commands",
+        "Understand the need and mechanism for database transactions, including the so-called ACID properties",
+        "Be familiar with how databases work within a larger application architecture",
+        "Understand the relationship of database systems to a variety of fields such as data warehousing, health informatics and Geospatial applications",
+        "Synthesize the theoretical first principles of data management, data normalisation and data modelling and apply those principles to the data needs of modern organizations."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

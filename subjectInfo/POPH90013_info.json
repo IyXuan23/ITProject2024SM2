@@ -10,6 +10,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the key principles of statistical inference including demonstrating an understanding of sampling variability",
+        "Prepare and present data to communicate key features, including statistical summaries and simple relationships, using tables and graphs",
+        "Calculate and interpret confidence intervals for key target parameters such as mean values and average causal effects",
+        "Demonstrate a critical understanding of the concepts of hypothesis testing, p-values and statistical significance",
+        "Outline the principles underlying choice of sample size for research studies including the concept of statistical power",
+        "Explain key concepts, in particular that of confounding, that need to be addressed to avoid bias in statistical analysis",
+        "Perform simple statistical analyses using appropriate software"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

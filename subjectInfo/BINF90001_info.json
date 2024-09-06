@@ -9,6 +9,10 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "understand some of the common stochastic models encountered in Bioinformatics;",
+        "apply a variety of statistical techniques to problems arising in Bioinformatics."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

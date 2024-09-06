@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Choose appropriate technology evaluation methods for a given problem, and critique this choice in terms of the advantages and disadvantages",
+        "Understand the different types of data for UX evaluation and how to interpret them, including field observations, interviews, automated use-logs, measurements of errors and efficacy",
+        "Apply knowledge of the contemporary tools and environments (including those of the industry-standard usability-testing laboratory) for the purpose of evaluating interactive systems",
+        "Analyse and interpret evaluation data to inform further design and development"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

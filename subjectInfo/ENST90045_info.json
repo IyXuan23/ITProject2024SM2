@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Experience and proficiency in the use of Geographic Information Systems (GIS) on multiple software platforms;",
+        "An ability to collect, analyse and interpret spatial data to address ecosystem management and conservation questions;",
+        "Experience in methodologies to collect spatial data about natural resources and people at multiple scales and critically assess their limitations;",
+        "Knowledge of the current remote sensing technologies and their application; and",
+        "Understand emerging technologies in spatial data collection and analysis."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

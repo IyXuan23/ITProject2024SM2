@@ -7,6 +7,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Recognise when business problems can be quantitatively modelled, and then formulate suitable models for those problems.",
+        "Understand the most relevant methods, and the limitations and trade-offs between different methods required to solve these models.",
+        "Perform optimisation techniques to analyse how constraints affect the achievement of business objectives.",
+        "Use sensitivity analysis to identify the level of tolerance permissible in managerial decision making.",
+        "Evaluate the role of risk and uncertainty in managerial decision making, with regard to the quantity and quality of information available for analysis"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

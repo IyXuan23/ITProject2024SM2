@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Critically examine and assess the feasibility of creating big data projects;",
+        "Have an advanced understanding of how to analyse data in GIS and create own technical advanced projects;",
+        "Gain unique skills in geoprocessing of spatial data and interpretation of the outcomes; and",
+        "Gain insights into the potential of machine learning and artificial intelligence use in exploration workflows."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

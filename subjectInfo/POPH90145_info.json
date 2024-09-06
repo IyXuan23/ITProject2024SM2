@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Calculate a rate using time-to-event data and compare rates between groups (and draw appropriate inferences)",
+        "Implement the life table and Kaplan-Meier procedures for estimating survival curves both manually and with the use of a computer.",
+        "Describe the role of regression modelling of rates in epidemiology, particularly in the context of cohort and other longitudinal studies",
+        "Demonstrate practical skills in fitting and interpreting regression models for events over time (Poisson and Cox regression models) in the statistical computing package Stata",
+        "Recognise that the proportional hazards (Cox) regression model is a special case of both Poisson regression (for rates) and conditional logistic regression (for matched case-control sets)."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

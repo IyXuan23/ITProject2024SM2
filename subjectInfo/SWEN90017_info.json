@@ -13,6 +13,13 @@
         "Developing real-world software on time and within budget is a challenging task. Students will work in a (large) team to solve a practical problem, applying sound engineering principles to the formulation and solution of their problem. Students will engage in the full software engineering life cycle from requirements engineering through to delivery, to develop a software solution for an external client.",
         "This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practice Hurdle (EPH)."
     ],
+    "intended learning outcomes": [
+        "Perform all the steps necessary to develop a software system for a real-world application, including requirements analysis, design, implementation, testing and deployment.",
+        "Design and apply software engineering processes appropriate to a specific problem and/or set of functional and non-functional requirements.",
+        "Apply appropriate computing technology to the solution of complex problems in software engineering.",
+        "Participate collaboratively in a large software development team including communication, management, and quality assurance, utilising a variety of software engineering processes.",
+        "Interpret the needs of external stakeholders to develop quality requirement specifications, designs, and maintainable software."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -10,6 +10,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate the ability to choose between different novel interaction technologies based on their design characteristics",
+        "Gain a critical understanding of design approaches used for the development of interactive systems",
+        "Demonstrate the ability to design and develop prototype interactions that use novel interface technologies",
+        "Demonstrate the ability to use iteration and results of formative evaluation to re-design interactions"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

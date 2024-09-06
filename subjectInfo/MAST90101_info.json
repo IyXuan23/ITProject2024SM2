@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Gain experience in data manipulation and management using two major statistical software packages (Stata and R).",
+        "Learn how to display and summarise data using statistical software.",
+        "Become familiar with the checking and cleaning of data.",
+        "Learn how to link files through use of unique and non-unique identifiers.",
+        "Acquire fundamental programming skills for efficient use of software packages.",
+        "Learn key principles regarding confidentiality and privacy in data storage, management and analysis."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

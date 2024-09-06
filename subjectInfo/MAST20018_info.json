@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Comprehend the essential features of problems encountered in Operations Research investigations, as well as those encountered in applied Discrete Mathematics;",
+        "Develop basic skills required to construct formal mathematical models for practical optimisation problems, and those required to analyse settings from real-world applications;",
+        "Appreciate the extent and limitations of a number of Operations Research and Discrete Mathematics techniques for solving real-world problems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

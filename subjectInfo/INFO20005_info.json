@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply the elements of visual design to the design of graphical user interfaces",
+        "Understand the nature of iterative design and be able to plan and manage such processes around real-world design constraints",
+        "Create user interface prototypes at different levels of fidelity, from low-fidelity paper prototypes to high-fidelity interactive mock-ups",
+        "Implement user interface designs into working systems built with digital technologies."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

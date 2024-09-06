@@ -10,6 +10,11 @@
         "Topics covered in this subject include: introduction to power semiconductor switches; discussion on the role of power electronics in the operation of electric power systems; models of power semiconductor devices and circuit components, including diodes, Thyristors, IGBT, Snubber circuits. Also basic concepts of single- and three-phase diode bridge rectifiers; single- and three-phase converters and inverters; operation and design of DC-AC inverters with emphases on switch-mode inverters, i.e. single- and three-phase inverters. Finally, the acquired knowledge of power electronic devices is applied to wind and PV solar systems where the design of voltage source converters and associated control loops are used to interface the wind/solar system with the power grid."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply physical principles, fundamental abstractions and modelling techniques in the analysis of power electronic components and devices",
+        "Develop and demonstrate basic electrical engineering laboratory skills through simulation of practical real life electrical electronics devices and systems using software tools and analyse the performance and characteristics of each of its components",
+        "Compare the performance of physical power systems obtained through simulation with theoretical analysis."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

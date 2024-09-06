@@ -12,6 +12,13 @@
     "indicative content": [
         "Security principles and techniques discussed are: Models for understanding knowledge leakage, Security Risk Assessment Methods, Firewall and virtual private network (VPN) security scenarios, and Incident Response Methodology. Real world cases will be drawn from a range of organization types including critical infrastructure installations in Australia."
     ],
+    "intended learning outcomes": [
+        "Apply skills in critical thinking and systems analysis to identify, evaluate and/or communicate strategic and operational issues suited to the application of information systems security concepts and theories to real-world practice",
+        "Apply skills related to business communication suited to the application of information systems security concepts and theories to real-world practice",
+        "Demonstrate a sound knowledge and understanding of the practice of business information systems security in organisations",
+        "Independently research and argue disparate beliefs/theories of information systems security",
+        "Apply the professional codes of conduct and ethical standards as they pertain to information systems security in practice"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

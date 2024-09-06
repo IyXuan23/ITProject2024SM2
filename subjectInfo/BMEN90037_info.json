@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Calculate and interpret probabilities, probability densities, means, variances and covariances using axioms of probability, random variables and Bayes' rule",
+        "Formulate and perform appropriate statistical hypothesis tests on biomedical engineering datasets",
+        "Apply standard statistical procedures using a statistical computing package",
+        "Model biomedical engineering data using linear and nonlinear models by estimating and testing hypotheses of model parameters",
+        "Apply classifiers to biomedical engineering datasets",
+        "Apply dimensionality reduction methods, including PCA and ICA, to biomedical engineering datasets."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

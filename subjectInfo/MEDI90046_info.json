@@ -17,6 +17,21 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Learn techniques to optimise 3-D echocardiography acquisition",
+        "Learn how to perform complex 3-D modelling of the mitral valve",
+        "Learn how to quantify 3-D ventricular volumes",
+        "Learn how to assess actual and ventricular septal defects, and role of 3-D imaging during percutaneous closure.",
+        "Interpret 25 3-D echocardiography case studies",
+        "Understand myocardial tissue stress and strain imaging",
+        "Understand contrast echocardiography",
+        "Understand the use of TOE for lung imaging",
+        "Learn the use of ultrasound for examination of joints",
+        "Learn the use of ultrasound for chronic pain blocks",
+        "Understand diagnostic algorithms incorporating heart and lung ultrasound for emergency medicine",
+        "Learn about abdominal blood flow imaging",
+        "Learn about the use of echocardiography for percutaneous catheter-based procedures."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

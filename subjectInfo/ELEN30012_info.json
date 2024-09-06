@@ -11,6 +11,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply fundamental mathematical tools to model, analyse and design signals and systems in both time-domain and frequency-domain",
+        "Explain the broad applicability of the mathematics of signals and systems theory, particularly within electrical engineering",
+        "Articulate the similarities and differences between the mathematical tools needed for dealing with continuous-time systems/signals versus their discrete-time counterparts",
+        "Use MATLAB to study the behaviour of signals and systems as they arise in a variety of contexts."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

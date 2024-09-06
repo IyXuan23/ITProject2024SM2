@@ -10,6 +10,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply quantitative tools to model, estimate and forecast financial variables;",
+        "Analyse the statistical properties of financial prices and returns;",
+        "Evaluate models of risk based on the Capital Asset Pricing Model and variants assuming non-normal return processes;",
+        "Analyse recent advances in unit root and cointegration methods in modeling the term structure of interest rates and asset price bubbles;",
+        "Describe the strengths and limitations of alternative quantitative methods by reproducing existing results using computer skills and mathematical modeling techniques, in conjunction with a range of financial data sets;",
+        "Perform sensitivity analyses on proposed models, which should include the application of alternative distributional specifications to model risk."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -26,6 +26,10 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "independently formulate physical and mathematical models for three-dimensional dynamic analysis of mechanical systems;",
+        "solve the mathematical models by means of specialised analytical and numerical methods."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

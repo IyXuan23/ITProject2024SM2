@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Identify and abstract the key features of a range of complex system",
+        "Apply the theoretical concepts underpinning the analysis of complex systems",
+        "Analyse models of discrete and concurrent systems using a range of modern techniques",
+        "Evaluate and select, amongst different modelling techniques, the most appropriate for analysing specific systems",
+        "Create mathematical/computational models to analyse and verify the behaviour of complex systems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -11,6 +11,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply a number of geospatial analysis and data management methods",
+        "Apply and critically evaluate a range of geospatial modelling methods",
+        "Demonstrate the value of making spatial predictions to inform decision making",
+        "Interpret, evaluate and communicate the results of spatial modelling and analyses"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

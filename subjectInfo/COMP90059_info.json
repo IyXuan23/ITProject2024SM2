@@ -13,6 +13,12 @@
         "Fundamental programming constructs; fundamental data structures; abstraction; basic program structures; algorithmic problem solving; use of modules.",
         "The subject assumes no prior knowledge of computer programming and is not suitable for students with prior programming experience."
     ],
+    "intended learning outcomes": [
+        "Develop programs that can manipulate static, structured large data using the Phython programming language",
+        "Identify the kind of data and algorithm most appropriate for solving a given problem",
+        "Employ basic algorithmic problem-solving techniques",
+        "Engage in communication involving programming concepts"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

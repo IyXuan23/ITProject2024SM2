@@ -18,6 +18,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Be able to describe particles and systems of particles and appreciate the flow behaviour of particulate materials",
+        "Design unit operations associated with particulate powders and slurries common to the materials, food, water, pharmaceuticals and minerals processing industries",
+        "Appraise different proposals for unit operations in comminution and particle liberation, particle separation, hopper flow",
+        "Be able to design unit operations involving fluidisation and flow through packed beds",
+        "Be fluent in Discrete Element Modelling of particle systems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

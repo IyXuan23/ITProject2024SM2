@@ -19,6 +19,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply fundamental concepts to perform preliminary design and assessment of performance for an aircraft gas turbine.",
+        "Recognise the challenges associated with gas turbine and rocket technology and appreciate the broad applicability of fluid dynamics and thermodynamics within mechanical and aerospace engineering.",
+        "Identify the key parameters affecting engine performance.",
+        "Design engine components using preliminary design software",
+        "Recognise environmental challenges of aviation and understand ways to mitigate those challenges."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

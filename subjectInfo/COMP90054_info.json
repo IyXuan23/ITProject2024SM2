@@ -18,6 +18,13 @@
         "Game theory",
         "Ethics in AI planning"
     ],
+    "intended learning outcomes": [
+        "Apply theoretical concepts of reasoning about actions to single and multi-agent problems",
+        "Be able to analyse, design, and implement automated planning, reinforcement learning, and game theoretic techniques to given problems",
+        "Understand the strengths, weaknesses, and ethical consequences of different approaches for reasoning about action",
+        "Be able to critically evaluate and choose the right technique for different problems in reasoning about action",
+        "Communicate technical solutions about automated planning, reinforcement learning, and game theory"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

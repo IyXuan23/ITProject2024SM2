@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Evaluate importance of careful design and analysis in scientific enterprise;",
+        "Design biological experiments in a variety of contexts such as laboratory cell studies, greenhouse experiments, and ecological field studies, build statistical models, and sample real biological populations;",
+        "Formulate an approach to problems entailing the collection and analysis of biological data;",
+        "Recognise and manipulate common data types and models in biology;",
+        "Desribe fundamental statistical concepts including exploratory data analysis; basic principles of statistical inference; linear models, likelihood-based methods and re-sampling techniques"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

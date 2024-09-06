@@ -11,6 +11,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "have a systematic understanding of the basic concepts of probability space, probability distribution, random variable (including the bivariate case) and expectation",
+        "be able to use conditional expectations, generating functions and other basic techniques taught in the subject;",
+        "be able to interpret a number of important probabilistic models, including simple random processes such as the Poisson process and finite discrete time Markov chains, and appreciate their relevance to real world problems;",
+        "be able to formalize simple real-life situations involving uncertainty in the form of standard probabilistic models and to analyse the latter;",
+        "develop understanding of the relevance of the probabilistic models from the subject to the important areas of applications such as statistics and actuarial studies."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

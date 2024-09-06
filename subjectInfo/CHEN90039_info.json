@@ -11,6 +11,14 @@
     "indicative content": [
         "How are drugs made? What steps are required to progress a successful drug candidate from the laboratory to large scale manufacture? How can cells and enzymes be used in manufacturing? This subject will answer these questions, examining unit operations and the design and operation of manufacturing processes that are used to make a range of products including opiates, blood plasma products, vaccines, monoclonal antibodies and other medicines. Unit operations will include the growth of bacterial, animal, plant and fungal cells, cell disruption and methods for product separation and purification, such as chromatography. Case studies will include the production of recombinant proteins and amino acids and the genetic techniques required to make these products. The sustainable production of other biochemicals will also be discussed, including biofuels and the growth of algae. Students will learn how cellular processes can also be used by chemical engineers to improve process efficiencies, clean up our environment and reduce chemical waste. Regulation, Good Manufacturing Practice and Validation processes will be introduced, along with the design of laboratories, pilot plants and manufacturing facilities and associated utilities and services. Industry speakers will also highlight new opportunities and best practice within the Australian pharmaceutical industry. Students will also be introduced to relevant analytical techniques used to track production and purity and will become familiar with the research literature in this field."
     ],
+    "intended learning outcomes": [
+        "Describe typical production processes for common pharmaceuticals",
+        "Discuss the role of chemical engineering in pharmaceutical development, the regulatory standards that apply to such products and the business drivers for product development",
+        "Apply systems approaches to describe how changes to a cell can be used to make new biochemical products",
+        "Describe the processes in research, development and practice that may increase the sustainability of biochemical and other production processes",
+        "Describe a range of biochemical products and develop create strategies to produce and purify these products",
+        "Discuss the synergies between biochemistry and chemical engineering ."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -10,6 +10,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Distinguish different types of data used in different forms of research evidence and describe the important contextual elements of data in providing good research evidence.",
+        "Classify scales used in data by using the principles of measurement to recognise important variations in data and to identify its sources.",
+        "Explain the main types of study designs in data analytics and justify the choice of a study design for a specified purpose. Explain the main types of study designs in data analytics, i.e. an experiment, a survey and an observational study and justify the choice of a study design for a specified purpose",
+        "Examine a data set and design a systematic approaches to managing it using descriptive analysis, as well as tools for representing and summarising data, and visualising the data.",
+        "Identify applicable probabilistic structures and their associated risks, in given data analytics scenarios, through knowledge of the role of probability and risk in the framework of data analytics and of the different risk assessment approaches.",
+        "Identify and distinguish the circumstances under which elementary probability models for data would be used.",
+        "Critique the use of confidence intervals, hypothesis tests and other representations of inference in real-world applications of data analytics based on an understanding of the basic paradigms for inference from data.",
+        "Appraise the use of data in a public forum, especially the media, and formulate a critique of data-based reasoning that is used."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

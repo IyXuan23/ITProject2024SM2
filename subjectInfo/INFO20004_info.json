@@ -16,6 +16,12 @@
         "Expert- and user-based evaluations",
         "Analysis of usability evaluation data"
     ],
+    "intended learning outcomes": [
+        "Conduct a broad range of evaluation methods for digital technologies, and to select appropriate methods in terms of their strengths and limits; including ethnographic field study, user surveys, field experiments, laboratory experiments, and user experience trials",
+        "Interpret and communicate different types of usability data, including field observations, interviews, online use-logs, measurements of errors and efficacy",
+        "Apply contemporary knowledge of the tools and resources of an industry-standard usability-testing laboratory",
+        "Evaluate usability findings to inform the re-design and further development of digital technologies"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

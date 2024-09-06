@@ -11,6 +11,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate a well-developed proficiency in engineering design methodologies that can assist the creation of mechatronics systems and artefacts;",
+        "Construct well-reasoned engineering requirements for a given problem or need;",
+        "Demonstrate proficiency in the concepts of mechatronic system integration: of actuation, sensors and independent control to achieve the capabilities of autonomous systems;",
+        "Manage relatively complex engineering design projects;"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

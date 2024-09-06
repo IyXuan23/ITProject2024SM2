@@ -11,6 +11,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Formulate natural and human phenomena in a conceptual framework.",
+        "Translate a conceptual model of an observed system into a mathematical and logical model representation.",
+        "Design a software model based upon a mathematical and logical representation of a system.",
+        "Visualise and predict the temporal and spatial evolution of a system using software tools.",
+        "Evaluate hypotheses and the various models with observational data."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

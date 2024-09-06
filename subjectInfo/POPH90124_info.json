@@ -9,6 +9,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe core mechanisms and central dogma of genetics",
+        "Perform sequence analysis using hidden Markov models.",
+        "Access genomic data from public databases",
+        "Perform a genetic association analysis, including the assessment of possible confounding.",
+        "Explain the concept of heritability and its estimation.",
+        "Develop prediction models using genome-wide single nucleotide polymorphism (SNP) data.",
+        "Explain key features of data, statistical models and methods used in the fields of transcriptomics, epigenetics and single-cell omics.",
+        "Effectively communicate results of statistical analyses in genomics and related areas"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

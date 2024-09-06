@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Have an understanding of selected advanced topics in spatio-temporal statistics;",
+        "Have developed mathematical and computational skills needed for further research or applied work in statistics and data science;",
+        "Feel prepared for a research or industry career in statistics and data science; and",
+        "Have familiarity with several major texts spatio-temporal statistics."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

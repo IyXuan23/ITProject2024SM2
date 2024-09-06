@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the major Australian and international extensive animal production industries (beef cattle, dairy cattle, sheep, camelids and goats), the common production systems within them and the major determinants of profitability, productivity and sustainability",
+        "Describe the basic principles of breeding, management, nutrition, animal welfare and disease control as they relate to extensive animal production systems and specify where veterinary input may be important",
+        "Describe the ethical and legal frameworks that govern the major extensive livestock industries in Australia in order to understand the role of the various players, including veterinarians, in assuring the safe, ethical and legal production of food and fibre products"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
@@ -21,7 +26,7 @@
     ],
     "corequisites": "tempValue",
     "non-allowed subjects": [
-        ""
+        "VETS90117"
     ],
     "assessments": [
         {

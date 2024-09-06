@@ -21,6 +21,12 @@
         "Distributing a database over multiple nodes (sharding), cloud computing file systems",
         "Visualisation and presentation"
     ],
+    "intended learning outcomes": [
+        "ILO 1 - Be able to describe the relationship of the data pipeline to data science",
+        "ILO 2 - Be able to develop and critically evaluate alternative approaches to components of typical data pipelines",
+        "ILO 3 - Apply data processing methodologies to preparing data while managing data quality, system scalability, and usability for decision making",
+        "ILO 4 - Communicate effectively about data processing methodologies in oral form"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

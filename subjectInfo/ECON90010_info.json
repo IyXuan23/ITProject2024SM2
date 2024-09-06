@@ -9,6 +9,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Identify and apply recent advances in quantitative methods to solve a range of problems in finance",
+        "Describe how quantitative procedures can be applied in financial decision making",
+        "Demonstrate a sophisticated understanding of quantitative methods by reproducing existing results. This will involve using both mathematical and computer skills. The computer programs used are EViews, Matlab and Excel",
+        "Develop alternative frameworks for exploring new ideas in building alternative financial models",
+        "Evaluate the strengths and importance of research in applied finance and the implications of research for solving financial problems",
+        "Orally present the results of an independent piece of research",
+        "Complete a written research report"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

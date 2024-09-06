@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the principles of object-orientated programming.",
+        "Design computer programs that implement solutions in an efficient and effective manner.",
+        "Analyse the effects of numerical errors on computer-based finance models.",
+        "Use a variety of numerical procedures to solve quantitative finance problems.",
+        "Identify and analyse the assumptions, limitations and implementations of computer-based financial. models.",
+        "Evaluate the applicability of various mathematical techniques to classes of finance problems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

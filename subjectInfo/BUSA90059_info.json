@@ -10,6 +10,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply the principles of statistical variation in data analysis.",
+        "Select appropriate performance metrics, and compare and combine multiple performance metrics based on statistical principles",
+        "Distinguish between correlation and causation in statistical analyses\r\nTranslate business issues into appropriate statistical models (e.g. regression analysis) to quantify relationships between variables",
+        "Relate model outputs to the business issues to inform optimal decision strategies",
+        "Evaluate the robustness of data analyses, and appreciate their limitations"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

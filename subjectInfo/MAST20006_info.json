@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Develop a systematic understanding of probability, random variables, probability distributions and probability models, and their relevance to statistical inference;",
+        "Be able to formulate standard probability models from real world applications and critically assess them;",
+        "Be able to apply the properties of probability distributions, moment generating functions, variable transformations and conditional expectations to analyse common random variables and probability models;",
+        "Be able to use a computer package to perform computational tasks in probability analyses."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

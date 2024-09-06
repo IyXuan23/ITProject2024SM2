@@ -10,6 +10,17 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply the concepts of equilibrium of particles and bodies to evaluate support reactions on structures, forces in trusses and internal forces in beams",
+        "Describe how engineering principles and material properties are fundamental to engineered products and structures",
+        "Identify basic properties structural materials, manufacturing processes and the environmental implications of their selection and use in engineering",
+        "Use quantitative models to evaluate trade offs between alternative designs",
+        "Analyse the inter-relationships in modeling a truss from the statics, materials and geometric perspectives",
+        "Write basic MATLAB programs to perform a variety of simple tasks to assist in the design and analysis of structural and dynamic systems",
+        "Evaluate the sustainability implications of alternative materials",
+        "Evaluate the relationship between engineering solutions, construction/manufacture and buildability",
+        "Demonstrate an understanding of the Joining Melbourne Modules, and the learning outcomes of these, in relation to Mapping Environments subject matter and learning activities."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Investigate the characteristics of data that influence the choice of model and estimation technique for modelling and estimating economic relationships.",
+        "Apply suitable estimation techniques to a range of economic and econometric models, interpret the results from these models, and use the results for forecasting and policy analysis.",
+        "Describe the theory underlying inference techniques used in econometrics."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

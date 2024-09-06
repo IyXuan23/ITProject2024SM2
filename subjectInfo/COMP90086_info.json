@@ -19,6 +19,13 @@
         "Image segmentation",
         "Categorical and instance-level recognition"
     ],
+    "intended learning outcomes": [
+        "Identify basic challenges involved in interpreting image data",
+        "Understand and articulate the mathematical and/or algorithmic basis of common techniques used in computer vision",
+        "Analyse, design, and implement relevant techniques in computer vision to given problems",
+        "Undertake end-to-end research experiments, including evaluation with image datasets, including reporting results",
+        "Communicate technical solutions to computer vision problems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

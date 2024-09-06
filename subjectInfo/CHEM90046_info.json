@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate an increased knowledge and understanding of magnetochemistry in the context of isolated spins, discrete spin clusters and extended systems",
+        "Explain the magnetic properties of isolated organic radicals and 3d and 4f metal ions, the mechanisms of magnetic exchange interactions, long range ordering in extended solids and single-molecule magnetism",
+        "Use investigative skills, critical thought and the ability to evaluate information and to analyse literature reports of magnetochemical studies and data",
+        "Understand the microscopic quantum mechanical origin of magnetic phenomena in molecules and molecular materials based on transition metal and lanthanide ions, with special focus on exchange coupling, magnetic anisotropy, and spin relaxation dynamics, and use this knowledge to calculate observable magnetic properties of these systems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

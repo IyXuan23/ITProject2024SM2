@@ -14,6 +14,15 @@
         "This subject covers the computational analysis of several important forms of genomic data. Topics include computational resource management, reproducible research principles, genomics workflows, sequence alignment, genome annotation, parallel computing, metagenomics and single-cell sequencing. The subject domain rapidly progresses, and subject content is regularly revised and updated.",
         "Practical work includes writing bioinformatics functions with Python code, accessing genomics data repositories and using popular command-line tools."
     ],
+    "intended learning outcomes": [
+        "Use and manipulate a range of data formats used in computational genomics",
+        "Identify and describe commonly used computational approaches to processing genomic data and appropriately apply them",
+        "Discuss the advantages and disadvantages of a variety of algorithms that underpin computational genomic analyses",
+        "Design analysis workflows for novel scenarios using tools and methods discussed in the subject",
+        "Write simple Python programs and use programming libraries to complete computational genomics tasks",
+        "Demonstrate understanding of current challenges  in computational genomics and related fields",
+        "Explain the role of computational genomics in solving modern biological challenges"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

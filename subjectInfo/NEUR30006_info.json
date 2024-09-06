@@ -10,6 +10,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Program in Python using Jupyter notebook.",
+        "Build an artificial neural network to perform a learning task on a large dataset.",
+        "Visualise and evaluate the performance of the artificial neural networks they construct.",
+        "Understand the nature of data, noise, and computational models."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

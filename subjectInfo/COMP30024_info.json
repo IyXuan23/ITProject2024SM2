@@ -15,6 +15,13 @@
         "Reinforcement Learning",
         "Pattern recognition for robotics."
     ],
+    "intended learning outcomes": [
+        "Identify problems that can be solved by search, and create search-based solution algorithms",
+        "Design intelligent agents",
+        "Choose the best search-based solving methods for a particular problem",
+        "Make use of formal approaches for representing and reasoning about knowledge",
+        "Build systems that use simple learning approaches to improve their performance"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

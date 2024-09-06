@@ -1,0 +1,86 @@
+{
+    "Course name": "Bachelor of Agriculture (Degree with Honours)",
+    "Course code": "BH-AGR",
+    "Overview text": [
+        "The honours year in Bachelor of Agriculture comprises advanced coursework, and an individual research project designed to extend students' knowledge and skills in solving research problems. Completion of an honours year further prepares students for employment, or for a research higher degree (Doctor of Philosophy or Masters by Research).",
+        "The honours year programs are undertaken on a full-time basis and commence at the start of the year only.",
+        "On completion of the fourth (honours) year, the School determines the award of honours degrees on the basis of average mark of the weighted average of all fourth-year subjects. The resulting figure is the 'Honours Score'.",
+        "https://science.unimelb.edu.au/study/undergraduate-studies",
+        "Last updated: 30 January 2024"
+    ],
+    "Overview table": {
+        "Award title": "Bachelor of Agriculture (Degree with Honours)",
+        "Year & campus": "2024\u2014 Parkville",
+        "CRICOS code": "037229G",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Undergraduate Coursework",
+        "AQFlevel": "8",
+        "Credit points": "100 credit points",
+        "Duration": "12 months full-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "1. In order to be considered for entry, applicants must have completed:",
+            "within the last 10 years a Bachelor of Agriculture with a weighted average mark of at least H3 (65%), or equivalent, with a major relevant to the discipline stream within the Bachelor of Agriculture (Degree with Honours) that they seek to enter.",
+            "Meeting this requirement does not guarantee selection",
+            "2. In ranking applications, the Selection Committee will consider:",
+            "prior academic performance; and",
+            "the availability of supervision and resources in suitable project areas.",
+            "Quotas may be applied to the degree as a whole or to individual discipline streams and preference may be given to applicants with evidence of appropriate preparation or potential to undertake research.",
+            "3. The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Boardruleson the use of selection instruments.",
+            "4. For applicants who have not completed the Victorian Certificate of Education or the International Baccalaureate Diploma, theundergraduateEnglish language requirements must be met."
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "It is University and degree policy to take all reasonable steps to minimise the impact of disability upon academic study, and reasonable adjustments will be made to enhance a student's participation in the degree.",
+            "For the purposes of considering requests for Reasonable Adjustments under the Disability Standards for Education (Commonwealth 2005), and Students Experiencing Academic Disadvantage Policy, academic requirements for this course are articulated in the Course Overview, Objectives and Generic Skills sections of this entry.",
+            "It is University policy to take all reasonable steps to minimise the impact of disability upon academic study, and reasonable adjustments will be made to enhance a student's participation in the University's programs. Students who feel their disability may impact on meeting the requirements of this course are encouraged to discuss this matter with the Student Equity and Disability Support Team:http://www.services.unimelb.edu.au/disability/",
+            "Students enrolling in the Faculty of Science are advised that some courses of study may put them at an increased risk of contracting Q Fever. Q Fever is a relatively common, preventable condition which while rarely fatal, can cause a severe acute illness and can result in damage to heart valves and chronic fatigue. It is recommended that students consider undertaking screening and vaccination for Q Fever prior to commencement of study. Students may be required to provide proof of vaccination prior to undertaking some coursework. Vaccine costs for students are not covered by the Pharmaceutical Benefits Scheme (PBS), Medicare, or by the University. Some students with full private health coverage (which has hospital and ancillary cover) may receive partial reimbursement for vaccine costs.",
+            "More information:https://science.unimelb.edu.au/students/plan-your-study/q-fever-vaccinations"
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "BH-AGR is a 100 point honours year for students who have completed an undergraduate Bachelor of Agriculture.",
+                "The honours course is comprised of coursework subjects and a research project. The coursework subjects will enable students to gain an understanding of the principles of research. Students will also be expected to attend Faculty research seminars throughout the year."
+            ]
+        },
+        "Subject options": {
+            "overview": [],
+            "Research Component": {
+                "overview": [
+                    "Students will select a project from a list formulated by supervisors through the Honours Research Project subject coordinator. Some of these projects may be offered in collaboration with industry, and collaborating institutions. Project proposals detailing the experimental plan and a literature review will be presented before the Honours Panel for discussion and approval prior to commencing experimental work. Students will be required to present seminars on both their project proposal and the outcomes of their research. The expected length of the thesis (including references) will normally be limited to 20,000 words.",
+                    "Students enrol into both of the following subjects:",
+                    [
+                        "AGRI40017",
+                        "AGRI40018"
+                    ]
+                ]
+            },
+            "Coursework Component": {
+                "overview": [
+                    "Students must complete the following subject:",
+                    [
+                        "SCIE40001"
+                    ]
+                ]
+            },
+            "Selective Component": {
+                "overview": [
+                    "Students enrol into one of the following subjects (as directed by the student's research project supervisor). Students must seek approval from their research project supervisor prior to enrolling in the subject.",
+                    [
+                        "AGRI90075",
+                        "MAST90072",
+                        "BIOL90002"
+                    ]
+                ]
+            }
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": [
+        "After successfully completing the program, students will be prepared either to enter the workforce and pursue a career or to pursue further research study through a masters or doctor of philosophy degree.",
+        "https://science.unimelb.edu.au/study/graduate-research-in-science"
+    ]
+}

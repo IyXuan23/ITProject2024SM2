@@ -8,16 +8,26 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse real-world processes and evaluate the fit and consistency they offer with respect to the firm's overall strategy and positioning in the marketplace",
+        "Perform detailed process analysis to identify existing bottlenecks and improve processes through de-bottlenecking approaches",
+        "Understand the role that inventory plays in real-world situations, identify relevant managerial levers for controlling the level of inventory, and apply simple analytical frameworks for estimating the optimal order size and the level of safety stock that a firm should carry for its chosen level of service",
+        "Identify the drivers of variability in processes and propose managerially relevant solutions to contain the effects of variability using queuing models",
+        "Use robust statistical process control techniques to ensure that a given process under consideration is both capable and in control to deliver the products and services that satisfy customer needs",
+        "Apply six-sigma and lean (Toyota Production System) principles to improve the performance of processes"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
             "necessary pre-requisite": [
+                "25 credit points from ",
                 [
                     "BUSA90480",
                     "BUSA90481",
                     "BUSA90060",
                     "BUSA90482"
                 ],
+                "12.5 credit points from ",
                 [
                     "BUSA90193",
                     "BUSA90483"

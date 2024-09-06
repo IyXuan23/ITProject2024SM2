@@ -13,6 +13,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Judge the impact of effect measure modification on external validity and the implementation of population and clinical interventions",
+        "Assess confounding and collider bias by creating causal diagrams",
+        "Apply standardisation, inverse probability weighting and g-computation to control for confounding",
+        "Apply quantitative bias techniques to quantify the direction and magnitude of bias",
+        "Design experimental and observational epidemiological studies",
+        "Critique experimental and observational epidemiological studies"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

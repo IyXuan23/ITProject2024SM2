@@ -12,6 +12,12 @@
     "indicative content": [
         "Topics covered may include: methods for static and dynamic software testing; software security, quality and dependability; reliability measurement and engineering; performance measurement and engineering;software problem analysis and fault isolation; and software engineering tools."
     ],
+    "intended learning outcomes": [
+        "Select appropriate methods to build in quality and dependability into software systems",
+        "Select and apply effective testing techniques for verifying medium and large scale software systems",
+        "Select and apply measures and models to evaluate the quality and dependability of a software system",
+        "Work in a team to evaluate and apply different methods for quality and reliability of a software system"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -15,6 +15,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Formulate strategies for the solution of engineering problems by applying the differential equations governing fluid flow, heat transfer and mass transport",
+        "Solve these equations numerically by writing simple computer programs",
+        "Choose optimal mathematical and numerical methods from currently available technology to solve a physical CFD problem",
+        "Solve engineering problems using a current computational fluid dynamics software package",
+        "Evaluate the numerical errors inherent in a problem solution",
+        "Distil and communicate key aspects of complex processes so that it is accessible to end-users."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

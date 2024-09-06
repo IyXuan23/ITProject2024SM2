@@ -9,6 +9,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply relevant pre-requisite knowledge of mathematics, probability theory and statistics in the solution of a range of practical problems",
+        "Demonstrate a deep understanding of utility theory and apply them to insurance problems",
+        "Describe modern premium calculation principles and show whether a premium calculation principle satisfies certain properties",
+        "Design the optimal reinsurance for the insurer and the reinsurer under different optimality criterion",
+        "Describe the effect of reinsurance arrangements on ruin probabilities",
+        "Derive explicit solutions for the ruin probability in the classical risk model",
+        "Compare the tail variability of random losses using commonly used risk measures",
+        "Analyse and assess risks using stochastic orderings"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

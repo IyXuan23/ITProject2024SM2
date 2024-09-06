@@ -21,6 +21,13 @@
         "Development of client-server applications",
         "Computer system security and cryptographic protocols"
     ],
+    "intended learning outcomes": [
+        "ILO 1 - Demonstrate their knowledge of operating systems from the programmer's perspective",
+        "ILO 2 - Demonstrate their knowledge of networking technologies from the programmer's perspective",
+        "ILO 3 - Apply this knowledge to select appropriate tools and technologies for a problem at hand",
+        "ILO 4 - Build simple server applications",
+        "ILO 5 - Recognise some common security vulnerabilities and the reason why they are present in a particular system"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

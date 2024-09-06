@@ -10,6 +10,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "explain the statistical basis of the second and third laws of thermodynamics and the application of statistical mechanics to a range of problems in physics;",
+        "calculate statistical and thermodynamic functions using the canonical, micro-canonical and grand-canonical ensembles; and",
+        "analyse and interpret mathematical expressions obtained in these calculations."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

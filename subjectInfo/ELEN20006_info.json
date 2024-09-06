@@ -16,6 +16,12 @@
         "These topics will be complemented by exposure to the hardware description language such as Verilog and the use of engineering design automation tools and configurable logic devices (e.g. FPGAs) in the laboratory.",
         "Please view this video for further information:Digital Systems"
     ],
+    "intended learning outcomes": [
+        "1. Interpret and relate fundamental tools in the analysis of combinational and sequential logic systems, and understand the role and limitations of important digital abstractions",
+        "2. Recognise fundamental concepts, including hardwired and programmed approaches, to implement digital systems that achieve specified functionality",
+        "3. Use a hardware description language for the documentation, simulation and synthesis of digital systems",
+        "4. Use digital hardware development platforms in the laboratory."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

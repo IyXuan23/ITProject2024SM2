@@ -20,6 +20,14 @@
         "Chemical reactions and reaction equilibria.",
         "Interfacial thermodynamics."
     ],
+    "intended learning outcomes": [
+        "Apply the laws of thermodynamics to closed and open systems including thermodynamic cycles",
+        "Identify the different rate controlling mechanisms in reactor design",
+        "Design key aspects of heterogeneous reacting systems and in particular, catalytic reactor systems",
+        "Apply a range of approaches to estimate fluid phase equilibria in one and two component systems",
+        "Estimate the physical properties of mixtures, especially non-ideal mixtures",
+        "Predict the equilibria of chemical reactions."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

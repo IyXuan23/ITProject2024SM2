@@ -14,6 +14,14 @@
         ""
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "At the conclusion of this subject the student is expected to - Understand the limitations and advantages of various experimental techniques for fluid mechanics, and also have a sound understanding of the physics underpinning these techniques",
+        "Apply contemporary data analysis for experiments in the area of fluid mechanics, especially for experiments relating to boundary layers and turbulence",
+        "Apply the techniques of particle image velocimetry and hot-wire anemometry to investigate complex fluid flows",
+        "Understand how the equations of fluid motion are applied to flows near walls",
+        "Understand the importance of the boundary layer in engineering applications",
+        "Understand the role of turbulence in engineering applications."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

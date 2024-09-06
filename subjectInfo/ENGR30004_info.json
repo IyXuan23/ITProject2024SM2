@@ -10,6 +10,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Synthesize computational representations of physical systems and the numerical approaches appropriate to the systems.",
+        "Be competent in the construction of data structures and algorithms for numerical solutions, such as searching and optimisation.",
+        "Be competent in the theoretical construction of computational and memory complexity of programs and in depth understanding of its consequences in the resulting application outcomes;",
+        "Comprehend the role of computational techniques in the practice of professional engineering, including in the design, analysis and validations of physical systems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

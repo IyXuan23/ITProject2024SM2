@@ -13,6 +13,11 @@
         "Power System Operation: planning, scheduling, distributed generation, electricity markets, smart grid."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse simple electrical networks using basic device models and circuit theory",
+        "Describe the core components of electrical power systems (generation, transmission and distribution)",
+        "Describe the main components of the broader power system operations (including scheduling, electricity markets and the smart grid)"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

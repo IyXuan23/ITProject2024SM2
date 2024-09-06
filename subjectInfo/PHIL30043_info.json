@@ -12,6 +12,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Develop and demonstrate an understanding of the core features of first order predicate logic, including soundness and completeness, the compactness theorem, computability, decidability and G\u00f6del's incompleteness theorems",
+        "Demonstrate an ability to clearly state and prove results in and about first order predicate logic",
+        "Develop a command of the connections between the concepts of proof, model, completeness, computation, decidability, and incompleteness, and their applications to areas inside and outside philosophy",
+        "Critically reflect on the strengths and weaknesses of formal logic and the ways it can be applied and mis-applied in different fields of inquiry",
+        "Work individually, and in groups, to clarify problems, apply reasoning techniques to different issues, and to critically evaluate the results."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

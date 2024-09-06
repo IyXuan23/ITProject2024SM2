@@ -9,6 +9,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply fast probabilistic modelling and inference to flexible parametric models.",
+        "Create spatial data visualisation.",
+        "Use field-specific software platform for economic analysis.",
+        "Master linear algebra techniques for fast computation.",
+        "Solve nonlinear equations by using numerical techniques.",
+        "Solve and estimate structural models.",
+        "Carry out numerical dynamic programming.",
+        "Synthesize computational techniques with research."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

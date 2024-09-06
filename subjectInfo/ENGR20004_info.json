@@ -13,6 +13,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "formulate problems in statics and dynamics by choosing suitable system boundaries and identifying relevant forces and coordinate systems;",
+        "analyse the equilibrium of systems of forces in two dimensions;",
+        "determine the loads and stresses experienced by components of common engineering structures such as trusses, frames and beams;",
+        "describe and analyse the motion of particles and rigid bodies using three-dimensional vectors;",
+        "apply the principles of impulse-momentum and work-energy to solve problems in the dynamics of simple machines and vibrating structures."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -9,10 +9,18 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "An understanding of and experience in applying bioinformatics tools to real problems in biology and medicine.",
+        "A unique opportunity to learn from laboratory heads that use bioinformatics to address a broad range of research aims.",
+        "Develop oral communication skills to explain complex computational theories to a broad scientific audience.",
+        "Develop written communication skills to explain complex computational theories to a broad scientific audience.",
+        "Develop bioinformatics skills to analyse, interpret and describe biological data."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
             "necessary pre-requisite": [
+                "MC-COMPBIO students: Completion of at least 50 credit points of Master of Computational Biology",
                 [
                     "COMP90059"
                 ]

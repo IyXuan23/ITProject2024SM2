@@ -18,6 +18,13 @@
         "Automatic translation, and multilingual methods",
         "Relation extraction and coreference resolution"
     ],
+    "intended learning outcomes": [
+        "Identify basic challenges associated with the computational modelling of natural language",
+        "Understand and articulate the mathematical and/or algorithmic basis of common techniques used in natural language processing",
+        "Implement relevant techniques and/or interface with existing libraries",
+        "Carry out end-to-end research experiments, including evaluation with text corpora as well as presentation and interpretation of results",
+        "Critically analyse and assess text-processing systems and communicate criticisms constructively"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

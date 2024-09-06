@@ -18,6 +18,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Construct and critique systems-level formulations and architectures for robotic systems to perform tasks, using tools such as block diagrams and Markov decision processes.",
+        "Analyse and implement model-based methods for providing stability and performance, such as: PID, MPC, system identification, or adaptive control schemes",
+        "Analyse and implement reinforcement learning (RL) methods for discrete-time dynamical systems with continuous spaces",
+        "Appriase and combine the strengths of  multiple decision-making and learning algorithms for implementation on real-world systems, including an interdisciplinary perspective on using concepts and approaches from the engineering and computer science domains to develop an integrated solution.",
+        "Communicate and collaborate on AI and decision-making projects through formats such as: technical reports, presentations, and informational videos, and reflection",
+        "Differentiate and critique the variety of definitions, applications, and safety implications of AI for engineering systems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "An understanding of selected advanced topics in Bayesian statistics;",
+        "Developed the mathematical and computational skills needed for further research or applied work in statistics and data science;",
+        "Preparation for a research or industry career in statistics and data science;",
+        "Familiarity with several major texts in Bayesian statistics."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
@@ -19,6 +25,7 @@
                 "12.5 credit points of level 3 subject in statistics or stochastic processes which could include one of the below:"
             ],
             "one of pre-requisite": [
+                "12.5 credit points of level 3 subject in statistics or stochastic processes which could include one of the below:",
                 [
                     "MAST30001",
                     "MAST30025",

@@ -9,6 +9,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Employ exploratory data analysis techniques to reduce dimensionality of complex data sets and to evaluate the correlation of multivariate data",
+        "Recognise and interpret multiple linear regression models",
+        "Identify the fundamental concepts of a generalised linear model (GLM) and discuss its practical implementation",
+        "Use statistical software to fit regression and generalised linear models to a data set and interpret the results and to write simple functions to complete routine tasks",
+        "Employ the bootstrap method to assess properties of an estimator",
+        "Recognise the fundamental concepts of Bayesian statistics and employ these concepts to derive Bayesian estimators",
+        "Identify and interpret the fundamental concepts of credibility theory",
+        "Apply prerequisite mathematical and statistical concepts to the solution of problems on the above topics"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -18,6 +18,12 @@
         "Common design patterns and software architectures",
         "Tools for design and development"
     ],
+    "intended learning outcomes": [
+        "Apply their knowledge of modelling and design to solve computing problems",
+        "Work as an Individual and in a Team, with effective communication for software engineering tasks",
+        "Evaluate and apply appropriate choices of software tools in the modelling and design process",
+        "Engage in Life-long Learning with respect to the evolution of software processes"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

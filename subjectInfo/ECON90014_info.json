@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Formulate a dynamic optimization problem recursively and conduct some analytical analysis;",
+        "Numerically solve a dynamic model in a proper way;",
+        "Parameterise the structural model such that it links to the data properly;",
+        "Simulate the estimated model to derive model predictions;",
+        "Be familiar with the literature on several important areas of macroeconomic research;",
+        "Replicate and discuss a piece of economic analysis from a professional journal."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

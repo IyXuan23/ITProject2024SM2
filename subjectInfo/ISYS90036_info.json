@@ -12,6 +12,12 @@
         "The subject discusses (a) what enterprise-systems software is, (b) claimed advantages and limitations of enterprise systems, (c) how best to implement packaged enterprise application software, (d) future directions that PEAS are likely to head as vendors respond to market pressures for integration between heterogeneous information systems, cloud computing, greater access from mobile devices, and demand for more information faster than ever before, and (e) what organisations need to do to maximize benefits from their often-large investments in packaged enterprise application software. Students will normally undertake approximately 10-15 hours of hands-on exercises with software from a leading vendor, SAP.",
         "Please view this video for further information:Enterprise Systems"
     ],
+    "intended learning outcomes": [
+        "Have an appreciation of the factors that need to be managed if enterprise-wide software is to be implemented on time, within budget, and produce on-going benefits for its host organisation",
+        "Demonstrate the likely direction and impact of technological innovations such as in-memory databases, mobile computing, business intelligence and artificial intelligence on future enterprise system architectures",
+        "Develop a good understanding of the capabilities of enterprise-wide ICT-based application software, e.g., enterprise resource planning (ERP), customer relationship management (CRM), supply chain management (SCM)",
+        "Gain hands-on experience in using SAP ERP system, the most popular enterprise application software packages to support business processes"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

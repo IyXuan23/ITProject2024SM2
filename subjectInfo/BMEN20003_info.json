@@ -10,6 +10,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "1. Read, write and debug small-scale numerical programs in a high-level programming language",
+        "2. Argue for the validity of such programs, from both logical and numeric-soundness perspectives",
+        "3. Translate bioengineering problems into mathematical models and numerical programs",
+        "4. Implement and utilise fundamental numerical methods to solve problems relevant to bioengineering",
+        "5. Undertake independent learning of new programming languages by appreciating and leveraging similarities in syntax and semantics"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

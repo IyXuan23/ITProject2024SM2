@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Appreciate the importance and application of mathematical models for solving several problems in business.",
+        "Understand the most relevant methods and the trade-off between methods required to solve these models including: decision trees, linear programming, integer linear programming, local search and meta-heuristics.",
+        "Perform optimization techniques to solve business problems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Develop and evaluate computational models of language.",
+        "Articulate issues relevant to the efficient implementation of language processing systems and text retrieval systems.",
+        "Apply natural language processing and information retrieval methodologies to textual data."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

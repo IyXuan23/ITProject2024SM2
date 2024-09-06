@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Design, manipulate and reason about a variety of advanced algorithmic techniques and principles, and advanced data structures",
+        "Identify the appropriate algorithm (and data structure) to solve a complex problem",
+        "Implement such algorithms and data structures efficiently and correctly"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

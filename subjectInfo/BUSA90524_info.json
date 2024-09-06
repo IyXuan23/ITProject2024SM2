@@ -7,6 +7,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the traditional role of money and payment systems and the emergence of stateless, decentralized, cloud-based digital currency systems",
+        "Explain the nature and operation of digital currency in comparison to traditional payment and banking systems.",
+        "Describe blockchain technology, distributed ledgers, mining and consensus models.",
+        "Describe the structure of smart contracts and applications",
+        "Describe the process of token/coin sales, and of capital fund raising using ICOs. Additionally, survey related applications and projects.",
+        "Be able to evaluate the trade-offs between risk and return for investments in cryptocurrency and ICOs.",
+        "Determine the state of current and future blockchain and ICO relevant governance and regulation in Australia",
+        "Design and operationalize a blockchain system for the reconceptualization of a traditional business model into a peer to peer format, without intermediaries."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

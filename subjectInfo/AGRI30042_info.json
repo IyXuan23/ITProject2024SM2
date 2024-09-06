@@ -22,6 +22,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate an understanding of the classification and biology of the major groups of plant pathogens",
+        "Apply an understanding of plant pathology and molecular biology techniques to isolate and diagnose plant pathogenic organisms.",
+        "Demonstrate an understanding of bioinformatics tools used in plant pathology and be able to conduct DNA sequence analyses for diagnostics and molecular taxonomy",
+        "Identify the factors leading to disease epidemics",
+        "Formulate a practicable approach to integrated disease control in commercial plant species"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

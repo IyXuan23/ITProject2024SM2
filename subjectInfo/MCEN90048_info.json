@@ -10,6 +10,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe and discuss the concepts of Neural Networks and various types of learning algorithms",
+        "Describe, discuss and apply artificial intelligence approaches to optimization",
+        "Analyse, justify and apply the most appropriate artificial intelligence approaches for various classes of real problems in engineering including computer vision, energy demand forecasting, industrial quality control, engineering design and biomedical engineering",
+        "Implement and analyze the capability and limitations of artificial intelligence in engineering applications"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -15,6 +15,12 @@
         "A report focussing on the information gathering and modelling of a business problem.",
         "A comprehensive report covering all aspects related to the analysis of a business problem and the design, delivery and evaluation of an information systems solution to this problem."
     ],
+    "intended learning outcomes": [
+        "Describe and apply requirements gathering techniques",
+        "Use appropriate modelling techniques to best understand a business context and need for an information system",
+        "Acquire conceptual, abstraction and analytical skills to design and analyse business problems",
+        "Demonstrate how to effectively document information systems solutions to business problems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

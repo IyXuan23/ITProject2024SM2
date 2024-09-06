@@ -10,6 +10,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "ILO1.  Explain the existing and new roles for digital systems in an industrial environment.",
+        "ILO2. Analyse the characteristics of different dimensions, solution approaches and technologies contributing to digital transformation of industrial systems.",
+        "ILO3. Apply appropriate principles to design digital solutions for the vertical, horizontal and end-to-end integration of operations and supply chains.",
+        "ILO4. Analyse the challenges associated with the use of digital solutions at different dimensions."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

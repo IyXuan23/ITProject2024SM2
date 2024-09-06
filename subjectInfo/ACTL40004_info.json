@@ -9,6 +9,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate a knowledge of the properties of option prices, valuation methods and hedging techniques, and be able to apply these",
+        "Apply binomial trees and lattices in valuing options",
+        "Apply the Ito calculus",
+        "Calculate option prices under the Black-Scholes model",
+        "Describe and apply in simple models, including the binomial model and the Black-Scholes model, the approach to pricing using deflators and demonstrate its equivalence to the risk-neutral pricing approach",
+        "Demonstrate a knowledge of models of the term structure of interest rates",
+        "Apply, as a computational tool, the risk-neutral approach to the pricing of zero-coupon bonds and interest-rate derivatives for a general one-factor diffusion model for the risk-free rate of interest",
+        "Demonstrate a knowledge of simple models for credit risk"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

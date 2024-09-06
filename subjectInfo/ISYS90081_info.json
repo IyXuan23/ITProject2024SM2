@@ -13,6 +13,13 @@
     "indicative content": [
         "Topics include methods, techniques and tools for process identification and discovery, for process analysis and redesign, and for process implementation and monitoring. Students will learn how to identify business processes within an organisation, how to organise them in a business process architecture and prioritise the management of these processes. Students will also be exposed to a broad range of techniques to discover business processes in the form of process models (using the BPMN standard), to analyse process issues on the basis of these models, and to assess the qualitative and quantitative impact of these issues on organisation performance. Students will further learn how to evaluate and implement different process redesign options aimed at lifting the identified issues, and how to monitor the adherence of the redesigned processes to set performance targets. The subject also exposes students to recent developments in the area of process mining."
     ],
+    "intended learning outcomes": [
+        "Analyse key concepts of business processes, and the importance of systematically managing such processes to improve organisational performance",
+        "Identify, organise and document business processes at different levels of detail using contemporary process modelling techniques",
+        "Apply qualitative and quantitative techniques to analyse process performance and to assess the impact of process changes",
+        "Analyse how IT can be used to deliver value by automating business processes, and how transactional data can be exploited to build insightful process analytics",
+        "Apply the knowledge and skills acquired holistically on a real-life business problem"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

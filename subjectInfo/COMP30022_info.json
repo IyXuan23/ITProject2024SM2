@@ -12,6 +12,12 @@
     "indicative content": [
         "Students will work in teams to analyse, design, implement and test a non-trivial IT system. A key part of the project is for students to develop and manage a project in order to deliver a quality IT product. Workshops will explore the application of theory to the project and include selected topics drawn from: ethics, project management, design frameworks, testing, technical reviews, and product evaluation."
     ],
+    "intended learning outcomes": [
+        "ILO 1 - Undertake problem identification, formulation and solution",
+        "ILO 2 - Communicate effectively, not only with other IT professionals, but also with the community at large",
+        "ILO 3 - Analyse, design, implement and test a system",
+        "ILO 4 - Apply IT principles to the development of non-trivial systems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

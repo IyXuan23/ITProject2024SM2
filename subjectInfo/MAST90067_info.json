@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "have learned how the calculus of variations, transform methods and associated asymptotic analysis apply in a variety of areas in applied mathematics and mathematical physics;",
+        "appreciate the role of advanced contour integration techniques of complex analysis and to be able to use these techniques to calculate transform integrals;",
+        "understand the basic concepts of asymptotic evaluation of integrals, know how to implement Laplace\u2019s method, stationary phase and steepest descents and appreciate their applicability and limitations;",
+        "be familiar with the basic properties of generalized functions and Green\u2019s functions in applied mathematics and mathematical physics and their applications;",
+        "have the ability to pursue further studies in these and related areas."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

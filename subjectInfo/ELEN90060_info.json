@@ -17,6 +17,13 @@
         "Computer simulations.",
         ""
     ],
+    "intended learning outcomes": [
+        "1.  Interpret the behaviour of the basic components of power systems",
+        "2. Compute power flow in transmission systems",
+        "3. Compute fault quantities, such as voltage, current and power in transmission systems under normal and fault conditions",
+        "4. Ascertain the stability of power systems from operating conditions",
+        "5. Use software tools to simulate and study the steady-state and dynamic behaviour of electrical power systems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

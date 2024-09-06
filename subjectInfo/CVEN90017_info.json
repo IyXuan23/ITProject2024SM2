@@ -10,6 +10,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "ILO1 - Describe seismicity of the world and the role of plate tectonics",
+        "ILO2 - Perform seismic hazard and site specific analysis to quantify potential seismic hazards on infrastructure",
+        "ILO3 - Undertake seismic analysis of building structures using a commercial software package and verify results using manual calculations",
+        "ILO4 - Undertake seismic design and assessment of building structures. The implementation of measures to improve environmental sustainability will be discussed in relation to design",
+        "ILO5 - Interpret the requirements of building codes of practice on seismic detailing of reinforced concrete building structures."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

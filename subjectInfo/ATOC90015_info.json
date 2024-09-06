@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Derive Ensemble Kalman Filter (ENKF) data assimilation schemes and implement them in simple models;",
+        "Derive 4DVar data assimilation schemes and implement them in simple models;",
+        "Give examples of situations where assumptions of error distribution symmetry are invalid;",
+        "Describe some of the data assimilation errors that occur when a scheme incorrectly assumes that the functional relationship between the error in one variable and another variable is linear; and",
+        "Define the limitations of EnKF and 4DVar data assimilation systems and show how more advanced techniques such as the Particle Filter and the Monte-Carlo Markov Chain approaches attempt to overcome these limitations."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

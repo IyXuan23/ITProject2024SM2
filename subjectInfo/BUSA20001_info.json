@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Manage common issues in the manipulation of business data of different types (e.g., timestamp, textual data)",
+        "Collect and compile business data from multiple sources",
+        "Define appropriate business metrics and variables for a given data set",
+        "Explain the principles and issues involved in the effective presentation of business data for decision-making purposes"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

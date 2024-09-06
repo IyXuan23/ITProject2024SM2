@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Discuss the multidisciplinary nature of bioinformatics and its role in modern scientific research and clinical practice. The multidisciplinary nature of bioinformatics and its role in modern scientific research and in biological practice",
+        "Name and describe the range of data types used in bioinformatics and how they are generated",
+        "Identify and describe the major software tools / analysis pipelines and their application areas",
+        "Review and critique bioinformatics applications in the research literature",
+        "Select an appropriate technology platform and analysis pipeline for a variety of different applications",
+        "Interpolate the application of bioinformatics tools between different scenarios"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

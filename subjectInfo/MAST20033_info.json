@@ -10,6 +10,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply rigour in mathematics, be able to use proof by induction, proof by contradiction, and to use epsilon-delta proofs both as a theoretical tool and a tool of approximation;",
+        "Describe the theory and applications of both the Riemann and Lebesgue integrals;",
+        "Identify real numbers and explain their importance of completeness;",
+        "Define convergence and the Cauchy property, and be able to deploy either when analysing the convergence or divergence of sequences;",
+        "Apply knowledge of the theory and practice of power series expansions and Taylor polynomial approximations;",
+        "Describe the role of Fourier series in representing periodic functions."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

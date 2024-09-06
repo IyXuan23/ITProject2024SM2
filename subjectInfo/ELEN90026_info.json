@@ -17,6 +17,11 @@
         "Approximation algorithms and penalty methods."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply numerical linear algebra and real analysis within the context of optimization problems",
+        "Formulate and solve engineering problems via nonlinear optimisation methods",
+        "Apply computational tools to solve standard unconstrained and constrained optimization problems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

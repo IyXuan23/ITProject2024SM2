@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain how linear algebra dictates the structure of the solution space of a linear differential equation;",
+        "Apply series methods to construct solutions of linear differential equations and initial-/boundary-value problems;",
+        "Utilise transform methods to find exact solutions of certain initial-/boundary-value problems;",
+        "Employ eigenfunction expansions in solving linear partial differential equations that naturally arise in applications."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

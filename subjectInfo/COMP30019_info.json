@@ -21,6 +21,13 @@
         "Interaction categories and styles (particularly graphical user interfaces)",
         "Usability and accessibility (including interaction for people with disabilities)."
     ],
+    "intended learning outcomes": [
+        "Understand the theoretical concepts of computational geometry and human-computer interaction",
+        "Be able to evaluate, design, and implement software for computer graphics and human-computer interaction",
+        "Understand the strengths and weaknesses of different technological approaches to computer graphics and interaction",
+        "Be able to use of computer graphics and other appropriate technologies for developing applications",
+        "Apply principles of computer graphics to specific problems in a variety of domains."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

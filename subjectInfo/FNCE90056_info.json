@@ -10,6 +10,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Discuss core concepts in investment management, including risk, return, risk premium and risk aversion;",
+        "Analyse the portfolio selection problem, with emphasis on the mean variance framework;",
+        "Explain the benefits of diversification and the main drivers of those benefits;",
+        "Critically evaluate alternative theories of asset pricing and their application in the valuation of securities;",
+        "Develop techniques to evaluate the performance of portfolio managers;",
+        "Analyse critical issues in the valuation of fixed income securities and the management of fixed income portfolios;",
+        "Critically evaluate the theories of the term structure of interest rates and their application to fixed income portfolio management."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

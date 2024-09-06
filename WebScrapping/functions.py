@@ -10,7 +10,7 @@ def retrieveLinks(file):
 
     return links['links']
 
-def scrapeOfferedLinks(numOfPages, targetArray, url):
+def scrapeOfferedLinks(numOfPages, targetArray, url, fileName):
 
     className = 'search-result-item__anchor'
     #while loop will iterate through all the subject pages and return an array of the links for each individual subject
@@ -36,8 +36,6 @@ def scrapeOfferedLinks(numOfPages, targetArray, url):
         print("scrapped page" + str(i))
         i += 1    
 
-    
-    fileName = 'subjectLinks.json'
     filePath = os.path.join('linkStorage', fileName)
     #store in json for quick access
     with open(filePath, 'w') as json_file:
@@ -206,7 +204,15 @@ def scrapeILO(url):
     container = soup.find('div', class_='sidebar-tabs__panel')
     ILOContainer = container.find('div', id='learning-outcomes')
 
+    #for subjects with blank overview eg. ENEN80001
+    if ILOContainer == None:
+        return []
+
     ILOs = ILOContainer.find('ul', class_='ticked-list')
+
+    #for subjects with no ILOs eg. COMP80001
+    if ILOs == None:
+        return []
 
     lis = ILOs.find_all('li')
     for li in lis:
@@ -309,8 +315,6 @@ def formatOptions(courseCode):
             oneOfIndicator = False
             andIndicator = False
 
-            print('OPTION START')
-
             while ((nextElem not in options) and (hasattr(nextElem, 'get_text') 
                                             and nextElem.get_text() != 'Corequisites')):
 
@@ -367,12 +371,10 @@ def formatOptions(courseCode):
                 'alternate pre-requisite': altPreReq
             }
             optionList.append(optionData)
-            print(optionData)
+
     return optionList
 
 def parseORoptions(soup):
-
-    print('parsing using OR')
 
     preReqContainer = soup.find('div', id='prerequisites')
 
@@ -400,8 +402,6 @@ def parseORoptions(soup):
         oneOfIndicator = False
         andIndicator = False
         creditIndicator = False
-
-        print('OPTION START')
 
         while ((nextElem not in options) and (hasattr(nextElem, 'get_text') 
                                         and nextElem.get_text() != 'Corequisites')):
@@ -480,7 +480,6 @@ def parseORoptions(soup):
         }
         optionList.append(optionData)
         optionNum += 1
-        print(optionData)
 
     return optionList
 
@@ -910,5 +909,7 @@ def scrapSubject(url, subjectName, subjectCode):
 
     writeJSONFile(filePath, subjectName, subjectCode, overview, aims, indicativeContent, optionsPreReq, \
                 coReq, nonAllowed, assessments, dateTimes, contactInfo, availability, furtherInfoData, ilo)
+
+    print("scrapped " + subjectCode)
 
     #https://handbook.unimelb.edu.au/subjects/comp30022/further-information

@@ -9,6 +9,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "an understanding of the derivative of a function in terms of limits, the differentiation of polynomial, exponential and logarithmic functions, and maximal and minimal problem solving using stationary points;",
+        "the ability to use differential calculus; by expanding on the concept of a derivative; by exploring continuity, differentiability, the product, quotient and chain rules for differentiation, and the use of differentiation to solve rates of change problems and linear approximations;",
+        "the ability to use basic integral calculus including antidifferentiation; and be able to find the area beneath a curve and between two curves, solve infinite limits, and perform integration to infinity;",
+        "the ability to use basic statistics for different types of variables, including measures of location (median and mode) and spread (range, variance and standard deviation), and be able to present statistical data using charts and tables (using Excel);",
+        "an understanding of the basic concepts in probability, including the addition and multiplication rules, and be able to use various methods for representing probabilities, conditional probability, and an introduction to counting methods (permutations and combinations);",
+        "an understanding of the concept and uses of probability distributions, including discrete probability distributions (eg. the binomial), and continuous probability distributions (the normal). It also introduces of expected value and standard deviation as ways of interpreting real world situations and solving real world problems;",
+        "well-developed communication and group work skills."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

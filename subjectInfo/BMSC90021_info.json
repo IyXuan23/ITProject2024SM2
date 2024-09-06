@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse how genetic variants are identified in the clinic.",
+        "Synthesise ethical and patient-centred issues associated with genomic sequencing and evaluate strategies to address these.",
+        "Apply relevant technologies to investigate pathological genetic variation and interpret the data obtained from these analyses.",
+        "Design a workflow utilising a range of experimental techniques  to analyse the function of genomic variants.",
+        "Evaluate various models available for analysis of gene and protein function."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

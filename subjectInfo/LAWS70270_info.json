@@ -19,6 +19,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "analyse and explain the role and function of contracts used on construction projects",
+        "analyse and draft construction contracts",
+        "critically reflect on the interaction between the technical, commercial and legal aspects of construction contracts",
+        "investigate, examine and analyse existing and emerging legal issues relating to construction contracts."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
@@ -31,7 +37,7 @@
                 [
                     "LAWS70176",
                     "LAWS70314",
-                    "LAWS90207"
+                    ""
                 ]
             ],
             "additional pre-requisite": [

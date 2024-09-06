@@ -12,6 +12,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "apply action principles to the physics of the fields involved in electrodynamics and continuous media.",
+        "solve the basic equations of fluid flow, turbulence and aerodynamics.",
+        "apply symmetry principles to problems involving  a diverse range of physical systems and describe their connection to  conservation laws."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

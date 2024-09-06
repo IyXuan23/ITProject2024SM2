@@ -12,6 +12,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply fundamental mathematical tools to model, analyse and design aerospace dynamic systems",
+        "Recognise the broad applicability of the mathematics of systems theory, particularly within aerospace engineering",
+        "Demonstrate the ability to control continuous-time aerospace systems",
+        "Simulate and design the behaviour of aerospace systems using MATLAB"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

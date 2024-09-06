@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the structure of multivariate data, particularly high-dimensional data.",
+        "Select, implement, and justify appropriate methods to perform classification, clustering, and dimension reduction.",
+        "Understand the statistical underpinnings of the methods used in multivariate data and be able to check when assumptions may or may not hold.",
+        "Pursue further studies in this and related areas, or to be work ready as an applied statistician or a data scientist."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

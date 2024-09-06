@@ -11,6 +11,14 @@
     "indicative content": [
         "The subject will examine some of the cyber security challenges faced during system implementation and deployment. In particular it will identity common attack vectors, covering in more detail some of the Open Web Application Security Project (OWASP) Top 10 list of web application vulnerabilities, which may include topics such as injection, cross\u2010site scripting, session hijacking, and cross\u2010site request forgery, amongst others. Where appropriate practical examples will be examined to relate theory to practice. The subject will discuss methods for mitigating the risks associated with such vulnerabilities, and may include discussions on distributed denial of service, input validation and sanitisation, penetration testing, and the associated ethical and legal constraints, automated vulnerability scanning, and web application firewalls."
     ],
+    "intended learning outcomes": [
+        "Identify common attack vectors",
+        "Discuss mitigation strategies for common attack vectors",
+        "Develop appropriate input validation and data sanitisation strategies",
+        "Compare software updating strategies and their effectiveness at mitigating software vulnerabilities",
+        "Explain the importance of correctly configuring software",
+        "Critique options for vulnerability disclosure and the associated ethical challenges"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

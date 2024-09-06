@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "be able to classify molecules according to their symmetry and to relate their physical properties (e.g. dipole moment, isomerism) to the molecular symmetry;",
+        "have a basic knowledge of the basis and application of spectroscopic techniques that are conducted in the presence (NMR, EPR) or absence (IR, Raman, UV-Vis.) of an applied magnetic field;",
+        "be able to apply molecular orbital theory to simple homo- and heteronuclear diatomic molecules and polyatomic molecules;",
+        "be able to apply simple Huckel approaches to arrays of atoms having orbitals of pi symmetry;",
+        "be able to identify systems that are aromatic or antiaromatic in character and to have a knowledge of their basic reactions;",
+        "be able to describe the changes in bonding that occur to small molecules (e.g. CO) on binding to a transition metal and to be able to apply these concepts to the catalysis of reactions of those species."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

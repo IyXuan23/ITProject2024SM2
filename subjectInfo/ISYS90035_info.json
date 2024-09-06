@@ -11,6 +11,13 @@
     "indicative content": [
         "Techniques of analysis and design likely to be learned are: critical thinking, discourse analysis and design thinking. Real-world case studies in the form of fieldwork are conducted likely from the following domains: software industry; retail; creative/fashion industry; manufacturing; emergency management. Real case-study work will shape thinking about IT support for KM in these industries."
     ],
+    "intended learning outcomes": [
+        "Apply the theoretical concepts of knowledge management to real-world situations",
+        "Use qualitative techniques of analysis to identify requirements for knowledge-initiatives in response to a real-world work situation",
+        "Demonstrate the strengths and weaknesses of different technological approaches to knowledge management",
+        "Specify new high-level designs for knowledge management initiatives using discourse analysis, qualitative techniques and design thinking",
+        "Analyse documented cases of knowledge management initiatives and identify their strengths and weaknesses"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -10,6 +10,12 @@
         "Please view this video for further information:Imaging the Environment"
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "ILO 1 - Describe imaging techniques which allow information to be extracted from the image",
+        "ILO2 - Design and create representations of spatial information extracted from image data",
+        "ILO 3 - Analyse image data to monitor various environments including natural, urban, indoor, and outdoor",
+        "ILO 4 - Interpret image data to inform management of various infrastructures."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

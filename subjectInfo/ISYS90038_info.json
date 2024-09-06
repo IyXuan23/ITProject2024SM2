@@ -11,6 +11,13 @@
     "indicative content": [
         "Topics covered in the subject include: critical and strategic thinking, modes of strategic planning, ICT strategic frameworks, ICT Governance frameworks, ICT Governance policy documents, ICT Governance design frameworks, ICT Governance arrangements, models of organisational decision making, operating models, relationship of ICT Governance design to the development of enterprise architectures, ICT Governance design methodologies, and value creation through ICT Governance design and implementation."
     ],
+    "intended learning outcomes": [
+        "Engage in the process of ICT strategic planning and the critical review of ICT strategic plans",
+        "Demonstrate expertise of the role of ICT strategic planning in the formulation of ICT governance plans",
+        "Apply the principles and methodologies found in current ICT governance frameworks to the development of ICT governance plans for an organisation",
+        "Critically analyse the ICT plans of an organisation to determine the maturity of ICT strategic planning and governance within that organisation",
+        "Demonstrate insight of the relationships between ICT governance planning and the development of an enterprise architecture"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

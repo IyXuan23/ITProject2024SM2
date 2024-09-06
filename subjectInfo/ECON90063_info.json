@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand and to be able to use the techniques of parametric optimisation, the envelope technique and duality as a basis for comparative statics",
+        "Understand and to be able to use the fixed point theorems that are used in advanced microeconomics",
+        "Understand and to be able to explain the structure of the standard competitive model using envelope and duality methods",
+        "Be able to apply fixed point theorems to demonstrate existence of optima and equilibria in general equilibrium, game theory and dynamic programming",
+        "Understand the mathematical concepts that underlie the envelope techniques and fixed point theorems that are used in advanced microeconomics."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

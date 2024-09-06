@@ -11,6 +11,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Discuss the strengths and limitations of epidemiological investigations (including surveillance systems-based investigations, case control studies and systematic reviews)",
+        "Describe the concepts of causal inference, bias and confounding for the purpose of critical appraisal and designing investigations to answer questions of public health importance",
+        "Appraise a variety of epidemiological investigations and synthesise such appraisals to inform decision making in public health and health professional practice",
+        "Describe the basic concepts underlying the susceptible-infectious-recovered infectious disease model, for the purpose of infectious disease modelling",
+        "Analyse data, and present and interpret the results from a variety of epidemiological investigations for the purposes of decision making in public health and health professional practice",
+        "Identify the key components of a health system and describe the points in the system where epidemiological evidence can be used to improve policy and practice across different contexts."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -11,6 +11,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the relation of global and Australian reference coordinate systems, together with their respective transformations",
+        "Discuss the mechanisms of state-of-the-art positioning technologies and their underlying principles, together with their corresponding merits and limitations.",
+        "Use high-end GNSS receiver hardware to collect satellite measurements for real-time and post processed positioning.",
+        "Use high-end GNSS processing software as well as open-source LIDAR processing software, to generate positioning solutions and undertake a rigorous analysis of the solution quality.",
+        "Use a range of techniques for managing multi-sensor positioning errors and biases in indoor and outdoor environments."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

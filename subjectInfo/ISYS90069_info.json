@@ -11,6 +11,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain complex aspects of the structure of healthcare, including the roles of patients, various professionals, insurance companies and governments",
+        "Describe implications of the generation and use of biomedical data, information, and knowledge within a variety of relevant systems and settings",
+        "Demonstrate understanding of how core digital health technologies work, through practical activities with simulations of tools such as electronic health records, clinical decision support systems, patient portals, and mobile apps and wearable sensors",
+        "Critically analyse how various digital technologies can optimise information use within healthcare and summarise the potential risks associated with these solutions",
+        "Apply ethical frameworks and conceptual models to critique contemporary digital health practices and trends"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

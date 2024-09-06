@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the underlying statistical theory of linear models and the limitations of such models.",
+        "Fit linear models to data using a standard statistical computing package and interpret the results.",
+        "Be able to predict (or classify) qualitative responses.",
+        "Understand the underlying theory of Bayesian statistics.",
+        "Understand the underlying theory and be able to apply the EM algorithm in simple settings.",
+        "Be able to use a computer package to perform statistical computing and data analysis"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

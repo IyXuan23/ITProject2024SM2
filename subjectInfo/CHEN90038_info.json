@@ -12,6 +12,12 @@
     "indicative content": [
         "Fundamental topics covered in the subject include: how colloidal particle diffusion mediates particle suspension stability and shelf life, how to link interparticle forces to stability, shelf life and particle suspension flow,i.e.,viscoelasticity and rheology; the formation and properties of emulsions and foams, the behaviour of polymers in solution and how this affects polymer adsorption to surfaces and coating formation; the viscoelastic behaviour of polymer solutions and how polymers are used in soft materials including polymer coatings, gels and hydrogels; the formation solution microstructure through the self-assembly of amphiphilic molecules to form micelles, vesicles and hexagonal phases. The common characterisation and analytical methods used to study these phenomena including a number of more advanced methods in spectroscopy, microscopy, particle size measurement and image analysis."
     ],
+    "intended learning outcomes": [
+        "Describe and analyse the flow behaviour of particulate materials and the influence of surface chemistry, additives and processing history on the behaviour of fine solid and liquid particle slurries",
+        "Connect the structure-function relationships based in interfacial phenomena to product material properties as well as formulation and device design.",
+        "Apply the physical concepts of interfacial phenomena to processes, products and devices in the minerals, ceramics, pigment, food, personal care products, biomedical device and pharmaceuticals industries.",
+        "Apply these concepts to the manufacture and characterisation of products and related soft materials."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -7,10 +7,18 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Value important classes of financial assets such as common stocks, fixed-income securities, and derivative securities.",
+        "Build a diversified portfolio and assess portfolio performance.",
+        "Use financial derivatives as hedging instruments in portfolio creation and management.",
+        "Understand how money is created, how monetary policy is implemented and the effect of central banks decisions\u2019 on the performance of their investment portfolios.",
+        "Devise investment strategies robust to financial crises and also those that exploit certain inefficiencies of financial markets."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
             "necessary pre-requisite": [
+                "87.5 credit points from ",
                 [
                     "BUSA90480",
                     "BUSA90481",
@@ -23,6 +31,7 @@
                     "BUSA90482",
                     "BUSA90483"
                 ],
+                "25 credit points from ",
                 [
                     "BUSA90026",
                     "BUSA90227"

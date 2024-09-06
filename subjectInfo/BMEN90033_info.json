@@ -10,6 +10,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Design and build biomedical instruments that comply with the regulatory standards for medical devices.",
+        "Describe the key considerations for biological signal generation and measurements.",
+        "Design and apply signal conditioning within the context of a biomedical device.",
+        "Describe and apply safety concepts for biomedical instrumentation and clinical implementation."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

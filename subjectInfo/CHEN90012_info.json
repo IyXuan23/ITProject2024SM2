@@ -14,6 +14,12 @@
         "",
         "This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practice Hurdle (EPH)."
     ],
+    "intended learning outcomes": [
+        "Recognise the principles of process equipment design, the mechanical aspects of the design operation of process equipment, including safety considerations",
+        "Design several different unit operations in detail",
+        "Develop process flow sheets and design process layouts of equipment and pipelines in chemical process plants",
+        "Prepare equipment drawings and equipment specification sheets."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

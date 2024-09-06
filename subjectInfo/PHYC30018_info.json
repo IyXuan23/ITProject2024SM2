@@ -20,6 +20,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "explain the basic principles of quantum physics including the probability interpretation, unitary time-evolution, the association of operators with observables, Pauli exclusion principle, and entanglement;",
+        "solve elementary problems involving intrinsic spin;",
+        "solve problems by applying quantum mechanical theory to situations involving atoms, molecules, solids, nuclei and elementary particles;",
+        "appreciate the importance of approximation techniques in quantum mechanics."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

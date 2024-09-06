@@ -16,6 +16,13 @@
         "A detailed design report including the detailed process and mechanical design of a unit operation with the process, the full process control and operation as well as process and instrumentation diagram of the process, specification of all minor equipment items in the process, a full HAZOP of a section of the plant, a full economic analysis and sensitivity study of the proposed plant.",
         "This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practice Hurdle (EPH)."
     ],
+    "intended learning outcomes": [
+        "Complete a chemical engineering feasibility study for a proposed product/process",
+        "Conduct a process development assessment and mass and energy balances to determine the overall scope and intent of the project",
+        "Carry out the integrated process and equipment design for an industrial chemical process, which is initially poorly-defined and for which much of the design data is not available",
+        "Function as part of a team and manage their time effectively",
+        "Apply all of the hard and soft skills acquired in earlier units in an integrated way to develop a full chemical plant design package"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

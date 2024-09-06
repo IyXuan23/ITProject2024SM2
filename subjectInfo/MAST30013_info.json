@@ -10,6 +10,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "skills in setting up operations research models;",
+        "a knowledge of the most important techniques for solving nonlinear optimisation problems;",
+        "an understanding of the role of algorithmic thinking in the solution of operations research problems;",
+        "competence in the use of computer packages in operations research;",
+        "an understanding of the factors and restrictions involved in building and using models for planning and management problems;"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

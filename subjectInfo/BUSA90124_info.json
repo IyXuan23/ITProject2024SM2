@@ -7,10 +7,17 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Develop a strategy implementation plan",
+        "Identify and analyse issues that are blocking the successful implementation of a strategy",
+        "Apply frameworks and tools to engage employees in the process of implementing strategy",
+        "Work more effectively across organizational boundaries to achieve successful strategic outcomes"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
             "necessary pre-requisite": [
+                "100 credit points from ",
                 [
                     "BUSA90060",
                     "BUSA90224",
@@ -24,6 +31,7 @@
                     "BUSA90483",
                     "BUSA90026"
                 ],
+                "12.5 credit points from ",
                 [
                     "BUSA90227"
                 ]

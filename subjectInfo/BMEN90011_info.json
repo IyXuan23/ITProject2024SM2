@@ -14,6 +14,14 @@
         "Please view this video for further information:Tissue Engineering and Stem Cells",
         ""
     ],
+    "intended learning outcomes": [
+        "Explain the significance, current status and future potential of tissue engineering",
+        "Identify key challenges in tissue engineering of different human tissues",
+        "Describe the design, fabrication and biomaterials selection criteria for tissue engineering scaffolds",
+        "Describe the sources, selection, potential manipulations and challenges of using stem cells for tissue engineering",
+        "Use simple models to quantify aspects of bioreactor design",
+        "Discuss the challenges of in vivo implantation of biomaterials and scale-up issues relating to human clinical applications and explain the ethical and regulatory issues of significance in tissue engineering."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

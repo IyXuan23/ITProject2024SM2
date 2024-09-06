@@ -17,6 +17,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the fundamental mechanisms by which a Language Model (LLM) stores information, reasons, and generates content.",
+        "Develop a basic web-based interface that enables users to effectively interact with an LLM-based application to solve legal problems.",
+        "Specify and implement the necessary code logic for an LLM to execute legal tasks and integrate it with a web-based user interface.",
+        "Analyse legal documents and sources as data structures from the perspective of an LLM and demonstrate proficiency in making this data accessible for an LLM.",
+        "Analyse the performance of an LLM-based application in solving legal problems, and enhance its performance through prompt engineering and context augmentation resulting in improved outcomes and usability.",
+        "Hypothesise the ways in which LLM-based technology might affect the legal industry in the short-, medium- and long-term."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

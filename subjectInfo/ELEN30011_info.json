@@ -12,6 +12,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Develop/interpret useful models for electrical and electronic devices from the underlying physics and/or empirical data",
+        "Use modelling principles in engineering design with an appreciation for the impact of modelling uncertainty and model complexity",
+        "Implement and analyse the results of laboratory experiments for gathering empirical data from electrical and electronic devices",
+        "Use software tools to simulate the behaviour of electrical and electronic devices."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

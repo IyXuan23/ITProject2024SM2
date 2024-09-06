@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "an understanding of the concepts of homotopy and homotopy equivalence of topological spaces;",
+        "an understanding of the fundamental group, homology groups, and covering spaces;",
+        "the ability to calculate fundamental groups and homology of spaces;",
+        "the ability to solve problems involving topological spaces and continuous maps by converting them into problems in algebra;",
+        "the ability to pursue further studies in this and related areas."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

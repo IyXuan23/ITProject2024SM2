@@ -10,6 +10,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the molecular basis of signal generation by cell surface receptors and intracellular receptors of hormones and neurotransmitters",
+        "Describe the structural basis underpinning how cell signalling mediators recognise their substrates and catalyse post-translational modifications of their target proteins",
+        "Devise experiments to investigate how dys-regulation of key cell signalling proteins contributes to diseases",
+        "Perform computational analysis of the sequence and structure of signalling proteins",
+        "Critically analyse of the current scientific literature on cell signalling and neuroscience research"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

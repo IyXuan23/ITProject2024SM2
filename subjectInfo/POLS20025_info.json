@@ -10,6 +10,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Have an appreciation of the contending theories in and approaches to international relations",
+        "Develop the ability to think critically about these theories and approaches",
+        "Have the ability to apply a variety of theories and approaches to contemporary international relations",
+        "Deploy a range of critical thinking and analytical skills to practical problems",
+        "Demonstrate improved writing and oral skill."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
@@ -51,10 +58,13 @@
                     "Principal coordinator": "Sara Meger"
                 },
                 {
+                    "Coordinator": "Flavia Bellieni Zimmermann"
+                },
+                {
                     "Mode of delivery": "On Campus (Parkville)"
                 },
                 {
-                    "Contact hours": "Total of 30 contact hours: Two 1 hour lectures per week, and a 1 hour tutorial per week for 10 weeks. The lecture and tutorial programs are staggered and cover the 12 weeks of semester."
+                    "Contact hours": "30 hours: Two 1-hour lectures  and a 1 hour tutorial for 10 weeks. The lecture and tutorial programs are staggered and cover the 12 weeks of semester."
                 },
                 {
                     "Total time commitment": "170 hours"
@@ -80,9 +90,12 @@
     "contact information": [
         {
             "Semester 2": {
-                "name": [],
+                "name": [
+                    "Dr Sara Meger:"
+                ],
                 "email": [
-                    "sara.meger@unimelb.edu.au"
+                    "sara.meger@unimelb.edu.au",
+                    "flavia.bellienizimmermann@unimelb.edu.au"
                 ]
             }
         }

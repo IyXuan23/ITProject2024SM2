@@ -9,6 +9,12 @@
         "Mobile devices are ubiquitous nowadays. Mobile computing encompasses technologies, devices and software that enable (wireless) access to services anyplace, anytime, and anywhere. This subject will cover fundamental mobile computing techniques and technologies, and explain challenges that are unique to the design, implementation, and evaluation of mobile computing. In particular, this subject will enable students to develop mobile phone applications that take advantage of the unique sensing capabilities of mobile devices, their multi-modal interaction capabilities, and their ability to sense and respond to context."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Develop a deeper understanding of mobile systems, their challenges, and their programming",
+        "Be able to develop applications for mobile devices that include the integration of sensed information",
+        "Learn to work in small effective teams",
+        "Discuss and present new mobile research topics and technologies in oral and written form"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1:",

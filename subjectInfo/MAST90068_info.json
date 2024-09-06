@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "The geometry of Lie groups, and important examples coming from linear groups;",
+        "Lie algebras, the exponential map, and the relation with Lie groups;",
+        "Basic category theory: categories, functors, natural transformations, adjoints. (Co)products, universal objects, (co)limits, especially pushouts and pullbacks;",
+        "Noncommutative algebra: semisimple rings, modules, Wedderburn theorem.",
+        "Homological algebra: (pro/in)jective objects, resolutions, chain complexes, homotopy, the snake lemma. Applications: Ext, Tor, group homology;",
+        "Free groups, presentations, free products (with amalgamation);"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

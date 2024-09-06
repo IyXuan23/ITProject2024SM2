@@ -12,6 +12,14 @@
     "indicative content": [
         "Topics covered include: software engineering processes; project management; planning and scheduling; estimation and metrics; quality assurance; risk; configuration management; individuals and teams; ethics; change management; and project management tools."
     ],
+    "intended learning outcomes": [
+        "Critically evaluate, analyze, and apply established software engineering processes and practices to successfully manage software engineering projects.",
+        "Apply established principles of navigating team dynamics and proficiently communicating in a professional context.",
+        "Strategize and execute project planning and project management initiatives.",
+        "Evaluate and address potential risks inherent in software projects, adapting activities accordingly to mitigate these risks, based on established frameworks.",
+        "Manage software project activities to ensure a quality product.",
+        "Evaluate and employ established software project management processes, principles, and techniques to ensure the delivery of high-quality software products."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

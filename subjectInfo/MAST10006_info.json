@@ -13,6 +13,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "calculate simple limits of a function of one variable;",
+        "determine convergence and divergence of sequences and series;",
+        "sketch and manipulate hyperbolic and inverse hyperbolic functions;",
+        "evaluate integrals using trigonometric and hyperbolic substitutions, partial fractions, integration by parts and the complex exponential;",
+        "find analytical solutions of first and second order ordinary differential equations, and use these equations to model some simple physical and biological systems;",
+        "calculate partial derivatives and gradients for functions of two variables, and use these to find maxima and minima."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -12,6 +12,12 @@
         "Topics covered in this course will include engineering plasticity, design of pressure vessels and pipes, thick-walled cylinders, shrink fitting, duplex pressure vessels, inelastic deformation, residual stresses, membrane theory of shells of revolution, yielding, rotating shells, local bending stresses, stress analysis of rotating discs with and without holes, shrink fitting, initial and ultimate yielding, fracture mechanics and fatigue, and introduction to the finite element method.",
         ""
     ],
+    "intended learning outcomes": [
+        "Determine analytically, the maximum stress in a loaded beam",
+        "Design structures with columnar and beam elements",
+        "Predict failure of structures due to yielding of components",
+        "Utilise FEA software to solve stress analysis problems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

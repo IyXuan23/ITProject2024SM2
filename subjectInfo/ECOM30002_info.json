@@ -10,6 +10,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain various problems of interpretation of causal estimates in regression and how the problems may be addressed using instrumental variables;",
+        "Apply least squares methods to estimation and inference for linear regression models with panel data;",
+        "Apply least squares to estimation, inference and interpretation for single and multiple equation models for stationary and non-stationary time series data;",
+        "Derive, simulate and interpret statistical properties of least squares estimators in these settings; and",
+        "Formulate hypotheses about economic phenomena, collect real-world data, apply econometric methods to test hypotheses, and draw evidenced-based conclusions or implications for economic theory and/or public policy."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

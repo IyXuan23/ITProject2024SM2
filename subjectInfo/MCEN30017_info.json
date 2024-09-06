@@ -20,6 +20,13 @@
         "Please view this video for further information:Mechanics & Materials",
         ""
     ],
+    "intended learning outcomes": [
+        "Perform basic stress and strain analysis.",
+        "Analyse mechanical behaviour of materials.",
+        "Obtain simple mathematical and physical relationships between mechanics and materials.",
+        "Describe various testing techniques for characterisation of mechanical behaviour of materials.",
+        "Use the finite element method for performing a computer-based stress and strain analysis."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

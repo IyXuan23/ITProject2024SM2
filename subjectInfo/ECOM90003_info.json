@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Synthesise the best practice techniques in empirical modelling when cross-section data sets are used;",
+        "Synthesise the best practice techniques in empirical modelling when panel data sets are used;",
+        "Critically evaluate and employ applied techniques;",
+        "Describe and evaluate econometric theories;",
+        "Complete a semi-independent research project;",
+        "Generate and analyse econometric output using an econometric package such as Stata."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

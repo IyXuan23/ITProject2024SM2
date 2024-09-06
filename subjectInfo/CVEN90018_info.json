@@ -10,6 +10,17 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Implement the modelling of the response of single-degree-of-freedom (SDOF) systems to pulse and harmonic excitations",
+        "Describe and apply the concepts of viscous damping, hysteretic damping, coulomb damping (by friction) and equivalent damping",
+        "Transform data from time-domain to frequency domain in the form of Fourier Amplitude/Phase spectra and Power spectra, and apply linear transformation",
+        "Implement the modelling of the response of discrete lumped mass multi-degree-of-freedom (SDOF) systems involving the use of the participation factor, effective modal mass and modal coefficients based on the principles of modal superposition",
+        "Obtain classical solutions for the dynamic response behaviour of single-degree-of-freedom (SDOF) systems based on harmonic excitations and common idealised forms of transient excitations",
+        "Implement on spreadsheets time-step integration procedures for analysing the response of SDOF systems to a range of transient excitations including earthquake excitations, and collation of the response output to produce elastic response spectra of different formats",
+        "Implement on spreadsheets the response analyses of simple discrete MDOF systems using principles of modal superposition",
+        "Apply finite element modelling packages to perform static and dynamic response analysis to a variety of dynamic loading options",
+        "Undertake independent checks of analysis results by hand calculations."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

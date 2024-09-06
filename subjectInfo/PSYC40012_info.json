@@ -10,6 +10,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "The concepts and methods involved in the development, testing, and evaluation of quantitative models for psychological data.",
+        "The philosophical and methodological distinction between hypothesis-testing and model evaluation.",
+        "The trade-off between goodness-of-fit and model flexibility and its implications for psychological inference.",
+        "The distinction between process models and empirical models of psychological data."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

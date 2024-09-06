@@ -9,6 +9,10 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "An appreciation of the range and utility of advanced statistical models and a sound knowledge of their analysis using modern statistical methods.",
+        "An appreciation of the computational methods required to fit these models and the ability to interpret the results of an analysis."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

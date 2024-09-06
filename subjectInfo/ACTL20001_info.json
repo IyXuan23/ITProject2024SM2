@@ -9,6 +9,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe sources of data, the aims and conducting of data analysis, and the principles of actuarial modelling in the solution of a range of practical problems;",
+        "Describe and apply the main methods of finding the accumulation or present value of a payment, or a series of payments under simple and compound interest and discount;",
+        "Analyse and solve equations of value for the price or yield of a bond, the present value or yield of an ordinary share or property;",
+        "Construct and analyse a loan schedule, including cases when terms of a loan are altered;",
+        "Explain the key features of the main types of financial assets, including shares, bonds, property and derivatives",
+        "Show how discounted cash-flow and equation of value techniques can be used in investment project appraisal;",
+        "Demonstrate a knowledge and understanding of real and money interest rates, and the term structures.",
+        "Demonstrate an understanding of duration, convexity and immunisation of cash-flows."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -12,6 +12,11 @@
         "Topics include: an introduction to high-integrity systems; safety critical systems and safety engineering; mathematical modelling of systems; fault tolerant systems design; design by contract; static verification; and model-based testing.",
         ""
     ],
+    "intended learning outcomes": [
+        "Classify the characteristics of a dependable system and identify these characteristics in domains",
+        "Apply advanced verification methods to the validation and measurement of system properties",
+        "Apply a range of techniques to the analysis, design and validation of high integrity systems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

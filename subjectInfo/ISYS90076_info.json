@@ -10,13 +10,19 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain current trends in ICT infrastructure and their implications for digital transformation of healthcare services",
+        "Express critical awareness of current digital health governance frameworks and their relevance to the development of health ICT infrastructure plans",
+        "Communicate to diverse stakeholders an understanding of technical requirements and solutions for health data exchange and connected health information systems",
+        "Describe and analyse the current and future roles and responsibilities of the Chief Information / Digital / Technical Officer in healthcare services"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
             "necessary pre-requisite": [],
             "one of pre-requisite": [
                 [
-                    "HLTH90006",
+                    "",
                     "ISYS90069"
                 ]
             ],
@@ -25,7 +31,7 @@
     ],
     "corequisites": "None",
     "non-allowed subjects": [
-        "ISYS90048"
+        ""
     ],
     "assessments": [
         {

@@ -11,6 +11,17 @@
         "INDICATIVE CONTENTTopics covered include: stress analysis in beams, deflection calculations using direct integration and virtual work methods, structural analyses of beams and frames by the force method, structural design of reinforced concrete beams and columns, design of pad footing, structural design of steel beams, columns and ties, design of timber joists and masonry squat walls."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse stresses in beams due to combined axial, bending and torsional loads",
+        "Calculate deflections in beams by numerical integration methods and unit load method",
+        "Calculate deflections in frames by unit load method",
+        "Conduct stability analysis of simple systems including the buckling of columns and stress amplifications",
+        "Analyse using the force method for solving indeterminate systems of beams and frames",
+        "Design steel beams, columns and ties",
+        "Design reinforced concrete one-way slabs, pad footing, simple beams and compression-only columns, and basic detailing",
+        "Design timber joists and masonry squat walls",
+        "Design simple structural systems taking into account the design load cases."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1 (studied from 2023)",

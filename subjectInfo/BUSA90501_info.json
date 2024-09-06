@@ -18,6 +18,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate how to quantitatively analyse large datasets and convert raw data into relevant information for management decisions, using a wide variety of parametric and non-parametric techniques.",
+        "Understand the difference between supervised and unsupervised statistical learning.",
+        "Determine which techniques to apply to different types of data.",
+        "Understand how to perform model averaging."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

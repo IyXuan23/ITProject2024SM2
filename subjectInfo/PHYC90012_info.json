@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Introduce the theoretical framework and experimental necessity of Einstein's theory of general relativity;",
+        "Understand the principles of general relativity and physics in curved spacetime;",
+        "Develop tools to enable the quantitative calculation of general relativistic effects;",
+        "Provide a foundation for more advanced studies of general relativity."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

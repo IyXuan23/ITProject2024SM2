@@ -13,6 +13,14 @@
     "indicative content": [
         "This subject introduces students to analysis techniques used in subsonic and supersonic flows. Topics covered include (Unit 1) basic introduction to inviscid flow with and without vorticity; concepts and analysis using stream function and velocity potential; incompressible viscous flow past bodies with vortex shedding; magnus effect; complex velocity potential; (Unit 2) speed of sound; aerodynamic heating; normal and oblique shock waves; expansion fans; theories of thin airfoils; shock expansion theory; boundary layer and shock wave interactions; the `sound barrier\u2019; experimental techniques."
     ],
+    "intended learning outcomes": [
+        "Use complex velocity potential analysis to solve a variety of inviscid flow problems including incompressible flow past airfoils",
+        "Use Matlab to find numerical solutions of certain more complicated flow situations",
+        "Understand the basic features of subsonic airfoils, including lift, drag and stall",
+        "Apply shock expansion theory to the solution of flow in a variety of situations including prediction of lift and drag of two-dimensional bodies in supersonic flow",
+        "Apply Ackeret or linear theory to thin airfoils",
+        "Understand the basic features of supersonic airfoil designs and appreciate the differences between subsonic and supersonic airframe design."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

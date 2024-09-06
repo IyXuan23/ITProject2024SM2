@@ -14,6 +14,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "manipulate vector differential operators",
+        "determine convergence and divergence of sequences and series",
+        "solve ordinary differential equations using Laplace transforms",
+        "sketch phase plane portraits for linear and nonlinear systems of ordinary differential equations",
+        "represent suitable functions using Fourier series",
+        "solve second order partial differential equations using separation of variables",
+        "use MATLAB to perform simple numerical and symbolic calculations"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

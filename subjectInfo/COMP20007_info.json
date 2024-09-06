@@ -12,6 +12,12 @@
         "Sample projects are: approximate string matching for a translation memory, involving sorting and comparison of dynamic programming, branch-and-bound search and brute-force search using a variety of data structures (e.g. arrays, hash tables, tries); speech synthesis based on a pronouncing dictionary and pre-prepared grapheme-phoneme alignment data, based on parsing of the alignment data, hashing of variable length n-grams, and a variety of models for predicting the phoneme(s) associated with a given phoneme sequence (e.g. a simple unigram baseline or a hidden Markov model).",
         "Please view this video for further information:Design of Algorithms"
     ],
+    "intended learning outcomes": [
+        "Read, write and debug graph algorithms, advanced sorting algorithms, dynamic programs and greedy algorithms",
+        "Read, write and debug code using intermediate data structures",
+        "Choose between different algorithms for intermediate problems by analysing their complexity",
+        "Read, write and debug typical multi-module programs in a system programming language such as C"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

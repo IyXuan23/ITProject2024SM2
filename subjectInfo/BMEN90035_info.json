@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Design and evaluate digital sampling and filtering systems.",
+        "Apply frequency-domain techniques in the analysis and design of signal processing systems.",
+        "Design, implement and analyse algorithms for solving estimation problems.",
+        "Analyse and design software for signal processing systems, focussing on signals relevant to biomedical engineering problems and applications."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -10,6 +10,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the basic concepts underlying the susceptible-infectious-recovered modelling paradigm;",
+        "Identify data sources of relevance to inform model structure and parameters;",
+        "Differentiate between alternative modelling frameworks and approaches, and identify which are most relevant to specific infectious disease policy questions;",
+        "Understand the concepts of uncertainty and sensitivity in model outputs;",
+        "Provide summary reports of modelling papers for a non-expert audience, such as public health policy makers or the public;",
+        "Critically appraise modelling outputs, and their relevance to public health decision making for infectious disease control and surveillance."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

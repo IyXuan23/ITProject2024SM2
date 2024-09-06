@@ -13,6 +13,13 @@
         "TEACHING METHOD",
         "The teaching method is based around a structured process of mini-lectures, class exercises, and active hands-on learning by doing. Intensive field research and minimum viable product development are very important to the subject. Learning is further enhanced through meetings with the lecturer and review by peers."
     ],
+    "intended learning outcomes": [
+        "Describe, explain, and apply the major concepts and theoretical frameworks that explain entrepreneurial behaviour and success",
+        "Create, identify, validate, and pursue opportunities for new businesses",
+        "Prepare, present, test, and utilise a scalable, repeatable business model to create a new venture",
+        "Identify the sources of finance for new ventures, and be able to sell a business concept to potential funding sources",
+        "Create value for themselves, investors, customers, employees, and society as a whole by working on a business and not just in a business"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

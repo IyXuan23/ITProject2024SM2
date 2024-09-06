@@ -9,6 +9,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply basic methods to organise a data set for analysis, including importing into statistical software, cleaning, coding and arranging data",
+        "List the important types of analytics software and use at least two different software packages to perform some basic analyses",
+        "Expand on the graphics material in \"Critical Thinking with Analytics\" to develop more sophisticated graphics, including panel graphs",
+        "Develop a taxonomy of graphical forms and apply it to different graphical requirements",
+        "Assess and critique modern data visualisations",
+        "Identify and describe several of the main forms of probability models used for description, analysis and forecasting of data, including simple analyses and models, the general linear model, models in forecasting and tree-based models",
+        "Apply simulation methods to address a non-standard analytics problem",
+        "Evaluate and critique the use of analytics in case studies and apply sound principles to create a high-level design for an analytics investigation"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

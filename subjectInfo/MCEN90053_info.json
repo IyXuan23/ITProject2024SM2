@@ -11,6 +11,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "1. Design an industrial project by using system engineering framework;",
+        "2. Analyse the function requirements and classify system elements/attributes of complex industrial systems;",
+        "3. Develop conceptual models of industrial projects;",
+        "4. Apply a range of simulation and modelling techniques to analyse industrial systems;",
+        "5. Apply commercial package to develop discrete event simulation for process improvement projects;",
+        "6. Apply model verification and validation methods at different system stages;",
+        "7. Evaluate system performance by using simulation models."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

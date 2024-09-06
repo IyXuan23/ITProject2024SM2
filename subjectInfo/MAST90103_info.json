@@ -20,6 +20,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Identify the objectives of random matrix theory from the viewpoint of mathematical physics, and other areas of mathematics such as probability theory and mathematical statistics;",
+        "Compute matrix Jacobians, apply the concepts of joint eigenvalue probability density functions, correlation functions, and spacing distributions, and understand their relevance to random matrix theory;",
+        "Demonstrate comprehension of how the symmetry classification is related to matrix (Lie-)groups;",
+        "Explain the basic ideas of the techniques of orthogonal polynomials, supersymmetry, loop equations, moment method and free convolutions in the analysis of random matrices; and",
+        "Use integral transforms to study global and local statistical quantities."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

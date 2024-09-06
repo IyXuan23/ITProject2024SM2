@@ -1,0 +1,2774 @@
+{
+    "links": [
+        [
+            "B-ARTS",
+            "Bachelor of Arts",
+            "https://handbook.unimelb.edu.au/2024/courses/b-arts"
+        ],
+        [
+            "B-ENVS",
+            "Bachelor of Environments",
+            "https://handbook.unimelb.edu.au/2024/courses/b-envs"
+        ],
+        [
+            "B-AGR",
+            "Bachelor of Agriculture",
+            "https://handbook.unimelb.edu.au/2024/courses/b-agr"
+        ],
+        [
+            "B-COM",
+            "Bachelor of Commerce",
+            "https://handbook.unimelb.edu.au/2024/courses/b-com"
+        ],
+        [
+            "B-SCI",
+            "Bachelor of Science",
+            "https://handbook.unimelb.edu.au/2024/courses/b-sci"
+        ],
+        [
+            "B-MUS",
+            "Bachelor of Music",
+            "https://handbook.unimelb.edu.au/2024/courses/b-mus"
+        ],
+        [
+            "B-DES",
+            "Bachelor of Design",
+            "https://handbook.unimelb.edu.au/2024/courses/b-des"
+        ],
+        [
+            "B-BMED",
+            "Bachelor of Biomedicine",
+            "https://handbook.unimelb.edu.au/2024/courses/b-bmed"
+        ],
+        [
+            "N01AA",
+            "Master of Clinical Research",
+            "https://handbook.unimelb.edu.au/2024/courses/n01aa"
+        ],
+        [
+            "GD-CLINED",
+            "Graduate Diploma in Clinical Education",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-clined"
+        ],
+        [
+            "DR-PHILMDH",
+            "Doctor of Philosophy - Medicine, Dentistry and Health Sciences",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-philmdh"
+        ],
+        [
+            "GC-CLINED",
+            "Graduate Certificate in Clinical Education",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-clined"
+        ],
+        [
+            "546AA",
+            "Master of Primary Health Care",
+            "https://handbook.unimelb.edu.au/2024/courses/546aa"
+        ],
+        [
+            "GC-PCN",
+            "Graduate Certificate in Primary Care Nursing",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-pcn"
+        ],
+        [
+            "MC-COMACTS",
+            "Master of Commerce (Actuarial Science)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-comacts"
+        ],
+        [
+            "MR-PHILMED",
+            "Master of Philosophy - MDHS (Medicine)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-philmed"
+        ],
+        [
+            "MC-CLINED",
+            "Master of Clinical Education",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-clined"
+        ],
+        [
+            "MC-GENCOUN",
+            "Master of Genetic Counselling",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-gencoun"
+        ],
+        [
+            "SC-PAECCN",
+            "Specialist Certificate in Paediatric Critical Care Nursing",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-paeccn"
+        ],
+        [
+            "MC-DOPTOM",
+            "Doctor of Optometry",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-doptom"
+        ],
+        [
+            "GC-ENGGWRK",
+            "Graduate Certificate in English for the Global Workplace",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-enggwrk"
+        ],
+        [
+            "MR-PHILLAW",
+            "Master of Philosophy - Law",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-phillaw"
+        ],
+        [
+            "MC-ANAMGT",
+            "Master of Analytics Management",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-anamgt"
+        ],
+        [
+            "DH-LLD",
+            "Doctor of Laws",
+            "https://handbook.unimelb.edu.au/2024/courses/dh-lld"
+        ],
+        [
+            "MC-ETRENH",
+            "Master of Entrepreneurship (Enhanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-etrenh"
+        ],
+        [
+            "GD-BMEDSC",
+            "Graduate Diploma in Biomedical Science",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-bmedsc"
+        ],
+        [
+            "GC-BFIREPM",
+            "Graduate Certificate in Bushfire Planning and Management",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-bfirepm"
+        ],
+        [
+            "GD-CS",
+            "Graduate Diploma in Computer Science",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-cs"
+        ],
+        [
+            "GC-AHRC",
+            "Graduate Certificate in Aboriginal Health in Rural Communities",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-ahrc"
+        ],
+        [
+            "MC-THTRWRI",
+            "Master of Theatre (Writing)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-thtrwri"
+        ],
+        [
+            "MR-PHILSCI",
+            "Master of Philosophy - Science",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-philsci"
+        ],
+        [
+            "MC-SCIEPI",
+            "Master of Science (Epidemiology)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-sciepi"
+        ],
+        [
+            "MC-ENTRPSP",
+            "Master of Entrepreneurship",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-entrpsp"
+        ],
+        [
+            "GC-AGSC",
+            "Graduate Certificate in Agricultural Sciences",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-agsc"
+        ],
+        [
+            "DR-PHILBE",
+            "Doctor of Philosophy - Business and Economics",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-philbe"
+        ],
+        [
+            "BH-AGR",
+            "Bachelor of Agriculture (Degree with Honours)",
+            "https://handbook.unimelb.edu.au/2024/courses/bh-agr"
+        ],
+        [
+            "SC-EHAC",
+            "Specialist Certificate in Empowering Health in Aboriginal Communities",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-ehac"
+        ],
+        [
+            "SC-PUBHLTH",
+            "Specialist Certificate in Public Health",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-pubhlth"
+        ],
+        [
+            "GC-SCOM",
+            "Graduate Certificate in Supply Chain and Operations Management",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-scom"
+        ],
+        [
+            "SC-RPHASS",
+            "Specialist Certificate in Research Practice (HASS)",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-rphass"
+        ],
+        [
+            "MC-THTRDIR",
+            "Master of Theatre (Directing)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-thtrdir"
+        ],
+        [
+            "MC-ACTSCEX",
+            "Master of Actuarial Science (Extended)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-actscex"
+        ],
+        [
+            "GC-PUBHLTH",
+            "Graduate Certificate in Public Health",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-pubhlth"
+        ],
+        [
+            "MC-ACTSC",
+            "Master of Actuarial Science",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-actsc"
+        ],
+        [
+            "DH-MUS",
+            "Doctor of Music",
+            "https://handbook.unimelb.edu.au/2024/courses/dh-mus"
+        ],
+        [
+            "080CN",
+            "Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy",
+            "https://handbook.unimelb.edu.au/2024/courses/080cn"
+        ],
+        [
+            "DH-AGRSC",
+            "Doctor of Agricultural Science",
+            "https://handbook.unimelb.edu.au/2024/courses/dh-agrsc"
+        ],
+        [
+            "GC-PROFSC",
+            "Graduate Certificate in Professional Skills for Scientists",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-profsc"
+        ],
+        [
+            "DR-PHILSCI",
+            "Doctor of Philosophy - Science",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-philsci"
+        ],
+        [
+            "DR-PHILAGR",
+            "Doctor of Philosophy - Agricultural Sciences",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-philagr"
+        ],
+        [
+            "GC-ADOLHW",
+            "Graduate Certificate in Adolescent Health and Wellbeing",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-adolhw"
+        ],
+        [
+            "SC-PAADV",
+            "Specialist Certificate in Public Administration (Advanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-paadv"
+        ],
+        [
+            "DH-VSC",
+            "Doctor of Veterinary Science",
+            "https://handbook.unimelb.edu.au/2024/courses/dh-vsc"
+        ],
+        [
+            "SC-UCH",
+            "Specialist Certificate in Urban and Cultural Heritage",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-uch"
+        ],
+        [
+            "GC-GRINFRA",
+            "Graduate Certificate in Green Infrastructure",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-grinfra"
+        ],
+        [
+            "GD-ECO",
+            "Graduate Diploma in Economics",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-eco"
+        ],
+        [
+            "DR-PHILIK",
+            "Doctor of Philosophy - Indigenous Knowledge",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-philik"
+        ],
+        [
+            "702PA",
+            "Graduate Diploma in Property Valuation",
+            "https://handbook.unimelb.edu.au/2024/courses/702pa"
+        ],
+        [
+            "GD-CLINPSY",
+            "Graduate Diploma in Clinical Psychology",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-clinpsy"
+        ],
+        [
+            "DH-SC",
+            "Doctor of Science",
+            "https://handbook.unimelb.edu.au/2024/courses/dh-sc"
+        ],
+        [
+            "527CN",
+            "Master of Psychology (Clinical Neuropsychology)",
+            "https://handbook.unimelb.edu.au/2024/courses/527cn"
+        ],
+        [
+            "D-COMP",
+            "Diploma in Computing",
+            "https://handbook.unimelb.edu.au/2024/courses/d-comp"
+        ],
+        [
+            "GD-ANAMGT",
+            "Graduate Diploma in Analytics Management",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-anamgt"
+        ],
+        [
+            "GC-CS",
+            "Graduate Certificate in Computer Science",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-cs"
+        ],
+        [
+            "340AA",
+            "Graduate Diploma in Psychology",
+            "https://handbook.unimelb.edu.au/2024/courses/340aa"
+        ],
+        [
+            "DR-PHILVET",
+            "Doctor of Philosophy - Veterinary Science",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-philvet"
+        ],
+        [
+            "GC-FOODSC",
+            "Graduate Certificate in Food Science",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-foodsc"
+        ],
+        [
+            "MC-FOODPI",
+            "Master of Food and Packaging Innovation",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-foodpi"
+        ],
+        [
+            "GD-FOODSC",
+            "Graduate Diploma in Food Science",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-foodsc"
+        ],
+        [
+            "MR-MUSRES",
+            "Master of Music (Research)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-musres"
+        ],
+        [
+            "GCA-JOURN",
+            "Graduate Certificate in Journalism (Advanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/gca-journ"
+        ],
+        [
+            "MC-VETSTDR",
+            "Master of Veterinary Studies",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-vetstdr"
+        ],
+        [
+            "MR-IRCHEM",
+            "Master of Industrial Research (Chemistry)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-irchem"
+        ],
+        [
+            "DR-PHILLAW",
+            "Doctor of Philosophy - Law",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-phillaw"
+        ],
+        [
+            "294BE",
+            "Master of Marketing",
+            "https://handbook.unimelb.edu.au/2024/courses/294be"
+        ],
+        [
+            "GC-SEXHLTH",
+            "Graduate Certificate in Sexual Health",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-sexhlth"
+        ],
+        [
+            "SC-RESPRSC",
+            "Specialist Certificate in Research Practice for Scientists",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-resprsc"
+        ],
+        [
+            "GD-VPLMGT",
+            "Graduate Diploma in Veterinary Professional Leadership and Management",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-vplmgt"
+        ],
+        [
+            "MC-BAMKTG",
+            "Master of Business Administration/Master of Marketing",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-bamktg"
+        ],
+        [
+            "MC-THTRDRA",
+            "Master of Theatre (Dramaturgy)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-thtrdra"
+        ],
+        [
+            "D-COMP",
+            "Diploma in Computing",
+            "https://handbook.unimelb.edu.au/2024/courses/d-comp"
+        ],
+        [
+            "080CL",
+            "Master of Psychology (Clinical Psychology)/Doctor of Philosophy",
+            "https://handbook.unimelb.edu.au/2024/courses/080cl"
+        ],
+        [
+            "GD-ADOLHW",
+            "Graduate Diploma in Adolescent Health and Wellbeing",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-adolhw"
+        ],
+        [
+            "GD-CLINUS",
+            "Graduate Diploma in Clinical Ultrasound",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-clinus"
+        ],
+        [
+            "GC-SAECC",
+            "Graduate Certificate in Small Animal Emergency and Critical Care",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-saecc"
+        ],
+        [
+            "MC-VETSTDR",
+            "Master of Veterinary Studies",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-vetstdr"
+        ],
+        [
+            "MR-FA",
+            "Master of Fine Arts",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-fa"
+        ],
+        [
+            "PR-INVPRAC",
+            "Professional Certificate in Innovation Practice",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-invprac"
+        ],
+        [
+            "DR-PHILLAW",
+            "Doctor of Philosophy - Law",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-phillaw"
+        ],
+        [
+            "294BE",
+            "Master of Marketing",
+            "https://handbook.unimelb.edu.au/2024/courses/294be"
+        ],
+        [
+            "MR-PHILEIT",
+            "Master of Philosophy - Engineering and IT",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-phileit"
+        ],
+        [
+            "DR-PHILFAM",
+            "Doctor of Philosophy - Fine Arts and Music",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-philfam"
+        ],
+        [
+            "SC-PUBHLTH",
+            "Specialist Certificate in Public Health",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-pubhlth"
+        ],
+        [
+            "GC-SCOM",
+            "Graduate Certificate in Supply Chain and Operations Management",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-scom"
+        ],
+        [
+            "SC-RPHASS",
+            "Specialist Certificate in Research Practice (HASS)",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-rphass"
+        ],
+        [
+            "MC-THTRDIR",
+            "Master of Theatre (Directing)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-thtrdir"
+        ],
+        [
+            "527CL",
+            "Master of Psychology (Clinical Psychology)",
+            "https://handbook.unimelb.edu.au/2024/courses/527cl"
+        ],
+        [
+            "MC-ACTSCEN",
+            "Master of Actuarial Science (Enhanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-actscen"
+        ],
+        [
+            "GC-PHTYPFP",
+            "Graduate Certificate in Physiotherapy (Pelvic Floor Physiotherapy)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-phtypfp"
+        ],
+        [
+            "GDA-BLTENV",
+            "Graduate Diploma in Built Environments (Advanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/gda-bltenv"
+        ],
+        [
+            "GDA-PSYCH",
+            "Graduate Diploma in Psychology (Advanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/gda-psych"
+        ],
+        [
+            "MC-AECOENH",
+            "Master of Applied Econometrics (Enhanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-aecoenh"
+        ],
+        [
+            "MC-SCIEAR",
+            "Master of Science (Earth Sciences)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-sciear"
+        ],
+        [
+            "GC-DGBVRP",
+            "Graduate Certificate in Domestic & Gender-Based Violence Research and Practice",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-dgbvrp"
+        ],
+        [
+            "D-MATHSC",
+            "Diploma in Mathematical Sciences",
+            "https://handbook.unimelb.edu.au/2024/courses/d-mathsc"
+        ],
+        [
+            "GD-VPLMGT",
+            "Graduate Diploma in Veterinary Professional Leadership and Management",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-vplmgt"
+        ],
+        [
+            "MC-BAMKTG",
+            "Master of Business Administration/Master of Marketing",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-bamktg"
+        ],
+        [
+            "746ST",
+            "Master of Engineering Structures",
+            "https://handbook.unimelb.edu.au/2024/courses/746st"
+        ],
+        [
+            "MC-SCIPHY",
+            "Master of Science (Physics)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-sciphy"
+        ],
+        [
+            "PR-SCM",
+            "Professional Certificate in Supply Chain Management",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-scm"
+        ],
+        [
+            "PR-ANAMGT",
+            "Professional Certificate in Analytics Management",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-anamgt"
+        ],
+        [
+            "MC-GEOSC",
+            "Master of Geoscience",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-geosc"
+        ],
+        [
+            "MC-ECO",
+            "Master of Economics",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-eco"
+        ],
+        [
+            "MR-PHILAGR",
+            "Master of Philosophy - Agricultural Sciences",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-philagr"
+        ],
+        [
+            "MC-THTRDRA",
+            "Master of Theatre (Dramaturgy)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-thtrdra"
+        ],
+        [
+            "MR-PHILVET",
+            "Master of Philosophy - Veterinary Science",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-philvet"
+        ],
+        [
+            "MR-IRCHEM",
+            "Master of Industrial Research (Chemistry)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-irchem"
+        ],
+        [
+            "GC-SEXHLTH",
+            "Graduate Certificate in Sexual Health",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-sexhlth"
+        ],
+        [
+            "GD-BUSANA",
+            "Graduate Diploma in Business Analytics",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-busana"
+        ],
+        [
+            "294FN",
+            "Master of Marketing",
+            "https://handbook.unimelb.edu.au/2024/courses/294fn"
+        ],
+        [
+            "GC-ENTR",
+            "Graduate Certificate in Entrepreneurship",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-entr"
+        ],
+        [
+            "GD-BLTENV",
+            "Graduate Diploma in Built Environments",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-bltenv"
+        ],
+        [
+            "MC-SCWR",
+            "Master of Screenwriting",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-scwr"
+        ],
+        [
+            "DR-PHILEIT",
+            "Doctor of Philosophy - Engineering and IT",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-phileit"
+        ],
+        [
+            "GC-ENV",
+            "Graduate Certificate in Environment",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-env"
+        ],
+        [
+            "J15TC",
+            "Doctor of Medical Science",
+            "https://handbook.unimelb.edu.au/2024/courses/j15tc"
+        ],
+        [
+            "GC-TESOL",
+            "Graduate Certificate in TESOL",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-tesol"
+        ],
+        [
+            "MC-APP",
+            "Master of Applied Positive Psychology",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-app"
+        ],
+        [
+            "GC-WBSCI",
+            "Graduate Certificate in Wellbeing Science",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-wbsci"
+        ],
+        [
+            "PR-WBSCI",
+            "Professional Certificate in Wellbeing Science",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-wbsci"
+        ],
+        [
+            "GC-MLED",
+            "Graduate Certificate in Modern Languages Education",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-mled"
+        ],
+        [
+            "GC-EDCLIL",
+            "Professional Certificate in Education (CLIL)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-edclil"
+        ],
+        [
+            "D-GENST",
+            "Diploma in General Studies",
+            "https://handbook.unimelb.edu.au/2024/courses/d-genst"
+        ],
+        [
+            "MC-AP",
+            "Master of Applied Psychology",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-ap"
+        ],
+        [
+            "GC-DIENGIN",
+            "Graduate Certificate in Digital Engineering (Infrastructure)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-diengin"
+        ],
+        [
+            "MC-ENVSC",
+            "Master of Environmental Science",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-envsc"
+        ],
+        [
+            "MC-DMED",
+            "Doctor of Medicine",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-dmed"
+        ],
+        [
+            "MC-CU",
+            "Master of Clinical Ultrasound",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-cu"
+        ],
+        [
+            "GC-ARBCULT",
+            "Graduate Certificate in Arboriculture",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-arbcult"
+        ],
+        [
+            "GD-PERIMED",
+            "Graduate Diploma in Perioperative Medicine",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-perimed"
+        ],
+        [
+            "N34AA",
+            "Graduate Diploma in Clinical Research",
+            "https://handbook.unimelb.edu.au/2024/courses/n34aa"
+        ],
+        [
+            "N12AA",
+            "Graduate Certificate in Clinical Research",
+            "https://handbook.unimelb.edu.au/2024/courses/n12aa"
+        ],
+        [
+            "GC-HLTHEEE",
+            "Graduate Certificate in Health Economics and Economic Evaluation",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-hltheee"
+        ],
+        [
+            "893AA",
+            "Graduate Diploma in Sports Law",
+            "https://handbook.unimelb.edu.au/2024/courses/893aa"
+        ],
+        [
+            "B-SCIEXT",
+            "Bachelor of Science (Extended)",
+            "https://handbook.unimelb.edu.au/2024/courses/b-sciext"
+        ],
+        [
+            "GC-CNCRNUR",
+            "Graduate Certificate in Cancer Nursing",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-cncrnur"
+        ],
+        [
+            "MC-GEOG",
+            "Master of Geography",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-geog"
+        ],
+        [
+            "MC-SCIBIO",
+            "Master of Science (BioSciences)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-scibio"
+        ],
+        [
+            "841AC",
+            "Bachelor of Oral Health",
+            "https://handbook.unimelb.edu.au/2024/courses/841ac"
+        ],
+        [
+            "GC-SCIED10",
+            "Graduate Certificate in Science Education (Years 7-10)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-scied10"
+        ],
+        [
+            "GC-MTHED10",
+            "Graduate Certificate in Mathematics Education (Years 7-10)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-mthed10"
+        ],
+        [
+            "DR-PHILEDP",
+            "Master of Psychology (Educational and Developmental)/Doctor of Philosophy",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-philedp"
+        ],
+        [
+            "GC-EDGEN",
+            "Graduate Certificate in Education",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-edgen"
+        ],
+        [
+            "MR-PHILEDU",
+            "Master of Philosophy - Education",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-philedu"
+        ],
+        [
+            "MC-INDENG",
+            "Master of Industrial Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-indeng"
+        ],
+        [
+            "GC-INSLEAD",
+            "Professional Certificate in Instructional Leadership",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-inslead"
+        ],
+        [
+            "MC-NTCW",
+            "Master of Narrative Therapy and Community Work",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-ntcw"
+        ],
+        [
+            "MC-PROPSYC",
+            "Master of Professional Psychology",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-propsyc"
+        ],
+        [
+            "GC-IBL",
+            "Graduate Certificate in Indigenous Business Leadership",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-ibl"
+        ],
+        [
+            "MC-ADOLHW",
+            "Master of Adolescent Health and Wellbeing",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-adolhw"
+        ],
+        [
+            "GC-URBHORT",
+            "Graduate Certificate in Urban Horticulture",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-urbhort"
+        ],
+        [
+            "MC-SCM150",
+            "Master of Supply Chain Management",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-scm150"
+        ],
+        [
+            "GD-DATASC",
+            "Graduate Diploma in Data Science",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-datasc"
+        ],
+        [
+            "MC-COMMGMT",
+            "Master of Commerce (Management)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-commgmt"
+        ],
+        [
+            "MC-ECOSMC",
+            "Master of Ecosystem Management and Conservation",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-ecosmc"
+        ],
+        [
+            "MC-COMACT",
+            "Master of Commerce (Accounting)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-comact"
+        ],
+        [
+            "MC-COMFIN",
+            "Master of Commerce (Finance)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-comfin"
+        ],
+        [
+            "MC-COMMKTG",
+            "Master of Commerce (Marketing)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-commktg"
+        ],
+        [
+            "MC-COMDRFS",
+            "Master of Commerce (Decision, Risk and Financial Sciences)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-comdrfs"
+        ],
+        [
+            "GC-MLED",
+            "Graduate Certificate in Modern Languages Education",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-mled"
+        ],
+        [
+            "GC-TESOL",
+            "Graduate Certificate in TESOL",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-tesol"
+        ],
+        [
+            "PR-WBSCI",
+            "Professional Certificate in Wellbeing Science",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-wbsci"
+        ],
+        [
+            "MC-APP",
+            "Master of Applied Positive Psychology",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-app"
+        ],
+        [
+            "GC-WBSCI",
+            "Graduate Certificate in Wellbeing Science",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-wbsci"
+        ],
+        [
+            "GC-EDCLIL",
+            "Professional Certificate in Education (CLIL)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-edclil"
+        ],
+        [
+            "MC-AP",
+            "Master of Applied Psychology",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-ap"
+        ],
+        [
+            "D-GENST",
+            "Diploma in General Studies",
+            "https://handbook.unimelb.edu.au/2024/courses/d-genst"
+        ],
+        [
+            "J15TC",
+            "Doctor of Medical Science",
+            "https://handbook.unimelb.edu.au/2024/courses/j15tc"
+        ],
+        [
+            "GC-UCH",
+            "Graduate Certificate in Urban and Cultural Heritage",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-uch"
+        ],
+        [
+            "GC-APPDA",
+            "Graduate Certificate in Applied Data Analytics",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-appda"
+        ],
+        [
+            "PR-APPDA",
+            "Professional Certificate in Applied Data Analytics",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-appda"
+        ],
+        [
+            "GD-SURGANT",
+            "Graduate Diploma in Surgical Anatomy",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-surgant"
+        ],
+        [
+            "GC-ASW",
+            "Graduate Certificate in Advanced Social Work",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-asw"
+        ],
+        [
+            "MR-PHILDSC",
+            "Master of Philosophy - MDHS (Dental Science)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-phildsc"
+        ],
+        [
+            "J17RE",
+            "Master of Advanced Social Work",
+            "https://handbook.unimelb.edu.au/2024/courses/j17re"
+        ],
+        [
+            "MR-PHILBMS",
+            "Master of Philosophy - MDHS (Biomedical Science)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-philbms"
+        ],
+        [
+            "552AA",
+            "Master of Surgery",
+            "https://handbook.unimelb.edu.au/2024/courses/552aa"
+        ],
+        [
+            "MR-PHILHLT",
+            "Master of Philosophy - MDHS (Health Sciences)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-philhlt"
+        ],
+        [
+            "572AT",
+            "Master of Medicine",
+            "https://handbook.unimelb.edu.au/2024/courses/572at"
+        ],
+        [
+            "MR-PHILPSY",
+            "Master of Philosophy - MDHS (Psychological Sciences)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-philpsy"
+        ],
+        [
+            "MR-PHILPGH",
+            "Master of Philosophy - MDHS (Population and Global Health)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-philpgh"
+        ],
+        [
+            "GC-ENV",
+            "Graduate Certificate in Environment",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-env"
+        ],
+        [
+            "MC-JURISD",
+            "Juris Doctor",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-jurisd"
+        ],
+        [
+            "439FS",
+            "Master of Food Science",
+            "https://handbook.unimelb.edu.au/2024/courses/439fs"
+        ],
+        [
+            "MC-CS",
+            "Master of Computer Science",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-cs"
+        ],
+        [
+            "MC-MTRNENG",
+            "Master of Mechatronics Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-mtrneng"
+        ],
+        [
+            "MC-DVETMED",
+            "Doctor of Veterinary Medicine",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-dvetmed"
+        ],
+        [
+            "B-FAACTING",
+            "Bachelor of Fine Arts (Acting)",
+            "https://handbook.unimelb.edu.au/2024/courses/b-faacting"
+        ],
+        [
+            "B-FAFILMTV",
+            "Bachelor of Fine Arts (Film and Television)",
+            "https://handbook.unimelb.edu.au/2024/courses/b-fafilmtv"
+        ],
+        [
+            "B-FASCWRI",
+            "Bachelor of Fine Arts (Screenwriting)",
+            "https://handbook.unimelb.edu.au/2024/courses/b-fascwri"
+        ],
+        [
+            "B-FAMUSTH",
+            "Bachelor of Fine Arts (Music Theatre)",
+            "https://handbook.unimelb.edu.au/2024/courses/b-famusth"
+        ],
+        [
+            "J15AA",
+            "Doctor of Medical Science",
+            "https://handbook.unimelb.edu.au/2024/courses/j15aa"
+        ],
+        [
+            "B-FAPRO",
+            "Bachelor of Fine Arts (Production)",
+            "https://handbook.unimelb.edu.au/2024/courses/b-fapro"
+        ],
+        [
+            "B-FADANCE",
+            "Bachelor of Fine Arts (Dance)",
+            "https://handbook.unimelb.edu.au/2024/courses/b-fadance"
+        ],
+        [
+            "B-FAANIM",
+            "Bachelor of Fine Arts (Animation)",
+            "https://handbook.unimelb.edu.au/2024/courses/b-faanim"
+        ],
+        [
+            "B-FATH",
+            "Bachelor of Fine Arts (Theatre)",
+            "https://handbook.unimelb.edu.au/2024/courses/b-fath"
+        ],
+        [
+            "MC-DNCE",
+            "Master of Dance",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-dnce"
+        ],
+        [
+            "MC-DPHYSIO",
+            "Doctor of Physiotherapy",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-dphysio"
+        ],
+        [
+            "MC-NURSC",
+            "Master of Nursing Science",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-nursc"
+        ],
+        [
+            "MC-GENOHLT",
+            "Master of Genomics and Health",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-genohlt"
+        ],
+        [
+            "GC-INNOVP",
+            "Graduate Certificate in Innovation Practice",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-innovp"
+        ],
+        [
+            "MC-BAPTME",
+            "Master of Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-baptme"
+        ],
+        [
+            "GC-IRL",
+            "Graduate Certificate in Indigenous Research and Leadership",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-irl"
+        ],
+        [
+            "GC-DTHLTH",
+            "Graduate Certificate in Digital Transformation of Health",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-dthlth"
+        ],
+        [
+            "MC-PSYCHED",
+            "Master of Psychology (Educational and Developmental)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-psyched"
+        ],
+        [
+            "MC-TESOL",
+            "Master of TESOL",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-tesol"
+        ],
+        [
+            "GD-BA",
+            "Graduate Diploma in Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-ba"
+        ],
+        [
+            "MC-BUSANA",
+            "Master of Business Analytics",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-busana"
+        ],
+        [
+            "MC-BA218",
+            "Master of Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-ba218"
+        ],
+        [
+            "PR-BA",
+            "Professional Certificate in Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-ba"
+        ],
+        [
+            "PR-BA",
+            "Professional Certificate in Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-ba"
+        ],
+        [
+            "GD-MKTG",
+            "Graduate Diploma in Marketing",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-mktg"
+        ],
+        [
+            "DR-PHILEDU",
+            "Doctor of Philosophy - Education",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-philedu"
+        ],
+        [
+            "GD-BA",
+            "Graduate Diploma in Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-ba"
+        ],
+        [
+            "MC-BAEV",
+            "Master of Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-baev"
+        ],
+        [
+            "GC-BA",
+            "Graduate Certificate in Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-ba"
+        ],
+        [
+            "960BA",
+            "Master of Education",
+            "https://handbook.unimelb.edu.au/2024/courses/960ba"
+        ],
+        [
+            "300BB",
+            "Doctor of Education",
+            "https://handbook.unimelb.edu.au/2024/courses/300bb"
+        ],
+        [
+            "MC-BAOL",
+            "Master of Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-baol"
+        ],
+        [
+            "PR-BAOL",
+            "Professional Certificate in Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-baol"
+        ],
+        [
+            "GC-BAOL",
+            "Graduate Certificate in Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-baol"
+        ],
+        [
+            "572RC",
+            "Master of Medicine (Radiology)",
+            "https://handbook.unimelb.edu.au/2024/courses/572rc"
+        ],
+        [
+            "GC-DPHLTH",
+            "Graduate Certificate in Dental Public Health",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-dphlth"
+        ],
+        [
+            "MC-SCICHE",
+            "Master of Science (Chemistry)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-sciche"
+        ],
+        [
+            "GC-DTACP",
+            "Graduate Certificate in Dental Therapy (Advanced Clinical Practice)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-dtacp"
+        ],
+        [
+            "MC-ADVNPPH",
+            "Master of Advanced Nursing Practice/Master of Public Health",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-advnpph"
+        ],
+        [
+            "GC-BUS",
+            "Graduate Certificate in Business",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-bus"
+        ],
+        [
+            "MC-TEACHSI",
+            "Master of Teaching (Secondary) Internship",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-teachsi"
+        ],
+        [
+            "GC-EDLD",
+            "Graduate Certificate in Education (Learning Difficulties)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-edld"
+        ],
+        [
+            "GC-EVALO",
+            "Graduate Certificate in Evaluation",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-evalo"
+        ],
+        [
+            "GC-EDRES",
+            "Graduate Certificate in Educational Research",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-edres"
+        ],
+        [
+            "MC-INSLEAD",
+            "Master of Instructional Leadership",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-inslead"
+        ],
+        [
+            "MC-EVALO",
+            "Master of Evaluation",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-evalo"
+        ],
+        [
+            "GC-ECHRES",
+            "Graduate Certificate in Early Childhood Research",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-echres"
+        ],
+        [
+            "DH-DSC",
+            "Doctor of Dental Science",
+            "https://handbook.unimelb.edu.au/2024/courses/dh-dsc"
+        ],
+        [
+            "510AA",
+            "Master of Employment and Labour Relations Law",
+            "https://handbook.unimelb.edu.au/2024/courses/510aa"
+        ],
+        [
+            "195AA",
+            "Master of Construction Law",
+            "https://handbook.unimelb.edu.au/2024/courses/195aa"
+        ],
+        [
+            "742AB",
+            "Master of Tax",
+            "https://handbook.unimelb.edu.au/2024/courses/742ab"
+        ],
+        [
+            "GD-ENV",
+            "Graduate Diploma in Environment",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-env"
+        ],
+        [
+            "MC-ARCPROP",
+            "Master of Architecture/Master of Property",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-arcprop"
+        ],
+        [
+            "GC-ENVDES",
+            "Graduate Certificate in Environmental Design",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-envdes"
+        ],
+        [
+            "DR-PHILABP",
+            "Doctor of Philosophy - Architecture, Building and Planning",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-philabp"
+        ],
+        [
+            "PR-TRANS",
+            "Professional Certificate in Translation",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-trans"
+        ],
+        [
+            "MR-PHILABP",
+            "Master of Philosophy - Architecture, Building and Planning",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-philabp"
+        ],
+        [
+            "MC-UPUD",
+            "Master of Urban Planning/Master of Urban Design",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-upud"
+        ],
+        [
+            "MC-URPL",
+            "Master of Urban Planning",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-urpl"
+        ],
+        [
+            "GC-TRANS",
+            "Graduate Certificate in Translation",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-trans"
+        ],
+        [
+            "192AA",
+            "Master of International Tax",
+            "https://handbook.unimelb.edu.au/2024/courses/192aa"
+        ],
+        [
+            "507AA",
+            "Master of Health and Medical Law",
+            "https://handbook.unimelb.edu.au/2024/courses/507aa"
+        ],
+        [
+            "191AA",
+            "Graduate Diploma in International Tax",
+            "https://handbook.unimelb.edu.au/2024/courses/191aa"
+        ],
+        [
+            "189AA",
+            "Graduate Diploma in Construction Law",
+            "https://handbook.unimelb.edu.au/2024/courses/189aa"
+        ],
+        [
+            "187AA",
+            "Graduate Diploma in Tax",
+            "https://handbook.unimelb.edu.au/2024/courses/187aa"
+        ],
+        [
+            "SC-TAX",
+            "Specialist Certificate in Tax",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-tax"
+        ],
+        [
+            "636AA",
+            "Graduate Diploma in Human Rights Law",
+            "https://handbook.unimelb.edu.au/2024/courses/636aa"
+        ],
+        [
+            "MC-HUMRLAW",
+            "Master of Human Rights Law",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-humrlaw"
+        ],
+        [
+            "GD-ENRSLAW",
+            "Graduate Diploma in Energy and Resources Law",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-enrslaw"
+        ],
+        [
+            "MC-ENRSLAW",
+            "Master of Energy and Resources Law",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-enrslaw"
+        ],
+        [
+            "MC-CTPYART",
+            "Master of Contemporary Art",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-ctpyart"
+        ],
+        [
+            "MC-GCCLAW",
+            "Master of Global Competition and Consumer Law",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-gcclaw"
+        ],
+        [
+            "MC-PRIVLAW",
+            "Master of Private Law",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-privlaw"
+        ],
+        [
+            "GD-GCCLAW",
+            "Graduate Diploma in Global Competition and Consumer Law",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-gcclaw"
+        ],
+        [
+            "SC-LGLLEAD",
+            "Specialist Certificate in Legal Leadership",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-lgllead"
+        ],
+        [
+            "498AB",
+            "Graduate Diploma in Dispute Resolution",
+            "https://handbook.unimelb.edu.au/2024/courses/498ab"
+        ],
+        [
+            "343AA",
+            "Graduate Diploma in Health and Medical Law",
+            "https://handbook.unimelb.edu.au/2024/courses/343aa"
+        ],
+        [
+            "518AB",
+            "Graduate Diploma in Communications Law",
+            "https://handbook.unimelb.edu.au/2024/courses/518ab"
+        ],
+        [
+            "SC-GCLAW",
+            "Specialist Certificate in Global Competition Law",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-gclaw"
+        ],
+        [
+            "188AA",
+            "Graduate Diploma in Employment and Labour Relations Law",
+            "https://handbook.unimelb.edu.au/2024/courses/188aa"
+        ],
+        [
+            "B-FAVISART",
+            "Bachelor of Fine Arts (Visual Art)",
+            "https://handbook.unimelb.edu.au/2024/courses/b-favisart"
+        ],
+        [
+            "GC-LANGCL",
+            "Graduate Certificate in Language and Cultural Literacy",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-langcl"
+        ],
+        [
+            "PR-LANGCL",
+            "Professional Certificate in Language and Cultural Literacy",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-langcl"
+        ],
+        [
+            "PR-LANGCL",
+            "Professional Certificate in Language and Cultural Literacy",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-langcl"
+        ],
+        [
+            "GDA-PUBCOM",
+            "Graduate Diploma in Publishing and Communications (Advanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/gda-pubcom"
+        ],
+        [
+            "GCA-PUBCOM",
+            "Graduate Certificate in Publishing and Communications (Advanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/gca-pubcom"
+        ],
+        [
+            "SC-CRIMFD",
+            "Specialist Certificate in Criminology (Forensic Disability)",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-crimfd"
+        ],
+        [
+            "SC-IMUSTCH",
+            "Specialist Certificate in Inclusive Music Teaching",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-imustch"
+        ],
+        [
+            "MC-URBDES",
+            "Master of Urban Design",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-urbdes"
+        ],
+        [
+            "BH-COM",
+            "Bachelor of Commerce (Degree with Honours)",
+            "https://handbook.unimelb.edu.au/2024/courses/bh-com"
+        ],
+        [
+            "GD-CLINRHB",
+            "Graduate Diploma in Clinical Rehabilitation",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-clinrhb"
+        ],
+        [
+            "MC-SPREHAB",
+            "Master of Sports Rehabilitation",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-sprehab"
+        ],
+        [
+            "MC-PHTYPH",
+            "Master of Physiotherapy (Pelvic Health)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-phtyph"
+        ],
+        [
+            "MC-YOUTHMH",
+            "Master of Youth Mental Health",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-youthmh"
+        ],
+        [
+            "GC-CLINRHB",
+            "Graduate Certificate in Clinical Rehabilitation",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-clinrhb"
+        ],
+        [
+            "MC-SPMED",
+            "Master of Sports Medicine",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-spmed"
+        ],
+        [
+            "GD-YOUTHMH",
+            "Graduate Diploma in Youth Mental Health",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-youthmh"
+        ],
+        [
+            "MC-CLINRHB",
+            "Master of Clinical Rehabilitation",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-clinrhb"
+        ],
+        [
+            "SC-CLINRHB",
+            "Specialist Certificate in Clinical Rehabilitation",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-clinrhb"
+        ],
+        [
+            "GD-SPMED",
+            "Graduate Diploma in Sports Medicine",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-spmed"
+        ],
+        [
+            "GC-YOUTHMH",
+            "Graduate Certificate in Youth Mental Health",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-youthmh"
+        ],
+        [
+            "GC-SPMED",
+            "Graduate Certificate in Sports Medicine",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-spmed"
+        ],
+        [
+            "PR-TREATY",
+            "Professional Certificate in Treaty",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-treaty"
+        ],
+        [
+            "MC-PHTYPAE",
+            "Master of Physiotherapy (Paediatrics)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-phtypae"
+        ],
+        [
+            "GD-PHTYPAE",
+            "Graduate Diploma in Physiotherapy (Paediatrics)",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-phtypae"
+        ],
+        [
+            "MC-ENSYSEN",
+            "Master of Environmental Systems Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-ensysen"
+        ],
+        [
+            "PR-POSED",
+            "Professional Certificate in Positive Education",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-posed"
+        ],
+        [
+            "PR-BUSANA",
+            "Professional Certificate in Business Analytics",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-busana"
+        ],
+        [
+            "GD-BAOL",
+            "Graduate Diploma in Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-baol"
+        ],
+        [
+            "MC-ARCHENG",
+            "Master of Architectural Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-archeng"
+        ],
+        [
+            "MC-BIOSENH",
+            "Master of Biostatistics (Enhanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-biosenh"
+        ],
+        [
+            "GD-BIOSTAT",
+            "Graduate Diploma in Biostatistics",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-biostat"
+        ],
+        [
+            "991AA",
+            "Master of Biostatistics",
+            "https://handbook.unimelb.edu.au/2024/courses/991aa"
+        ],
+        [
+            "GC-SURGED",
+            "Graduate Certificate in Surgical Education",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-surged"
+        ],
+        [
+            "GD-SURGED",
+            "Graduate Diploma in Surgical Education",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-surged"
+        ],
+        [
+            "MC-SURGED",
+            "Master of Surgical Education",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-surged"
+        ],
+        [
+            "GC-CNCRSC",
+            "Graduate Certificate in Cancer Sciences",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-cncrsc"
+        ],
+        [
+            "SC-CNCRSC",
+            "Specialist Certificate in Cancer Sciences",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-cncrsc"
+        ],
+        [
+            "MC-CNCRSC",
+            "Master of Cancer Sciences",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-cncrsc"
+        ],
+        [
+            "MC-COMECO",
+            "Master of Commerce (Economics)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-comeco"
+        ],
+        [
+            "GD-GENOHLT",
+            "Graduate Diploma in Genomics and Health",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-genohlt"
+        ],
+        [
+            "PR-LANGASS",
+            "Professional Certificate in Language Assessment",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-langass"
+        ],
+        [
+            "SC-NEOCARE",
+            "Specialist Certificate in Neonatal Care",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-neocare"
+        ],
+        [
+            "SC-CNCRNUR",
+            "Specialist Certificate in Cancer Nursing",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-cncrnur"
+        ],
+        [
+            "SC-CCNURS",
+            "Specialist Certificate in Critical Care Nursing",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-ccnurs"
+        ],
+        [
+            "GC-PAEN",
+            "Graduate Certificate in Paediatric Nursing",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-paen"
+        ],
+        [
+            "GC-CCNEM",
+            "Graduate Certificate in Critical Care Nursing (Emergency)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-ccnem"
+        ],
+        [
+            "GC-PAEICN",
+            "Graduate Certificate in Paediatric Intensive Care Nursing",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-paeicn"
+        ],
+        [
+            "SC-PAEN",
+            "Specialist Certificate in Paediatric Nursing",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-paen"
+        ],
+        [
+            "GC-NIC",
+            "Graduate Certificate in Neonatal Intensive Care",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-nic"
+        ],
+        [
+            "GD-ECTCH",
+            "Graduate Diploma in Early Childhood Teaching",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-ectch"
+        ],
+        [
+            "MC-UCH",
+            "Master of Urban and Cultural Heritage",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-uch"
+        ],
+        [
+            "GC-CLINUS",
+            "Graduate Certificate in Clinical Ultrasound",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-clinus"
+        ],
+        [
+            "SC-CLINUS",
+            "Specialist Certificate in Clinical Ultrasound",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-clinus"
+        ],
+        [
+            "SC-CLNLEAD",
+            "Specialist Certificate in Clinical Leadership",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-clnlead"
+        ],
+        [
+            "SC-CLINUSP",
+            "Specialist Certificate in Clinical Ultrasound (Practical)",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-clinusp"
+        ],
+        [
+            "DR-PHILART",
+            "Doctor of Philosophy - Arts",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-philart"
+        ],
+        [
+            "MC-EDEBT",
+            "Master of Education in Evidence-Based Teaching",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-edebt"
+        ],
+        [
+            "SC-IMPSC",
+            "Specialist Certificate in Implementation Science",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-impsc"
+        ],
+        [
+            "MC-HHS",
+            "Master of Health and Human Services",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-hhs"
+        ],
+        [
+            "SC-SERVNAV",
+            "Specialist Certificate in Service Navigation",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-servnav"
+        ],
+        [
+            "GC-HHS",
+            "Graduate Certificate in Health and Human Services",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-hhs"
+        ],
+        [
+            "GC-NTCW",
+            "Graduate Certificate in Narrative Therapy and Community Work",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-ntcw"
+        ],
+        [
+            "GC-NTCW",
+            "Graduate Certificate in Narrative Therapy and Community Work",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-ntcw"
+        ],
+        [
+            "SC-ASW",
+            "Specialist Certificate in Advanced Social Work",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-asw"
+        ],
+        [
+            "SC-HHS",
+            "Specialist Certificate in Health and Human Services",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-hhs"
+        ],
+        [
+            "GD-ENVLAW",
+            "Graduate Diploma in Environmental Law",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-envlaw"
+        ],
+        [
+            "GD-MHNP",
+            "Graduate Diploma in Mental Health Nursing Practice",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-mhnp"
+        ],
+        [
+            "MC-ENVLAW",
+            "Master of Environmental Law",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-envlaw"
+        ],
+        [
+            "GD-CORPLAW",
+            "Graduate Diploma in Corporate Law",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-corplaw"
+        ],
+        [
+            "968AB",
+            "Graduate Diploma in Banking and Finance Law",
+            "https://handbook.unimelb.edu.au/2024/courses/968ab"
+        ],
+        [
+            "526AA",
+            "Master of Banking and Finance Law",
+            "https://handbook.unimelb.edu.au/2024/courses/526aa"
+        ],
+        [
+            "SC-LAWDT",
+            "Specialist Certificate in Law (Digital Law and Technological Innovation)",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-lawdt"
+        ],
+        [
+            "GC-CCHLTH",
+            "Graduate Certificate in Climate Change and Health",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-cchlth"
+        ],
+        [
+            "891AA",
+            "Graduate Diploma in International Economic Law",
+            "https://handbook.unimelb.edu.au/2024/courses/891aa"
+        ],
+        [
+            "SC-DHW",
+            "Specialist Certificate in Design for Health and Wellbeing",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-dhw"
+        ],
+        [
+            "GC-DTM",
+            "Graduate Certificate in Disaster and Terror Medicine",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-dtm"
+        ],
+        [
+            "GC-IRPRO",
+            "Professional Certificate in Indigenous Research",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-irpro"
+        ],
+        [
+            "MC-BA",
+            "Master of Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-ba"
+        ],
+        [
+            "GD-DTM",
+            "Graduate Diploma in Disaster and Terror Medicine",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-dtm"
+        ],
+        [
+            "MC-LEADDEV",
+            "Master of Leadership for Development",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-leaddev"
+        ],
+        [
+            "MC-SOCW",
+            "Master of Social Work",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-socw"
+        ],
+        [
+            "MC-ARCHUCH",
+            "Master of Architecture/Master of Urban Cultural Heritage",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-archuch"
+        ],
+        [
+            "502CW",
+            "Master of Laws",
+            "https://handbook.unimelb.edu.au/2024/courses/502cw"
+        ],
+        [
+            "277AA",
+            "Master of Intellectual Property Law",
+            "https://handbook.unimelb.edu.au/2024/courses/277aa"
+        ],
+        [
+            "504AA",
+            "Master of Commercial Law",
+            "https://handbook.unimelb.edu.au/2024/courses/504aa"
+        ],
+        [
+            "323AA",
+            "Graduate Diploma in International Law",
+            "https://handbook.unimelb.edu.au/2024/courses/323aa"
+        ],
+        [
+            "635AA",
+            "Master of Law and Development",
+            "https://handbook.unimelb.edu.au/2024/courses/635aa"
+        ],
+        [
+            "726AA",
+            "Graduate Diploma in Asian Law",
+            "https://handbook.unimelb.edu.au/2024/courses/726aa"
+        ],
+        [
+            "511AA",
+            "Master of Public and International Law",
+            "https://handbook.unimelb.edu.au/2024/courses/511aa"
+        ],
+        [
+            "276AA",
+            "Graduate Diploma in Intellectual Property Law",
+            "https://handbook.unimelb.edu.au/2024/courses/276aa"
+        ],
+        [
+            "GD-LAWS",
+            "Graduate Diploma in Laws",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-laws"
+        ],
+        [
+            "PR-LDSHIP",
+            "Professional Certificate in Leadership",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-ldship"
+        ],
+        [
+            "MC-PO",
+            "Master of Psychiatry",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-po"
+        ],
+        [
+            "872BB",
+            "Master of Veterinary Science",
+            "https://handbook.unimelb.edu.au/2024/courses/872bb"
+        ],
+        [
+            "872AA",
+            "Master of Veterinary Science",
+            "https://handbook.unimelb.edu.au/2024/courses/872aa"
+        ],
+        [
+            "GC-IDEPI",
+            "Graduate Certificate in Infectious Disease Epidemiology",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-idepi"
+        ],
+        [
+            "178AA",
+            "Graduate Diploma in Government Law",
+            "https://handbook.unimelb.edu.au/2024/courses/178aa"
+        ],
+        [
+            "MC-DMKTG",
+            "Master of Digital Marketing",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-dmktg"
+        ],
+        [
+            "697AA",
+            "Graduate Certificate in University Teaching",
+            "https://handbook.unimelb.edu.au/2024/courses/697aa"
+        ],
+        [
+            "GDA-ACM",
+            "Graduate Diploma in Arts and Cultural Management (Advanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/gda-acm"
+        ],
+        [
+            "MC-SCL",
+            "Master of Social Change Leadership",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-scl"
+        ],
+        [
+            "GC-SCL",
+            "Graduate Certificate in Social Change Leadership",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-scl"
+        ],
+        [
+            "PR-EDNEURO",
+            "Professional Certificate in Educational Neuroscience",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-edneuro"
+        ],
+        [
+            "GC-GERON",
+            "Graduate Certificate in Gerontology",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-geron"
+        ],
+        [
+            "SC-GERON",
+            "Specialist Certificate in Gerontology",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-geron"
+        ],
+        [
+            "MC-SCIBIT",
+            "Master of Biotechnology",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-scibit"
+        ],
+        [
+            "D-MUSIC",
+            "Diploma in Music",
+            "https://handbook.unimelb.edu.au/2024/courses/d-music"
+        ],
+        [
+            "MC-MGMTAFN",
+            "Master of Management (Accounting and Finance)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-mgmtafn"
+        ],
+        [
+            "GC-DHW",
+            "Graduate Certificate in Design for Health and Wellbeing",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-dhw"
+        ],
+        [
+            "MC-FINANCE",
+            "Master of Finance",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-finance"
+        ],
+        [
+            "GC-SUSTBUS",
+            "Graduate Certificate in Sustainable Business",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-sustbus"
+        ],
+        [
+            "MC-FINENH",
+            "Master of Finance (Enhanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-finenh"
+        ],
+        [
+            "MC-CLIMSCI",
+            "Master of Climate Science",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-climsci"
+        ],
+        [
+            "SC-DHM",
+            "Specialist Certificate in Disaster Health Management",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-dhm"
+        ],
+        [
+            "MC-LARCHUP",
+            "Master of Landscape Architecture/Master of Urban Planning",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-larchup"
+        ],
+        [
+            "MC-TEACHEC",
+            "Master of Teaching (Early Childhood)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-teachec"
+        ],
+        [
+            "MC-TEACHSA",
+            "Master of Teaching (Secondary)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-teachsa"
+        ],
+        [
+            "MC-SCIMAT",
+            "Master of Science (Mathematics and Statistics)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-scimat"
+        ],
+        [
+            "MC-FILMTV",
+            "Master of Film and Television",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-filmtv"
+        ],
+        [
+            "BH-ENVS",
+            "Bachelor of Environments (Degree with Honours)",
+            "https://handbook.unimelb.edu.au/2024/courses/bh-envs"
+        ],
+        [
+            "344AB",
+            "Master of Public Policy and Management",
+            "https://handbook.unimelb.edu.au/2024/courses/344ab"
+        ],
+        [
+            "MC-MGMT",
+            "Master of Management",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-mgmt"
+        ],
+        [
+            "MC-ARCH",
+            "Master of Architecture",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-arch"
+        ],
+        [
+            "GDA-SCI",
+            "Graduate Diploma in Science (Advanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/gda-sci"
+        ],
+        [
+            "MC-BMEDSC",
+            "Master of Biomedical Science",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-bmedsc"
+        ],
+        [
+            "MC-URBHORT",
+            "Master of Urban Horticulture",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-urbhort"
+        ],
+        [
+            "MC-ARCHUP",
+            "Master of Architecture/Master of Urban Planning",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-archup"
+        ],
+        [
+            "MC-CIVENG",
+            "Master of Civil Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-civeng"
+        ],
+        [
+            "MC-ENV",
+            "Master of Environment",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-env"
+        ],
+        [
+            "MC-PROPUP",
+            "Master of Property/Master of Urban Planning",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-propup"
+        ],
+        [
+            "706AA",
+            "Master of Social Policy",
+            "https://handbook.unimelb.edu.au/2024/courses/706aa"
+        ],
+        [
+            "MC-ANP",
+            "Master of Advanced Nursing Practice",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-anp"
+        ],
+        [
+            "GC-PHTYPAE",
+            "Graduate Certificate in Physiotherapy (Paediatrics)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-phtypae"
+        ],
+        [
+            "MC-ELECENG",
+            "Master of Electrical Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-eleceng"
+        ],
+        [
+            "MC-SCIBIF",
+            "Master of Science (Bioinformatics)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-scibif"
+        ],
+        [
+            "MC-APLING",
+            "Master of Applied Linguistics",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-apling"
+        ],
+        [
+            "MC-CAT",
+            "Master of Creative Arts Therapy",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-cat"
+        ],
+        [
+            "MC-IT",
+            "Master of Information Technology",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-it"
+        ],
+        [
+            "GCA-ARTS",
+            "Graduate Certificate in Arts (Advanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/gca-arts"
+        ],
+        [
+            "MC-MGMTMKT",
+            "Master of Management (Marketing)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-mgmtmkt"
+        ],
+        [
+            "MC-JOURN",
+            "Master of Journalism",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-journ"
+        ],
+        [
+            "MC-MKTCOMM",
+            "Master of Marketing Communications",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-mktcomm"
+        ],
+        [
+            "D01LF",
+            "Master of Creative Writing, Publishing and Editing",
+            "https://handbook.unimelb.edu.au/2024/courses/d01lf"
+        ],
+        [
+            "MC-INTEDIB",
+            "Master of International Education (International Baccalaureate)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-intedib"
+        ],
+        [
+            "GD-SC",
+            "Graduate Diploma in Science",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-sc"
+        ],
+        [
+            "MC-MGMTACT",
+            "Master of Management (Accounting)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-mgmtact"
+        ],
+        [
+            "MC-PROP",
+            "Master of Property",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-prop"
+        ],
+        [
+            "MC-EMA",
+            "Executive Master of Arts",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-ema"
+        ],
+        [
+            "MC-MUSOP",
+            "Master of Music (Opera Performance)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-musop"
+        ],
+        [
+            "MR-ARTSAST",
+            "Master of Arts (Advanced Seminar & Shorter Thesis)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-artsast"
+        ],
+        [
+            "ME-DCD",
+            "Doctor of Clinical Dentistry",
+            "https://handbook.unimelb.edu.au/2024/courses/me-dcd"
+        ],
+        [
+            "GC-SC",
+            "Graduate Certificate in Science",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-sc"
+        ],
+        [
+            "MC-CONTCS",
+            "Master of Contemporary Chinese Studies",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-contcs"
+        ],
+        [
+            "MC-DINFENG",
+            "Master of Digital Infrastructure Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-dinfeng"
+        ],
+        [
+            "MC-ED",
+            "Master of Education",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-ed"
+        ],
+        [
+            "MC-LARCHUD",
+            "Master of Landscape Architecture/Master of Urban Design",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-larchud"
+        ],
+        [
+            "274AB",
+            "Master of Criminology",
+            "https://handbook.unimelb.edu.au/2024/courses/274ab"
+        ],
+        [
+            "MC-APPDA",
+            "Master of Applied Data Analytics",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-appda"
+        ],
+        [
+            "038AB",
+            "Master of Art Curatorship",
+            "https://handbook.unimelb.edu.au/2024/courses/038ab"
+        ],
+        [
+            "MC-LARCH",
+            "Master of Landscape Architecture",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-larch"
+        ],
+        [
+            "761EM",
+            "Master of Engineering Management",
+            "https://handbook.unimelb.edu.au/2024/courses/761em"
+        ],
+        [
+            "BH-SCIADV",
+            "Bachelor of Science Advanced (Honours)",
+            "https://handbook.unimelb.edu.au/2024/courses/bh-sciadv"
+        ],
+        [
+            "MC-CMPROP",
+            "Master of Construction Management/Master of Property",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-cmprop"
+        ],
+        [
+            "BH-MUS",
+            "Bachelor of Music (Degree with Honours)",
+            "https://handbook.unimelb.edu.au/2024/courses/bh-mus"
+        ],
+        [
+            "MC-TRANINT",
+            "Master of Translation and Interpreting",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-tranint"
+        ],
+        [
+            "MC-TEACHPR",
+            "Master of Teaching (Primary)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-teachpr"
+        ],
+        [
+            "MC-ENVENG",
+            "Master of Environmental Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-enveng"
+        ],
+        [
+            "MC-TCHECP",
+            "Master of Teaching (Early Childhood and Primary)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-tchecp"
+        ],
+        [
+            "MC-INTJOUR",
+            "Master of International Journalism",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-intjour"
+        ],
+        [
+            "MC-LARCHUD",
+            "Master of Landscape Architecture/Master of Urban Design",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-larchud"
+        ],
+        [
+            "MC-MUSOP",
+            "Master of Music (Opera Performance)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-musop"
+        ],
+        [
+            "GD-SC",
+            "Graduate Diploma in Science",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-sc"
+        ],
+        [
+            "D01LF",
+            "Master of Creative Writing, Publishing and Editing",
+            "https://handbook.unimelb.edu.au/2024/courses/d01lf"
+        ],
+        [
+            "MC-INTEDIB",
+            "Master of International Education (International Baccalaureate)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-intedib"
+        ],
+        [
+            "MC-ARCHCM",
+            "Master of Architecture/Master of Construction Management",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-archcm"
+        ],
+        [
+            "MC-MGMTACT",
+            "Master of Management (Accounting)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-mgmtact"
+        ],
+        [
+            "MC-ED",
+            "Master of Education",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-ed"
+        ],
+        [
+            "GC-SC",
+            "Graduate Certificate in Science",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-sc"
+        ],
+        [
+            "MC-MECHENG",
+            "Master of Mechanical Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-mecheng"
+        ],
+        [
+            "274AB",
+            "Master of Criminology",
+            "https://handbook.unimelb.edu.au/2024/courses/274ab"
+        ],
+        [
+            "MC-APPDA",
+            "Master of Applied Data Analytics",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-appda"
+        ],
+        [
+            "MC-PROP",
+            "Master of Property",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-prop"
+        ],
+        [
+            "BH-SCI",
+            "Bachelor of Science (Degree with Honours)",
+            "https://handbook.unimelb.edu.au/2024/courses/bh-sci"
+        ],
+        [
+            "MC-ARCHCM",
+            "Master of Architecture/Master of Construction Management",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-archcm"
+        ],
+        [
+            "MC-BIOMENG",
+            "Master of Biomedical Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-biomeng"
+        ],
+        [
+            "097AB",
+            "Master of Development Studies",
+            "https://handbook.unimelb.edu.au/2024/courses/097ab"
+        ],
+        [
+            "MC-CULMC",
+            "Master of Cultural Materials Conservation",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-culmc"
+        ],
+        [
+            "MC-LI",
+            "Master of Learning Intervention",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-li"
+        ],
+        [
+            "MC-IS",
+            "Master of Information Systems",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-is"
+        ],
+        [
+            "244CW",
+            "Master of Public Health",
+            "https://handbook.unimelb.edu.au/2024/courses/244cw"
+        ],
+        [
+            "BH-DES",
+            "Bachelor of Design (Degree with Honours)",
+            "https://handbook.unimelb.edu.au/2024/courses/bh-des"
+        ],
+        [
+            "MC-CM",
+            "Master of Construction Management",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-cm"
+        ],
+        [
+            "MC-MECHENG",
+            "Master of Mechanical Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-mecheng"
+        ],
+        [
+            "MC-ARCHUD",
+            "Master of Architecture/Master of Urban Design",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-archud"
+        ],
+        [
+            "MC-MGMTHRE",
+            "Master of Management (Human Resources)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-mgmthre"
+        ],
+        [
+            "MC-PUBCOM",
+            "Master of Publishing and Communications",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-pubcom"
+        ],
+        [
+            "GD-MUS",
+            "Graduate Diploma in Music",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-mus"
+        ],
+        [
+            "GCA-SCI",
+            "Graduate Certificate in Science (Advanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/gca-sci"
+        ],
+        [
+            "BH-BMED",
+            "Bachelor of Biomedicine (Degree with Honours)",
+            "https://handbook.unimelb.edu.au/2024/courses/bh-bmed"
+        ],
+        [
+            "MC-CHEMENG",
+            "Master of Chemical Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-chemeng"
+        ],
+        [
+            "MC-SOFTENG",
+            "Master of Software Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-softeng"
+        ],
+        [
+            "MC-MLED",
+            "Master of Modern Languages Education",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-mled"
+        ],
+        [
+            "MC-MLED",
+            "Master of Modern Languages Education",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-mled"
+        ],
+        [
+            "MC-IR",
+            "Master of International Relations",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-ir"
+        ],
+        [
+            "MC-MGMTFIN",
+            "Master of Management (Finance)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-mgmtfin"
+        ],
+        [
+            "GC-INTEDIB",
+            "Graduate Certificate in International Education (IB)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-intedib"
+        ],
+        [
+            "GCA-SCI",
+            "Graduate Certificate in Science (Advanced)",
+            "https://handbook.unimelb.edu.au/2024/courses/gca-sci"
+        ],
+        [
+            "GD-ARTS",
+            "Graduate Diploma in Arts",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-arts"
+        ],
+        [
+            "BH-FA",
+            "Bachelor of Fine Arts (Degree with Honours)",
+            "https://handbook.unimelb.edu.au/2024/courses/bh-fa"
+        ],
+        [
+            "MC-REHABSC",
+            "Master of Rehabilitation Science",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-rehabsc"
+        ],
+        [
+            "551AA",
+            "Ph.D.- Medicine, Dentistry & Health Sciences",
+            "https://handbook.unimelb.edu.au/2024/courses/551aa"
+        ],
+        [
+            "SC-CCCONS",
+            "Specialist Certificate in Cross-Cultural Conservation and Heritage",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-cccons"
+        ],
+        [
+            "475AA",
+            "Doctor of Philosophy - Victorian College of the Arts",
+            "https://handbook.unimelb.edu.au/2024/courses/475aa"
+        ],
+        [
+            "501AA",
+            "Ph.D.- Law",
+            "https://handbook.unimelb.edu.au/2024/courses/501aa"
+        ],
+        [
+            "GC-NPPIC",
+            "Graduate Certificate in Nursing Practice (Paediatric Intensive Care)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-nppic"
+        ],
+        [
+            "MR-FAPROD",
+            "Master of Fine Arts (Production)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-faprod"
+        ],
+        [
+            "MC-APPECON",
+            "Master of Applied Econometrics",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-appecon"
+        ],
+        [
+            "351AA",
+            "Ph.D.- Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/351aa"
+        ],
+        [
+            "570AA",
+            "Master of Epidemiology",
+            "https://handbook.unimelb.edu.au/2024/courses/570aa"
+        ],
+        [
+            "MR-PHILENG",
+            "Master of Philosophy - Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-phileng"
+        ],
+        [
+            "661AA",
+            "Doctor of Clinical Dentistry",
+            "https://handbook.unimelb.edu.au/2024/courses/661aa"
+        ],
+        [
+            "B-ARTSEXT",
+            "Bachelor of Arts (Extended)",
+            "https://handbook.unimelb.edu.au/2024/courses/b-artsext"
+        ],
+        [
+            "871AA",
+            "Ph.D.- Veterinary Science",
+            "https://handbook.unimelb.edu.au/2024/courses/871aa"
+        ],
+        [
+            "DR-PHILENG",
+            "Doctor of Philosophy - Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-phileng"
+        ],
+        [
+            "GC-HINFDH",
+            "Graduate Certificate in Health Informatics and Digital Health",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-hinfdh"
+        ],
+        [
+            "101AA",
+            "Ph.D.- Arts",
+            "https://handbook.unimelb.edu.au/2024/courses/101aa"
+        ],
+        [
+            "MR-FACMUS",
+            "Master of Fine Arts (Contemporary Music)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-facmus"
+        ],
+        [
+            "342AA",
+            "Master of Psychiatry",
+            "https://handbook.unimelb.edu.au/2024/courses/342aa"
+        ],
+        [
+            "751AA",
+            "Ph.D.- Science",
+            "https://handbook.unimelb.edu.au/2024/courses/751aa"
+        ],
+        [
+            "MC-BAPT",
+            "Master of Business Administration",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-bapt"
+        ],
+        [
+            "GC-NPPAED",
+            "Graduate Certificate in Nursing Practice (Paediatrics)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-nppaed"
+        ],
+        [
+            "DR-PHILVCA",
+            "Doctor of Philosophy - Victorian College of the Arts",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-philvca"
+        ],
+        [
+            "MR-FAIAP",
+            "Master of Fine Arts (Interdisciplinary Arts Practice)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-faiap"
+        ],
+        [
+            "MC-AN",
+            "Master of Advanced Nursing",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-an"
+        ],
+        [
+            "051AA",
+            "Ph.D.- Architecture & Planning",
+            "https://handbook.unimelb.edu.au/2024/courses/051aa"
+        ],
+        [
+            "D-GENSTEXT",
+            "Diploma in General Studies (Extended)",
+            "https://handbook.unimelb.edu.au/2024/courses/d-genstext"
+        ],
+        [
+            "MC-SCICMP",
+            "Master of Science (Computer Science)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-scicmp"
+        ],
+        [
+            "DR-PHILMUS",
+            "Doctor of Philosophy - Music",
+            "https://handbook.unimelb.edu.au/2024/courses/dr-philmus"
+        ],
+        [
+            "651AA",
+            "Ph.D.- Music",
+            "https://handbook.unimelb.edu.au/2024/courses/651aa"
+        ],
+        [
+            "MC-SCPROD",
+            "Master of Screen Producing",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-scprod"
+        ],
+        [
+            "301AA",
+            "Ph.D.- Education",
+            "https://handbook.unimelb.edu.au/2024/courses/301aa"
+        ],
+        [
+            "MC-TEACHEP",
+            "Master of Teaching (Early Childhood and Primary)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-teachep"
+        ],
+        [
+            "GC-AVETPR",
+            "Graduate Certificate in Advanced Veterinary Practice",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-avetpr"
+        ],
+        [
+            "MC-TEACHEP",
+            "Master of Teaching (Early Childhood and Primary)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-teachep"
+        ],
+        [
+            "312AA",
+            "Master of Educational Psychology",
+            "https://handbook.unimelb.edu.au/2024/courses/312aa"
+        ],
+        [
+            "301AA",
+            "Ph.D.- Education",
+            "https://handbook.unimelb.edu.au/2024/courses/301aa"
+        ],
+        [
+            "MR-EVAL",
+            "Master of Evaluation",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-eval"
+        ],
+        [
+            "GD-CDIMPL",
+            "Graduate Diploma in Clinical Dentistry (Implants)",
+            "https://handbook.unimelb.edu.au/2024/courses/gd-cdimpl"
+        ],
+        [
+            "MC-PROFMGT",
+            "Master of Professional Management",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-profmgt"
+        ],
+        [
+            "GC-MANYSHS",
+            "Graduate Certificate in Managing Youth Self-Harm and Suicide",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-manyshs"
+        ],
+        [
+            "206EC",
+            "Master of Environmental Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/206ec"
+        ],
+        [
+            "GC-TEDMGT",
+            "Graduate Certificate in Tertiary Education (Management)",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-tedmgt"
+        ],
+        [
+            "MC-LAWGCCL",
+            "Master of Laws (Global Competition and Consumer Law)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-lawgccl"
+        ],
+        [
+            "SC-CRHLTH",
+            "Specialist Certificate in Creativity and Health",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-crhlth"
+        ],
+        [
+            "MR-FATHTR",
+            "Master of Fine Arts (Theatre)",
+            "https://handbook.unimelb.edu.au/2024/courses/mr-fathtr"
+        ],
+        [
+            "MC-TEDMGT",
+            "Master of Tertiary Education (Management)",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-tedmgt"
+        ],
+        [
+            "652MP",
+            "Master of Music (Music Performance)",
+            "https://handbook.unimelb.edu.au/2024/courses/652mp"
+        ],
+        [
+            "GC-APPANA",
+            "Graduate Certificate in Applied Analytics",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-appana"
+        ],
+        [
+            "652CO",
+            "Master of Music (Composition)",
+            "https://handbook.unimelb.edu.au/2024/courses/652co"
+        ],
+        [
+            "PR-WBLEAD",
+            "Professional Certificate in Wellbeing Leadership",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-wblead"
+        ],
+        [
+            "GC-SAUA",
+            "Graduate Certificate in Small Animal Ultrasound Abdominal",
+            "https://handbook.unimelb.edu.au/2024/courses/gc-saua"
+        ],
+        [
+            "SC-ADED",
+            "Specialist Certificate in Anterior and Dry Eye Disorders",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-aded"
+        ],
+        [
+            "SC-MCLP",
+            "Specialist Certificate in the Management of Contact Lens Patients",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-mclp"
+        ],
+        [
+            "SC-MLVP",
+            "Specialist Certificate in the Management of Low Vision Patients",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-mlvp"
+        ],
+        [
+            "SC-MPP",
+            "Specialist Certificate in the Management of Paediatric Patients",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-mpp"
+        ],
+        [
+            "MC-CLINOPT",
+            "Master of Clinical Optometry",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-clinopt"
+        ],
+        [
+            "SC-ADED",
+            "Specialist Certificate in Anterior and Dry Eye Disorders",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-aded"
+        ],
+        [
+            "SC-CRIMOM",
+            "Specialist Certificate in Criminology (Offender Management)",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-crimom"
+        ],
+        [
+            "PR-WBCOACH",
+            "Professional Certificate in Wellbeing Coaching",
+            "https://handbook.unimelb.edu.au/2024/courses/pr-wbcoach"
+        ],
+        [
+            "SC-MGTNOD",
+            "Specialist Certificate in the Management of Neuro-Ophthalmic Disorders",
+            "https://handbook.unimelb.edu.au/2024/courses/sc-mgtnod"
+        ],
+        [
+            "MC-PRODDES",
+            "Master of Production Design",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-proddes"
+        ],
+        [
+            "MC-CLIND",
+            "Master of Clinical Dentistry",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-clind"
+        ],
+        [
+            "MC-APPANA",
+            "Master of Applied Analytics",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-appana"
+        ],
+        [
+            "MC-ENG",
+            "Master of Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-eng"
+        ],
+        [
+            "MC-SPATENG",
+            "Master of Spatial Engineering",
+            "https://handbook.unimelb.edu.au/2024/courses/mc-spateng"
+        ],
+        [
+            "441ME",
+            "Master of Environment",
+            "https://handbook.unimelb.edu.au/2024/courses/441me"
+        ]
+    ]
+}

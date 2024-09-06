@@ -15,6 +15,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Evaluate mass transfer in the context of biomedical engineering",
+        "Analyse the roles of transport processes in the cells, tissues and organ systems of the human body",
+        "Formulate problems in biological systems, identifying fundamental transport processes and the equations that describe these systems",
+        "Apply principles of transport to develop solutions to problems in process and biomedical engineering"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

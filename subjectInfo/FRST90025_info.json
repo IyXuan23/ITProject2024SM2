@@ -10,6 +10,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "An understanding the importance of fuel composition and structure (fuel moisture, composition, accumulation, decomposition and spatial distributionon) on fire behaviour.",
+        "An understand the fundamentals of fire behaviour \u2010 pyrolysis, combustion, and heat transfer",
+        "Experience in the use of fire behaviour prediction using manual methods and models linked to Geographic Information Systems.",
+        "Knowledge of the effects of climate and weather patterns on fire occurrence and behaviour.",
+        "Experience using weather observations and forecasts to predict fire behaviour.",
+        "Critical analysis of the potential changes to fire regimes under future climate scenarios."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

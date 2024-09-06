@@ -14,6 +14,12 @@
         "Topics include: justification of algorithm correctness; asymptotic and empirical analysis of algorithm performance; algorithms for sorting and searching, including fundamental data structures such as trees and hash tables; and graph algorithms.",
         "Please view this video for further information:Algorithms and Data Structures"
     ],
+    "intended learning outcomes": [
+        "Present arguments for the correctness or incorrectness of a given algorithm",
+        "Reason about and evaluate the efficiency behaviour of a given algorithm",
+        "Choose appropriate data structures and algorithms for a given problem",
+        "Implement the chosen data structures and algorithms."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

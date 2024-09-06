@@ -10,6 +10,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "ILO 1: Describe and interpret the phenomena of strength, deformation, ductility, failure mechanisms, fast fracture and fatigue as applied generically to all materials and be able to identify the key engineering implications with these phenomena;",
+        "ILO 2: Describe the key features in the manufacturing/production, quality control, engineering applications, performance and safety issues associated with the commonly used engineering materials including steel, concrete, masonry, timber, polymers and composites, and be able to identify their engineering implications;",
+        "ILO 3: Apply the concepts of stress-strain compatibility and complementary shear stresses in achieving composite actions, and identify realistic failure mechanisms in structures and make effective use of strength and ductility in engineering applications;",
+        "ILO 4: Identify key considerations including those of costs, practicality, sustainability and the environment, health and safety in making engineering decisions on the choice and application of materials;",
+        "ILO 5: Describe atomic and crystalline structures, molecular composition, and its influence on the physical properties of materials;",
+        "ILO 6: Formulate problems in statics by choosing suitable system boundaries and identifying relevant forces and coordinate systems;",
+        "ILO 7: Apply the equilibrium of systems of forces in two dimensions to solve simple structural elements such as beams and trusses."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

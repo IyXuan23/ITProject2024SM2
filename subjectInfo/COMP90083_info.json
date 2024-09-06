@@ -26,6 +26,12 @@
         "network models (eg, epidemics)",
         "adaptive models (eg, robotics)"
     ],
+    "intended learning outcomes": [
+        "Identify and abstract the key features of complex systems from a variety of domains",
+        "Understand the theoretical basis underpinning the analysis of complex systems",
+        "Evaluate and select, amongst different modelling techniques, the most appropriate for analysing specific systems",
+        "Create computational models to analyse the behaviour of complex systems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

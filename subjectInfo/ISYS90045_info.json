@@ -28,6 +28,15 @@
         "Negotiation Basics",
         "Please view this video for further information:Professional IS Consulting"
     ],
+    "intended learning outcomes": [
+        "Understand the importance of the consulting process and the factors which determine its success",
+        "Make use of the body of research relevant to IS consulting",
+        "Elicit client expectations for a consulting assignment or service",
+        "Plan a substantial information systems consulting project",
+        "Communicate technical concepts to a management audience, both verbally and in writing",
+        "Approach consulting problems, including 'people issues' in a disciplined and effective manner",
+        "Work effectively in a team to collectively achieve practical consulting outcomes"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

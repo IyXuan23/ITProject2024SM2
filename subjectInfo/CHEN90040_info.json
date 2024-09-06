@@ -11,6 +11,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply knowledge of biological, chemical and physico-chemical principles underlying food processing, packaging and storage to the design of food processes and equipment",
+        "Have knowledge of the key functional, sensory, and nutritional properties of food ingredients and how these are affected by processing",
+        "Apply an understanding of the sodium, water and energy footprints of food manufacture and mechanisms to reduce these impacts",
+        "Apply chemical engineering principles to the design and operation of key unit operations used in food processing",
+        "Solve open-ended engineering design and optimisation problems in food processing",
+        "Exhibit practical skills in the conduct of laboratory scale experiments related to food and beverage manufacture."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
@@ -18,7 +26,7 @@
             "one of pre-requisite": [
                 [
                     "CHEN90042",
-                    ""
+                    "CHEN30005"
                 ]
             ],
             "additional pre-requisite": []

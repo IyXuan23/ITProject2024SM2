@@ -16,6 +16,12 @@
         "High-speed signalling consideration: power dissipation, heat, signal propagation, and termination."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the properties and fundamental limitations of high speed electronic systems in terms of the underlying physical principles",
+        "Quantitatively model and analyse high speed electronic systems and interconnects in both the digital and analogue domain",
+        "Simulate the behaviour of high speed electronic systems using software tools",
+        "Conduct basic test procedures for high speed signals and systems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

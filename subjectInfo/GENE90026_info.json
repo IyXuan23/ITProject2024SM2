@@ -11,6 +11,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the processes and limitations of clinical genome variant analysis in routine clinical care",
+        "Describe how a clinical context is integrated into the variant analysis process",
+        "Collect evidence appropriately from population variant databases, in silico software, genetic databases and scientific literature to interpret variants."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

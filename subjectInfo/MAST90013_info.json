@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "be able to understand aspects of network optimisation problems and the methodologies to solve them;",
+        "develop the abilities needed to design combinatorial algorithms for solving other network problems not covered in the subject;",
+        "have the ability to pursue further studies in this and related areas."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

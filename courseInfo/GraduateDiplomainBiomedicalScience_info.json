@@ -1,0 +1,106 @@
+{
+    "Course name": "Graduate Diploma in Biomedical Science",
+    "Course code": "GD-BMEDSC",
+    "Overview text": [
+        "Last updated: 30 January 2024"
+    ],
+    "Overview table": {
+        "Award title": "Graduate Diploma in Biomedical Science",
+        "Year & campus": "2024\u2014 Parkville",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Graduate Coursework",
+        "AQFlevel": "8",
+        "Credit points": "100 credit points",
+        "Duration": "12 months full-time or 24 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Inherent requirements (core participation requirements)": [
+            "Inherent requirements are the abilities, knowledge and skills needed to complete this course that must be met by all students. For information on the inherent requirements specific to this course contact the course/program coordinator. In some circumstances reasonable adjustments may be available to enable students to meet these requirements while still preserving the academic integrity of the university's learning, assessment and accreditation processes. For more information on how to seek these adjustments refer to the Student Equity and Disability Support website:https://services.unimelb.edu.au/student-equity/home"
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "100 Credit Points made up of:",
+                [
+                    "25points of core subjects",
+                    "37.5points of elective subjects",
+                    "37.5points of research project subjects"
+                ]
+            ]
+        },
+        "Core subjects (25 points)": {
+            "overview": [
+                "All students must complete:",
+                [
+                    "BIOM40001",
+                    "HLTH90021"
+                ]
+            ]
+        },
+        "Electives (37.5points)": {
+            "overview": [
+                "Students will complete a minimum of 25 points of Discipline Electives.",
+                "Remaining 12.5 points is a choice of Discipline Elective or Industry and Professional Elective."
+            ],
+            "Discipline Electives:": {
+                "overview": [
+                    [
+                        "BMSC90020",
+                        "BMSC90015",
+                        "BMSC90019",
+                        "BMSC90018",
+                        "BMSC90021",
+                        "BMSC90016",
+                        "BMSC90022",
+                        "BMSC90017",
+                        "SCIE90026"
+                    ]
+                ]
+            },
+            "Industry and Professional Skills Electives:": {
+                "overview": [
+                    [
+                        "BIOL90001",
+                        "SCIE90002",
+                        "MAST90007",
+                        "MKTG90022",
+                        "SCIE90006",
+                        "BUSA90403",
+                        "BINF90002"
+                    ]
+                ]
+            }
+        },
+        "Research Project (37.5 points)": {
+            "overview": [
+                "Students must complete a research project under the supervision of a staff member in an academic unit (a Department or an affiliated Institute) within the Faculty of Medicine, Dentistry and Health Sciences.",
+                "Students enrol in the combination of subjects based on their supervisors' department.",
+                "Students complete Part 1 (12.5 points) in their first semester and Part 2 (25 points) in their second semester.",
+                [
+                    "BMSC90035",
+                    "BMSC90036"
+                ],
+                [
+                    "BMSC90027",
+                    "BMSC90028"
+                ],
+                [
+                    "BMSC90023",
+                    "BMSC90024"
+                ],
+                [
+                    "BMSC90031",
+                    "BMSC90032"
+                ],
+                [
+                    "OPTO90032",
+                    "OPTO90033"
+                ]
+            ]
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": []
+}

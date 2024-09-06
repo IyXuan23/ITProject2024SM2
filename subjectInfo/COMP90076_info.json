@@ -10,6 +10,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Evaluate and apply key techniques  used in social analytics and deploy them in  combination for different scenarios",
+        "Critique component technologies in  commonly deployed systems that analyse social  networks and be able to communicate issues  relevant to the effective implementation and  operation of such systems",
+        "Explain and justify to others the use  of social network analysis algorithms for real  world use by individuals or organisations"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

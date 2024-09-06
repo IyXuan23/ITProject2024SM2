@@ -10,6 +10,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Identify and develop a suitable and feasible topic;",
+        "Identify the bibliographic and data sources relevant to the topic;",
+        "Analyse the literature relevant to the topic;",
+        "Apply appropriate actuarial and quantitative methods of analysis;",
+        "Complete a written research report."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
@@ -27,7 +34,7 @@
     ],
     "corequisites": "None",
     "non-allowed subjects": [
-        ""
+        "ACTL90012"
     ],
     "assessments": [
         {

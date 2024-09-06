@@ -4,9 +4,12 @@ import json
 import os
 from functions import parseTable
 
-def writeCoursesJSONFile(filePath, overviewData, overviewTable, reqData, skillsData, structureData, majorsData, furtherStudyData):
+def writeCoursesJSONFile(filePath, overviewData, overviewTable, reqData, skillsData, structureData, majorsData, furtherStudyData, 
+                        courseName, courseCode):
 
     data = {
+        'Course name': courseName,
+        'Course code': courseCode,
         'Overview text': overviewData,
         'Overview table': overviewTable,
         'Entry and participation requirements': reqData,
@@ -59,9 +62,7 @@ def scrapeOverview(url):
         if hasattr(nextElem, 'name') and nextElem.name == 'table':
             overviewTable = parseOverviewTable(nextElem)
 
-    courseName = overviewTable['Award title'].replace(" ", '') 
-
-    return overviewText, overviewTable, courseName
+    return overviewText, overviewTable
 
 def titleSearcherReq(lst):
 
@@ -103,6 +104,8 @@ def parseOL(ol):
     return olText    
 
 def parsePara(para):
+    for br in para.find_all('br'):
+        br.replace_with('\n')
     txt = para.get_text(strip=True)
     return txt    
 
@@ -211,6 +214,9 @@ def elementSearcher(header, element, stopDivs):
 
         if hasattr(nextElem, 'name') and nextElem.name == element:
             targets.append(nextElem)
+        #early exit for a depreciated webpage
+        if nextElem == None:
+            return targets
         nextElem = nextElem.find_next()
 
     return targets
@@ -218,9 +224,10 @@ def elementSearcher(header, element, stopDivs):
 def scrapStructureText(element):
 
     if hasattr(element, 'name') and element.name == 'p':
-        txt = parsePara(element)
-        if txt != '':
-            return txt    
+        if element.find('table') == None:
+            txt = parsePara(element)
+            if txt != '':
+                return txt    
 
     if hasattr(element, 'name') and element.name == 'ul':
         return parseUL(element)
@@ -261,7 +268,7 @@ def scrapeStructure(url):
         subHeaders and nextElem != stopDiv):
 
             txt = scrapStructureText(nextElem)
-            if txt != None:
+            if txt != None and txt != ' ' and txt != '':
                 extraText.append(txt)
             nextElem = nextElem.find_next()
 
@@ -282,7 +289,7 @@ def scrapeStructure(url):
             subHeaders and nextElem not in subSubHeaders and nextElem != stopDiv):
 
                 txt = scrapStructureText(nextElem)
-                if txt != None:
+                if txt != None and txt != '' and txt != " ":
                     extraSubText.append(txt)
                 nextElem = nextElem.find_next() 
 
@@ -299,7 +306,7 @@ def scrapeStructure(url):
                 nextElem not in subSubHeaders and nextElem != stopDiv):
                     
                     txt = scrapStructureText(nextElem)
-                    if txt != None:
+                    if txt != None and txt != ''  and txt != " ":
                         extraSubSubText.append(txt)
 
                     nextElem = nextElem.find_next()
@@ -348,6 +355,13 @@ def scrapeMajors(url):
 
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
+
+    print(url)
+    print(response.url)
+
+    #some master subjects have no major/minor, if so we return an empty list back
+    if response.url != url:
+        return []
     
     container = soup.find('div', class_='sidebar-tabs__panel')
     header = container.find('h2')
@@ -401,13 +415,11 @@ def scrapeFurtherStudy(url):
 
     return furtherStudyData   
 
-            
-
-def scrapeCourses(url):
+def scrapeCourses(url, courseName, courseCode):
 
 
     #https://handbook.unimelb.edu.au/courses/b-sci
-    overviewText, overviewTable, courseName = scrapeOverview(url)
+    overviewText, overviewTable = scrapeOverview(url)
 
     #https://handbook.unimelb.edu.au/2024/courses/b-sci/entry-participation-requirements
     reqData = scrapeReq(url + '/entry-participation-requirements')
@@ -425,8 +437,10 @@ def scrapeCourses(url):
     furtherStudyData = scrapeFurtherStudy(url + '/further-study')
 
     #writing to JSON file
-    fileName = courseName + '_info.json'
+    fileName = courseName.replace(" ", '') + '_info.json'
     filePath = os.path.join('courseInfo', fileName)
 
     writeCoursesJSONFile(filePath, overviewText, overviewTable, reqData, skillsData, structureData, majorsData,
-                        furtherStudyData)
+                        furtherStudyData, courseName, courseCode)
+    
+    print('scrapped ' + filePath)

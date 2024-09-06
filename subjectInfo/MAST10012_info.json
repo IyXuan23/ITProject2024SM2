@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand fundamental concepts of number systems and counting techniques and be able to use logic and set notation;",
+        "Understand the concept of a mathematical function, domain, range and inverse function;",
+        "Be able to apply transformations and the ideas of sum, difference, product and composite functions to graphing polynomial, exponential, logarithmic and circular functions;",
+        "Understand the derivative as a limit and use the product, quotient and chain rules of differentiation with polynomial, circular, exponential and logarithmic functions and apply these techniques to graph sketching and optimisation problems;",
+        "Understand the process of integration as anti-differentiation and be able to find definite and indefinite integrals of polynomials, exponential and circular functions with application to calculating the area of a region under a curve and between curves;",
+        "Understand the fundamental concepts of probability and be able to calculate probabilities for discrete and continuous random variables, including binomial and normal probabilities."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

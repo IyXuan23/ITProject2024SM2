@@ -11,6 +11,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe engineering design methods that can assist the creation of mechanical systems and artefacts;",
+        "Construct well-reasoned engineering requirements for a given problem or need;",
+        "Apply the key concepts in designing and selecting basic machine elements.",
+        "Apply the key concepts in the integration of motors, sensors and independent control to achieve autonomous mechanical / physical systems;",
+        "Manage relatively complex engineering design projects."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
