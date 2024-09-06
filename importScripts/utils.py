@@ -56,7 +56,7 @@ def convert_to_date(date_str):
 def convert_listdict_to_list(input_list: list) -> None | list:
     """
     Converts a list of dictionaries 
-    into a single of list of values from all dictionaries
+    into a single of list consisting of all dictionaries values
     
     Args:
     input_list (list): A list of dictionaries.
