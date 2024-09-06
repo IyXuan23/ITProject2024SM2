@@ -1,0 +1,139 @@
+{
+    "Course name": "Graduate Diploma in Data Science",
+    "Course code": "GD-DATASC",
+    "Overview text": [
+        "The management and analysis of big data are becoming increasingly important in commerce, industry and applied science. Due to the rapid development of technology, massive amounts of data are routinely collected from an increasing number of new devices and sensors. Data Science is a rapidly growing field sitting at the intersection of statistics and computer science that has evolved to address the need to organise, analyse and interpret data sets in many fields including biology, engineering, economics and finance.",
+        "In the Graduate Diploma in Data Science students will acquire combined skills in statistics and computer science needed to keep pace with the rapidly changing needs of the modern job market in terms of data-analytic skills. This graduate diploma aims to strengthen students\u00b4 main area of expertise by equipping them with complementary technological abilities and analytical skills needed to manage and gain insights from large and complex collections of data. The graduate diploma also aims to provide the required knowledge in statistics or computer science for students who wish to further study data science in more advance master-level course. The program emphasises the use of statistical tools, techniques and methods along with in-depth analysis and evaluation, to solve real-world problems in the data realm.",
+        "Last updated: 6 September 2024"
+    ],
+    "Overview table": {
+        "Award title": "Graduate Diploma in Data Science",
+        "Year & campus": "2024\u2014 Parkville",
+        "CRICOS code": "095994M",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Graduate Coursework",
+        "AQFlevel": "8",
+        "Credit points": "100 credit points",
+        "Duration": "12 months full-time or 24 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "Graduate Diploma in Data Science",
+            "1. In order to be considered for entry, applicants must have completed:",
+            "an undergraduate degree in any discipline; and",
+            "MAST10006 (Calculus 2) or equivalent; and",
+            "MAST10007 (Linear Algebra) or equivalent.",
+            "Meeting these requirements does not guarantee selection.",
+            "2. In ranking applications, the Selection Committee will consider:",
+            "prior academic performance.",
+            "3. The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Board rules on the use of selection instruments.",
+            "4. Applicants are required to satisfy the University\u2019s English language requirements for graduate courses. For those applicants seeking to meet these requirements by one of the standard tests approved by the Academic Board, performance band 6.5 is required."
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "For the purposes of considering a request for Reasonable Adjustments under the Disability Standards for Education (2005), and Students Experiencing Academic Disadvantage Policy, academic requirements for this subject are articulated in the Subject Description, Subject Objectives, Generic Skills and Assessment Requirements of this entry.The University is dedicated to providingsupport to those with special requirements. Further details on the disability support scheme can be found at the Disability Liaison Unit website.http://www.services.unimelb.edu.au/disability/"
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "This 100 point Diploma is based around",
+                [
+                    "50 points of subjects in statistics; and",
+                    "50 points of subjects in computer science"
+                ],
+                "in order to provide students with a background in the core statistical and computing concepts and technologies to confer basic proficiency in data science, and provide a bridge to future study in the area.",
+                "The diploma is based around the following standard list of subjects:",
+                [
+                    "COMP90038"
+                ],
+                [
+                    "COMP90041"
+                ],
+                [
+                    "INFO90002",
+                    "COMP20008"
+                ],
+                [
+                    "MAST90105"
+                ],
+                [
+                    "MAST90104"
+                ],
+                "which total 100 points, although note the exemptions outlined below for specific streams.",
+                "Students admitted into the course will come from a variety of backgrounds, some having no computer science and statistics backgrounds, while other students may have limited background in either or both areas. Students who have already studied some of the Core subjects listed above, or their equivalents, may be granted exemption from these subjects. In these cases students will need to take additional subjects to yield 100 points in total, with 50 points coming from each of the two disciplines, based on one of the following \u2018streams\u2019:",
+                "Engineering and Science Stream(for students with 1st year Maths and Computer Science only)",
+                [
+                    "COMP90038"
+                ],
+                [
+                    "COMP90041"
+                ],
+                [
+                    "INFO90002",
+                    "COMP20008"
+                ],
+                [
+                    "MAST90105"
+                ],
+                [
+                    "MAST90104"
+                ],
+                "Computer Science Stream(for students with some 2nd year CS subjects)",
+                [
+                    "COMP90007",
+                    "COMP20008",
+                    "MAST90105",
+                    "MAST90104"
+                ],
+                "And one of:",
+                [
+                    "INFO90002",
+                    "COMP90050"
+                ],
+                "And one of:",
+                [
+                    "COMP90038",
+                    "COMP30026"
+                ],
+                "Statistics Stream(for students with some 2nd year Probability or Statistics, but little or no Computer Science)",
+                [
+                    "COMP90059"
+                ],
+                [
+                    "COMP90038"
+                ],
+                [
+                    "COMP90041"
+                ],
+                [
+                    "INFO90002"
+                ],
+                [
+                    "MAST90104"
+                ],
+                "And two of:",
+                [
+                    "MAST90138"
+                ],
+                [
+                    "MAST90139"
+                ],
+                [
+                    "MAST90083"
+                ],
+                "Commerce and Arts Stream(for students with 1st year Maths only but no Computer Science)",
+                [
+                    "COMP90059",
+                    "COMP90038",
+                    "COMP90041",
+                    "INFO90002",
+                    "MAST90105",
+                    "MAST90104"
+                ]
+            ]
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": []
+}

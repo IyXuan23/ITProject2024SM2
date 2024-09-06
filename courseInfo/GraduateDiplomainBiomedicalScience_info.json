@@ -77,28 +77,48 @@
             "overview": [
                 "Students must complete a research project under the supervision of a staff member in an academic unit (a Department or an affiliated Institute) within the Faculty of Medicine, Dentistry and Health Sciences.",
                 "Students enrol in the combination of subjects based on their supervisors' department.",
-                "Students complete Part 1 (12.5 points) in their first semester and Part 2 (25 points) in their second semester.",
-                [
-                    "BMSC90035",
-                    "BMSC90036"
-                ],
-                [
-                    "BMSC90027",
-                    "BMSC90028"
-                ],
-                [
-                    "BMSC90023",
-                    "BMSC90024"
-                ],
-                [
-                    "BMSC90031",
-                    "BMSC90032"
-                ],
-                [
-                    "OPTO90032",
-                    "OPTO90033"
+                "Students complete Part 1 (12.5 points) in their first semester and Part 2 (25 points) in their second semester."
+            ],
+            "School of Biomedical Sciences:": {
+                "overview": [
+                    [
+                        "BMSC90035",
+                        "BMSC90036"
+                    ]
                 ]
-            ]
+            },
+            "Melbourne Medical School:": {
+                "overview": [
+                    [
+                        "BMSC90027",
+                        "BMSC90028"
+                    ]
+                ]
+            },
+            "Melbourne Dental School:": {
+                "overview": [
+                    [
+                        "BMSC90023",
+                        "BMSC90024"
+                    ]
+                ]
+            },
+            "Melbourne School of Psychological Sciences:": {
+                "overview": [
+                    [
+                        "BMSC90031",
+                        "BMSC90032"
+                    ]
+                ]
+            },
+            "Vision Sciences:": {
+                "overview": [
+                    [
+                        "OPTO90032",
+                        "OPTO90033"
+                    ]
+                ]
+            }
         }
     },
     "Majors, minors and specialisations": {},

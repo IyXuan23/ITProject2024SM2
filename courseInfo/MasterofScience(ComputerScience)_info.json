@@ -1,0 +1,138 @@
+{
+    "Course name": "Master of Science (Computer Science)",
+    "Course code": "MC-SCICMP",
+    "Overview text": [
+        "The Master of Science (Computer Science) is a research training program that gives students the opportunity to undertake a substantial research project in a field of choice, as well as a broad range of coursework subjects including a professional skills component, as a pathway to PhD study, or to the workforce.",
+        "In addition to a broad grounding across the breadth of advanced computer science, students will develop specialist knowledge in at least one of the following areas: knowledge systems; programming languages and distributed computing; information systems; mathematics; statistics; spatial information science; or linguistics."
+    ],
+    "Overview table": {
+        "Award title": "Master of Science (Computer Science)",
+        "Year & campus": "2024",
+        "CRICOS code": "094595A",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Graduate Coursework",
+        "AQFlevel": "9",
+        "Credit points": "200 credit points",
+        "Duration": "24 months full-time or 48 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "1. \n In order to be considered for entry, applicants must have completed:",
+            "an undergraduate degree with a major in Computer Science or equivalent, and a weighted average mark of at least H3(65%) in the best 50 points in the major or relevant discipline studies at third year; and",
+            "at least 25 points of university level mathematics or statistics subjects (in addition, some knowledge of formal logic and discrete mathematics and second year university level mathematics/statistics are recommended)",
+            "Meeting these requirements does not guarantee selection.",
+            "1.  In ranking applications, the Selection Committee will consider:",
+            "prior academic performance.",
+            "1.  The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Board rules on the use of selection instruments.",
+            "1.  Applicants are required to satisfy the university\u2019s English language requirements for graduate courses. For those applicants seeking to meet these requirements by one of the standard tests approved by the Academic Board, performance band 6.5 is required.",
+            "Note:",
+            "Quotas may be applied and preference may be given to applicants with evidence of appropriate preparation or potential to undertake research.",
+            "Entry into this stream of the Master of Science is subject to the capacity of the department(s) or schools(s) offering the program stream to provide adequate supervision in a research project appropriate to the interests and preparation of the individual student and may be subject to the agreement of a member of academic staff to supervise the project module."
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "The Master of Science (Computer Science) welcomes applications from students with disabilities. It is University and degree policy to take all reasonable steps to minimise the impact of disability upon academic study, and reasonable adjustments will be made to enhance a student\u2019s participation in the degree. The Master of Science (Computer Science) requires all students to enrol in subjects where they will require:",
+            "a) The ability to comprehend complex science and technology related information;b) The ability to clearly and independently communicate a knowledge and application of science, and technology principles and practices during assessment tasks;c) The ability to actively and safely contribute in clinical, laboratory, and fieldwork/excursion activities.",
+            "Students must possess behavioural and social attributes that enable them to participate in a complex learning environment. Students are required to take responsibility for their own participation and learning. They also contribute to the learning of other students in collaborative learning environments, demonstrating interpersonal skills and an understanding of the needs of other students. Assessment may include the outcomes of tasks completed in collaboration with other students. There may be additional inherent academic requirements for some subjects, and these requirements are listed within the description of the requirements for each of these subjects. Students who feel their disability will impact on meeting this requirement are encouraged to discuss this matter with the relevant Subject Coordinator and the Disability Liaison Unit:http://www.services.unimelb.edu.au/disability/"
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "All students must complete 200 pts including:",
+                [
+                    "Discipline Core subjects (50 points);",
+                    "Discipline Elective subjects (at least 37.5 points);",
+                    "Professional Skills subjects (12.5 - 25 points);",
+                    "Research Project (75 points)."
+                ],
+                "With permission of the Course Coordinator, a total of up to 50 pts of study may be taken from one of the following: The Department of Mathematics and Statistics, the Geomatics discipline within the Department of Infrastructure Engineering, the Department of Electrical and Electronic Engineering, or the Department of Linguistics and Applied Linguistics, provided that department is willing to accept the student\u2019s enrolment."
+            ]
+        },
+        "Subject options": {
+            "overview": []
+        },
+        "Discipline Core": {
+            "overview": [
+                "Students must take the following subjects:",
+                [
+                    "COMP90049",
+                    "COMP90048",
+                    "COMP90015",
+                    "COMP90044"
+                ],
+                "Students who have taken any of these subjects or equivalent as part of their undergraduate studies are exempt from taking those subjects, and will be required to make up an equivalent number of subject points from the pool of Discipline Elective subjects. Students will normally take Research Methods in their second or third semester of enrolment, concurrent with or subsequent to the commencement of their Research Project."
+            ]
+        },
+        "Discipline Electives": {
+            "overview": [
+                "Students are required to select either 50 or 62.5 points of discipline elective subjects, from:",
+                [
+                    "COMP90014",
+                    "COMP90016",
+                    "COMP90017",
+                    "COMP90018",
+                    "COMP90020",
+                    "COMP90024",
+                    "COMP90025",
+                    "COMP90042",
+                    "COMP90043",
+                    "COMP90046",
+                    "COMP90050",
+                    "COMP90051",
+                    "COMP90053",
+                    "COMP90057",
+                    "COMP90054",
+                    "COMP90045",
+                    "COMP90056",
+                    "COMP90086",
+                    "COMP90087"
+                ],
+                "Or additional non-project postgraduate subjects that complement students' research projects, where approved by the course coordinator."
+            ]
+        },
+        "Professional Skills": {
+            "overview": [
+                "Students must take one to two subjects from the following:",
+                [
+                    "MAST90044",
+                    "MAST90045",
+                    "MAST90007",
+                    "SCIE90013",
+                    "EDUC90839",
+                    "SCIE90012",
+                    "SCIE90017",
+                    "PHYC90045"
+                ],
+                "*Students who enrol in ENGR90021 Engineering Communication must take 12.5 pts only of Professional Skills subjects, and may not take SCIE90012 Science Communication."
+            ]
+        },
+        "Research Project": {
+            "overview": [
+                "Students are required to undertake a 75 pt Research Project, normally to commence in the second semester of their course, in the research theme where they have focused their discipline elective subject selection. The Research Project will be carried out under the supervision of academics in the Department of Computing and Information Systems. Students will gain research experience in Computer Science by completing a thesis of approximately 25,000 words (contributing 90% of the grade for the Research Project subject) and giving an oral presentation of their project work prior to submission of the thesis (contributing the remaining 10% of the Research Project grade). The thesis will be examined internally within the Department of Computing and Information Systems.",
+                "The research project will be taken over three consecutive semesters and will begin on the Monday of the second semester of enrolment (semester 1 or 2) and continue until the end of the final semester of research project enrolment. The research project work continues over summer and winter breaks, minus recreation leave of 4 weeks per yearFor how long and at what time within the enrolment the actual period of leave is to be taken needs to be negotiated with a student's supervisor.The thesis will be due for submission at the end of the formal examination period of the final semester of research project enrolment (usually fourth semester) if an earlier date is not specified.",
+                "Students may enrol in a combination of research project subjects and coursework subjects as long as once the Research Project is commenced, the consecutive enrolment requirement is met and to ensure they have completed a total of 75 points for the research project by the end of their course.",
+                "You should consult your supervisor to discuss an appropriate study plan prior to enrolling in your subjects. In particular, it is important that you agree an appropriate combination of research project points and coursework point enrolment each semester.",
+                "Students will first enrol in Computer Science Research Project Pt 1, and then progress through to Part 2, Part 3 and Part 4. Students may only progress through Computer Science Research Project subjects upon successful completion of the earlier project component.",
+                [
+                    "COMP90060",
+                    "COMP90061",
+                    "COMP90062",
+                    "COMP90063",
+                    "COMP90064",
+                    "COMP90065",
+                    "COMP90066",
+                    "COMP90067",
+                    "COMP90068",
+                    "COMP90069",
+                    "COMP90070",
+                    "COMP90071"
+                ]
+            ]
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": [
+        "The Master of Science offers a pathway to a PhD."
+    ]
+}

@@ -262,6 +262,12 @@ def scrapeStructure(url):
         headerText = header.get_text(strip=True)
 
         extraText = []
+        
+        #if there are no h3 subheaders, search for h4 immediately
+        #since the stop conditions overlap with future h4's, there is no issue
+        #with the double loop below
+        if len(subHeaders) == 0:
+            subHeaders = elementSearcher(header, 'h4', stopConditions)
 
         #get the text before the subHeaders
         while (nextElem not in headers and nextElem not in 
@@ -438,6 +444,7 @@ def scrapeCourses(url, courseName, courseCode):
 
     #writing to JSON file
     fileName = courseName.replace(" ", '') + '_info.json'
+    fileName = fileName.replace('/', '-')
     filePath = os.path.join('courseInfo', fileName)
 
     writeCoursesJSONFile(filePath, overviewText, overviewTable, reqData, skillsData, structureData, majorsData,

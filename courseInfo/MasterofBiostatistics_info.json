@@ -1,0 +1,107 @@
+{
+    "Course name": "Master of Biostatistics",
+    "Course code": "991AA",
+    "Overview text": [
+        "PLEASE NOTE: MID-YEAR INTAKE TO THIS COURSE IS NOT AVAILABLE FOR INTERNATIONAL STUDENTS",
+        "The Master of Biostatistics provides advanced biostatistical training with a solid foundation in mathematics and probability for a diverse range of students. Graduates acquire specialised knowledge and skills in the statistical methods used in health and medical investigations, with the necessary mathematical foundation to integrate sophisticated statistical understanding and specialised skills into their training. On completion of the Masters degree, graduates will have had the opportunity to complete a research-based project under expert biostatistical supervision and will attain the required skills for employment as a professional biostatistician or for continuing to a research higher degree.",
+        "Last updated: 18 July 2024"
+    ],
+    "Overview table": {
+        "Award title": "Master of Biostatistics",
+        "Year & campus": "2024\u2014 Parkville",
+        "CRICOS code": "088478A",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Graduate Coursework",
+        "AQFlevel": "9",
+        "Credit points": "150 credit points",
+        "Duration": "18 months full-time or 36 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "1. In order to be considered for entry, applicants must have completed:",
+            "A Bachelor degree in a relevant discipline, such as statistics, mathematics, biomedicine, psychology, science, pharmacy, health sciences, economics, from an approved university, with an average mark over the degree of at least 70% or equivalent; and",
+            "Successful completion at tertiary level of at least one mathematics subject (result of at least 65%), including elements of multivariable calculus and linear algebra.",
+            "Applicants may be required to attend a test to elucidate any of the matters listed above.",
+            "2. In ranking applications, the Selection Committee will consider:",
+            "prior academic performance; and",
+            "where relevant, performance in an interview or test, and/or referee reports or employer references.",
+            "3. The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Boardruleson the use of selection instruments.",
+            "4. Applicants are required to satisfy the university\u2019sEnglish language requirements for graduate courses. For those applicants seeking to meet these requirements by one of the standard tests approved by the Academic Board, performanceband 6.5is required."
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "For the purposes of considering request for Reasonable Adjustments under the Disability Standards for Education (Cwth 2005), and Students Experiencing Academic Disadvantage Policy, academic requirements for this course are articulated in the Course Description, Course Objectives and Generic Skills of this entry.The University is dedicated to provide support to those with special requirements. Further details on the disability support scheme can be found at the Disability Liaison Unit website."
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "Students must choose between Option One or Option Two:",
+                "Option One:",
+                "FIVEcore subjects,FIVEelective subjects, the Capstone Selective subject POPH90123 Longitudinal and Correlated Data and a 12.5 point Research Project",
+                "Option Two:",
+                "FIVEcore subjects,FIVEelectives subjects and a 25 point Research Project"
+            ]
+        },
+        "Subject options": {
+            "overview": []
+        },
+        "Core Subjects": {
+            "overview": [
+                "Students must complete the following core subjects:",
+                [
+                    "POPH90014",
+                    "MAST90101",
+                    "MAST90102",
+                    "MAST90100",
+                    "MAST90099"
+                ]
+            ]
+        },
+        "Electives": {
+            "overview": [
+                "Students must select FIVE electives from the following list:",
+                [
+                    "POPH90118",
+                    "POPH90117",
+                    "POPH90123",
+                    "ISYS90069",
+                    "POPH90124",
+                    "MAST90083",
+                    "MAST90140",
+                    "POPH90119",
+                    "POPH90271",
+                    "MAST90027",
+                    "POPH90242",
+                    "INFO90002",
+                    "COMP90041",
+                    "POPH90139",
+                    "POPH90094",
+                    "POPH90112",
+                    "SCIE90013",
+                    "MAST90141"
+                ]
+            ]
+        },
+        "Capstone": {
+            "overview": [
+                "There are 2 capstone options to choose from. The capstone experience should be undertaken in the final year or final semester of the Master of Biostatistics.",
+                "OPTION ONE:",
+                "Students may take a 25 point Research Project. Students have the option of enrolling in a year-long project or a semester-long project. Students enrolling in the year-long project (POPH90288 & POPH90289) MUST complete the project in two semesters consecutively in the correct sequence i.e. Part 1 followed by Part 2).",
+                [
+                    "POPH90288",
+                    "POPH90289",
+                    "POPH90151"
+                ],
+                "OPTION TWO:",
+                "Students who choose this option must enrol in the following Research Project plus the capstone selective subject POPH90123 Longitudinal and Correlated Data",
+                [
+                    "POPH90149",
+                    "POPH90123"
+                ]
+            ]
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": []
+}

@@ -1,0 +1,77 @@
+{
+    "Course name": "Professional Certificate in Analytics Management",
+    "Course code": "PR-ANAMGT",
+    "Overview text": [
+        "The goal of this course is to equip its graduates with the capabilities to use their analytics skills to address business issues. The course is designed to develop analytics management skills. The course will cover analytics subjects as well as frameworks for applying the techniques to a variety of business contexts.",
+        "Last updated: 30 January 2024"
+    ],
+    "Overview table": {
+        "Award title": "Professional Certificate in Analytics Management",
+        "Year & campus": "2024\u2014 Parkville",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Graduate Coursework",
+        "AQFlevel": "Non-AQF",
+        "Credit points": "25 credit points",
+        "Duration": "6 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "1. To be considered for entry, applicants must have completed:",
+            "An undergraduate degree; and",
+            "Minimum two years of documented full-time relevant work experience; and",
+            "A personal statement outlining why they wish to be considered for the program; and",
+            "Referees\u2019 reports.",
+            "Meeting these requirements does not guarantee selection.",
+            "2. In ranking applications, the Selection Committee will consider:",
+            "Prior academic performance; and",
+            "The work experience; and",
+            "The personal statement; and",
+            "The referees\u2019 reports",
+            "3. The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Boardruleson the use of selection instruments.",
+            "4. Applicants are required to satisfy the university\u2019s English language requirements for graduate courses. For those applicants seeking to meet these requirements by one of the standard tests approved by the Academic Board, performance band (7.0) is required.",
+            "Notes.",
+            "Students who do not meet the progression requirements or choose not to complete the Master of Analytics Management, may exit the Master of Analytics Management with one of the following awards:",
+            "- Professional Certificate in Business Administration: requires successful completion of two Category 1 subjects;",
+            "- Professional Certificate in Analytics Management: requires successful completion of two Category 2 or Category 3 subjects;",
+            "- Graduate Certificate in Business Administration: requires successful completion of four Category 1 subjects; or",
+            "- Graduate Diploma in Analytics Management: requires successful completion of four subjects (must include Data Analysis) in Category 1 and any three subjects in Category 2, and one subject in Category 3.",
+            "Information on the requirements that must be met for exit award are available in the handbook."
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "Melbourne Business School welcomes applications from eligible students for a variety of graduate degrees offered by its programme portfolio. These degrees require following attributes for academic study:",
+            "\u2022 The ability to explain and evaluate concepts, theories, and business operations of organisations",
+            "\u2022 Ability to use analytic techniques to solve business problems",
+            "Melbourne Business School welcomes applications from students with disabilities and takes reasonable steps to implement adjustments to provide equal participation opportunities for students with disability."
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "Any two subjects in the Category 2 and Category 3 subjects in the Master of Analytics Management.",
+                "Any two subjects from the following:"
+            ],
+            "Category 2: Analytics Foundations subjects": {
+                "overview": [
+                    [
+                        "BUSA90493",
+                        "BISY90016",
+                        "BISY90017",
+                        "MGMT90244"
+                    ]
+                ]
+            },
+            "Category 3: Analytics Specialised subjects": {
+                "overview": [
+                    [
+                        "BUSA90521",
+                        "FNCE90079",
+                        "MKTG90039"
+                    ]
+                ]
+            }
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": []
+}
