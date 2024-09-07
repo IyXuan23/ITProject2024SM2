@@ -26,6 +26,9 @@ for file_path in glob.glob(os.path.join(folder_path, '*.json')):
     subject_name = data['subject name']
     subject_level = int(subject_code[4])
 
+    # For debugging
+    print("Importing data for " + subject_code)
+
     content = data.get('indicative content', [])
     if not isinstance(content, list):
         content = []
@@ -33,13 +36,17 @@ for file_path in glob.glob(os.path.join(folder_path, '*.json')):
     aims = data.get('aims', [])
     if not isinstance(aims, list):
         aims = []
+
+    learning_outcomes = data.get('intended learning outcomes', [])
+    if not isinstance(learning_outcomes, list):
+        learning_outcomes = []
             
     # Insert information from file to table for each semester
     cur.execute("""
-                INSERT INTO subjects(subject_code, subject_name, aims, indicative_content,subject_level)
-                VALUES (%s,%s,%s,%s,%s)
+                INSERT INTO subjects(subject_code, subject_name, aims, indicative_content,subject_level,learning_outcomes)
+                VALUES (%s,%s,%s,%s,%s,%s)
                 ON CONFLICT (subject_code) DO NOTHING """
-                ,(subject_code, subject_name, aims, content, subject_level))
+                ,(subject_code, subject_name, aims, content, subject_level, learning_outcomes))
     
 #Commit the transaction    
 conn.commit()
