@@ -10,6 +10,14 @@
         "This subject is one of the key parts of the chemical and biochemical engineering curriculum upon which a lot of later year material is built."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Interpret data from both ideal and non-ideal batch, plug flow and mixed flow reactors",
+        "Model more complex flowing reactor systems using combinations of idealized plug flow and continuously stirred tank ranks",
+        "Design simple reactor systems",
+        "Understand and identify the different rate controlling mechanisms in reactor design",
+        "Solve problems in the design of heterogeneous reacting systems and in particular catalytic reactor systems",
+        "Predict simple temperature profiles in reacting systems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

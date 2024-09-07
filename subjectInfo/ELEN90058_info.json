@@ -18,6 +18,12 @@
         "Sampling of continuous time signals, Design of anti-aliasing filters, Time and frequency representation of discrete time signals and discrete time linear time invariant systems, Discrete Time Fourier Transform and z-transform and their properties, Low order lowpass, highpass, bandpass, bandstop filters, All-pass filter, Design of IIR filters using the bilinear transformation, Design of FIR filters with linear phase using windowing techniques and the Parks McClelland method, Discrete Time Fourier transform and its properties, Fast Fourier Transform, The use of the DFT in implementation of linear filtering algorithms, Up-sampling and down-sampling, multistage and computationally efficient implementations of up-samplers and down-samplers, Energy and power spectra for deterministic signals."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply fundamental mathematical tools, in particular frequency-domain techniques, in the analysis and design of signal processing systems",
+        "Design, implement and test simple digital filters according to given specifications",
+        "Use software such as MATLAB for the analysis and design of signal processing systems",
+        "Use DSP based prototyping platforms and associated software development tools to implement signal-processing algorithms"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

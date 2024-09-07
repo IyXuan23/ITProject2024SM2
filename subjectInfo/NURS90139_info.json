@@ -1,0 +1,121 @@
+{
+    "subject name": "Haematology Nursing 1",
+    "subject code": "NURS90139",
+    "subject availability": [
+        "July - Online"
+    ],
+    "overview": [
+        "In this subject, students will explore and discuss the biology, presentation, diagnosis and treatment of haematologic malignancies in specialist cancer nursing care to prepare and support and assess people affected with these cancers. Students will assess the different supportive care needs of people affected by haematologic malignancies, different interdisciplinary approaches and the skills analyse and critique best practice treatment strategies in the management of people affected by haematologic malignancies."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Appraise core principles of cancer nursing care, to develop practice knowledge to provide specialist cancer nursing care that addresses actual and potential disease and treatment related health needs.",
+        "Explain the biology, presentation, diagnosis and treatment of haematologic malignancies in specialist cancer nursing care to prepare, support and assess people affected by these cancers.",
+        "Integrate best practice specialist nursing care in the management of people affected by haematologic malignancies.",
+        "Assess the supportive care needs of people affected by haematologic malignancies and evidence-based interdisciplinary interventions to meet these needs."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "NURS90121"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written Assessment. 1500 words (equivalent)",
+            "timing": "Middle of  the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Written Assessment. 500 words (equivalent)",
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Quiz. 30 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "July - Online": [
+                {
+                    "Coordinators": "Trevor Saunders and Lauren Zarb"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Pre teaching start date": "24 June 2024"
+                },
+                {
+                    "Pre teaching requirements": "In Week 0 students are required to familiarise themselves with the subject's Learning Management System (LMS), subject information, including assessment tasks."
+                },
+                {
+                    "Teaching period": "1 July 2024 to 25 August 2024"
+                },
+                {
+                    "Last self-enrol date": "25 June 2024"
+                },
+                {
+                    "Census date": "12 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "9 August 2024"
+                },
+                {
+                    "Assessment period ends": "1 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There is no prescribed text for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

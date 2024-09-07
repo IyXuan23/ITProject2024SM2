@@ -10,6 +10,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "demonstrate technical understanding of genome sequencing and analysis;",
+        "apply concepts concerning the evolution of genomes structure and the expression of genes, and critically appraise new datasets in this field;",
+        "assess the significance and applications of genomics and bioinformatics across fields of advanced research and biotechnology; and",
+        "utilise bioinformatic techniques and applications in the analysis of genomic data including that relating to protein structure and function."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

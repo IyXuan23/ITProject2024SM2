@@ -11,6 +11,12 @@
         "Please view this video for further information:Electronic Circuit Design"
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Model and quantitatively analyse circuits with transistors and other nonlinear devices",
+        "Design and test amplifier circuits",
+        "Construct and test complex electronic circuits in the laboratory",
+        "Use software tools to simulate the behaviour of electronic circuits"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

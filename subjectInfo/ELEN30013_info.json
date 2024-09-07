@@ -1,0 +1,178 @@
+{
+    "subject name": "Electronic System Implementation",
+    "subject code": "ELEN30013",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "AIMSThis subject provides students with hands-on electronic skills to gain basic competencies in design and implementation of simple circuits. Students will design with a range of standard electrical and electronic devices, basic circuit construction methods and electrical measurement techniques to test and verify the function of electronic systems. This subject is one of four subjects that define the Electrical Systems Major in the Bachelor of Science and it is a core requirement for the Master of Engineering (Electrical) and the Master of Engineering (Electrical with Business).This includes hands-on experience with:\u2022 Operation and selection of electrical and electronic devices used in various electronic circuits;\u2022 Common electronic circuit realisations to meet the most commonly required signal processing and conditioning applications;\u2022 Programmable digital circuits and microprocessor programming;\u2022 Circuit design and simulation tools;\u2022 Printed circuit board layout, circuit assembly, and soldering techniques;\u2022 Test and Measurement equipment and methods;\u2022 Managing design issues and requirements.",
+        "Students will complete electronic circuit implementation projects in small groups and be required to prepare technical documentation and present project outcomes.",
+        "INDICATIVE CONTENT\u2022 Devices such as resistors, capacitors, inductors, switches, transducers, motors, diodes, transistors, op-amps, voltage regulators, comparators, oscillators, timers, A/D and D/A converters, microprocessors and controllers;\u2022 Circuit functions and techniques such as buffering, referencing, signal conditioning, filtering, bridges, detection, waveform generation, and pulse-width modulation;\u2022 Microprocessor programming, the role of assembly and high-level languages, assemblers, compilers and debuggers;\u2022 PCB layout, circuit assembly, and soldering techniques;\u2022 Test and Measurement methods and working with common equipment such as multimeters and oscilloscopes."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "1. Apply practical knowledge of a range of standard electronic devices and circuit functions and techniques",
+        "2. Identify choices in implementing a design for a given problem and make tradeoffs on the basis of the relative merits of different approaches",
+        "3. Demonstrate an understanding of Electronic Manufacturing Processes and how these relate to engineering design constraints",
+        "4. Work in teams to assemble, test and debug the hardware and software components of simple electronic systems and then combine these into an integrated system."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ELEN20006",
+                    "ELEN30014"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ELEN20005"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "ELEN30010 Digital System Design"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ELEN30006 (431-330) Design Laboratory"
+    ],
+    "assessments": [
+        {
+            "description": "One written examination.. 90 minutes. Hurdle requirement:. Students must pass the written exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Group Presentation: a 15 minute\r\npresentation by a 3-person group\r\non proposed design, equivalent to 500\r\nwords per student.. 15 minutes",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group presentation, 20 min per group, equivalent of 500 words per student.. 20 minutes",
+            "timing": "From Week 7 to Week 9",
+            "percentage": "15%"
+        },
+        {
+            "description": "Continuous assessment of submitted assignments and quizzes. (quizzes 10%, project work demonstration or report 20%) equivalent to approximately 1500 word. 20 hours",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Final group presentation/demonstration : 20 min per group, equivalent to 500 words per student.. 20 minutes",
+            "timing": "Week 12",
+            "percentage": "15%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Sejeong Kim"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 x one hour lectures and 1 x three hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "sejeong.kim@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through lectures and workshop classes that combine both tutorial and hands-on laboratory activities.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students are given formal lectures and workshops structured to support students through project based learning.",
+            "CAREERS / INDUSTRY LINKS",
+            [
+                "Engineers Australia",
+                "IEEE"
+            ]
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

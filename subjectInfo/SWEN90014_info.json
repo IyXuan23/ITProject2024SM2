@@ -13,6 +13,12 @@
         "This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practice Hurdle (EPH).",
         ""
     ],
+    "intended learning outcomes": [
+        "Be able to design and manage a repeatable process to achieve specific project goals",
+        "Be able to apply software engineering principles and techniques to the development of a non-trivial software system",
+        "Work with external stakeholders to develop software systems to meet stakeholder needs",
+        "Integrate the knowledge gained in other subjects in the solution of a real world problem"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

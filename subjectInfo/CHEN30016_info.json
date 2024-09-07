@@ -11,6 +11,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the fundamental concepts of momentum, heat and mass transfer",
+        "Apply fundamental transport processes knowledge to the design and operation of chemical and biochemical process equipment",
+        "Interpret how material molecular processes affect macroscopic transport properties",
+        "Formulate transport processes problems relevant to chemical and biochemical systems, deriving the equations that describe these systems and the assumptions that support these equations",
+        "Perform simple laboratory experiments that deepen and amplify theoretical concepts",
+        "Use modelling and simulation to design, optimise and understand transfer processes."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

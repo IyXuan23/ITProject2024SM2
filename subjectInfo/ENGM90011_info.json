@@ -1,0 +1,117 @@
+{
+    "subject name": "Economic Analysis for Engineers",
+    "subject code": "ENGM90011",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject seeks to -",
+        "Build a thorough understanding of the theoretical and conceptual basis upon which the practice of financial project analysis is built and its application to engineering",
+        "Satisfy the practical needs of the engineering manager toward making informed financial decisions when involved in an engineering project",
+        "Incorporate critical decision-making tools that engineering managers can bring to the task of making informed financial decisions."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "ILO 1 - Describe the behaviour of markets",
+        "ILO 2 - Calculate and interpret elasticities",
+        "ILO 3 - Estimate the cost of production and services",
+        "ILO 4 - Optimally allocate scarce capital resources to projects",
+        "ILO 5 - Estimate the financial health of organisations",
+        "ILO 6 - Produce financial budgets."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Three assignments due in weeks 5, 8 and 11, worth 10% each. Addresses Intended Learning Outcomes (ILOs)  1 to 6.. 45 hours (of work required)",
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "One end of semester examination. Addresses\u00a0ILOs 1 to 6.. 3 hours. Hurdle requirement:. Students must pass the exam in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Felix Hui"
+                },
+                {
+                    "Coordinator": "James Bugden"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "54"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "email:",
+                    ""
+                ],
+                "email": [
+                    "bugdenj@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

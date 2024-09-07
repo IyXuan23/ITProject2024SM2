@@ -15,6 +15,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Calculate and interpret measures of disease frequency, association, impact, and validity and performance of screening tests",
+        "Interpret patterns and trends of disease within and between populations using surveillance and other routinely collected data",
+        "Explain how differences in the epidemiological features of infectious diseases, non-communicable diseases, and injury influence strategies for their control",
+        "Develop research questions to address causal questions in epidemiology",
+        "Apply the counterfactual approach and epidemiological tools and guidelines to assessing causation in epidemiological studies",
+        "Evaluate epidemiological evidence from experimental and observational studies",
+        "Synthesise epidemiological evidence to inform decisions in public health"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

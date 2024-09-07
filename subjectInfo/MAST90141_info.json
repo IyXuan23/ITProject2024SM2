@@ -9,6 +9,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe situations where machine learning methods can offer advantages over traditional statistical modelling approaches to data analyses in health applications;",
+        "Recognise and explain the differences between the goals of description and prediction;",
+        "Determine and implement appropriate machine learning approaches for description and prediction in real-world health applications;",
+        "Measure and explain the uncertainty of the results of analyses using machine learning approaches;",
+        "Interpret the results of analyses using machine learning in light of the assumptions required, the quality of input data, and the sensitivity to the specific technique implemented;",
+        "Critically appraise current literature concerning machine learning applications for classification or prediction in health; and",
+        "Effectively communicate in language suitable for the scientific community the results of analyses using machine learning methods."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

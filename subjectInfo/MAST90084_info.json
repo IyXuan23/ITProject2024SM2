@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the principles of statistical modelling;",
+        "Apply the learned modelling techniques to real data arising from important applications;",
+        "Relate the learned modelling techniques to other areas of studies in statistics."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Have acquired a basic knowledge of quantum computers and quantum algorithms.",
+        "Have developed a detailed knowledge of quantum logic operations in both digital and analogue approaches to quantum computing.",
+        "Have developed detailed knowledge and practical experience in programming quantum computers to perform high-level algorithmic tasks.",
+        "Understood and be able to communicate advances in quantum computer technology."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

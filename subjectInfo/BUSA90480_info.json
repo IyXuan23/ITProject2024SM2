@@ -1,0 +1,287 @@
+{
+    "subject name": "Leadership",
+    "subject code": "BUSA90480",
+    "subject availability": [
+        "Summer Term",
+        "April",
+        "April",
+        "June",
+        "September"
+    ],
+    "overview": [
+        "Organizations face many adaptive challenges to survive and thrive in a context of a complex and uncertain environment driven by forces such as globalization and technology. Managers maintain the status quo efficiently but leaders help individuals, teams, organizations, and societies to do adaptive work. Leadership has been defined as \u201cthe process of influencing others to understand and agree about what needs to be done, and how to do it, and the process of facilitating individual and collective efforts to achieve shared objectives\u201d (Yukl, 2006). Leadership is not a position but a process and it is often emergent and shared by individuals who choose to be leaders and have developed leadership capability. Leadership is particularly important in new organization structures that are flat, flexible, diverse, and global rather than hierarchical, stable, and homogenous. There is substantial evidence that leadership can be learned and this introductory subject is aimed at developing the capability to lead individuals and teams through intrapersonal (i.e., self-awareness and self-management) and interpersonal (i.e., social awareness and social skill) development. This subject includes theoretical and conceptual content alongside solo and group exercises designed to prepare students for leadership experiences in the MBA program and their future careers."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Appreciate and work with diversity and discover the value of collaboration",
+        "Heighten their self\u2010awareness and self\u2010knowledge",
+        "Apply their leadership to individuals, groups and organisations",
+        "Better relate to and influence others",
+        "Communicate and manage conflict more effectively"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-BA218 Master of Business Administration, GD-BA Graduate Diploma in Business Administration, MC-BAPTME Master of Business Administration, GC-BA Graduate Certificate in Business Administration, PR-BA Professional Certificate in Business Administration, 294PN Master of Marketing, GD-MKTG Graduate Diploma in Marketing"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90552"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "In-class assessment (F2F teaching mode). 800. Hurdle requirement:. Students are required to pass the assessment to pass the subject",
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Syndicate assignment equivalent of individual 1,500 word assignment (F2F teaching mode). 1500 words (equivalent). Hurdle requirement:. Students are required to pass the assessment to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Individual written assignment (EMBA modular teaching mode). 2000 words (equivalent). Hurdle requirement:. students are required to pass the individual written assignment to pass the subject",
+            "timing": "Throughout the teaching period",
+            "percentage": "80%"
+        },
+        {
+            "description": "Class participation; Attendance at lectures, peer and instructor evaluation of contribution to class learning throughout first Residential Module (EMBA modular teaching mode). 500 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "2 x individual assignments (Online teaching mode). 500 words (total)",
+            "timing": "From Week 2 to Week 3",
+            "percentage": "30%"
+        },
+        {
+            "description": "Individual assignment (Online teaching mode). 600 words (total)",
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "description": "Final assignment (Online teaching mode). 1500 words. Hurdle requirement:. students are required to pass this assignment to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "70 hours"
+                },
+                {
+                    "Pre teaching start date": "9 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during the pre-teaching period"
+                },
+                {
+                    "Teaching period": "12 January 2024 to 14 January 2024"
+                },
+                {
+                    "Last self-enrol date": "9 January 2024"
+                },
+                {
+                    "Census date": "12 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "17 January 2024"
+                },
+                {
+                    "Assessment period ends": "21 January 2024"
+                }
+            ]
+        },
+        {
+            "April": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "70 hours"
+                },
+                {
+                    "Pre teaching start date": "2 April 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during the pre-teaching period"
+                },
+                {
+                    "Teaching period": "5 April 2024 to  7 April 2024"
+                },
+                {
+                    "Last self-enrol date": "2 April 2024"
+                },
+                {
+                    "Census date": "5 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "9 April 2024"
+                },
+                {
+                    "Assessment period ends": "12 April 2024"
+                }
+            ]
+        },
+        {
+            "April": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "70 hours"
+                },
+                {
+                    "Pre teaching start date": "4 March 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students are required to complete approximately 30 hours of readings to prepare for the subject during pre-teaching period"
+                },
+                {
+                    "Teaching period": "4 April 2024 to  5 May 2024"
+                },
+                {
+                    "Last self-enrol date": "11 March 2024"
+                },
+                {
+                    "Census date": "5 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "19 April 2024"
+                },
+                {
+                    "Assessment period ends": "5 May 2024"
+                }
+            ]
+        },
+        {
+            "June": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "15 hours"
+                },
+                {
+                    "Total time commitment": "70 hours"
+                },
+                {
+                    "Pre teaching start date": "14 June 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 5 hours of readings to prepare for the subject during pre-teaching period"
+                },
+                {
+                    "Teaching period": "21 June 2024 to 23 June 2024"
+                },
+                {
+                    "Last self-enrol date": "14 June 2024"
+                },
+                {
+                    "Census date": "21 June 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "25 June 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "September": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "15 hours"
+                },
+                {
+                    "Total time commitment": "70 hours"
+                },
+                {
+                    "Pre teaching start date": "6 September 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 5 hours of readings to prepare for the subject during pre-teaching period"
+                },
+                {
+                    "Teaching period": "13 September 2024 to 15 September 2024"
+                },
+                {
+                    "Last self-enrol date": "6 September 2024"
+                },
+                {
+                    "Census date": "13 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "17 September 2024"
+                },
+                {
+                    "Assessment period ends": "22 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "June": {
+                "name": [],
+                "email": [
+                    "programservices@mbs.edu"
+                ]
+            }
+        },
+        {
+            "September": {
+                "name": [],
+                "email": [
+                    "programservices@mbs.edu"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students admitted to GD-BA, GD-MKTG, MC-BAPT, MC-BAPTME, or students with permission of the MBA Course coordinator"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

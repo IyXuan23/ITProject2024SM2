@@ -11,6 +11,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "be able to use matrix techniques to represent and solve a system of simultaneous linear equations;",
+        "understand the extension of vector concepts to abstract vector spaces of arbitrary finite dimension;",
+        "understand linear transformations, their matrix representations and applications;",
+        "be able to differentiate and integrate functions of two variables;",
+        "be able to do a simple mathematical proof."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

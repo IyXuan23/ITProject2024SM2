@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Model and solve strategic and extensive games with perfect or imperfect information;",
+        "Recognise and critically evaluate the applications of game-theoretic models within economics; and",
+        "Use these analytical tools to understand situations where decision-makers interact."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

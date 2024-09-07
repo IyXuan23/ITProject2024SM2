@@ -11,6 +11,14 @@
     "indicative content": [
         "Topics covered may include: introduction to text analytics and text analytics for health applications; introduction to healthcare and public health; development of text analytics pipelines for clinical notes; best practice in data annotation; clinical information extraction using rule-based methods and machine learning; knowledge resources for clinical text analytics; \u202fclinical text analytics toolkits; utilization of text analytics and social media for health applications; sentiment and stance analysis in social media data; data management, privacy, and ethical issues in health-related text analytics."
     ],
+    "intended learning outcomes": [
+        "Demonstrate an ability to evaluate a range of health-related text data sources",
+        "Develop and evaluate text analytics pipelines using the Python programming language",
+        "Demonstrate competence in the use of standard health-related text analytics libraries and knowledge resources",
+        "Demonstrate an ability to appraise ethical issues in health-related text analytics",
+        "Develop and evaluate a text analytics pipeline for consumer-generated data using Python",
+        "Demonstrate an ability to critically evaluate health text analytics publications"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

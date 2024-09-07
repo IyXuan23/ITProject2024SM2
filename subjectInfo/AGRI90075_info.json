@@ -20,6 +20,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply quantitative techniques in biological research",
+        "Define the process of statistical modelling;",
+        "Utilize statistical analysis in postgraduate research;",
+        "Identify appropriate methodological frameworks and match research tools to these approaches;",
+        "Apply research tools in the R software environment."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

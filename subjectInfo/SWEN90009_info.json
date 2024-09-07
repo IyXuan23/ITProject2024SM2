@@ -13,6 +13,13 @@
         "The first step in the development of any non-trivial software system is an analysis of the problem domain in order to formulate a requirements specification. In this subject students will explore the aims, principles, processes and techniques involved in business and domain analysis and the formulation of requirements. Topics covered will include: an understanding of the domain analysis problem; business and domain analysis; an exploration of methods for eliciting, analysing, specifying and validating requirements; requirements metrics; analysis techniques for \u2018special domains\u2019 drawn from a selection of enterprise systems, safety critical systems, usability and security.",
         ""
     ],
+    "intended learning outcomes": [
+        "Be able to understand the role of requirements in software engineering projects",
+        "Be able to understand the methods for the elicitation, analysis and specification of system requirements and to be able to apply those methods in practice",
+        "Be able to understand the different types of requirements, the methods for their specification and the role that they play in system analysis",
+        "Work together in a team that interacts with clients/stakeholders to elicit requirements",
+        "Be able to select methods appropriate to a particular application or problem"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

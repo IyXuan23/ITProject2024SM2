@@ -17,6 +17,14 @@
         "Object-oriented frameworks",
         "Please view this video for further information:Object Oriented Software Development"
     ],
+    "intended learning outcomes": [
+        "Apply software design principles to object-oriented design",
+        "Develop object-oriented models for a medium-sized software system",
+        "Evaluate design trade-off of different designs",
+        "Implement an object-oriented design in a suitable language",
+        "Use commonly available object-oriented design frameworks for application development",
+        "Apply knowledge of basic science and engineering fundamentals"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

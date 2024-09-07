@@ -7,6 +7,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand a wide range of models and methodologies relevant to predicting business outcomes.",
+        "Apply appropriate modelling skills to business contexts such as resource allocation, product development and consumer behaviour.",
+        "Develop forecasting techniques to identify potentially attractive market and investment opportunities.",
+        "Translate forecasting outputs into insights that form the basis of recommendations addressing relevant business problems.",
+        "Determine which metrics to use in critiquing and comparing competing predictive methodologies.",
+        "Identify what additional data would be required to create more robust prediction models, given a certain business context"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Formulate and analyse business decision problems using advanced decision making/modelling techniques such as decision trees, optimisation and simulation",
+        "Adopt the decision analysis approach with perfect and sample information to develop an optimal strategy and to quantitively analyse decision alternatives using spreadsheets",
+        "Apply Excel Solver to solve the optimisation models",
+        "Interpret and analyse the results and solutions of the optimisation models and to investigate the sensitivity of the solutions to the assumptions of decision models.",
+        "Perform stochastic modelling on spreadsheets; analyse risks using such methods as probability analysis."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -11,6 +11,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply knowledge and skills in plant physiology and agronomy to contemporary challenges in agricultural production",
+        "Interpret, critically analyse and evaluate data generated through plant physiological measurements in order to understand crop science principles and apply these principles to production environments",
+        "Appraise remote sensing technologies to assess their capacity to measure physiological and agronomic parameters and identify their role in agronomic decision making",
+        "Evaluate plant traits quantified by sensing technologies and their links to plant health, crop and soil condition, biotic and abiotic stress, and their effects on yield and quality crop parameters",
+        "Apply laboratory and farm systems analysis tools and approaches to investigate issues and provide solutions for resource management, plant health, growth and crop yield"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -1,0 +1,212 @@
+{
+    "subject name": "Earth Processes for Engineering",
+    "subject code": "ENEN20002",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "In this subject students will be introduced to physical earth processes and their engineering applications and implications. In particular, the subject concentrates on engineering aspects of climate, water, rocks and soils and their interactions. Simplified modelling and relevant analytical techniques are introduced throughout the subject. The students will learn about fundamental material required for later year subjects in civil, environmental and geotechnical engineering.",
+        "The subject covers topics such as climate and seasonality; carbon cycle, global water cycle and catchment water cycle; rainfall, infiltration, runoff and evapotranspiration; catchment processes and stochastic rainfall modelling; Earth structure and composition; mineral and rock properties; geological processes; soil identification and classification; soil compaction."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "SILO1. Identify key aspects of the climate, soil and water environment that their course is directed towards;",
+        "SILO2. Describe and quantify aspects of the climate system, climate variability and climate change;",
+        "SILO3. Describe and analyse hydrological systems and the cycling and transformation of water and energy in those systems;",
+        "SILO4. Relate the concept of environmental sustainability in the context of climate, water and soils;",
+        "SILO5. Describe basic geological concepts and processes related to formation of earth materials;",
+        "SILO6. Characterise earth materials based on their index and classification properties;",
+        "SILO7. Apply theory of compaction to stabilise soil as an engineering material."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-CIVENG Master of Civil Engineering",
+                "MC-ENVENG Master of Environmental Engineering",
+                "MC-SOFTENG Master of Software Engineering",
+                "MC-ARCHENG Master of Architectural Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ENGR10005",
+                    "ENVS10001",
+                    "ENGR10006"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Three written group assignments  (3 team members/group). 1500 words in total for the group assignment (a workload equivalent to 500 words per student per assignment). 10% each, 30% in total. Due Weeks 5, 7 and 12. Intended Learning Outcomes (ILOs) 2, 3, 6 and 7 are addressed in this assessment.. 1500 words. Hurdle requirement:. Result of 50% on average for these assignments is required to pass the hurdle.",
+            "timing": "From Week 5 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Online test - 30 minutes. ILO's 1-5 are addressed in this assessment.. 30 minutes",
+            "timing": "From Week 6 to Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "One laboratory class with a group written report (3 team members/group). 1500 words in total for the group report (per student a workload equivalent to 500 words). ILO 6 is addressed in this assessment.. 1500 words. Hurdle requirement:. Attendance and participation in the lab class is required to pass the hurdle.",
+            "timing": "From Week 9 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "One final exam, 2 hours plus reading time. ILOs 1 to 7 are addressed in the examination.. 2 hours. Hurdle requirement:. Result of 50% is required to pass the hurdle.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Margarita Saft"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "50 hours (36 hours lectures, 12 hours workshops, and 2 hours practical)."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Shiaohuey Chow"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "50 hours (36 hours lectures, 12 hours workshops, and 2 hours practical)."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Margarita Saft"
+                ],
+                "email": [
+                    "margarita.saft@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Shiaohuey Chow"
+                ],
+                "email": [
+                    "shiaohuey.chow@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe delivery of this subject is based on lectures which are fully integrated with weekly workshops and a series of assignments allocated throughout the semester. Problem-based learning is a key feature aiming to enrich students\u2019 appreciation of the subject contents and their engineering relevance and practical applications. A hands-on exercise is conducted in a laboratory environment to quantify various constituents of soil and classify them with hydrological and engineering implications. The subject also allows students to develop their teamwork skills by collaborating on group assignments.",
+            "INDICATIVE KEY LEARNING RESOURCESThis subject does not require students to purchase any particular prescribed textbooks but learning material is provided online via a series of relevant web links and downloadable documents, including an online text.CAREERS / INDUSTRY LINKSPractical context and industry links are provided in the problem-based learning exercises.",
+            "Note: This subject is available for science credit to students enrolled in the Bachelor of Science"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

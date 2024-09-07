@@ -9,6 +9,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate an understanding of the fundamental concepts of probability, including discrete and continuous probability distributions",
+        "Apply calculus-based techniques to derive key features of a probability distribution and properties of random variables, such as mean and variance",
+        "Recognise common probability distributions and their properties",
+        "Demonstrate the role of simulation of random variables in understanding and explaining random variation and key ideas of statistical inference",
+        "Explain and employ the key elements of statistical inference: target parameters, sampling variability, and frequentist methods including confidence intervals and hypothesis testing",
+        "Explain the role of the likelihood function in parametric statistical inference, and be able to derive and interpret likelihood-based estimates for standard models",
+        "Explain Bayesian concepts of post-data uncertainty and derive Bayesian inferences for simple standard models",
+        "Critically interpret the commonly used tools of statistical inference, such as p-values, confidence intervals and Bayesian posterior distributions, as they are used in medical and scientific investigations"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -1,0 +1,120 @@
+{
+    "subject name": "Foundations of Regression",
+    "subject code": "MAST90102",
+    "subject availability": [
+        "July - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject provides the foundation for understanding and using regression methods in biostatistics. Students will learn what a regression model is and how regression methods are used for the major purposes of research investigations: description, prediction and causal inference. The emphasis will be on learning how to build, fit and interpret regression models for these different purposes, focusing on linear regression for continuous outcomes and logistic regression for binary outcomes, and including treatment of key issues such as model fit, parametrisation and interaction. Important underlying mathematical concepts will be covered, such as the method of least squares, maximum likelihood estimation and matrix algebra representation of multiple regression."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the concepts of regression models for continuous and binary outcomes as tools for description, prediction, and causal inference in health research, including the required assumptions.",
+        "Interpret the parameters of regression models for describing variation in continuous outcomes (linear regression) and binary outcomes (logistic regression).",
+        "Explain the key principles involved in building and validating regression models for prediction purposes.",
+        "Use multivariable regression models to estimate causal effects such as mean difference, risk difference, risk ratio, odds ratio, including the required causal and parametric assumptions.",
+        "Use statistical software to fit regression models for each of the specified purposes to datasets with continuous and binary outcomes."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST90100",
+                    "POPH90014"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Practical Exercise 1. 1000 words",
+            "timing": "Week 2",
+            "percentage": "20%"
+        },
+        {
+            "description": "Major Assignment 1. 2000 words",
+            "timing": "Week 4",
+            "percentage": "40%"
+        },
+        {
+            "description": "Major Assignment 2. 2000 words",
+            "timing": "1 Weeks after the end of teaching",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "July": [
+                {
+                    "Coordinator": "Emily Karahalios"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 30 August 2024"
+                },
+                {
+                    "Last self-enrol date": "30 July 2024"
+                },
+                {
+                    "Census date": "2 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "23 August 2024"
+                },
+                {
+                    "Assessment period ends": "13 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [],
+                "email": [
+                    "emily.karahalios@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Resources Provided to Students online: Course notes and assignments.Special Computer Requirements: Stata statistical software."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

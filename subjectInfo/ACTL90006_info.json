@@ -9,6 +9,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the concept of survival models;",
+        "Describe estimation procedures for lifetime distributions;",
+        "Define a discrete\u2010time Markov chain and discuss its actuarial applications.",
+        "Define a continuous\u2010time Markov process, and apply Markov models in actuarial problems.",
+        "Describe models of transfer between multiple states, including processes with single or multiple decrements, and derive relationships between probabilities of transfer and transition intensities.",
+        "Derive maximum likelihood estimators for the transition intensities in models of transfers between states with piecewise constant transition intensities.",
+        "Describe the binomial model of mortality, a maximum likelihood estimator for the probability of death and compare the binomial model with the multiple state models.",
+        "Describe how to estimate transition intensities depending on age, exactly or using the census approximation."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

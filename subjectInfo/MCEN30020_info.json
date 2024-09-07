@@ -18,6 +18,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply fundamental mathematical tools to model, analyse and design signals and systems in both time-domain and frequency-domain",
+        "Recognise the broad applicability of the mathematics of signals and systems theory, particularly within mechanical and mechatronic engineering",
+        "Identify the parameters of linear time invariant systems using input-output data",
+        "Use MATLAB to study the behaviour of signals and systems as they arise in a variety of contexts."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -10,6 +10,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "the definition and fundamental properties of metric spaces, including the ideas of convergence, continuity, completeness, compactness and connectedness;",
+        "the definition and fundamental properties of Hilbert spaces, and bounded linear maps between them;",
+        "how basic concepts of geometry and linear algebra can be generalised to infinite dimensional spaces;"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

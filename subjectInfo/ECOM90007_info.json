@@ -9,6 +9,17 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply quantitative analysis to model and forecast the essential variables and quantities for the empirical macroeconomic research",
+        "Understand, derive, and program estimation algorithms for univariate and multivariate structural models and for economically interpretable quantities such as impulse response functions and forecast error variance decompositions, inflation trend, output gap, etc.",
+        "Comprehend and apply Bayesian analysis of unit-root nonstationary variables in univariate and multi-variate systems",
+        "Forecast economic variables of interest, with the focus on density forecasting, using big data with dedicated models applying appropriate numerical techniques that make the task computationally feasible",
+        "Use structural multivariate models to identify the monetary policy shock and estimate its effect on the real business cycle indicators",
+        "Understand and estimate state-space models in macroeconomic applications",
+        "Apply macroeconomic modelling in climate change topics",
+        "Orally present the results of an independent piece of research",
+        "Complete a written research project"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

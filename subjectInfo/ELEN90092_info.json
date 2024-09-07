@@ -1,0 +1,127 @@
+{
+    "subject name": "Low-carbon Grids: Operation & Economics",
+    "subject code": "ELEN90092",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces the student to foundational aspects of economic, secure and reliable operation of low-carbon power systems and electricity markets with large shares of variable and uncertain renewable energy sources. The underlying framework is the so-called \u201caffordability-sustainability-security\u201d energy trilemma, which seeks to strike a delicate balance among: the desire to operate power systems at low cost (\u201caffordability\u201d); the desire to meet specific environmental targets (\u201csustainability\u201d); and the need to \u201ckeep the lights on\u201d (\u201csecurity\u201d). In order for the energy trilemma to be analysed in the context of a competitive market environment, the subject will provide the student with fundamentals of economics, operation of electricity markets, optimal bidding strategies of different market stakeholders, economics of transmission and distribution networks, and role of new technologies and commercial entities such as storage and aggregators. Different aspects of power system security will be analysed, from system-level requirements and constraints to provision of security services from market stakeholders. Basic concepts of optimization, including linear, quadratic, and mixed integer linear programming, will also be taught to provide the student with the tools required to understand and model current and future power system and energy market operation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "ILO 1 - Master fundamental knowledge of mathematical programming techniques and basic optimization tools for power system and electricity market applications",
+        "ILO 2 - Assess different operational aspects of supply and demand balance and security, what requirements are needed in the presence of renewables, and how security considerations affect the techno-economic operation of a power system, with use of simulation tools and software packages for network-constrained system and market operation",
+        "Explain different aspects of power system security and the difference between security and reliability, and discuss what means could be put in place to make a low-carbon power system more secure and reliable",
+        "ILO 4 - Master basic concepts from economics and their applications to network-constrained and security-constrained electricity markets with variable and uncertain renewables",
+        "ILO 5 - Develop optimal bidding strategies for different electricity market stakeholders and evaluate the behaviour of electricity market agents subject to price uncertainty"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ELEN90074"
+                ],
+                [
+                    "ELEN90060"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One mid-semester test. Intended Learning Outcomes (ILOs) 1-3 are addressed in this assessment.. 1 hours",
+            "timing": "From Week 6 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "Continuous assessment of laboratory workshop outcomes, with two  reports, in small groups of 2-4 students, not exceeding 40 pages in total over the semester.  30% per workshop/report. Due in Week 6 and Week 11-12. ILOs 1-5 are addressed in this assessment.. 12 hours",
+            "timing": "During the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "description": "One 2-hour written examination. Intended Learning Outcomes (ILOs) 1-5 are addressed in this assessment.. 2 hours. Hurdle requirement:. The examination must be passed to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Pierluigi Mancarella"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Lectures: 36 hours (3 hours/week)\r\nTutorials/consultation: 12 hours (1 hour/week)\r\nWorkshops: 12 hours (1 hour/week - total of 6 hours per each of the two workshops/reports)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "pierluigi.mancarella@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    [
+                        "Fundamentals of Power System Economics, 2ndEdition; Daniel S. Kirschen, Goran Strbac; Wiley John Wiley & Sons, Ltd",
+                        "Power Generation, Operation, and Control, 3rd Edition; Allen J. Wood, Bruce F. Wollenberg, Gerald B. Shebl\u00e9; Wiley John Wiley & Sons, Ltd"
+                    ]
+                ]
+            }
+        ],
+        "Subject notes": [
+            "The subject is delivered through a combination of lectures and workshop classes for hands-on laboratory activities."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

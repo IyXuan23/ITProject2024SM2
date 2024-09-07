@@ -11,6 +11,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply systems approach to solve environmental engineering problems.",
+        "Critically evaluate complex engineering design problems.",
+        "Assess the impact of simulation models and optimisation algorithms in solving engineering problems.",
+        "Apply simulation models and optimisation algorithms to solve engineering problems",
+        "Critically evaluate complex engineering decision-making process.",
+        "Make well-justified decisions considering multiobjective tradeoffs and/or different stakeholders' preferences."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

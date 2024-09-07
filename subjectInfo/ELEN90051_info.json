@@ -16,6 +16,14 @@
         "Channel coding for error control: mutual information, channel capacity, Shannon channel coding bound, channel coding concepts, block codes; convolutional / trellis codes; introduction to LDPC codes, turbo codes, polar codes.",
         "Examples include short, medium and long range communication systems such as bluetooth, cellular and satellite communication systems."
     ],
+    "intended learning outcomes": [
+        "ILO 1 - Understand and model channel impairments such as noise, interference and fading;",
+        "ILO 2 - Articulate what techniques can be used to communicate effectively despite channel impairments;",
+        "ILO 3 - Describe the performance measures that are used to assess effective communication in digital communications systems and wireless networks;",
+        "ILO 4 - Relate the overall performance of digital communications systems and wireless networks;",
+        "ILO 5 - Develop systems engineering skills in translating transmitter/channel/receiver requirements and constraints into the specification of digital modulation and coding schemes;",
+        "ILO 6 - Value the broader context, implications and applications of digital communication systems in society."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

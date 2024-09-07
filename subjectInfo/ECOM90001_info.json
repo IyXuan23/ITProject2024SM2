@@ -9,6 +9,17 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply the classical model of ordinary least squares to data sets drawn from economics, finance, accounting and management using single and multiple regression equations;",
+        "Test hypotheses concerning the relationship between variables;",
+        "Explain in detail the consequences of the violation of any one of the classical assumptions;",
+        "Test for violations of the classical assumptions;",
+        "Estimate models in the presence of non-classical errors and stochastic explanatory variables;",
+        "Diagnose model misspecification using the most appropriate tests, and where appropriate identify the appropriate remedial actions;",
+        "Use computer software to perform simple data descriptions and to graph relationships between variables, to estimate econometric models using OLS and Instrumental Variables, and to estimate simple dynamic models;",
+        "Apply econometric methods to real world data and perform diagnostic testing to ensure the model is adequately specified.",
+        "Formulate hypotheses about economic phenomena, collect real-world data, apply econometric methods to test hypotheses, and draw evidenced-based conclusions or implications for economic theory and/or public policy."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

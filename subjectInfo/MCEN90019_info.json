@@ -14,6 +14,12 @@
         "Flames - theoretical analyses of laminar flames, premixed flame (flame speed, quenching, flame stabilization), diffusion jet flame (flame geometry, conserved scalar, soot formation).",
         "Reciprocating engines - engine cycle analysis, turbulent combustion in spark ignition and diesel engines, cylinder-pressure analysis, pollutant formation and emission control, alternative power-trains and fuels."
     ],
+    "intended learning outcomes": [
+        "Analyse the equilibrium and kinetics of combustion of different fuels",
+        "Use computer software to solve combustion kinetics and flame structures with detailed reaction mechanisms",
+        "Apply the fundamental principles of thermodynamics to numerous engineering devices",
+        "Use a systems approach to simplify a complex problem."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

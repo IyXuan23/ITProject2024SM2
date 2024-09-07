@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the theory and applications of various mainstream applied statistical methods;",
+        "Apply appropriate statistical methods to develop effective models or inferential procedures and provide sound interpretations for real-world data analysis;",
+        "Perform statistical computation and data analysis using a computer package."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

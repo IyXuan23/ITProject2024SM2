@@ -1,0 +1,116 @@
+{
+    "subject name": "Econometrics of Markets and Competition",
+    "subject code": "ECOM40007",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This course teaches students how to build econometric models from economic theory to investigate how markets operate, and evaluate policy-relevant questions. Applications of econometric tools developed in this course will be highlighted in various fields of economics including industrial organisation, public economics, health, and others. Examples of topics covered include: firms' use of price discrimination as a profit-maximising strategy; measuring the welfare effects of mergers for antitrust analysis; identifying strategic interaction amongst governments and its impact on policy decisions; and quantifying moral hazard and adverse selection in health insurance markets. Basic topics in numerical analysis will also be covered, including optimisation, numerical integration, and numerical differentiation. The computer software used is MATLAB."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Estimate structural econometric models and use counterfactual analysis to assess policy questions;",
+        "Understand basic identification challenges in estimating the parameters of economic models;",
+        "Learn basic programming skills and numerical methods; and",
+        "Apply methods learned in the course to address policy questions for an industry."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ECON40001",
+                    "ECOM40006"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ECOM90017"
+    ],
+    "assessments": [
+        {
+            "description": "Class assignment 1 in computer code. 10 hours",
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "description": "Class assignment 2 in computer code. 10 hours",
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "description": "Class assignment 3 in computer code. 10 hours",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "Class assignment 4 in computer code. 10 hours",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours. Hurdle requirement:. To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Andy Wu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Seminars or lectures and tutorials totalling three hours per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Andy Wu:"
+                ],
+                "email": [
+                    "andy.wu1@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ]
+    }
+}

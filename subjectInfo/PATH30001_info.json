@@ -1,0 +1,142 @@
+{
+    "subject name": "Mechanisms of Human Disease",
+    "subject code": "PATH30001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject extends the concepts and examination of disease covered in second year Pathology (PATH20001, BIOM20001) with a focus on the cellular and molecular features underlying fundamental mechanisms in organ specific pathologies.",
+        "This subject is available to both Bachelor of Science and Bachelor of Biomedicine students.",
+        "Science and Biomedicine students intending to take a major in Pathology are required to enrol in PATH30001 (this subject), PATH30002 and PATH30003."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify cellular and molecular factors that are important for disease initiation, progression and resolution",
+        "Demonstrate how disease specific injury affects the normal structure and function of cells, tissues and organs",
+        "Explain the disease specific molecular mechanisms that affect the structure and function of cells; lead to changes in tissues and organs and affect human health",
+        "Explain how understanding the pathogenesis of specific diseases improves diagnosis, treatment and prevention",
+        "Illustrate the demographic and geographic profiles of specific diseases",
+        "Compare and contrast the relationship between specific pathogenetic mechanisms within and across diseases"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BCMB20002",
+                    "PATH20001"
+                ],
+                "B. Biomedicine students:",
+                [
+                    "BIOM20001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "B. Science students:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "MST 1. 45 minutes",
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "MST 2. 45 minutes",
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Exam. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Theo Mantamadiotis"
+                },
+                {
+                    "Coordinator": "Sophie Paquet-Fifield"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 lectures (3 per week)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinators"
+                ],
+                "email": [
+                    "theom@unimelb.edu.au",
+                    "Sophie.paquet@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Kumar V. et al.,Robbins and Cotran Pathologic Basis of Disease, latest edition, Saunders Elsevier."
+                ]
+            }
+        ],
+        "Subject notes": [
+            [
+                "Science students who do not want to do a Major in Pathology and do not have the Biochemistry prerequisites will be considered for entry into this subject on a case-by-case basis if they have appropriate marks in equivalent biomedical subjects."
+            ],
+            [
+                "This subject is available to both B.Science and B.Biomedicine students."
+            ]
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

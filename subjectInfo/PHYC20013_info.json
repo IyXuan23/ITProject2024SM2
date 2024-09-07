@@ -10,6 +10,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "apply critical reasoning to the evaluation of experimental data and sources of experimental uncertainty;",
+        "use experimental log books effectively; and",
+        "present clearly the results of experimental work;",
+        "construct computer programs that implement algorithms for the solution of problems in physics and the modeling of experimental data;",
+        "apply elementary computational techniques such as finite difference approximations, root finding, quadrature, numerical solutions of ordinary differential equations and discrete Fourier series to physical problems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

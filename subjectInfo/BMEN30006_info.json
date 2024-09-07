@@ -18,6 +18,12 @@
         "This material is complemented using software tools (e.g., MATLAB) for computation and simulation, and practical experience with circuits and systems in the laboratory.",
         "Please view this video for further information:Circuits and Systems"
     ],
+    "intended learning outcomes": [
+        "Apply physical principles, fundamental abstractions and modelling techniques in the analysis of electrical systems",
+        "Develop and demonstrate basic biosignals laboratory skills through implementing, testing and debugging simple circuits on prototyping breadboards",
+        "Apply fundamental mathematical analysis and modelling techniques to understand signals and systems in both time-domain and frequency-domain",
+        "Analyse continuous-time and discrete-time signals and systems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

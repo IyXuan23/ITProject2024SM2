@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the key features of the microstructure of financial markets",
+        "Successfully trade in a number of different trading systems",
+        "Conceive of, and if with computer skills, program, algorithms for the automatic execution of trading strategies",
+        "Differentiate between types of trading strategies",
+        "Back-test algorithmic traders or test them in an experimental setting",
+        "Opine in an informed way about the advantages and drawbacks of algorithmic trading"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

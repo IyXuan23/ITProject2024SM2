@@ -12,6 +12,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Develop and demonstrate an understanding of the core features of modal logic, including systems of proofs and models, and the distinctive formal features of different systems of modal logic and non-classical logics",
+        "Demonstrate an ability to clearly state and prove results in and about modal and non-classical logics",
+        "Critically evaluate ways that modal and non-classical logics are applied to issues in the philosophy of language, metaphysics and epistemology",
+        "Critically reflect on the strengths and weaknesses of different formal approaches to modelling meaning",
+        "Work individually, and in groups, to clarify problems, apply reasoning techniques to different issues, and to critically evaluate the results."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

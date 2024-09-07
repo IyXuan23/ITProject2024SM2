@@ -10,6 +10,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain factors affecting option prices, including volatility and dividends;",
+        "Calculate arbitrage bounds;",
+        "Devise trading strategies for options;",
+        "Explain the impact of dividends on option pricing;",
+        "Use the Black-Scholes model for option pricing;",
+        "Calculate and use hedge parameters in option pricing",
+        "Explain factors affecting the pricing of forward and futures contracts",
+        "Devise appropriate hedging strategies using a mix of different derivative securities."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

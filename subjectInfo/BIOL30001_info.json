@@ -1,0 +1,155 @@
+{
+    "subject name": "Reproductive Physiology",
+    "subject code": "BIOL30001",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject aims to give students of science and biomedical science a solid foundation in human and animal reproductive biology and its applications. Students will be provided with a curriculum informed by current research and addressing an understanding of the principles and processes of reproductive biology, the biological bases of reproductive disorders and diseases, assisted reproductive technologies and reproduction in a global context. Students will gain experience in learning how to search the primary scientific literature.",
+        "Topics will include structure, function, and development of the reproductive organs; endocrine and neuroendocrine and environmental control of reproduction, fertilisation, pregnancy, parturition and lactation in humans and other animals; reproductive diseases and disorders; assisted reproductive technologies; and reproduction in a community and global perspective.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Compare the structure and function of male and female reproductive systems;",
+        "Explain neuroendocrine and endocrine control systems and their role in the regulation of reproductive processes;",
+        "Review common reproductive disorders and diseases and assisted reproductive techniques;",
+        "Discuss the implications of reproduction in a community and global context; and",
+        "Synthesise and critique relevant literature to communicate applications of reproductive biology."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "A minimum of 25 credit points from ",
+                [
+                    "BCMB20002",
+                    "BIOM20001",
+                    "BIOM20002",
+                    "CEDB20003",
+                    "GENE20001",
+                    "MAST20031",
+                    "PHYS20008",
+                    "PHYS20009",
+                    "ZOOL20005",
+                    "ZOOL20006"
+                ],
+                "Students with equivalent alternative backgrounds should discuss their options with the coordinator."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ANSC30004"
+    ],
+    "assessments": [
+        {
+            "description": "6 online multi-choice quizzes (50 words equivalent and 5% each). 20 minutes (each)",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Review of scientific literature and individual timed written assessment, including 2 hours of group work including annotation of a scientific paper and a related individual 50-minute in-class assessment. 1000 words (equivalent)",
+            "timing": "From Week 5 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Mark Green"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 lectures and 6 tutorials"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "biol30001@lists.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "M H Johnson,Essential Reproduction7th Ed, Blackwell Publishing."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

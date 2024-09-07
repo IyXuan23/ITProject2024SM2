@@ -10,6 +10,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "LO1. Design a basic pile foundation considering the potential bearing capacity and settlement failures in a single pile and pile group.",
+        "LO2. Apply the basic pile design knowledge for more complicated load application and ground conditions: Rock socketed piles, laterally loaded piles and micro piles.",
+        "LO3. Understand  the basic rock mechanics principles.",
+        "LO4. Apply the fundamental knowledge of rock mechanics on field applications: Rock slope stability assessment and site investigation",
+        "LO5. Evaluate the critical aspects of earth dam design and handle practical issues",
+        "LO6. Evaluate the fundamentals of tunnelling  and key aspects of a tunnelling project"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

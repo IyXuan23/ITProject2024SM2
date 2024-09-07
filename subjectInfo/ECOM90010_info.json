@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the concepts of joint, conditional and marginal probability density functions and their relevance for Bayesian inference;",
+        "Derive posterior density functions for common econometric models including the traditional regression model, discrete outcome models and panel models;",
+        "Explain the relevance of Markov chain Monte Carlo techniques for Bayesian inference;",
+        "Program Gibbs samplers and Metropolis-Hastings algorithms for a number of models including the traditional regression model, discrete outcome and panel models;",
+        "Interpret results from Bayesian inference; and",
+        "Estimate marginal likelihoods for model comparison."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

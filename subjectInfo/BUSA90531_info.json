@@ -7,10 +7,18 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Have a greater appreciation of the power of analytics in creating, revising and implementing a better strategy for the firm",
+        "Integrate their general management skills with the outputs that analytics can provide",
+        "Translate analytics outputs into insights for making better decisions",
+        "lead a wide range of organisations to be data driven",
+        "be aware of both the potential and the limitations of big data analytics"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
             "necessary pre-requisite": [
+                "100 credit points from ",
                 [
                     "BUSA90480",
                     "BUSA90481",
@@ -24,6 +32,7 @@
                     "BUSA90482",
                     "BUSA90483"
                 ],
+                "12.5 credit points from ",
                 [
                     "BUSA90227"
                 ],

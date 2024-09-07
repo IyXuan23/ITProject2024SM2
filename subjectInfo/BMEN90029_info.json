@@ -16,6 +16,14 @@
         "Signalling pathtways and systems-biology related to mechanics of cells and tissues",
         ""
     ],
+    "intended learning outcomes": [
+        "Describe the fundamental mathematical principles behind nonlinear continuum mechanics",
+        "Describe and construct biochemical models of cell signalling pathways that affect cell and tissue mechanics",
+        "Construct computational models of the mechanics of soft-tissues and cells",
+        "Describe how the mechanical behaviour of cells and tissues in the body are regulated by chemical and mechanical signals",
+        "Construct multi-scale models of mechanics and signalling in cells and tissues",
+        "Demonstrate skills in communicating results from engineering research in written form."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

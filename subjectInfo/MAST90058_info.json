@@ -11,6 +11,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Be familiar with the basic ideas of estimation and hypothesis testing",
+        "Be able to carry out many standard statistical procedures using a statistical computing package",
+        "Develop the ability to fit statistical models to data by both estimating and testing hypotheses about model parameters."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

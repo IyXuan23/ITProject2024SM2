@@ -19,6 +19,10 @@
         "Lader election, and",
         "Global snapshots issues."
     ],
+    "intended learning outcomes": [
+        "Have developed an understanding of distributed algorithm design",
+        "Be able to implement and analyse distributed algorithms."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

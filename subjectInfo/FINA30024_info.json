@@ -1,0 +1,129 @@
+{
+    "subject name": "Performance Design Studio",
+    "subject code": "FINA30024",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This is the capstone subject for the Performance Design major in the Bachelor of Design, and will integrate previous coursework in the major. The core of the undergraduate sequence in the major is the development of both design thinking and dexterity with tools.",
+        "The focus of the investigations of this capstone subject will be performance design, using a text (a play text, a piece of music, a piece of choreography, a soundscape) and a set of circumstances (the brief), which will be explored by students through the lens of two or more of the previous design studios. The project will involve an engagement with historical, theoretical, structural, and environmental ideas relevant to the text."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "demonstrate an ability to generate, explore and critically evaluate a variety of design possibilities for a given text;",
+        "demonstrate an understanding of relationships between design proposals and a design brief;",
+        "select from a range of theories (performative, artistic, environmental, historical, philosophical, scientific, etc.) and make them relevant to the task at hand;",
+        "understand and link the relationship between design theory and the project brief;",
+        "demonstrate skills in the appropriate use of representational media;",
+        "demonstrate the ability to make a case for practical design proposals;",
+        "demonstrate an ability to integrate studies from the chosen previous studios that form the basis of the proposal;",
+        "engage with and contribute to their own work and the work of others in the studio."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "FINA10026",
+                    "FINA10032",
+                    "FINA30022",
+                    "FINA30023"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Major design project, first interim submission: individual oral presentation (5 mins), including component of research and initial design concepts. 20 hours (of work required)",
+            "timing": "Mid teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Major design project, second interim submission: individual oral presentation (10 mins), including further research and developed design concepts. 40 hours (of work required)",
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Design project final submission: individual oral presentation (20 mins). 100 hours (of work required)",
+            "timing": "End of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Design journal, equivalent to a 1600-word essay. 40 hours (of work required)",
+            "timing": "During the assessment period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Richard Roberts"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "48 hours, comprising one 4-hour studio per week"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Richard Roberts:",
+                    ""
+                ],
+                "email": [
+                    "caleb.roberts@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Design"
+            ]
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

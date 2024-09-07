@@ -11,6 +11,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "recognise functions of a single, real variable including injective and bijective functions, composition of functions and conditions under which inverse functions can be defined;",
+        "graphically represent and analyse key features of polynomial, circular, inverse circular and reciprocal functions;",
+        "manipulate simple trigonometric identities and compound and double angle formulas for sine, cosine and tangent;",
+        "calculate using the arithmetic of vectors in two and three dimensions, calculate scalar products, vector projections and resolutes, specify plane curves parametrically by a vector equation and determine the corresponding cartesian equations",
+        "extend differentiation techniques to implicit differentiation, derivatives of inverse circular functions, second and higher order derivatives and be able to apply these to problems including curve sketching;",
+        "evaluate integrals using algebraic and trigonometric substitutions, and partial fractions;",
+        "apply integration techniques to problems including the area between curves and the solution of simple ordinary differential equations;",
+        "calculate using the arithmetic of the extension of the real numbers to the set of complex numbers, including the representation of complex numbers in Cartesian and polar forms"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

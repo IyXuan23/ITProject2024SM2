@@ -10,6 +10,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Use free body diagrams and Newton's laws to solve basic mechanics problems in biomedical engineering",
+        "Perform stress and strain analysis of common biomechanical systems",
+        "Evaluate mechanical properties of materials and perform mechanical testing and failure analysis of materials relevant to biomedical engineering",
+        "Employ dynamic analysis techniques to solve a range of problems in biomechanical motion",
+        "Write computer programs to investigate and offer solutions to problems in a  variety of biomechanics problems",
+        "Effectively communicate their understanding of, approach to and analysis of mechanics-related problems in bioengineering."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

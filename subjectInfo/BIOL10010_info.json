@@ -1,0 +1,147 @@
+{
+    "subject name": "Foundational Biology: Life's Complexity",
+    "subject code": "BIOL10010",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The subject will focus on establishing foundational knowledge in biology and building on this to provide students with a thorough understanding of key concepts.",
+        "It will introduce and investigate five core concepts in biology: evolution, structure & function, regulation, transmission of information and interconnectedness. These concepts will be studied at the level of the individual, population, ecosystem and biome, assuming no prior knowledge of biology. Topics include evolution of the diversity of life, and evolution in response to natural and human-induced environmental changes (from antibiotic resistance to climate change); the structure, function and behaviour of organisms and how these change across environmental gradients; energy flow and material cycling through organisms and ecosystems; transmission of genetic, social and cultural information between organisms in a population or community; relationships between individuals, populations, species and their environment, and the processes that shape populations, ecological communities and ecosystems."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "use the foundational language of biology relevant to organisms, populations and ecosystems, and the classification of life's diversity;",
+        "demonstrate an understanding of evolution and the processes that have resulted in the diversity and complexity of life on earth;",
+        "describe the structural and functional complexity that results from the aggregation of cells into organised organs and systems;",
+        "explain metabolic and physiological regulation as it relates to the maintenance of homeostasis in individual organisms;",
+        "identify communication and information flows between organisms and within and between populations;",
+        "describe energy flow and material cycling through individual organisms, ecosystems and biome;",
+        "explain the interconnectedness in living systems including that between parents and offspring, and ecological interactions of organisms;",
+        "identify biology as an evolving science based on concepts developed from observations, experiments, and data analysis; and",
+        "write a report based on analysis of biological data."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BIOL10011"
+    ],
+    "assessments": [
+        {
+            "description": "3 Tests\r\nTest 1 \u2013 30 minutes (Week 4) 10%  \r\nTest 2 \u2013 60 minutes invigilated MST (Weeks 8 \u2013 9) 20%\r\nTest 3 \u2013 30 minutes (Weeks 11 \u2013 12) 10%. 120 minutes (total)",
+            "timing": "Fortnightly across the semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Laboratory practical attendance and completion of in class activities. Hurdle requirement:. Student participation in practical activities for at least 80% of the practical classes as demonstrated by submission of practical notes and activities completed before and during class. For the purposes of meeting this hurdle requirement, each submission must be submitted during or immediately after  the scheduled practical class and constitute a genuine attempt to address the requirements of the task.",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "description": "A written report. 800 words",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinators": "Antanas Spokevicius and Simon Baxter"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of interactive seminars (2 x 1 hour per week across semester), 15 hours of practical classes (5 x 3 hours, approximately fortnightly across semester), 12 hours of workshops (6 x 2 hours, fortnightly across semester). Students are also expected to undertake up to 24 hours of independent online activities including watching videos and instant feedback activities (2 hr per week)."
+                },
+                {
+                    "Total time commitment": "175 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "BIOL10010-info@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Sadava DE, Hillis DM, Heller HC, Hacker SD, and Hall DW, Life: The Science of Biology 12th edition, Macmillan, 2020, ISBN 9781319315788"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Knox R B, Ladiges P Y, Evans B K and Saint R, Biology, An Australian Focus 5th Ed, McGraw-Hill, 2014"
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

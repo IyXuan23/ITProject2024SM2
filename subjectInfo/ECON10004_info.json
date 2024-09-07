@@ -1,0 +1,215 @@
+{
+    "subject name": "Introductory Microeconomics",
+    "subject code": "ECON10004",
+    "subject availability": [],
+    "overview": [
+        "This subject is an introduction to microeconomic theory and policy. Topics include the theory of perfectly competitive markets, welfare analysis and the role of government in the economy, theory of the firm (production and costs), game theory, and effects of market structure on resource allocation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the operation of the economy, and to guide decision-making by individuals, businesses and government in solving the key economic problem of meeting unlimited wants with limited resources",
+        "Explain the concepts of market demand, supply and equilibrium; and apply the market model to explain the determination of prices, quantities and wellbeing",
+        "Explain how market and social welfare outcomes are affected by changes in demand and supply, and by changes of government policy",
+        "Explain in what circumstances and in what forms intervention by government in the operation of the economy can improve efficiency and social welfare",
+        "Identify \u201cstrategic situations\u201d in economic activity, and be able to analyse and predict outcomes of strategic situations",
+        "Identify the main characteristics of different market structures, and describe and evaluate the nature of decisions and outcomes in the different market structures",
+        "Explain the nature, role and limitations of theory and models in economic analysis",
+        "Proceed to the study of other economics and commerce subjects that have a knowledge of introductory microeconomics as a prerequisite"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "B-COM Bachelor of Commerce",
+                "B-BMED Bachelor of Biomedicine",
+                "B-SCI Bachelor of Science"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "A study score of at least 25 in VCE Mathematical Methods (Units 3 and 4) or Specialist Mathematics (Units 3 and 4), or equivalent"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                [
+                    "MAST10012"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 4",
+            "necessary pre-requisite": [
+                [
+                    "MAST10014",
+                    "MAST10015"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Individual written assignment. 1000 words",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "Mid-term test. 1000 words",
+            "timing": "From Week 7 to Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "Tutorial attendance and participation",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours. Hurdle requirement:. Successful completion of this subject requires a pass (50%) in the final exam",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "Maria Recalde and Laura Panza"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 1-hour lectures and a 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "12 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinators": "Tom Wilkening and Alexandru Nichifor"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 1-hour lectures and a 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Nahid Khan:"
+                ],
+                "email": [
+                    "n.khan@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Nahid Khan:"
+                ],
+                "email": [
+                    "n.khan@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

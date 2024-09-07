@@ -12,6 +12,12 @@
     "indicative content": [
         "Indicative content includes: cleaning and normalising data, supervised learning (classification, regression, linear & non-linear models), and unsupervised learning (clustering), and mathematical foundations for a career in machine learning."
     ],
+    "intended learning outcomes": [
+        "ILO 1 - Apply elementary mathematical concepts used in machine learning",
+        "ILO 2 - Derive machine learning models from first principles",
+        "ILO 3 - Design, implement, and evaluate machine learning systems for real-world problems",
+        "ILO 4 - Identify the correct machine learning model for a given real-world problem"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

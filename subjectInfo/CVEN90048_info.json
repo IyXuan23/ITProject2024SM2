@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "ILO1 - Demonstrate knowledge of traffic flow theory",
+        "ILO2. -Use software and simulate traffic flow operations for urban roads",
+        "ILO3 - Use software and simulate signalised intersection and optimise signal timing",
+        "ILO4 - Develop and evaluate travel demand forecasting models",
+        "ILO5 - Conceptualise, develop and estimate travel mode choice models with real data",
+        "ILO6 - Evaluate performance of transport projects with respect to sustainability, accessibility, and safety criteria."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

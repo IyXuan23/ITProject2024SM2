@@ -14,6 +14,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Formulate mathematical models for vibration analysis for single-degree-of-freedom systems; multiple-degree-of-freedom systems; and continuous systems.",
+        "Formulate mathematical models for some simple problems in aeroelasticity.",
+        "Analyse these systems using suitable tools both in the time domain and in the frequency domain.",
+        "Simulate the behaviour of vibrating systems using suitable software."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

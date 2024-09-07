@@ -13,6 +13,13 @@
         "Aspects of these topics will be explored through laboratory work involving simulation tools and hardware experiments."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Model and analyse the linear time-invariant behaviour of electrical and electronic systems, in both the time and frequency domain",
+        "Design, construct and test passive and active electrical networks that achieve specified linear time-invariant behaviour",
+        "Use software tools to simulate the behaviour of linear electrical networks",
+        "Apply fundamental concepts and tools in the analysis and design of combinational and sequential logic systems, with an appreciation for the role and limitations of important digital abstractions",
+        "Configure and test digital hardware development platforms in the laboratory"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

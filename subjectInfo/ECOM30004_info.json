@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply the Box-Jenkins methodology for identifying stationary and non-stationary univariate forecasting models",
+        "Apply VAR/VECM models to analyse relationships between economic and financial time series",
+        "Apply ARCH models to analyse and forecast the volatility of financial time series"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -19,6 +19,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Select an appropriate approach to quantitative modelling of problems, given existing knowledge and data",
+        "Develop a conceptual model designed to investigate and solve engineering problems",
+        "Apply, calibrate and evaluate a quantitative model of the problem using generic modelling software in a numerical programming environment",
+        "Apply models to investigate problems and synthesise recommendations based on the modelling",
+        "Write and present engineering reports of modelling studies."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

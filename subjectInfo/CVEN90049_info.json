@@ -10,6 +10,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "ILO1 - Apply direct stiffness methodology to the analysis of indeterminate structures, such as continuous beams, moment-resisting frames and trusses",
+        "ILO2 - Apply finite element methodology to analyse structural elements",
+        "ILO3 - Use commercial structural analysis packages to analyse structures",
+        "ILO4 - Assess structural elements by applying structural principles in accordance with Australian Standards",
+        "ILO5 - Describe the behaviour of prestressed concrete beams under serviceability and ultimate conditions",
+        "ILO6 - Design complex structures using a combination of materials in accordance with Australian Standards",
+        "ILO7 - Identify opportunities for greener and more resilient approaches to structural solutions."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

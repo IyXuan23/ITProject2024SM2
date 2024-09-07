@@ -1,0 +1,122 @@
+{
+    "subject name": "Methods of Mathematical Physics",
+    "subject code": "MAST30031",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject gives an example-oriented overview of various advanced topics that are important for mathematical physics and physics students, as well as being of interest to students of pure and applied mathematics. These topics include:",
+        "Further differential equations: Bessel functions, Legendre polynomials, spherical harmonics and applications such as the Laplace/Schrodinger equation in polar/spherical coordinates;",
+        "Further vector calculus: Differential forms, integration, Stokes\u2019 theorem and applications such as Maxwell\u2019s equations, charge conservation and Dirac monopoles;",
+        "Hilbert spaces: L2 spaces, bounded and unbounded operators, normalisable and non-normalisable eigenfunctions, distributions and applications to quantum theory;",
+        "Group theory: Lie groups and algebras, representations and applications such as quantum spin and particle physics."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Communicate the importance of advanced mathematical structures in conceptual and computational approaches to mathematical physics;",
+        "Recognise that special functions naturally arise when solving physically important partial differential equations in curvilinear coordinates;",
+        "Argue how the language of differential forms both simplifies and greatly enhances the scope of multivariable calculus and its applications in physics;",
+        "Analyze topological concepts through the use of examples of physical phenomena;",
+        "Articulate how the eigentheory of Hilbert space operators underlies the modern approach to quantum physics;",
+        "Model symmetries of physical systems using basic examples of groups and Lie algebras."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST30021"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST20030"
+                ]
+            ],
+            "additional pre-requisite": [
+                "MAST30029 Partial Differential Equations (prior to 2014)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Three written assignments of up to 60 pages due at regular intervals. 60 pages",
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written exam. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Thomas Quella"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 one-hour lectures (three per week); 12 one-hour practice classes (one per week)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "thomas.quella@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

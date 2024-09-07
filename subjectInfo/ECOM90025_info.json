@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Implement computational methods to prepare, explore and describe a range of types of data.",
+        "Apply regression and extensions including trees, random forests and regularised estimation for computing and evaluating predictions.",
+        "Apply and critique nonparametric regression methods for estimation and prediction.",
+        "Apply and compare methods for statistical classification.",
+        "Implement, compare, and critique simple econometric frameworks for causal analysis including experiments, matching and difference-in-differences."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

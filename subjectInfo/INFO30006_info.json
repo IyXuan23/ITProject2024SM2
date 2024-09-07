@@ -9,6 +9,12 @@
         "Information is a valuable asset that requires protection from increasingly sophisticated and complex security threats. The ease with which information can be collected directly from individuals, or secretly through technologies, presents new challenges for protecting privacy.An effective security strategy requires understanding the risks and how a range of tools and techniques can be applied for protective purposes.In this subject, students will be exposed to a range of issues related to information privacy and security. These issues drive the need for better security tools, technologies and techniques. Students will learn foundational concepts and practical tools that illuminate how security strategy is developed and implemented. Topics include: the security threat landscape, managing security risk exposure, best practices for individual and organisational security, hands-on tools for cybersecurity, and cryptographic techniques to secure information. The subject will also explore technology-based risk to individual privacy, including experimenting with actual tools to defend privacy as well as understanding how this changing threat environment is reshaping society.The subject has a strong industry focus, a hands-on element and a high level of direct insight into industry practices."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Identify a range of security and privacy issues and threats that drive the need for security",
+        "Understand the three security principles Confidentiality, Integrity and Availability (C, I, A) and how they relate to security threats and technologies",
+        "Identify a range of security best practices and understand how they can be deployed in a security strategy to protect information and preserve privacy",
+        "Understand cryptographic technologies and how they can be deployed to protect information and preserve privacy"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

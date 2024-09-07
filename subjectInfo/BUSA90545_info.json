@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Develop the skill to create mathematical models for diverse problems arising from the supply chain industry (e.g. location problems, inventory management, process optimisation).",
+        "Understand supply chain management metrics commonly used.",
+        "Learn the main methods (exact and heuristics) to find good solutions to the mathematical models.",
+        "Evaluate the appropriate method to solve a supply chain problem.",
+        "Learn how to model current challenges in the transportation industry regarding revenue management and auction design for procurement of transportation services."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

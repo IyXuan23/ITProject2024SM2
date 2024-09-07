@@ -12,6 +12,13 @@
     "indicative content": [
         "Students will work in small teams to conceive, analyse, design, implement, test, and maintain a software product for a group of stakeholders. Workshops are tied closely to the projects and the particular phases of each project and will explore the application of theory to the project, including topics on: requirements analysis, software design, software release, communication, ethical principles, and software project management tools. Students will be required to demonstrate independence while working as part of a team."
     ],
+    "intended learning outcomes": [
+        "Design, implement, validate, release, and maintain a software product in their stream of speciality that achieves specific project goals using a repeatable process",
+        "Independently research and evaluate technologies for specific problems as part of IT projects",
+        "Work with stakeholders to develop IT systems to meet their needs while applying ethical principles and procedures",
+        "Integrate the knowledge gained in other subjects in designing and building applications for a real-world problem",
+        "Demonstrate effective teamwork and communication skills, including communicating technical outcomes to non\u2010technical stakeholders and using contemporary professional tools"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

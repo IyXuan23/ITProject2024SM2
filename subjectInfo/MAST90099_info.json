@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the concepts of generalised linear models (GLMs) for the analysis of counts and rates as tools for description, prediction and causal inference in health research, including the required assumptions.",
+        "Interpret the parameters of regression models for count data and rates (Poisson regression) and time-to-event data (Cox regression).",
+        "Apply regression methods for count and time-to-event data to developing and validating prediction models.",
+        "Use multivariable regression models to estimate causal effects such as the rate ratio or hazard ratio, based on standard epidemiological study designs, including the required causal and parametric assumptions.",
+        "Implement the life table and Kaplan-Meier procedures for estimating survival curves both manually and with the use of a computer.",
+        "Use statistical software to fit regression models to data with outcomes presented as counts, rates and time-to-event data."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

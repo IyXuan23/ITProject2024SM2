@@ -9,6 +9,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Construct data summaries and visualizations from hierarchical data series as found when working with surveys and scanner data.",
+        "Generate interactive graphic representations of data.",
+        "Use Input-Output tables to predict economic impacts",
+        "Predict population age distribution changes.",
+        "Use linear programming to solve economic optimization problems",
+        "Measure the productive efficiency of firms using Data Envelopment Analysis",
+        "Use simulation of random processes to evaluate an economic model",
+        "Employ software to solve complex algebraic problems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

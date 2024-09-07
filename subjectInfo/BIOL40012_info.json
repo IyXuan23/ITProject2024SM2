@@ -1,0 +1,109 @@
+{
+    "subject name": "Research Project - RMH Part 1",
+    "subject code": "BIOL40012",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This course is designed for students who want to gain experience in medical research but who are not enrolled in a medical degree. A particularly attractive aspect of the program is each project addresses a research problem directly relevant to human disease. A very wide range of projects is offered by leading research experts in laboratories belonging to this academic centre (University of Melbourne. Departments of Medicine based at the Royal Melbourne and Western Hospitals, Departments of Radiology, Obstetrics & Gynaecology, Psychiatry and Surgery along with the Ludwig Institute for Cancer Research and Florey Neuroscience Institute. There are also projects with the CSIRO and NARI (National Ageing Research Unit). We have expertise in state-of-the-art basic, applied and clinical methodologies and offer a unique experience to Honours students. Not only do students master the research field of their project, but they have the opportunity to learn about the bigger picture, particularly with regard to leadership and responsibility, and the importance of the interface between research and clinical medicine. The research project is complemented by a seminar series dealing with \u201ctranslational medicine\u201d which is research that aims to turn scientific discoveries into practical treatments or interventions to improve human health and relieve suffering. All of the projects offer the opportunity of progression on to higher degrees including a PhD."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Select, summarise and critically appraise published research in translational medicine.",
+        "Formulate a research hypothesis based upon a synthesis of the published research evidence.",
+        "Design and undertake appropriate research experiments to answer a research hypothesis in translational medicine.",
+        "Conduct supervised research in a specific area of translational research.",
+        "Communicate the method and findings of a research project in oral and written form."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Oral presentation of introduction to research project (7 minutes presentation + 3 minutes questions). 10 minutes",
+            "timing": "Due in Week 7 of Semester One",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written report of draft research project outline. 3000 words. Hurdle requirement",
+            "timing": "Due in Semester One examination period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Oral presentation of final research project (12 minutes presentation + 3 minutes questions). 15 minutes",
+            "timing": "Due in Week 11 of Semester Two",
+            "percentage": "15%"
+        },
+        {
+            "description": "Supervisor's report of overall research effort",
+            "timing": "Due in Week 12 of Semester Two",
+            "percentage": "5%"
+        },
+        {
+            "description": "Research thesis. 10000 words",
+            "timing": "Due in Semester Two examination period",
+            "percentage": "65%"
+        },
+        {
+            "description": "RMH academic seminars. Hurdle requirement:. A minimum of 80% attendance at one-hour weekly academic seminars",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Chris French"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students must be enrolled in the Bachelor of Biomedicine (Honours), Bachelor of Science (Honours) or Master of Science to complete this subject."
+        ]
+    }
+}

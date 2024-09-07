@@ -1,0 +1,138 @@
+{
+    "subject name": "Neurophysiology: Neurons and Circuits",
+    "subject code": "NEUR30002",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The subject aims to provide students with an overview of how neurons function, individually and in ensembles, to produce complex behaviours. We consider how the special properties of nerve cells enable information to be encoded and transmitted.",
+        "We will explore how nerve cells communicate with other nerves and cells. Finally we will explore how these properties lead to activity patterns that change the function of other tissues in response to physiological challenges, thus contributing to homeostasis."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "To appreciate how protein-mediated passage of ions across the nerve cell membrane generates electrical activity.",
+        "To develop an understanding of how these electrical impulses are generated and integrated by the neuron to encode information.",
+        "To understand how nerve cells use different chemicals to communicate with neurons and other cells (e.g. muscles).",
+        "To examine how the connections between nerve cells leads to simple circuits that mediate reflexes and homeostatic control."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "2 x mid-semester assessments (25% each)",
+            "timing": "Mid semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "1 x exam. 2 hours",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Angelina Fong"
+                },
+                {
+                    "Coordinator": "Song Yao"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week (total contact hours: 36)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinators"
+                ],
+                "email": [
+                    "NEUR-30002@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Purves etc al., Neuroscience, 5 th edition, 2012: Sinauer Associates"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available to students enrolled in the New Generation BSc, BBioMed, pre-2008 BSc or BBiomedSc."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

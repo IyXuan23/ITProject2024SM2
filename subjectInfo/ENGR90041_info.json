@@ -1,0 +1,155 @@
+{
+    "subject name": "Engineering Research Project Part 1",
+    "subject code": "ENGR90041",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "The subject involves undertaking a substantial research project requiring an independent investigation on an approved topic in advanced engineering research and / or design. Each project is carried out under the supervision of a member of academic staff and where appropriate, an industry partner.",
+        "The emphasis of the project is associated with a problem formulation that will require an explorative approach, where students will pursue outcomes associated with new knowledge or understanding, within the engineering science disciplines, often as an adjunct to existing academic research initiatives.",
+        "It is expected that the Engineering Research Project will incorporate findings associated with both well-defined professional practice and research principles and will provide students with the opportunity to integrate technical knowledge and generic skills gained in earlier years."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "ILO1. Carry out independent research and be proficient in the use of common research tools, and familiar with some of the specific research tools relevant to the selected topic of research;",
+        "ILO2. Describe and critically appraise the role of published research, precedent, prior art, patents, registered designs and standards in the engineering project;",
+        "ILO3. Demonstrate proficiency in analytical, problem-solving, research and design skills, including those appropriate for sustainable development",
+        "ILO4. Apply standard engineering project management tools;",
+        "ILO5. Integrate into the engineering research the professional ethics and responsibility considerations towards the profession and the community;",
+        "ILO6. Effectively communicate the outcomes of various stages of an engineering and research project;",
+        "ILO7. Explore and articulate the impact of the engineering research and design exercise in the wider community."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "An average of H2A or above over all the Level 9 subjects."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Completion of a minimum of 75 credit points of Level 9 subjects",
+                "The Engineering Research Project is intended to be taken in the final year of the candidature."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Research proposal (individual assessment). Intended Learning Outcomes (ILOs) 1-7 are addressed in this assessment.. 20 hours",
+            "timing": "From Week 2 to Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Non-technical presentation to lay-audience (individual assessment). ILOs 2-7 are addressed in this assessment.. 15 hours",
+            "timing": "From Week 8 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Final report (individual assessment). ILOs 1-7 are addressed in this assessment.. 40 hours. Hurdle requirement:. Students must pass the final report to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Oral examination (individual assessment). ILOs 1-7 are addressed in this assessment.. 45 minutes. Hurdle requirement:. Students must pass the Oral Examination to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Bishakhdatta Gayen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "A minimum of 1 hour per week of contact with academic supervisor (and industry supervisor where applicable)."
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Bishakhdatta Gayen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "A minimum of 1 hour per week of contact with academic supervisor (and industry supervisor where applicable)."
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "bishkhdatta.gayen@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "bishakhdatta.gayen@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

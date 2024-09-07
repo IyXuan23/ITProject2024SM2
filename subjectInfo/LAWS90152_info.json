@@ -1,0 +1,135 @@
+{
+    "subject name": "Health Data Governance",
+    "subject code": "LAWS90152",
+    "subject availability": [],
+    "overview": [
+        "Data relating to an individual\u2019s physical and mental health and condition can reveal extremely sensitive information. Valuable health data also underpins improvements in health care and can be useful for other government and commercial purposes. How can the law protect the principle of medical confidentialityandenable the data flows necessary for a modern learning healthcare system, public health, and other public interest purposes?",
+        "Health privacy and data protection expert Mark Taylor considers the relevant law and governance in Australia and comparable jurisdictions. This subject will provide students with an advanced and specialised knowledge of health data governance, including relevant privacy and data protection law. It will invite critical consideration of relevant law benchmarked against the European Union General Data Protection Regulation and other international standards, such as the Recommendation of the Organisation for Economic Co-operation and Development (OECD) Council on Health Data Governance.",
+        "Principal topics include:",
+        "Legal concepts of \u2018personal health data\u2019, \u2018identifiability\u2019, and \u2018public interest\u2019",
+        "Transparency, informed consent, and respect for individual objection",
+        "Confidentiality and third-party access, including family members, researcher, public health and government",
+        "Feedback of incidental findings and the \u2018right not to know\u2019",
+        "Oversight and approval mechanisms, with consideration of issues raised by increasing use of new techniques of machine learning and analysis of big data",
+        "International and cross-border transfer"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Have an advanced and integrated understanding of legal rules, concepts and principles relevant to health data governance in the context of privacy and data protection law in Australia and comparable jurisdictions",
+        "Be able to critically examine, analyse, interpret and assess the effectiveness of the legal rules, principles and concepts",
+        "Be an engaged participant in debate regarding emerging and contemporary issues in the field, such as appropriate third party (including family member) access to health data, changing boundaries regarding individual care and indirect care (eg. research) uses, feedback of incidental findings, and algorithmic accountability in the health care context",
+        "Have the cognitive and technical skills to independently examine, research and analyse existing and emerging legal issues relating to health data governance in Australia and other comparable jurisdictions",
+        "Have the cognitive and technical skills to generate critical and creative ideas relating to health data governance and to critically evaluate existing governance frameworks",
+        "Have the communication skills to clearly articulate and convey complex information regarding health data governance to relevant specialist and non-specialist audiences."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Class participation",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Research paper\u00a0on topic approved by the subject coordinator. 6000 words",
+            "timing": "5 June 2024",
+            "percentage": "90%"
+        },
+        {
+            "description": "Hurdle requirement:. A minimum of 75% attendance is required.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "March": [
+                {
+                    "Principal coordinator": "Mark Taylor"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "150 hours"
+                },
+                {
+                    "Pre teaching start date": "21 February 2024"
+                },
+                {
+                    "Pre teaching requirements": "Please refer to the Reading Guide on the LMS subject page for confirmation of which resources need to be read and what other preparation is required before the teaching period commences."
+                },
+                {
+                    "Teaching period": "20 March 2024 to 26 March 2024"
+                },
+                {
+                    "Last self-enrol date": "26 February 2024"
+                },
+                {
+                    "Census date": "21 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "26 April 2024"
+                },
+                {
+                    "Assessment period ends": "5 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "March": {
+                "name": [],
+                "email": [
+                    "Mark Taylor",
+                    "law-masters@unimelb.edu.au",
+                    "law.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Specialist materials will be available via the LMS during the pre-teaching period."
+                ]
+            }
+        ],
+        "Links to additional information": [
+            "law.unimelb.edu.au"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "If required, please contactlaw-masters@unimelb.edu.aufor subject coordinator approval.",
+                    "If required, please contactlaw-masters@unimelb.edu.aufor subject coordinator approval."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

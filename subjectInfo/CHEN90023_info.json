@@ -15,6 +15,12 @@
         "The exact content covered in the subject will depend to some extent on the nature of the research project. Topics covered will most probably include literature searches, laboratory safety, risk assessment, data modelling, data analysis, error analysis and report writing.",
         "This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practices Hurdle (EPH)."
     ],
+    "intended learning outcomes": [
+        "Plan and conduct an independent research project in the chemical engineering field",
+        "Communicate their research aims and outcomes orally to an audience of their peers",
+        "Analyse experimental data using appropriate statistical method",
+        "Evaluate and present their findings in a detailed written report"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "describe the fundamental causes of the general circulation of the ocean and its relationship to the general circulation of the atmosphere",
+        "reproduce the governing equations and approximations relevant to the tropical atmosphere and describe the key structural features of the tropical weather and climate",
+        "describe and solve the fundamental equations that explain waves in the ocean and the atmosphere, including equatorial waves and their relationship to tropical weather and climate",
+        "explain and quantify the fundamental processes causing upper-ocean mixing, variations in upper-ocean properties due to air-sea interaction effects, both locally and globally",
+        "communicate clearly the key concepts discussed in this subject",
+        "utilise appropriate numerical methods and computer programming to analyse, visualise and understand real-world weather and climate datasets"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

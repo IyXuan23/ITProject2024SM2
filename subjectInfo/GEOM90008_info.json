@@ -14,6 +14,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Associate the value of spatial information to digital infrastructure management;",
+        "Evaluate fundamental data structures and analysis procedures associated with spatial information;",
+        "Apply the database design process to manage information about infrastructure data;",
+        "Combine advanced skills in the design and use of a spatial database supported by a Geographic Information System on a complex infrastructure project;",
+        "Demonstrate professional skills in ethics and sustainability, communication, and teamwork."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

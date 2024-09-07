@@ -12,6 +12,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the path integral formulation of quantum field theory;",
+        "Calculate the quantum corrections to a wide range of classical field theory processes;",
+        "Apply functional methods to derive Feynman rules from path integrals;",
+        "Derive renormalisation group equations for quantities in general gauge theories;",
+        "Understand how to consistently quantise a non-Abelian gauge theory."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

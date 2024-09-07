@@ -10,6 +10,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Evaluate the data requirements of supply chain configuration and management decisions.",
+        "Use models to support decisions concerning supply chain network design.",
+        "Analytically model inventory decisions such as using economic order quantity and newsvendor frameworks.",
+        "Evaluate and design pricing and revenue management approaches to match supply with demand.",
+        "Evaluate the coordination problem and its mitigation in supply chains."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

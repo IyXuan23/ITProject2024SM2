@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the underlying statistical modelling framework and the limitations of such models.",
+        "Develop statistical models for data coming from diverse settings.",
+        "Appropriately handle data related issues such as missing and incomplete data in a rigorous and justifiable manner.",
+        "Understand how to model dependencies in data such as those that occur in time and spatial domains.",
+        "Pursue further studies in this and related areas, or to be work ready as an applied statistician or a data scientist."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

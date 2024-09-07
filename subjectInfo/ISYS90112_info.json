@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe and apply business process modelling techniques",
+        "Use appropriate business process modelling techniques to best understand a business context and need for an information system",
+        "Design and analyse information systems using a business process' lense",
+        "Document business processes for information systems design and analysis"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -1,0 +1,161 @@
+{
+    "subject name": "CPR, Eye Emergencies & Practical ECC",
+    "subject code": "VETS90039",
+    "subject availability": [
+        "Semester 1 - Online",
+        "Semester 2 - Online"
+    ],
+    "overview": [
+        "Anaesthetising ECC patients can be daunting. Learn how anaesthetists deal with this tricky cohort of patients. The ophthalmology tutorial uses images to increase your confidence in diagnosis and treatment of emergency eye conditions. As well as tutorials on ophthalmic emergencies and anaesthesia, this  subject tackles many of the practical aspects of ECC including but not limited to: CPR, monitoring, imaging, cytology, nutritional support and technical procedures. Interpretation of cytology, clinical pathology, ECGs and radiographs are reviewed and techniques for jugular and arterial catheter placement, chest drain placement, oxygen support, feeding tubes are demonstrated."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Interpret a clinical scenario in order to choose an appropriate anaesthesia and analgesia regime for an emergency or critically ill patient.",
+        "Recall the mechanisms of action and pros and cons of analgesic drug choices for the emergent or critically ill patient.",
+        "Identify correctly and incorrectly performed CPR in a way that complies with the RECOVER guidelines.",
+        "Diagnose common ophthalmic emergencies.",
+        "Interpret clinical findings in order to identify correct treatment plans for common ophthalmic emergencies.",
+        "Formulate a sound nutrition plan for a critically ill patient.",
+        "Identify the correct techniques for procedures commonly used in ECC including but not limited to arterial blood collection; jugular and arterial catheter placement; chest drain placement; nasal and oesophageal tube placement.",
+        "Interpret information provided by monitoring devices and diagnostic tests commonly used in ECC."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "This subject is not available for students admitted in any other courses."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the GC-SAECC Graduate Certificate in Small Animal Emergency and Critical Care"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Self-assessment by multiple choice questions, 10 MCQ for each of 10 tutorials, takes 20 minutes - following each tutorial and one prior to subject completion. 200 minutes (total)",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "50 MCQ open book examination, during exam week. 100 minutes. Hurdle requirement:. To pass this examination, a minimum mark of 70% is required.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Interpretation of 25 case studies assessed by structured questions pertaining to each case - 5 MCQ per case. 250 minutes (total)",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinator": "Elise Boller"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - Online": [
+                {
+                    "Principal coordinator": "Elise Boller"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "36 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "https://study.unimelb.edu.au/find/courses/graduate/graduate-certificate-in-small-animal-emergency-and-critical-care"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "https://study.unimelb.edu.au/find/courses/graduate/graduate-certificate-in-small-animal-emergency-and-critical-care"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Small Animal Critical Care Medicine 2 nd Ed. By Silverstein and Hopper",
+                    "Students will be provided with additional reading material online."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "https://study.unimelb.edu.au/find/courses/graduate/graduate-certificate-in-small-animal-emergency-and-critical-care",
+            "continuing-education@unimelb.edu.au"
+        ]
+    }
+}

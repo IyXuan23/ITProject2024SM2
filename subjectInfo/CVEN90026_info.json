@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate the ability to describe the effects of a range of extreme transient actions (including earthquake ground shaking, accidental impact, blast and strong wind) on a structure and their implications on structural design",
+        "Use hand calculation methods to estimate the effects of the listed extreme transient actions and be able to correctly interpret results and identify their limitations",
+        "Apply numerical techniques with the use of EXCEL spreadsheets as a generic tool to model the effects of transient actions on a building structure for benchmarking results generated from a commercial computational package",
+        "Assess the output to these models to inform the design process for safety and serviceability, and apply the learnt analysis techniques to ensure compliance with performance based design criteria."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

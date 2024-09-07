@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate  basic knowledge of quantum bits, quantum logic, and quantum algorithms underpinning further study in quantum computing and quantum programming.",
+        "Demonstrate an ability to program quantum computers to perform simple logic tasks.",
+        "Explain how quantum computers can be applied to problems in the context of mathematics, computing and finance.",
+        "Describe at a high level the status of current quantum computer technology."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

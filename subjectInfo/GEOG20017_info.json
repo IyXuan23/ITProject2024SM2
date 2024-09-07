@@ -11,6 +11,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Evaluate ethical issues and key debates around data collection, storage, use, and publication.",
+        "Illustrate the principals of visualisation and communication of spatial data and analyses",
+        "Demonstrate a working knowledge of geospatial data structures and formats",
+        "Demonstrate competency in basic geospatial data processing to address problems in geography",
+        "Demonstrate and evaluate how spatial data can be used to inform decisions across human and physical geography."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

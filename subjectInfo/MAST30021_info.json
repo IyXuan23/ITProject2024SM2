@@ -11,6 +11,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "apply the Cauchy-Riemann equations to determine whether a complex-valued function is holomorphic",
+        "use the complex exponential and logarithm to solve algebraic and differential equations",
+        "apply Cauchy\u2019s theorems concerning contour integrals",
+        "apply the residue theorem in a variety of contexts",
+        "understand theoretical implications of Cauchy\u2019s theorems such as the maximum modulus principle, Liouville\u2019s Theorem and the fundamental theorem of algebra"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
@@ -18,6 +25,7 @@
                 "One ofany other Level 2 subject from the School of Mathematics and Statistics"
             ],
             "one of pre-requisite": [
+                "25 credit points of subjects including",
                 [
                     "MAST20026",
                     "MAST10009",

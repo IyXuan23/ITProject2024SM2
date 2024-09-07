@@ -1,0 +1,87 @@
+{
+    "subject name": "Coding for Business Problems",
+    "subject code": "BUSA90537",
+    "subject availability": [
+        "March"
+    ],
+    "overview": [
+        "Solving problems in business often requires computer programming to manipulate, analyse, and visualise data. This component helps students, with little or no background in computer programming, learn how to design and write programs using a high-level procedural programming language, and to solve problems using these skills. Topics such as cyber security, cyber ethics and privacy regarding the collection of individual data will also be discussed."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Read, write, and debug programs to solve business problems.",
+        "Use fundamental programming constructs (sequence, alternation, selection), data structures (arrays, records, lists, associative arrays), abstraction constructs such as functions, and basic algorithms to solve business problems.",
+        "Understand ethical issues regarding privacy and cyber security."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following: MC-BUSANA Master of Business Analytics, GD-BUSANA Graduate Diploma in Business Analytics, GC-BUSANA Graduate Certificate in Business Analytics, PR-BUSANA Professional Certificate in Business Analytics",
+                "Students admitted to the MBA course may enrol in this subject as an elective subject. Students are required to achieve 70% or above in Data Analysis"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Mid-term test. 1 hours",
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Syndicate project. 30 hours (of work required)",
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "description": "Final Examination. 3 hours. Hurdle requirement:. Students are required to pass the final examination to pass the subject.",
+            "timing": "Week 9",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "March": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "11 March 2024 to  3 May 2024"
+                },
+                {
+                    "Last self-enrol date": "21 March 2024"
+                },
+                {
+                    "Census date": "5 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "19 April 2024"
+                },
+                {
+                    "Assessment period ends": "10 May 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

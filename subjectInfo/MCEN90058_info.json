@@ -1,0 +1,123 @@
+{
+    "subject name": "Industrial Engineering",
+    "subject code": "MCEN90058",
+    "subject availability": [
+        "Semester 1 - Online"
+    ],
+    "overview": [
+        "Since the first industrial revolution, industrial engineering has evolved as a major engineering and management discipline, the effective utilization of which has contributed to our increased standard of living through increased productivity, quality of work, and improvements in the working environment. This subject is being introduced to offer students an overview of industrial engineering as well as its core principles and approaches, allowing a deeper understanding of the role of industrial engineers in society and organisations.",
+        "This subject introduces concepts and most common approaches of industrial engineering, allowing students a wider view of their role. Topics covered are grouped in four modules: (1) history and fundamental concepts of industrial engineering; (2) principles and techniques of lean production; (3) facility planning and production flow design; and, (4) work measurement and ergonomics. A diversified set of classroom and industry activities help to consolidate the concepts and illustrate their applicability, preparing students for the upcoming subjects of the course and enabling a wider view of industrial engineering."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "1. Explain the development of industrial engineering and current approaches;",
+        "2. Analyse the role of industrial engineers in society and organizations;",
+        "3. Apply Industrial Engineering main concepts and improvement approaches;",
+        "4. Design of production flows and factory layouts;",
+        "5. Apply work measurements methods to improve the operation efficiency;",
+        "6. Analyse the factors that affect the ergonomic design of jobs, tools and equipment, and the workplace."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Mid semester test. Intended Learning Outcomes (ILOs) 1 - 3 are addressed in this assessment.. 1 hours",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group presentation, 20-25 minutes, 5 minutes each for a goup of 4-5. ILOs 2 and 3 are addressed in this assessment.. 20-25 minutes (total)",
+            "timing": "From Week 6 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual written report. ILOs 2-5 are addressed in this assessment.. 1500 words",
+            "timing": "Week 13",
+            "percentage": "30%"
+        },
+        {
+            "description": "Final written exam. ILOs 4-6 are addressed in this assessment.. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Principal coordinator": "Guilherme Luz Tortorella"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "48 hours of lectures"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "guilherme@"
+                ],
+                "email": [
+                    "luztortorella@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

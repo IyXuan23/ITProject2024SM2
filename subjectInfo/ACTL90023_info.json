@@ -9,6 +9,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Recognise major types of non-life insurance data and their main characteristics.",
+        "Demonstrate a depth of knowledge in linear regression methods, regression splines and smoothing splines.",
+        "Demonstrate basic understanding in various statistical learning models that include classification methods, resampling methods, generalised additive models and support vector machines.",
+        "Use computer software R to apply various statistical learning models for insurance related applications.",
+        "Apply basic linear model selection and regularisation techniques when conducting linear regression analyses.",
+        "Interpret the results of data analytics conducted on real insurance data",
+        "Compare benefits/drawbacks of competing models and methods, relevant to real problems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

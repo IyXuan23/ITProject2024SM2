@@ -1,0 +1,116 @@
+{
+    "subject name": "Labour Economics",
+    "subject code": "ECON40008",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This is an advanced subject in labour economics. Topics to be covered will include: overview of labour market outcomes in Australia; labour supply (including labour force participation, hours of work, and the effects of public policy); labour demand; human capital; labour market discrimination; unemployment; wage determination; earnings distributions; impact of unions. Other topics may include labour market flows (including the analysis of quits and layoffs), immigration, and employment structures within firms. In each topic relevant theory and empirical research (especially relevant Australian studies) will be examined."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the fundamental features of a labour market, its operation, and role in the economy;",
+        "Apply relevant microeconomic and macroeconomic theory to explain the main potential determinants of labour market outcomes;",
+        "Critically evaluate empirical evidence on the operation of labour markets, and on the main determinants of labour market outcomes;",
+        "Formulate simple theoretical models of the operation of the labour market, and design strategies for empirically testing theories"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ECOM40006",
+                    "ECON40001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "BH-COM Bachelor of Commerce (Degree with Honours)",
+                "Economics specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ECON90013"
+    ],
+    "assessments": [
+        {
+            "description": "One individual essay. 2000 words",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "One in class presentation (individual) in an individually allocated time. 15 minutes",
+            "timing": "From Week 3 to Week 11",
+            "percentage": "5%"
+        },
+        {
+            "description": "Three problem sets (group), 6 pages each due in weeks 5, 8 and 11. 18 pages",
+            "timing": "From Week 5 to Week 11",
+            "percentage": "15%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours. Hurdle requirement:. To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Lawrence Uren"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "170 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "luren@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

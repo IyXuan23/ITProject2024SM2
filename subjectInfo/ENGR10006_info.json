@@ -12,6 +12,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "ILO 1 - Demonstrate a conceptual understanding of the mathematics, numerical analysis, statistics, and computer and information sciences which underpin the engineering discipline.",
+        "ILO 2 - Develop and construct mathematical, physical and conceptual models of situations, systems and devices, and utilise such models for purposes of analysis and design.",
+        "ILO 3 - Apply established engineering methods, techniques, tools and resources to complex engineering problem solving.",
+        "ILO 4 - Apply systematic approaches to the conduct and management of engineering projects.",
+        "ILO 5 - Demonstrate competency in current tools for analysis, simulation, visualisation, synthesis and design, particularly computer-based tools and packages."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

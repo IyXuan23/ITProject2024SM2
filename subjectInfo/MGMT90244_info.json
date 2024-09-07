@@ -7,6 +7,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Develop an organisation's vision, goals and ethical framework for how to use business analytics more effectively",
+        "Identify what changes are needed within an organisation to achieve the vision and goals",
+        "Drive change processes under the ethical framework that will facilitate the implementation of the vision and goals in an organisation",
+        "Build and lead a team of data scientists that can support the organisation's vision and goals around business analytics usage",
+        "Manage complex analytics projects and relevant stakeholders within an organisation",
+        "Communicate effectively (through written, oral and visual channels) the role that business analytics can play when proposing new projects, influencing colleagues, and reporting data-based insights that inform managerial decision making"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

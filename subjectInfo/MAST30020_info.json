@@ -12,6 +12,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Formulate the fundamentals of modern probability theory;",
+        "Interpret univariate and multivariate probability distributions;",
+        "Construct general conditional expectations;",
+        "Describe and compare different modes of convergence of random variables and distributions;",
+        "Evaluate different approaches to proving basic limit theorems of probability theory and their uses in statistical applications."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

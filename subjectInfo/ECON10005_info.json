@@ -10,6 +10,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Graph economic data using methods that facilitate analysis.",
+        "Explain concepts relevant for summarising and interpreting data.",
+        "Explain how the concepts of random variables and probability distributions are useful for drawing inferences.",
+        "Explain the concepts of population, samples and sampling distributions.",
+        "Estimate unknown population quantities and test hypotheses about them.",
+        "Conduct simple regression analysis to model the relationship between variables and draw inferences about relationships.",
+        "Apply common analytical techniques relevant for financial decision making."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

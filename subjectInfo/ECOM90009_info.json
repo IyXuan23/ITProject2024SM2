@@ -10,6 +10,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain how statistical theory applies to decision-making;",
+        "Explain how data is sampled, collected and presented using a range of summary measures;",
+        "Construct and analyse relevant measures of the random variation of data;",
+        "Construct and explain the implications of hypothesis tests and estimates of regression equations;",
+        "Explain some forecasting methods;",
+        "Evaluate evidence to inform decision making."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

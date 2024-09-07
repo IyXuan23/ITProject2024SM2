@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain where and how their data analytics work can add value to the business environment and strategy",
+        "Source, interpret, evaluate and prepare data for modelling",
+        "Use judgment to select appropriate predictive analytic techniques for a given business problem",
+        "Apply predictive analytic techniques to solve estimation and classification problems",
+        "Evaluate and compare performance of different models",
+        "Communicate findings to a range of audiences"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

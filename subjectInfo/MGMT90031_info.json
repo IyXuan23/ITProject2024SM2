@@ -10,6 +10,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the role of projects in organisations and identify the various roles and responsibilities of the project team;",
+        "Explain the distinguishing characteristics of projects and consequent managerial challenges;",
+        "Describe the uses and limitations of project selection models;",
+        "Develop a formal project plan and explain its purpose, content and readership;",
+        "Use various techniques for scheduling a project and balancing the resource requirements;",
+        "Describe, apply and critique techniques for measuring project progress; and",
+        "Effectively audit a project and discuss the actions taken by a project manager as the project draws to a close."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
@@ -79,7 +88,7 @@
         {
             "Semester 2": [
                 {
-                    "Coordinators": "Bella Gu and Leopold Ried"
+                    "Coordinator": "Leopold Ried"
                 },
                 {
                     "Mode of delivery": "On Campus (Parkville)"
@@ -122,10 +131,10 @@
         {
             "Semester 2": {
                 "name": [
-                    "Dr Bella Gu"
+                    "Dr Leopold Ried"
                 ],
                 "email": [
-                    "bella.gu@unimelb.edu.au"
+                    "leopold.ried@unimelb.edu.au"
                 ]
             }
         }

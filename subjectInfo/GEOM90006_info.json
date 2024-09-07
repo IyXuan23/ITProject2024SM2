@@ -14,6 +14,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Distinguish and characterise spatial patterns and processes captured in infrastructure and environmental data;",
+        "Design and apply spatial analyses appropriate to given spatial processes, for example, urban sustainability and environmental management;",
+        "Implement and test data structures and analysis procedures for spatial data in a transparent, collaborative, reusable and replicable manner;",
+        "Interpret and critically evaluate a computational implementation of a spatial analysis project."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

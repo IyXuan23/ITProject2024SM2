@@ -9,6 +9,17 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "determine limits of functions of one or several variables",
+        "apply theorems about continuity to investigate functions",
+        "determine convergence and divergence of sequences and series",
+        "sketch and manipulate hyperbolic and inverse hyperbolic functions",
+        "evaluate integrals using integration by parts and substitution, in particular using trigonometric and hyperbolic substitutions, and partial fractions",
+        "find solutions of first and second order ordinary differential equations, and use these equations to model some physical and biological systems",
+        "compute Taylor polynomials of functions of one variable",
+        "calculate partial derivatives and gradients for functions of two or more\u00a0variables, and use these to find maxima and minima",
+        "write a simple mathematical proof"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

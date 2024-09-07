@@ -20,6 +20,13 @@
         "",
         ""
     ],
+    "intended learning outcomes": [
+        "Complete a chemical engineering feasibility study for a proposed product/process",
+        "Conduct a process development assessment and mass and energy balances to determine the overall scope and intent of the project",
+        "Carry out the integrated process and equipment design for an industrial chemical process, which is initially poorly-defined and for which much of the design data is not available",
+        "Function as part of a team and manage their time effectively",
+        "Apply all of the hard and soft skills acquired in earlier units in an integrated way to develop a full chemical plant design package"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

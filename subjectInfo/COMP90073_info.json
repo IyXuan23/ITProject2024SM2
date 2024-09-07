@@ -12,6 +12,14 @@
         "The subject will first introduce the types of information leakage that can occur under several threat models and explore methods for protecting sensitive content during data analysis. The second part of the subject will introduce methods from machine learning that are widely used for cyber security analysis. Specific unsupervised machine learning techniques will be covered in more detail, which include methods for anomaly detection, alarm correlation and intrusion detection. The third part of the subject will introduce some of the theoretical challenges and emerging issues for security analytics research, based on recent trends in the evolution of security threats.",
         "Indicative examples of the emerging challenges and issues that will be studied are privacy\u2010preserving analytics, adversarial machine learning, concept drift and new applications in monitoring critical infrastructure."
     ],
+    "intended learning outcomes": [
+        "Evaluate the suitability of different types ofmonitoring data for detecting security incidents",
+        "Describe and implement a range of pattern recognition and machine learning algorithms for use in security analytics",
+        "Select algorithms appropriate to a given security analysis task",
+        "Apply pattern recognition and machine learning techniques to non\u2010trivial security analysis tasks",
+        "Evaluate computational techniques for security analytics to solve real\u2010world problems, based on their accuracy and efficiency",
+        "Discuss theoretical challenges and emerging trends for security analytics research"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

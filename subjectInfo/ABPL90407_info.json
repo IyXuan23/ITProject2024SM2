@@ -11,6 +11,17 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Identify suitable data visualisations and representations of multidimensional  data",
+        "Plan and manage the acquisition and storage of geospatial information",
+        "Identify and source geospatial information",
+        "Analyse the quality and relevance of geospatial information to a research question",
+        "Develop a research design that spans from appropriate data collection and analysis methods to representation and communication of results",
+        "Choose appropriate representation methods",
+        "Conduct thematic mapping of aggregated and disaggregated datasets",
+        "Prepare reports and presentations that use complex data to interpret socio-economic and/or physical changes",
+        "Be competent in extracting and evaluating research evidence from spatial information as a basis for practice implementation"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

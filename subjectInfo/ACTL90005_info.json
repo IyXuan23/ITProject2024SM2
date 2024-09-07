@@ -11,6 +11,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Define various assurance and annuity contracts, and develop formulae for the means and variances of the present values of the payments under these contracts, assuming constant deterministic interest.",
+        "Define and use assurance and annuity functions involving two lives.",
+        "Describe and use methods of projecting and valuing cashflows that are contingent upon multiple transition events and multiple decrement events.",
+        "Define the gross random future loss and calculate gross premiums and reserves of assurance and annuity contracts.",
+        "Define and calculate death strain at risk, expected death strain, actual death strain, and mortality profit for a single or a portfolio of insurance and annuity policy policies.",
+        "Project expected future cashflows and perform profit testing for various insurance policies.",
+        "Establish non-unit reserves to eliminate (\u201czeroise\u201d) future negative cashflows for unit-linked contracts."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

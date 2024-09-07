@@ -12,6 +12,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Evaluate the nature of deterministic mathematical modelling, including model formulation, selection of appropriate mathematical formalism, solution strategies and interpretation of results;",
+        "Appraise contexts in which systems of autonomous ordinary differential equations or quasilinear first-order partial differential equations provide relevant models, and describe the general features of such models and what may be learned from them;",
+        "Investigate and classify critical points in two-dimensional autonomous ODE problems, and be able to infer qualitative behaviour in the phase plane."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

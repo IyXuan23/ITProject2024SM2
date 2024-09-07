@@ -1,0 +1,171 @@
+{
+    "subject name": "Engineering Management Capstone",
+    "subject code": "ENGM90016",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject provides an opportunity for students to work in teams to integrate concepts, principles, models and theories related to engineering and/or project management principles and practice, contract and procurement strategies, finance and management strategy. It will make use of business cases, or simulation of business cases that are relevant to decision making and practice in the engineering management profession."
+    ],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Work in teams to formulate business cases and proposals for engineering projects to the senior levels of organisations such as the Board of Directors",
+        "Identify key issues encountered in engineering management and/or engineering projects, evaluate among alternative engineering solutions and make recommendations based on best possible project",
+        "Devise and apply decision criteria to economic and financial analysis outcomes, and use them to make informed decisions as well as to make estimates in budgets",
+        "Analyse information and organise tasks to create a complete project management plan which may include but not limited to scoping, task definition, cost modelling, budgeting, risk management, procurement, schedule, sequencing of tasks and control measures",
+        "Demonstrate the ability to comply with legal and other compliance frameworks in the engineering management process"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students must have completed total of 50 points of subjects from the specialisation and business electives."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Progress reports for group project equivalent. 2 group reports equivalent to 200 words each.  (8 hours for each report) ILOs 1 and 2 are addressed in this assessment.. 8 hours",
+            "timing": "Weeks 6 and 9",
+            "percentage": "5%"
+        },
+        {
+            "description": "20 minute presentation with 5 minutes for questions and answers with a workload equivalent to 750 words. ILOs 1 and 2 are addressed in this assessment.. 20 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Individual Assignment, report with a workload equivalent to 1500 words. ILOs 2, 3 and 4 are addressed in this assignment.. 40 hours (of work required)",
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "description": "Group Project (Case or Simulation) groups of 4 with a workload equivalent to 1500 words per student. (40-45 hours per student) ILOs 1-5 are addressed in this assessment.. 40-45 hours",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "description": "Individual reflection on the group project (750 words). ILOs 1-3 are addressed in this assessment. 20 hours",
+            "timing": "During the examination period",
+            "percentage": "15%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Felix Hui"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours (36 hours workshops per semester)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Felix Hui"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours (36 hours workshops per semester)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Felix Hui"
+                ],
+                "email": [
+                    "kin.hui@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Dr Felix Hui"
+                ],
+                "email": [
+                    "kin.hui@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ]
+    }
+}

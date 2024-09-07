@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Use counterfactuals (potential outcomes) to define precisely causal effects;",
+        "Describe the differences between association and causation, and the fundamental assumptions required for causation;",
+        "Construct causal diagrams and use them to identify potential sources of bias;",
+        "Implement causal inference methods, using software, for single time point and longitudinal exposures, and for mediation analyses;",
+        "Interpret results of analyses in light of the causal assumptions required;",
+        "Effectively communicate results of causal analyses in language suitable for a clinical or epidemiological journal."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

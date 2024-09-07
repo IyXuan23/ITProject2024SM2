@@ -10,6 +10,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "apply advanced quantum mechanics principles in a range of contexts of relevance in modern physics;",
+        "use the Hilbert-space formalism of modern quantum mechanics, with bra-ket and matrix notations, and symmetries and related conservation laws on the solution of graduate-level quantum mechanics problems;",
+        "demonstrate the use of density matrices for single and joint Hilbert spaces;",
+        "demonstrate the difference between pure and mixed states, and entanglement and their relevance in quantum mechanics;",
+        "understand the basic formalism of path integrals;",
+        "apply perturbation methods to physical systems and thus predict measurable outcomes; and",
+        "apply the concepts of scattering theory."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

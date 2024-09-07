@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "demonstrate an understanding of the fundamental concepts and techniques for modelling, analysing, and solving problems that involve sequential decision making under uncertainty;",
+        "demonstrate an understanding of the theory that underlies the methodologies that have been developed to solve problems in stochastic optimisation, from a rigorous mathematical perspective;",
+        "apply specific techniques such as approximate dynamic programming, robust optimisation, and simulation-based optimisation to solve problems in stochastic optimisation;",
+        "have the ability to develop and analyse decision making models in real-world situations where stochastic optimisation can be applied.",
+        "pursue further studies in stochastic optimisation and related areas."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

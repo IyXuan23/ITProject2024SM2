@@ -13,6 +13,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "1. Gain a basic understanding of the computational representation of physical, linear and multi\u2010domain systems and the numerical approaches appropriate to the systems",
+        "2. Understand the numerical complexity of programs and its consequences in the resulting computational outcomes",
+        "3. Have the capability to numerically regress data",
+        "4. Gain basic understanding of the role of computational techniques in the practice of professional engineering, including in the design, analysis and validations of physical systems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

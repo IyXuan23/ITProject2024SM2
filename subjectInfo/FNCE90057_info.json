@@ -1,0 +1,113 @@
+{
+    "subject name": "Ethics In Finance",
+    "subject code": "FNCE90057",
+    "subject availability": [
+        "June - Online"
+    ],
+    "overview": [
+        "Ethical practices instil a public trust in the fairness of financial markets and transactions, allowing them to function efficiently. Ethical practices by finance and investment professionals benefit all market participants and stakeholders and lead to increased investor confidence in global capital markets. The perspectives acquired in this subject should be useful to students in their chosen finance profession as this subject presents a framework for ethical conduct in the investment profession by focusing on the CFA Institute Code of Ethics and Standards of Professional Conduct. Citing and discussing examples of the financial scandals that have shaken public confidence in the ethics of financial market participants, this subject explains the importance of ethics in the operation of financial institutions and in the personal conduct of finance professionals."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Synthesise intellectual theories of ethics and apply these to an analysis and resolution of ethical dilemmas in finance;",
+        "Critically evaluate ethical and professional conduct standards in finance through an examination of topical issues related to ethics in investment decisions, financial markets and financial services;",
+        "Analyse ethical principles in relation to the financial theory of the firm including issues related to stakeholder theory, agency theory, corporate social responsibility and international businesses;",
+        "Explain standards of professional conduct and evaluate practices and procedures designed to prevent violations of ethical and professional financial market trading practices."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "MC-FINANCE Master of Finance",
+                "MC-FINENH Master of Finance (Enhanced)",
+                "GD-FINANCE Graduate Diploma in Finance",
+                "Postgraduate Diploma in Finance"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "FNCE90056"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Wiki-based individual assignment. Due by the end of week 5 (of 6). 2500 words",
+            "timing": "Week 5",
+            "percentage": "50%"
+        },
+        {
+            "description": "End-of-semester final examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "June - Online": [
+                {
+                    "Principal coordinator": "Paul Kofman"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "This intensive subject is taught over 36 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "24 June 2024 to 27 July 2024"
+                },
+                {
+                    "Last self-enrol date": "1 July 2024"
+                },
+                {
+                    "Census date": "5 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "26 July 2024"
+                },
+                {
+                    "Assessment period ends": "4 August 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "A Matter of Trust \u2013 The Practice of Ethics in Finance, by Paul Kofman and Clare Payne, Melbourne University Press, 2018.The Standards of Practice Handbook, 11th Edition, 2014, CFA Institute."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "subject name": "Latin 6",
+    "subject code": "CLAS30009",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is designed for students who commenced the Latin stream with no prior knowledge of the language and have completed Latin 1, Latin 2, Latin 3, and Latin 4, and (preferably) Latin 5. Students examine Latin poetry through a specific genre, such as lyric poetry or satire. The subject will address the key elements of Latin poetic style, the nature of the first person poetic persona, and the involvement of the text with contemporary political and social ideology. In addition, work is undertaken on grammar and syntax to revise, consolidate and extend students\u2019 knowledge of the language. Students who successfully complete this subject should be able to read Latin poetry, identify its stylistic features, and analyse its central themes and relationship to conventional Roman culture."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Be familiar with the style of Roman lyric",
+        "Understand the cultural and production contexts of the text",
+        "Have consolidated their knowledge of grammar and syntax and extended their vocabulary",
+        "Be able to critically analyse the styles and themes of Latin lyric and to communicate that analysis clearly and concisely."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "CLAS10012",
+                    "CLAS20029"
+                ],
+                [
+                    "CLAS10014",
+                    "CLAS20031"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CLAS20026"
+    ],
+    "assessments": [
+        {
+            "description": "Linguistic analysis, equivalent to 750 words, in a week selected by the student in consultation with the lecturer. 750 words (equivalent)",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "A textual analysis presentation. 500 words (equivalent)",
+            "timing": "Week 8",
+            "percentage": "15%"
+        },
+        {
+            "description": "An assessment test. 1000 words (equivalent)",
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "An essay. 1750 words",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Andrew Turner"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours - 1 x 1 hour lecture and 1 x 2 hour seminar per week for 12 weeks"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "ajturner@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Horace:Odes Book II,",
+                    "J.Morwood, A Latin Grammar, Oxford University Press, 1999."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "http://shaps.unimelb.edu.au/classics-archaeology"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

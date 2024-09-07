@@ -10,6 +10,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Euler characteristic and the topological classification of surfaces;",
+        "how surfaces arise as complex algebraic curves.",
+        "Riemannian metrics and curvature for surfaces;",
+        "the Gauss-Bonnet theorem;"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

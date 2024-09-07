@@ -10,10 +10,21 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Interpret basic financial statements and explain how they link together;",
+        "Explain and apply ratio analysis in valuation;",
+        "Explain how fundamental values (or &#39;intrinsic values&#39;) are estimated;",
+        "Apply, evaluate and compare current technologies to value firms using financial information;",
+        "Explain business activities that determine value, and identify &#39;value created for shareholders&#39;;",
+        "Explain the funding alternatives available to firms;",
+        "Evaluate the consequences of mergers and acquisitions;",
+        "Describe the nature and role of derivatives in risk management."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
             "necessary pre-requisite": [
+                "Completion of a minimum of 100 credit points of study, inclusive of",
                 "Completion of a minimum of 100 credit points of study, inclusive of",
                 [
                     "ECON90033",

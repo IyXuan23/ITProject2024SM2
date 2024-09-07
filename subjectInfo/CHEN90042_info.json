@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply the principles of heat transfer to solve heat transfer problems, particularly those involving two phase systems",
+        "Assess quantitatively the performance of heat exchanger and evaporation equipment",
+        "Apply the principles of mass transfer to solve mass transfer problems and to membrane separation processes",
+        "Describe the concepts of equilibrium stage and continuous contactor analysis and apply these concepts to distillation and gas absorption problems",
+        "Assess quantitatively the performance of conventional distillation, gas absorption, membrane and cooling tower equipment",
+        "Design heat exchangers, cooling towers and separation equipment"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
@@ -26,7 +34,7 @@
             "option": "Option 2",
             "necessary pre-requisite": [
                 [
-                    ""
+                    "CHEN20009"
                 ]
             ],
             "one of pre-requisite": [],
@@ -35,7 +43,7 @@
     ],
     "corequisites": "None",
     "non-allowed subjects": [
-        ""
+        "CHEN30005"
     ],
     "assessments": [
         {

@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply the principles of actuarial modelling",
+        "Demonstrate how to estimate transition intensities depending on age, exactly or using the census approximation",
+        "Test crude estimates for consistency with a standard table or a set of graduated estimates, and illustrate the process of graduation",
+        "Outline the approaches to forecasting mortality rates, including the Lee-Carter, age-period-cohort and p-spline regression models, and, using a computer package, apply these models to a mortality dataset",
+        "Appraise and apply elementary principles of machine learning",
+        "Employ prerequisite mathematical and statistical concepts in solving problems on the above topics"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

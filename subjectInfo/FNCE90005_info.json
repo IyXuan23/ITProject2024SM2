@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Compare the various dynamics of stock price and interest rate models;",
+        "Explain the derivation of key option pricing models including the Cox-Ross-Rubinstein Binomial model and the Black-Scholes model;",
+        "Analyse the use of arbitrage pricing techniques to value other classes of derivative securities including forwards, futures, swaps and interest rate derivatives;",
+        "Analyse the theoretical limitations of key pricing models and on practical difficulties which arise in their implementation.",
+        "Use statistical software to compute prices of financial instruments according to key pricing models such as the Black-Scholes model.",
+        "Interpret and analyse market data using statistical software to generate inputs for pricing models and to value derivative portfolios."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Develop a research question to address a financial issue;",
+        "Determine the data necessary data to conduct the research;",
+        "Access and manipulate common financial databases using SAS and R;",
+        "Undertake a research project;",
+        "Effectively communicate the results both orally and in writing"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

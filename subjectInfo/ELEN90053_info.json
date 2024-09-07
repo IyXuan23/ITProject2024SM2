@@ -28,6 +28,12 @@
         "Test and measurement;",
         "Sensors."
     ],
+    "intended learning outcomes": [
+        "Apply practical knowledge of a range of standard electrical and electronic subsystems",
+        "Quantitatively analyse and design the behaviour of standard electrical and electronic subsystems",
+        "Integrate standard electrical and electronic subsystems",
+        "Select, design, implement and test a range of standard electrical and electronic subsystems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

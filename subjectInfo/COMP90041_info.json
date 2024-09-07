@@ -24,6 +24,13 @@
         "Interfaces",
         "Generics"
     ],
+    "intended learning outcomes": [
+        "Apply the concepts of object-oriented design to the solution of computational problems",
+        "Read and understand a Java program of small to medium complexity",
+        "Write a Java program of small to medium complexity, which contains a number of classes with console user interface",
+        "Be able to apply a range of data structures and algorithms in problem solving",
+        "Understand the process and methods of software design and implementation using Java programming language"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

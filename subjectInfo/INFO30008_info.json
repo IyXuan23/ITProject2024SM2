@@ -9,6 +9,14 @@
         "As the 25pt capstone for the Digital Technologies Major, this subject creates an opportunity for students to work as an independent team to develop and evaluate a novel proposal for a new interactive technology or new application of existing technologies. The group will work under a supervisory framework and be given regular briefings on their activities and expected progress. Using knowledge and techniques from INFO10003 Fundamentals of Interaction Design, the group will identify and analyse an existing situation of use, develop a \u2018design concept\u2019, and a digital prototype to realise part of that concept. Using knowledge and techniques from INFO20004 Usability Evaluation Methods, the group will conduct an evaluation of their prototype and interpret the resulting findings. Students will learn how to develop a technology innovation proposal for their design concept that builds on evaluation findings to mount a business case."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Be able to identify, formulate and communicate a high-level design concept for an innovative interactive technology",
+        "Be able to devise a clear set of requirements and opportunities for new digital technologies in a specific real-world context",
+        "Be able to develop a detailed and viable project plan for the full life-cycle of design-build-evaluate of a digital technology",
+        "Develop experience of executing a digital technology prototyping project",
+        "Be able to apply and adapt previously learned evaluation methods to a specific digital project and to determine to extent to which requirements have been met",
+        "Develop and construct a persuasive case for the full development of a design based on the demonstrated evidence of a prototyping project"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

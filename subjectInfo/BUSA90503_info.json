@@ -22,6 +22,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply data analytics skills to the context of finance.",
+        "Understand the key challenges and appreciate the ambiguities that may be present in solving finance problems.",
+        "Possess literacy in the technical aspects of finance."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

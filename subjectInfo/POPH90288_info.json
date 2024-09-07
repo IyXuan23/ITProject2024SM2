@@ -13,10 +13,18 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply the knowledge and skills learned from coursework by participating in a substantive, collaborative project in health and medical research;",
+        "Work with collaborators to translate a research question into a statistical question that can be answered by analysing available data;",
+        "Develop a statistical analysis plan and execute the analyses proposed in that plan using existing statistical software;",
+        "Interpret and explain the results of a statistical analysis of data including contextualising them by comparison with the published results of other studies; and",
+        "Disseminate results in the form of an oral presentation and a written report aimed at colleagues in health and medical research who do not have specialised knowledge of statistics."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
             "necessary pre-requisite": [
+                "A minimum of 50 credit points of study, inclusive of:",
                 [
                     "MAST90102",
                     "MAST90101"

@@ -14,6 +14,12 @@
         "Circuit theory for power system analysis, three phase-phase circuits, power flow and maximum power transfer, per-unit system.",
         "Please view this video for further information:Introduction to Power Engineering"
     ],
+    "intended learning outcomes": [
+        "Describe theory of power flow in electrical networks;",
+        "Apply physical principles, fundamental abstractions and modelling techniques in the analysis of power system components and devices, such as lines, power transformers, motors, generators and other loads;",
+        "Develop and demonstrate electrical engineering laboratory skills through simulation of practical real life electrical power systems using software tools, and analyse the performance and characteristics of each of its components;",
+        "Compare the performance of physical power systems obtained through simulation with theoretical analysis."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

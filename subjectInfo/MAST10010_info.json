@@ -10,6 +10,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the importance of random samples and experimental design in scientific research;",
+        "Understand some fundamental concepts of statistical inference relating to confidence intervals and hypothesis testing;",
+        "Use quantitative and graphical methods to describe a set of data;",
+        "Develop expertise in the use of some common statistical techniques;",
+        "Become familiar with a major statistical computing package."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -10,6 +10,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Fundamental concepts of number systems: number line and Cartesian plane, interval and set notation, use of logic",
+        "Algebra: simplification, expansion and factorisation of algebraic expressions, solution of equations, transposition of formulae",
+        "Functions: graphs of polynomials of up to and including degree 3, and exponential and logarithm functions, including transformations",
+        "Introduction to mathematical modelling: linear and non-linear models and regression methods",
+        "Sequences and series and applications to financial mathematics",
+        "Statistics: univariate and bivariate data analysis, introduction to experimental design",
+        "Probability: probability rules, discrete random variables, binomial and normal distributions",
+        "Calculus: derivatives - product, quotient and chain rules for differentiation; integration of simple functions; applications including rates of change, extrema of graphs, solution of simple differential equations and areas under graphs"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

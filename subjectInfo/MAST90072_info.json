@@ -10,6 +10,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply statistical techniques from experimental design and data collection to present a report to a possibly non-specialist audience;",
+        "Recognise and apply different statistical techniques used in biotechnology;",
+        "Identify statistical processes and associated resources required to effectively manage projects;",
+        "Demonstrate competence in using major statistical computing package."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -10,6 +10,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Be familiar with the definitions and basic theory of graphs;",
+        "Be able to implement standard algorithms of graph theory;",
+        "Be able to prove simple results in graph theory."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
@@ -17,6 +22,7 @@
                 "One ofany other Level 2 subject from the School of Mathematics and Statistics"
             ],
             "one of pre-requisite": [
+                "a minimum of 25 credit points of subjects, specifically inclusive of:",
                 [
                     "MAST10009",
                     "MAST20026",

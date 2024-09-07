@@ -19,6 +19,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Read, write, and debug programs to solve business problems.",
+        "Use fundamental programming constructs (sequence, alternation, selection), data structures (arrays, records, lists, associative arrays), abstraction constructs such as functions, and basic algorithms to solve business problems.",
+        "Understand ethical issues regarding privacy and cyber security."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

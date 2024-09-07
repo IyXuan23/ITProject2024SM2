@@ -12,11 +12,19 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate detailed, evidence based knowledge and interpretation of current challenges facing agricultural production systems",
+        "Be able to articulate a 'systems-thinking' approach to agriculture, and to the sustainability of agricultural production systems",
+        "Be able to gather and interpret evidence, in order to identify options for addressing problems",
+        "Demonstrate the ability to collaborate effectively with colleagues and other stakeholders to design potential improvement to current challenges facing agricultural production systems",
+        "Articulate and demonstrate the principles of reflective and ethical professional practice, to guide students in their future study or employment"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
             "necessary pre-requisite": [],
             "one of pre-requisite": [
+                "Completion of at least 175 credit points",
                 [
                     "AGRI20038",
                     "AGRI20042"
@@ -30,6 +38,7 @@
         {
             "option": "Option 2",
             "necessary pre-requisite": [
+                "Completion of at least 175 credit points",
                 [
                     "AGRI20026",
                     "AGRI20036",

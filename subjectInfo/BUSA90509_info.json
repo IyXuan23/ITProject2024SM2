@@ -1,0 +1,172 @@
+{
+    "subject name": "Executive Management 5",
+    "subject code": "BUSA90509",
+    "subject availability": [
+        "Summer Term"
+    ],
+    "overview": [
+        "This subject contains four components, as described below.",
+        "Finance II:",
+        "This component builds on the Finance I component in the subject, Executive Management 1, and is designed to provide students with advanced knowledge of financial management. This knowledge provides the basis for funding a firm\u2019s investments and using its resources efficiently. The topics covered include:",
+        "Risk management",
+        "Real options",
+        "Capital investments in foreign markets",
+        "Determinants of capital structure",
+        "Corporate payout policy",
+        "Business Strategy:",
+        "Business Strategy has a number of primary aims:",
+        "to provide the students with an understanding of the primary roles and responsibilities of a general manager in formulating business strategies, and in building and sustaining competitive advantage;",
+        "to provide students with an appreciation of the fundamental issues involved in integrating and coordinating the activities of different functional areas, such as marketing, operations, management, accounting, human resource management and finance;",
+        "to introduce the frameworks and tools commonly used in developing and assessing business strategies; and to develop the decision-making skills of the students from the perspective of top management",
+        "Operations:",
+        "In competitive global and dynamic environments, companies face increasing pressures to exceed customer expectations along multiple performance measures, such as cost, quality, flexibility and innovativeness. To outperform their competitors, firms need to build a sustainable competitive advantage around these capabilities. The focus of the component is to highlight how firms should design, manage and continually improve their business and operational processes to better manage the mismatch between supply and demand. It aims at providing the core concepts in operations that are essential for appreciating how operational capabilities can help organisations achieve sustainable competitive advantage. This component provides a logical and rigorous approach to plan and control process structure and managerial levers to achieve desired business process performance.",
+        "Seminar V:",
+        "This Executive MBA Seminar Series complements the mainstream components of the module, and is dedicated to contemporary issues and global best practice development in the Finance II, Market Access Strategy and Managing Human Capital fields."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Be able to identify the risks arising from a firm's operating, investing, and financing activities and",
+        "understand the techniques for managing those risks",
+        "Understand the role of real options in capital budgeting decisions",
+        "Understand how to incorporate sovereign risk into capital budgeting decisions",
+        "Be able to calculate cost of capital for complex situations",
+        "Understand factors that affect a firm's capital structure"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90505",
+                    "BUSA90506"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-BAEV Master of Business Administration"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Finance II: Exercise sets. 600 words (equivalent)",
+            "timing": "Staggered throughout module",
+            "percentage": "15%"
+        },
+        {
+            "description": "Finance II: Syndicate assignment. 800 words (equivalent)",
+            "timing": "Mid-way in module",
+            "percentage": "15%"
+        },
+        {
+            "description": "Finance II: Final examination (1500 words). 90 minutes. Hurdle requirement",
+            "timing": "At end of module",
+            "percentage": "70%"
+        },
+        {
+            "description": "Business Strategy: Individual assignment. 500 words",
+            "timing": "First half of module",
+            "percentage": "10%"
+        },
+        {
+            "description": "Business Strategy: Syndicate assignment. 1000 words (equivalent)",
+            "timing": "2nd half of module",
+            "percentage": "30%"
+        },
+        {
+            "description": "Business Strategy: Final examination (1500 words). 1.5 hours. Hurdle requirement",
+            "timing": "At the end of the module",
+            "percentage": "60%"
+        },
+        {
+            "description": "Operations: Contribution to class learning (attendance at lectures, peer and instructor evaluation of contribution to class learning)",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Operations: Quizzes. 600 words (equivalent)",
+            "timing": "Staggered throughout the module",
+            "percentage": "20%"
+        },
+        {
+            "description": "Operations: Simulation game. 500 words (equivalent)",
+            "timing": "Mid-way in module",
+            "percentage": "10%"
+        },
+        {
+            "description": "Operations: Final examination (2,000 words). 2 hours. Hurdle requirement",
+            "timing": "At end of module",
+            "percentage": "50%"
+        },
+        {
+            "description": "Seminar V: Class Participation (attendance at lectures, peer and instructor evaluation of contribution to class learning)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Seminar V: Individual Assessment (Module Reflection & Application. The Individual Assessment underpins the critical application of ideas in the module to workplace practice. It is a reflective, integrative element that crystallises the executive-level learning experience.. 1500 words. Hurdle requirement",
+            "timing": "2 weeks after completion of the residential module",
+            "percentage": "90%"
+        },
+        {
+            "description": "Hurdle requirement:. Students need to pass the assessments to pass the subject",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "280 hours"
+                },
+                {
+                    "Pre teaching start date": "20 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during pre-teaching period"
+                },
+                {
+                    "Teaching period": "27 January 2024 to  4 February 2024"
+                },
+                {
+                    "Last self-enrol date": "22 January 2024"
+                },
+                {
+                    "Census date": "29 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "30 January 2024"
+                },
+                {
+                    "Assessment period ends": "4 February 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students enrolled in the MC-BAEV program"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

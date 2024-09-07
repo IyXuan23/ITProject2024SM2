@@ -16,6 +16,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Interpret raw and treated water quality data to assess its suitability for potential use in potable or recycled water supply systems and the environment",
+        "Interpret water quality guidelines and regulations to set water quality targets and performance criteria for treatment plant design",
+        "Assess the need for water treatment, describe suitable water treatment processes and develop a water quality management plan",
+        "Conduct a water quality risk assessment and propose a rational approach to water treatment process design providing \u201cmultiple barriers\u201d to mitigate identified risks",
+        "Appreciate practical issues such as flow and energy losses of water in pipes, variability of feed water (raw water) quality; water treatment process constraints; and cost implications",
+        "Integrate a water treatment facility within a water supply system",
+        "Knowledge of various treatment techniques for water, wastewater and recycled water."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

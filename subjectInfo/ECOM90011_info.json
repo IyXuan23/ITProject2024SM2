@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the properties of econometric techniques (such as unit roots, cointegration, ARCH/GARCH and Kalman filters) used in financial analysis",
+        "Apply econometric techniques to test hypothesis in financial economics (such as the efficient markets hypothesis, the theory of speculative efficiency, the capital asset pricing model)",
+        "Evaluate the robustness of results obtained from using econometric techniques on real world financial data",
+        "Analyse results obtained from financial data and explain their implications for economic and financial theory",
+        "Orally present the results of an independent piece of research",
+        "Complete a written research project"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

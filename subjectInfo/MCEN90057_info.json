@@ -1,0 +1,137 @@
+{
+    "subject name": "Manufacturing Automation and IT",
+    "subject code": "MCEN90057",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Automation and Information Technology (IT) is essential for the survival of a company within the current manufacturing environment. This subject takes a hierarchical view of manufacturing operations which are associated with a task, part, product and order completion. After a broad introduction to the role of automation in industry and beyond, this hierarchical approach to considering manufacturing operations is discussed.  The subject discusses, in turn, the different requirements for manufacturing automation and information systems that are required to manage each of the different levels of the hierarchy culminating in an examination of automation and information systems beyond the factory as they apply to an industrial supply chain.",
+        "Topics covered are grouped in terms of the different levels of the operational hierarchies, starting at the lowest level of device control and automation and working through to control and information requirements of the organisation and its supply chain. This subject will incorporate real-world problems and industrial grounding activities to reinforce aspects of the work practically."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "ILO1. Identify the different objectives of automation in industrial and non-industrial applications.",
+        "ILO2. Demonstrate the in-depth understanding of fundamental concepts in the hierarchical approach as well as every aspect in the production and factory level control and information management system.",
+        "ILO3. Analyse performance requirements for full automation of industrial machines and robots.",
+        "ILO4. Design the overall system including how to operate, model, plan and control productions cell level operations to achieve the desired performance.",
+        "ILO5. Apply modelling techniques of discrete event operations using state machines and Petri Nets",
+        "ILO6. Explain the state-of-the-art and the trend of emerging automation, information systems, and supply chain level information systems."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-INDENG Master of Industrial Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 100 credit points of study."
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-MECHENG Master of Mechanical Engineering",
+                "MC-MTRNENG Master of Mechatronics Engineering",
+                "Mechanical specialisation (formal) in the MC-ENG Master of Engineering",
+                "Mechanical with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                "Mechanical with Aerospace specialisation (formal) in the MC-ENG Master of Engineering",
+                "Mechatronics specialisation (formal) in the MC-ENG Master of Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written report -  workshop project for a group of 2-3 students + individual written report.  ILOs 3, 4, 5 and 6 are addressed in this assessment.. 1000 words",
+            "timing": "From Week 4 to Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Oral presentation for a group of 4-5 students. ILOs 1 and 2 are addressed in this assessment.. 10 minutes",
+            "timing": "From Week 5 to Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual written report. ILOs 1, 2, 5 and 6 are addressed in this assessment.. 1500 words",
+            "timing": "From Week 12 to Week 13",
+            "percentage": "30%"
+        },
+        {
+            "description": "Final written exam. ILOs 1-6 are addressed in this assessment.. 2 hours. Hurdle requirement:. Students must pass the written exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Ying Tan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of lectures, 30 hours of workshops/tutorials/discussions and 6 hours of industrial grounding activities (such as site visits, guest workshops)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "yingt@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

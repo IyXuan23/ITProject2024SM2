@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "be able to demonstrate understanding of basic number theoretic concepts through analysing examples;",
+        "find and explain in writing minor proofs of number theoretic results independently;",
+        "demonstrate the ability to explain proofs of, and identify core ideas behind, the major foundational results of algebraic number theory;",
+        "have the ability to pursue further studies in number theory and related areas."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

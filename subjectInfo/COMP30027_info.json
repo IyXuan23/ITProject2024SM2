@@ -12,6 +12,13 @@
         "Topics will be selected from: prediction approaches for classification/regression such as k-nearest neighbour, na\u00efve Bayes, discriminative linear models, decision trees, Support Vector Machines, Neural Networks; clustering methods such as k-means, hierarchical clustering; probabilistic approaches; exposure to large-scale learning."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Recognise real-world problems as amenable to machine learning",
+        "Apply machine learning algorithms and end-to-end statistical processes correctly",
+        "Interpret the results of machine learning run on real data",
+        "Compare benefits/drawbacks of competing models and algorithms, relevant to real problems",
+        "Derive machine learning algorithms from statistical first principles."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Classify crystals, identify their symmetries and explain the notion of point and space groups;",
+        "Model the solid state using the principles of quantum mechanics;",
+        "Distinguish between conductors, insulators and semi-conductors with respect to their electronic properties;",
+        "Apply Bloch's theorem and understand the notion of band structures;",
+        "Examine the phenomenology of superconductors."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

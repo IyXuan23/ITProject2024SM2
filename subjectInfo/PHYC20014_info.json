@@ -1,0 +1,158 @@
+{
+    "subject name": "Theoretical Physics 2",
+    "subject code": "PHYC20014",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Fourier series and Fourier transforms are introduced as a means of representing and analysing functions of physical significance. The mathematical principles of Fourier theory are developed within the physical context of Fourier optics, diffraction theory, quantum mechanics and signal processing.",
+        "The formulation of Classical Newtonian and Lagrangian mechanics is then discussed in the context of the symmetries of nature, conservation laws, Hamilton's equations and integration of the equations of motion. These principles are applied to the description of physical and mechanical systems and includes a detailed discussion of rotational and oscillatory motion, mechanical stability, collisions, scattering, diffusion and continuum mechanics.",
+        "The emphasis in this subject will be to the development of techniques for solving problems involving a wide range of physical systems, including the formulation of appropriate mathematical and computational models and the identification of approximate solutions and limiting cases. Particular emphasis will be placed on the development of techniques that have wide applicability. Illustrative examples of these underlying principles will be drawn from classical and quantum mechanics, electromagnetism and optics, electronics, geophysics, astrophysics, physical chemistry and physical biosciences."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "explain diffraction physics and solve and analyse simple problems using Fourier transforms and related analytical tools.",
+        "investigate simple problems in physical systems using the principles of classical Lagrangian and Hamiltonian mechanics, quantum mechanics or electromagnetism and appropriate methods of mathematical analysis."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHYC20012"
+                ],
+                [
+                    "MAST20009",
+                    "MAST20032"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "PHYC10001",
+                    "PHYC10003",
+                    "PHYC10009"
+                ],
+                [
+                    "PHYC10002",
+                    "PHYC10004",
+                    "PHYC10006"
+                ],
+                [
+                    "MAST10006",
+                    "MAST10021",
+                    "MAST10009"
+                ],
+                [
+                    "MAST10007",
+                    "MAST10008",
+                    "MAST10022"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Important: To qualify as a prerequisite for this subject, PHYC10009 must be completed with a result of at least 75 (H2A).",
+                "MAST10019  Calculus Extension Studies",
+                "MAST10018  Linear Algebra Extension Studies"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Three written assignments requiring a total of up to twenty-four hours of work outside class time during the semester to be submitted and assessed early, mid and late semester (10% for each assignment).. 24 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "A written exam. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Harry Quiney"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours comprising 36 hours of lectures and 12 hours tutorials."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "quiney@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Goldstein, Safco, Poole, Classical Mechanics, Pearson New International Edition"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

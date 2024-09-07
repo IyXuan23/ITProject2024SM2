@@ -14,12 +14,19 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate research maturity by independently carrying out a substantial research project, involving identification of an appropriate research question, planning and execution of experimental or theoretical research, and synthesis of research findings",
+        "Identify, interpret and critically evaluate relevant research and theory in computer science",
+        "Report research findings in both written and oral forms",
+        "Demonstrate an understanding of, and responsibly apply, ethical principles and procedures in research"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
             "necessary pre-requisite": [
                 "Completion of a minimum of 100 credit points of study",
                 "Note: the following subject/s can also be taken concurrently (at the same time)",
+                "Completion of a minimum of 100 credit points of study",
                 [
                     "COMP90078"
                 ]

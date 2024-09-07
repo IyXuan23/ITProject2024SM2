@@ -1,0 +1,131 @@
+{
+    "subject name": "Mathematics of Finance III",
+    "subject code": "ACTL90003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to provide students with grounding in advanced financial mathematics, covering option pricing under the binomial model; risk\u2010neutral pricing of derivative securities; Brownian motion; introduction to It\u00f4\u0384 formula and SDEs; stochas\udbc0\udd9f asset models; Black\u2010Scholes model; arbitrage and hedging; interest\u2010rate models; actuarial applications and simple models for credit risk."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate a knowledge of the properties of option prices, valuation methods and hedging techniques, and be able to apply these;",
+        "Show how to use binomial trees and lattices in valuing options;",
+        "Apply the Ito calculus;",
+        "Derive option prices under the Black-Scholes model;",
+        "Describe and apply in simple models, including the binomial model and the Black-Scholes model, the approach to pricing using deflators and demonstrate its equivalence to the risk-neutral pricing approach;",
+        "Demonstrate a knowledge of models of the term structure of interest rates;",
+        "Describe, as a computational tool, the risk-neutral approach to the pricing of zero coupon bonds and interest-rate derivatives for a general one-factor diffusion model for the risk-free rate of interest;",
+        "Demonstrate a knowledge of simple models for credit risk."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-COMACTS Master of Commerce (Actuarial Science)"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ACTL90002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ACTL40004"
+    ],
+    "assessments": [
+        {
+            "description": "Mid-semester exam. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Assignment. 1500 words",
+            "timing": "From Week 11 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "End-of-semester exam. 2 hours. Hurdle requirement:. Students must pass the final exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Yuyu Chen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three 1-hour recorded lectures."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "yuyu.chen@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

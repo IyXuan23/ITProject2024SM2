@@ -11,6 +11,13 @@
     "indicative content": [
         "Fundamentals of game design; interactive techniques of gaming interfaces; social and collaborative techniques of game design; online game communities; trends in the games industry; mobile gaming; methods for studying play; persuasive games; gamification applications."
     ],
+    "intended learning outcomes": [
+        "Apply the basic methodologies and conceptual skills of game design",
+        "Value how games create meaningful play experiences for player",
+        "Have knowledge of the changing landscapes of contemporary gaming, including mobile, virtual reality and augmented reality gaming experiences",
+        "Articulate the motivational, transformative and powerful potentials for play and other ludic experiences in persuasive game design",
+        "Apply qualitative and quantitative techniques in player experience research to critically analyse the design of games and other immersive interactive experiences"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

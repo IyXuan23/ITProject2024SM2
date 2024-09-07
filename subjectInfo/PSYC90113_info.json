@@ -1,0 +1,104 @@
+{
+    "subject name": "Professional Psychology Skills 1",
+    "subject code": "PSYC90113",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject covers a range of fundamental skills and issues pertinent to practicing psychologists. Topics covered include counselling and interviewing techniques (building on content included in PSYC40006), history taking and diagnosis, an introduction to psychopharmacology as it relates to psychological practice, as well as the importance of self-care. The subject will include opportunities for students to practice newly acquired skills through role-plays and simulated client interactions."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand basic counselling and interviewing techniques and their application in professional psychological practice;",
+        "Understand the philosophy and primary techniques in diagnosis of psychopathology and personality disorder;",
+        "Understand basic principles of psychopharmacology, and knowledge of the medications most likely to be encountered in general psychological practice;",
+        "Develop an understanding of the importance of self-care in relation to working as a psychologist."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-PROPSYC Master of Professional Psychology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Oral presentation - demonstration of basic interview techniques (20 Minutes; 2,000 words equivalent). 20 minutes. Hurdle requirement:. Must participate in role play as interviewer",
+            "timing": "Week 2",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written report - diagnostic work up of case study. 1500 words. Hurdle requirement:. Must be submitted",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Online multiple choice test. 2 hours. Hurdle requirement:. Quiz must be attempted",
+            "timing": "Week 8",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written report - self-reflection on self-care needs. 1500 words. Hurdle requirement:. Must be submitted",
+            "timing": "Week 10",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Margaret Osborne"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "250 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "mosborne@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

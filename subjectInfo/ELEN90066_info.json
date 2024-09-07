@@ -11,6 +11,12 @@
         "Topics covered may include: digital computer and microprocessor architectures, modelling of dynamic behaviours, control, models of computation, operating systems concepts, multi-tasking, resource management and real-time behaviours, interfacing with the physical world, analysis and verification, safety, reliability, and security and privacy.This material will be complemented by exposure to standard software tools including compilers and debuggers, finite state machine design and analysis software, and simulation tools. The subject will include a level of industry engagement, to provide broader examples of engineering projects, through guest lectures."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "1. Apply fundamental concepts to model and design the joint dynamics of software, networks, and physical processes that underpin embedded systems with an appreciation for the importance of using abstractions and how they can limit overall system performance, robustness and security",
+        "2.  Design, build and test the hardware components (microprocessor, sensors, actuators, peripheral interfacing) of an embedded system",
+        "3. Develop and test the low-level software components of an embedded system using software tools to simulate and verify its behaviour",
+        "4. Conduct a small embedded system design project"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

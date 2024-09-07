@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "construct mathematical models for practical decision-making problems;",
+        "solve two-person games by using linear programming, including zero-sum and non-zero-sum games, cooperative and non-cooperative games;",
+        "use decision tree and dynamic programming techniques in solving multi-objective optimisation problems;",
+        "solve decision-making problems using utility theory;",
+        "understand the complexity of group decision and social choice problems together with possible approaches;",
+        "solve stochastic decision problems using techniques from probabilistic dynamic programming and Markov decision processes."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

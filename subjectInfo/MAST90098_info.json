@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the fundamental concepts and techniques underlying the design of inexact algorithms for discrete optimisation;",
+        "Design and analyse approximation algorithms;",
+        "Apply commonly used metaheuristics to complex optimisation problems;",
+        "Demonstrate the application of  approximation algorithms and heuristics in Python."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

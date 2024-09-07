@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "apply appropriate statistical models to biological and environmental data sets;",
+        "explain how good experimental design facilitates effective statistical tests;",
+        "use basic coding within the R statistical environment;",
+        "evaluate a research design and statistical methodology published in scientific literature; and",
+        "justify their own statistical decisions and experimental designs."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

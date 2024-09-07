@@ -15,6 +15,16 @@
         "This material is complemented by the use of software tools (e.g. MATLAB) for data simulation, modelling, image manipulation and reconstruction techniques.",
         ""
     ],
+    "intended learning outcomes": [
+        "Describe the principles of the modalities of medical imaging systems",
+        "Describe the physics and physiology fundamental to these imaging systems",
+        "Apply the mathematics of each imaging modality",
+        "Compute image reconstructions using back-projection methods",
+        "Compute image reconstructions using fourier transform methods",
+        "Identify basic causes of image contrast and artefacts",
+        "Describe clinical applications of each imaging modality",
+        "Apply their knowledge to understanding emerging medical imaging technologies."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

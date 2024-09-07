@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the role of theory and computing in modern statistics and data science, and how they are implemented in applications;",
+        "Apply nonparametric and Monte Carlo methods in statistics and data science; and",
+        "Develop key knowledge to pursue further studies in this discipline and related areas, or to be work ready as an applied statistician or a data scientist."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

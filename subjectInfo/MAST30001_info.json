@@ -12,6 +12,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "understand the basic concepts of random processes in discrete and continuous time;",
+        "acquire an appreciation of how randomness and variability in time can be mathematically described using probability theory;",
+        "be able to build, analyze and simulate basic stochastic models for simple real-life random phenomena evolving in time."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

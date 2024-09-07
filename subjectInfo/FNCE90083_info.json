@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Develop proficiency with relevant software and programming languages for complex data analysis tasks with finance applications",
+        "Demonstrate the ability to source, process and clean complex data from a variety of sources",
+        "Understand the methods and principles of summarizing and visualizing data",
+        "Understand the relevant theoretical principles behind data analysis, including statistics, econometrics and machine learning",
+        "Develop skills in presenting data analysis for a variety of audiences in written form"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

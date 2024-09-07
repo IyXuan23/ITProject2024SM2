@@ -14,6 +14,10 @@
     "indicative content": [
         "Topics covered will include: linear models, support vector machines, random forests, AdaBoost, stacking, query-by-committee, multiview learning, deep neural networks, un/directed probabilistic graphical models (Bayes nets and Markov random fields), hidden Markov models, principal components analysis, kernel methods."
     ],
+    "intended learning outcomes": [
+        "Describe a range of machine learning algorithms",
+        "Design, implement and evaluate learning systems to solve real-world problems, based on an appreciation of their relative suitability to different tasks"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

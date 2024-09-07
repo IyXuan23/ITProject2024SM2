@@ -1,0 +1,168 @@
+{
+    "subject name": "Probability and Random Models",
+    "subject code": "ELEN90054",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject provides an introduction to probability theory, random variables, random vectors, decision tests, and stochastic processes. Uncertainty is inevitable in real engineering systems, and the laws of probability offer a powerful way to evaluate uncertainty, to predict and to make decisions according to well-defined, quantitative principles. The material covered is important in fields such as communications, data networks, signal processing and electronics. This subject is a core requirement in the Master of Engineering (Electrical, Mechanical and Mechatronics).INDICATIVE CONTENT",
+        "Topics include:",
+        "Foundations \u2013 combinatorial analysis, axioms of probability, independence, conditional probability, Bayes\u2019 rule;",
+        "Random variables (rv\u2019s)\u2013 definition; cumulative distribution, probability mass and probability density functions; expectation and variance; functions of an rv; important distributions and their properties and uses;",
+        "Multiple random variables \u2013 joint cumulative distribution, probability mass and probability density functions; independent rv\u2019s; correlation and covariance; conditional distributions and expectation; functions of several rv\u2019s; jointly Gaussian rv\u2019s; random vectors;",
+        "Sums, inequalities and limit theorems \u2013 sums of rv\u2019s, moment generating function; Markov and Chebychev inequalities; weak and strong laws of large numbers; the Central Limit Theorem;",
+        "Decision testing - maximum likelihood, maximum a posterior, minimum cost and Neyman-Pearson rules; basic minimum mean-square error estimation;",
+        "Stochastic processes \u2013 mean and autocorrelation functions, strict and wide-sense stationarity; ergodicity; important processes and their properties and uses;",
+        "Introduction to Markov chains.",
+        "This material is complemented by exposure to examples from electrical engineering and software tools (e.g. MATLAB) for computation and simulations."
+    ],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate an understanding of combinatorics, the axioms of probability, independence, random variables, conditioning and Bayes\u2019 rule",
+        "Demonstrate an understanding of important distributions, stochastic processes and decision tests, and their significance",
+        "Formulate random models of signals and systems encountered in engineering",
+        "Calculate and interpret probabilities, probability densities, means, variances and covariances, from given information",
+        "Use the law of large numbers, the central limit theorem, and inequalities to find approximations and bounds",
+        "Simulate random models using software tools"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST10006",
+                    "MAST10009",
+                    "MAST10021"
+                ],
+                [
+                    "MAST10007",
+                    "MAST10008",
+                    "MAST10022"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Graduate Students:",
+                "Admission into or selection of one of the following:",
+                "MC-ELECENG Master of Electrical Engineering",
+                "MC-BIOMENG Master of Biomedical Engineering",
+                "MC-MTRNENG Master of Mechatronics Engineering",
+                "Electrical specialisation (formal) in the MC-ENG Master of Engineering",
+                "Biomedical specialisation (formal) in the MC-ENG Master of Engineering",
+                "Mechatronics specialisation (formal) in the MC-ENG Master of Engineering",
+                "Electrical with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                "Undergraduate Students:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ELEN30002 Stochastic Signals and Systems"
+    ],
+    "assessments": [
+        {
+            "description": "One written  examination. 3 hours. Hurdle requirement:. Students must score above a hurdle requirement on the total of the written exam and the two progress tests.  This hurdle requirement will be set by the Board of Examiners and be no higher than 50%.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Continuous assessment of submitted project work and quizzes, not exceeding 30 pages over the semester. 40-45 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "1-hour Progress Test 1 10% (week 5-6) and 1-hour Progress Test 2 10% (week 10-11). 2 hours",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Jonathan Manton"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures, up to 24 hours of tutorials/workshops"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Jonathan Manton",
+                    ""
+                ],
+                "email": [
+                    "jmanton@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Probability and Stochastic Processes, Yates and Goodman, Wiley"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "TBA"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through lectures, tutorials and workshop classes.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students are provided with lecture slides, worked problem sets and reference text lists.",
+            "CAREERS / INDUSTRY LINKS",
+            "Exposure to simulation tools and teamwork through the six workshops."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

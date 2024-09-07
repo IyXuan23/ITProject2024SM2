@@ -13,6 +13,14 @@
         "The juxtaposition of the engineering profession and disciplines with society, how engineers develop and use technology to solve problems, using appropriate software tools and fabrication technologies including 3D printing to design and test engineering solutions, image and data gathering, image and data analysis, online sensing, fluid flow and pumping, water treatment, how to work in teams, report writing and communication skills.",
         "Please view this video for further information:Engineering Technology and Society"
     ],
+    "intended learning outcomes": [
+        "Explain the importance of engineers and the place of engineering in society",
+        "Apply basic knowledge of fluid mechanics, process engineering, water treatment, image analysis and online sensing to solve design problems across multiple engineering disciplines",
+        "Identify the nature of a technical problem and make appropriate simplifying assumptions, in order to achieve a solution",
+        "Develop and construct mathematical, physical and conceptual models of situations, systems and devices, and utilise such models for purposes of analysis and design",
+        "Analyse possible alternative engineering approaches and evaluate their advantages and disadvantages in terms of functionality, cost, sustainability and all other factors",
+        "Demonstrate competency in current tools for analysis, simulation, visualisation, synthesis and design, particularly computer-based tools and packages."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

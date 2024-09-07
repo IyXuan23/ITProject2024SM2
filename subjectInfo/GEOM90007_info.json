@@ -11,6 +11,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "ILO 1. Apply the cognitive and technical principles of information visualisation across various domains",
+        "ILO 2. Critically evaluate the designs of data graphics, maps, and user interfaces for spatial and non-spatial information visualisation;",
+        "ILO 3.  Develop various types of visualisation platforms in order to analyse big data sets"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

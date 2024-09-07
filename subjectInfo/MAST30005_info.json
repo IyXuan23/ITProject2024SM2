@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "rings, factorization in rings, principal ideal domains, Euclidean domains;",
+        "modules, free modules, structure theorem for finitely generated modules over a principal ideal domain;",
+        "fields, field extensions, finite fields, Galois extensions; splitting fields and the Galois correspondence."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -1,0 +1,130 @@
+{
+    "subject name": "Actuarial Practice and Control II",
+    "subject code": "ACTL40007",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Topics include assessment of solvency; analysis of experience; analysis of surplus; actuarial techniques in the wider fields; and an introduction to professionalism."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Discuss and apply an actuarial control cycle in a variety of practical commercial situations",
+        "Apply the tests of professionalism",
+        "Relate the main features within the general environment to medium and long term commercial decisions",
+        "Examine the need for and impact of regulation and government policy on medium and long term commercial decisions",
+        "Analyse the main features and risks of financial products and contracts, from the point of view of consumers and providers",
+        "Demonstrate an understanding of enterprise risk management and its role in organisational management",
+        "Apply a risk assessment framework to identify and assess the risks in a range of commercial situations",
+        "Discuss and apply the process of product design",
+        "Select an appropriate model to solve client problems",
+        "Recognise the importance of capital",
+        "Apply relevant approaches and techniques to the valuation of liabilities",
+        "Apply appropriate techniques to the pricing of products and contracts",
+        "Measure, report and manage solvency",
+        "Measure and report emerging profits and/or costs",
+        "Monitor and assess experience",
+        "Manage the business and respond to the experience"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ACTL30003",
+                    "ACTL30004"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Group assignment. 8 pages",
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Group assignment. 8 pages",
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "David Heath"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Four hours of lectures and/or tutorials per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "dnheath@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Information Not Available"
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

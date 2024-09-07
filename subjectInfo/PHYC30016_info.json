@@ -11,6 +11,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "explain classical electrodynamics based on Maxwell&#39;s equations including its formulation in covariant form;",
+        "solve problems involving the calculation of fields, the motion of charged particles and the production of electromagnetic waves; and",
+        "analyse the solution of these problems in the context of a range of applications."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

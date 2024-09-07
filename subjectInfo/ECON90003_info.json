@@ -9,6 +9,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Solve first-order and second-order ordinary differential equations and apply these solutions to explain possible macroeconomic outcomes;",
+        "To apply basic dynamic techniques to macroeconomic models in order to solve for short-run and long-run outcomes;",
+        "To apply the techniques of static and dynamic optimisation to solve macroeconomic problems including, in particular, to solve the intertemporal problem of the representative firm and to solve the intertemporal problem of the optimising consumer;",
+        "To integrate the model of the representative firm and the optimising consumer into a representative agent model of the economy;",
+        "To apply standard dynamic techniques to growth theory models."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1:",

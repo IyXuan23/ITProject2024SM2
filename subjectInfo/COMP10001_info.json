@@ -19,6 +19,14 @@
         "An AI player for an online card game, designed such that students play off against each other (and against the class) at the end of semester",
         "Please view this video for further information:Foundations of Computing"
     ],
+    "intended learning outcomes": [
+        "Use the fundamental programming constructs (sequence, alternation, selection)",
+        "Use the fundamental data structures (arrays, records, lists, associative arrays)",
+        "Use abstraction constructs such as functions",
+        "Understand and employ some basic program structures",
+        "Understand and employ some basic algorithmic problem-solving techniques",
+        "Read, write, and debug simple, small programs"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

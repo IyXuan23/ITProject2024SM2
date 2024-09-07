@@ -9,6 +9,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply appropriate numerical methods for solving simple models of the weather and climate system.",
+        "Explain the purpose, applications and limitations of different classes of models of the weather and climate system",
+        "Analyse diverse datasets of atmospheric data from satellites and models.",
+        "Effectively use a modern programming language to model, analyse, graph and map atmospheric data.",
+        "Critique and explain modelling results through clear scientific oral and written communication.",
+        "Evaluate the role of modelling systems in understanding the real weather and climate system, including for assessing climate change impacts and prediction.",
+        "Apply simple models to understand key processes in the atmosphere, including radiation, wind systems and storms."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

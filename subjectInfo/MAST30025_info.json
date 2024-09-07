@@ -9,6 +9,10 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the underlying statistical theory of linear models and the limitations of such models;",
+        "Fit linear models to data using a standard statistical computing package and interpret the results."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

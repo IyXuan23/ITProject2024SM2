@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "to introduce the basic ideas of quantum field theory;",
+        "to understand how quantum mechanics and special relativity combine to produce realistic theories of particle creation and annihilation;",
+        "to develop calculational techniques to at least the level of tree-level Feynman diagrams for quantum electrodynamics;",
+        "to provide the foundation for more advanced studies in quantum field theory."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

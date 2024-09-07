@@ -9,6 +9,17 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply relevant pre-requisite knowledge of mathematics, probability theory and statistics in the solution of a range of practical problems.",
+        "Derive and calculate probabilities for, and moments of, loss distributions both with and without simple reinsurance arrangements.",
+        "Estimate the parameters of a loss distribution when data is complete or incomplete.",
+        "Fit a statistical distribution to a dataset and perform goodness-of-fit tests.",
+        "Construct risk models appropriate for short term insurance contracts and derive both moments and moment generating functions for aggregate claim amounts under these models with and without simple forms of proportional and excess of loss reinsurance.",
+        "Derive recursion formulae and apply approximation methods to calculate aggregate claims distributions.",
+        "Describe and apply copulas to model dependent risks.",
+        "Apply extreme value theory in modelling the distribution of severity of loss.",
+        "Describe and apply the main concepts and properties underlying the analysis of several time series models."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

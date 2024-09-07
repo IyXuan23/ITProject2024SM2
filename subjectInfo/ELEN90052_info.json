@@ -16,6 +16,12 @@
         "This material will be complemented with the use of software tools (e.g. MATLAB) for computation and a DSP (Digital Signal Processor) based development platform for the implementation of signal processing algorithms in the laboratory."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply fundamental mathematical tools, in particular stochastic techniques, in the analysis and design of signal processing systems",
+        "Recognise estimation problems and design, implement and analyse algorithms for solving them",
+        "Use software packages such as MATLAB for the analysis and design of signal processing systems",
+        "Implement signal processing systems with DSP based development platforms"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

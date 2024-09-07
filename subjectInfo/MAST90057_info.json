@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "have developed a systematic understanding of probability, random variables, probability distributions and probability models, and their relevance to statistical inference;",
+        "be able to formulate standard probability models from biological applications and critically assess them;",
+        "be able to apply the properties of probability distributions, to analyse common random variables and probability models; and",
+        "be able to use a computer package to perform computational tasks in probability analyses."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

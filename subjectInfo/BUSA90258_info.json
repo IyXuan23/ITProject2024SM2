@@ -7,10 +7,20 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "translate marketing and management issues into marketing research problems that are suitable for investigation.",
+        "develop a marketing research plan to investigate the problem (s) under consideration.",
+        "conduct qualitative and quantitative marketing research using a variety of marketing research techniques.",
+        "design and implement a survey instrument to conduct primary research.",
+        "interpret the results of various statistical analyses and understand the limitations of these analyses.",
+        "write a concise marketing research report to detail the research process, recommendations, and implementation plan.",
+        "understand the role of marketing research in helping marketing managers make better marketing decisions."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
             "necessary pre-requisite": [
+                "87.5 credit points from ",
                 [
                     "BUSA90480",
                     "BUSA90481",
@@ -23,6 +33,7 @@
                     "BUSA90482",
                     "BUSA90483"
                 ],
+                "25 credit points from ",
                 [
                     "BUSA90227",
                     "BUSA90026"

@@ -13,6 +13,12 @@
     "indicative content": [
         "Topics covered include complexity classes and asymptotic notation; empirical analysis of algorithms; abstract data types including queues, trees, priority queues and graphs; algorithmic techniques including brute force, divide-and-conquer, dynamic programming and greedy approaches; space and time trade-offs; and the theoretical limits of algorithm power."
     ],
+    "intended learning outcomes": [
+        "Design, manipulate and reason about a variety of techniques for solving sorting, searching and graph problems",
+        "Write efficient algorithms and data structures for a variety of fundamental problems",
+        "Conduct formal reasoning about problem complexity and algorithmic efficiency",
+        "Recognize the design techniques of standard algorithms, and apply these techniques to develop new computational solutions to problems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -11,6 +11,13 @@
     "indicative content": [
         "Fundamental programming constructs; fundamental data structures; abstraction; basic program structures; algorithmic problem solving; introduction to the media computation and introduction to web development, algorithms for programming visual design, programming user interfaces, iterative design."
     ],
+    "intended learning outcomes": [
+        "Develop programs that can manipulate static, structured data using a high-level language such as Python",
+        "Apply an iterative and agile approach to solve problems using programming",
+        "Evaluate proposed solutions using techniques such as digital and paper prototypes",
+        "Use programming to effectively communicate data to non-technical people",
+        "Collaborate effectively in small groups to jointly solve computational problems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -1,0 +1,131 @@
+{
+    "subject name": "Radiology for Physiotherapists",
+    "subject code": "RADI90010",
+    "subject availability": [],
+    "overview": [
+        "This subject builds on the student's knowledge in radiology, particularly as it applies to the neuro-musculo-skeletal system. The student will be able to explore normal and pathological findings as displayed by a variety of imaging modalities including x-ray, CT scans, MRI and US imaging. They will also have a better appreciation of when to use imaging, which imaging modality to use and when onward referral to another clinician may be more appropriate."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "advanced knowledge of imaging techniques",
+        "an appreciation of when and how to request imaging as well as which modality to use for a particular condition",
+        "advanced skills in understanding the interpretation and clinical implications of radiological findings",
+        "appropriate skills in the interpretation of pathology, with awareness of the limitations",
+        "a better understanding of radiology reports to enable correlation of the findings with the images"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Undergraduate qualification in Physiotherapy",
+                "Minimum 12 months clinical experience in the area of Musculoskeletal Physiotherapy.",
+                "Applicants will be required to provide a copies of transcripts for their Physiotherapy qualification, and a brief resume."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Case presentation. 5 minutes",
+            "timing": "Week",
+            "percentage": "5%"
+        },
+        {
+            "description": "Online radiology exam. 1 hours",
+            "timing": "End of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Written assignment 1. 1500 words",
+            "timing": "During the assessment period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written assignment 2. 2000 words",
+            "timing": "End of the assessment period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "August - Online": [
+                {
+                    "Coordinator": "Guy Zito"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "36 hours of lectures and workshops."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "12 August 2024 to 23 August 2024"
+                },
+                {
+                    "Last self-enrol date": "14 August 2024"
+                },
+                {
+                    "Census date": "30 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "4 October 2024"
+                },
+                {
+                    "Assessment period ends": "1 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "August": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "ANDERSON, J, & READ, JW. (2008). Atlas Imaging in Sports Medicine. 2nd edn. McGraw Hill, Sydney"
+                ]
+            }
+        ],
+        "Links to additional information": [
+            "http://www.physioth.unimelb.edu.au/programs/pgrad/index.html"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "An undergraduate degree in physiotherapy degree and at least one year of clinical experience post-graduation in musculoskeletal physiotherapy or related field",
+                    "An undergraduate degree in physiotherapy degree and at least one year of clinical experience post-graduation in musculoskeletal physiotherapy or related field"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -15,6 +15,10 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Have attained research maturity, including the ability to independently carry out a research survey, and plan, execute, interpret and report on a computational experiment OR demonstrate mastery of the mathematical and logical techniques required for research in theoretical computer science",
+        "Have the ability to communicate computer science research"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -10,6 +10,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "find probablities for normal distributions",
+        "compute a confidence interval for a mean, proportion and the difference between two means",
+        "conduct a hypothesis test for a mean or a proportion",
+        "identify possible errors or biases in sampling",
+        "compute the correlations between variables",
+        "use Excel to run a regression analysis",
+        "interpret the output of a regression analysis and evaluate the validity and usefulness of a regression model in the context of the business issues that are being analysed"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -1,0 +1,149 @@
+{
+    "subject name": "Neural Information Processing",
+    "subject code": "BMEN90002",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject introduces students to the basic mechanisms of information processing and learning in the brain and nervous system. The subject builds upon signals and systems modelling approaches to demonstrate the application of mathematical and computation modelling to understanding and simulating neural systems. Aspects of neural modelling that are introduced include: membrane potential, action potentials, neural coding, neural models and neural learning. The application of neural information processing is demonstrated in areas such as: electrophysiology, and neuroprostheses. Material is reinforced through MATLAB and/or NEURON based laboratories."
+    ],
+    "indicative content": [
+        "Topics include:",
+        "Neural information processing analysed using information theoretic measures; generation and propagation of action potentials (spikes); Hodgkin-Huxley equations; coding and transmission of neural information (spiking rate, correlation and synchronisation); neural models (binary, rate based, integrate & fire, Hodgkin-Huxley, and multicompartmental); synaptic plasticity and learning in biological neural systems (synaptic basis of learning, short term, medium term and long term, and rate based Hebbian learning models); spike-timing dependent plasticity (STDP) of synapses; higher order neural pathways and systems (cortical structure and circuits).",
+        "",
+        ""
+    ],
+    "intended learning outcomes": [
+        "Describe the structure and function of the nervous system",
+        "Calculate equilibrium neural properties",
+        "Describe the types and properties of synapses",
+        "Describe the membrane mechanisms underlying the generation of action potentials",
+        "Interpret neural responses in terms of point processes (Poisson)",
+        "Evaluate neural processing using information theoretic measures",
+        "Implement and analyse the input-output characteristics of simple and biologically-detailed neural models",
+        "Describe the principles underlying the analysis of biological neural signals",
+        "Describe the mechanisms underlying learning in the brain and nervous system",
+        "Describe higher-order neural pathways and systems."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "BMEN30006 Fundamentals of Biosignals (Prior to 2015)"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BMEN30006",
+                    "ELEN30012"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Or equivalent"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BMEN90004"
+    ],
+    "assessments": [
+        {
+            "description": "One mid-semester test. ILOs 1, 2, 3, 4, 5, 6, 8, 9 and 10 are assessed in the mid-semester test.. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Four laboratory classes in Weeks 4 to 12, each with a written assignment of approximately 1000 words and requiring approximately 13-15 hours of work including preparation (10% each). ILOs 2, 5, 6 and 7 are assessed in the submitted laboratory reports.. 52-60 hours (of work required)",
+            "timing": "From Week 4 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "description": "End of semester Written Exam. ILOs 1, 2, 3, 4, 5, 6, 8, 9 and 10 are assessed in the final written exam.. 90 minutes. Hurdle requirement:. Students must pass the end of semester examination to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Anthony Burkitt"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "A 3-hour lecture and a 1-hour tutorial per week, and four 3-hour workshop laboratory classes."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "aburkitt@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through lectures, tutorials and computer laboratory classes.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students are provided with lecture slides, tutorials and worked solutions, laboratory sheets, and reference text lists.",
+            "CAREERS / INDUSTRY LINKS",
+            "Exposure to neural information processing in industry is provided through research laboratory visits to medical research institutes and guest lectures by representatives of industry, hospitals and research institutes."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

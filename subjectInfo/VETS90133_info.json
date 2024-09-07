@@ -9,6 +9,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Apply epidemiological principles to calculate and describe the frequency of disease in animal and/or human populations, and to identify characteristics that place some individuals in a population at greater risk of disease, compared with others",
+        "Explain the major features of the common study designs used in observational epidemiological research and describe the strengths and weaknesses of each",
+        "Use epidemiological tools to evaluate screening and diagnostic tests used in animal health management",
+        "Describe the major classes of disease surveillance programs and explain the strengths and weaknesses of each in order to select and use an appropriate tool in the management of animal and public health",
+        "Describe the different phases of an outbreak investigation and the role and importance of a veterinarian during this process in order to optimise health and minimise productivity losses, comply with legal regulations and accommodate economic realities",
+        "Use scientific databases, select appropriate literature and evaluate research evidence to answer a clinical question and communicate it to a scientific audience in oral and written form",
+        "Apply epidemiological and biostatistical principles to critically appraise the biomedical literature, make arguments relevant to findings to a scientific audience, and make clinical decisions based on the best available evidence",
+        "Interpret data acquired from animal production industry case scenarios, and apply understanding of the determinants of productivity, profitability and sustainability in order to analyse and interpret problems related to these systems"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

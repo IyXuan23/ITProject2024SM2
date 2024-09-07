@@ -1,0 +1,105 @@
+{
+    "subject name": "Clinical Genome Variant Analysis 2",
+    "subject code": "GENE90025",
+    "subject availability": [
+        "August"
+    ],
+    "overview": [
+        "Clinical Genome Variant Analysis 2 is designed to broaden and further develop the basic understanding and principles of variant interpretation taught in Clinical Genome Variant Analysis 1. Application of software and genomic database for collation of evidence for interpretation will be covered in detail.",
+        "The subject will be taught as an intensive, blended (on-line and face-to-face) subject, commencing in the first half of the semester.",
+        "The subject provides a sound foundation for participation in multidisciplinary clinical discussions on genomic testing and analysis, and would be useful preparatory learning for laboratory scientists and clinical staff training in variant interpretation.",
+        "Completion of Clinical Genome Variant Analysis 1 to a grade of 70% or higher is a prerequisite for this subject."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Interpret human genomic information by using evidence to classify variants based on guidelines; and",
+        "Interpret human genomic information in a clinical setting by describing how the process of clinical genome variant analysis is integral to generation of a clinical report."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "GENE90026"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "with a minimum grade of 70% or equivalent"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Online quiz. 15 minutes",
+            "timing": "Early in the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Short case studies. 500 words",
+            "timing": "Second half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Group presentation. 10 minutes",
+            "timing": "Second half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual written summary of group assignment. 500 words",
+            "timing": "Due four weeks after the teaching period.",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written case study. 1000 words",
+            "timing": "Due four weeks after the teaching period.",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "August": [
+                {
+                    "Principal coordinators": "Linda Cicciarelli Riddington, Gabrielle Reid Vogl, and Lyndon Gallacher"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "4 X 4-hour face-to-face workshops"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "12 August 2024 to  6 September 2024"
+                },
+                {
+                    "Last self-enrol date": "16 August 2024"
+                },
+                {
+                    "Census date": "30 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "13 September 2024"
+                },
+                {
+                    "Assessment period ends": "8 October 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the molecular basis of how humans handle nutrients via metabolism and compare these with disease states",
+        "Explain the mechanisms and consequences of metabolic reprogramming in cancer cells, and in neurons and immune cells in both physiological and pathophysiological conditions",
+        "Describe how the emerging field of metabolomics (the study of a range of metabolites in a cell or tissue) is being applied as a diagnostic tool, including a consideration of ethical issues such as study design, sample collection and data usage",
+        "Explain how targeting critical events in metabolic reprogramming of cancer cells as the therapeutic strategy for cancer treatment",
+        "Analyse experimental data to detect changes in metabolism",
+        "Critically analyse of the current scientific literature on metabolomics and metabolic reprogramming in diseases."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -12,6 +12,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "ILO 1 \u2013 Apply computational analysis to a geotechnical engineering problem, including development of the model concept and constitutive relationships, the construction, parameterisation, and calibration of a site-specific model, simulation and sensitivity analysis;",
+        "ILO2 \u2013 Select and apply suitable finite element (FEM) and finite volume (FVM) formulations to discretise governing equations and site-specific models;",
+        "ILO3 \u2013 Work with and create algorithmic representations of the typical constitutive relationships in geotechnical engineering and understand how linear, quasi-linear and non-linear relationships are handled and how errors are estimated;",
+        "ILO4 \u2013 Process simulation results, visualise and analyse them to validate the model, and to derive answers to central geotechnical engineering questions presenting outcomes to peers;",
+        "ILO5 \u2013 Evaluate risks, pitfalls and limitations of numeric analysis, as is necessary to apply these tools responsibly."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

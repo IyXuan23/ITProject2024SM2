@@ -11,6 +11,13 @@
     "indicative content": [
         "Surveying Software,Graphic Language and Design,Map and Plan Systems, Standardization and Calibration, Survey Information Sources, Survey Marks, Descriptions of Occupation, Levelling, Feature Surveys and Plans, Quality Assurance, Surveying using Global Navigation Satellite Systems Units, Symbols and Conversion Factors, Surveying Act and Regulations."
     ],
+    "intended learning outcomes": [
+        "Identify the legal and technical requirements for making a cadastral survey in Victoria",
+        "Explain the preparation of the corresponding documentation in the form of plans and reports",
+        "Practically perform a cadastral survey",
+        "To perform survey computations with programmable calculators and computer software and to produce cadastral survey documents using computer aided drafting",
+        "Discuss the concepts of SPEAR and ePlan as mechanisms for the digital processing of cadastral plans in Victoria."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

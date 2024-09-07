@@ -17,6 +17,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explore the foundational theories of and approaches to regulating emerging technologies, and critically assess their implications for AI's various development and applications, paving the way for contextual and comparative analysis in Asia and beyond;",
+        "Critically analyse the legal and ethical dimensions of AI technologies and their societal impact across sectors by identifying and scrutinising major issues, such as algorithmic bias, data protection and privacy, automated law enforcement and social credit systems, robo-judge and due process, and AI's impact on human rights;",
+        "Appraise the assess the current regulatory landscape in Asia and other major economies, drawing parallels across different regulatory frameworks and legal systems to appreciate regulatory preferences and strategies across jurisdictions based on diverse social, political, and economic underpinnings;",
+        "Compare and contrast regulatory models of AI governance, explore the diverse approaches to AI governance in East Asian jurisdictions (particularly China, Japan, Taiwan, and Singapore), and discern how legal origins/systems and practices influence regulatory responses and institutional designs."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -12,10 +12,17 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Develop project management skills in conducting a food science research project in a group",
+        "Integrate and apply disciplinary knowledge and skills to an independently generated research question and investigation",
+        "Analyse and synthesise salient features and important theoretical, methodological and empirical trends in published literature and data",
+        "Present research findings in clear, concise and persuasive written and verbal forms"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
             "necessary pre-requisite": [
+                "A minimum of 100 credit points in subjects in Master of Food Science",
                 [
                     "AGRI90075"
                 ]

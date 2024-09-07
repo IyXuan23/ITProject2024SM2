@@ -9,6 +9,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Critically review simple stochastic models for investment returns.",
+        "Compose and assess techniques for analysing a delay (or run-off) triangle and projecting the ultimate position.",
+        "Elucidate the concept of ruin and commentate on the significance of the adjustment coefficient in ruin theory.",
+        "Contextualise the main aspects of risk and insurance using utility theory.",
+        "Compose and transform financial models in spreadsheet software.",
+        "Compose pre-requisite mathematical and statistical concepts to solve problems related to the above topics."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

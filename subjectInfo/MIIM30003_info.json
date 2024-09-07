@@ -10,6 +10,16 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the mechanisms by which various components of the immune system act in concert to provide protection against various infectious agents and cancer.",
+        "Discuss how these responses can be harnessed to develop vaccines and the role of vaccination in global health.",
+        "Describe the aetiology, pathogenesis and treatment of adverse immune responses occurring as a result of immune system dysregulation, such as occurs in autoimmune diseases.",
+        "Explain how immunotherapy modulates immune function leading to improved outcomes for immune disease and cancer patients, and understand the risk of unwanted effects.",
+        "Explain the immunological challenges of organ transplantation and how they are addressed.",
+        "Interpret experimental evidence that supports exemplar immunological concepts.",
+        "Integrate knowledge acquired throughout the subject and apply it to novel scenarios.",
+        "Relate laboratory-based experimental results to translated clinical applications."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

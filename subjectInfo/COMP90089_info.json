@@ -1,0 +1,145 @@
+{
+    "subject name": "Machine Learning Applications for Health",
+    "subject code": "COMP90089",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Artificial Intelligence (AI) is an ever growing field that holds the promise to revolutionise the way we develop drugs, treat and manage patients. In particular, Machine Learning has become an important tool to make sense of clinical data that is routinely collected and stored as electronic health records to enable personalised medicine.",
+        "This subject aims to introduce students to different AI applications in health, using different clinical data sources and computational techniques, discussing their idiosyncrasies and the main challenges in the area."
+    ],
+    "aims": [],
+    "indicative content": [
+        "Topics covered may include: supervised, unsupervised learning and their applications in health scenarios, interpretable machine learning in health, natural language processing in health, process mining, data sources and clinical information modelling, data wrangling, harmonising and filtering, clinical image data and deep learning."
+    ],
+    "intended learning outcomes": [
+        "Describe the application of Artificial Intelligence concepts in the context of health problems",
+        "Demonstrate familiarity with challenges associated with health data and data modelling",
+        "Design, implement, and evaluate an AI system addressing a healthcare problem",
+        "Critically assess Artificial Intelligence applications for health"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-SCICMP Master of Science (Computer Science)",
+                "MC-SOFTENG Master of Software Engineering",
+                "MC-IT Master of Information Technology",
+                "MC-DATASC Master of Data Science",
+                "GD-CS Graduate Diploma in Computer Science",
+                "MC-ENG Master of Engineering",
+                "MC-CS Master of Computer Science"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "Or equivalent"
+            ],
+            "one of pre-requisite": [
+                [
+                    "COMP90059",
+                    "COMP90038"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Permission of the coordinator is required prior to enrolling in this subject (some programming experience in Python is required)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Regular (weekly) quizzes - Equivalent to 500 words in total. 10 hours (of work required)",
+            "timing": "From Week 2 to Week 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "Two individual  assignments - Equivalent to 2000 words (2x1000 words).\r\n\r\nThese will be individual  programming assignments about one of the AI applications in health presented during the subject. Due in Week 4 &10.. 40 hours (of work required). Hurdle requirement:. 50% - Students are required to obtain at least 50% collectively on the two individual programming assignments",
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "AI in health project proposal (group activity, 3 to 4 students) -  Equivalent to 500 words per group. 10 hours (of work required)",
+            "timing": "From Week 7 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "description": "AI in health project report (group activity, 3 to 4 students) -  Equivalent to 2000 words per group. Due at the start of the exam period.. 40 hours (of work required). Hurdle requirement:. 50% - Students are required to obtain at least 50% on their group activity",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Brian Chapman"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of lectures (2 hours per week), 12 hours of tutorials (1 hour per week)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "brian.chapman@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures and tutorials."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

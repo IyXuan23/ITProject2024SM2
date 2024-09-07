@@ -16,6 +16,14 @@
         "Specific machine learning methods such as Support Vector Machines (SVMs), Neural Networks (NNs), k-means clustering, and reinforcement learning.",
         "Applications to Internet of Things (IoT), smart grid and power systems, cyber-security, and communication networks."
     ],
+    "intended learning outcomes": [
+        "Develop cognitive, technical, and creative skills and an extended understanding to quantitatively analyse and design optimisation and machine learning solutions for systems engineering.",
+        "Apply fundamental engineering modelling methods to analyse and synthesise optimal and learning systems.",
+        "Develop cognitive skills to demonstrate mastery of theoretical knowledge on basic concepts related to system optimisation and machine learning, and their relationship and to reflect critically on their theory and professional practice.",
+        "Apply fundamental techniques from optimisation and machine learning to address problems associated with engineering systems and use numerical and data analysis tools when appropriate while working in a small team.",
+        "Develop communication and technical research skills on optimisation and machine learning to justify and interpret related engineering solutions, methodologies, conclusions, and professional decisions to specialist audiences.",
+        "Communicate effectively with professionals across different engineering disciplines, through media such as concise technical reports and informational videos or live presentations."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

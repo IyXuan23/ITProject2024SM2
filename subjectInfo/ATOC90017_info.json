@@ -1,0 +1,114 @@
+{
+    "subject name": "Advanced Past Climates",
+    "subject code": "ATOC90017",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The history of Earth\u2019s climate provides examples of widely different states, ranging from cold glacial climates to hot greenhouse climates. Palaeoclimatology seeks to reconstruct past climate conditions and understand the dynamics and variability of the climate system on a range of time scales. This course will explore key examples of past warm and cold climates, including the Palaeocene-Eocene Thermal Maximum, the Pliocene, the warm last interglacial period and the last glacial maximum. The drivers and mechanisms of past climate change will be discussed, with a focus on topics of current debate in palaeoclimate science. Proxy records used to reconstruct past climate will be discussed, such as ice cores, marine sediments, tree ring and coral records. The use of climate models to simulate past climates will also be a explored. The course will also address the relevance of past climates for understanding future climate change due to human activity."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe processes that drive changes in Earth's climate over a range of time scales from millions of years to centuries, including the role of climate feedbacks;",
+        "Interpret records of past climate including palaeoclimate reconstructions from proxy records, and explain the uncertainties in such records;",
+        "Apply climate model simulations to understand past climates, and compare models with reconstructions from proxy records;",
+        "Synthesise understanding of past climate and discuss its relevance for understanding future climate change."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST10005"
+                ],
+                "Or equivalent"
+            ],
+            "one of pre-requisite": [
+                [
+                    "ATOC30006",
+                    "ERTH20003",
+                    "GEOG30023",
+                    "GEOG90026"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Oral presentation. 10 minutes",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written Assignment. 2000 words",
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Participation in a minimum of 80% of practical classes. Hurdle requirement:. Participation in a minimum of 80% of practical classes",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Josephine Brown"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 x 1 hour lecture/week + 1 x 1 hour tutorial/week = 36 hours total."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "josephine.brown@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

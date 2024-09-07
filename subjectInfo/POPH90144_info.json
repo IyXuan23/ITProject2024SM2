@@ -10,6 +10,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain how regression methods are used to address common objectives of health research in the three areas of descriptive, causal and predictive analysis",
+        "Discuss the fundamental concepts of regression models as tools for representing patterns of systematic variation in data, including interpretation of parameters and interaction effects",
+        "Estimate different types of causal effects (mean differences, risk ratios, odds ratios) in populations using regression models.",
+        "Describe the assumptions and limitations of the use of regression in estimating causal effects with adjustment for confounding",
+        "Outline key principles involved in building regression models for prediction purposes"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

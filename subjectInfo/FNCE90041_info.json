@@ -9,6 +9,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the debate around return predictability",
+        "Identify intertemporal hedging demands",
+        "Estimate optimal dynamic portfolio weights",
+        "Evaluate the performance of dynamic portfolio strategies",
+        "Understand models of aggregate equilibrium asset pricing",
+        "Understand major models of cross-sectional asset pricing",
+        "Conduct empirical research on asset pricing models."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

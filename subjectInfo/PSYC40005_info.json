@@ -10,6 +10,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "The forms of major multivariate techniques including multivariate analysis of variance and variants, multilevel models, methods for categorical data analysis and structural equation modelling;",
+        "The role of, and methods for, exploratory analysis of multivariate observations such as factor analysis, multidimensional scaling, and clustering;",
+        "The appropriate analysis tool required for a particular dataset."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

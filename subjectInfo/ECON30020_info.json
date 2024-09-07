@@ -9,6 +9,18 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Recognise and set up standard economic problems (the consumption decision, the production decision, cost minimization, simple multi-period decision making) as optimization problems;",
+        "Solve specific optimization problems such as those involving utility and profit maximization and cost minimization;",
+        "Solve market equilibrium problems;",
+        "Explain the geometry of constrained optimization, the geometry of Lagrange multipliers;",
+        "Explain the difference between necessary and sufficient conditions, and their application at both interior and corner points;",
+        "Solve matrix algebra problems including those involving quadratic forms and eigenvalues and vectors, and explain the connection between positive definite forms and convexity;",
+        "Solve problems in multivariate calculus, including the calculation of gradients and tangents, and differentiating a function along a curve;",
+        "Set up and solve Khun Tucker problems;",
+        "Explain and interpret Lagrange multipliers as shadow prices;",
+        "Solve problems involving simple comparative statics, both for optimization and equilibrium problems, using the univariate implicit function theorem, single crossing conditions and envelope methods."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

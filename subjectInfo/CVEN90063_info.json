@@ -10,6 +10,15 @@
         "Please view this video for further information:Transport System Modelling"
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the component models and the modelling framework used in transport network modelling and complex systems",
+        "Assess the strengths and weaknesses of various transport models",
+        "Apply the 4-step and activity-based modelling theories in transport planning",
+        "Implement trip generation/attraction, trip distribution, modal split and traffic and transit assignment in transport strategic modelling",
+        "Discuss uncertainty in planning transport infrastructure projects",
+        "Demonstrate skills in conducting traffic impact study",
+        "Assess contemporary issues in transport modelling and planning"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

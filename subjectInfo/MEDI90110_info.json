@@ -33,6 +33,14 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Identify and describe the scope of human factors/ergonomics and apply it to their work setting",
+        "Analyse the components of a work task and determine how it might be modified using human factors techniques",
+        "Perform an evaluation of an environmental or organisational aspect of their work that affects human performance",
+        "Appraise the effects of team processes on performance and give examples of how these could be improved",
+        "Recognise how linear models of incident analysis fail to capture complexity of how work is performed",
+        "Construct a translational simulation to address a potential incident"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

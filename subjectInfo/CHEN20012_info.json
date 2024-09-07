@@ -14,6 +14,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Recognise reactions taking place within ideal reactors",
+        "Define and scope engineering problems and formulate suitable problem-solving strategies",
+        "Model real gas behaviour",
+        "Develop and interpret process flow diagrams, process and instrumentation diagrams",
+        "Apply basic thermodynamic relationships to real problems",
+        "Discuss the principles of sustainable design and development",
+        "Recognise the difference between safe and unsafe industrial practices."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
@@ -36,7 +45,7 @@
             "necessary pre-requisite": [],
             "one of pre-requisite": [],
             "alternate pre-requisite": [
-                "Admission into Master of Chemical Engineering"
+                "Admission into the MC-CHEMENG Master of Chemical Engineering"
             ]
         }
     ],

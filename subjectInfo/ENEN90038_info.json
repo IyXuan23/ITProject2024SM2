@@ -9,6 +9,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the process of evapotranspiration and perform quantitative analyses on meteorological and environmental data to compute evapotranspiration.",
+        "Describe precipitation processes and perform quantitative analyses on precipitation to be used in engineering designs.",
+        "Perform flood frequency analyses and flood modelling for engineering design.",
+        "Explain runoff processes and perform water balance modelling for hydrological investigations.",
+        "Identify surface water quality issues and conduct simple water quality modelling.",
+        "Analyse groundwater processes and undertake basic groundwater flow modelling.",
+        "Identify major sources and types of groundwater contamination and formulate mechanisms of contamination transport."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

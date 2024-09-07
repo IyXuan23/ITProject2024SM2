@@ -9,6 +9,18 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand that susceptibility to complex diseases is due to both genetic and environmental factors;",
+        "Calculate and interpret the measures of familial aggregation;",
+        "Calculate and interpret the heritability;",
+        "Understand how to identify genetic factors associated with disease and how they can be used to estimate the risk of disease;",
+        "Critically appraise the strengths and limitations of different study designs and analytic methods used in genetic epidemiology;",
+        "Estimate penetrance for inherited genetic variants;",
+        "Determine modifiers of penetrance for inherited genetic variants;",
+        "Assess gene-environmental interactions in association with disease for people at genetic risk;",
+        "How to use genetic factors to provide evidence of the causal association between a non-genetic risk factor and disease;",
+        "How to screen people at genetic risk and how to screen people at risk of disease using genetics for precision prevention and early detection;"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

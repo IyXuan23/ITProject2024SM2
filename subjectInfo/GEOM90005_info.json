@@ -11,6 +11,12 @@
     "indicative content": [
         "Use of image processing systems. High level digital image processing, correction and classification; applications of remote sensing in the geosciences, engineering, and resource assessment and inventory; image data in geographic information systems. Detailed application studies in emergency/disaster management, environmental assessment and geological mapping."
     ],
+    "intended learning outcomes": [
+        "Describe the acquisition of remotely sensed data",
+        "Process remotely sensed data to achieve client-driven outcome",
+        "Describe the use of remotely sensed data in environmental modelling and in the solution of resource management problems",
+        "Communicate the analysis and interpretation of remotely sensed data to a client."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

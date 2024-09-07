@@ -17,6 +17,12 @@
         "Case studies.",
         "Please view this video for further information:Sensor Systems"
     ],
+    "intended learning outcomes": [
+        "1. Demonstrate proficiency and deep understanding of the principles and operation, networking and data processing of a range of sensor systems used in mechatronic systems",
+        "2. Demonstrate the capability to implement a sensing system in the face of practical signal noise.",
+        "3. Demonstrate mastery over processing techniques that accommodates the stochastic nature of the practical sensor data",
+        "4. Demonstrate professional communication skills to present technical reports of sensor design exercises and to present information obtained from sensing systems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

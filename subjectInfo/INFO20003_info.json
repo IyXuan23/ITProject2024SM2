@@ -12,6 +12,13 @@
     "indicative content": [
         "This subject serves as an introduction to data modelling and databases from a technical and data management perspective. The subject will include Entity Relationship modelling (from conceptual design to physical modelling), normalisation, de-normalisation, relational model and relational algebra, SQL, query processing and query optimisation, transactions, storage organisation, database administration, data warehousing and big data analytics. Other topics in data management and DBMS technology with an overview of modern NoSQL systems may also be included."
     ],
+    "intended learning outcomes": [
+        "Demonstrate proficiency in solving practical data-modelling tasks",
+        "Design SQL queries to interact with a relational database",
+        "Understand internal mechanisms and policies behind database systems",
+        "Apply database transactions and argue their use in the database systems",
+        "Profile and tune business analytics queries, and administer database systems. Through the combination of lectures, workshops and assignments, students will gain considerable hands-on experience in: i) modelling a number of diverse informational situations, useful to both organisations and individuals, ii) writing efficient SQL queries to analyse data"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

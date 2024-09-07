@@ -12,6 +12,15 @@
     "indicative content": [
         "The subject covers key algorithms used in bioinformatics, with a focus on genomics. Indicative topics are: sequence alignment (dynamic algorithms and seed-and-extend), genome assembly, variant detection, phylogenetic reconstruction, genomic intervals, complexity and correctness of algorithms, clustering and classification of genomics data, data reduction and visualisation.The subject assumes you have experience in programming and familiarity with the foundations of genomics."
     ],
+    "intended learning outcomes": [
+        "Understand bioinformatics data representations",
+        "Describe the computational challenges posed by common bioinformatics analyses",
+        "Apply important algorithms used in solving bioinformatics problems",
+        "Design and implement algorithms and data structures to address key questions in bioinformatics",
+        "Design and implement a toolkit of algorithmic problem-solving techniques that can be applied to a diverse range of bioinformatics tasks",
+        "Understand the feasibility constraints imposed by computational complexity of algorithms",
+        "Learn techniques for extracting information from data and visualising the results of analyses"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

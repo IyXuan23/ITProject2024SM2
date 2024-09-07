@@ -14,6 +14,13 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "1. Devise, produce, and verify solutions to complex autonomous systems design problems, drawing upon the principles underpinning autonomous systems from areas such as embedded systems, control systems and signal processing",
+        "2. Apply established engineering design methods and systems-level thinking to the execution of an autonomous systems project",
+        "3. Contrast and integrate modern software frameworks for enabling autonomy of modern autonomous systems hardware",
+        "4. Apply systematic approaches to the management and execution of a complex engineering design project in a small team",
+        "5. Articulate and convey project framing and details through technical reports, presentations, and informational videos"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

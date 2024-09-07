@@ -11,6 +11,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the wide variety of business problems that are best addressed with analytics.",
+        "Define business problems in ways that are insightful.",
+        "Understand the complexity of business problems, and solutions to those problems.",
+        "Understand the complexity of business data.",
+        "Understand the complexity of implementing solutions to business problems.",
+        "Understand the multitude of organisational stakeholders, and their different, and often opposite, objective functions.",
+        "Understand the complexity of managing the implementation of analytics projects."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -14,6 +14,15 @@
         "A functional programming language will be used to implement and illustrate concepts."
     ],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Use propositional and predicate logic as tools to reason about non-trivial computational problems",
+        "Explain basic principles of mechanised reasoning, including resolution proof, and apply these to reason about computional problems",
+        "Reason about properties of mathematical objects such as functions and relations, and apply them to computational problems",
+        "Apply discrete mathematical techniques to problems in computer science",
+        "Synthesise context-free grammars from less formal language specifications",
+        "Design abstract computational devices, such as finite-state automata and pushdown automata",
+        "Analyse and reason about computational models, including finite-state automata, pushdown automata and Turing machines"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

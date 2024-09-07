@@ -9,6 +9,15 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Discuss the advantages and disadvantages of different measures of investment risk;",
+        "Describe and discuss the assumptions of mean-variance portfolio theory and its principal results;",
+        "Describe and discuss the properties of single and multifactor models of asset returns;",
+        "Describe asset pricing models, discussing the principal results and assumptions and limitations of such models;",
+        "Discuss the various forms of the Efficient Markets Hypothesis and discuss the evidence for and against the hypothesis;",
+        "Demonstrate a knowledge and understanding of stochastic models of the behaviour of security prices;",
+        "Define and apply the main concepts of Brownian motion (or Wiener Processes)."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
@@ -81,11 +90,8 @@
     "contact information": [
         {
             "Semester 2": {
-                "name": [
-                    "Han Li"
-                ],
+                "name": [],
                 "email": [
-                    "han.li@unimelb.edu.au",
                     "han.li@unimelb.edu.au"
                 ]
             }

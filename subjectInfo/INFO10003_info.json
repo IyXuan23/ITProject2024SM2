@@ -19,6 +19,14 @@
         "Prototyping and visual design",
         "Interfaces and platforms of interactive technologies"
     ],
+    "intended learning outcomes": [
+        "Define and distinguish between the different types of user interface",
+        "Exploit cognitive and social factors that make interactive software usable",
+        "Apply key design principles and guidelines that assist user interface designers, and understand the limitations of such guidelines",
+        "Apply techniques of Interaction Design / User-Centred Design across the development lifecycle",
+        "Understand theoretical approaches and methods for identifying user requirements",
+        "Understand the ethics of working with and employing ICTs in society"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

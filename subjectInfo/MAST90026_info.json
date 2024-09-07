@@ -9,6 +9,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "appreciate how and why numerical methods are developed to solve differential equations commonly arising in finance, science and engineering;",
+        "understand the chief factors to be considered in choosing an appropriate algorithm for a given class of problem;",
+        "acquire high level numerical tools and knowledge that can be used to solve a range of problems in science and engineering;",
+        "gain the ability to pursue further studies in this and related areas."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

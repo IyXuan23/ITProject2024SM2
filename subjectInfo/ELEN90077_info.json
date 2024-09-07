@@ -33,6 +33,15 @@
         "Sector coupling and multi-energy systems: decarbonisation of gas, heating and transport; role of hydrogen",
         "Distributed energy systems: new technical and commercial architectures for two-sided systems and markets; demand response; aggregators and virtual power plants; distributed energy markets; peer-to-peer trading; local energy communities; microgrids"
     ],
+    "intended learning outcomes": [
+        "1. Discuss the importance of active distribution networks and, in general, smart grids;",
+        "2. Describe the main characteristics and basic operation of distributed energy resources;",
+        "3. Analyse the steady-state operation of distribution networks and power systems with low-carbon technologies;",
+        "4. Convey the role of low-carbon technologies in future distribution networks and low-carbon electricity systems.",
+        "5. Assess the techno-economic impact of wind power and PV generation on distribution networks and power system operation and planning;",
+        "6. Analyse cost and benefits of different technological alternatives to support low-carbon power system operation and development;",
+        "7. Use of power system analysis software."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -11,6 +11,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "ILO 1. Describe the core principles of data integration and sharing for infrastructure engineering, delivery and operation",
+        "ILO 2. Identify the necessary components required for the development of data sharing and integration platforms for infrastructures including technical and institutional arrangements",
+        "ILO 3.  Apply a range of technologies for developing data integration and sharing platforms",
+        "ILO 4.  Analyse and evaluate data integration and sharing platforms."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

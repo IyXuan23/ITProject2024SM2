@@ -9,6 +9,11 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "prove relevant optimisation theorems;",
+        "set up and solve optimal control problems;",
+        "set up and solve dynamic programming problems."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

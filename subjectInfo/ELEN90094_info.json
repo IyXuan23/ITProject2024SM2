@@ -10,6 +10,12 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Evaluate fundamental theory and advanced concepts of random matrices, including random matrix distributions and techniques, finite and asymptotic;",
+        "Relate the purpose and application of random matrix methods in the context of broad engineering and data analysis applications;",
+        "Apply random matrix theory and methods to solve engineering problems;",
+        "Simulate random matrix models and techniques using software tools."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

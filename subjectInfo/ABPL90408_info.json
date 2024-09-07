@@ -11,6 +11,17 @@
     ],
     "aims": [],
     "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the rationale for using spatial information",
+        "Understand and deploy common approaches to interrogate spatial information",
+        "Infer Spatial relation in and between datasets",
+        "Understand scale and spatial relation",
+        "Identify Spatial autocorrelation",
+        "Model building for evaluation and prediction",
+        "Understanding the limits of models and data",
+        "Synthesize fine scale data to support decision making on multiple scales",
+        "Conduct spatial-statistical analysis of data"
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",

@@ -18,6 +18,13 @@
         "Communication over linear time-invariant channels including concepts of distortion, inter-symbol interference, pulse shaping, Nyquist\u2019s criterion, equalization, sequence detection and the Viterbi algorithm.",
         "Synchronization including carrier, symbol and frame synchronization."
     ],
+    "intended learning outcomes": [
+        "1. Describe the basic functional blocks of a digital communication system",
+        "2. Analyse the performance of digital communication schemes, in terms of signal-to-noise ratio, symbol-error-rate and bandwidth",
+        "3. Assess the relative merits of different modulation and detection techniques, and make design choices on this basis",
+        "4. Use software tools to analyse, design and evaluate digital communication systems",
+        "5. Demonstrate awareness of the broader context, implications and applications of digital communication systems in society."
+    ],
     "pre-requisites": [
         {
             "option": "Option 1",
