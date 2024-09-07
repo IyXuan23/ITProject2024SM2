@@ -13,7 +13,7 @@ conn = psycopg2.connect(database="postgres", user="postgres.seqkcnapvgkwqbqipqqs
 cur = conn.cursor()
 cur.execute("""TRUNCATE TABLE assessments CASCADE;""")
 
-folder_path = 'subjectInfoTest'
+folder_path = 'subjectInfo'
 
 # Open file and load data from file
 for file_path in glob.glob(os.path.join(folder_path, '*.json')):
@@ -38,7 +38,7 @@ for file_path in glob.glob(os.path.join(folder_path, '*.json')):
     # Collect and import info in "assessments" if available
     if assessments != None:
         for info in assessments:
-            decription = info ['description']
+            description = info ['description']
             timing = info ['timing']
             percentage = info['percentage']
             
