@@ -47,4 +47,5 @@ conn.commit()
 #Close the cursor
 cur.close()
 conn.close()
+print("--------SUCCEED IN IMPORTING DATA!-----------\n")
     

@@ -29,34 +29,32 @@ for file_path in glob.glob(os.path.join(folder_path, '*.json')):
     further_info = data['further info']
 
     # For debugging
-    print("Import data for " + subject_code)
-
+    print("Importing data for " + subject_code)
+    
+    # Initialize variables to store informations from 'further info'
     subject_texts = None
     subject_notes = None
     subject_ses = None
     subject_cap = None
 
+    # Collect info from each section in 'further info'
     texts = data['further info']['Texts']
-
     notes = None
     if 'subject notes' in data['further info']:
         notes = data['further info']['subject notes']
     if 'Subject notes' in data['further info']:
         notes = data['further info']['Subject notes']
-
     cap = data['further info']['Available through the Community Access Program'] if 'Available through the Community Access Program' in data['further info'] else None
     ses = data['further info']['Available to Study Abroad and/or Study Exchange Students'] if 'Available to Study Abroad and/or Study Exchange Students' in data['further info'] else None
 
 
+    # Reformat the info obtained from each section in 'further info' into appropriate data type.
     subject_texts = convert_listdict_to_list(texts)
-    #print(subject_texts)
-
     all_notes = []
     if notes != None:
         for note in notes:
             if isinstance(note,dict):
                 all_notes = convert_listdict_to_list(notes)
-                print("YES")
                 break
             if (note not in ['LEARNING AND TEACHING METHODS', 'INDICATIVE KEY LEARNING RESOURCES', 'CAREERS / INDUSTRY LINKS']) & (not isinstance(note,list)):
                 all_notes.append(note)
@@ -65,17 +63,12 @@ for file_path in glob.glob(os.path.join(folder_path, '*.json')):
                     elt = elt + '; '
                     all_notes.append(elt)
         subject_notes = ' '.join(all_notes)
-
- 
-
     if cap != None:
         converted_cap = convert_listdict_to_list(cap)
-        subject_cap = ' '.join(converted_cap)
-        #print(subject_cap)
-
+        subject_cap = ' '.join(converted_cap)        
     if ses != None:
         subject_ses = '. '.join(ses)
-        #print(subject_ses)
+        
     
 
     # Collect and import info in "dates and times"
@@ -145,4 +138,6 @@ conn.commit()
 #Close the cursor
 cur.close()
 conn.close()
-    
+
+print("--------SUCCEED IN IMPORTING DATA!-----------\n")
+  
