@@ -1,3 +1,6 @@
+import os
+import shutil
+import random
 from datetime import datetime
 
 def convert_to_daterange(period_str):
@@ -64,6 +67,10 @@ def convert_listdict_to_list(input_list: list) -> None | list:
     Returns:
     None if list is empty.
     """
+    if not input_list:
+        return None
+    
+
     return_list = []
     for info in input_list:
         for value in info.values():
@@ -77,4 +84,105 @@ def convert_listdict_to_list(input_list: list) -> None | list:
                         return_list.append(sub)
                     continue
     return None if len(return_list) == 0 else return_list
-            
+
+def convert_list_into_text(input_list: list) -> None | str:
+    """
+    Converts a list data type into a list
+    
+    Args:
+    input_list (list): A list of strings (may include a sub list)
+    
+    Returns:
+    None if input_list is empty.
+    """
+    if not input_list:
+        return None
+
+    final_list = []
+    for i, elt in enumerate(input_list):
+        if isinstance(elt, list):
+            temp_list = elt.copy()
+            temp_list[0] = '(' + temp_list[0]
+            temp_list[-1] = temp_list[-1] + ')'
+            for n in temp_list:
+                if n[-1] not in [',','.',':',')']:
+                    n = n + ', '
+                final_list.append(n)
+        else:
+            # Check if it's the last element. If it is append a period.
+            if i == len(input_list) - 1:
+                elt = elt + '.'
+            # If it's not the last element, append a comma.
+            else:
+                if ('the following' in elt) & (elt[-1] not in [',','.',':']):
+                    elt = elt + ': '
+                elif elt[-1] not in [',','.',':']:
+                    elt = elt + ', '
+            final_list.append(elt)
+    
+    text = ' '.join(final_list) if len(final_list) > 0 else None
+    return text
+
+
+
+
+
+def copy_random_files(source_folder: str, target_folder: str, num_files: int):
+    """
+    Copies a specified number of random JSON files from the source folder to the target folder.
+
+    Parameters:
+    - source_folder (str): The path to the source folder (where the files are).
+    - target_folder (str): The path to the destination folder (where files will be copied).
+    - num_files (int): The number of random files to copy.
+
+    Behavior:
+    - Selects random `.json` files from the source folder.
+    - Copies those files to the target folder.
+    """
+    if not os.path.exists(target_folder):
+        os.makedirs(target_folder)
+
+        all_files = [f for f in os.listdir(source_folder) if f.endswith('.json')]
+        selected_files = random.sample(all_files, num_files)
+
+        for file_name in selected_files:
+            src_path = os.path.join(source_folder, file_name)
+            dest_path = os.path.join(target_folder, file_name)
+            shutil.copy(src_path, dest_path)
+            print(f'Copied: {file_name}')
+    
+    print("--------SUCCEED IN COPYING FILES!-----------\n")
+
+def copy_specific_file(source_folder: str, target_folder :str, file_names: list):
+    """
+    Copies specific file(s) (by name) from the source folder to the target folder.
+
+    Parameters:
+    - source_folder (str): The path to the source folder (where file(s) is located).
+    - target_folder (str): The path to the destination folder (where file(s) will be copied).
+    - file_name (list): The name of file(s) to copy (including the .json extension).
+
+    Behavior:
+    - If file(s) exists in the source folder, they are copied to the target folder.
+    - If file(s) does not exist, a message is printed indicating a file was not found.
+    """
+    
+    if not os.path.exists(target_folder):
+        os.makedirs(target_folder)
+    
+    for file in file_names:
+        src_path = os.path.join(source_folder, file)
+        
+        # Check if the file exists at the source path
+        if os.path.exists(src_path):
+            dest_path = os.path.join(target_folder, file)
+            shutil.copy(src_path, dest_path)
+            print(f'Copied: {file_name}')
+        
+        else:
+            # The file was not found
+            print(f'File {file_name} not found in {source_folder}')
+            print("--------ERROR!-----------\n")
+            break
+    print("--------SUCCEED IN COPYING FILES!-----------\n")
