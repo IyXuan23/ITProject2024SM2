@@ -1,4 +1,4 @@
 #ignores the virtual environment file
 venv/
 *.venv
-DS_Store
+.DS_Store
