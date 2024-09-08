@@ -62,7 +62,6 @@ for file_path in glob.glob(os.path.join(folder_path, '*.json')):
                     sub_list.append(n)
                     sub_text = convert_list_into_text(sub_list)
                     necessary.append(sub_text)
-                    continue
                 else:
                     necessary.extend(n)
                 continue
