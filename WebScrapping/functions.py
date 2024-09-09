@@ -5,12 +5,19 @@ import os
 
 def retrieveLinks(file):
 
+    """function will retrieve links from the specified json file. Made so as to not need to rescrape the web
+    for links every single time"""
+
     with open(file, 'r') as f:
         links = json.load(f)
 
     return links['links']
 
 def scrapeOfferedLinks(numOfPages, targetArray, url, fileName):
+
+    """function will scrape subject/course/breadth track links from the given url, up to the specified number of pages, and will
+    save the links to a json file under fileName. This function will only scrape links of subjects offered in 2024, and will skip those
+    that are not"""
 
     className = 'search-result-item__anchor'
     #while loop will iterate through all the subject pages and return an array of the links for each individual subject
@@ -95,8 +102,7 @@ def writeJSONFile(filePath, name, code, overview, aims, indicativeContent, optio
 
 def scrapeOverview(url):
     """function will scrape the subject code and name, overview content and indicative content, and availability
-    and return it as an array
-    note: there may be changes to this function down the line to add in ILOs"""
+    and return them"""
 
     #note: url is in the format:
     #https://handbook.unimelb.edu.au/2024/subjects/comp30022
@@ -195,6 +201,8 @@ def scrapeOverview(url):
     return overview, aims, indicativeContent, availability
 
 def scrapeILO(url):
+
+    """function will scrape the ILOs of the given subject and return them as a list of strings"""
 
     ILOList = []
 
@@ -340,9 +348,6 @@ def formatOptions(courseCode):
                         
                         txt = nextElem.get_text(strip=True)
 
-                        print(nextElem)
-                        print('\n')
-
                         #prevent program from scrapping weird ways of 'one of' etc.
                         if ('one of' not in txt):
                         
@@ -386,6 +391,10 @@ def formatOptions(courseCode):
     return optionList
 
 def parseORoptions(soup):
+
+    """This function will only run if there are no 'options' in the webpage, the function will then parse the pre-requisite
+    and format them as options, to standardise them across all subjects, by recognising tags such as OR/ONE OF/AND etc, and then
+    return a list of pre-requisite options"""
 
     preReqContainer = soup.find('div', id='prerequisites')
 
@@ -502,7 +511,8 @@ def parseORoptions(soup):
 def parsePreReq(courseCode):
     """function will look through the required pre-requisites of a subject, and return the necessary data accordingly.
     2 arrays will be returned, one with the subjects that are necessary [singlePreReq], and one where the student as to do (one of)
-    the listed subjects to qualify [oneOfPreReq]"""
+    the listed subjects to qualify [oneOfPreReq]
+    CAUTION: FUNCTION IS DEPRECIATED AND NOT IN USE"""
 
     #note: url is in form:
     #https://handbook.unimelb.edu.au/subjects/comp30022/eligibility-and-requirements
@@ -561,7 +571,7 @@ def parsePreReq(courseCode):
 
 def scrapeCoReq(courseCode):
     """function for scraping the co-requisite requirement, result will either be a string 'None', or 
-    it will return [TEMP VALUE] (function incomplete)""" 
+    it will return [TEMP VALUE]""" 
 
     courseCode = courseCode.lower()
     preReqURL = 'https://handbook.unimelb.edu.au/subjects/' + courseCode + '/eligibility-and-requirements'
@@ -797,6 +807,8 @@ def scrapeDateTime(courseCode):
 
 def scrapeText(element, infoList, stopDiv):
 
+    """helper function for scraping text, by checking for each different HTML tag"""
+
     if hasattr(element, 'name') and element.name == 'p':
         text = element.get_text(strip=True)
         if text != '':
@@ -828,6 +840,8 @@ def scrapeText(element, infoList, stopDiv):
     return None        
 
 def scrapeInfoLine(element, infoList, stopDiv):
+
+    """helper function for scraping data from the further info page"""
 
     textDiv = element.find('div', class_='accordion__hidden')   
 
@@ -872,8 +886,9 @@ def scrapeInfoLine(element, infoList, stopDiv):
 
     return infoData
             
-
 def scrapeFurtherInfo(courseCode):
+
+    """function will scrape the further info page of a subject, and return the scraped data in a json format"""
 
     #note: url is in the form of:
     #https://handbook.unimelb.edu.au/subjects/comp30023/further-information
@@ -897,7 +912,6 @@ def scrapeFurtherInfo(courseCode):
         furtherInfoData[title] = infoData
 
     return furtherInfoData    
-
 
 def scrapSubject(url, subjectName, subjectCode):
 

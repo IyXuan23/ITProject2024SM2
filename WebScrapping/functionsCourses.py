@@ -7,6 +7,8 @@ from functions import parseTable
 def writeCoursesJSONFile(filePath, overviewData, overviewTable, reqData, skillsData, structureData, majorsData, furtherStudyData, 
                         courseName, courseCode):
 
+    """function for writing the scrapped data for courses into a JSON file"""
+
     data = {
         'Course name': courseName,
         'Course code': courseCode,
@@ -25,6 +27,8 @@ def writeCoursesJSONFile(filePath, overviewData, overviewTable, reqData, skillsD
 
 def parseOverviewTable(table):
 
+    """helper function for scraping the data from the table in the overview section of the course"""
+
     jsonData = {}
 
     rows = table.find_all('tr')
@@ -37,6 +41,8 @@ def parseOverviewTable(table):
     return jsonData
 
 def scrapeOverview(url):
+
+    """function will scrape data from the overview of the course page, and return the text and table info"""
 
     overviewText = []
     overviewTable = None
@@ -83,6 +89,8 @@ def titleSearcherReq(lst):
 
 def parseUL(ul):
 
+    """helper function for parsing text from a ul"""
+
     ulText = []
     lis = ul.find_all('li')
 
@@ -92,6 +100,7 @@ def parseUL(ul):
     return ulText    
 
 def parseOL(ol):
+    """helper function for parsing text from a ol"""
 
     olText = []
     lis = ol.find_all('li')
@@ -104,16 +113,20 @@ def parseOL(ol):
     return olText    
 
 def parsePara(para):
+    """helper function for parsing text from a para"""
     for br in para.find_all('br'):
         br.replace_with('\n')
     txt = para.get_text(strip=True)
     return txt    
 
 def parseA(a):
+    """helper function for parsing text from a href tag"""
     txt = a.get_text(strip=True)
     return txt
 
 def scrapeReq(url):
+
+    """function will scrape the pre-requisites needed for a course and return the data in a json format"""
 
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -167,6 +180,8 @@ def titleSearcherSkills(lst):
     return targetList      
     
 def scrapeSkills(url):
+
+    """function to scrape the skills page in the course data"""
 
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -223,6 +238,8 @@ def elementSearcher(header, element, stopDivs):
 
 def scrapStructureText(element):
 
+    """helper function for scraping text from the course structure page"""
+
     if hasattr(element, 'name') and element.name == 'p':
         if element.find('table') == None:
             txt = parsePara(element)
@@ -241,6 +258,8 @@ def scrapStructureText(element):
     return None    
         
 def scrapeStructure(url):
+
+    """function to scrape the course structure page in the courses"""
 
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -325,6 +344,8 @@ def scrapeStructure(url):
 
 def scrapeMajorTable(table):
 
+    """helper function to scrape the table in the majors minor specialisations page"""
+
     tableData = {}
 
     rows = table.find_all('tr')
@@ -342,6 +363,8 @@ def scrapeMajorTable(table):
 
 def scrapeMajorText(element):
 
+    """helper function to scrape the text in the majors minor specialisations page"""
+
     if hasattr(element, 'name') and element.name == 'p':
         if element.find('table') == None:
             return parsePara(element)
@@ -358,6 +381,8 @@ def scrapeMajorText(element):
     return None    
 
 def scrapeMajors(url):
+
+    """function to scrape the major minors and specialisations page in the courses"""
 
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -399,6 +424,8 @@ def scrapeMajors(url):
     return majorsData     
 
 def scrapeFurtherStudy(url):
+
+    """function for scraping the further study page in the courses"""
 
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')

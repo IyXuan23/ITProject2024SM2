@@ -7,6 +7,8 @@ from functionsCourses import parseA, parseOL, parseUL, parsePara
 
 def writeBTJSONFile(filePath, nameBT, dataBT):
 
+    """function to write the breadth track data as a JSON file"""
+
     data = {
         'name': nameBT,
         'information': dataBT
@@ -17,6 +19,7 @@ def writeBTJSONFile(filePath, nameBT, dataBT):
 
 def scrapeBTData(element):
 
+    """helper function for scraping breadth track data, by checking for each HTML tag"""
 
     if hasattr(element, 'name'):
 
@@ -35,6 +38,8 @@ def scrapeBTData(element):
     return None        
 
 def scrapeBTOverview(url):
+
+    """scrape overview of the breadth track, returning the name and overview of the track"""
 
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -67,8 +72,9 @@ def scrapeBTOverview(url):
 
     return nameBT, dataBT 
 
-
 def scrapeBT(url):
+
+    """main scraping function for scraping breadth tracks"""
 
     #https://handbook.unimelb.edu.au/2024/components/btrack-121
     nameBT, dataBT = scrapeBTOverview(url)
