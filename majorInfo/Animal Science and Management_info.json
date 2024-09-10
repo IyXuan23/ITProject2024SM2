@@ -1,0 +1,32 @@
+{
+    "major name": "Animal Science and Management",
+    "overview": [
+        "The major in Animal Science and Management replaces the existing BS (Hons) Animal Science and Management offered by the Faculty of Veterinary and Agricultural Sciences. The aims of the major are to develop an understanding of the biology of domestic and captive animals, their care, management and use as a resource for food, fibre, recreation and companionship. To develop an in-depth knowledge of the biology of animals, the complexities of the ethical and moral issues encompassing care, management and use as a resource will be examined in light of advances in human endeavour. The major will allow a degree of specialisation based around analysis of animal systems management of a chosen species or classification of animals. Greater knowledge, if so desired, of economic, business, communications or natural resource management relevant to, and strengthening the core studies in Animal Science and Management can be developed through clear pathways within the breadth component of the Melbourne model. Graduates from the new programme will be able to enter careers in the public or private sectors related to a wide range of animal production, environmental, biomedical and service industries, and community organisations concerned with public good, or continue into postgraduate programmes of study at masters or research higher degree."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "ANSC30009": "Animal Systems Analysis Credits"
+            },
+            "AND",
+            {
+                "ANSC30003": "Applied Animal Behaviour Credits",
+                "ANSC30001": "Animal Disease Biotechnology 1 Credits",
+                "ANSC30002": "Animal Disease Biotechnology 2 Credits",
+                "ANSC30004": "Applied Animal Reproduction & Genetics Credits",
+                "ANSC30006": "Production Animal Health Credits",
+                "ANSC30008": "Production Animal Physiology Credits",
+                "AGRI30045": "Applications in Precision Agriculture Credits"
+            }
+        ],
+        "Notes": [
+            "The major in Animal Science and Management major was previously known as the major in Domestic Animal Science (prior to 2011).",
+            "This major has been modified from 2010 to 2011 with the removal of specific specialisations. Students who commenced the major prior to 2011 intending to complete a specific specialisation will not be disadvantaged as the specialisation within a major is not recorded on a student's Academic Transcript."
+        ],
+        "Links": [
+            "http://fvas.unimelb.edu.au/study/courses"
+        ]
+    }
+}

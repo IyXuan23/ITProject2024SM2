@@ -1,0 +1,19 @@
+{
+    "major name": "Data Science",
+    "overview": [
+        "The major in Data Science has an emphasis on statistics and computer science. It provides a strong foundation in the statistical aspects of data analysis (data collection, data mining, modelling and inference), as well as the principles of computer science (algorithms, data structures, data management and machine learning).The major is designed to give students an intellectual understanding of how to integrate and apply statistical and computing principles to solve large scale, real-world data science problems. It is suitable for students interested in a career in government or industry or who wish to pursue specialised graduate study.",
+        "NOTE - Students undertaking this major may not be concurrently admitted to the Diploma in Informatics (D-INFO), Diploma in Computing (D-COMP), or Diploma in Mathematical Sciences (D-MATHSC)."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "MAST30025": "Linear Statistical Models Credits",
+                "MAST30027": "Modern Applied Statistics Credits",
+                "MAST30034": "Applied Data Science Credits",
+                "COMP30027": "Machine Learning Credits"
+            }
+        ]
+    }
+}

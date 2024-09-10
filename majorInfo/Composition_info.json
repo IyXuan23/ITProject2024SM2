@@ -1,0 +1,78 @@
+{
+    "major name": "Composition",
+    "overview": [
+        "The Composition major provides a carefully designed sequence of projects, building technique and craft in the service of articulating an emerging individual voice.",
+        "Students learn skills in writing for instrumental, vocal and electronic media, as well as how to communicate musical ideas clearly and fluently.",
+        "Students may major in Composition from first year, or apply to transfer from Performance after year 1."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "225 credit points",
+            "To obtain a major in Composition students will need to complete:",
+            [
+                "175 credit points of Composition core subjects including\n50 credit points of Level 1 Composition core subjects\n50 credit points of Level 2 Composition core subjects\n75 credit points of Level 3 Composition core subjects\n\n",
+                "50 credit points of Level 1 Composition core subjects",
+                "50 credit points of Level 2 Composition core subjects",
+                "75 credit points of Level 3 Composition core subjects",
+                "50 credit points of Music elective subjects includingA maximum of 25 credit points of Level 1 Music elective subjects\n",
+                "A maximum of 25 credit points of Level 1 Music elective subjects"
+            ],
+            [
+                "50 credit points of Level 1 Composition core subjects",
+                "50 credit points of Level 2 Composition core subjects",
+                "75 credit points of Level 3 Composition core subjects"
+            ],
+            [
+                "A maximum of 25 credit points of Level 1 Music elective subjects"
+            ]
+        ],
+        "Transfer Major Rules:": [
+            [
+                "Students may apply to transfer into the Composition Major from the Performance Major OR Performance (ANAM) Major at the end of the calendar year.",
+                "To transfer to Composition Major Year 2 students must:\ncomplete all Level 1 core subjects in the Performance Major OR Performance (ANAM) Major; and\ncomplete a successful folio audition for the Composition Major.\n\n",
+                "complete all Level 1 core subjects in the Performance Major OR Performance (ANAM) Major; and",
+                "complete a successful folio audition for the Composition Major.",
+                "Note: Students who commenced the degree mid-year may need to extend the duration of the degree and reduce their study load in some semesters after transferring into the Composition Major."
+            ],
+            [
+                "complete all Level 1 core subjects in the Performance Major OR Performance (ANAM) Major; and",
+                "complete a successful folio audition for the Composition Major."
+            ]
+        ],
+        "Subject lists": [],
+        "Music Electives": [
+            "https://handbook.unimelb.edu.au/components/b-mus-infspc-4"
+        ],
+        "Music Ensemble Electives": [
+            "https://handbook.unimelb.edu.au/components/b-mus-infspc-6"
+        ],
+        "Level 1 core subjects": [
+            {
+                "MUSI10047": "Music History 1: 17th & 18th Centuries Credits",
+                "MUSI10231": "Composition 1 Credits",
+                "MUSI10023": "Music Language 1: the Diatonic World Credits",
+                "MUSI10232": "Composition 2 Credits"
+            }
+        ],
+        "Level 2 core subjects": [
+            {
+                "MUSI20055": "Composition 3 Credits",
+                "MUSI20198": "Music History 2: The Long 19th Century Credits",
+                "MUSI20056": "Composition 4 Credits",
+                "MUSI20061": "Music Language 2: Chromaticism & Beyond Credits"
+            }
+        ],
+        "Level 3 core subjects": [
+            {
+                "MUSI30249": "Music History 3: 20th & 21st Centuries Credits",
+                "MUSI30025": "Orchestration Credits",
+                "MUSI30031": "Electro-Acoustic Music Credits",
+                "MUSI30213": "Composition 5 Credits",
+                "MUSI30046": "Music Language 3: Modern Directions Credits",
+                "MUSI30214": "Composition 6 Credits"
+            },
+            "Please refer to the following pages for all available music elective subjects:"
+        ]
+    }
+}

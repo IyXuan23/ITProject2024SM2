@@ -1,0 +1,107 @@
+{
+    "major name": "Energy Efficiency Modelling and Implementation",
+    "overview": [
+        "Energy Efficiency Modelling and Implementation is offered as a major field of study in the Master of Environment degree.",
+        "Energy modelling and implementation for buildings has become an important area in the light of growing concerns about climate change, energy security and the general need to adopt more sustainable practices. Despite the obvious need for people with such knowledge, there is a severe shortage of people that are trained in energy modelling who have the capacity to interpret the modelling results to effective practice. The realms of energy knowledge required include heating and cooling requirements, as well as use of day lighting and natural lighting. These skills are crucial to being able to reduce the risk in the integration of innovative sustainability initiatives, this risk reduction centres on assurances of performance and delivery of desired sustainability outcomes.",
+        "Energy modelling is a key tool for the development and adoption of energy efficiency in new and existing buildings. This course develops the skills of complex modelling informed by an understanding of the results ensuring the graduate has the ability to both interpret and communicate outcomes effectively. Units of study include a mix of building management, architecture, engineering, management, and education and communication subjects."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "Students will be required to complete two subjects core to the degree (Sustainability, Governance and Leadership, and Interdisciplinarity and Environment), and four subjects compulsory to the specialisation. Students in the 200 point pathway willapply this knowledge to a project including research of alternative retrofit options, testing, analysis and scholarly writing of the results. This research or internship project subject will be selected from a list of available research project subjects and must have a minimum weight of 12.5 points. Students in the 100 point pathway will not normally be required to complete this component. Students choose subjects from a recommended list of electives to make up the balance of the award. The selection of electives is made in consultation with the Energy Efficiency Modelling and Implementation major coordinators. More information about this stream can be found here:",
+            "http://environment.unimelb.edu.au/study/specialisations/energy-efficiency-modelling-and-implementation"
+        ],
+        "Subject Options": [],
+        "Core Subjects": [
+            "Students must take the following core subjects:",
+            {
+                "MULT90004": "Environmental Sustainability Credits",
+                "MULT90005": "Partnerships for Sustainable Futures Credits"
+            }
+        ],
+        "Compulsory Specialisation Subjects": [
+            "Students must complete the following compulsory specialisation subjects",
+            {
+                "ENEN90011": "Energy Efficiency Technology Credits",
+                "ENEN90033": "Solar Energy Credits",
+                "ABPL90153": "Complex Building Energy Modelling Credits",
+                "ABPL90086": "Environmental Systems Credits"
+            }
+        ],
+        "Compulsory Capstone Experience": [
+            "Students must complete at least 12.5 points from the following compulsory capstone subjects - please note that if you select either a 25 or 50 point research project that spreads across two semesters you must enrol into the Part 1 and Part 2 subjects over consecutive semesters. Students completing the 100 point pathway will normally be exempt from this requirement.",
+            {
+                "ENST90006": "Environmental Research Review (12.5) Credits",
+                "ENST90007": "Environmental Research Project (25) Credits",
+                "ENST90016": "Environmental Research Project (50) Credits",
+                "ENST90025": "Environmental Industry Research (25) Credits",
+                "ENST90020": "Environmental Industry Research (50) Credits",
+                "DEVT90002": "Internship in Development Credits",
+                "DEVT90008": "International Internship in Development Credits",
+                "GEOG90022": "International Internship in Environment Credits",
+                "ENST90035": "Environmental Research Project - 25 Pt1 Credits",
+                "ENST90036": "Environmental Research Project - 25 Pt2 Credits",
+                "ENST90037": "Environmental Research Project - 50 Pt1 Credits",
+                "ENST90038": "Environmental Research Project - 50 Pt2 Credits",
+                "ENST90039": "Environmental Industry Research - 25 Pt1 Credits",
+                "ENST90040": "Environmental Industry Research - 25 Pt2 Credits",
+                "ENST90041": "Environmental Industry Research - 50 Pt1 Credits",
+                "ENST90042": "Environmental Industry Research - 50 Pt2 Credits"
+            }
+        ],
+        "Elective Subjects": [
+            "Students should make up the balance of the award with electives. Subjects in the list below are recommended. Other subjects may be taken with the approval of stream coordinator.",
+            {
+                "ABPL90009": "Participation and Negotiation Credits",
+                "ABPL90032": "Building Services and Operations Credits",
+                "ABPL90283": "Ecology for Design Credits",
+                "ENEN90014": "Sustainable Buildings Credits",
+                "ENEN90031": "Quantitative Environmental Modelling Credits",
+                "ENEN90032": "Environmental Analysis Tools Credits",
+                "ABPL90016": "Asset Management Credits",
+                "ABPL90030": "Project Evaluation Credits",
+                "GEOG90021": "Conservation and Cultural Environments Credits",
+                "DEVT90009": "Development Theories Credits",
+                "ECON90016": "Environmental Economics and Strategy Credits",
+                "ENST90002": "Social Impact Assessment and Evaluation Credits",
+                "ENST90017": "Environmental Policy Instruments Credits",
+                "EVSC90014": "Environmental Risk Assessment Credits",
+                "EVSC90015": "Environmental Impact Assessment Credits",
+                "FRST90034": "Ecological Restoration Credits",
+                "LAWS70068": "Environmental Law Credits",
+                "MAST90007": "Statistics for Research Workers Credits",
+                "MGMT90022": "Managing Organisational Change Credits",
+                "NRMT90003": "Social Research Methods Credits",
+                "ABPL90056": "Urban Transport Politics Credits",
+                "ABPL90309": "Supply Chains in Construction Credits",
+                "ABPL90310": "Construction Industry and Environment Credits",
+                "ABPL90326": "Technological Innovation Credits",
+                "HORT90046": "Designing Green Roofs and Walls Credits",
+                "ABPL90152": "Bower Studio - Community Development Credits",
+                "ABPL90153": "Complex Building Energy Modelling Credits",
+                "ENEN90011": "Energy Efficiency Technology Credits",
+                "ENEN90033": "Solar Energy Credits",
+                "DEVT90002": "Internship in Development Credits",
+                "DEVT90008": "International Internship in Development Credits",
+                "ENST70001": "Environmental Research Proj (50 Long) Credits",
+                "ENST70002": "Environmental Industry Research: 50 Long Credits",
+                "ENST90006": "Environmental Research Review (12.5) Credits",
+                "ENST90007": "Environmental Research Project (25) Credits",
+                "ENST90016": "Environmental Research Project (50) Credits",
+                "ENST90020": "Environmental Industry Research (50) Credits",
+                "ENST90024": "Environmental Research Project - 25 Long Credits",
+                "ENST90025": "Environmental Industry Research (25) Credits",
+                "ENST90026": "Environmental Industry Research: 25 Long Credits",
+                "ABPL90120": "Building Sustainability Credits",
+                "ABPL90329": "Construction Policy Credits",
+                "LING90002": "Presenting Academic Discourse Credits",
+                "MGMT90030": "Managing Innovation Credits",
+                "ENST90033": "Climate Change Mitigation Credits"
+            }
+        ],
+        "Notes": [
+            "Other subjects may be approved at the discretion of the coordinators."
+        ],
+        "Links": []
+    }
+}

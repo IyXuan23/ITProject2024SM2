@@ -1,0 +1,269 @@
+{
+    "major name": "Classics (Ancient Greek and Latin)",
+    "overview": [
+        "Classics is the study of the languages Ancient Greek and Latin, which have been taught at the University of Melbourne since its very foundation and have been a core element of higher education for many centuries. The overall objective of the Classics program is to introduce students to key literary texts from classical antiquity (including history, drama, oratory, philosophy, epic, and lyric poetry), and to enable students to discover the many important contributions which reading ancient texts in the original languages can make to understanding both the ancient world and the Western tradition. Knowledge of Ancient Greek and Latin is also very useful for research and training in such related disciplines as biochemistry, medicine, the history and philosophy of science, archaeology, Biblical studies, history, philosophy, art history, Romance language studies, English literary studies, and music.",
+        "Students who major in Classics may progress through one or both of these languages from beginners level (entry point 1) and are encouraged to take subjects in both languages. Students who have completed one of these languages at VCE may begin studying the language at entry point 3 and are required to commence studying the other classical language at level 1 (entry point 1).",
+        "Students who are interested in pursuing a Classics major are highly advised to seek advice from the Coordinator regarding the appropriate study plan."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "Students who major in Classics may progress through one or both of these languages from beginners level (entry point 1) and are encouraged to take subjects in both languages. Students who have completed one of these languages at VCE may begin studying the language at entry point 3 and are required to commence studying the other classical language at level 1 (entry point 1).",
+            "The subject ANCW30017 is compulsory in the Classics (Ancient Greek and Latin) and Ancient World Studies majors. Students who are completing two majors in these disciplines can only count ANCW30017 towards one major. One additional Level 3 subject must be completed for the other major.",
+            "This major requires the completion of either:"
+        ],
+        "Links": [
+            "http://shaps.unimelb.edu.au/classics-archaeology"
+        ],
+        "Latin Entry Point 1": [
+            [
+                "25 credit points of Latin EP1 Level 1 core subjects",
+                "25 credit points of Latin EP1 Level 2 core subjects",
+                "12.5 credit points of Ancient World Studies Level 2 electives or 12.5 credit points of Ancient Greek Level 2 subjects",
+                "25 credit points of Latin EP1 Level 3 core subjects",
+                "12.5 credit points of Capstone subject"
+            ],
+            "12.5 credit points of Ancient World Studies Level 2 electivesor12.5 credit points of Ancient Greek Level 2 subjects",
+            "OR"
+        ],
+        "Latin Entry Point 3": [
+            [
+                "25 credit points of Latin EP3 Level 1 core subjects",
+                "25 credit points of Latin EP3 Level 2 core subjects",
+                "12.5 credit points of Ancient World Studies electives or 12.5 credit points of Ancient Greek electives",
+                "Between 12.5 and 25 credit points of Ancient World Studies  level 3 electives or Between 12.5 and 25 credit points of Ancient Greek level 3 electives",
+                "12.5 credit points of Capstone subject"
+            ],
+            "12.5 credit points of Ancient World Studies electivesor12.5 credit points of Ancient Greek electives",
+            "Between 12.5 and 25 credit points of Ancient World Studies  level 3 electivesorBetween 12.5 and 25 credit points of Ancient Greek level 3 electives",
+            "OR"
+        ],
+        "Ancient Greek Entry Point 1": [
+            [
+                "25 credit points of Ancient Greek EP1 Level 1 core subjects",
+                "25 credit points of Ancient Greek EP1 Level 2 core subjects",
+                "12.5 credit points of Ancient World Studies Level 2 electives or 12.5 credit points of Latin Level 2 subjects",
+                "25 credit points of Ancient Greek EP1 Level 3 core subjects",
+                "12.5 credit points of Capstone subject"
+            ],
+            "12.5 credit points of Ancient World Studies Level 2 electivesor12.5 credit points of Latin Level 2 subjects",
+            "OR"
+        ],
+        "Ancient Greek Entry Point 3": [
+            [
+                "25 credit points of Ancient Greek EP3 Level 1 core subjects",
+                "25 credit points of Ancient Greek EP3 Level 2 core subjects",
+                "12.5 credit points of Ancient World Studies level 2 electives or 12.5 credit points of Latin Level 2 electives",
+                "Between 12.5 and 25 credit points of Ancient World Studies  level 3 electives or Between 12.5 and 25 credit points of Latin Level 3 electives",
+                "12.5 credit points of Capstone subject"
+            ],
+            "12.5 credit points of Ancient World Studies level 2 electivesor12.5 credit points of Latin Level 2 electives",
+            "Between 12.5 and 25 credit points of Ancient World Studies  level 3 electivesorBetween 12.5 and 25 credit points of Latin Level 3 electives"
+        ],
+        "Latin Entry Point 1 ": [],
+        "Latin Entry Point 3 ": [],
+        "Ancient Greek Entry Point 1 ": [],
+        "Ancient Greek Entry Point 3 ": [],
+        "Latin EP1 Level 1 core subjects": [
+            {
+                "CLAS10006": "Latin 1 Credits",
+                "CLAS10007": "Latin 2 Credits"
+            }
+        ],
+        "Latin EP 1 Level 2 core subjects": [
+            {
+                "CLAS20029": "Latin 3 Credits",
+                "CLAS20031": "Latin 4 Credits"
+            }
+        ],
+        "Latin EP 1 Level 2 elective subjects": [
+            {
+                "ANCW20003": "Egypt Under the Pharaohs with the NGV Credits",
+                "ANCW20015": "Classical Mythology Credits",
+                "ANCW20018": "Intensive Syriac Aramaic Credits",
+                "ANCW20019": "The Rise and Fall of the Roman Republic Credits",
+                "ANCW20022": "History of Greece: Homer to Alexander Credits",
+                "ANCW20023": "Ancient Egyptian 3 Credits",
+                "ANCW20024": "Ancient Egyptian 4 Credits",
+                "ANCW20025": "Archaeology of the Roman World Credits",
+                "ANCW20026": "Living and Dying in the Roman World Credits",
+                "ANCW20027": "The Ancient Greeks: Art & Archaeology Credits",
+                "ANCW20028": "Interpreting Material Culture Credits",
+                "PHIL20040": "Greek Philosophy Credits",
+                "CLAS20015": "Ancient Greek 3 Credits",
+                "CLAS20016": "Ancient Greek 4 Credits",
+                "CLAS20013": "Ancient Greek 5 Credits",
+                "CLAS20014": "Ancient Greek 6 Credits",
+                "CLAS20029": "Latin 3 Credits",
+                "CLAS20031": "Latin 4 Credits",
+                "CLAS20035": "Intensive Ancient Greek 1 Credits",
+                "CLAS20026": "Latin 6 Credits",
+                "CLAS20030": "Latin 5 Credits"
+            }
+        ],
+        "Latin EP 1 Level 3 core subjects": [
+            {
+                "CLAS30013": "Latin 5 Credits",
+                "CLAS30009": "Latin 6 Credits"
+            }
+        ],
+        "Latin EP 1 capstone subject": [
+            {
+                "ANCW30017": "Interpreting the Ancient World Credits"
+            }
+        ],
+        "Latin EP 3 Level 1 core subjects": [
+            {
+                "CLAS10012": "Latin 3 Credits",
+                "CLAS10014": "Latin 4 Credits"
+            }
+        ],
+        "Latin EP 3 Level 2 core subjects": [
+            {
+                "CLAS20030": "Latin 5 Credits",
+                "CLAS20026": "Latin 6 Credits"
+            }
+        ],
+        "Latin EP 3 Level 2 elective subjects": [
+            {
+                "ANCW20003": "Egypt Under the Pharaohs with the NGV Credits",
+                "ANCW20015": "Classical Mythology Credits",
+                "ANCW20018": "Intensive Syriac Aramaic Credits",
+                "ANCW20019": "The Rise and Fall of the Roman Republic Credits",
+                "ANCW20022": "History of Greece: Homer to Alexander Credits",
+                "ANCW20023": "Ancient Egyptian 3 Credits",
+                "ANCW20024": "Ancient Egyptian 4 Credits",
+                "ANCW20025": "Archaeology of the Roman World Credits",
+                "ANCW20026": "Living and Dying in the Roman World Credits",
+                "ANCW20027": "The Ancient Greeks: Art & Archaeology Credits",
+                "ANCW20028": "Interpreting Material Culture Credits",
+                "PHIL20040": "Greek Philosophy Credits",
+                "CLAS20015": "Ancient Greek 3 Credits",
+                "CLAS20016": "Ancient Greek 4 Credits",
+                "CLAS20013": "Ancient Greek 5 Credits",
+                "CLAS20014": "Ancient Greek 6 Credits",
+                "CLAS20029": "Latin 3 Credits",
+                "CLAS20031": "Latin 4 Credits",
+                "CLAS20035": "Intensive Ancient Greek 1 Credits",
+                "CLAS20026": "Latin 6 Credits",
+                "CLAS20030": "Latin 5 Credits"
+            }
+        ],
+        "Latin EP3 Level 3 elective subjects": [
+            {
+                "ANCW30004": "Beyond Babylon Credits",
+                "ANCW30011": "Underworld and Afterlife Credits",
+                "ANCW30016": "The Age of Alexander the Great Credits",
+                "ANCW30020": "Intensive Syriac Aramaic Credits",
+                "ANCW30021": "Imperial Rome: Mediterranean Superpower Credits",
+                "ANCW30023": "Practical Archaeology Credits",
+                "ANCW30025": "Field Archaeology Credits",
+                "ANCW30026": "Roman Law in Context Credits",
+                "CLAS30045": "Intensive Ancient Greek 1 Credits",
+                "CLAS30025": "Ancient Greek 6 Credits",
+                "CLAS30024": "Ancient Greek 5 Credits"
+            }
+        ],
+        "Latin EP 3 capstone subject": [
+            {
+                "ANCW30017": "Interpreting the Ancient World Credits"
+            }
+        ],
+        "Ancient Greek EP 1 Level 1 core subjects": [
+            {
+                "CLAS10004": "Ancient Greek 1 Credits",
+                "CLAS10005": "Ancient Greek 2 Credits"
+            }
+        ],
+        "Ancient Greek EP 1 Level 2 core subjects": [
+            {
+                "CLAS20015": "Ancient Greek 3 Credits",
+                "CLAS20016": "Ancient Greek 4 Credits"
+            }
+        ],
+        "Ancient Greek EP 1 Level 2 elective subjects": [
+            {
+                "ANCW20003": "Egypt Under the Pharaohs with the NGV Credits",
+                "ANCW20015": "Classical Mythology Credits",
+                "ANCW20018": "Intensive Syriac Aramaic Credits",
+                "ANCW20019": "The Rise and Fall of the Roman Republic Credits",
+                "ANCW20022": "History of Greece: Homer to Alexander Credits",
+                "ANCW20023": "Ancient Egyptian 3 Credits",
+                "ANCW20024": "Ancient Egyptian 4 Credits",
+                "ANCW20025": "Archaeology of the Roman World Credits",
+                "ANCW20026": "Living and Dying in the Roman World Credits",
+                "ANCW20027": "The Ancient Greeks: Art & Archaeology Credits",
+                "ANCW20028": "Interpreting Material Culture Credits",
+                "PHIL20040": "Greek Philosophy Credits",
+                "CLAS20029": "Latin 3 Credits",
+                "CLAS20031": "Latin 4 Credits",
+                "CLAS20030": "Latin 5 Credits",
+                "CLAS20026": "Latin 6 Credits"
+            }
+        ],
+        "Ancient Greek EP 1 Level 3 core subjects": [
+            {
+                "CLAS30024": "Ancient Greek 5 Credits",
+                "CLAS30025": "Ancient Greek 6 Credits"
+            }
+        ],
+        "Ancient Greek EP 1 capstone subject": [
+            {
+                "ANCW30017": "Interpreting the Ancient World Credits"
+            }
+        ],
+        "Ancient Greek 3 EP 3 Level 1 core subjects": [
+            {
+                "CLAS10020": "Ancient Greek 3 Credits",
+                "CLAS10021": "Ancient Greek 4 Credits"
+            }
+        ],
+        "Ancient Greek EP 3 Level 2 core subjects": [
+            {
+                "CLAS20013": "Ancient Greek 5 Credits",
+                "CLAS20014": "Ancient Greek 6 Credits"
+            }
+        ],
+        "Ancient Greek EP 3 Level 2 elective subjects": [
+            {
+                "CLAS20029": "Latin 3 Credits",
+                "CLAS20031": "Latin 4 Credits",
+                "CLAS20030": "Latin 5 Credits",
+                "CLAS20026": "Latin 6 Credits",
+                "ANCW20003": "Egypt Under the Pharaohs with the NGV Credits",
+                "ANCW20015": "Classical Mythology Credits",
+                "ANCW20018": "Intensive Syriac Aramaic Credits",
+                "ANCW20019": "The Rise and Fall of the Roman Republic Credits",
+                "ANCW20022": "History of Greece: Homer to Alexander Credits",
+                "ANCW20023": "Ancient Egyptian 3 Credits",
+                "ANCW20024": "Ancient Egyptian 4 Credits",
+                "ANCW20025": "Archaeology of the Roman World Credits",
+                "ANCW20026": "Living and Dying in the Roman World Credits",
+                "ANCW20027": "The Ancient Greeks: Art & Archaeology Credits",
+                "ANCW20028": "Interpreting Material Culture Credits",
+                "PHIL20040": "Greek Philosophy Credits"
+            }
+        ],
+        "Ancient Greek EP 3 capstone subject": [
+            {
+                "ANCW30017": "Interpreting the Ancient World Credits"
+            }
+        ],
+        "Ancient Greek EP 3 Level 3 elective subjects": [
+            {
+                "ANCW30004": "Beyond Babylon Credits",
+                "ANCW30011": "Underworld and Afterlife Credits",
+                "ANCW30016": "The Age of Alexander the Great Credits",
+                "ANCW30020": "Intensive Syriac Aramaic Credits",
+                "ANCW30021": "Imperial Rome: Mediterranean Superpower Credits",
+                "ANCW30023": "Practical Archaeology Credits",
+                "ANCW30025": "Field Archaeology Credits",
+                "ANCW30026": "Roman Law in Context Credits",
+                "CLAS30013": "Latin 5 Credits",
+                "CLAS30009": "Latin 6 Credits",
+                "CLAS30004": "Intensive Beginners Latin Credits"
+            }
+        ]
+    }
+}

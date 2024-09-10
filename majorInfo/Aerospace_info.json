@@ -1,0 +1,29 @@
+{
+    "major name": "Aerospace",
+    "overview": [
+        "Students must complete the following subjects to gain the specialisation:"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "The Aerospace specialisation is completed by undertaking four specific subjects (50 credit points).",
+            "Note: Students entering the course with advanced standing who plan on completing a specialisation may need to enrol in core specialisation subjects in their commencing semester. Please check and follow the structure outlined for your intended specialisation and seek course planning advice."
+        ],
+        "To obtain a specialisation in Aerospace, students must complete:": [
+            [
+                "50 credit points of Year 3 core Aerospace specialisation subjects"
+            ]
+        ],
+        "Subject Options": [
+            "Year 3 core specialisation subjects",
+            {
+                "MCEN90018": "Advanced Fluid Dynamics Credits",
+                "MCEN90047": "Aerospace Propulsion Credits",
+                "MCEN90045": "Aerospace Dynamics and Control Credits",
+                "MCEN90046": "Vibrations and Aeroelasticity Credits"
+            },
+            "(Must be completed in Year 3 of the course)"
+        ]
+    }
+}

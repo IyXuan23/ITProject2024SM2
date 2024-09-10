@@ -1,0 +1,34 @@
+{
+    "major name": "Screen Studies",
+    "overview": [
+        "See program overview"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "Duration:6 months full-time / 1 year part-time",
+            "Program Requirements -",
+            [
+                "elective subjects (50 points)"
+            ],
+            "Total 50 points"
+        ],
+        "Subject Options": [],
+        "Elective Subjects": [
+            "50 points",
+            {
+                "AHIS40002": "Indigenous Australian Art Histories Credits",
+                "SCRN40002": "Screen Theory, Style & Spectators Credits",
+                "SCRN40005": "Melodrama, Ideology and the Cinema Credits",
+                "SCRN40006": "Film, Art and Exhibition Credits",
+                "SCRN40010": "Dream Screen: Film and Psychoanalysis Credits",
+                "SCRN40013": "Censorship: Film, Art and Media Credits",
+                "CULS40001": "Creative Economy, Policy, and Power Credits"
+            }
+        ],
+        "Links": [
+            "http://arts.unimelb.edu.au/culture-communication"
+        ]
+    }
+}

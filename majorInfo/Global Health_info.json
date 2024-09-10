@@ -1,0 +1,69 @@
+{
+    "major name": "Global Health",
+    "overview": [
+        "Students taking subjects from this specialisation will be trained to work in reducing global health inequity. Students will learn about common health challenges occurring across the globe, and how to work in partnership to develop innovative solutions for health inequity across low, middle- and high-income countries. Within this specialisation students have the opportunity to focus on the health of different populations (i.e. women, children, adolescents or people with a disability), and/or to focus on specific approaches to health (e.g. human rights, primary health care, or health promotion), and or to focus on specific global health issues (ie. non-communicable diseases, communicable diseases, or mental health). Possible roles in the field include government health officer, government health technical advisor, program officer, consultant technical advisor, global health researcher, community development officer. Organisations that employ people in the global health field include government ministries of health and foreign affairs, international non-government organisations, United Nations Agencies, development banks, global health, development and research consulting firms; and community-based organisations focused on health equity and development.",
+        "Last updated: 17 July 2024"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "Standard 200 Point Program (no Advanced Standing):",
+            "SIX core subjects and NINE elective subjects and the Capstone Selective POPH90227 Public Health in PracticeORSIX core subjects, EIGHT elective subjects and either a Research Project or Professional Practice unit",
+            "175 Point Pathway:",
+            "SIX core subjects and SEVEN elective subjects and the Capstone Selective POPH90227 Public Health in PracticeORSIX core subjects, SIX elective subjects and either a Research Project or Professional Practice unit",
+            "150 Point Pathway:",
+            "SIX core subjects and FIVE elective subjects and the Capstone Selective POPH90227 Public Health in PracticeORSIX core subjects and FOUR elective subjects and either a Research Project or Professional Practice unit"
+        ],
+        "Subject Options": [],
+        "Core Subjects": [
+            {
+                "POPH90217": "Foundations of Public Health Credits",
+                "POPH90013": "Biostatistics Credits",
+                "POPH90014": "Epidemiology 1 Credits",
+                "POPH90218": "Public Health Leadership and Management Credits",
+                "POPH90231": "Qualitative Research in Public Health Credits",
+                "POPH90274": "Prioritising & Planning in Public Health Credits"
+            }
+        ],
+        "Highly Recommended Electives": [
+            "Students cannot enrol in both POPH90137 and POPH90131. They must choose to enrol in only one of these.",
+            {
+                "POPH90209": "Comparative Health Systems Credits",
+                "POPH90247": "Non Communicable Disease & Global Health Credits",
+                "POPH90230": "Planetary and Global Health Credits",
+                "POPH90244": "Health and Human Rights Credits"
+            },
+            {
+                "POPH90131": "Primary Health Care: applied principles Credits"
+            },
+            {
+                "POPH90137": "Primary Health Care, Jamkhed, India Credits"
+            }
+        ],
+        "Other Recommended Electives": [
+            {
+                "POPH90189": "Health Program Design & Implementation Credits",
+                "POPH90020": "Health Promotion Credits",
+                "POPH90264": "Global Population Ageing Credits",
+                "POPH90112": "Infectious Disease Epidemiology Credits",
+                "POPH90058": "Health Program Evaluation 1 Credits",
+                "POPH90066": "Women and Global Health Credits",
+                "POPH90275": "Population Mental Health Credits",
+                "POPH90291": "Indigenous Health in a Global Context Credits",
+                "POPH90191": "Practice of Public Health Leadership Credits",
+                "POPH90301": "Pandemic Preparedness and Response Credits",
+                "POPH90088": "Disability in Policy and Practice Credits",
+                "POPH90303": "Climate Change and Health Credits",
+                "POPH90304": "Sustainability and Healthcare Credits"
+            }
+        ],
+        "Capstone": [
+            "There are three Capstone options to choose from - please refer to the Course Entry for detailed information on each of these:",
+            [
+                "1. Research Project",
+                "2. Professional Practice Unit",
+                "3. Capstone selective subject & an additional elective"
+            ]
+        ]
+    }
+}

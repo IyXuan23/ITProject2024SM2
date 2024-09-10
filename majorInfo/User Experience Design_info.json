@@ -1,0 +1,35 @@
+{
+    "major name": "User Experience Design",
+    "overview": [
+        "This major will be a natural pathway to the Master of Information Systems and the Master of Information Technology.Career pathwaysare varied and plentiful in the 21st century that involved the design and development of digital technology. Some career pathways include interaction design, service design, user experience design, business process design, mobile app design and web and social media development."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "To obtain a major in User Experience Design students need to complete:",
+            [
+                "50 credit points of User Experience Design core subjects"
+            ]
+        ],
+        "Notes": [
+            "To view a sample course plan please visithttp://edsc.unimelb.edu.au/undergraduate/course-planning/bdes/digital-technologies"
+        ],
+        "Non-allowed breadth": [
+            "Students undertaking the User Experience Design major are not permitted to take as breadth:",
+            [
+                "None of any Computer Science subjects (subject codes beginning with COMP)\n",
+                "None of any Informatics subjects (subject codes beginning with INFO)\n",
+                "None of any Spatial Systems subjects (subject codes beginning GEOM)\n",
+                "None of any Information Systems subjects (subject codes beginning with ISYS)\n"
+            ]
+        ],
+        "User Experience Design core subjects": [
+            {
+                "INFO30005": "Advanced Interface Prototyping Credits",
+                "INFO30009": "Game Design Credits",
+                "INFO30008": "Interactive Technology Project Credits"
+            }
+        ]
+    }
+}

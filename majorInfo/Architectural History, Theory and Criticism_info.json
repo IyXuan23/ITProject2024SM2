@@ -1,0 +1,46 @@
+{
+    "major name": "Architectural History, Theory and Criticism",
+    "overview": [
+        "The honours program in Architecture History, Theory and Criticism gives students the opportunity to complete an advanced course of study,  including an independent research project on an area of interest approved by the specialisation coordinator.",
+        "Students must achieve a minimum of 65% in all subjects in order to qualify for the awarding of an honours degree."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points"
+        ],
+        "Subject Options": [
+            "Core subjects ( 62.5 points)",
+            {
+                "ABPL40053": "Research Methods in Design Credits",
+                "ABPL40054": "Bachelor of Design Honours Thesis-I Credits",
+                "ABPL40055": "Bachelor of Design Honours Thesis -II Credits"
+            },
+            "Elective Subjects(37.5 points)",
+            {
+                "ABPL90075": "Urban and Landscape Heritage Credits",
+                "ABPL90089": "Australian Architecture Credits",
+                "ABPL90282": "Principles of Heritage and Conservation Credits",
+                "ABPL90355": "Issues and Techniques in Global Heritage Credits",
+                "ABPL90367": "Critical&Curatorial Practices in Design Credits",
+                "ABPL90368": "Architecture and Media Credits",
+                "ABPL90369": "Architecture as Spectacle Credits",
+                "EDUC90728": "Innovative Spaces and Pedagogy Credits",
+                "ABPL90146": "Architectural Conservation in Asia Credits",
+                "ABPL90241": "Representing and Remembering Place (PG) Credits",
+                "ABPL90336": "Craft in Traditional Asian Architecture Credits",
+                "ABPL90385": "Applied Heritage Conservation Techniques Credits",
+                "ABPL90419": "Contemporary Architectural Archives Credits",
+                "ABPL90421": "Design - Philosophy - Architecture Credits"
+            }
+        ],
+        " Students undertaking honours in Architectural History, Theory and Criticism  must complete: \n": [
+            [
+                "Research Methods in Design (12.5 points)",
+                "Bachelor of Design Honours Thesis (50 points), consisting of Bachelor of Design Honours Thesis part 1 (12.5 points) and part 2 (37.5 points)",
+                "37.5 points Elective subjects"
+            ],
+            "Total 100 points"
+        ]
+    }
+}

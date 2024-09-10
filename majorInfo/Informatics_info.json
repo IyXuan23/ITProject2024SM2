@@ -1,0 +1,26 @@
+{
+    "major name": "Informatics",
+    "overview": [
+        "Students who commenced this course prior to 2018 and are planning to complete the Informatics major may continue to do so. Students commencing in 2018 or after interested in Informatics are encouraged to explore the Computing and Software Systems or Data Science majors, as well as the concurrent Diploma in Computing.",
+        "The Informatics major will focus on preparing students for careers in information and data management, medical and health informatics and clinical research, physical informatics and social informatics. Graduates will be prepared for these pathways by developing skills in understanding, manipulating, visualising, integrating and exploiting data and information; these skills are crucial to many industries, particularly medical/health industries, and research in biological and physical sciences.",
+        "This major will integrate knowledge from a range of disciplines including computing, information modelling and human-computer interaction, by enabling students to complete a sequence of specialist subjects in each, as well as integrated subjects in which the students develop an understanding of the application of informatics to solving current problems in particular domains. Students will gain experience preparing them for the workplace by participating in project based subjects in which they will apply the skills they have learnt to real world problems.",
+        "NOTE - Students undertaking this major may not be concurrently admitted to the Diploma in Informatics (D-INFO) or Diploma in Computing (D-COMP)."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "COMP30022": "IT Project Credits",
+                "INFO30004": " Credits",
+                "INFO30005": "Advanced Interface Prototyping Credits"
+            },
+            "AND",
+            {
+                "COMP30019": "Graphics and Interaction Credits",
+                "INFO30006": "Information Security and Privacy Credits"
+            },
+            "Students who planned to complete INFO30007 in this major (available until 2016) may seek individual advice from the major coordinator about their elective options"
+        ]
+    }
+}

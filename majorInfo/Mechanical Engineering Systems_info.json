@@ -1,0 +1,21 @@
+{
+    "major name": "Mechanical Engineering Systems",
+    "overview": [
+        "Students who have undertaken the Mechanical Engineering Systems major will be able to rigorously integrate fundamental science in mechanics with engineering principles to solve practical problems involving mechanical systems. Core skills and knowledge that will be developed include: fundamental scientific comprehension that will lead to accurate mathematical modelling of mechanical systems, analytical and abstract thinking, problem-solving and design skills, and the ability to carry out laboratory experiments to confirm possible solutions to complex problems. In all levels of this major, we will ensure the development of excellent communication skills that will enable our graduates to deliver complex scientific information in a clear and concise fashion.The Mechanical Engineering Systems major will open up various pathways for students, which will include accredited professional or scientific research careers in mechanical and mechatronics engineering (through further study in the Masters in Engineering (ME) or PhD programs), teaching, management and also careers in the finance industry."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "MCEN30017": "Mechanics & Materials Credits",
+                "MCEN30018": "Thermodynamics and Fluid Mechanics Credits",
+                "MCEN30020": "Systems Modelling and Analysis Credits",
+                "MCEN30021": "Mechanical Systems Design Credits"
+            }
+        ],
+        "Notes": [
+            "In addition to these four core subjects, students must complete either MAST20029 Engineering Mathematics OR both of MAST20009 Vector Calculus AND MAST20030 Differential Equations at Level 2."
+        ]
+    }
+}

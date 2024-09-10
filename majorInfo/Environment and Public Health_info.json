@@ -1,0 +1,123 @@
+{
+    "major name": "Environment and Public Health",
+    "overview": [
+        "Environment and Public Health is offered as a major field of study in the Master of Environment degree.",
+        "At this time in history it is hard to imagine a topic more important than the impacts of the environment on human health. The very life support systems of clean air, fresh water, a safe climate, food security and biodiversity are under stress.",
+        "The Environment and Public Health stream is designed to ensure students are preparing for a career in the intersection between health and the environment. Recent years have seen new roles emerging that focus on policy, advocacy, research, and environmental management in relation to health and environment. This stream helps prepare students for these key roles.",
+        "Study in this field will provide you with the tools used in environmental health practice, and by public health practitioners. These include surveillance, monitoring, observation, analysis, and selected techniques in biostatistics, epidemiology and health economics. Other skills we develop are more specific to environmental health or environmental studies, such as environmental, social and health impact assessment and qualitative and quantitative analysis.",
+        "This stream is a specialist companion program to the Master of Environment and Public Health which is offered at the University of Melbourne."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "Students will be required to complete the two core subjects, plus two compulsory specialisation subjects Students in the 200 point pathway must also take at least 12.5 points of subjects from the compulsory capstone subjects \u2013 these subjects enable students to complete an independent project related to professional practices in environment and public health. Students in the 100 point pathway will not normally be required to complete this component. Students must also undertake electives to make up the balance of the award. The selection of electives is made in consultation with the Environment and Public Health major coordinator. More information about this stream can be found here:",
+            "http://environment.unimelb.edu.au/study/specialisations/environment-and-public-health"
+        ],
+        "Subject Options": [],
+        "Core subjects": [
+            "Students must take the following core subjects:",
+            {
+                "MULT90004": "Environmental Sustainability Credits",
+                "MULT90005": "Partnerships for Sustainable Futures Credits"
+            }
+        ],
+        "Compulsory Specialisation Subjects": [
+            "Students must take the following compulsory specialisation subjects:",
+            {
+                "POPH90014": "Epidemiology 1 Credits",
+                "POPH90217": "Foundations of Public Health Credits",
+                "POPH90230": "Planetary and Global Health Credits"
+            }
+        ],
+        "Compulsory Capstone Experience": [
+            "Students must complete at least 12.5 points from the following compulsory capstone subjects - please note that if you select either a 25 or 50 point research project that spreads across two semesters you must enrol into the Part 1 and Part 2 subjects over consecutive semesters. Students completing the 100 point pathway will normally be exempt from this requirement.",
+            {
+                "ENST90006": "Environmental Research Review (12.5) Credits",
+                "ENST90007": "Environmental Research Project (25) Credits",
+                "ENST90016": "Environmental Research Project (50) Credits",
+                "ENST90025": "Environmental Industry Research (25) Credits",
+                "ENST90020": "Environmental Industry Research (50) Credits",
+                "DEVT90002": "Internship in Development Credits",
+                "DEVT90008": "International Internship in Development Credits",
+                "GEOG90022": "International Internship in Environment Credits",
+                "AGRI90076": "Industry Internship Credits",
+                "ENST90035": "Environmental Research Project - 25 Pt1 Credits",
+                "ENST90036": "Environmental Research Project - 25 Pt2 Credits",
+                "ENST90037": "Environmental Research Project - 50 Pt1 Credits",
+                "ENST90038": "Environmental Research Project - 50 Pt2 Credits",
+                "ENST90039": "Environmental Industry Research - 25 Pt1 Credits",
+                "ENST90040": "Environmental Industry Research - 25 Pt2 Credits",
+                "ENST90041": "Environmental Industry Research - 50 Pt1 Credits",
+                "ENST90042": "Environmental Industry Research - 50 Pt2 Credits"
+            }
+        ],
+        "Elective Subjects": [
+            "Students should make up the balance of the award with electives. Subjects in the list below are recommended. Other subjects may be taken with the approval of stream coordinator.",
+            {
+                "POPH90013": "Biostatistics Credits",
+                "GEOG90021": "Conservation and Cultural Environments Credits",
+                "CHEM90007": "Environmental Chemistry Credits",
+                "ENST90002": "Social Impact Assessment and Evaluation Credits",
+                "EVSC90014": "Environmental Risk Assessment Credits",
+                "EVSC90015": "Environmental Impact Assessment Credits",
+                "LAWS70068": "Environmental Law Credits",
+                "POPH90020": "Health Promotion Credits",
+                "POPH90058": "Health Program Evaluation 1 Credits",
+                "POPH90066": "Women and Global Health Credits",
+                "POPH90071": "Indigenous Health and History Credits",
+                "POPH90086": "Global Child Health Credits",
+                "POPH90087": "Global Challenges in Adolescent Health Credits",
+                "POPH90088": "Disability in Policy and Practice Credits",
+                "POPH90090": "Health Program Evaluation 2 Credits",
+                "POPH90093": "Economic Evaluation 1 Credits",
+                "POPH90112": "Infectious Disease Epidemiology Credits",
+                "POPH90131": "Primary Health Care: applied principles Credits",
+                "POPH90137": "Primary Health Care, Jamkhed, India Credits",
+                "POPH90144": "Regression Methods in Health Research Credits",
+                "POPH90145": "Survival Analysis & Regression for Rates Credits",
+                "POPH90189": "Health Program Design & Implementation Credits",
+                "POPH90190": "HIV and AIDS:An Evolving Global Response Credits",
+                "POPH90191": "Practice of Public Health Leadership Credits",
+                "POPH90200": "Advanced Qualitative Health Research Credits",
+                "POPH90201": "Community Engagement for Health Impact Credits",
+                "POPH90205": "Social Determinants of Health Inequality Credits",
+                "POPH90206": "Health Policy Credits",
+                "POPH90209": "Comparative Health Systems Credits",
+                "POPH90227": "Public Health in Practice Credits",
+                "POPH90229": "Health Economics 2 Credits",
+                "POPH90230": "Planetary and Global Health Credits",
+                "POPH90231": "Qualitative Research in Public Health Credits",
+                "ENST90019": "Consumerism and the Growth Economy Credits",
+                "POPH90238": "Systems for Global Health Credits",
+                "HORT90011": "Therapeutic Landscapes Credits",
+                "ABPL90022": "Healthy Communities Credits",
+                "FOOD90027": "Nutrition Politics and Policy Credits",
+                "POPH90242": "Epidemiology 2 Credits",
+                "POPH90243": "Epidemiology in Practice Credits",
+                "FOOD90024": "Securing Sufficient and Healthy Food Credits",
+                "FOOD90026": "The Politics of Food Credits",
+                "POPH90218": "Public Health Leadership and Management Credits",
+                "POPH90069": "Sexual and Reproductive Health Credits",
+                "POPH90094": "Health Economics 1 Credits",
+                "DEVT90002": "Internship in Development Credits",
+                "DEVT90008": "International Internship in Development Credits",
+                "ENST70001": "Environmental Research Proj (50 Long) Credits",
+                "ENST70002": "Environmental Industry Research: 50 Long Credits",
+                "ENST90006": "Environmental Research Review (12.5) Credits",
+                "ENST90007": "Environmental Research Project (25) Credits",
+                "ENST90016": "Environmental Research Project (50) Credits",
+                "ENST90020": "Environmental Industry Research (50) Credits",
+                "ENST90024": "Environmental Research Project - 25 Long Credits",
+                "ENST90025": "Environmental Industry Research (25) Credits",
+                "ENST90026": "Environmental Industry Research: 25 Long Credits",
+                "GEOG90022": "International Internship in Environment Credits",
+                "AGRI90076": "Industry Internship Credits",
+                "LING90002": "Presenting Academic Discourse Credits",
+                "POPH90232": "Indigenous Health: From Data to Practice Credits"
+            }
+        ],
+        "Notes": [
+            "Other subjects may be approved at the discretion of the coordinator."
+        ]
+    }
+}

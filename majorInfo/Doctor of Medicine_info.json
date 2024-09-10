@@ -1,0 +1,62 @@
+{
+    "major name": "Doctor of Medicine",
+    "overview": [
+        "The Master of Public Health (MD) is offered to students enrolled in the MD at the University of Melbourne. This program is designed for those students who wish to combine future medical practice with work that protects and improves the health of communities through education, primary prevention, reform and research. This recognizes the need to produce outstanding graduates that have the ability to address growing disparities in health care, health promotion and the global burden of disease. The MD/MPH is fully integrated, allowing students to undertake the MPH between the third and fourth year of the MD program so that they might develop public health interests as an integral part of their medical training.",
+        "Applicants apply to undertake the MPH component of the MD/MPH at the start of the MD-Year Three. After being accepted students take a leave of absence from the MD program at the end of third year, complete their MPH coursework and return for the final stage of the MD program one year later. This pathway is not available to students who have already completed the MD and quotas may be applied to both CSP and fee-based enrolments.",
+        "Students currently enrolled in their first year of the Master of Public Health (MPH)who havebeen successful in gaining entry to the MD are eligible for entry to the MD-MPH Intercalated degree providing they have completed POPH90217 Foundations of Public Health, POPH90013 Biostatistics, POPH90014 Epidemiology 1, POPH90231 Qualitative Research in Public Health, POPH90274 Prioritising & Planning Public Health and Five Elective Subjects.  MPH students who study part-time and successfully undertake the requisite ten subjects over a period exceeding a year and enter the MD subsequently will also be considered eligible for the MPH (MD).",
+        "Last updated: 17 July 2024"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "The Master of Public Health (MPH) Doctor of Medicine (MD) is a 200 point program. Successful applicants will be granted a total of 50 credit points advanced standing:",
+            [
+                "31.25 credit points unspecified credit into the MPH (MD)",
+                "12.5 credit point (exemption) specificly against either of the following core subjects:\nPOPH90217 Foundations of Public Health; or\nPOPH90218 Public Health Leadership and Management\n\n",
+                "POPH90217 Foundations of Public Health; or",
+                "POPH90218 Public Health Leadership and Management",
+                "6.25 credit points unspecified credit for completion of a Trainee Internship in Population Health during the final year of the MD."
+            ],
+            [
+                "POPH90217 Foundations of Public Health; or",
+                "POPH90218 Public Health Leadership and Management"
+            ],
+            "Students in the Doctor of Medicine specialisation (students granted 50 credit points of advanced standing)  will need to complete:",
+            [
+                "62.5 credit points of core/core-selective subjects including\n50 credit points of core subjects\n12.5 credit points of selective subjects\n\n",
+                "50 credit points of core subjects",
+                "12.5 credit points of selective subjects",
+                "62.5 credit points of elective subjects",
+                "25 credit points of scholarly research skills subject (Year 3 of the MC-DMED program)"
+            ],
+            [
+                "50 credit points of core subjects",
+                "12.5 credit points of selective subjects"
+            ]
+        ],
+        "Subject Options": [
+            "Core subjects",
+            {
+                "POPH90013": "Biostatistics Credits",
+                "POPH90014": "Epidemiology 1 Credits",
+                "POPH90231": "Qualitative Research in Public Health Credits",
+                "POPH90274": "Prioritising & Planning in Public Health Credits"
+            },
+            "Selective core subjects:",
+            {
+                "POPH90217": "Foundations of Public Health Credits",
+                "POPH90218": "Public Health Leadership and Management Credits"
+            },
+            "Elective subjects",
+            "Students must choose FIVE elective subjects from the available electives in the Master of Public Health listed on the Course Structure page.",
+            [
+                "Two elective subjects held during the March \u2013 June period",
+                "Three elective subjects held during the July \u2013 December period"
+            ],
+            "Scholarly research skills subject",
+            {
+                "MEDS90036": "MD Research Skills Credits"
+            }
+        ]
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "major name": "General Practice and Primary Care",
+    "overview": [
+        "The Honours program at the Department of General Practice and Primary Care will provide the student with the skills to conduct human research in the primary care setting. Primary health care research focuses on the provision of primary, comprehensive and continuing care.",
+        "The research focus of the Department is on quality and safety in primary health care, models of primary care and clinical research in primary care. The social model of health, the doctor patient relationship and the primary care team are all embedded firmly within this work. Honours students will have the opportunity to join one of the current research groups within the Department.",
+        "The course year starts in February and ends in November and is only available full time.",
+        "Admission requirements",
+        "In addition to satisfying the Bachelor of Science (Degree with Honours) entry requirements, students are required to have completed stream specific prerequisites. Details of stream specific prerequisites can be found at the Bachelor of Science (Degree with Honours) entry and participation requirements page."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "The Honours program consists of 100 credit points completed over 12 months full time (or part time equivalent) comprising of two (2) Advanced Coursework subjects and a Research Project.",
+            "To be awarded Honours with a specialisation in General Practice and Primary Care, students must successfully complete the following:",
+            [
+                "BIOM40001 Introduction to Biomedical Research (12.5 points)",
+                "GENP40002 Introduction to Primary Care Research (12.5 points)",
+                "GENP40000 and GENP40001 - Primary Care Research Project (75 points)"
+            ],
+            "There are no elective subjects in this Honours program."
+        ],
+        "Subject Options": [],
+        "Coursework Component": [
+            "Students must complete 25 credit points of advanced coursework subjects. This is achieved by enrolling in the following subjects in the appropriate semesters.",
+            {
+                "BIOM40001": "Introduction To Biomedical Research Credits",
+                "GENP40002": "Introduction to Primary Care Research Credits"
+            }
+        ],
+        "Research Component": [
+            "Students must complete a total of 75 credit points of research across the duration of the Honours program. This is achieved by enrolling in a combination of the following subjects in the appropriate semesters.",
+            {
+                "GENP40000": "Primary Care Research Project Part 1 Credits",
+                "GENP40001": "Primary Care Research Project Part 2 Credits"
+            }
+        ],
+        "Links": [
+            "http://www.gp.unimelb.edu.au/"
+        ]
+    }
+}

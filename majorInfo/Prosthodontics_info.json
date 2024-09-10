@@ -1,0 +1,25 @@
+{
+    "major name": "Prosthodontics",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "225 credit points",
+            "225 points of core subjects"
+        ],
+        "Subject Options": [
+            "Year 1:",
+            {
+                "DENT90102": "Prosthodontics 1 Credits"
+            },
+            "Year 2:",
+            {
+                "DENT90103": "Prosthodontics 2 Credits"
+            },
+            "Year 3:",
+            {
+                "DENT90104": "Prosthodontics 3 Credits"
+            }
+        ]
+    }
+}

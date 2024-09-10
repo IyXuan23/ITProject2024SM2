@@ -1,0 +1,19 @@
+{
+    "major name": "Computing and Software Systems",
+    "overview": [
+        "The Computing and Software Systems major will focus on providing students with considerable technical expertise in computer science and software engineering, including exposure to a variety of programming paradigms, an understanding of the systematic processes underpinning the software development lifecycle, and an appreciation of advanced topics in computing. This major will be a natural pathway to the Master of Engineering (Software), the Master of Science (Computer Science), and the Master of Data Science. Graduates with a management orientation will also consider the Master of Information Systems (MIS).",
+        "NOTE - Students undertaking this major may not be concurrently admitted to the Diploma in Informatics (D-INFO) or Diploma in Computing (D-COMP)."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "SWEN30006": "Software Modelling and Design Credits",
+                "COMP30023": "Computer Systems Credits",
+                "COMP30022": "IT Project Credits",
+                "COMP30026": "Models of Computation Credits"
+            }
+        ]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "major name": "Food Science",
+    "overview": [
+        "The Food Science major consists of an amalgamation of certain sequences of subjects to teach students basic chemistry and biology in the first year, followed by a few food science specialised subjects in the second year. This sequence of subjects will prepare students to progress toward the Level 3 subjects in the food science major and to build sound skills and knowledge in food science and food biotechnology or food science and technology. This major is designed to meet the needs of the local and international food industries for high quality food science graduates."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "FOOD30008": "Advanced Food Analysis Credits",
+                "FOOD30007": "Food Processing & Preservation Credits",
+                "FOOD30009": "Food Research & Development Credits",
+                "FOOD30010": "Functional Foods Credits"
+            }
+        ],
+        "Links": [
+            "http://www.bsc.unimelb.edu.au/majors"
+        ]
+    }
+}

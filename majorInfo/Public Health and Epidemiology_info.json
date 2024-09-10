@@ -1,0 +1,35 @@
+{
+    "major name": "Public Health and Epidemiology",
+    "overview": [
+        "Public health is the area of health concerned with promoting and protecting the health of populations and communities. This includes efforts to prevent the spread of infectious disease, improve access to healthy food options, promote physical activity and fitness, and ensure safe food and water in communities. In this major, students will study key aspects of public health, including epidemiology, ethics and equity, and health communication. The capstone subject, 'Communicating for Health, Not Harm,' will give students the opportunity to contribute to a real-life health promotion campaign and work to benefit the health of university students.This major's subjects may be credited towards the Master of Public Health degree at the University of Melbourne. Additionally, the public health major is highly relevant for students pursuing careers as health professionals, as it provides an understanding of the many factors that impact an individual's health. Students will also develop skills essential for health professional practice, such as communication, ethical health practice, and interpretation of data."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "To obtain a major in Public Health and Epidemiology students need to complete:",
+            [
+                "37.5 credit points of Public Health and Epidemiology core subjects",
+                "A minimum of 12.5 credit points of Public Health and Epidemiology electives"
+            ]
+        ],
+        "Public Health and Epidemiology core subjects": [
+            {
+                "POPH30003": "Real World Epidemiology Credits",
+                "POPH30004": "Ethics and Equity in Health and Medicine Credits",
+                "POPH30005": "Communicating for Health, not Harm Credits"
+            }
+        ],
+        "Public Health and Epidemiology electives": [
+            {
+                "MIIM30014": "Medical Microbiology: Virology Credits",
+                "MIIM30017": "Medical Microbiology: Parasitology Credits",
+                "NUTR30002": "Monitoring Food and Nutrition Intake Credits",
+                "PATH30001": "Mechanisms of Human Disease Credits",
+                "PHRM30008": "Drugs: From Discovery to Market Credits",
+                "PSYC30014": "The Psychopathology of Everyday Life Credits"
+            },
+            "Or an alternative elective approved by the Coordinator of the Major."
+        ]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "major name": "100pt Program (1 year full-time)",
+    "overview": [
+        "The Executive Master of Arts (EMA) is designed for graduates who are eager to shape leadership roles for themselves in the 21st century. It is a program which recognises the unique benefits of combining traditional Arts strengths in analysis, ethics and critical reasoning with a skill set appropriate for managing resources, planning projects and delivering results in a dynamic contemporary environment.",
+        "The 100 point program has a start year intake only.",
+        "Last updated: 23 August 2024"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "Duration:1 year full-time",
+            [
+                "Five compulsory subjects (62.5 points)",
+                "Capstone subjects (25 points for the coursework option and 37.5 points for the minor thesis option)",
+                "Elective subjects (12.5 points for the coursework option)"
+            ],
+            "For policies that govern this degree, seeAcademic Services Policyin theUniversity Melbourne Policy Framework. Students also should also refer to information in theStudent Policy Directory."
+        ],
+        "Subject Options": [],
+        "Compulsory Subjects": [
+            "It is strongly recommended that students complete all compulsory subjects sequentially in the first 100 points of the program.",
+            "62.5 points",
+            {
+                "PHIL90022": "Thinking and Acting Ethically Credits",
+                "MGMT90126": "Managing Budgets, Resources and Risk Credits",
+                "MGMT90127": "Leadership Theory & Practice Credits",
+                "MGMT90128": "Project Management Credits",
+                "MGMT90132": "Professional Communication Credits"
+            }
+        ],
+        "Capstone Subjects": [
+            "25 points for the coursework option or 37.5 points for the minor thesis option",
+            "Coursework Option:",
+            {
+                "MGMT90129": "Group Project Credits"
+            },
+            "or",
+            {
+                "MGMT90131": "Internship Credits"
+            },
+            "or",
+            {
+                "MGMT90164": "Industry Project Credits"
+            },
+            "Minor Thesis Option:",
+            {
+                "MGMT90235": "Minor Thesis Part 1 Credits",
+                "MGMT90236": "Minor Thesis Part 2 Credits",
+                "ARTS90032": "Research Principles & Practices Graduate Credits"
+            }
+        ],
+        "Elective Subjects ": [
+            "12.5 points for the coursework option",
+            {
+                "MGMT90160": "The Secret Life of Organisations Credits",
+                "PHIL90021": "Critical and Creative Thinking Credits",
+                "MGMT90234": "Leaders, Business & Culture in Florence Credits",
+                "MULT90059": "Social Enterprise Incubator Credits",
+                "ARTS90004": "The Power of Ideas: Ten Great Books Credits"
+            }
+        ],
+        "Links": [
+            "http://graduate.arts.unimelb.edu.au/"
+        ]
+    }
+}

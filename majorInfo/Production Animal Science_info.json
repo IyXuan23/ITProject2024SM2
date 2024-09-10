@@ -1,0 +1,41 @@
+{
+    "major name": "Production Animal Science",
+    "overview": [
+        "This major will provide graduates with a depth and breadth of understanding in production animal science in the context of agricultural systems. Students of this major will study subjects in animal biology, nutrition and physiology, health and welfare. Graduates of this major will also gain a detailed understanding of animal production industries, and how management strategies can optimise growth and product quality."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "37.5 credit points",
+            "To obtain a major in Production Animal Science students need to complete:",
+            [
+                "12.5 credit points of Core subjects",
+                "A minimum of 25 credit points of Production Animal Science electives"
+            ]
+        ],
+        "Subject options": [],
+        "Recommended Level 2 Electives": [
+            "Please note the below subjects are recommended based on your intended major. Some of these may be prerequisites for Level 3 subjects in this major.",
+            {
+                "AGRI20003": "Sustainable Food Systems Credits",
+                "AGRI20044": "Microbiology in Agriculture Credits",
+                "ANSC20001": "Animal Physiology and Growth Credits",
+                "ANSC20002": "Comparative Nutrition and Digestion Credits",
+                "AGRI20036": "Ecology and Grazing Management Credits"
+            }
+        ],
+        "Core subject": [
+            {
+                "ANSC30008": "Production Animal Physiology Credits"
+            }
+        ],
+        "Production Animal Science electives": [
+            {
+                "ANSC30003": "Applied Animal Behaviour Credits",
+                "ANSC30004": "Applied Animal Reproduction & Genetics Credits",
+                "ANSC30005": "Animal Welfare and Ethics Credits",
+                "ANSC30006": "Production Animal Health Credits"
+            }
+        ]
+    }
+}

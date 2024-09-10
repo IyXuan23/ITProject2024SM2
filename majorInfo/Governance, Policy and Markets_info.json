@@ -1,0 +1,107 @@
+{
+    "major name": "Governance, Policy and Markets",
+    "overview": [
+        "Governance, Policy and Markets is offered as a major field of study in the Master of Environment degree.",
+        "Who drives the laws that determine our environmental future? And how can positive change be effectively communicated, or policy influenced through regulation, better governance and the media?",
+        "The development and marketing of environmental policy is vitally important in effecting changes in government, corporate bodies, and across the environmental sector. The Governance, Policy and Markets major looks at existing national and international legal and political frameworks relevant to the environment, enhances your skills in policy-making, business management and marketing, and gives you the tools to incorporate these skills and work systems in the workplace.",
+        "This major is most appropriate for professionals engaged in helping organisations develop economically viable environmental agendas and communicating these effectively to the public, or for those wishing to enter this sector.",
+        "Students can expect to find employment in a wide range of organisations such as government authorities, environmental consulting companies and industry and assist them in development, ongoing management and marketing of change in environmental agendas as well as the identification of opportunities that result from environmental initiatives."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "Students will be required to complete three core subjects, plus choose three subjects from the compulsory specialisation subject list. Students in the 200 point pathway must also take at least 12.5 points of subjects from the compulsory capstone subjects \u2013 these subjects enable students to complete an independent project related to professional practices in environmental governance, policy or communication. Students in the 100 point pathway will not normally be required to complete this component. Students must also undertake electives to make up the balance of the award. The selection of electives is made in consultation with the Governance, Policy and Markets major coordinator. More information about this stream can be found here:",
+            "http://environment.unimelb.edu.au/study/specialisations/governance-policy-and-markets"
+        ],
+        "Subject Options": [],
+        "Core Subjects": [
+            "Students must complete the following core subjects",
+            {
+                "MULT90004": "Environmental Sustainability Credits",
+                "MULT90005": "Partnerships for Sustainable Futures Credits",
+                "ENST90005": "Environmental Policy Credits"
+            }
+        ],
+        "Compulsory Specialisation Subjects": [
+            "Students must complete three of the following subjects:",
+            {
+                "ECON90016": "Environmental Economics and Strategy Credits",
+                "MGMT90165": "Social Entrepreneurship Credits",
+                "ENST90017": "Environmental Policy Instruments Credits",
+                "MGMT90208": "Sustainable Business Practices Credits",
+                "LAWS70068": "Environmental Law Credits",
+                "POLS90015": " Credits"
+            }
+        ],
+        "Compulsory Capstone Experience": [
+            "Students must complete at least 12.5 points from the following compulsory capstone subjects - please note that if you select either a 25 or 50 point research project that spreads across two semesters you must enrol into the Part 1 and Part 2 subjects over consecutive semesters. Students completing the 100 point pathway will normally be exempt from this requirement.",
+            {
+                "ENST90006": "Environmental Research Review (12.5) Credits",
+                "ENST90007": "Environmental Research Project (25) Credits",
+                "ENST90016": "Environmental Research Project (50) Credits",
+                "ENST90025": "Environmental Industry Research (25) Credits",
+                "ENST90020": "Environmental Industry Research (50) Credits",
+                "DEVT90002": "Internship in Development Credits",
+                "DEVT90008": " Credits",
+                "GEOG90007": "China Field Class PG Credits",
+                "ENST90035": "Environmental Research Project - 25 Pt1 Credits",
+                "ENST90036": "Environmental Research Project - 25 Pt2 Credits",
+                "ENST90037": "Environmental Research Project - 50 Pt1 Credits",
+                "ENST90038": "Environmental Research Project - 50 Pt2 Credits",
+                "ENST90039": "Environmental Industry Research - 25 Pt1 Credits",
+                "ENST90040": "Environmental Industry Research - 25 Pt2 Credits",
+                "ENST90041": "Environmental Industry Research - 50 Pt1 Credits",
+                "ENST90042": "Environmental Industry Research - 50 Pt2 Credits"
+            }
+        ],
+        "Elective Subjects": [
+            "Students should make up the balance of the award with electives. Subjects in the list below are recommended. Other subjects may be taken with the approval of stream coordinator.",
+            {
+                "NRMT90003": "Social Research Methods Credits",
+                "ENST90002": "Social Impact Assessment and Evaluation Credits",
+                "LAWS70068": "Environmental Law Credits",
+                "ABPL90009": " Credits",
+                "GEOG90021": "Conservation and Cultural Environments Credits",
+                "EDUC90006": "Environmental Education Credits",
+                "ENEN90005": "Environmental Management ISO 14000 Credits",
+                "ENST90004": "Climate Change Politics and Policy Credits",
+                "ENST90017": "Environmental Policy Instruments Credits",
+                "MGMT90018": "Managing Behaviour in Organisations Credits",
+                "MGMT90031": "Project Management Credits",
+                "MKTG90009": "Advertising and Communications Strategy Credits",
+                "NRMT90007": "Communities and Ecosystem Management Credits",
+                "POLS90015": " Credits",
+                "SOCI90004": "Critical Social Policy Credits",
+                "MGMT90030": "Managing Innovation Credits",
+                "MECM40006": "Public Relations and Communications Credits",
+                "FOOD90026": " Credits",
+                "SOCI90011": "Foundations of Social Policy Credits",
+                "MGMT90208": "Sustainable Business Practices Credits",
+                "PPMN90031": "Public Policy Lobbying Strategies Credits",
+                "ACCT90031": "Sustainability Reporting & Management Credits",
+                "MGMT90022": "Managing Organisational Change Credits",
+                "DEVT90003": "The Political Ecology of Development Credits",
+                "ECON90016": "Environmental Economics and Strategy Credits",
+                "ENST90032": "Sustainability and Behaviour Change Credits",
+                "HPSC90010": "Environment and Knowledge Credits",
+                "MECM90010": " Credits",
+                "MGMT90165": "Social Entrepreneurship Credits",
+                "DEVT90002": "Internship in Development Credits",
+                "DEVT90008": " Credits",
+                "ENST70001": " Credits",
+                "ENST70002": " Credits",
+                "ENST90006": "Environmental Research Review (12.5) Credits",
+                "ENST90007": "Environmental Research Project (25) Credits",
+                "ENST90016": "Environmental Research Project (50) Credits",
+                "ENST90020": "Environmental Industry Research (50) Credits",
+                "ENST90024": " Credits",
+                "ENST90025": "Environmental Industry Research (25) Credits",
+                "ENST90026": " Credits",
+                "GEOG90007": "China Field Class PG Credits",
+                "LING90002": "Presenting Academic Discourse Credits",
+                "ENST90019": "Consumerism and the Growth Economy Credits",
+                "SCIE90012": "Science Communication Credits"
+            }
+        ]
+    }
+}

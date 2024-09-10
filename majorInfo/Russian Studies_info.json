@@ -1,0 +1,82 @@
+{
+    "major name": "Russian Studies",
+    "overview": [
+        "Russian is one of the world's major international languages: it is spoken by over 140 million people and is one of the six official languages of the United Nations. A knowledge of Russian may increase access to careers in international relations, development studies, business, science and the arts.",
+        "The overall objective of the Russian Studies program is to teach students to process information from a wide variety of materials in Russian, both written and spoken, and to produce accounts and discussions of that information in a variety of forms.",
+        "The core Russian language subjects are organised in a progressive sequence from Russian 1 through to the Capstone subject. Entry and exit points are determined by the Russian Studies program based on the student\u2019s background in the language, placement testing or prerequisites. Students normally progress through the subjects in consecutive order. Mid-year entry is also possible into subjects with even numbers, subject to appropriate prior experience and approval from the head of the Russian program. Accelerated progression is possible on advice from the Russian Studies program."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "Students will have their appropriate entry point determined by the Russian Studies program, based on evidence of prior learning and/or results of a placement test as required. Please refer to the following link for further information:",
+            "Link",
+            "The entry point for this major is",
+            [
+                "Russian Studies 1 entry point: for students who have very little or no knowledge of Russian"
+            ],
+            "This major requires the completion of:"
+        ],
+        "Links": [
+            "http://languages-linguistics.unimelb.edu.au/"
+        ],
+        "Russian Studies 1 Entry Point": [
+            [
+                "25 credit points of Level 1 Core subjects",
+                "25 credit points of Level 2 Core subjects and 12.5 credit points of Level 2 electives",
+                "12.5 credit points of Level 3 Core subject and 12.5 credit points of Level 3 Capstone Subject and 12.5 credit points of Level 3 electives"
+            ],
+            "25 credit points of Level 2 Core subjectsand12.5 credit points of Level 2 electives",
+            "12.5 credit points of Level 3 Core subjectand12.5 credit points of Level 3 Capstone Subjectand12.5 credit points of Level 3 electives"
+        ],
+        "Subject Options": [],
+        "Level 1 Core subjects": [
+            {
+                "RUSS10001": "Russian 1 Credits",
+                "RUSS10002": "Russian 2 Credits"
+            }
+        ],
+        "Level 2 Core subjects": [
+            {
+                "RUSS20004": "Russian 3 Credits",
+                "RUSS20005": "Russian 4 Credits"
+            }
+        ],
+        "Level 2 electives": [
+            {
+                "EURO20006": "Europe and its Others Credits",
+                "EURO20007": "A Taste of Europe: Melbourne Intensive Credits",
+                "EURO20005": "Screening Europe: Image and Identity Credits",
+                "EURO20002": "European Modernism Credits",
+                "EURO20003": "Memory & Memoirs of 20th Century Europe Credits",
+                "EURO20001": "Language and Society in Europe Credits",
+                "EURO20008": "Experiencing Italian Foodscapes Credits",
+                "HIST20084": "Red Empire: The Soviet Union and After Credits"
+            }
+        ],
+        "Level 3 Core subjects": [
+            {
+                "RUSS30001": "Russian 5 Credits"
+            }
+        ],
+        "Level 3 Capstone Subject": [
+            {
+                "RUSS30006": "Contemporary Russia: Culture and Society Credits"
+            }
+        ],
+        "Level 3 electives": [
+            {
+                "EURO30001": "Language and Society in Europe Credits",
+                "EURO30002": "Memory & Memoirs of 20th Century Europe Credits",
+                "EURO30003": "European Modernism Credits",
+                "EURO30004": "Screening Europe: Image and Identity Credits",
+                "EURO30005": "Europe and its Others Credits",
+                "EURO30006": "A Taste of Europe: Melbourne Intensive Credits",
+                "EURO30007": "Experiencing Italian Foodscapes Credits",
+                "RUSS30005": "Russian Culture Through Film Credits",
+                "ARTS30002": "Introduction to Language Translation Credits",
+                "LANG30001": "Languages at Work Credits"
+            }
+        ]
+    }
+}

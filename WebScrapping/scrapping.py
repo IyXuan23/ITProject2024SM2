@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from functions import *
 from functionsCourses import *
 from functionsBreadthTrack import *
+from functionsMajors import *
 
 NUM_OF_SUBJECTS_PAGES = 314
 NUM_OF_COURSES_PAGES = 28
@@ -22,8 +23,9 @@ breadthURL = 'https://handbook.unimelb.edu.au/search?study_periods%5B%5D=all&are
 #scrapeOfferedLinks(NUM_OF_SUBJECTS_PAGES, subjectLinkArray, subjectURL, 'subjectLinks.json')
 #scrapeLinks(NUM_OF_BREADTH_TRACK_PAGES, breadthtrackLinkArray, breadthURL)
 
-subjectLinks = retrieveLinks('linkStorage\subjectLinks.json')
-#courseLinks = retrieveLinks('linkStorage\courseLinks.json')
+#subjectLinks = retrieveLinks('linkStorage\subjectLinks.json')
+courseLinks = retrieveLinks('linkStorage\courseLinks.json')
+majorLinks = retrieveLinks('linkStorage\majorLinks.json')
 
 #0-50 DONE
 #51-266 DONE
@@ -37,7 +39,7 @@ subjectLinks = retrieveLinks('linkStorage\subjectLinks.json')
 #             "https://handbook.unimelb.edu.au/2024/courses/080cn"
 #         ]))
 
-scrapSubject('https://handbook.unimelb.edu.au/subjects/educ91197', 'Research Project in Education', 'EDUC91197')
+#scrapSubject('https://handbook.unimelb.edu.au/subjects/educ91197', 'Research Project in Education', 'EDUC91197')
 
 #scrapSubject("https://handbook.unimelb.edu.au/subjects/comp30022")
 # scrapSubject("https://handbook.unimelb.edu.au/2024/subjects/comp10001")
@@ -79,5 +81,7 @@ scrapSubject('https://handbook.unimelb.edu.au/subjects/educ91197', 'Research Pro
 # for BT in breadthtrackLinkArray:
 #     scrapeBT(BT)
 
+# getMajorLinks(courseLinks)
+scrapeMajorInformation(majorLinks)
 
 

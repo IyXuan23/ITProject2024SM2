@@ -1,0 +1,100 @@
+{
+    "major name": "Arabic Studies",
+    "overview": [
+        "The undergraduate program in Arabic Studies offers an integrated way of studying Arabic language and aspects of Arab culture and society. Beyond studying the language itself, students also have the opportunity to acquire a significant amount of knowledge about the nature of living, seeing, acting and interacting in the 'Arab way'. With the development of students' language proficiency, there will be a growing emphasis on reflection on, as well as critical awareness and discussion of issues related to Arabic literature and the realms of history, Arab society and religion in the Arab World, as well as current economic, environmental and political issues in the Middle East and North Africa (the MENA region where the Arab countries are situated). In the last semester of study, the program offers a capstone subject designed to consolidate and extend the knowledge and skills acquired over the preceding phases of study in the Arabic Major. The capstone experience involves applying knowledge and skills acquired so far in planning, designing, executing, and presenting the outcomes of, an independent research project, fostering student autonomy and agency and providing collaborative teamwork experience.",
+        "Arabic language subjects are organised in a progressive sequence (of units) from Arabic 1 through to Arabic 7. Entry points are determined by the students' background in the language, placement testing, prerequisites, or at the discretion of the Arabic Studies program. Mid-year entry is also possible into subjects with even numbers (subject codes), subject to appropriate prior experience and approval from the Arabic Studies program."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "Students will have their appropriate entry point determined by the Arabic Studies program, based on evidence of prior learning and/or results of a placement test as required. Please refer to the following link for further information:",
+            "Link",
+            "The entry points for this major are:",
+            [
+                "Arabic Studies 1 entry point: for students who have very little or no knowledge of Arabic.",
+                "Arabic Studies 3 entry point: for students who have lower intermediate level of Arabic."
+            ],
+            "This major requires the completion of either:"
+        ],
+        "Notes": [
+            "Students will have their appropriate entry point determined by the Arabic Studies program, based on evidence of prior learning and/or results of a placement test as required. Placement Test information is available here",
+            "http://arts.unimelb.edu.au/asiainstitute/students/placement-tests"
+        ],
+        "Links": [
+            "http://www.asiainstitute.unimelb.edu.au/study/arabic"
+        ],
+        "Entry Point 1": [
+            [
+                "25 credit points of EP1 Level 1 core subjects",
+                "37.5 credit points of EP1 Level 2 core subjects",
+                "25 credit points of EP1 Level 3 core subjects",
+                "12.5 credit points of EP 1 Level 3 Capstone subject"
+            ],
+            "OR"
+        ],
+        "Entry Point 3": [
+            [
+                "25 credit points of EP3 Level 1 core subjects",
+                "37.5 credit points of EP3 Level 2 core subjects",
+                "12.5 credit points of EP3 Level 3 core subjects",
+                "12.5 credit points of EP3 Level 3 selectives",
+                "12.5 credit points of EP3 Level 3 Capstone subject"
+            ]
+        ],
+        "Subjects": [],
+        "Level 1 core subjects \u2013 Entry Point 1": [
+            {
+                "ARBC10005": "Arabic 1 Credits",
+                "ARBC10006": "Arabic 2 Credits"
+            }
+        ],
+        "Level 2 core subjects \u2013 Entry Point 1": [
+            {
+                "ARBC20004": "Arabic 3 Credits",
+                "ARBC20005": "Arabic 4 Credits",
+                "ARBC20001": "Arabic in Context 1 Credits"
+            }
+        ],
+        "Level 3 core subjects \u2013 Entry Point 1": [
+            {
+                "ARBC30004": "Arabic 5 Credits",
+                "ARBC30005": "Arabic 6 Credits"
+            }
+        ],
+        "Level 3 Capstone subject - Entry Point 1": [
+            {
+                "ARBC30001": "Arabic in Context 2 Credits"
+            }
+        ],
+        "Level 1 core subjects \u2013 Entry Point 3": [
+            {
+                "ARBC10001": "Arabic 3 Credits",
+                "ARBC10002": "Arabic 4 Credits"
+            }
+        ],
+        "Level 2 core subjects \u2013 Entry Point 3": [
+            {
+                "ARBC20006": "Arabic 5 Credits",
+                "ARBC20007": "Arabic 6 Credits",
+                "ARBC20001": "Arabic in Context 1 Credits"
+            }
+        ],
+        "Level 3 core subjects \u2013 Entry Point 3": [
+            {
+                "ARBC30006": "Arabic 7 Credits"
+            }
+        ],
+        "Level 3 selectives \u2013 Entry Point 3": [
+            {
+                "ISLM30003": "Islam and Ethics: Doctrines and Debates Credits",
+                "ISLM30018": "Diplomacy: Middle East and South Asia Credits"
+            }
+        ],
+        "Level 3 Capstone subject - Entry Point 3": [
+            {
+                "ARBC30001": "Arabic in Context 2 Credits"
+            }
+        ]
+    }
+}

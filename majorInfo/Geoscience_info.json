@@ -1,0 +1,34 @@
+{
+    "major name": "Geoscience",
+    "overview": [
+        "Did you know that Earth\u2019s long-term climate is controlled by geological processes? Or that geoscientists are leading the search for life on Mars? Do you want to learn practical applications of science for the real-world challenges that we face on Earth?",
+        "Geoscience integrates fundamental information across the breadth of science to understand our planet, its evolution and our current world.",
+        "With a major in Geoscience, you will unravel the planetary processes that control Earth\u2019s core all the way through to our oceans and climate. Geoscience is scientific detective-work, using clues from micro-scale minerals up to satellites and the solar system; from detailed observations to big-data approaches. Using the rock record, you will develop critical problem-solving skills and practical experience in reading the history of the Earth and life.",
+        "These approaches are fundamental for any career in science that wants to make a real difference to our planet. Careers in geoscience can be wide-ranging and include environmental consulting, environmental management, major infrastructure projects, government, research, minerals exploration and working in the energy industry. Graduates will be prepared for these pathways through a practical, hands-on degree which integrates geological information across a wide range of disciplines.",
+        "This major will develop knowledge from lab- and field-based studies through to more theoretical aspects of rocks, minerals and their behaviour during Earth processes. Students will use these techniques to solve outstanding questions about how the Earth works, including the competing problems of resource consumption (water, minerals, energy) and the environment."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "Completion of:",
+            {
+                "GEOL30002": "Tectonics and Geophysics Credits",
+                "GEOL30003": "Sedimentary Geology and Hydrogeology Credits",
+                "GEOL30004": "Geochemistry Credits",
+                "GEOL30007": "Geobiology Credits",
+                "GEOL30009": "Field Geology Credits",
+                "SCIE30001": "Science Research Project Credits",
+                "ERTH30002": "Applied Geoscience Credits"
+            },
+            "Including:",
+            {
+                "ERTH30002": "Applied Geoscience Credits",
+                "GEOL30009": "Field Geology Credits"
+            }
+        ],
+        "Notes": [
+            "The topic of the Science Research Project must be related to geoscience."
+        ]
+    }
+}

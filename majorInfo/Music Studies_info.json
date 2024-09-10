@@ -1,0 +1,98 @@
+{
+    "major name": "Music Studies",
+    "overview": [
+        "The Music Studies program focuses on understanding music\u2019s place and purpose in the wider world, and on building a diverse range of knowledge and collaborative skills with practical career applications.",
+        "Students may transfer from Performance or Composition after the first or second year, and from Musicology and Ethnomusicology after the second year."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "225 credit points",
+            "To obtain a major in Music Studies students will need to complete:",
+            [
+                "150 credit points of core subjects including\n50 credit points of Level 1 subjects including\n25 credit points of Level 1 Music Studies core subjects\n25 credit points of Level 1 Composition stream subjects or 25 credit points of Level 1 Practical Music stream subjects\n\n\n50 credit points of Level 2 Music Studies core subjects\n50 credit points of Level 3 Music Studies core subjects\n\n",
+                "50 credit points of Level 1 subjects including\n25 credit points of Level 1 Music Studies core subjects\n25 credit points of Level 1 Composition stream subjects or 25 credit points of Level 1 Practical Music stream subjects\n\n",
+                "25 credit points of Level 1 Music Studies core subjects",
+                "25 credit points of Level 1 Composition stream subjects or 25 credit points of Level 1 Practical Music stream subjects",
+                "50 credit points of Level 2 Music Studies core subjects",
+                "50 credit points of Level 3 Music Studies core subjects",
+                "75 credit points of Music elective subjects includingA maximum of 25 credit points of Level 1 Music elective subjects\n",
+                "A maximum of 25 credit points of Level 1 Music elective subjects"
+            ],
+            [
+                "50 credit points of Level 1 subjects including\n25 credit points of Level 1 Music Studies core subjects\n25 credit points of Level 1 Composition stream subjects or 25 credit points of Level 1 Practical Music stream subjects\n\n",
+                "25 credit points of Level 1 Music Studies core subjects",
+                "25 credit points of Level 1 Composition stream subjects or 25 credit points of Level 1 Practical Music stream subjects",
+                "50 credit points of Level 2 Music Studies core subjects",
+                "50 credit points of Level 3 Music Studies core subjects"
+            ],
+            [
+                "25 credit points of Level 1 Music Studies core subjects",
+                "25 credit points of Level 1 Composition stream subjects or 25 credit points of Level 1 Practical Music stream subjects"
+            ],
+            "25 credit points of Level 1 Composition stream subjectsor25 credit points of Level 1 Practical Music stream subjects",
+            [
+                "A maximum of 25 credit points of Level 1 Music elective subjects"
+            ]
+        ],
+        "Transfer Major Rules:": [
+            [
+                "Students may apply to transfer into the Music Studies Major from the Performance Major, Composition Major OR Musicology & Ethnomusicology Major.",
+                "To transfer to Music Studies Major Year 2 students must:\ncomplete all Level 1 core subjects in the Performance Major OR Composition Major; and\nhave permission of the coordinator.\n\n",
+                "complete all Level 1 core subjects in the Performance Major OR Composition Major; and",
+                "have permission of the coordinator.",
+                "To transfer to Music Studies Major Year 3 students must:have permission of the coordinator.\n",
+                "have permission of the coordinator."
+            ],
+            [
+                "complete all Level 1 core subjects in the Performance Major OR Composition Major; and",
+                "have permission of the coordinator."
+            ],
+            [
+                "have permission of the coordinator."
+            ]
+        ],
+        "Subject lists": [],
+        "Music Electives": [
+            "https://handbook.unimelb.edu.au/components/b-mus-infspc-4"
+        ],
+        "Music Ensemble Electives": [
+            "https://handbook.unimelb.edu.au/components/b-mus-infspc-6"
+        ],
+        "Level 1 core subjects": [
+            {
+                "MUSI10047": "Music History 1: 17th & 18th Centuries Credits",
+                "MUSI10023": "Music Language 1: the Diatonic World Credits"
+            }
+        ],
+        "Level 1 Composition Stream subjects": [
+            {
+                "MUSI10231": "Composition 1 Credits",
+                "MUSI10232": "Composition 2 Credits"
+            }
+        ],
+        "Level 1 Practical Music Stream subjects": [
+            {
+                "MUSI10220": "Practical Music 1 Credits",
+                "MUSI10221": "Practical Music 2 Credits"
+            }
+        ],
+        "Level 2 core subjects": [
+            {
+                "MUSI20198": "Music History 2: The Long 19th Century Credits",
+                "MUSI20061": "Music Language 2: Chromaticism & Beyond Credits",
+                "MUSI20206": "The Business of Music Credits",
+                "MUSI20225": "Music, Mind & Wellbeing Credits"
+            }
+        ],
+        "Level 3 core subjects": [
+            {
+                "MUSI30249": "Music History 3: 20th & 21st Centuries Credits",
+                "MUSI30025": "Orchestration Credits",
+                "MUSI30046": "Music Language 3: Modern Directions Credits",
+                "MUSI30274": "Collaborative Music Capstone Credits"
+            },
+            "Please refer to the following pages for all available music elective subjects:"
+        ]
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "major name": "Statistics and Stochastic Processes",
+    "overview": [
+        "The Master of Science (Mathematics and Statistics) is a coursework masters degree incorporating a substantial research project.",
+        "The course is a flexible program that allows students to study subjects across Pure Mathematics, Applied Mathematics, Mathematical Biology, Mathematical Physics, Physical Combinatorics, Operations Research, Discrete Mathematics, Statistics, Probability and Stochastic Processes. Subjects are taught at an advanced level and form an ideal preparation for research in Mathematics and Statistics, including doctoral (PhD) studies.",
+        "The Master of Science (Mathematics and Statistics) also gives students the opportunity to undertake a professional skills component, and is a pathway to PhD study or to the workforce.",
+        "Last updated: 23 April 2024"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "62.5 credit points"
+        ],
+        "Students must complete two compulsory specialisation subjects:": [
+            {
+                "MAST90082": "Mathematical Statistics Credits",
+                "MAST90081": "Advanced Probability Credits"
+            },
+            "AND"
+        ],
+        "Students must select three elective specialisation subjects:": [
+            {
+                "MAST90059": "Stochastic Calculus with Applications Credits",
+                "MAST90083": "Computational Statistics & Data Science Credits",
+                "MAST90019": "Random Processes Credits",
+                "MAST90084": "Statistical Modelling Credits",
+                "MAST90027": "Practice of Statistics & Data Science Credits",
+                "MAST90051": "Mathematics of Risk Credits",
+                "MAST90111": "Advanced Statistical Modelling Credits",
+                "MAST90112": "Advanced Topics in Stochastic Models Credits",
+                "MAST90125": "Bayesian Statistical Learning Credits",
+                "MAST90138": "Multivariate Statistics for Data Science Credits"
+            }
+        ]
+    }
+}
