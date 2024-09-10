@@ -108,15 +108,15 @@ def convert_list_into_text(input_list: list) -> None | str:
                 if n[-1] not in [',','.',':',')']:
                     n = n + ', '
                 final_list.append(n)
-        else:
+        elif len(elt) >= 1:
             # Check if it's the last element. If it is append a period.
             if i == len(input_list) - 1:
                 elt = elt + '.'
-            # If it's not the last element, append a comma.
+            # If it's not the last element, append a comma or ':'.
             else:
                 if ('the following' in elt) & (elt[-1] not in [',','.',':']):
                     elt = elt + ': '
-                elif elt[-1] not in [',','.',':']:
+                elif (elt[-1] not in [',','.',':']):
                     elt = elt + ', '
             final_list.append(elt)
     
