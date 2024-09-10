@@ -40,7 +40,6 @@ for file_path in glob.glob(os.path.join(folder_path, '*.json')):
         nec = prerequisite_option['necessary pre-requisite']
         alt = prerequisite_option['alternate pre-requisite'] if 'alternate pre-requisite' in prerequisite_option else None
         add = prerequisite_option['additional pre-requisite'] if 'additional pre-requisite' in prerequisite_option else None
-        #print("Option_num is " + option)
 
         one_of = []
         necessary = []
