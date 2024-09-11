@@ -53,4 +53,4 @@ This is a chatbot built with Next.js, Vanna, and Azure Speech Services. It allow
 2. Try the [demo page](http://localhost:3000/) or if you wanna train the model, access [api page](http://localhost:5328/), and go to training data page
 
   > [!IMPORTANT]
-  > you must either use the demo page or the api page **at the same time**
+  > you must *either* use the demo page or the api page
