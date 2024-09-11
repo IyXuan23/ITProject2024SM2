@@ -16,14 +16,6 @@ vanna_api_key = os.getenv('VANNA_API_KEY')
 cache = MemoryCache()
 vanna_model_name = 	"unimelb-handbook-chatbot"
 
-# class MyVanna(VannaDB_VectorStore, OpenAI_Chat):
-#     def __init__(self, config=None):
-#         MY_VANNA_MODEL = vanna_model_name
-#         VannaDB_VectorStore.__init__(self, vanna_model=MY_VANNA_MODEL, vanna_api_key=api_key, config=config)
-#         OpenAI_Chat.__init__(self, config=config)
-#
-# vn = MyVanna(config={'api_key': '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', 'model': 'gpt-4o-mini'})
-
 vn = VannaDefault(model=vanna_model_name, api_key=vanna_api_key)
 vn.connect_to_postgres(dbname="postgres",user="postgres.seqkcnapvgkwqbqipqqs",password="IT Web Server12",host="aws-0-ap-southeast-2.pooler.supabase.com",port=6543)
 # NO NEED TO CHANGE ANYTHING BELOW THIS LINE
