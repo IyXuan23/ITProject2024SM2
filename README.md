@@ -24,6 +24,7 @@ This is a chatbot built with Next.js, Vanna, and Azure Speech Services. It allow
 2. Install dependencies:
     ```bash
     npm install
+    npm install pnpm
     ```
 
 3. Install the requirements for the flask api
