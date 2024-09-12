@@ -45,19 +45,15 @@
             "Course Rules": {
                 "overview": [
                     [
-                        "225 credit points of Arts subjects including\nA minimum of 75 credit points of Level 1 Discovery and Discipline subjects\nA minimum of 75 credit points of Level 2 discipline subjects\nA minimum of 75 credit points of Level 3 discipline subjects\n\n",
-                        "A minimum of 75 credit points of Level 1 Discovery and Discipline subjects",
-                        "A minimum of 75 credit points of Level 2 discipline subjects",
-                        "A minimum of 75 credit points of Level 3 discipline subjects",
-                        "A minimum of 50 credit points of Breadth subjects and Between 12.5 and 37.5 credit points of Level 1 Breadth subjects",
+                        "225 credit points of Arts subjects including\n",
+                        [
+                            "A minimum of 75 credit points of Level 1 Discovery and Discipline subjects",
+                            "A minimum of 75 credit points of Level 2 discipline subjects",
+                            "A minimum of 75 credit points of Level 3 discipline subjects"
+                        ],
+                        "A minimum of 50 credit points of Breadth subjectsandBetween 12.5 and 37.5 credit points of Level 1 Breadth subjects",
                         "Remaining 25 points may consist of either Arts or Breadth subjects (all other course rules must still be met)."
-                    ],
-                    [
-                        "A minimum of 75 credit points of Level 1 Discovery and Discipline subjects",
-                        "A minimum of 75 credit points of Level 2 discipline subjects",
-                        "A minimum of 75 credit points of Level 3 discipline subjects"
-                    ],
-                    "A minimum of 50 credit points of Breadth subjectsandBetween 12.5 and 37.5 credit points of Level 1 Breadth subjects"
+                    ]
                 ]
             },
             "Additional rules": {
@@ -86,35 +82,28 @@
             "Course Rules with Economics major": {
                 "overview": [
                     [
-                        "187.5 credit points of Arts subjects including\nA minimum of 62.5 credit points of Level 1 Discovery and Discipline subjects\nA minimum of 62.5 credit points of Level 2 discipline subjects\nA minimum of 62.5 credit points of Level 3 discipline subjects\n\n",
-                        "A minimum of 62.5 credit points of Level 1 Discovery and Discipline subjects",
-                        "A minimum of 62.5 credit points of Level 2 discipline subjects",
-                        "A minimum of 62.5 credit points of Level 3 discipline subjects",
+                        "187.5 credit points of Arts subjects including\n",
+                        [
+                            "A minimum of 62.5 credit points of Level 1 Discovery and Discipline subjects",
+                            "A minimum of 62.5 credit points of Level 2 discipline subjects",
+                            "A minimum of 62.5 credit points of Level 3 discipline subjects"
+                        ],
                         "Zero credit points of Breadth subjects (other than subjects taken as part of the Economics major)"
-                    ],
-                    [
-                        "A minimum of 62.5 credit points of Level 1 Discovery and Discipline subjects",
-                        "A minimum of 62.5 credit points of Level 2 discipline subjects",
-                        "A minimum of 62.5 credit points of Level 3 discipline subjects"
                     ]
                 ]
             },
             "Course Rules with Psychology major": {
                 "overview": [
                     [
-                        "225 credit points of Arts subjects including\nA minimum of 75 credit points of Level 1 Discovery and Discipline subjects\nA minimum of 75 credit points of Level 2 discipline subjects\nA minimum of 75 credit points of Level 3 discipline subjects\n\n",
-                        "A minimum of 75 credit points of Level 1 Discovery and Discipline subjects",
-                        "A minimum of 75 credit points of Level 2 discipline subjects",
-                        "A minimum of 75 credit points of Level 3 discipline subjects",
-                        "A minimum of 25 credit points of Breadth subjects and Between 12.5 and 37.5 credit points of Level 1 Breadth subjects",
+                        "225 credit points of Arts subjects including\n",
+                        [
+                            "A minimum of 75 credit points of Level 1 Discovery and Discipline subjects",
+                            "A minimum of 75 credit points of Level 2 discipline subjects",
+                            "A minimum of 75 credit points of Level 3 discipline subjects"
+                        ],
+                        "A minimum of 25 credit points of Breadth subjectsandBetween 12.5 and 37.5 credit points of Level 1 Breadth subjects",
                         "Remaining 25 points may consist of either Arts or Breadth subjects (all other course rules must still be met)."
-                    ],
-                    [
-                        "A minimum of 75 credit points of Level 1 Discovery and Discipline subjects",
-                        "A minimum of 75 credit points of Level 2 discipline subjects",
-                        "A minimum of 75 credit points of Level 3 discipline subjects"
-                    ],
-                    "A minimum of 25 credit points of Breadth subjectsandBetween 12.5 and 37.5 credit points of Level 1 Breadth subjects"
+                    ]
                 ]
             },
             "Progression Rules": {

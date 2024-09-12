@@ -94,8 +94,37 @@ def parseUL(ul):
     ulText = []
     lis = ul.find_all('li')
 
+    topLevelUL = ul.find('ul')
+    if topLevelUL:
+        embeddedLi = topLevelUL.find_all('li', recursive=False)
+
+        newLis = [li for li in lis if li not in topLevelUL]
+        lis = newLis
+
     for li in lis:
-        ulText.append(li.get_text())
+        
+        #prevent getting text from embedded lists
+        txt = ''.join(str(child) for child in li.contents if not child.name)
+        if txt != '' and txt != None:
+            ulText.append(txt)
+            print(txt)
+
+        if li.find('ul') != None:
+            
+            innerText = []
+            innerUL = li.find('ul')
+            innerLi = innerUL.find_all('li')
+            for li in innerLi:
+                innerText.append(li.get_text(strip=True))
+            ulText.append(innerText)
+            print(innerText)
+
+        #find embedded para text
+        embeddedPara = li.find_all('p')
+        if embeddedPara:
+            for para in embeddedPara:
+                paraTxt = parsePara(para)
+                ulText.append(paraTxt)    
 
     return ulText    
 
@@ -295,7 +324,11 @@ def scrapeStructure(url):
             txt = scrapStructureText(nextElem)
             if txt != None and txt != ' ' and txt != '':
                 extraText.append(txt)
-            nextElem = nextElem.find_next()
+
+            if hasattr(nextElem, 'name') and nextElem.name == 'ul':
+                nextElem = nextElem.find_next_sibling()
+            else:
+                nextElem = nextElem.find_next()
 
         headerData['overview'] = extraText
 
@@ -316,7 +349,10 @@ def scrapeStructure(url):
                 txt = scrapStructureText(nextElem)
                 if txt != None and txt != '' and txt != " ":
                     extraSubText.append(txt)
-                nextElem = nextElem.find_next() 
+                if hasattr(nextElem, 'name') and nextElem.name == 'ul':
+                    nextElem = nextElem.find_next_sibling()
+                else:
+                    nextElem = nextElem.find_next()
 
             subHeaderData['overview'] = extraSubText    
             
@@ -333,8 +369,11 @@ def scrapeStructure(url):
                     txt = scrapStructureText(nextElem)
                     if txt != None and txt != ''  and txt != " ":
                         extraSubSubText.append(txt)
-
-                    nextElem = nextElem.find_next()
+                    
+                    if hasattr(nextElem, 'name') and nextElem.name == 'ul':
+                        nextElem = nextElem.find_next_sibling()
+                    else:
+                        nextElem = nextElem.find_next()
                 subSubHeaderData['overview'] = extraSubSubText   
 
                 subHeaderData[subSubHeaderText] = subSubHeaderData

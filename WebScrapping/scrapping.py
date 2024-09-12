@@ -72,8 +72,9 @@ majorLinks = retrieveLinks('linkStorage\majorLinks.json')
 
 #scrapeCourses('https://handbook.unimelb.edu.au/2024/courses/b-sci')
 #scrapeCourses('https://handbook.unimelb.edu.au/2024/courses/b-des', 'Bachelor of Design', 'B-DES')
-# scrapeCourses("https://handbook.unimelb.edu.au/2024/courses/gc-ahrc", 
-#             "Graduate Certificate in Aboriginal Health in Rural Communities", "GC-AHRC")
+scrapeCourses("https://handbook.unimelb.edu.au/2024/courses/b-arts",
+            "Bachelor of Arts",
+            "B-ARTS")
 
 
 #scrapping for breadth track
@@ -82,6 +83,6 @@ majorLinks = retrieveLinks('linkStorage\majorLinks.json')
 #     scrapeBT(BT)
 
 # getMajorLinks(courseLinks)
-scrapeMajorInformation(majorLinks)
+# scrapeMajorInformation(majorLinks)
 
 
