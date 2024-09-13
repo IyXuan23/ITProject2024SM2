@@ -5,7 +5,7 @@
         "The Master of Production Design is a professional coursework Masters program where students gain the skills, knowledge and experience necessary to work in the field of design for either stage or screen, including film, television, theatre and dance.",
         "This structured coursework program provides an enriched and comprehensive pathway into the profession encompassing formal classes, workshops and studio-based learning as well as placements on either film or stage productions mounted within Victorian College of the Arts (VCA). It also provides an optional pathway to further learning and Research Higher Degree (RHD).",
         "A core principle of the program is that collaboration is at the heart of design for both screen and stage. In developing this skill, students will be working and interacting with others involved in the making of work for either the stage or the screen.",
-        "Last updated: 6 September 2024"
+        "Last updated: 13 September 2024"
     ],
     "Overview table": {
         "Award title": "Master of Production Design",
@@ -46,13 +46,13 @@
                 "200-point program:",
                 [
                     "Nine compulsory subjects (187.5 points)",
-                    "One subject core to one of the following specialisations:\n\nStage (12.5 credit points); or\nScreen (12.5 credit points).\n\n",
-                    "Stage (12.5 credit points); or",
-                    "Screen (12.5 credit points)."
-                ],
-                [
-                    "Stage (12.5 credit points); or",
-                    "Screen (12.5 credit points)."
+                    "One subject core to one of the following specialisations:\n\n",
+                    [
+                        [
+                            "Stage (12.5 credit points); or",
+                            "Screen (12.5 credit points)."
+                        ]
+                    ]
                 ],
                 "To progress from Year 1 to Year 2, students must complete all Year 1 subjects."
             ],

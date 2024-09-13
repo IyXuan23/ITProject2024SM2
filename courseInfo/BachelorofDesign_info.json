@@ -41,21 +41,21 @@
             "overview": [
                 "The Bachelor of Design requires the successful completion of 300 credit points.",
                 [
-                    "225 credit points of Design subjects including\nA minimum of 62.5 credit points of Level 1 discipline subjects\nA minimum of 62.5 credit points of Level 2 discipline subjects\nA minimum of 75 credit points of Level 3 discipline subjects\n\n",
-                    "A minimum of 62.5 credit points of Level 1 discipline subjects",
-                    "A minimum of 62.5 credit points of Level 2 discipline subjects",
-                    "A minimum of 75 credit points of Level 3 discipline subjects",
-                    "50 credit points of Breadth subjects includingA maximum of 37.5 credit points of Level 1 breadth subjects\n",
-                    "A maximum of 37.5 credit points of Level 1 breadth subjects",
+                    "225 credit points of Design subjects including\n",
+                    [
+                        [
+                            "A minimum of 62.5 credit points of Level 1 discipline subjects",
+                            "A minimum of 62.5 credit points of Level 2 discipline subjects",
+                            "A minimum of 75 credit points of Level 3 discipline subjects"
+                        ]
+                    ],
+                    "50 credit points of Breadth subjects including\n",
+                    [
+                        [
+                            "A maximum of 37.5 credit points of Level 1 breadth subjects"
+                        ]
+                    ],
                     "25 credit points of free subjects (discipline or breadth)"
-                ],
-                [
-                    "A minimum of 62.5 credit points of Level 1 discipline subjects",
-                    "A minimum of 62.5 credit points of Level 2 discipline subjects",
-                    "A minimum of 75 credit points of Level 3 discipline subjects"
-                ],
-                [
-                    "A maximum of 37.5 credit points of Level 1 breadth subjects"
                 ]
             ],
             "Additional rules": {

@@ -34,9 +34,9 @@ majorLinks = retrieveLinks('linkStorage\majorLinks.json')
 #       scrapSubject(link[2], link[1], link[0])
 
 # print(courseLinks.index([
-#             "080CN",
-#             "Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy",
-#             "https://handbook.unimelb.edu.au/2024/courses/080cn"
+#             "MC-BAPTME",
+#             "Master of Business Administration",
+#             "https://handbook.unimelb.edu.au/2024/courses/mc-baptme"
 #         ]))
 
 #scrapSubject('https://handbook.unimelb.edu.au/subjects/educ91197', 'Research Project in Education', 'EDUC91197')
@@ -64,17 +64,17 @@ majorLinks = retrieveLinks('linkStorage\majorLinks.json')
 
 
 #0-44 done
-# for link in courseLinks[45:]:
-#     print(link[1])
-#     scrapeCourses(link[2], link[1], link[0])
+for link in courseLinks :
+    print(link[1])
+    scrapeCourses(link[0], link[1], link[2])
 
 #scrapping for the (bachelor) courses
 
 #scrapeCourses('https://handbook.unimelb.edu.au/2024/courses/b-sci')
 #scrapeCourses('https://handbook.unimelb.edu.au/2024/courses/b-des', 'Bachelor of Design', 'B-DES')
-scrapeCourses("https://handbook.unimelb.edu.au/2024/courses/b-arts",
-            "Bachelor of Arts",
-            "B-ARTS")
+# scrapeCourses(            "B-BMED",
+#             "Bachelor of Biomedicine",
+#             "https://handbook.unimelb.edu.au/2024/courses/b-bmed")
 
 
 #scrapping for breadth track

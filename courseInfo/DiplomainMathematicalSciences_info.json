@@ -49,12 +49,7 @@
                 "Note that in some cases students will be required to complete a total of 125 points of mathematics and statistics study to complete a maths sequence as required by the Diploma. Note that only 100 points of this 125 points of study can be completed in the Diploma and therefore any additional points required must be completed within the bachelors degree or via the Community Access Program.",
                 "To be awarded the Diploma students must have completed 100 points of Mathematics and Statistics subjects at post-VCE level, including 50 points at third year level. Students enrolled in the Bachelor of Science majoring in Mathematics and Statistics, Data Science or Mathematical Physics are not permitted to complete a Diploma in Mathematical Sciences.",
                 "Students are required to select subjects in the undergraduate degree and the Diploma, so that all requirements of the undergraduate degree are met and, in addition through the Diploma, the student meets the specific requirements for the award of any one specialisation of the major in Mathematics and Statistics, as defined for the Bachelor of Science.",
-                [
-                    "Pure Mathematics",
-                    "Applied Mathematics",
-                    "Discrete Mathematics and Operations Research",
-                    "Statistics / Stochastic Processes"
-                ],
+                [],
                 "Pathways",
                 "Depending on a student\u2019s individual circumstances and their study preferences, the Diploma may be taken in a variety of \u2018Fast Track\u2019 modes or by adding the full 100 points (i.e. one full year) to their degree.",
                 "The mode of undertaking the diploma, either Fast Track or by addition of a full year to their degree, will depend on each student\u2019s particular circumstances and study preferences, including whether they meet the criteria for permission to overload. The overload policy requires a particular level of performance/achievement be attained for permission to overload.",
@@ -81,16 +76,12 @@
                 "Statistics / Stochastic Processes",
                 "100 credit points of Mathematics and Statistics subjects including",
                 [
-                    "25 credit points of Statistics / Stochastic Processes core subjectsAnd one of the following options:\n\nOption 1\n25 credit points of Statistics / Stochastics electives\n\nOption 2\n25 credit points of Mathematics and Statistics subjects - Level 3 including\n\nA minimum of 12.5 credit points of Statistics / Stochastics electives\n",
-                    "A minimum of 12.5 credit points of Statistics / Stochastics electives"
-                ],
-                "And one of the following options:",
-                "Option 1",
-                "25 credit points of Statistics / Stochastics electives",
-                "Option 2",
-                "25 credit points of Mathematics and Statistics subjects - Level 3 including",
-                [
-                    "A minimum of 12.5 credit points of Statistics / Stochastics electives"
+                    "25 credit points of Statistics / Stochastic Processes core subjects\n\n\n\n\n\n\n\n\n",
+                    [
+                        [
+                            "A minimum of 12.5 credit points of Statistics / Stochastics electives"
+                        ]
+                    ]
                 ]
             ]
         }

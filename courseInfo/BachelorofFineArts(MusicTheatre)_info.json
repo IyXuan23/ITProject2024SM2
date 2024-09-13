@@ -31,12 +31,16 @@
         "Inherent requirements (core participation requirements)": [
             "TheBachelor of Fine Arts (Music Theatre)is designed to train highly skilled arts practitioners who can work independently or in ensemble across a wide range of careers and performance or production opportunities. The core participation requirements of this course are consistent with this objective.",
             "TheBachelor of Fine Arts (Music Theatre)is a physically and emotionally demanding program requiring candidates to actively participate in all scheduled classes. The majority of subjects in the course have continuous and progressive assessment throughout the study period.  A candidate for this course must possess abilities and skills in the following categories across all aspects of the course:",
-            "Physical abilities\n\nObservation\nHearing\nMotor skills\nPhysical strength, agility and endurance\nVocal capability\n\n",
-            "Observation",
-            "Hearing",
-            "Motor skills",
-            "Physical strength, agility and endurance",
-            "Vocal capability",
+            "Physical abilities\n\n",
+            [
+                [
+                    "Observation",
+                    "Hearing",
+                    "Motor skills",
+                    "Physical strength, agility and endurance",
+                    "Vocal capability"
+                ]
+            ],
             "Ability to monitor and manage own health",
             "Communication skills",
             "Intellectual abilities",
@@ -64,11 +68,15 @@
             "Students must be capable of identifying the potential risk of injury and take responsibility for their own safety and the safety of others whilst undertaking these activities.",
             "Intellectual Skills",
             "Students must possess a range of intellectual capacities, including",
-            "\n\nCritical self-reflection\nAnalysis\nComplex problem-solving\nThe ability to draw linkages across diverse areas of learning and practice\n\n",
-            "Critical self-reflection",
-            "Analysis",
-            "Complex problem-solving",
-            "The ability to draw linkages across diverse areas of learning and practice",
+            "\n\n",
+            [
+                [
+                    "Critical self-reflection",
+                    "Analysis",
+                    "Complex problem-solving",
+                    "The ability to draw linkages across diverse areas of learning and practice"
+                ]
+            ],
             "Critical self-reflection",
             "Analysis",
             "Complex problem-solving",
@@ -111,15 +119,14 @@
             "Compulsory subjects": {
                 "overview": [
                     [
-                        "237.5 credit points of Compulsory subjects\n75 credit points of Level 1 Compulsory subjects\n75 credit points of Level 2 Compulsory subjects\n87.5 credit points of Level 3 Compulsory subjects\n\n",
-                        "75 credit points of Level 1 Compulsory subjects",
-                        "75 credit points of Level 2 Compulsory subjects",
-                        "87.5 credit points of Level 3 Compulsory subjects"
-                    ],
-                    [
-                        "75 credit points of Level 1 Compulsory subjects",
-                        "75 credit points of Level 2 Compulsory subjects",
-                        "87.5 credit points of Level 3 Compulsory subjects"
+                        "237.5 credit points of Compulsory subjects\n",
+                        [
+                            [
+                                "75 credit points of Level 1 Compulsory subjects",
+                                "75 credit points of Level 2 Compulsory subjects",
+                                "87.5 credit points of Level 3 Compulsory subjects"
+                            ]
+                        ]
                     ]
                 ]
             },
@@ -133,11 +140,12 @@
             "Breadth": {
                 "overview": [
                     [
-                        "50 credit points of Breadth subjectsa minimum of 12.5 credit points of Level 2 or Level 3 breadth subjects\n\n",
-                        "a minimum of 12.5 credit points of Level 2 or Level 3 breadth subjects\n"
-                    ],
-                    [
-                        "a minimum of 12.5 credit points of Level 2 or Level 3 breadth subjects\n"
+                        "50 credit points of Breadth subjects\n",
+                        [
+                            [
+                                "a minimum of 12.5 credit points of \n"
+                            ]
+                        ]
                     ]
                 ]
             },

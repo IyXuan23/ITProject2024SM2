@@ -24,9 +24,13 @@
     "Entry and participation requirements": {
         "Entry requirements": [
             "1. In order to be considered for entry, applicants must have completed one of:",
-            "The Victorian Certificate of Education including:\r\n\nVCE Units 3 and 4 \u2013 either a study score of at least 25 in one of English, English Language or Literature or a study score of at least 30 in English as an Additional Language, and\nVCE Units 3 and 4 \u2013 a study score of at least 25 in Biology or Chemistry;\n\n",
-            "VCE Units 3 and 4 \u2013 either a study score of at least 25 in one of English, English Language or Literature or a study score of at least 30 in English as an Additional Language, and",
-            "VCE Units 3 and 4 \u2013 a study score of at least 25 in Biology or Chemistry;",
+            "The Victorian Certificate of Education including:\r\n\n",
+            [
+                [
+                    "VCE Units 3 and 4 \u2013 either a study score of at least 25 in one of English, English Language or Literature or a study score of at least 30 in English as an Additional Language, and",
+                    "VCE Units 3 and 4 \u2013 a study score of at least 25 in Biology or Chemistry;"
+                ]
+            ],
             "The International Baccalaureate Diploma including at least Grade 4 in English or English B (Standard Level or Higher Level), and in Biology or Chemistry;",
             "A senior secondary program, foundation studies program or equivalent approved by the Academic Board including appropriate English language and Biology or Chemistry studies.",
             "VCE Units 3 and 4 \u2013 either a study score of at least 25 in one of English, English Language or Literature or a study score of at least 30 in English as an Additional Language, and",
@@ -39,11 +43,15 @@
             "4. Applicants who have not completed the Victorian Certificate of Education, an equivalent Australian Year 12 qualification, the International Baccalaureate Diploma, or an equivalent secondary qualification undertaken in Canada, New Zealand, Ireland, South Africa, the United Kingdom or the United States of America must satisfy the English language requirement with one of the following approved English language tests:",
             "IELTS (Academic) with a minimum overall score of 7 and a minimum score of 7 in each of the four components;",
             "PTE Academic with a minimum overall score of 65 and a minimum score of 65 in each of the four communicative skills; or",
-            "TOEFL iBT with a minimum total score of 94 and the following minimum score in each section of the test:\r\n\n24 for listening\n24 for reading\n27 for writing\n23 for speaking.\n\n",
-            "24 for listening",
-            "24 for reading",
-            "27 for writing",
-            "23 for speaking.",
+            "TOEFL iBT with a minimum total score of 94 and the following minimum score in each section of the test:\r\n\n",
+            [
+                [
+                    "24 for listening",
+                    "24 for reading",
+                    "27 for writing",
+                    "23 for speaking."
+                ]
+            ],
             "24 for listening",
             "24 for reading",
             "27 for writing",

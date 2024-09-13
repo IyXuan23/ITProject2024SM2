@@ -20,14 +20,18 @@
         "Entry requirements": [
             "1. In order to be considered applicants must have completed:",
             "An undergraduate degree in any discipline, with a weighted average mark of at least 65%, or equivalent OR",
-            "An undergraduate degree and one of the following Graduate Certificates from the University of Melbourne, with a weighted average mark of at least 65%:\n\nGraduate Certificate in Health Economics and Economic Evaluation,\nGraduate Certificate in Sexual Health,\nGraduate Certificate in Gerontology,\nGraduate Certificate in Health Informatics and Digital Health,\nGraduate Certificate in Infectious Disease Epidemiology,\nGraduate Certificate in Climate Change and Health or\nGraduate Certificate in Public Health\n\n",
-            "Graduate Certificate in Health Economics and Economic Evaluation,",
-            "Graduate Certificate in Sexual Health,",
-            "Graduate Certificate in Gerontology,",
-            "Graduate Certificate in Health Informatics and Digital Health,",
-            "Graduate Certificate in Infectious Disease Epidemiology,",
-            "Graduate Certificate in Climate Change and Health or",
-            "Graduate Certificate in Public Health",
+            "An undergraduate degree and one of the following Graduate Certificates from the University of Melbourne, with a weighted average mark of at least 65%:\n\n",
+            [
+                [
+                    "Graduate Certificate in Health Economics and Economic Evaluation,",
+                    "Graduate Certificate in Sexual Health,",
+                    "Graduate Certificate in Gerontology,",
+                    "Graduate Certificate in Health Informatics and Digital Health,",
+                    "Graduate Certificate in Infectious Disease Epidemiology,",
+                    "Graduate Certificate in Climate Change and Health or",
+                    "Graduate Certificate in Public Health"
+                ]
+            ],
             "Graduate Certificate in Health Economics and Economic Evaluation,",
             "Graduate Certificate in Sexual Health,",
             "Graduate Certificate in Gerontology,",
@@ -43,31 +47,59 @@
             "4. Applicants are required to satisfy the university\u2019s English language requirements for postgraduate courses. For those applicants seeking to meet these requirements by one of the standard tests approved by the Academic Board, performance band 6.5 is required.",
             "Notes:",
             "a. Advanced Standing: Successful applicants may be eligible for either 25, 50 or 100 points advanced standing under the following circumstances:",
-            "25 Points Advanced Standing:\nSuccessful applicants with an undergraduate health professional degree and a weighted average mark of 65% or higher may receive 25 points of advanced standing.\n",
+            "25 Points Advanced Standing:\n\n",
+            [
+                [
+                    "Successful applicants with an undergraduate health professional degree and a weighted average mark of 65% or higher may receive 25 points of advanced standing."
+                ]
+            ],
+            "50 Points Advanced Standing:\n\n",
+            [
+                [
+                    "Successful applicants with one of the following may receive 50 points of advanced standing:\n\n",
+                    [
+                        [
+                            "a medical degree, or",
+                            "an undergraduate degree in public health, or",
+                            "an undergraduate degree and at least two years appropriate full-time work experience in a public health or professional healthcare setting, or",
+                            "a Master\u2019s Degree (Research or Coursework) or PhD in health or public health"
+                        ]
+                    ]
+                ]
+            ],
+            "100 Points Advanced Standing\n\n",
+            [
+                [
+                    "Successful applicants with one of the following may receive 100 points of advanced standing and would be required to complete four core subjects (excluding Foundations of Public Health, and Public Health Leadership and Management), two electives of their choice from the Master of Public Health electives, and a 25 point capstone option.\n\n",
+                    [
+                        [
+                            "MBBS/MD qualified and are a Medical Specialist Fellow of Australia, and have current registration with AHPRA or equivalent, approved by the Fellowship awarding Faculty.",
+                            "Executive level or equivalent role in health within government or the health service sector with at least 5 years of full-time health sector work experience."
+                        ]
+                    ]
+                ]
+            ],
             "Successful applicants with an undergraduate health professional degree and a weighted average mark of 65% or higher may receive 25 points of advanced standing.",
-            "50 Points Advanced Standing:\nSuccessful applicants with one of the following may receive 50 points of advanced standing:\n\na medical degree, or\nan undergraduate degree in public health, or\nan undergraduate degree and at least two years appropriate full-time work experience in a public health or professional healthcare setting, or\na Master\u2019s Degree (Research or Coursework) or PhD in health or public health\n\n\n",
-            "Successful applicants with one of the following may receive 50 points of advanced standing:\n\na medical degree, or\nan undergraduate degree in public health, or\nan undergraduate degree and at least two years appropriate full-time work experience in a public health or professional healthcare setting, or\na Master\u2019s Degree (Research or Coursework) or PhD in health or public health\n\n",
+            "Successful applicants with one of the following may receive 50 points of advanced standing:\n\n",
+            [
+                [
+                    "a medical degree, or",
+                    "an undergraduate degree in public health, or",
+                    "an undergraduate degree and at least two years appropriate full-time work experience in a public health or professional healthcare setting, or",
+                    "a Master\u2019s Degree (Research or Coursework) or PhD in health or public health"
+                ]
+            ],
             "a medical degree, or",
             "an undergraduate degree in public health, or",
             "an undergraduate degree and at least two years appropriate full-time work experience in a public health or professional healthcare setting, or",
             "a Master\u2019s Degree (Research or Coursework) or PhD in health or public health",
-            "100 Points Advanced Standing\nSuccessful applicants with one of the following may receive 100 points of advanced standing and would be required to complete four core subjects (excluding Foundations of Public Health, and Public Health Leadership and Management), two electives of their choice from the Master of Public Health electives, and a 25 point capstone option.\n\nMBBS/MD qualified and are a Medical Specialist Fellow of Australia, and have current registration with AHPRA or equivalent, approved by the Fellowship awarding Faculty.\nExecutive level or equivalent role in health within government or the health service sector with at least 5 years of full-time health sector work experience.\n\n\n",
-            "Successful applicants with one of the following may receive 100 points of advanced standing and would be required to complete four core subjects (excluding Foundations of Public Health, and Public Health Leadership and Management), two electives of their choice from the Master of Public Health electives, and a 25 point capstone option.\n\nMBBS/MD qualified and are a Medical Specialist Fellow of Australia, and have current registration with AHPRA or equivalent, approved by the Fellowship awarding Faculty.\nExecutive level or equivalent role in health within government or the health service sector with at least 5 years of full-time health sector work experience.\n\n",
-            "MBBS/MD qualified and are a Medical Specialist Fellow of Australia, and have current registration with AHPRA or equivalent, approved by the Fellowship awarding Faculty.",
-            "Executive level or equivalent role in health within government or the health service sector with at least 5 years of full-time health sector work experience.",
-            "Successful applicants with an undergraduate health professional degree and a weighted average mark of 65% or higher may receive 25 points of advanced standing.",
-            "Successful applicants with one of the following may receive 50 points of advanced standing:\n\na medical degree, or\nan undergraduate degree in public health, or\nan undergraduate degree and at least two years appropriate full-time work experience in a public health or professional healthcare setting, or\na Master\u2019s Degree (Research or Coursework) or PhD in health or public health\n\n",
-            "a medical degree, or",
-            "an undergraduate degree in public health, or",
-            "an undergraduate degree and at least two years appropriate full-time work experience in a public health or professional healthcare setting, or",
-            "a Master\u2019s Degree (Research or Coursework) or PhD in health or public health",
-            "a medical degree, or",
-            "an undergraduate degree in public health, or",
-            "an undergraduate degree and at least two years appropriate full-time work experience in a public health or professional healthcare setting, or",
-            "a Master\u2019s Degree (Research or Coursework) or PhD in health or public health",
-            "Successful applicants with one of the following may receive 100 points of advanced standing and would be required to complete four core subjects (excluding Foundations of Public Health, and Public Health Leadership and Management), two electives of their choice from the Master of Public Health electives, and a 25 point capstone option.\n\nMBBS/MD qualified and are a Medical Specialist Fellow of Australia, and have current registration with AHPRA or equivalent, approved by the Fellowship awarding Faculty.\nExecutive level or equivalent role in health within government or the health service sector with at least 5 years of full-time health sector work experience.\n\n",
-            "MBBS/MD qualified and are a Medical Specialist Fellow of Australia, and have current registration with AHPRA or equivalent, approved by the Fellowship awarding Faculty.",
-            "Executive level or equivalent role in health within government or the health service sector with at least 5 years of full-time health sector work experience.",
+            "Successful applicants with one of the following may receive 100 points of advanced standing and would be required to complete four core subjects (excluding Foundations of Public Health, and Public Health Leadership and Management), two electives of their choice from the Master of Public Health electives, and a 25 point capstone option.\n\n",
+            [
+                [
+                    "MBBS/MD qualified and are a Medical Specialist Fellow of Australia, and have current registration with AHPRA or equivalent, approved by the Fellowship awarding Faculty.",
+                    "Executive level or equivalent role in health within government or the health service sector with at least 5 years of full-time health sector work experience."
+                ]
+            ],
             "MBBS/MD qualified and are a Medical Specialist Fellow of Australia, and have current registration with AHPRA or equivalent, approved by the Fellowship awarding Faculty.",
             "Executive level or equivalent role in health within government or the health service sector with at least 5 years of full-time health sector work experience.",
             " ",
@@ -88,15 +120,14 @@
                 "Students in the standard 200 point program (without advanced standing) will need to complete:",
                 [
                     "75 credit points of compulsory subjects",
-                    "125 credit points of electives and capstone subjects including capstone subject(s) from one of the three capstone options:\n25 credit points of Capstone Option 1 - Research Project (single or double semester options)\n25 credit points of Capstone Option 2 - Professional Practice (single or double semester options)\n12.5 credit points of Capstone Option 3 - Public Health subject\n\n",
-                    "25 credit points of Capstone Option 1 - Research Project (single or double semester options)",
-                    "25 credit points of Capstone Option 2 - Professional Practice (single or double semester options)",
-                    "12.5 credit points of Capstone Option 3 - Public Health subject"
-                ],
-                [
-                    "25 credit points of Capstone Option 1 - Research Project (single or double semester options)",
-                    "25 credit points of Capstone Option 2 - Professional Practice (single or double semester options)",
-                    "12.5 credit points of Capstone Option 3 - Public Health subject"
+                    "125 credit points of electives and capstone subjects including capstone subject(s) from one of the three capstone options:\n",
+                    [
+                        [
+                            "25 credit points of Capstone Option 1 - Research Project (single or double semester options)",
+                            "25 credit points of Capstone Option 2 - Professional Practice (single or double semester options)",
+                            "12.5 credit points of Capstone Option 3 - Public Health subject"
+                        ]
+                    ]
                 ],
                 "Note:",
                 [

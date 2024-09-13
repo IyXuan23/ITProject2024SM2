@@ -28,9 +28,13 @@
             "Note:Graduate Degree Package for School Leavers",
             "The University of Melbourne offers Graduate Degree Packages to high achieving school leavers, allowing them to secure places (Commonwealth Supported Places for domestic students or International fee places) in the Juris Doctor provided they meet certain requirements.",
             "For a Commonwealth Supported Place or an International Fee Place, the applicant must:",
-            "complete an Australian Year 12 or the International Baccalaureate (IB) in 2018 or later either:\r\n\nin Australia; or\noutside Australia and be an Australian citizen;\n\n",
-            "in Australia; or",
-            "outside Australia and be an Australian citizen;",
+            "complete an Australian Year 12 or the International Baccalaureate (IB) in 2018 or later either:\r\n\n",
+            [
+                [
+                    "in Australia; or",
+                    "outside Australia and be an Australian citizen;"
+                ]
+            ],
             "achieve an ATAR (or notional ATAR) of at least 99.80;",
             "apply for a University of Melbourne Graduate Degree Package for commencement in the year following completion of Year 12 or IB via VTAC;",
             "enrol immediately or be granted deferral in the year following Year 12;",
@@ -79,16 +83,15 @@
                     [
                         "200 credit points of compulsory subjects",
                         "Juris Doctor (JD) students are not allowed to select a fourth subject in Semester 1, Year 1. Elective subjects can only be taken in Year 2 and 3 respectively.",
-                        "100 credit points of JD (quota and enrichment) and Melbourne Law Masters (MLM) elective subjects including\nA maximum of 100 credit points of JD quota elective subjects\nA maximum of 100 credit points of JD enrichment elective subjects\nA maximum of 25 credit points of MLM elective subjects\n\n",
-                        "A maximum of 100 credit points of JD quota elective subjects",
-                        "A maximum of 100 credit points of JD enrichment elective subjects",
-                        "A maximum of 25 credit points of MLM elective subjects",
+                        "100 credit points of JD (quota and enrichment) and Melbourne Law Masters (MLM) elective subjects including\n",
+                        [
+                            [
+                                "A maximum of 100 credit points of JD quota elective subjects",
+                                "A maximum of 100 credit points of JD enrichment elective subjects",
+                                "A maximum of 25 credit points of MLM elective subjects"
+                            ]
+                        ],
                         "Melbourne Law Masters (MLM) electives: JD students can apply to take up to 25 credit points of their electives (typically two) from the list of MLM electives. Students cannot self-enrol into MLM electives. Enrolments will be confirmed after a selection process has been run."
-                    ],
-                    [
-                        "A maximum of 100 credit points of JD quota elective subjects",
-                        "A maximum of 100 credit points of JD enrichment elective subjects",
-                        "A maximum of 25 credit points of MLM elective subjects"
                     ],
                     "Compulsory subjects",
                     "Sixteen subjects are compulsory, enabling the School to provide its students with cumulative learning, by integrating both subject matter and skills across and between semesters. These subjects are organised so as to ensure a balanced range in each semester, between which linkages can be made. In addition, subjects in both private and public law build progressively over the semesters, contributing to the effectiveness of the learning experience.",

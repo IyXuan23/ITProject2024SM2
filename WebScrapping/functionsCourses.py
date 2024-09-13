@@ -92,39 +92,54 @@ def parseUL(ul):
     """helper function for parsing text from a ul"""
 
     ulText = []
-    lis = ul.find_all('li')
+    lis = []
 
-    topLevelUL = ul.find('ul')
-    if topLevelUL:
-        embeddedLi = topLevelUL.find_all('li', recursive=False)
+    topLevelLi = ul.find('li')
 
-        newLis = [li for li in lis if li not in topLevelUL]
-        lis = newLis
+    if hasattr(topLevelLi, 'name') and topLevelLi.name == 'li':
+        lis.append(topLevelLi)
+        nextLi = topLevelLi.find_next_sibling()
+
+        while nextLi != None:
+            if hasattr(nextLi, 'name') and nextLi.name == 'li':
+                lis.append(nextLi)
+                nextLi = nextLi.find_next_sibling()
 
     for li in lis:
-        
+
         #prevent getting text from embedded lists
         txt = ''.join(str(child) for child in li.contents if not child.name)
+        strongTxt = ''.join(child.get_text() for child in li.contents if child.name == 'strong')
+        # txt = li.get_text()
         if txt != '' and txt != None:
             ulText.append(txt)
-            print(txt)
+        if strongTxt != '' and strongTxt != None:
+            ulText.append(strongTxt)
 
         if li.find('ul') != None:
             
             innerText = []
-            innerUL = li.find('ul')
-            innerLi = innerUL.find_all('li')
-            for li in innerLi:
-                innerText.append(li.get_text(strip=True))
+            innerULs = []
+
+            first = li.find('ul')
+            innerULs.append(first)
+            nextInnerUL = first.find_next_sibling()
+            
+            while nextInnerUL != None and hasattr(nextInnerUL, 'name') and nextInnerUL.name == 'ul':
+                innerULs.append(nextInnerUL)
+                nextInnerUL = nextInnerUL.find_next_sibling()
+
+            for innerUL in innerULs:
+                innerULTxt = parseUL(innerUL)
+                innerText.append(innerULTxt)
             ulText.append(innerText)
-            print(innerText)
 
         #find embedded para text
-        embeddedPara = li.find_all('p')
-        if embeddedPara:
-            for para in embeddedPara:
-                paraTxt = parsePara(para)
-                ulText.append(paraTxt)    
+        # embeddedPara = li.find_all('p')
+        # if embeddedPara:
+        #     for para in embeddedPara:
+        #         paraTxt = parsePara(para)
+        #         ulText.append(paraTxt)    
 
     return ulText    
 
@@ -325,10 +340,11 @@ def scrapeStructure(url):
             if txt != None and txt != ' ' and txt != '':
                 extraText.append(txt)
 
-            if hasattr(nextElem, 'name') and nextElem.name == 'ul':
+            if hasattr(nextElem, 'name') and nextElem.name == 'ul' and nextElem.find_next_sibling() != None:
                 nextElem = nextElem.find_next_sibling()
             else:
                 nextElem = nextElem.find_next()
+
 
         headerData['overview'] = extraText
 
@@ -426,9 +442,6 @@ def scrapeMajors(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
 
-    print(url)
-    print(response.url)
-
     #some master subjects have no major/minor, if so we return an empty list back
     if response.url != url:
         return []
@@ -487,7 +500,7 @@ def scrapeFurtherStudy(url):
 
     return furtherStudyData   
 
-def scrapeCourses(url, courseName, courseCode):
+def scrapeCourses(courseCode, courseName, url):
 
 
     #https://handbook.unimelb.edu.au/courses/b-sci

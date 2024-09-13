@@ -21,12 +21,12 @@
     "Entry and participation requirements": {
         "Entry requirements": [
             "1. In order to be considered for entry, applicants must have completed:",
-            "An undergraduate degree with appropriate discipline studies to qualify for two teaching specialist areas, or one double teaching specialist area. Undergraduate studies must include at least a major study in one teaching area, and preferably a minor study in a second teaching areab; and ",
-            "A selection testc; as determined by the Selection Committee; and",
-            "A school-based interview (for shortlisted candidates), leading to an appointment in a school prior to the commencement of the course.d\n",
+            "An undergraduate degree with appropriate discipline studies to qualify for two teaching specialist areas, or one double teaching specialist area. Undergraduate studies must include at least a major study in one teaching area, and preferably a minor study in a second teaching area; and ",
+            "A selection test; as determined by the Selection Committee; and",
+            "A school-based interview (for shortlisted candidates), leading to an appointment in a school prior to the commencement of the course.\n",
             "Meeting these requirements does not guarantee selection.2. In ranking applications, the Selection Committee will consider:",
             "Prior academic performance; and",
-            "The results of the selection testc.",
+            "The results of the selection test.",
             "3. The Selection Committee may seek further information to clarify any aspect of an application in accordance with theAcademic Board rules on the use of selection instruments.4. Applicants are required to satisfy the university\u2019sEnglish language requirements for graduate degrees. For those applicants seeking to meet these requirements by one of the standard tests approved by the Academic Board, UoMperformance band 8is required.eNote",
             "(a) This is an initial teacher education qualification for those wanting to become a registered secondary school teacher; applicants who already hold a recognised secondary teacher qualification are not eligible for entry to this course.",
             "(b) For the definition of \u2018major study\u2019 and \u2018minor study\u2019 refer to theAustralian Institute for Teaching and School Leadership (AITSL) guidelines.",
@@ -79,7 +79,7 @@
                 "overview": [
                     "1.LITERACY AND NUMERACY TEST FOR INITIAL TEACHER EDUCATION STUDENTS",
                     [
-                        "The Australian Commonwealth Government\u2019s Literacy and Numeracy Test for Initial Teacher Education Students (LANTITE) is a compulsory test for Initial Teacher Education students administered by the Australian Council for Educational Research (independently of The University of Melbourne).",
+                        "The Australian Commonwealth Government\u2019s  is a compulsory test for Initial Teacher Education students administered by the Australian Council for Educational Research (independently of The University of Melbourne).",
                         "The Faculty of Education requires each Intern to satisfactorily complete the LANTITE by the end of the first calendar year of their enrolment in the Master of Teaching (Secondary) Internship to continue the course.",
                         "Failure to satisfactorily complete the LANTITE by this progression point will result in referral to the Faculty of Education Course Academic Progress Committee and may result in exclusion from the course until the LANTITE is satisfactorily completed.",
                         "An excluded Intern may be granted an early exit award of a Graduate Diploma in Pedagogy* (if they have satisfactorily completed 100 credit points of the course). Alternatively, they may be withdrawn from the course if they are not able to complete the LANTITE progression requirement within the guidelines set by the LANTITE test administering body."
@@ -106,7 +106,8 @@
                 "Summer Intensive and Semester 1": {
                     "overview": [
                         [
-                            "Two Learning Area 1 subjects (12.5 credit points each); and",
+                            "Two subjects (12.5 credit points each); and",
+                            "Learning Area 1 ",
                             "The two subjects below."
                         ],
                         [
@@ -118,7 +119,8 @@
                 "Winter Intensive and Semester 2": {
                     "overview": [
                         [
-                            "Two Learning Area 2 subjects (12.5 credit points each); and",
+                            "Two  subjects (12.5 credit points each); and",
+                            "Learning Area 2",
                             "The two subjects below."
                         ],
                         [
@@ -133,8 +135,10 @@
                 "Summer Intensive and Semester 1": {
                     "overview": [
                         [
-                            "Two Learning Area 3 subjects (12.5 credit points each); and",
-                            "One Foundations Elective; and",
+                            "Two subjects (12.5 credit points each); and",
+                            "Learning Area 3 ",
+                            "One ; and",
+                            "Foundations Elective",
                             "The two subjects below."
                         ],
                         "Note: \u2018Professional Learning Capstone (MTeach)\u2019 runs year-long and continues into semester 2.",
@@ -292,23 +296,19 @@
         "",
         "Graduates from this course (MC-TEACHSI) may be eligible to apply to:",
         [
-            "the Graduate Certificate in Educational Research;",
-            "the Master of Education (Research); or",
-            "the Doctor of Education (with applicable professional experience). "
+            "the ;",
+            "the ; or",
+            "the  (with applicable professional experience). "
         ],
         "",
         "Alternatively, Graduates from this course (MC-TEACHSI) who have completed:",
         [
-            "the Graduate Certificate in Educational Research;",
-            "the Master of Education (Research); or",
+            "the ;",
+            "the ; or",
             "an undergraduate Honours degree"
         ],
         "may be eligible to apply to one of the following FoE research degrees:",
-        [
-            "Doctor of Philosophy-Education (PhD)",
-            "Doctor of Education",
-            "Master of Philosophy - Education"
-        ],
+        [],
         "",
         "Entry to these courses is a competitive process and each course has other entry requirements such as a minimum academic entry score which must be met. Please check the Handbook course entry for details of entry requirements.",
         "For more information about graduate research study in Education see theFoEResearch Degreespage."

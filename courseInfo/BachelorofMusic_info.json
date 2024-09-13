@@ -58,7 +58,7 @@
             "4. For applicants who have not completed the Victorian Certificate of Education or the International Baccalaureate Diploma, the undergraduate English language requirements must be met.",
             "Notes",
             "For applications through the Victorian Tertiary Admission Centre, \u201cmiddle-band\u201d selection adjustments are made only on the basis of eligibility for Access Melbourne.",
-            "Details for the performance audition and folio audition requirements can be found on the Fine Arts and Music Study website https://finearts-music.unimelb.edu.au/study-with-us\n"
+            "Details for the  and  requirements can be found on the Fine Arts and Music Study website \n"
         ],
         "Inherent requirements (core participation requirements)": [
             "The Melbourne Conservatorium of Music welcomes applications from Students with disabilities. It is University and Melbourne Conservatorium of Music policy to take reasonable steps to make adjustments so as to enable the student\u2019s participation in the Melbourne Conservatorium of Music\u2019s programs, especially the Bachelor of Music.",
@@ -93,12 +93,13 @@
                 [
                     "12.5 credit points of Level 1 Compulsory subjects",
                     "Completion of one prescribed major (consisting of 225 credit points of subjects)",
-                    "50 credit points of Breadth subjects includingA minimum of 12.5 credit points of Level 2 or Level 3 breadth subjects\n",
-                    "A minimum of 12.5 credit points of Level 2 or Level 3 breadth subjects",
+                    "50 credit points of Breadth subjects including\n",
+                    [
+                        [
+                            "A minimum of 12.5 credit points of Level 2 or Level 3 breadth subjects"
+                        ]
+                    ],
                     "12.5 credit points of free points (either music elective or breadth)"
-                ],
-                [
-                    "A minimum of 12.5 credit points of Level 2 or Level 3 breadth subjects"
                 ]
             ],
             "Progression Rules": {

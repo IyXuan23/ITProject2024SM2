@@ -89,7 +89,8 @@
                 ],
                 "In addition to the core subjects shown above, students must complete:",
                 [
-                    "\nTwo Core Discipline subjects chosen from:"
+                    "\n chosen from:",
+                    "TwoCore Discipline subjects "
                 ],
                 [
                     "IBUS90006",
@@ -101,11 +102,13 @@
                     "MKTG90024"
                 ],
                 [
-                    "\nOne additional methods subject approved by the Program Director"
+                    "\n approved by the Program Director",
+                    "One additional methods subject"
                 ],
                 "This subject can be the advanced method subject not completed as a core subject (MGMT90198 Advanced Qualitive Methods or MGMT90199 Advanced Quantitative Methods). Alternatively, a graduate level subject with a significant research methods component can be chosen from another faculty to meet research interests. Enrolment in subjects from other faculties requires as permission from the Subject Coordinator as well as the Program Director.",
                 [
-                    "\nThree elective subjects approved by the Program Director"
+                    "\n approved by the Program Director",
+                    "Three elective subjects"
                 ],
                 "Enrolment in subjects from other faculties requires permission from the Subject Coordinator as well as the Program Director approval."
             ]

@@ -32,7 +32,7 @@
             "3. The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Boardruleson the use of selection instruments.",
             "Note",
             "For applications through the Victorian Tertiary Admission Centre, \u201cmiddle-band\u201d selection adjustments are made only on the basis of eligibility for Access Melbourne.",
-            "An alternative pathway is available for applicants eligible for advanced standing of a least 100 points towards the science component of the B.Sc. including at least 25 points at second year level in a discipline area available in the BSc as a major study area. To be considered under this pathway, applicants must meet the University\u2019s undergraduate English standards and have completed VCE Mathematical Methods (CAS) Units 3 and 4 with a study score of at least 25, or equivalent."
+            "An alternative pathway is available for applicants eligible for advanced standing of a least 100 points towards the science component of the B.Sc. including at least 25 points at second year level in a discipline area available in the BSc as a major study area. To be considered under this pathway, applicants must meet the University\u2019s  and have completed VCE Mathematical Methods (CAS) Units 3 and 4 with a study score of at least 25, or equivalent."
         ],
         "Inherent requirements (core participation requirements)": [
             "The Bachelor of Science welcomes applications from students with disabilities. It is University and degree policy to take all reasonable steps to minimise the impact of disability upon academic study, and reasonable adjustments will be made to enhance a student\u2019s participation in the degree.",
@@ -65,21 +65,21 @@
                 "The Bachelor of Science requires the successful completion of 300 credit points.",
                 [
                     "12.5 credit points of Level 1 Compulsory subjects",
-                    "225 credit points of Science subjects including\nA minimum of 62.5 credit points of Level 1 discipline subjects\nA minimum of 62.5 credit points of Level 2 discipline subjects\nA minimum of 75 credit points of Level 3 discipline subjects\n\n",
-                    "A minimum of 62.5 credit points of Level 1 discipline subjects",
-                    "A minimum of 62.5 credit points of Level 2 discipline subjects",
-                    "A minimum of 75 credit points of Level 3 discipline subjects",
-                    "50 credit points of Breadth subjects includingA maximum of 25 credit points of Level 1 Breadth subjects\n\n",
-                    "A maximum of 25 credit points of Level 1 Breadth subjects\n",
+                    "225 credit points of Science subjects including\n",
+                    [
+                        [
+                            "A minimum of 62.5 credit points of Level 1 discipline subjects",
+                            "A minimum of 62.5 credit points of Level 2 discipline subjects",
+                            "A minimum of 75 credit points of Level 3 discipline subjects"
+                        ]
+                    ],
+                    "50 credit points of Breadth subjects including\n",
+                    [
+                        [
+                            "A maximum of 25 credit points of \n"
+                        ]
+                    ],
                     "The remaining 12.5 points may consist of either Science or Breadth subjects. You must still meet all other course rules."
-                ],
-                [
-                    "A minimum of 62.5 credit points of Level 1 discipline subjects",
-                    "A minimum of 62.5 credit points of Level 2 discipline subjects",
-                    "A minimum of 75 credit points of Level 3 discipline subjects"
-                ],
-                [
-                    "A maximum of 25 credit points of Level 1 Breadth subjects\n"
                 ]
             ],
             "Additional rules": {

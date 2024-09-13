@@ -72,15 +72,13 @@
                     [
                         "100 credit points of core subjects",
                         "25 credit points of Capstone subjects (MSD Minor Thesis both Part 1 and 2)",
-                        "75 credit points of elective subjects including\nA minimum of 50 credit points of Specialisation elective subjects\nA maximum of 25 credit points of Multidisciplinary (Melbourne School of Design and/or university graduate) elective subjects\n\n",
-                        "A minimum of 50 credit points of Specialisation elective subjects",
-                        "A maximum of 25 credit points of Multidisciplinary (Melbourne School of Design and/or university graduate) elective subjects"
+                        "75 credit points of elective subjects including\n",
+                        [
+                            [
+                                "A minimum of 50 credit points of Specialisation elective subjects"
+                            ]
+                        ]
                     ],
-                    [
-                        "A minimum of 50 credit points of Specialisation elective subjects",
-                        "A maximum of 25 credit points of Multidisciplinary (Melbourne School of Design and/or university graduate) elective subjects"
-                    ],
-                    "A maximum of 25 credit points of Multidisciplinary (Melbourne School of Design and/or university graduate) elective subjects",
                     "Master of Urban Planning (MUP) students can complete specialisation elective subjects and multidisciplinary elective subjects by participating in an exchange program with an overseas university.",
                     "To view a sample course plan please go to:",
                     "http://edsc.unimelb.edu.au/graduate/course-planning/sample-course-plans-melbourne-school-of-design/urban-planning"
@@ -112,8 +110,7 @@
                     "Students may choose any masters-level subjects including:",
                     [
                         "Melbourne School of Design graduate subjects starting with ABPL90XXX, ARCH90XXX, LARC90XXX, PLAN90XXX; and CONS90XXX; provided prerequisites are met",
-                        "Any University of Melbourne graduate subject provided prerequisites are met and written approval from the home faculty plus the Master of Urban Planning course coordinator is submitted to Stop 1 via an Enrolment Variation form:",
-                        "https://students.unimelb.edu.au/your-course/manage-your-course/course-enrolment/enrolment-variation"
+                        "Any University of Melbourne graduate subject provided prerequisites are met and written approval from the home faculty plus the Master of Urban Planning course coordinator is submitted to Stop 1 via an Enrolment Variation form:"
                     ],
                     "Note:",
                     "Master of Urban Planning (MUP) students may apply to use points arising from a Melbourne School of Design Travelling Studio towards either the multidisciplinary elective, specialisation elective (with program coordinator approval) components of the course:",

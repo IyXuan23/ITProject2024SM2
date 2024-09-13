@@ -41,11 +41,12 @@
                     "Remaining 50 credit points",
                     "Coursework option",
                     [
-                        "50 credit points of core selective and elective subjects includingA minimum of 12.5 credit points of core selective subject\n",
-                        "A minimum of 12.5 credit points of core selective subject"
-                    ],
-                    [
-                        "A minimum of 12.5 credit points of core selective subject"
+                        "50 credit points of core selective and elective subjects including\n",
+                        [
+                            [
+                                "A minimum of 12.5 credit points of core selective subject"
+                            ]
+                        ]
                     ],
                     "OR",
                     "Research option",

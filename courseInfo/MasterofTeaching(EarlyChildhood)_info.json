@@ -137,9 +137,11 @@
                         "The Faculty of Education requires each Teacher Candidate to satisfactorily complete the LANTITE by the end of the first calendar year of their enrolment in the Master of Teaching (Early Childhood) to continue the course.",
                         "Failure to satisfactorily complete the LANTITE by this progression point will result in referral to the Faculty of Education Course Academic Progress Committee and may result in exclusion from the course until the LANTITE is satisfactorily completed.",
                         "An excluded Teacher Candidate may be granted an early exit award of a Graduate Diploma in Pedagogy* (if they have satisfactorily completed 100 credit points of the course). Alternatively, they may be withdrawn from the course if they are not able to complete the LANTITE progression requirement within the guidelines set by the LANTITE test administering body.",
-                        "\nLANTITE website Information\n"
+                        "\n\n",
+                        [
+                            []
+                        ]
                     ],
-                    [],
                     "* Note that the Graduate Diploma in Pedagogy (Early Childhood) is not a qualification for registration to teach in early childhood settings.",
                     "2. COURSE ACADEMIC PROGRESS COMMITTEE",
                     "Any Teacher Candidate who does not satisfactorily complete a subject, or meet the course progression rules, will be called to attend a Course Academic Progress Committee (CAPC) meeting after results have been certified for each subject. Teacher Candidates in these categories will be invited to make an oral and/or written submission to the Committee as per the requirements of the CAPC process."
@@ -163,24 +165,20 @@
         "",
         "Graduates from this course (MC-TEACHEC) may be eligible to apply to:",
         [
-            "the Graduate Certificate in Educational Research;",
-            "the Master of Education (Research); or",
-            "the Doctor of Education (with applicable professional experience)."
+            "the ;",
+            "the ; or",
+            "the  (with applicable professional experience)."
         ],
         "",
         "Alternatively, Graduates from this course (MC-TEACHEC) who have completed:",
         [
-            "the Graduate Certificate in Educational Research;",
-            "the Master of Education (Research); or",
+            "the ;",
+            "the ; or",
             "an undergraduate Honours degree"
         ],
         "",
         "may be eligible to apply to one of the following FoE research degrees:",
-        [
-            "Doctor of Philosophy-Education (PhD)",
-            "Doctor of Education",
-            "Master of Philosophy - Education"
-        ],
+        [],
         "",
         "",
         "Entry to these courses is a competitive process and each course has other entry requirements such as a minimum academic entry score which must be met. Please check the Handbook course entry for details of entry requirements.",

@@ -21,11 +21,15 @@
         "Entry requirements": [
             "1. In order to be considered for entry, applicants must have completed:",
             "a Bachelor of Music (Honours) degree, or equivalent, with at least an H2A (75%) weighted average; and for",
-            "\n\nMusic Performance (including conducting), and Jazz & Improvisation: a satisfactory audition;\nComposition: a satisfactory composition folio;\nMusicology/Ethnomusicology, Music Psychology & Performance Science, and Music Therapy: a satisfactory piece of scholarly writing;\nInteractive Composition: a satisfactory interactive composition folio.\n\n",
-            "Music Performance (including conducting), and Jazz & Improvisation: a satisfactory audition;",
-            "Composition: a satisfactory composition folio;",
-            "Musicology/Ethnomusicology, Music Psychology & Performance Science, and Music Therapy: a satisfactory piece of scholarly writing;",
-            "Interactive Composition: a satisfactory interactive composition folio.",
+            "\n\n",
+            [
+                [
+                    "Music Performance (including conducting), and Jazz & Improvisation: a satisfactory audition;",
+                    "Composition: a satisfactory composition folio;",
+                    "Musicology/Ethnomusicology, Music Psychology & Performance Science, and Music Therapy: a satisfactory piece of scholarly writing;",
+                    "Interactive Composition: a satisfactory interactive composition folio."
+                ]
+            ],
             "Music Performance (including conducting), and Jazz & Improvisation: a satisfactory audition;",
             "Composition: a satisfactory composition folio;",
             "Musicology/Ethnomusicology, Music Psychology & Performance Science, and Music Therapy: a satisfactory piece of scholarly writing;",

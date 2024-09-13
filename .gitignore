@@ -1,3 +1,11 @@
 #ignores the virtual environment file
 venv/
 *.venv
+*.env
+.env
+
+#ignores node_modules
+node_modules/
+.next
+api/
+next-env.d.ts

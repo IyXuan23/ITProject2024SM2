@@ -54,24 +54,24 @@
                 "Year 2 requirements:",
                 [
                     "75 credit points of Year 2 compulsory subjects",
-                    "25 credit points of Level 1 Breadth subjects\n"
+                    "25 credit points of \n"
                 ],
                 "Year 3 requirements:",
                 [
                     "50 credit points of subjects in the chosen major",
                     "25 credit points of Year 3 elective subjects",
-                    "25 credit points of Level 2 Breadth subjects Level 3 Breadth subjects\n"
+                    "25 credit points of  \n"
                 ],
                 "Year 4 requirements:",
                 [
                     "25 credit points of research project capstone subject",
-                    "75 credit points of Year 4 elective subjects including\nA minimum of 50 credit points of Year 4 Level 9 elective subjects\nA maximum of 25 credit points of Year 4 (Level 3) science elective subjects at course coordinator approval\n\n",
-                    "A minimum of 50 credit points of Year 4 Level 9 elective subjects",
-                    "A maximum of 25 credit points of Year 4 (Level 3) science elective subjects at course coordinator approval"
-                ],
-                [
-                    "A minimum of 50 credit points of Year 4 Level 9 elective subjects",
-                    "A maximum of 25 credit points of Year 4 (Level 3) science elective subjects at course coordinator approval"
+                    "75 credit points of Year 4 elective subjects including\n",
+                    [
+                        [
+                            "A minimum of 50 credit points of Year 4 Level 9 elective subjects",
+                            "A maximum of 25 credit points of Year 4 (Level 3) science elective subjects at course coordinator approval"
+                        ]
+                    ]
                 ]
             ],
             "Additional rules": {

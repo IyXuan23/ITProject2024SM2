@@ -56,19 +56,20 @@
                 "Students who wish to take more Finance elective subjects can do so through selecting them in the General electives list and completing them as general elective subjects.",
                 "To obtain the degree, students must complete:",
                 [
-                    "125 credit points of Discipline core subjects including\n37.5 credit points of Finance subjects\n87.5 credit points of Accounting subjects\n\n",
-                    "37.5 credit points of Finance subjects",
-                    "87.5 credit points of Accounting subjects",
+                    "125 credit points of Discipline core subjects including\n",
+                    [
+                        [
+                            "37.5 credit points of Finance subjects",
+                            "87.5 credit points of Accounting subjects"
+                        ]
+                    ],
                     "12.5 credit points of Capstone subject (the final semester of the program)",
-                    "62.5 credit points of Finance and General elective subjects includingA minimum of 37.5 credit points of Finance elective subjects\n",
-                    "A minimum of 37.5 credit points of Finance elective subjects"
-                ],
-                [
-                    "37.5 credit points of Finance subjects",
-                    "87.5 credit points of Accounting subjects"
-                ],
-                [
-                    "A minimum of 37.5 credit points of Finance elective subjects"
+                    "62.5 credit points of Finance and General elective subjects including\n",
+                    [
+                        [
+                            "A minimum of 37.5 credit points of Finance elective subjects"
+                        ]
+                    ]
                 ]
             ],
             "Subject Options": {

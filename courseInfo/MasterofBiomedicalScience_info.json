@@ -34,13 +34,13 @@
                 "overview": [
                     [
                         "25 credit points of Year 1 compulsory subjects",
-                        "50 credit points of elective subjects including\nA minimum of 25 credit points of Discipline electives\nA minimum of 12.5 credit points of Industry and Professional electives\n\n",
-                        "A minimum of 25 credit points of Discipline electives",
-                        "A minimum of 12.5 credit points of Industry and Professional electives"
-                    ],
-                    [
-                        "A minimum of 25 credit points of Discipline electives",
-                        "A minimum of 12.5 credit points of Industry and Professional electives"
+                        "50 credit points of elective subjects including\n",
+                        [
+                            [
+                                "A minimum of 25 credit points of Discipline electives",
+                                "A minimum of 12.5 credit points of Industry and Professional electives"
+                            ]
+                        ]
                     ],
                     "125 credit points of Research Project subjects including:",
                     [

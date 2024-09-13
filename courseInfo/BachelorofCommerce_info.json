@@ -22,7 +22,8 @@
             "1.In order to be considered for entry, applicants must have completed:",
             "one of",
             "(a) the Victorian Certificate of Education including:",
-            "VCE Units 3 and 4 \u2013 either a study score of at least 25 in one of English, English Language or Literature or a study score of at least 30 in English as an Additional Language, and\n",
+            "VCE Units 3 and 4 \u2013 either a study score of at least 25 in one of English, English Language or Literature or a study score of at least 30 in English as an Additional Language, \n",
+            "and",
             "VCE Units 3 and 4 \u2013 a study score of at least 25 in Mathematics Methods or Specialist Mathematics;",
             "Note: For applicants interested in the Bachelor of Commerce to Master of Engineering Graduate Degree Package, it's strongly encouraged that you complete Specialist Mathematics Units 3 and 4, or equivalent. If VCE Specialist Mathematics is not completed, applicants will be required to undertake an additional Mathematics subject through the University's Community Access Program (CAP). Melbourne School of Engineering will provide a fee waiver for one CAP subject.",
             "(b) the International Baccalaureate Diploma including",
@@ -41,9 +42,12 @@
             "the ability to explain and apply concepts across a range of commerce and business disciplines in solving business and policy problems;",
             "the ability to contribute positively to the development of organisations and society in relation to business, government and the commercial professions.",
             "All students of the Faculty\u2019s courses must possess intellectual, ethical, and emotional capabilities required to participate in the curriculum and to achieve the levels of competence required by the Faculty. Candidates for the BCom degree and for FBE Masters degrees must have abilities and skills in communication; in conceptual, integrative, and quantitative dimensions; and in behavioural and social dimensions.",
-            "\nCommunication: The student must be able to communicate effectively and efficiently in oral and/or written form. A student must have the ability to clearly and independently communicate knowledge and application of a discipline, principles or practices during assessment tasks, and in some discipline streams.",
-            "\nIntellectual\u2010Conceptual, Integrative and Quantitative Abilities: The student is expected to have the ability to develop problem\u2010solving skills and demonstrate the ability to establish study plans and priorities. These abilities include measurement, calculation, reasoning, analysis, and synthesis. Problem solving requires all of these intellectual abilities. Students should also have the ability to comprehend complex disciplinary and cross disciplinary information related to the BCom and Masters degrees.",
-            "\nBehavioural and Social Attributes: Students must possess behavioural and social attributes that enable them to participate in a complex learning environment and the emotional health required for full utilisation of their intellectual abilities. Students are required to take responsibility for their own participation and learning. They also contribute to the learning of other students in collaborative learning environments, demonstrating interpersonal skills and an understanding of the needs of other students. Assessment may include the outcomes of tasks completed in collaboration with other students. Integrity, concern for others, interpersonal skills, interest, and motivation are all personal qualities that are deemed necessary for students enrolled in FBE courses.",
+            "\n: The student must be able to communicate effectively and efficiently in oral and/or written form. A student must have the ability to clearly and independently communicate knowledge and application of a discipline, principles or practices during assessment tasks, and in some discipline streams.",
+            "Communication",
+            "\n: The student is expected to have the ability to develop problem\u2010solving skills and demonstrate the ability to establish study plans and priorities. These abilities include measurement, calculation, reasoning, analysis, and synthesis. Problem solving requires all of these intellectual abilities. Students should also have the ability to comprehend complex disciplinary and cross disciplinary information related to the BCom and Masters degrees.",
+            "Intellectual\u2010Conceptual, Integrative and Quantitative Abilities",
+            "\n: Students must possess behavioural and social attributes that enable them to participate in a complex learning environment and the emotional health required for full utilisation of their intellectual abilities. Students are required to take responsibility for their own participation and learning. They also contribute to the learning of other students in collaborative learning environments, demonstrating interpersonal skills and an understanding of the needs of other students. Assessment may include the outcomes of tasks completed in collaboration with other students. Integrity, concern for others, interpersonal skills, interest, and motivation are all personal qualities that are deemed necessary for students enrolled in FBE courses.",
+            "Behavioural and Social Attributes",
             "The Faculty of Business and Economics welcomes applications from students with disabilities. It is University and Faculty policy to take all reasonable steps to minimise the impact of disability upon academic study, and reasonable adjustments will be made to enhance a student\u2019s participation in the Faculty\u2019s programs.",
             "Students who feel their disability will prevent them from participating in tasks involving the inherent academic requirements of the BCom and FBE Master's courses are encouraged to contact the Student Equity and Disability Support. Adjustments can be provided to minimise the impact of a disability, but students should participate in the course in an independent manner."
         ]
@@ -58,21 +62,21 @@
             "overview": [
                 "The Bachelor of Commerce requires the successful completion of 300 credit points.",
                 [
-                    "237.5 credit points of Commerce discipline subjects including\nA minimum of 62.5 credit points of Level 1 commerce discipline subjects\n\nA minimum of 62.5 credit points of Level 2 commerce discipline subjects\n\nA minimum of 50 credit points of Level 3 commerce discipline subjects\n\n\n",
-                    "A minimum of 62.5 credit points of Level 1 commerce discipline subjects\n",
-                    "A minimum of 62.5 credit points of Level 2 commerce discipline subjects\n",
-                    "A minimum of 50 credit points of Level 3 commerce discipline subjects\n",
-                    "50 credit points of Breadth subjects includingA maximum of 37.5 credit points of Level 1 breadth subjects\n\n",
-                    "A maximum of 37.5 credit points of Level 1 breadth subjects\n",
+                    "237.5 credit points of Commerce discipline subjects including\n",
+                    [
+                        [
+                            "A minimum of 62.5 credit points of \n",
+                            "A minimum of 62.5 credit points of \n",
+                            "A minimum of 50 credit points of \n"
+                        ]
+                    ],
+                    "50 credit points of Breadth subjects including\n",
+                    [
+                        [
+                            "A maximum of 37.5 credit points of \n"
+                        ]
+                    ],
                     "12.5 credit points of free subjects (Commerce discipline or breadth)"
-                ],
-                [
-                    "A minimum of 62.5 credit points of Level 1 commerce discipline subjects\n",
-                    "A minimum of 62.5 credit points of Level 2 commerce discipline subjects\n",
-                    "A minimum of 50 credit points of Level 3 commerce discipline subjects\n"
-                ],
-                [
-                    "A maximum of 37.5 credit points of Level 1 breadth subjects\n"
                 ]
             ],
             "Additional rules": {

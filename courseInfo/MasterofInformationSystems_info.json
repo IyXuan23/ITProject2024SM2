@@ -52,28 +52,24 @@
                 "The Master of Information Systems requires the successful completion of 200 credit points.",
                 "All students must complete:",
                 [
-                    "125 credit points of compulsory subjects including\n87.5 credit points of Year 1 compulsory subjects\n37.5 credit points of Year 2 compulsory subjects\n\n",
-                    "87.5 credit points of Year 1 compulsory subjects",
-                    "37.5 credit points of Year 2 compulsory subjects",
-                    "25 credit points of Capstone experience subjects (where students select one of four capstone options) including25 credit points of Capstone selective subjects or 25 credit points of Capstone IS Research Project subjects\n",
-                    "25 credit points of Capstone selective subjects or 25 credit points of Capstone IS Research Project subjects",
-                    "50 credit points of elective subjects including\nA minimum of 25 credit points of Master of Information Systems (MIS) elective subjects\nA maximum of 25 credit points of general elective subjects\n\n",
-                    "A minimum of 25 credit points of Master of Information Systems (MIS) elective subjects",
-                    "A maximum of 25 credit points of general elective subjects"
+                    "125 credit points of compulsory subjects including\n",
+                    [
+                        [
+                            "87.5 credit points of Year 1 compulsory subjects",
+                            "37.5 credit points of Year 2 compulsory subjects"
+                        ]
+                    ],
+                    "25 credit points of Capstone experience subjects (where students select one of four capstone options) including\n",
+                    [
+                        []
+                    ],
+                    "50 credit points of elective subjects including\n",
+                    [
+                        [
+                            "A minimum of 25 credit points of Master of Information Systems (MIS) elective subjects"
+                        ]
+                    ]
                 ],
-                [
-                    "87.5 credit points of Year 1 compulsory subjects",
-                    "37.5 credit points of Year 2 compulsory subjects"
-                ],
-                [
-                    "25 credit points of Capstone selective subjects or 25 credit points of Capstone IS Research Project subjects"
-                ],
-                "25 credit points of Capstone selective subjectsor25 credit points of Capstone IS Research Project subjects",
-                [
-                    "A minimum of 25 credit points of Master of Information Systems (MIS) elective subjects",
-                    "A maximum of 25 credit points of general elective subjects"
-                ],
-                "A maximum of 25 credit points of general elective subjects",
                 "Additional rules",
                 [
                     "The capstone experience study needs to be taken in Year 2",

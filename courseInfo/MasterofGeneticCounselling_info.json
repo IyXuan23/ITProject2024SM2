@@ -44,8 +44,12 @@
             "2. up to three written, signed and dated references to attest to volunteer/work experience and ability including the duration and nature of the work (proforma available)",
             "up to three written, signed and dated references to attest to volunteer/work experience and ability including the duration and nature of the work (proforma available)",
             "AND",
-            "\na personal statement outlining a) why they wish to be considered for the program and b) how their background and experience is relevant to a career in genetic counselling (1000 words maximum)\n",
-            "a personal statement outlining a) why they wish to be considered for the program and b) how their background and experience is relevant to a career in genetic counselling (1000 words maximum)",
+            "\n\n",
+            [
+                [
+                    "a personal statement outlining a) why they wish to be considered for the program and b) how their background and experience is relevant to a career in genetic counselling (1000 words maximum)"
+                ]
+            ],
             "a personal statement outlining a) why they wish to be considered for the program and b) how their background and experience is relevant to a career in genetic counselling (1000 words maximum)",
             "Shortlisted applicants will be invited to interview with the Selection Panel which involves:",
             "attending in person or by virtual interview to demonstrate interpersonal skills; and ",
@@ -65,13 +69,17 @@
             "6. the performance at the interview; and",
             "7. marks from the genetics quiz; and",
             "8. the relevance of the references.",
-            "\n\nprior academic performance; and\nthe nature and extent of relevant professional and/or voluntary work experience and\nthe personal statement; and\nthe performance at the interview; and\nmarks from the genetics quiz; and\nthe relevance of the references.\n\n",
-            "prior academic performance; and",
-            "the nature and extent of relevant professional and/or voluntary work experience and",
-            "the personal statement; and",
-            "the performance at the interview; and",
-            "marks from the genetics quiz; and",
-            "the relevance of the references.",
+            "\n\n",
+            [
+                [
+                    "prior academic performance; and",
+                    "the nature and extent of relevant professional and/or voluntary work experience and",
+                    "the personal statement; and",
+                    "the performance at the interview; and",
+                    "marks from the genetics quiz; and",
+                    "the relevance of the references."
+                ]
+            ],
             "prior academic performance; and",
             "the nature and extent of relevant professional and/or voluntary work experience and",
             "the personal statement; and",

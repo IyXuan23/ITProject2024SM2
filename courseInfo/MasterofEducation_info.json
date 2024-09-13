@@ -206,7 +206,7 @@
                     "6 x subjects chosen from:",
                     [
                         "General Electives; and/or",
-                        "\nSpecialisation subjects\u202f(Students who wish to obtain a specialisation must complete 4 Specialisation subjects as prescribed in that area, totalling 50 points);"
+                        "\n\u202f(Students who wish to obtain a specialisation must complete 4 Specialisation subjects as prescribed in that area, totalling 50 points);"
                     ],
                     "and",
                     [
@@ -261,22 +261,21 @@
         "Graduates interested in graduate research with the Faculty of Education may have several options, depending on their prior qualifications, academic achievement, research experience and professional experience.",
         "Graduates who have completed\u202fthe\u202fCapstone option in this course\u202f(MC-ED) may be eligible to apply to:",
         [
-            "The Graduate Certificate in Educational Research, or  ",
-            "the Master of Education (Research), or",
-            "the Doctor of Education\n"
+            "The , or  ",
+            "the , or",
+            "the \n"
         ],
         "Graduates who have completed:",
         [
             "the 50\u202fcredit-point Research option in this course (MC-ED), or  ",
-            "the Graduate Certificate in Educational Research, or ",
-            "the Master of Education (Research), or ",
+            "the , or ",
+            "the , or ",
             "an\u202fundergraduate Honours degree,"
         ],
         "may be eligible to apply to one of the following research degrees:",
         [
-            "\nDoctor of Philosophy - Education (PhD) ",
-            "Doctor of Education",
-            "\nMaster of Philosophy - Education "
+            "\n ",
+            "\n "
         ],
         "Entry to these courses is a competitive process and each course has additional entry requirements such as minimum academic entry scores which must be met. Please check the Handbook course entry for details of entry requirements.",
         "For more information about graduate research study in\u202fEducation see theResearch Degreespage."

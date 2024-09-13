@@ -77,13 +77,13 @@
                         "87.5 credit points of Year 2 compulsory subjects",
                         "25 credit points of Year 3 compulsory capstone project subjects",
                         "12.5 credit points of Year 2 Electrical Engineering selectives",
-                        "75 credit points of electives including\nA minimum of 50 credit points of No specialisation Group A (Electrical Engineering) electives\nA maximum of 25 credit points of Group B (Approved) electives\n\n",
-                        "A minimum of 50 credit points of No specialisation Group A (Electrical Engineering) electives",
-                        "A maximum of 25 credit points of Group B (Approved) electives"
-                    ],
-                    [
-                        "A minimum of 50 credit points of No specialisation Group A (Electrical Engineering) electives",
-                        "A maximum of 25 credit points of Group B (Approved) electives"
+                        "75 credit points of electives including\n",
+                        [
+                            [
+                                "A minimum of 50 credit points of No specialisation Group A (Electrical Engineering) electives",
+                                "A maximum of 25 credit points of Group B (Approved) electives"
+                            ]
+                        ]
                     ]
                 ]
             },
@@ -91,18 +91,13 @@
                 "overview": [
                     [
                         "100 credit points of Year 1 compulsory subjects",
-                        "87.5 credit points of Year 2 and 3 core specialisation subjects",
                         "25 credit points of Year 3 compulsory capstone project subjects",
                         "12.5 credit points of Year 2 Electrical Engineering selectives",
-                        "\n75 credit points of electives including\nA minimum of 50 credit points of Business electives (Business specialisation only) or A minimum of 50 credit points of Specialisation Group A (Electrical Engineering) electives (for other specialisations other than Business)\n",
-                        "A minimum of 50 credit points of Business electives (Business specialisation only) or A minimum of 50 credit points of Specialisation Group A (Electrical Engineering) electives (for other specialisations other than Business)"
+                        "\n\n\n",
+                        [
+                            []
+                        ]
                     ],
-                    "87.5 credit points of Year 2 and 3 core specialisation subjects",
-                    "75 credit points of electives including",
-                    [
-                        "A minimum of 50 credit points of Business electives (Business specialisation only) or A minimum of 50 credit points of Specialisation Group A (Electrical Engineering) electives (for other specialisations other than Business)"
-                    ],
-                    "A minimum of 50 credit points of Business electives (Business specialisation only)orA minimum of 50 credit points of Specialisation Group A (Electrical Engineering) electives (for other specialisations other than Business)",
                     "Note:",
                     "Students entering the course with advanced standing who plan on completing a specialisation may need to enrol in core specialisation subjects in their commencing semester. Please check and follow the structure outlined for your intended specialisation and seek course planning advice."
                 ]

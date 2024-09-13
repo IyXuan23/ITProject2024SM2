@@ -52,13 +52,13 @@
                         "37.5 credit points of foundation compulsory subjects",
                         "50 credit points of compulsory subjects",
                         "12.5 credit points of compulsory capstone subject",
-                        "50 credit points of optional subjects including:\nA minimum of 12.5 credit points of capstone selective subject\nA maximum of 37.5 credit points of elective subjects\n\n",
-                        "A minimum of 12.5 credit points of capstone selective subject",
-                        "A maximum of 37.5 credit points of elective subjects"
-                    ],
-                    [
-                        "A minimum of 12.5 credit points of capstone selective subject",
-                        "A maximum of 37.5 credit points of elective subjects"
+                        "50 credit points of optional subjects including:\n",
+                        [
+                            [
+                                "A minimum of 12.5 credit points of capstone selective subject",
+                                "A maximum of 37.5 credit points of elective subjects"
+                            ]
+                        ]
                     ]
                 ]
             },

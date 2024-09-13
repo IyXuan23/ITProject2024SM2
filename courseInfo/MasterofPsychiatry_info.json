@@ -27,9 +27,9 @@
             "1. In order to be considered for entry, applicants must have completed:\u2022 either\u2014 a postgraduate coursework Doctor of Medicine, or\u2014 an undergraduate degree in medicine, or equivalent;and\u2022 at least one year of documented experience as a practising doctor;and\u2022 hold current medical registration in the country where the applicant is working.",
             "Meeting these requirements in itself does not guarantee selection.2. In ranking applications, the Selection Committee will consider:\u2022 prior academic performance; and\u2022 professional experience.3. The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Boardruleson the use of selection instruments.4. Applicants are required to satisfy the University\u2019s English language requirements for postgraduate courses. For those applicants seeking to meet these requirements by one of the standard tests approved by the Academic Board, performanceband 7+is required. The English language requirement will be will be deemed met by evidence of registration with the Medical Board of Australia, since this registration has stringent English language requirements.Notes:",
             "All applicants must either 1) At the time of admission and during their candidature be engaged in clinical training in psychiatry or 2) be practicing medical officers in a psychiatric service or private medical practitioners with a significant proportion of their practice (equivalent to 12 months clinical practice) involved in working with patients with mental illness, or 3) if undertaking the one year intensive program, have at least 12 months clinical experience within the last 2 years.",
-            "Entry to the elective PSYT90093 Psychiatric Research Project is subject to the capacity of a participating department to provide adequate supervision in a research project. Joint supervision arrangements may need to be put in place for overseas students and a formal agreement to support this may be required from the partner head of the institution prior to enrolment.",
+            "Entry to the elective  Psychiatric Research Project is subject to the capacity of a participating department to provide adequate supervision in a research project. Joint supervision arrangements may need to be put in place for overseas students and a formal agreement to support this may be required from the partner head of the institution prior to enrolment.",
             "Selection into the course is not automatic and in particular, is subject to competition and availability of places.",
-            "Completion of this course does not lead to qualifications to work in psychiatry in Australia. The Masters of Psychiatry is an academic course. Qualification as a psychiatrist in Australia is obtained through application and completion of a training program with the Royal Australian and New Zealand College of Psychiatrists - www.ranzcp.org\n"
+            "Completion of this course does not lead to qualifications to work in psychiatry in Australia. The Masters of Psychiatry is an academic course. Qualification as a psychiatrist in Australia is obtained through application and completion of a training program with the Royal Australian and New Zealand College of Psychiatrists - \n"
         ],
         "Inherent requirements (core participation requirements)": [
             "For the purposes of considering requests for Reasonable Adjustments under the Disability Standards for Education (Cwth 2005), and Students Experiencing Academic Disadvantage Policy, academic requirements for this subject are articulated in the Subject Overview, Objectives, Assessment and Generic Skills sections of this entry.",
@@ -70,12 +70,14 @@
                 "Year III - Standard Delivery",
                 [
                     "PSYT90004 - Psychiatry of Old Age",
-                    "\nEITHER PSYT90094 - Special Topics in Psychiatry OR PSYT90093 - Psychiatric Research Project*",
-                    "Two selective subjects: one May and one June/July\n* prerequisite subject for Psychiatry Research Project (PSYT90010 Research Methods in Psychiatry)\n",
-                    "* prerequisite subject for Psychiatry Research Project (PSYT90010 Research Methods in Psychiatry)"
-                ],
-                [
-                    "* prerequisite subject for Psychiatry Research Project (PSYT90010 Research Methods in Psychiatry)"
+                    "\n PSYT90094 - Special Topics in Psychiatry  PSYT90093 - Psychiatric Research Project*",
+                    "EITHEROR",
+                    "Two selective subjects: one May and one June/July\n\n",
+                    [
+                        [
+                            "* prerequisite subject for Psychiatry Research Project (PSYT90010 Research Methods in Psychiatry)"
+                        ]
+                    ]
                 ],
                 [
                     "PSYT90004",

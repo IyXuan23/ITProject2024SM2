@@ -48,15 +48,15 @@
                 [
                     "100 credit points of compulsory subjects",
                     "25 credit points of compulsory industry project subject",
-                    "75 credit points of elective subjects includingA minimum of 25 credit points of Technical/Practical Science subjects\nThe remaining points (a maximum of 50 credit points) are taken from the Business, Technical/Practical Science and Professional Development Skills subjects list, as below.\n",
-                    "A minimum of 25 credit points of Technical/Practical Science subjects",
-                    "The remaining points (a maximum of 50 credit points) are taken from the Business, Technical/Practical Science and Professional Development Skills subjects list, as below."
-                ],
-                [
-                    "A minimum of 25 credit points of Technical/Practical Science subjects"
-                ],
-                [
-                    "The remaining points (a maximum of 50 credit points) are taken from the Business, Technical/Practical Science and Professional Development Skills subjects list, as below."
+                    "75 credit points of elective subjects including\n\n",
+                    [
+                        [
+                            "A minimum of 25 credit points of Technical/Practical Science subjects"
+                        ],
+                        [
+                            "The remaining points (a maximum of 50 credit points) are taken from the Business, Technical/Practical Science and Professional Development Skills subjects list, as below."
+                        ]
+                    ]
                 ],
                 "Note:",
                 "If a student wishes to take a Masters level subject (Level 9) that is not listed within the elective list, and they have satisfied the prerequisites for it, students can contact the Course Coordinator to request approval to enrol. Please submit an Enrolment Assistance form with the Course Coordinator's approval so staff can assist:",

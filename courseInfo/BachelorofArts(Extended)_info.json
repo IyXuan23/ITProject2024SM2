@@ -77,7 +77,8 @@
             "Major requirements": {
                 "overview": [
                     [
-                        "Students must complete one major",
+                        "Students  complete one major",
+                        "must",
                         "Students may complete a maximum of two majors",
                         "Student may take no more than ten subjects (125 points) in any one discipline"
                     ]
@@ -127,9 +128,12 @@
             ],
             "Variations to Major requirements",
             [
-                "Students who undertake a major in Chinese Studies from entry point 1 (beginners level) must complete ten Chinese subjects (125 points) taken as Arts discipline subjects.",
-                "Students who undertake a major in Psychology must complete ten Psychology subjects (125 points) comprising eight subjects (100 points) taken as Arts discipline subjects and two subjects (25 points) at later years taken as breadth (12.50 at level 2 and 12.50 points at level 3).",
-                "Students who undertake a major in Economics will complete nine Economics subjects (112.5 points) comprising three subjects (37.5 points) taken as Arts discipline and six subjects (75 points) taken as breadth."
+                "Students who undertake a major in from entry point 1 (beginners level) must complete ten Chinese subjects (125 points) taken as Arts discipline subjects.",
+                "Chinese Studies ",
+                "Students who undertake a major in  must complete ten Psychology subjects (125 points) comprising eight subjects (100 points) taken as Arts discipline subjects and two subjects (25 points) at later years taken as breadth (12.50 at level 2 and 12.50 points at level 3).",
+                "Psychology",
+                "Students who undertake a major in  will complete nine Economics subjects (112.5 points) comprising three subjects (37.5 points) taken as Arts discipline and six subjects (75 points) taken as breadth.",
+                "Economics"
             ],
             "Please note:",
             [

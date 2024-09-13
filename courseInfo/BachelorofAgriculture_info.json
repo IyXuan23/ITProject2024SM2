@@ -51,22 +51,21 @@
             "overview": [
                 "The Bachelor of Agriculture requires the successful completion of 300 credit points.",
                 [
-                    "150 credit points of Compulsory subjects including\n100 credit points of Level 1 compulsory subjects\n37.5 credit points of Level 2 compulsory subjects\n12.5 credit points of Level 3 compulsory subjects\n\n",
-                    "100 credit points of Level 1 compulsory subjects",
-                    "37.5 credit points of Level 2 compulsory subjects",
-                    "12.5 credit points of Level 3 compulsory subjects",
-                    "150 credit points of remaining Discipline subjects, including\nCompletion of one prescribed major (totalling 37.5 credit points of Level 3 discipline subjects)\nA minimum of 112.5 credit points of discipline electives\n\n",
-                    "Completion of one prescribed major (totalling 37.5 credit points of Level 3 discipline subjects)",
-                    "A minimum of 112.5 credit points of discipline electives"
-                ],
-                [
-                    "100 credit points of Level 1 compulsory subjects",
-                    "37.5 credit points of Level 2 compulsory subjects",
-                    "12.5 credit points of Level 3 compulsory subjects"
-                ],
-                [
-                    "Completion of one prescribed major (totalling 37.5 credit points of Level 3 discipline subjects)",
-                    "A minimum of 112.5 credit points of discipline electives"
+                    "150 credit points of Compulsory subjects including\n",
+                    [
+                        [
+                            "100 credit points of Level 1 compulsory subjects",
+                            "37.5 credit points of Level 2 compulsory subjects",
+                            "12.5 credit points of Level 3 compulsory subjects"
+                        ]
+                    ],
+                    "150 credit points of remaining Discipline subjects, including\n",
+                    [
+                        [
+                            "Completion of one prescribed major (totalling 37.5 credit points of Level 3 discipline subjects)",
+                            "A minimum of 112.5 credit points of discipline electives"
+                        ]
+                    ]
                 ]
             ],
             "Additional Rules": {
@@ -82,8 +81,7 @@
                     [
                         "Completion of at least 50 points of Level 1 study before proceeding to the next subject year level.",
                         "Students must also complete the Agriculture Discovery subject at Dookie campus within Year 1 of the degree (first 100 credit points).",
-                        "Completion of at least 50 points of Level 2 study before proceeding to the next subject year level.",
-                        "The exception to this is AGRI30041 / Industry Internship, which students in the Bachelor of Agriculture are permitted to undertake after the completion of Year 1."
+                        "Completion of at least 50 points of Level 2 study before proceeding to the next subject year level."
                     ]
                 ]
             },

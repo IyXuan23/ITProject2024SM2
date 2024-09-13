@@ -4,7 +4,7 @@
     "Overview text": [
         "The Master of Music (Opera Performance) is a practice-based graduate coursework degree. The course consists of 200 points of study in four areas: Opera Performance Practicum, Core Skills in Opera, Research Studies and Supporting Studies.",
         "This course includes specialist training provided to students through vocational placement in a professional opera company (e.g. Victorian Opera or Pinchgut Opera), or through performance in one of the University\u2019s in-house opera productions.",
-        "Last updated: 6 September 2024"
+        "Last updated: 13 September 2024"
     ],
     "Overview table": {
         "Award title": "Master of Music (Opera Performance)",
@@ -45,13 +45,13 @@
                 "200-point program:",
                 [
                     "150 points of compulsory subjects",
-                    "50 points of elective subjects according to one of the following specialisations:\n\nSinger (50 credit points); or\nRepetiteur (50 credit points).\n\n",
-                    "Singer (50 credit points); or",
-                    "Repetiteur (50 credit points)."
-                ],
-                [
-                    "Singer (50 credit points); or",
-                    "Repetiteur (50 credit points)."
+                    "50 points of elective subjects according to one of the following specialisations:\n\n",
+                    [
+                        [
+                            "Singer (50 credit points); or",
+                            "Repetiteur (50 credit points)."
+                        ]
+                    ]
                 ]
             ],
             "Year 1": {

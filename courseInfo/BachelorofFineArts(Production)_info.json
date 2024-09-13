@@ -44,15 +44,14 @@
             "Compulsory subjects": {
                 "overview": [
                     [
-                        "237.5 credit points of Compulsory subjects including\n75 credit points of Level 1 Compulsory subjects\n75 credit points of Level 2 Compulsory subjects\n87.5 credit points of Level 3 Compulsory subjects\n\n",
-                        "75 credit points of Level 1 Compulsory subjects",
-                        "75 credit points of Level 2 Compulsory subjects",
-                        "87.5 credit points of Level 3 Compulsory subjects"
-                    ],
-                    [
-                        "75 credit points of Level 1 Compulsory subjects",
-                        "75 credit points of Level 2 Compulsory subjects",
-                        "87.5 credit points of Level 3 Compulsory subjects"
+                        "237.5 credit points of Compulsory subjects including\n",
+                        [
+                            [
+                                "75 credit points of Level 1 Compulsory subjects",
+                                "75 credit points of Level 2 Compulsory subjects",
+                                "87.5 credit points of Level 3 Compulsory subjects"
+                            ]
+                        ]
                     ]
                 ]
             },
@@ -66,11 +65,12 @@
             "Breadth": {
                 "overview": [
                     [
-                        "50 credit points of Breadth subjectsA minimum of 12.5 credit points of Level 2 or Level 3 breadth subjects\n\n",
-                        "A minimum of 12.5 credit points of Level 2 or Level 3 breadth subjects\n"
-                    ],
-                    [
-                        "A minimum of 12.5 credit points of Level 2 or Level 3 breadth subjects\n"
+                        "50 credit points of Breadth subjects\n",
+                        [
+                            [
+                                "A minimum of 12.5 credit points of \n"
+                            ]
+                        ]
                     ]
                 ]
             },

@@ -70,21 +70,21 @@
                 "overview": [
                     [
                         "150 credit points of compulsory subjects",
-                        "37.5 credit points of selectives including\n25 credit points of Year 1 selectives\n12.5 credit points of Year 2 selectives\n\n",
-                        "25 credit points of Year 1 selectives",
-                        "12.5 credit points of Year 2 selectives",
+                        "37.5 credit points of selectives including\n",
+                        [
+                            [
+                                "25 credit points of Year 1 selectives",
+                                "12.5 credit points of Year 2 selectives"
+                            ]
+                        ],
                         "25 credit points of Year 3 capstone project subject(s)",
-                        "87.5 credit points of electives including\n62.5 credit points of Bioengineering electives\n25 credit points of approved electives\n\n",
-                        "62.5 credit points of Bioengineering electives",
-                        "25 credit points of approved electives"
-                    ],
-                    [
-                        "25 credit points of Year 1 selectives",
-                        "12.5 credit points of Year 2 selectives"
-                    ],
-                    [
-                        "62.5 credit points of Bioengineering electives",
-                        "25 credit points of approved electives"
+                        "87.5 credit points of electives including\n",
+                        [
+                            [
+                                "62.5 credit points of Bioengineering electives",
+                                "25 credit points of approved electives"
+                            ]
+                        ]
                     ]
                 ]
             },
@@ -93,16 +93,14 @@
                     [
                         "150 credit points of compulsory subjects",
                         "25 credit points of Year 1 selectives",
-                        "62.5 credit points of Year 2 and 3 specialisation subjects (including 50 credit points of core specialisation subjects)",
                         "25 credit points of Year 3 capstone project subject(s)",
-                        "37.5 credit points of electives including\n12.5 credit points of Bioengineering electives\n25 credit points of approved electives\n\n",
-                        "12.5 credit points of Bioengineering electives",
-                        "25 credit points of approved electives"
-                    ],
-                    "62.5 credit points of Year 2 and 3 specialisation subjects (including 50 credit points of core specialisation subjects)",
-                    [
-                        "12.5 credit points of Bioengineering electives",
-                        "25 credit points of approved electives"
+                        "37.5 credit points of electives including\n",
+                        [
+                            [
+                                "12.5 credit points of Bioengineering electives",
+                                "25 credit points of approved electives"
+                            ]
+                        ]
                     ]
                 ]
             },
@@ -130,26 +128,22 @@
                 "overview": [
                     [
                         "75 credit points of Year 2 compulsory subjects",
-                        "12.5 credit points of Year 2 selectives or 12.5 credit points of compulsory specialisation subject",
                         "12.5 credit points of Bioengineering electives"
-                    ],
-                    "12.5 credit points of Year 2 selectivesor12.5 credit points of compulsory specialisation subject"
+                    ]
                 ]
             },
             "Year 3:": {
                 "overview": [
                     [
                         "25 credit points of Year 3 capstone project subjects",
-                        "50 credit points of subjects including\n12.5 credit points of Bioengineering electives\n37.5 credit points of Bioengineering electives or 37.5 credit points of compulsory specialisation subjects\n\n",
-                        "12.5 credit points of Bioengineering electives",
-                        "37.5 credit points of Bioengineering electives or 37.5 credit points of compulsory specialisation subjects",
+                        "50 credit points of subjects including\n",
+                        [
+                            [
+                                "12.5 credit points of Bioengineering electives"
+                            ]
+                        ],
                         "25 credit points of approved electives"
-                    ],
-                    [
-                        "12.5 credit points of Bioengineering electives",
-                        "37.5 credit points of Bioengineering electives or 37.5 credit points of compulsory specialisation subjects"
-                    ],
-                    "37.5 credit points of Bioengineering electivesor37.5 credit points of compulsory specialisation subjects"
+                    ]
                 ]
             },
             "Progression": {

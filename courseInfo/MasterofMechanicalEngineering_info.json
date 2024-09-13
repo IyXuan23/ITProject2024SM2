@@ -41,9 +41,13 @@
             "Graduate Degree Packages for School Leavers",
             "The University of Melbourne offers Graduate Degree Packages to high achieving school leavers, allowing them to secure places (Commonwealth Supported Places for domestic students or International fee places) in the Master of Engineering provided that they meet certain requirements.",
             "For a Commonwealth Supported Place or an International Fee Place, the applicant must:",
-            "Complete an Australian Year 12 or the International Baccalaureate (IB) in 2018 or later either:\n\nIn Australia; or\nOutside Australia and be an Australian citizen;\n\n",
-            "In Australia; or",
-            "Outside Australia and be an Australian citizen;",
+            "Complete an Australian Year 12 or the International Baccalaureate (IB) in 2018 or later either:\n\n",
+            [
+                [
+                    "In Australia; or",
+                    "Outside Australia and be an Australian citizen;"
+                ]
+            ],
             "Achieve an ATAR (or notional ATAR) of at least 96.00;",
             "Apply for a University of Melbourne Graduate Degree Packages for commencement in the year following completion of Year 12 or IB via VTAC;",
             "Enrol immediately or be granted deferral in the year following Year 12;",
@@ -82,13 +86,13 @@
                     [
                         "212.5 credit points of compulsory subjects",
                         "12.5 credit points of Mechanical Engineering selectives",
-                        "75 credit points of electives including\nA minimum of 50 credit points of Group A electives\nA maximum of 25 credit points of Group B electives\n\n",
-                        "A minimum of 50 credit points of Group A electives",
-                        "A maximum of 25 credit points of Group B electives"
-                    ],
-                    [
-                        "A minimum of 50 credit points of Group A electives",
-                        "A maximum of 25 credit points of Group B electives"
+                        "75 credit points of electives including\n",
+                        [
+                            [
+                                "A minimum of 50 credit points of Group A electives",
+                                "A maximum of 25 credit points of Group B electives"
+                            ]
+                        ]
                     ]
                 ]
             },
@@ -97,11 +101,12 @@
                     [
                         "212.5 credit points of compulsory subjects",
                         "12.5 credit points of Mechanical Engineering selectives",
-                        "75 credit points of core specialisation subjects/specialisation electives and Mechanical Engineering electives (from Group A and B) includingA minimum of 50 credit points of core specialisation subjects/specialisation electives\n",
-                        "A minimum of 50 credit points of core specialisation subjects/specialisation electives"
-                    ],
-                    [
-                        "A minimum of 50 credit points of core specialisation subjects/specialisation electives"
+                        "75 credit points of core specialisation subjects/specialisation electives and Mechanical Engineering electives (from Group A and B) including\n",
+                        [
+                            [
+                                "A minimum of 50 credit points of core specialisation subjects/specialisation electives"
+                            ]
+                        ]
                     ],
                     "Note:",
                     "Students entering the course with advanced standing who plan on completing a specialisation may need to enrol in core specialisation subjects in their commencing semester. Please check and follow the structure outlined for your intended specialisation and seek course planning advice."

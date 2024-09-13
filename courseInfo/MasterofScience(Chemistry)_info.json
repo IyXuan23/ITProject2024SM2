@@ -38,11 +38,12 @@
                     [
                         "Between 37.5 and 62.5 credit points of discipline subjects",
                         "Between 12.5 and 25 credit points of professional skills subjects",
-                        "25 credit points of optional elective subjects includingA maximum of 12.5 credit points of Level 3 optional elective subjects\n",
-                        "A maximum of 12.5 credit points of Level 3 optional elective subjects"
-                    ],
-                    [
-                        "A maximum of 12.5 credit points of Level 3 optional elective subjects"
+                        "25 credit points of optional elective subjects including\n",
+                        [
+                            [
+                                "A maximum of 12.5 credit points of Level 3 optional elective subjects"
+                            ]
+                        ]
                     ],
                     "And research project subjects",
                     "125 credit points of research project subjects"

@@ -70,29 +70,29 @@
                     "225 points of Environments discipline subjects including:"
                 ],
                 [
-                    "\nAt least 75 points at Level 1\nAt least 62.5 points at Level 2\nAt least 62.5 points at Level 3\n",
-                    "At least 75 points at Level 1",
-                    "At least 62.5 points at Level 2",
-                    "At least 62.5 points at Level 3"
-                ],
-                [
-                    "At least 75 points at Level 1"
-                ],
-                [
-                    "At least 62.5 points at Level 2"
-                ],
-                [
-                    "At least 62.5 points at Level 3"
+                    "\n\n\n\n",
+                    [
+                        [
+                            "At least 75 points at Level 1"
+                        ],
+                        [
+                            "At least 62.5 points at Level 2"
+                        ],
+                        [
+                            "At least 62.5 points at Level 3"
+                        ]
+                    ]
                 ],
                 [
                     "50 points of breadth including:"
                 ],
                 [
-                    "\nAt least 12.5 points at Level 2 or 3 (and no more than 37.5 points at Level 1)\n",
-                    "At least 12.5 points at Level 2 or 3 (and no more than 37.5 points at Level 1)"
-                ],
-                [
-                    "At least 12.5 points at Level 2 or 3 (and no more than 37.5 points at Level 1)"
+                    "\n\n",
+                    [
+                        [
+                            "At least 12.5 points at Level 2 or 3 (and no more than 37.5 points at Level 1)"
+                        ]
+                    ]
                 ],
                 [
                     "25 points of free subjects at Levels 1 to 3"
@@ -199,21 +199,7 @@
     "Further Study": [
         "Graduates of the Bachelor of Environments will have the opportunity to continue their study through a number of pathways and dependent on their chosen field may be able to enrol in an honours year, a professional masters or a research higher degree in an area related to your undergraduate study area. In addition to this, the University offers a range of new graduate-entry only programs, available to graduates of any 3-year Bachelor degree.",
         "Professional Masters degrees are available in:",
-        [
-            "Architecture",
-            "Civil Engineering",
-            "Construction Management",
-            "Environment",
-            "Environmental Engineering",
-            "Geomatics",
-            "Forest Ecosystem Science",
-            "Landscape Architecture",
-            "Property",
-            "Spatial Information Science",
-            "Urban Horticulture",
-            "Urban Planning",
-            "Urban Design"
-        ],
+        [],
         "Graduate study will provide students with the opportunity to investigate a research project of your interest, further develop your project management and problem solving skills, and in some cases gain national and international professional recognition in your field. For admission requirements to these Professional Masters programs please refer to the handbook entry for each or contact the relevant faculty or school for further information."
     ]
 }

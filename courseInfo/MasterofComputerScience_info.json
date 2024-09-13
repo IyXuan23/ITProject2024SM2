@@ -49,22 +49,21 @@
                 "The Master of Computer Science requires the successful completion of 200 credit points.",
                 "All students must complete:",
                 [
-                    "100 credit points of Year 1 subjects including\n12.5 credit points of Year 1 compulsory subjects\nBetween 25 and 37.5 credit points of Year 1 Foundational Computer Science subjects\nBetween 50 and 62.5 credit points of Year 1 elective subjects\n\n",
-                    "12.5 credit points of Year 1 compulsory subjects",
-                    "Between 25 and 37.5 credit points of Year 1 Foundational Computer Science subjects",
-                    "Between 50 and 62.5 credit points of Year 1 elective subjects",
-                    "100 credit points of Year 2 compulsory research project (in four parts) including\n50 credit points of Part 1 and 2 Computer Science Research Project subjects\n50 credit points of Part 3 and 4 Computer Science Research Project subjects\n\n",
-                    "50 credit points of Part 1 and 2 Computer Science Research Project subjects",
-                    "50 credit points of Part 3 and 4 Computer Science Research Project subjects"
-                ],
-                [
-                    "12.5 credit points of Year 1 compulsory subjects",
-                    "Between 25 and 37.5 credit points of Year 1 Foundational Computer Science subjects",
-                    "Between 50 and 62.5 credit points of Year 1 elective subjects"
-                ],
-                [
-                    "50 credit points of Part 1 and 2 Computer Science Research Project subjects",
-                    "50 credit points of Part 3 and 4 Computer Science Research Project subjects"
+                    "100 credit points of Year 1 subjects including\n",
+                    [
+                        [
+                            "12.5 credit points of Year 1 compulsory subjects",
+                            "Between 25 and 37.5 credit points of Year 1 Foundational Computer Science subjects",
+                            "Between 50 and 62.5 credit points of Year 1 elective subjects"
+                        ]
+                    ],
+                    "100 credit points of Year 2 compulsory research project (in four parts) including\n",
+                    [
+                        [
+                            "50 credit points of Part 1 and 2 Computer Science Research Project subjects",
+                            "50 credit points of Part 3 and 4 Computer Science Research Project subjects"
+                        ]
+                    ]
                 ]
             ],
             "Subject Options": {

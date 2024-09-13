@@ -26,9 +26,13 @@
             "Meeting these requirements does not guarantee selection.",
             "2. In ranking applicants, the selection committee will consider:",
             "prior academic performance; and",
-            "the results of a Graduate Management Admission Test (GMAT) or a Graduate Record Examinations (GRE) test completed within the last 5 years. No minimum GMAT or GRE score is required. The average score of successful applicants is around 680-700 (GMAT) and 324 (GRE). The following applicants for this course are exempt from submitting a GMAT or GRE test:\n\nThose who have completed an undergraduate degree in Australia or New Zealand within the 18 months prior to the date of application; or\nThose who face significant humanitarian issues;\n\n",
-            "Those who have completed an undergraduate degree in Australia or New Zealand within the 18 months prior to the date of application; or",
-            "Those who face significant humanitarian issues;",
+            "the results of a Graduate Management Admission Test (GMAT) or a Graduate Record Examinations (GRE) test completed within the last 5 years. No minimum GMAT or GRE score is required. The average score of successful applicants is around 680-700 (GMAT) and 324 (GRE). The following applicants for this course are exempt from submitting a GMAT or GRE test:\n\n",
+            [
+                [
+                    "Those who have completed an undergraduate degree in Australia or New Zealand within the 18 months prior to the date of application; or",
+                    "Those who face significant humanitarian issues;"
+                ]
+            ],
             "performance in an interview during which the applicant\u2019s level of understanding, motivation and time commitment will be assessed; and",
             "relevant prior research and/or professional experience; and",
             "referee reports; and",

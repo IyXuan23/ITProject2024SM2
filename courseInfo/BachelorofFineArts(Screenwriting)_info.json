@@ -33,7 +33,7 @@
             "4. For applicants who have not completed the Victorian Certificate of Education or the International Baccalaureate Diploma, the undergraduate English language requirements must be met.",
             "Notes:",
             "For applicants through the Victorian Tertiary Admission Centre, \u201cmiddle-band\u201d selection adjustments are made only on the basis of eligibility for Access Melbourne",
-            "Details for the set creative task and interview (shortlisted applicants only) can be found on the Fine Arts and Music Study website https://finearts-music.unimelb.edu.au/study-with-us\n",
+            "Details for the set creative task and interview (shortlisted applicants only) can be found on the Fine Arts and Music Study website \n",
             "Successful applicants will be required to hold a current Working with Children Check and this must remain valid for the duration of the course"
         ],
         "Inherent requirements (core participation requirements)": [
@@ -52,26 +52,26 @@
             "Compulsory subjects": {
                 "overview": [
                     [
-                        "250 credit points of Compulsory subjects\n75 credit points of Level 1 Compulsory subjects\n87.5 credit points of Level 2 Compulsory subjects\n87.5 credit points of Level 3 Compulsory subjects\n\n",
-                        "75 credit points of Level 1 Compulsory subjects",
-                        "87.5 credit points of Level 2 Compulsory subjects",
-                        "87.5 credit points of Level 3 Compulsory subjects"
-                    ],
-                    [
-                        "75 credit points of Level 1 Compulsory subjects",
-                        "87.5 credit points of Level 2 Compulsory subjects",
-                        "87.5 credit points of Level 3 Compulsory subjects"
+                        "250 credit points of Compulsory subjects\n",
+                        [
+                            [
+                                "75 credit points of Level 1 Compulsory subjects",
+                                "87.5 credit points of Level 2 Compulsory subjects",
+                                "87.5 credit points of Level 3 Compulsory subjects"
+                            ]
+                        ]
                     ]
                 ]
             },
             "Breadth": {
                 "overview": [
                     [
-                        "50 credit points of Breadth subjectsA minimum of 12.5 credit points of Level 2 or Level 3 breadth subjects\n\n",
-                        "A minimum of 12.5 credit points of Level 2 or Level 3 breadth subjects\n"
-                    ],
-                    [
-                        "A minimum of 12.5 credit points of Level 2 or Level 3 breadth subjects\n"
+                        "50 credit points of Breadth subjects\n",
+                        [
+                            [
+                                "A minimum of 12.5 credit points of \n"
+                            ]
+                        ]
                     ]
                 ]
             },

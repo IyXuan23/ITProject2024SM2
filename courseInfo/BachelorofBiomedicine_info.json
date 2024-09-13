@@ -45,49 +45,43 @@
             "Course Rules": {
                 "overview": [
                     [
-                        "225 credit points of Discipline subjects includingA minimum of 75 credit points of Level 1 Discipline subjects\n50 credit points of Compulsory Level 1 Discipline subjects\nA minimum of 25 credit points of Foundation electives\n\n\nA minimum of 62.5 credit points of Level 2 Discipline subjects\n50 credit points of Compulsory Level 2 Discipline subjects\nA minimum of 12.5 credit points of Level 2 Discipline electives\n\n\nA minimum of 75 credit points of Level 3 Discipline subjects\n25 credit points of Compulsory Level 3 Discipline subjects\n50 credit points consisting of subjects from your chosen Major\n\n\n",
-                        "A minimum of 75 credit points of Level 1 Discipline subjects\n50 credit points of Compulsory Level 1 Discipline subjects\nA minimum of 25 credit points of Foundation electives\n\n",
-                        "50 credit points of Compulsory Level 1 Discipline subjects",
-                        "A minimum of 25 credit points of Foundation electives",
-                        "A minimum of 62.5 credit points of Level 2 Discipline subjects\n50 credit points of Compulsory Level 2 Discipline subjects\nA minimum of 12.5 credit points of Level 2 Discipline electives\n\n",
-                        "50 credit points of Compulsory Level 2 Discipline subjects",
-                        "A minimum of 12.5 credit points of Level 2 Discipline electives",
-                        "A minimum of 75 credit points of Level 3 Discipline subjects\n25 credit points of Compulsory Level 3 Discipline subjects\n50 credit points consisting of subjects from your chosen Major\n\n",
-                        "25 credit points of Compulsory Level 3 Discipline subjects",
-                        "50 credit points consisting of subjects from your chosen Major",
-                        "50 credit points of Breadth subjects includingA maximum of 37.5 credit points of Level 1 Breadth subjects\n\n",
-                        "A maximum of 37.5 credit points of Level 1 Breadth subjects\n",
+                        "225 credit points of Discipline subjects including\n\n\n",
+                        [
+                            [
+                                "A minimum of 75 credit points of Level 1 Discipline subjects\n",
+                                [
+                                    [
+                                        "50 credit points of Compulsory Level 1 Discipline subjects",
+                                        "A minimum of 25 credit points of Foundation electives"
+                                    ]
+                                ]
+                            ],
+                            [
+                                "A minimum of 62.5 credit points of Level 2 Discipline subjects\n",
+                                [
+                                    [
+                                        "50 credit points of Compulsory Level 2 Discipline subjects",
+                                        "A minimum of 12.5 credit points of Level 2 Discipline electives"
+                                    ]
+                                ]
+                            ],
+                            [
+                                "A minimum of 75 credit points of Level 3 Discipline subjects\n",
+                                [
+                                    [
+                                        "25 credit points of Compulsory Level 3 Discipline subjects",
+                                        "50 credit points consisting of subjects from your chosen Major"
+                                    ]
+                                ]
+                            ]
+                        ],
+                        "50 credit points of Breadth subjects including\n",
+                        [
+                            [
+                                "A maximum of 37.5 credit points of \n"
+                            ]
+                        ],
                         "The remaining 25 credit points may consist of Discipline electives or Breadth or Foundation electives. You must still meet all other course rules."
-                    ],
-                    [
-                        "A minimum of 75 credit points of Level 1 Discipline subjects\n50 credit points of Compulsory Level 1 Discipline subjects\nA minimum of 25 credit points of Foundation electives\n\n",
-                        "50 credit points of Compulsory Level 1 Discipline subjects",
-                        "A minimum of 25 credit points of Foundation electives"
-                    ],
-                    [
-                        "50 credit points of Compulsory Level 1 Discipline subjects",
-                        "A minimum of 25 credit points of Foundation electives"
-                    ],
-                    [
-                        "A minimum of 62.5 credit points of Level 2 Discipline subjects\n50 credit points of Compulsory Level 2 Discipline subjects\nA minimum of 12.5 credit points of Level 2 Discipline electives\n\n",
-                        "50 credit points of Compulsory Level 2 Discipline subjects",
-                        "A minimum of 12.5 credit points of Level 2 Discipline electives"
-                    ],
-                    [
-                        "50 credit points of Compulsory Level 2 Discipline subjects",
-                        "A minimum of 12.5 credit points of Level 2 Discipline electives"
-                    ],
-                    [
-                        "A minimum of 75 credit points of Level 3 Discipline subjects\n25 credit points of Compulsory Level 3 Discipline subjects\n50 credit points consisting of subjects from your chosen Major\n\n",
-                        "25 credit points of Compulsory Level 3 Discipline subjects",
-                        "50 credit points consisting of subjects from your chosen Major"
-                    ],
-                    [
-                        "25 credit points of Compulsory Level 3 Discipline subjects",
-                        "50 credit points consisting of subjects from your chosen Major"
-                    ],
-                    [
-                        "A maximum of 37.5 credit points of Level 1 Breadth subjects\n"
                     ]
                 ]
             },

@@ -42,22 +42,32 @@
             "Coursework (150CP)": {
                 "overview": [
                     [
-                        "\nCore subjects (50CP): Core subjects must be completed.",
-                        "\nCapstone (25CP): This is typically taken in the form of two subjects.",
-                        "\nCore selective (12.5CP): Students normally complete one of the selective subjects in the area of Pharmacology",
-                        "\nGraduate Certificate Specialty Subject (12.5CP): Students normally complete one of the specialty subjects from seven specialty subjects",
-                        "\nElectives (50CP): Students normally undertake four elective subjects."
+                        "\nCore subjects must be completed.",
+                        "Core subjects (50CP): ",
+                        "\nThis is typically taken in the form of two subjects.",
+                        "Capstone (25CP): ",
+                        "\nStudents normally complete one of the selective subjects in the area of Pharmacology",
+                        "Core selective (12.5CP): ",
+                        "\n Students normally complete one of the specialty subjects from seven specialty subjects",
+                        "Graduate Certificate Specialty Subject (12.5CP):",
+                        "\nStudents normally undertake four elective subjects.",
+                        "Electives (50CP): "
                     ]
                 ]
             },
             "Research (150CP)": {
                 "overview": [
                     [
-                        "\nCore subjects (62.5CP): Core subjects must be completed.",
-                        "\nCapstone (25CP): This is typically taken in the form of two subjects.",
-                        "\nCore selective (25CP): Students normally complete one selective subjects in the area of Pharmacology AND Research",
-                        "\nGraduate Certificate Specialty Subject (12.5CP): Students normally complete one of the specialty subjects from seven specialty subjects",
-                        "\nElectives (25CP): Students normally undertake two elective subjects."
+                        "\nCore subjects must be completed.",
+                        "Core subjects (62.5CP): ",
+                        "\nThis is typically taken in the form of two subjects.",
+                        "Capstone (25CP): ",
+                        "\nStudents normally complete one selective subjects in the area of Pharmacology AND Research",
+                        "Core selective (25CP): ",
+                        "\n Students normally complete one of the specialty subjects from seven specialty subjects",
+                        "Graduate Certificate Specialty Subject (12.5CP):",
+                        "\nStudents normally undertake two elective subjects.",
+                        "Electives (25CP): "
                     ]
                 ]
             }
