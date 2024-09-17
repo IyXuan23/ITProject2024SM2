@@ -1,24 +1,57 @@
 import os
+from dotenv import load_dotenv
 from functools import wraps
-from flask import Flask, jsonify, Response, request, redirect, url_for
+from flask import Flask, jsonify, Response, request
+from flask_cors import CORS
 import flask
-from cache import MemoryCache
 import psycopg2
+from psycopg2 import sql
 from openai import OpenAI
-from vanna.remote import VannaDefault
+from cache import MemoryCache
+from dependencies.vanna import VannaDefault
 
+cache = MemoryCache()
+load_dotenv()
 app = Flask(__name__, static_url_path='')
 
-openai_api_key = os.getenv('OPENAI_API_KEY')
-vanna_api_key = os.getenv('VANNA_API_KEY')
+openai_api_key = os.environ.get('OPENAI_API_KEY')
+vanna_api_key = os.environ.get('VANNA_API_KEY')
+CORS(app, resources={r"/api/*": {"origins": "*"}})
 
 # SETUP
-cache = MemoryCache()
 vanna_model_name = 	"unimelb-handbook-chatbot"
 
 vn = VannaDefault(model=vanna_model_name, api_key=vanna_api_key)
-vn.connect_to_postgres(dbname="postgres",user="postgres.seqkcnapvgkwqbqipqqs",password="IT Web Server12",host="aws-0-ap-southeast-2.pooler.supabase.com",port=6543)
+# vn.connect_to_postgres(dbname="postgres",user="postgres.seqkcnapvgkwqbqipqqs",password="IT Web Server12",host="aws-0-ap-southeast-2.pooler.supabase.com",port=6543)
 # NO NEED TO CHANGE ANYTHING BELOW THIS LINE
+
+def is_sql_valid(sql_query):
+    try:
+        # 使用您的数据库连接参数
+        conn = psycopg2.connect(
+            dbname="postgres",
+            user="postgres.seqkcnapvgkwqbqipqqs",
+            password="IT Web Server12",
+            host="aws-0-ap-southeast-2.pooler.supabase.com",
+            port=6543
+        )
+        cur = conn.cursor()
+        conn.set_session(autocommit=False)
+        try:
+            cur.execute(sql.SQL("EXPLAIN {}").format(sql.SQL(sql_query)))
+            conn.rollback() 
+            return True
+        except psycopg2.Error as e:
+            conn.rollback()
+            return False
+        finally:
+            cur.close()
+    except psycopg2.Error as e:
+        return False
+    finally:
+        if conn:
+            conn.close()
+
 def requires_cache(fields):
     def decorator(f):
         @wraps(f)
@@ -41,7 +74,7 @@ def requires_cache(fields):
         return decorated
     return decorator
 
-@app.route('/api/v0/generate_questions', methods=['GET'])
+@app.route('/api/v1/generate_questions', methods=['GET'])
 def generate_questions():
     generate_questions = vn.generate_questions()
     return jsonify({
@@ -50,13 +83,13 @@ def generate_questions():
         "header": "Here are some questions you can ask:"
         })
 
-@app.route('/api/v0/generate_sql', methods=['GET'])
+@app.route('/api/v1/generate_sql', methods=['GET'])
 def generate_sql():
     user_question = flask.request.args.get('question')
     # Step 1: Generate the SQL query from the user question
     sql = vn.generate_sql(user_question)
 
-    valid = vn.is_sql_valid(sql=sql)
+    valid = is_sql_valid(sql)
 
     if valid:
         conn = psycopg2.connect(database="postgres",user="postgres.seqkcnapvgkwqbqipqqs",password="IT Web Server12",host="aws-0-ap-southeast-2.pooler.supabase.com",port=6543)
@@ -85,10 +118,10 @@ def generate_sql():
 
     # Step 5: Return the OpenAI response as a JSON response
     return jsonify({
-        "response": "Sorry, I can't answer that question currently."
+        "response": sql,
     })
 
-@app.route('/api/v0/run_sql', methods=['GET'])
+@app.route('/api/v1/run_sql', methods=['GET'])
 @requires_cache(['sql'])
 def run_sql(id: str, sql: str):
     try:
@@ -106,7 +139,7 @@ def run_sql(id: str, sql: str):
     except Exception as e:
         return jsonify({"type": "error", "error": str(e)})
 
-@app.route('/api/v0/download_csv', methods=['GET'])
+@app.route('/api/v1/download_csv', methods=['GET'])
 @requires_cache(['df'])
 def download_csv(id: str, df):
     csv = df.to_csv()
@@ -117,7 +150,7 @@ def download_csv(id: str, df):
         headers={"Content-disposition":
                  f"attachment; filename={id}.csv"})
 
-@app.route('/api/v0/generate_plotly_figure', methods=['GET'])
+@app.route('/api/v1/generate_plotly_figure', methods=['GET'])
 @requires_cache(['df', 'question', 'sql'])
 def generate_plotly_figure(id: str, df, question, sql):
     try:
@@ -140,7 +173,7 @@ def generate_plotly_figure(id: str, df, question, sql):
 
         return jsonify({"type": "error", "error": str(e)})
 
-@app.route('/api/v0/get_training_data', methods=['GET'])
+@app.route('/api/v1/get_training_data', methods=['GET'])
 def get_training_data():
     df = vn.get_training_data()
 
@@ -151,7 +184,7 @@ def get_training_data():
         "df": df.head(25).to_json(orient='records'),
     })
 
-@app.route('/api/v0/remove_training_data', methods=['POST'])
+@app.route('/api/v1/remove_training_data', methods=['POST'])
 def remove_training_data():
     # Get id from the JSON body
     id = flask.request.json.get('id')
@@ -164,7 +197,7 @@ def remove_training_data():
     else:
         return jsonify({"type": "error", "error": "Couldn't remove training data"})
 
-@app.route('/api/v0/train', methods=['POST'])
+@app.route('/api/v1/train', methods=['POST'])
 def add_training_data():
     question = flask.request.json.get('question')
     sql = flask.request.json.get('sql')
@@ -179,7 +212,7 @@ def add_training_data():
         print("TRAINING ERROR", e)
         return jsonify({"type": "error", "error": str(e)})
 
-@app.route('/api/v0/generate_followup_questions', methods=['GET'])
+@app.route('/api/v1/generate_followup_questions', methods=['GET'])
 @requires_cache(['df', 'question', 'sql'])
 def generate_followup_questions(id: str, df, question, sql):
     followup_questions = vn.generate_followup_questions(question=question, sql=sql, df=df)
@@ -194,7 +227,7 @@ def generate_followup_questions(id: str, df, question, sql):
             "header": "Here are some followup questions you can ask:"
         })
 
-@app.route('/api/v0/load_question', methods=['GET'])
+@app.route('/api/v1/load_question', methods=['GET'])
 @requires_cache(['question', 'sql', 'df', 'fig_json', 'followup_questions'])
 def load_question(id: str, question, sql, df, fig_json, followup_questions):
     try:
@@ -212,7 +245,7 @@ def load_question(id: str, question, sql, df, fig_json, followup_questions):
     except Exception as e:
         return jsonify({"type": "error", "error": str(e)})
 
-@app.route('/api/v0/get_question_history', methods=['GET'])
+@app.route('/api/v1/get_question_history', methods=['GET'])
 def get_question_history():
     return jsonify({"type": "question_history", "questions": cache.get_all(field_list=['question']) })
 

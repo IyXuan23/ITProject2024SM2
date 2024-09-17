@@ -6,7 +6,7 @@
 // import {DeepChat as DeepChatCore} from 'deep-chat'; <- type
 import styles from './style.module.css';
 import dynamic from 'next/dynamic';
-import { useEffect,useState } from 'react';
+import { useEffect, useState, useCallback } from 'react';
 
 // Info to get a reference for the component:
 // https://github.com/OvidijusParsiunas/deep-chat/issues/59#issuecomment-1839483469
@@ -21,29 +21,6 @@ export default function Home() {
   const DeepChat = dynamic(() => import('deep-chat-react').then((mod) => mod.DeepChat), {
     ssr: false,
   });
-
-  useEffect(() => {
-    async function fetchQuestions() {
-      try {
-        const response = await fetch('/api/custom/chat', {
-          method: 'GET',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-        });
-
-        const data = await response.json();
-        if (data.type === 'question_list') {
-          setQuestions(data.questions);
-          setIntroMessage(prev => `${prev}\n\n${"Hello, I am your Unimelb HandBook Assistant. "}${data.header}\n\n${data.questions.join('\n\n')}`);
-        }
-      } catch (error) {
-        console.error('Retrieve suggest questions failed', error);
-      }
-    }
-
-    fetchQuestions();
-  }, []);
 
   return (
     <>
@@ -79,10 +56,10 @@ export default function Home() {
                   },
                   text: {padding: '10px', paddingLeft: '15px', paddingRight: '34px'}
                 },
-                placeholder: {text: 'Ask me anything in English', style: {color: '#606060'}}
+                placeholder: {text: 'Ask me anything about the Unimelb Handbook', style: {color: '#606060'}}
               }}
               introMessage={{
-                text: introMessage,
+                text: "Hi, I am your Unimelb Handbook Chatbot, what can I help you with today? ",
               }}
               speechToText={{
                 azure: {
@@ -131,9 +108,6 @@ export default function Home() {
                   ai: {bubble: {background: "rgba(255,255,255,0.7)"}}
                 }
               }}
-              errorMessages={{
-                overrides: {speechToText: "Azure Speech To Text can not be used in this website as you need to set your credentials."}
-              }}
               submitButtonStyles={{
                 position: "outside-right",
                 submit: {
@@ -174,7 +148,6 @@ export default function Home() {
                   }
                 }
               }}
-              demo={true}
           />
         </div>
       </main>

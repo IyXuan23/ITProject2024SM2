@@ -1,5 +1,5 @@
 Flask==3.0.3
-vanna
-db-dtypes
 psycopg2-binary
+flask-cors
 openai
+python-dotenv
