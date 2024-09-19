@@ -2,22 +2,24 @@
     "manifest_version": 3,
     "name": "Unimelb Hand-bot",
     "description": "A chatbot with data about the University of Melbourne Handbook",
-    "action": {
-        "default_popup": "test_popup.html",
-        "default_size": {
-            "width": 400,
-            "height": 600
-        }
-    },
     "version": "1.0",
-    "icons":{
-        "16":"placeholder_16.jpg",
-        "48":"placeholder_48.jpg",
-        "128":"placeholder_128.jpg"
+    "icons": {
+        "16": "Chatbot_logo_16.png",
+        "48": "Chatbot_logo_48.png",
+        "128": "Chatbot_logo_128.png"
     },
-    "content_security_policy": {
-    "extension_pages": "script-src 'self'; object-src 'self';",
-    "sandbox": "sandbox allow-scripts allow-forms allow-popups allow-modals; script-src 'self' 'unsafe-inline' 'unsafe-eval'; child-src 'self';"
-    },
-  "permissions": ["activeTab"]
+    "permissions": ["activeTab"],
+    "content_scripts": [
+        {
+            "matches": ["https://handbook.unimelb.edu.au/*"],
+            "js": ["content.js"],
+            "css": ["styles.css"]
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": ["test_popup.html", "Chatbot_logo_128.png", "deepChat.bundle.js", "microsoft.cognitiveservices.speech.sdk.bundle.js", "chatbot_styles.js"],
+            "matches": ["https://handbook.unimelb.edu.au/*"]
+        }
+    ]
 }
