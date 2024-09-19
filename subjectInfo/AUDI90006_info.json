@@ -1,0 +1,139 @@
+{
+    "subject name": "Paediatric Audiology B",
+    "subject code": "AUDI90006",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "This subject builds on the basic paediatric assessment skills gained in Paediatric Audiology A. Students will have the opportunity to learn the principles and practice of audiological assessment of children of all ages. Students will refine and expand their understanding of advanced paediatric testing techniques; educational and communication issues for hearing impaired children; assessment and management of children with special needs; assessment and management of hearing-impaired neonates and infants. Supervised clinical experience will be obtained in the diagnosis and management of hearing disorders in children of all ages.",
+        "Students are expected to meet the core participation requirements of the Masters of Clinical Audiology. Lectures, practicals, small group discussions/PBLs are all highly interactive and students are expected to participate and contribute in all classes. Teaching will be conducted face to face in large-group lectures, small group discussions/PBLs, and practical sessions (approximately 3 hours/week including the asynchronous activities such as pre-class readings/modules and optional quizzes that are there to help students gauge their level of understanding and identify current gaps in knowledge).",
+        "The subject is part of the clinical placement program. Students should be expected to be allocated to clinical placements at the University Clinic and across metropolitan and rural services including hospitals and community settings."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Conduct accurate audiometric assessments with children of all ages, including those with developmental and/or behavioural problems and/or significant hearing loss",
+        "Adapt interpersonal communication skills to effectively manage children and advise and support parents/guardians in the clinic;",
+        "Analyse, interpret and integrate test results and be able to formulate appropriate management and intervention strategies",
+        "Conduct a complicated clinical assessment including clinical history, appropriate feedback to parents/guardians and write a well-constructed clinical report",
+        "Demonstrate analytical skills by incorporating the theoretical principles of clinical decision making."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AUDI90012",
+                    "AUDI90021",
+                    "AUDI90022",
+                    "AUDI90023"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Multiple choice quiz. 30 minutes",
+            "timing": "Week 6, semester 1",
+            "percentage": "5%"
+        },
+        {
+            "description": "Multiple choice quiz. 30 minutes",
+            "timing": "Week 6,  semester 2",
+            "percentage": "5%"
+        },
+        {
+            "description": "Clinical exam (simulated patient and oral exam). 2 hours. Hurdle requirement:. Students must pass clinical exam to pass the subject",
+            "timing": "Exam period, semester 1",
+            "percentage": "30%"
+        },
+        {
+            "description": "Case study assignment. 1500 words",
+            "timing": "Week 3, semester 2",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Students must pass the written examination to pass the subject",
+            "timing": "End of semester 2",
+            "percentage": "30%"
+        },
+        {
+            "description": "Clinical portfolio and oral presentation. 500 words. Hurdle requirement:. Students must complete all components of the e-portfolio to a satisfactory standard (50% mark) and pass the oral presentation to pass the assessment.",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Principal coordinator": "Kelley Graydon"
+                },
+                {
+                    "Coordinator": "Jocelyn Phillips"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "46 hours lectures and practicum sessions, 50 hours clinics."
+                },
+                {
+                    "Total time commitment": "255 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [
+                    "Dr Kelley Graydon"
+                ],
+                "email": [
+                    "kgraydon@unimelb.edu.au",
+                    "jocelyn.phillips@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Nil"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Nil"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

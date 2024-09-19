@@ -1,0 +1,123 @@
+{
+    "subject name": "Animal Disease Biotechnology 2",
+    "subject code": "ANSC30002",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject explores the control of diseases on a large scale and the role of animal health surveillance in maintaining the health of human populations. Students will learn about integrated approaches to infectious disease control in animal populations, as well as the epidemiological and biological basis of the methods that are used."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse and implement different techniques used to detect and prevent disease outbreaks",
+        "Compare strategies to monitor and control infectious diseases in animal populations",
+        "Evaluate how the biology of an infectious disease and the host animal impact how we can detect, prevent and control infectious diseases",
+        "Communicate effectively  the principles of animal health as they relate to diagnostic testing and disease control",
+        "Examine how animals are used in research and industry to further understand infectious and non-infectious diseases"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "AGRI20043",
+                    "BCMB20002",
+                    "BIOM20001"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "VETS30012 Animal Disease Biotechnology 2",
+        "BIOL30005 Animal Disease Biotechnology 2"
+    ],
+    "assessments": [
+        {
+            "description": "Written assignment. 1000 words (equivalent)",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Mid semester test. 55 minutes (total)",
+            "timing": "From Week 5 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "In class participation including group work and mini-quizzes. 500 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Alistair Legione"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of lectures (2 hours per week) 36 hours of case studies and practical classes (3 hours per week)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "legionea@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

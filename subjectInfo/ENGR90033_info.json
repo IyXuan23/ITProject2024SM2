@@ -1,0 +1,228 @@
+{
+    "subject name": "Internship",
+    "subject code": "ENGR90033",
+    "subject availability": [
+        "Summer Term - Dual-Delivery",
+        "Semester 1 - Dual-Delivery",
+        "Semester 2 - Dual-Delivery"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject involves students undertaking professional work experience with a Host Organisation, generally at the Host Organisation\u2019s premises. Students will work under the supervision of both an academic mentor and an external supervisor at the Host Organisation.",
+        "By completing their internship as part of this subject, students will receive support in navigating their placement, guidance on maximising their learning from the experiences they gain and training in how to use these experiences when seeking employment.",
+        "This subject uses structured reflection to help students develop the professional skills and competencies required by engineers and IT professionals. Each student is allocated an academic mentor to assist them in their development and support their well-being.",
+        "Please view this video for further information:Internship"
+    ],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Discuss communication in an engineering and IT workplace using examples from their internship, with a focus on the relevance of context, purpose, empathy and relationships.",
+        "Discuss teamwork, team development, team roles and/or leadership within the engineering and IT workplace using examples from their internship.",
+        "Use a structured approach to reflect on the professional competencies required by their discipline, their own level of competency and to formulate personal professional development plans.",
+        "Present their internship experiences in the context of seeking engineering and IT employment.",
+        "Discuss and critique professional accountability of an engineer or IT professional focusing on safety, ethics and data management."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "Please do note, 'At Risk' students are not eligible to enrol in this subject.",
+                "Certain degrees have options of specialisations. These specialisations can use up available electives. If you are considering a specialisation please seek course advice from STOP 1 and/or your Course Coordinator before considering the Internship subject (ie. before applying for any internships). If you enrol in the internship subject, you may later find that you have used up 25 points of electives, preventing you from taking certain specialisations. For that reason it is important to course plan very carefully."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note that not all specialisations will have sufficient available credit points to allow students to complete ENGR90033. Please check the handbook entry for your course or contact your course coordinator.",
+                "MC-BIOMENG Master of Biomedical Engineering",
+                "MC-CIVENG Master of Civil Engineering",
+                "MC-ELECENG Master of Electrical Engineering",
+                "MC-ENVENG Master of Environmental Engineering",
+                "MC-MECHENG Master of Mechanical Engineering",
+                "MC-MTRNENG Master of Mechatronics Engineering",
+                "MC-SOFTENG Master of Software Engineering",
+                "MC-IS Master of Information Systems",
+                "MC-IT Master of Information Technology",
+                "MC-IT100 Master of Information Technology",
+                "MC-IT150 Master of Information Technology",
+                "Admission into or selection of one of the following:",
+                "Biomedical specialisation (formal) in the MC-ENG Master of Engineering",
+                "Civil specialisation (formal) in the MC-ENG Master of Engineering",
+                "Electrical specialisation (formal) in the MC-ENG Master of Engineering",
+                "Environmental specialisation (formal) in the MC-ENG Master of Engineering",
+                "Mechanical specialisation (formal) in the MC-ENG Master of Engineering",
+                "Mechanical with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                "Mechatronics specialisation (formal) in the MC-ENG Master of Engineering",
+                "Software specialisation (formal) in the MC-ENG Master of Engineering",
+                "Structural specialisation (formal) in the MC-ENG Master of Engineering",
+                "There is an application process for this subject:",
+                "Students may apply for university-sourced internships through a competitive process, or source their own internships.",
+                "Students intending on using a self-sourced internship must apply to have it approved by the ENGR90033 subject coordinator by contactingengit-placements@unimelb.edu.au.",
+                "An application for a student-sourced internship must be made at least two weeks before the teaching period commencement date.",
+                "Students are likely to find the internship subject to be significantly more challenging than most other subjects due to the very high workload requirements of being on an industry placement, and the need to adapt to an industry environment. As such, students completing the internship subject as part of a full study load will need to manage their time very carefully.",
+                "Students should also avoid completing a 25-point industry-based final year project concurrently with the internship subject. Students who wish to do so should first discuss their plans with the Engineering and IT Placements team (engit-placements@unimelb.edu.au)."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BUSA90473",
+        "BUSA90485",
+        "CHEN90028",
+        "GEOM90017",
+        "ENGR90027"
+    ],
+    "assessments": [
+        {
+            "description": "Initial Reflection which addresses the intended learning outcomes (ILOs) 2 and 3. Requires approximately 10 hours of work.. 1200 words",
+            "timing": "Week 3",
+            "percentage": "5%"
+        },
+        {
+            "description": "Continuous assessment, consisting of 3 Engagement Reports of no more than 800 words each. Addresses intended learning outcomes (ILOs) 1, 2, 3 and 5. Requires approximately 16 hours of work in total. Engagement Reports will be due throughout the semester at approximately regular intervals starting around week 5.. 2400 words",
+            "timing": "Weeks 5, 8 and 11.",
+            "percentage": "30%"
+        },
+        {
+            "description": "Seminar Presentation (5 minutes duration per student) and facilitate a 15-minute discussion/activity on professional accountability. Students will typically present and facilitate as part of a pair. Addresses intended learning outcome (ILO) 5. Requires approximately 6 hours of preparation. The presentation and discussion will occur during the seminars. Seminars will be held around week 7 of semester.. 5 minutes",
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "Oral Presentation on work undertaken and reflection against the Intended Learning Outcomes. Addresses intended learning outcomes (ILOs) 1, 2, and 4. Requires approximately 12 hours of work in total. Presentations are held in approximately week 10 of semester.. 10 minutes",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final Reflection on work undertaken and a job application. The reflection and job application (excluding resume) will be no more than 3,000 words. Addresses intended learning outcomes (ILOs) 1, 2, 3 and 4. Requires approximately 12 hours of work in total.. 3000 words",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Principal coordinator": "Brice Shen"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "10 hours including 4 hours of seminars, 3 hours of workshops, 2 hours of mentor meetings and 1 hour of presentations."
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "27 November 2023 to 23 February 2024"
+                },
+                {
+                    "Last self-enrol date": "14 December 2023"
+                },
+                {
+                    "Census date": "19 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "1 March 2024"
+                }
+            ]
+        },
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Brice Shen"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "10 hours including 4 hours of seminars, 3 hours of workshops, 2 hours of mentor meetings and 1 hour of presentations."
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Brice Shen"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "10 hours including 4 hours of seminars, 3 hours of workshops, 2 hours of mentor meetings and 1 hour of presentations."
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "engit-placements@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "engit-placements@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "https://eng.unimelb.edu.au/students/coursework/progress-your-career/internship"
+        ]
+    }
+}

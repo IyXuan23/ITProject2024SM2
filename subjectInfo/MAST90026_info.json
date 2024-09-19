@@ -1,0 +1,118 @@
+{
+    "subject name": "Computational Differential Equations",
+    "subject code": "MAST90026",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Many processes in the natural sciences, engineering and finance are described mathematically using ordinary or partial differential equations. Only the simplest or those with special structure can be solved exactly. This subject discusses common techniques for computing numerical solutions to differential equations and introduces the major themes of accuracy, stability and efficiency. Understanding these basic properties of scientific computing algorithms should prevent the unwary from using software packages inappropriately or uncritically, and provide a foundation for devising methods for nonstandard problems. We cover both time-independent problems, in one and higher space dimensions, and evolution equations of hyperbolic or parabolic type."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "appreciate how and why numerical methods are developed to solve differential equations commonly arising in finance, science and engineering;",
+        "understand the chief factors to be considered in choosing an appropriate algorithm for a given class of problem;",
+        "acquire high level numerical tools and knowledge that can be used to solve a range of problems in science and engineering;",
+        "gain the ability to pursue further studies in this and related areas."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students should be able to program in one of: C, Matlab, Mathematica, Perl, Fortran, Python etc"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Weekly homework for the first four weeks",
+            "timing": "Early in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Up to 60 pages of written assignments (three assignments worth 20% each due mid and late in semester). 60 pages",
+            "timing": "Second half of the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "description": "An oral presentation on a project held towards the end of semester. 15 minutes",
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Jesse Collis"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "jesse.collis@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "TBA"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "R.J.Leveque, Finite difference methods for ordinary and partial differential equations. Steady-state and time-dependent problems, SIAM, 2007.A. Iserles, A First Course in the Numerical Analysis of Differential Equations, 2nd edn, Cambridge University Press, 2008."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

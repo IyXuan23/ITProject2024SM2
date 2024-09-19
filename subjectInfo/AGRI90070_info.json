@@ -1,0 +1,169 @@
+{
+    "subject name": "Minor Research Project",
+    "subject code": "AGRI90070",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject enables students to conduct an original research topic under supervision, as approved by an academic project supervisor. The work commitment over one semester will be equivalent to lecture and practical based subjects worth 25 points. The content and extent of the project will be determined by a project supervisor in consultation with the student and subject coordinator. Students are strongly encouraged to initiate project ideas within existing networks or to identify a project topic of keen interest, through discussion with Faculty staff, prior to subject commencement. The project represents a capstone subject and comprises a review of a body of relevant literature, together with a critical evaluation of research or experimental protocols, a modest original experiment, or limited exploration of a scientific problem, or an investigation into a problem using an approved methodology. Following an initial workshop to establish subject expectations, deliverables and skill base requirements, projects will generally involve regular meetings with their supervisor where students report on progress, difficulties and research plans. Other workshops will deliver skill development in oral and written report presentation.",
+        "",
+        "If you wish to complete the Minor Project over 1 year please enrol in AGRI90079 Minor Research Project Part 1 AND AGRI90081 Minor Research Project Part 2."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Undertake a minor original research project as a capstone learning activity on a topic in a Faculty-supported disciplinary area",
+        "Integration and application of disciplinary knowledge and skills to an independently generated research question and investigation",
+        "Analyse and synthesise salient features and important theoretical, methodological and empirical trends in published literature and data",
+        "Present research findings in clear, concise and persuasive written and verbal forms"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "AGRI90075",
+                    "NRMT90003"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Undertaking a research project is conditional upon obtaining approval from a supervisor. Details regarding to the research area of academic supervisors and enrolment method, please visithttps://science.unimelb.edu.au/students/plan-your-study/agriculture-food-science-research-projects"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "AGRI90072",
+        "AGRI90079",
+        "AGRI90080",
+        "AGRI90081",
+        "AGRI90082"
+    ],
+    "assessments": [
+        {
+            "description": "Project Proposal due Monday 9.00am of week 5. 1500 words. Hurdle requirement:. Students must pass the project proposal",
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final Report due immediately after the SWOTVAC period. 7500 words",
+            "timing": "During the assessment period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Oral Presentation due in Week 12. 15 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Pangzhen Zhang"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One hour per week class time, scheduled supervisor meetings plus individual project work. Meeting frequency / duration to be agreed with the project supervisor."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Pangzhen Zhang"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One hour per week class time, scheduled supervisor meetings plus individual project work. Meeting frequency / duration to be agreed with the project supervisor."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "pangzhen.zhang@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "pangzhen.zhang@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "Plan your study: Agriculture and Food Science Masters research projects"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

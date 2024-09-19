@@ -1,0 +1,125 @@
+{
+    "subject name": "International Political Economy",
+    "subject code": "POLS90026",
+    "subject availability": [
+        "July"
+    ],
+    "overview": [
+        "This subject provides students with a critical understanding of international political economy (IPE), exploring links between international politics and economics in historical and contemporary perspective. It provides an advanced introduction to a range of competing theoretical and methodological approaches in IPE, with an emphasis on their application to current and historical challenges to the governance and politics of the global economy. Major inter-governmental institutions such as the World Trade Organisation, the World Bank, the International Monetary Fund and the G20 are an important focus, as are a range of hybrid international regimes that involve public and private actors. Key historical and contemporary debates in the subject are explored, including divisions between developed and developing countries, the management of trade, international investment, money, and finance in the global economy."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop a political and historical understanding of the major actors and events that have shaped the emergence of the contemporary international political economy",
+        "Develop comprehensive knowledge of the institutional regimes through which the international political economy is organised and governed",
+        "Strengthen skills in critically analysing competing empirical and theoretical claims regarding the consequences of contemporary globalisation",
+        "Develop skills in analysing and evaluating the design and operation of both public and private regimes of global economic governance."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-IR Master of International Relations"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written assessment. 3000 words",
+            "timing": "Due 3 weeks after teaching has concluded",
+            "percentage": "60%"
+        },
+        {
+            "description": "Exam, equivalent to 2000 words. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures where offered.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "July": [
+                {
+                    "Coordinators": "Claire Elder and Andrew Walter"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total of 24 contact hours: A 1-hour lecture & 2-hour seminar per week for eight weeks from the teaching start date."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 13 September 2024"
+                },
+                {
+                    "Last self-enrol date": "1 August 2024"
+                },
+                {
+                    "Census date": "16 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "11 October 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [],
+                "email": [
+                    "claire.elder@unimelb.edu.au",
+                    "andrew.walter@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Required readings for this subject will be taken from a wide range of sources and made available online through the LMS."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Students new to the area may find one or more of the following texts helpful as primers:",
+                    [
+                        "Jeffry Frieden and David Lake(ed),International Political Economy, 5th Edition, 2009",
+                        "Thomas Oatley,International Political Economy: Interest and Institutions in the Global Economy, Pearson, 5th Edition, 2013",
+                        "John Ravenhill (ed),Global Political Economy, Oxford University Press, 5th Edition, 2017",
+                        "Andrew Walter and Guatam Sen,Analyzing the Global Political Economy,Princeton University Press, 2009"
+                    ]
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is a core component of the Master of International Relations. It is also compulsory in the Master of International Politics 200-point program (teach-out), for those students who have not completed 166-401."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/ssps"
+        ]
+    }
+}

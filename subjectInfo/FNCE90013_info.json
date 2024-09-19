@@ -1,0 +1,150 @@
+{
+    "subject name": "Case Studies in Finance",
+    "subject code": "FNCE90013",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This is a capstone subject for the program consisting of selected case studies from topics including: financial management, investment management, portfolio analysis, derivatives and risk management, mergers and acquisitions, raising capital and other topical issues. The case studies describe actual business situations faced by financial managers, which requires analysis and decision-making."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Interpret basic financial statements and explain how they link together;",
+        "Explain and apply ratio analysis in valuation;",
+        "Explain how fundamental values (or &#39;intrinsic values&#39;) are estimated;",
+        "Apply, evaluate and compare current technologies to value firms using financial information;",
+        "Explain business activities that determine value, and identify &#39;value created for shareholders&#39;;",
+        "Explain the funding alternatives available to firms;",
+        "Evaluate the consequences of mergers and acquisitions;",
+        "Describe the nature and role of derivatives in risk management."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 100 credit points of study, inclusive of",
+                "Completion of a minimum of 100 credit points of study, inclusive of",
+                [
+                    "ECON90033",
+                    "ECON90034",
+                    "FNCE90047"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ACCT90002",
+                    "ACCT90004"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Admission into one of the following: MC-FINANCE Master of Finance, MC-FINENH Master of Finance (Enhanced)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Class presentation of group project (2000 words per student equivalent). One presentation during weeks 2-12.. 30 minutes",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "End-of-semester examination.. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Class participation. Due throughout the semester. 1 hours",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Garry Twite"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 3-hour lecture per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Stephen Easton"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 3-hour lecture per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

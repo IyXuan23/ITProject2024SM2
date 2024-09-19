@@ -1,0 +1,129 @@
+{
+    "subject name": "Mathematics of Finance I",
+    "subject code": "ACTL90001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Topics include data analysis, the principles of actuarial modelling, the description of financial transactions; the understanding of real and nominal interest rates, the time value of money, the present value and accumulated value for a given cashflow, the term structure of interest rates; the duration, convexity and immunisation of cashflows; the equation of value and its usage to solve various practical problems, project appraisals."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe sources of data, the aims and conducting of data analysis, and the principles of actuarial modelling in the solution of a range of practical problems;",
+        "Describe and apply the main methods of finding the accumulation or present value of a payment, or a series of payments under simple and compound interest and discount;",
+        "Analyse and solve equations of value for the price or yield of a bond, the present value or yield of an ordinary share or property;",
+        "Construct and analyse a loan schedule, including cases when terms of a loan are altered;",
+        "Explain the key features of the main types of financial assets, including shares, bonds, property and derivatives",
+        "Show how discounted cashflow and equation of value techniques can be used in investment project appraisal;",
+        "Demonstrate a knowledge and understanding of real and money interest rates, and the term structures.",
+        "Show an understanding of duration, convexity and immunization of cashflows."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of:",
+                "MC-ACTSC Master of Actuarial Science",
+                "MC-ACTSCEX Master of Actuarial Science (Extended)",
+                "MC-ACTSCEN Master of Actuarial Science (Enhanced)",
+                "GD-ACTSC Graduate Diploma in Actuarial Science"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1. 1000 words",
+            "timing": "First half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Assignment 2. 1000 words",
+            "timing": "Second half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Mid-semster exam. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester exam. 2 hours. Hurdle requirement:. Students must pass the final exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Ping Chen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 x 1 hour recorded lectures and 1 hour live online tutorial."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:",
+                    ""
+                ],
+                "email": [
+                    "pche@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

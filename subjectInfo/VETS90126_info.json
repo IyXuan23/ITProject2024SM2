@@ -1,0 +1,117 @@
+{
+    "subject name": "Vet Bioscience: Respiratory System",
+    "subject code": "VETS90126",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Using an integrated and inter-disciplinary approach, this subject examines the structure, function and potential for dysfunction of the respiratory system of the major domestic animal species. As students develop an understanding of the mechanisms of disease of this system, they will develop skills in the clinical evaluation of it and in the interpretation of relevant diagnostic procedures. Students will integrate aspects of anatomy, clinical skills and imaging to enable understanding and implementation of the diagnostic process and treatment procedures."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Compare and contrast the structure and function of the respiratory systems of different species",
+        "Identify normal and abnormal respiratory structures in animals on gross observation, in diagnostic images, and in histological and cytological preparations",
+        "Conduct a clinical examination of the respiratory system in order to assess structure and function",
+        "Explain how components of the respiratory system interact to allow survival under various physiological and pathological conditions, and how they can be modified with pharmacological agents",
+        "Combine regional and systemic anatomical knowledge with clinical skills in order to apply these to diagnostic, surgical and therapeutic procedures in animals",
+        "Communicate orally and effectively complex scientific information to a diverse audience",
+        "Work collaboratively, communicate effectively, and apply an understanding of respiratory structure and function in order to analyse and interpret clinical problems related to this system in animals"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "VETS90121"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Four online quizzes of case study exercises, each taking approximately 30 minutes to complete and each equally weighted. 2 hours",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written test. 1 hours",
+            "timing": "Late in the semester 2",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "55%"
+        },
+        {
+            "description": "Oral presentation of a research activity that demonstrates the ability to integrate concepts across different discipline areas and organ systems, and to communicate these concepts to a lay audience. Presented online in video format.. 5 minutes",
+            "timing": "Late in Semester 2",
+            "percentage": "10%"
+        },
+        {
+            "description": "Aggregate mark. Hurdle requirement:. Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Reza Sanaei"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "72 hours of lectures, practical classes and case studies"
+                },
+                {
+                    "Total time commitment": "180 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "reza.sanaei@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

@@ -1,0 +1,197 @@
+{
+    "subject name": "Architectural Technology",
+    "subject code": "ABPL20033",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject was formerly known as Construction Analysis.",
+        "This subject explores the idea of construction as a process that strategically links structural principles to building elements, systems, materials, and techniques. The subject also covers key elements of building services and sustainability, including strategies to achieve internal comfort (related to building orientation, envelope, heating and cooling, air quality, acoustics, water and waste). Using a set of given case studies, students are asked to review and describe the physical anatomy of Australian residential buildings, emphasising how architectural ideas are conventionally translated into sustainable technological solutions. Students are asked to calculate how buildings perform, therefore understanding their impact on the environment.",
+        "Prescribed software toolsDrafting software (e.g. McNeel Rhino, Autodesk AutoCAD)Image editing software (e.g. Affinity Photo)Vector editing software (e.g. Affinity Designer)",
+        "Details of software availability and pricing are captured athttps://edsc.unimelb.edu.au/student-experience/it-support",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Relate building manufacturing and assembly principles to diverse small- to medium-scale construction projects;",
+        "Understand logics, conventions and challenges of technical representations;",
+        "Analyse architectural details that respond to specific technical and programmatic requirements;",
+        "Use technical terminology, principles and techniques of environmental control systems for residential projects;",
+        "Integrate environmental controls into architectural designs in a sustainable manner;",
+        "Trace the relationship or the distance between building conception and building implementation;",
+        "Implement this trace appreciation into an interpretative framework for the organization of small- to medium-scale architectural practice."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "",
+                    "ABPL10007",
+                    "ABPL20036"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Flipbook Section As-built (Written and graphic submission). 600 words (equivalent)",
+            "timing": "From Week 1 to Week 4",
+            "percentage": "15%"
+        },
+        {
+            "description": "Flipbook Section 2D (Written and graphic submission). 1400 words (equivalent)",
+            "timing": "From Week 5 to Week 9",
+            "percentage": "35%"
+        },
+        {
+            "description": "Flipbook Section 3D (Written and graphic submission). 1200 words (equivalent)",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Quizzes. 800 words (equivalent)",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Sofia Colabella"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two hours of lecture and two hours of tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Sofia Colabella"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two hours of lectures and two hours of tutorials per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "s.colabella@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Subject Coordinator"
+                ],
+                "email": [
+                    "s.colabella@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "The following texts are recommended for general reference, and to expand the subject content. The lectures will condense and reorganise the notions covered by these books with a broader body of learning resources, integrated with the Australian building practice.\u2022 Allen Edward, Joseph Iano, Fundamentals of Building Construction: Materials and Methods. John Wiley & Sons, Hoboken (NJ) 2009.\u2022 Allen Edward, How Buildings Work: The Natural Order of Architecture. Oxford University Press, New York 2005.\u2022 Allen Edward, Patrick Rand, Architectural Detailing: Function Constructability, Aesthetics. John Wiley & Sons, Hoboken (NJ) 2007.\u2022 Deplazes Andrea, Constructing Architecture: Materials, Processes, Structures. Birkh\u00e4user, Basel 2005.\u2022 Wilkie George, Arden Stuart, Building Your Own Home: A Comprehensive Guide for Australian Owner Builders. New Holland, Sydney 1997."
+                ]
+            }
+        ],
+        "Incidental costs": [
+            "All students must have their own hard hats, safety boots and high visibility vests to wear on extracurricular site visits."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

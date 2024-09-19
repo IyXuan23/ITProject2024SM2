@@ -1,0 +1,134 @@
+{
+    "subject name": "Oral Health Sciences 2",
+    "subject code": "ORAL20003",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "This subject comprises four modules:",
+        "Pharmacology and Pain Management:local anaesthetics agents and drug schedules; the pharmacology of local anaesthesia; applied anatomy relevant to local analgesia; administration of infiltration and inferior dental nerve block analgesia, complications of local analgesia and the management of dental pain.",
+        "Oral Biology \u2013 cariology and periodontology:The causation, natural history, clinical appearance, treatment and prevention of the common dental conditions: caries and periodontal disease.",
+        "Oral medicine and pathology:healing and repair in the oral cavity; developmental abnormalities of the dentition; microbiology, biochemistry and pathology of caries and periodontal diseases; pigmentation of the oral mucosa; oral ulcerations; premalignant oral lesions; cysts of the oral region; dysplasia and neoplasia of the oral mucosa; odontogenic neoplasms; dermatological and salivary gland disorders; infectious diseases and specific oral infections; oral manifestations",
+        "Management of patients with complex and additional needs:management of patients with speech pathology; cardiovascular conditions; respiratory disease; endocrine, haematological, neurological, psychiatric and neoplastic disorders; and intellectual, physical and sensory disabilities."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "recognise the causes and pathogenesis of the common oral conditions;",
+        "compare the management of the common oral disorders;",
+        "recall the biochemistry of teeth, supporting structures and saliva;",
+        "recognise oral pathology in the clinical situation and to instigate appropriate referral;",
+        "evaluate the relevance to dental care of the various medical conditions and associated therapies;",
+        "identify the principles of pharmacology in relation to drugs and other medical agents used in dentistry;",
+        "practice the administration of local analgesia;",
+        "synthesise medical conditions and associated therapies which are relevant to dental care; and",
+        "define periodontal pathogenesis, system conditions and the periodontium."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "a minimum of 100 credit points ofsuccessfully completed Year 1 Bachelor of Oral Health subjects"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Ongoing in-class assessments throughout the semester. 1000 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Local Anaesthesia Practical Assessment. 20 minutes. Hurdle requirement:. Pass / Fail",
+            "timing": "Early in the first half of year teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Written examination. 2 hours",
+            "timing": "Mid-year examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group oral presentation. 2000 words (equivalent)",
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Group written report. 2000 words (equivalent)",
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written examination. 2 hours",
+            "timing": "End of year examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Principal coordinator": "Jenn Copley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "118 contact hours and 222 non-contact hours."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Pre teaching start date": "29 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "Attend Orientation activities."
+                },
+                {
+                    "Teaching period": "30 January 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "9 February 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [
+                    "Jenn Copley"
+                ],
+                "email": [
+                    "jenn.copley@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

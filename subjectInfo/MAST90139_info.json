@@ -1,0 +1,132 @@
+{
+    "subject name": "Statistical Modelling for Data Science",
+    "subject code": "MAST90139",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Statistical models are central to data science applications. Modelling approaches such as linear and generalized linear models, mixed models, and non-parametric regression are developed. Applications to time series, longitudinal, and spatial data are discussed. Methods for causal inference and handling missing data are introduced."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the underlying statistical modelling framework and the limitations of such models.",
+        "Develop statistical models for data coming from diverse settings.",
+        "Appropriately handle data related issues such as missing and incomplete data in a rigorous and justifiable manner.",
+        "Understand how to model dependencies in data such as those that occur in time and spatial domains.",
+        "Pursue further studies in this and related areas, or to be work ready as an applied statistician or a data scientist."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST90104",
+                    "MAST90105"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students must meet one of the following prerequisite options:"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "MAST30027"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of:",
+                "\u2022\tMaster of Data Science (MC-DATASC)- Statistics Background Stream",
+                "\u2022\tMaster of Data Science (MC-DATASC)- Data Science Background Stream"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MAST90084"
+    ],
+    "assessments": [
+        {
+            "description": "Up to 20 pages of written assignments (equivalent to approx. 20 hours). 20 pages",
+            "timing": "Early in the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Up to 20 pages of written assignments (equivalent to approx. 20 hours). 20 pages",
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Up to 20 pages of written assignments (equivalent to approx. 20 hours). 20 pages",
+            "timing": "Late in the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "55%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Guoqi Qian"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours comprising 2 one-hour lectures per week and 1 one-hour practice class per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "qguoqi@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

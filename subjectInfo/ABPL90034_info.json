@@ -1,0 +1,135 @@
+{
+    "subject name": "Property Securitisation",
+    "subject code": "ABPL90034",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Topics covered include:",
+        "Commercial property as an investment asset class in Australia; Property joint ventures, partnerships, trusts, funds and companies; Listed and unlisted REITs; Valuation and pricing of listed and unlisted property securities; Equity and debt financing; Taxation of property investment vehicles, including stapled entities; Property funds management; Recent trends in property investment products."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the legal and financial structure of various property ownership entities and regulatory requirements applicable to each;",
+        "Have some knowledge of the tax implications of indirect property ownership;",
+        "Be able to apply appropriate methods to the pricing of listed and unlisted property securities;",
+        "Appreciate the various roles within the property funds management sector; and",
+        "Understand emerging issues in listed and unlisted property investments."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the 200pt Program course entry point in the MC-PROP Master of Property"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ABPL90274"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "In class quiz, 500 words equivalent,. 500 words",
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written assignment on unit pricing for listed and unlisted property funds. 1500 words",
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "Oral presentation (individual) on business case for property fund. 10 minutes",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Class paper on Securitisation Portfolio. 2000 words",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Raghu Dharmapuri Tirumala"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 2 hour  lecture  and 1X1 hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Raghu Dharmapuri Tirumala (Principal Coordinator)"
+                ],
+                "email": [
+                    "dtvraghu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Course materials and reader."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "The course includes presentations by working professionals and senior executives from the property funds management sector of the financial services industry."
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

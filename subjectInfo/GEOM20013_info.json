@@ -1,0 +1,174 @@
+{
+    "subject name": "Applying Digital Infrastructure",
+    "subject code": "GEOM20013",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Digital infrastructure is critical for human development, for social, economic and political inclusion, resilience, and for a sustainable management of resources. At the core of digital infrastructure is the concept of location. \u202fClimate change can only be observed in relation to locations. Climate action in agriculture, environmental protection or urban planning relies on location, and the protection of life, infrastructure and properties in disaster response requires location. Renewable energy production and energy distribution is a spatial problem. The tracking of containers, parcels, and vehicles allows for efficiency to reduce resource consumption or emissions. The sharing mobility in the city is based on location information, and contact tracing is a matter of co-location. Digital infrastructure drives changes to the ways how information is formed or sourced, how resources are managed, and how complex systems can be successfully controlled or predicted. Practically each sustainable development goal of the United Nations requires digital infrastructure.",
+        "This subject introduces students to digital infrastructure: How information is linked to location (or how location is information). The subject will transform the way how you understand and visualize our geographic environments in digital systems. In detail, this subject will cover underlying and cross-disciplinary concepts of geographically referenced information and geographic information systems (GIS), including the modelling and management of land-based and infrastructure data, and the visual representation of geographic information. It will relate these concepts to applications through case studies presented by industry experts from various professions. In parallel, students will design and realize a project on data integration, analysis, and cartographic representation to support multi-criteria decision making relating to climate adaptation, urban sustainability, or similar.",
+        "",
+        "Students who are not familiar with the software used in this subject are encouraged to make themselves familiar before the semester starts. Familiarity is a condition (a hurdle requirement) for this subject. LMS will provide pointers and material for learning on your own initiative in the pre-teaching period. Next to learning expert software, and learning how to use the software in a major project, the subject provides a systematic introduction to professional skills, and an active learning experience requiring attendance in person.",
+        "Please view this video for further information:Applying Digital Infrastructure"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the basic principles of geographic information systems (GIS) to the solution of digital infrastructure and environmental problems;",
+        "Describe how digital infrastructure such as GIS can be applied for sustainable urban planning and environmental management, site selection, facilities and network management, and health;",
+        "Demonstrate practical skills in the use of georeferenced data, basic spatial analysis, and decision making using a GIS software;",
+        "Engage in teamwork, independent critical thought, and self-directed learning;",
+        "Show a profound respect for truth, ethics, and intellectual integrity."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "A non-assessed hurdle requirement: passing of Geographic Information Systems (GIS) For Engineers: ArcGIS Module (COM_CPD_000025), demonstrating entry-level skills of using the software. Intended Learning Outcome (ILO) 3 is addressed in this  requirement.. 20 hours (of work required). Hurdle requirement:. Students must pass the digital module on GIS software training in order to pass the subject.",
+            "timing": "Pre-teaching period; submission up to Week 4 to cater for late enrolments.",
+            "percentage": "0%"
+        },
+        {
+            "description": "In-class Quizzes- \r\nIndividual assessment: Four 15-minute quizzes reflecting on the contents of the lecture. Due in Weeks 3, 6, 9 and 12.   5 hours of work each.  ILOs 1 and 2 are addressed in this assessment.. 20 hours (of work required)",
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Group Assessment / Project- \r\nGroup assessment: A group report on designing an application of digital infrastructure in a project of about 600 words per team member, in groups of about 4 students. ILOs 2-5 are addressed in this assessment.. 12 hours (of work required)",
+            "timing": "Week 8",
+            "percentage": "15%"
+        },
+        {
+            "description": "Individual assessment: A video presentation of 1 minute length, providing an elevator pitch for the project.. 8 hours (of work required)",
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group Assessment / Project- \r\nGroup assessment: A group report on realizing the application of digital infrastructure in a project of about 800 words per team member, in groups of about 4 students. ILO's 3,4,5.. 20 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "Group Assessment / Project- \r\nIndividual assessment: A video presentation of 5 minutes length, reviewing the group project and the individual contribution. ILOs 3 and 5 are addressed in this assessment.. 20 hours",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Stephan Winter"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "60 hours: \r\n\r\nFlipped classroom: \r\n\r\n1 hour on video-recorded material per week  \r\n\r\n1 hour on interactive practice session per week \r\n\r\n1 hour contact time in a lecture theatre \r\n\r\nLabs \u2013 for the project: \r\n\r\n2 contact hours with a demonstrator per week, variably in lab class or split into group bookings \r\n\r\nSelf-guided research/lab hours \r\n\r\nSelf-guided, unsupervised research/lab hours \r\n\r\nUnsupervised pre-teaching period requirement"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching requirements": "Students are strongly encouraged to complete Assignment 1 (self-directed learning) before the semester starts. The assignment is purely on software training: Skills with this particular software will be required to master the other assignments in this subject, and will be expected at that stage. The submission deadline of Assignment 1 is four weeks into the semester, though, to accommodate for late-enrolling students."
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Stephan Winter"
+                ],
+                "email": [
+                    "winter@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "The students have free access to ESRI ArcGIS via a campus license. Lectures are recorded (voice and slides)."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Geographic Information Science and Systems (latest edition), by Paul A. Longley, Michael F. Goodchild, David J. Maguire, David W. Rhind, ISBN: 978-1-119-03130-7"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject consists of (a) pre-recorded material on theory and by guest speakers presenting industry practice, (b) weekly interactive classes for active learning of the presented material, (c) labs for the first encounter with GIS - up to doing your first GIS project, and (d) practical teaching of teamwork in the context of the major project.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "The students have free access to ESRI ArcGIS via a campus licence.",
+            "CAREERS / INDUSTRY LINKS",
+            "A larger number of industry representatives present applications of and career paths in digital infrastructure."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

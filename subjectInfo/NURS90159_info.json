@@ -1,0 +1,118 @@
+{
+    "subject name": "Emergency Nursing Practice 1",
+    "subject code": "NURS90159",
+    "subject availability": [
+        "September - Off Campus"
+    ],
+    "overview": [
+        "Emergency nursing practice is characterised by a diversity of clinical presentations which range from those requiring minimal care to those with complex or life-threatening clinical presentations or injury. This variation in clinical presentation requires emergency nurses to have a strong foundation in patient assessment and pathophysiology knowledge.",
+        "In this subject, students will  apply the theoretical principles from this subject and subjects, Applied Pathophysiology, Foundations of Critical Care Nursing and Emergency Nursing within the clinical area of their specialty practice. Students application of learning will be also evaluated in the clinical setting. Students will demonstrate the ability to undertake and support comprehensive patient assessment, monitoring and evaluation and care planning in specialty nursing practice. Students will learn to incorporate and apply scientific knowledge and evidence-based treatment and nursing interventions to support a patient centred approach to inform their clinical decision making in practice."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate independent skills in performing timely comprehensive assessment of the undiagnosed patient;",
+        "Apply knowledge and skills to recognise, prioritise and respond to undifferentiated patients within a dynamic environment;",
+        "Plan, implement and evaluate emergency nursing interventions in the delivery of safe and competent nursing care;",
+        "Apply problem-solving, critical thinking, communication and reflective practice skills to the delivery of specialist emergency nursing care; and",
+        "Coordinate the safe and timely care of patients with a variety of clinical needs"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "NURS90076"
+                ],
+                "Note: the following subject/s can also be taken concurrently (at the same time)",
+                [
+                    "NURS90122"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "NURS90148"
+    ],
+    "assessments": [
+        {
+            "description": "Formative written assessment (Professional Practice Portfolio Part A). 1000 words. Hurdle requirement:. Students must pass this assessment.",
+            "timing": "First half of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Summative written assessment \r\n(Professional Practice Portfolio Part B). 1000 words. Hurdle requirement:. Student must pass this assessment.",
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Clinical Skills Assessment x 6  (500 words each)\r\n(Professional Practice Portfolio Part C). 3000 words (equivalent). Hurdle requirement:. Students must pass all six clinical skills assessments",
+            "timing": "Distributed evenly across the study period and due by the end of assessment period.",
+            "percentage": "0%"
+        }
+    ],
+    "dates and times": [
+        {
+            "September - Off Campus": [
+                {
+                    "Coordinators": "Sarah Cornish and Marc Marquez"
+                },
+                {
+                    "Mode of delivery": "Off Campus"
+                },
+                {
+                    "Contact hours": "Asynchronous learning and activities within the LMS of approximately 4-5 hours per week and synchronous online webinars and tutorials of 6-8 hours across the subject duration of Emergency Nursing 1 &2."
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Pre teaching start date": "16 September 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students will familiarise themselves with the online platform which will provide an overview of the subject, assessment requirements and expected activities and behaviours. They will also be provided with information about studying online and informed about the University resources available to them."
+                },
+                {
+                    "Teaching period": "23 September 2024 to 17 November 2024"
+                },
+                {
+                    "Last self-enrol date": "17 September 2024"
+                },
+                {
+                    "Census date": "4 October 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "1 November 2024"
+                },
+                {
+                    "Assessment period ends": "24 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "September": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

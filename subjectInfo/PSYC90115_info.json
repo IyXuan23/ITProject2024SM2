@@ -1,0 +1,106 @@
+{
+    "subject name": "Professional Psychology Placement 1",
+    "subject code": "PSYC90115",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "In this subject, students will apply the skills and knowledge gained over the course to develop competency in working effectively with patients experiencing a range of common mental disorders found in professional psychology contexts. Students will accrue placement hours by engaging in simulated patient work. They will demonstrate competency in administration and scoring of key psychological tests covered in the Psychology Board of Australia National Psychology Exam. Students will also participate in \u201cWays of Knowing\u201d: an Indigenous and interprofessional learning journey in cultural safety and collaborative practice."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the clinical features of a range of common mental health disorders and presentations;",
+        "Describe  the practical skills involved in counselling, interviewing, conducting mental state examinations and history taking and diagnostic interviewing;",
+        "Describe  definitions and determinants of health as they apply to 'cultural safety practice' and 'collaborative practice' in interprofessional contexts."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PSYC90023",
+                    "PSYC90110",
+                    "PSYC90111",
+                    "PSYC90100",
+                    "PSYC90113"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Oral presentation - demonstration of competency in test administration. 3.5 hours. Hurdle requirement:. Student must administer each of the required tests covered in the subject.",
+            "timing": "From Week 4 to Week 10",
+            "percentage": "50%"
+        },
+        {
+            "description": "Completion of simulated case work - assessment, diagnosis and treatment planning. 80 hours. Hurdle requirement:. Submission of case work commensurate with 80 hours of client-related activity.",
+            "timing": "From Week 1 to Week 12",
+            "percentage": "50%"
+        },
+        {
+            "description": "Completion of interprofessional learning program in cultural safety and collaborative practice: Two reflective activities from the Ways of Knowing program: 1. Artifact and 150-word reflection on the cultural walk; 2. Submission of 500-word reflection on interprofessional learning and culturally safe practices following the interdisciplinary panel discussion. Minimum 1 hour for both activities.. 2 hours. Hurdle requirement:. Hurdle requirement",
+            "timing": "Early in the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Lisa Catania"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "250 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Principal supervisor: Lisa Catania"
+                ],
+                "email": [
+                    "lisa.catania@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,154 @@
+{
+    "subject name": "Principles of Brewing",
+    "subject code": "FOOD20007",
+    "subject availability": [
+        "Semester 2 (Early-Start)"
+    ],
+    "overview": [
+        "During this intensive, students will have a mixture of theory classes and practical classes covering the processes of mashing, hopped wort production and fermentation to produce beer. After maturing and conditioning the beer will be packaged by students and used for sensory assessment.",
+        "The content includes:",
+        "agricultural inputs to the brewing",
+        "processing of grain for brewing",
+        "organisation of the brewing process.",
+        "mashing of grain & production of hopped wort",
+        "fermentation of hopped wort and conditioning , stabilisation and packaging of beer",
+        "economics and marketing in the brewing industry",
+        "",
+        "Notes:",
+        "Beer tasting is compulsory. Participants must be 18 years or over",
+        "This subject is delivered as an intensive between semesters at the Dookie Campus. Please see the Additional Delivery Details section for dates."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "identify the raw materials for brewing",
+        "describe how the different brewing process are organised during production",
+        "explain the effects of malting, kilning and roasting on grain",
+        "describe different types of mashing and their uses",
+        "describe changes in wort during the boiling process",
+        "explain how the contribution of hops to wort changes with time",
+        "explain how yeast is prepared for fermentation",
+        "describe methods for conditioning, filtering and stabilising beer",
+        "describe the current economic state of the Australian and world brewing industries",
+        "explain the marketing approaches taken by different brewing companies"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "FOOD10001"
+                ],
+                "Beer tasting is compulsory. Students must be 18 or older on the first day of teaching"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Short project report approximately week 4. 1000 words",
+            "timing": "Week 4",
+            "percentage": "30%"
+        },
+        {
+            "description": "Peer review of project due approximately week 8. 1000 words",
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Long project report approximately week 12. 2000 words",
+            "timing": "Week 12",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Principal coordinator": "Charles Pagel"
+                },
+                {
+                    "Mode of delivery": "On Campus (Dookie)"
+                },
+                {
+                    "Contact hours": "44 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "7 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "19 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "cpagel@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Daniels, R. Designing Great Beers: The ultimate guide to brewing classic beer styles. Brewers Publications, Boulder Colorado 2000"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Note \u2013 Beer tasting is compulsory. Participants must be 18 years or over"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

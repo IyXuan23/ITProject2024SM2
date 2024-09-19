@@ -1,0 +1,161 @@
+{
+    "subject name": "Health Assessment for Adv. Practice 2",
+    "subject code": "NURS90068",
+    "subject availability": [
+        "Semester 1 - On Campus",
+        "Semester 2 - Dual-Delivery"
+    ],
+    "overview": [
+        "The aim of this subject is to extend the students\u2019 assessment skills to include assessment strategies that are associated with nurse practitioner practice in their specialty area of clinical practice.",
+        "This subject will build on the knowledge and skill developed in Health Assessment for Advanced Practice 1. The subject will concentrate on the use of diagnostic investigations to aid patient / client assessment and diagnosis. The focus of the subject will be on the interpretation of diagnostic results in complex and uncertain situations. Students will have the option of selecting relevant assessment and diagnostic approaches and/or tools for their own area of specialisation. These topics include cardiovascular, respiratory, neurological, cognitive, and developmental, abdominal, alimentary, and nutritional, genitourinary, musculoskeletal integument and psychosocial assessment. In addition, Students will also address the importance of consultation with other clinicians within multidisciplinary teams.",
+        "The subject will provide students with strategies to assist them to develop advanced health assessment skills. On campus tutorials and workshops, reading and resource material will be provided to assist students to develop the necessary knowledge and skills for advanced health examination and patient assessment. Students will use clinical supervisors in their practice environment to support their learning and assess their performance, in particular development of practical assessment skills, use of diagnostic tests and interpret findings in relation to undertaking a physical health assessment."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "recognise the increased scope of assessment associated with the nurse practitioner role in relation to their own area of specialisation;",
+        "demonstrate technical proficiency in utilisation of health assessment and examination techniques including relevant diagnostic tools;",
+        "interpret the results of diagnostic investigations in the context of other client health data;",
+        "utilise diagnostic investigations judiciously to inform client assessment and treatment regimens;",
+        "interpret assessment findings in complex and unfamiliar circumstances;",
+        "integrate knowledge of scientific research based underpinnings of health and illness and highly developed cognitive, analytic, problem-solving and diagnostic reasoning skills to interpret health assessment findings; and",
+        "collaborate with colleagues to ensure the best possible outcome for the client."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "NURS90067"
+                ],
+                "Students are required to have concurrent employment as a Registered Nurse and be engaged in or working towards an advanced practice role in their area of specialisation.",
+                "The student is required to provide documentation of employer support and appropriate multidisciplinary involvement to demonstrate clinical supervision, mentorship and assessment of clinical competencies in their workplace in preparation for advanced nursing practice.",
+                "This subject is a mandatory component of the Nurse Practitioner pathway of the Master of Advanced Nursing Practice and is only available to other students subject to approval from the subject coordinator."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written assignment. 2000 words",
+            "timing": "Week 6",
+            "percentage": "40%"
+        },
+        {
+            "description": "Four patient health assessments each equivalent to 750 words. Each patient health assessment should include: Supervisor assessment of patient assessment using the mini-CEX clinical assessment tool and Documented patient case notes which include diagnostic tests and results interpretation.. 3000 words (total)",
+            "timing": "Throughout the teaching period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - On Campus": [
+                {
+                    "Principal coordinator": "John Thompson"
+                },
+                {
+                    "Coordinator": "Dianne Crellin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "14.5"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - Dual-Delivery": [
+                {
+                    "Principal coordinator": "Jamie Wheelahan"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "14.5"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "John Thompson"
+                ],
+                "email": [
+                    "john.thompson@unimelb.edu.au",
+                    "dcrellin@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "jamie.wheelahan@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

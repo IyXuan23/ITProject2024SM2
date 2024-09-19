@@ -1,0 +1,108 @@
+{
+    "subject name": "Soil Management",
+    "subject code": "AGRI30037",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "A knowledge of appropriate methods for management of our soils is vital for sustainable food production and environmental health. This subject will provide students with a thorough understanding of key soil chemical, physical and biological processes to enable practical solutions to soil management issues at appropriate scales. The subject will discuss major soil management issues such as: carbon storage; soil acidification; salinity; erosion and sodicity, including soil structure and its maintenance; the use of fertilizers, including composts, biosolids, manures and effluents from intensive animal industries and processing plants; the use of soil testing for maintenance of soil fertility and; offsite impacts of management on air and water quality. The role of the soil microbiome in improving plant productivity and the role of soil organisms in improving soil fertility and promoting nutrient transformations will also be explored. Practicals and excursions will be used to demonstrate methods of soil survey and land capability assessment."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "List the major soil management issues at appropriate scales",
+        "Devise appropriate soil management interventions for sustainable agriculture",
+        "Demonstrate a knowledge of soil spatial variability and assessment",
+        "Be able to demonstrate advanced knowledge of the soil system",
+        "Build knowledge appropriate to Certified Professional Soil Scientist performance objectives"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AGRI20038"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Test. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Practical report. 1000 words",
+            "timing": "Second half of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Clayton Butterly"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "20 hours of lectures, 20 hours tutorials/practicals, 12 hours field trips"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "clayton.butterly@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

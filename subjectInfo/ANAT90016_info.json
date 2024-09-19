@@ -1,0 +1,77 @@
+{
+    "subject name": "Anatomy and Physiology",
+    "subject code": "ANAT90016",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject provides lectures in human structure and function for communication. An introduction to the auditory, respiratory, laryngeal and swallowing systems is provided, in addition to basic neuroanatomy. Students attend three laboratory sessions for guided observation and anatomical dissection classes."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "2 x multiple choice (open book)  tests (10% each). 2",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final Exam. 1. Hurdle requirement:. Students must pass the final exam in order to pass the subject overall.",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

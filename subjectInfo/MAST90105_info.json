@@ -1,0 +1,144 @@
+{
+    "subject name": "Methods of Mathematical Statistics",
+    "subject code": "MAST90105",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces probability and the theory underlying modern statistical inference. Properties of probability are reviewed, univariate and multivariate random variables are introduced, and their properties are developed. It demonstrates that many commonly used statistical procedures arise as applications of a common theory. Both classical and Bayesian statistical methods are developed. Basic statistical concepts including maximum likelihood, sufficiency, unbiased estimation, confidence intervals, hypothesis testing and significance levels are discussed. Computer packages are used for numerical and theoretical calculations."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop a systematic understanding of probability, random variables, probability distributions and probability models, and their relevance to statistical inference;",
+        "Be able to formulate standard probability models from real world applications and critically assess them;",
+        "Be able to apply the properties of probability distributions, moment generating functions, variable transformations and conditional expectations to analyse common random variables and probability models;",
+        "Be able to use a computer package to perform algebraic and computational tasks in probability analyses.",
+        "Be familiar with the basic ideas of estimation and hypothesis testing",
+        "Be able to carry out many standard statistical procedures using a statistical computing package.",
+        "Develop the ability to fit probability models to data by both estimating and testing hypotheses about model parameters."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST10006",
+                    "MAST10021"
+                ],
+                [
+                    "MAST10007",
+                    "MAST10022",
+                    "MAST10010",
+                    "MAST10011"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "MC-DATASC Master of Data Science",
+                "GD-DATASC Graduate Diploma in Data Science"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MAST20004",
+        "MAST20005",
+        "MAST20006"
+    ],
+    "assessments": [
+        {
+            "description": "Four written assignments amounting to a total of up to 100 pages, due during regular intervals. 100 pages",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "Week 7",
+            "percentage": "35%"
+        },
+        {
+            "description": "Computer laboratory test. 45 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Pavel Krupskiy"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "4 x one hour lectures per week, 1 x one hour practice class per week, and 1 x one hour computer laboratory class per week"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "pavel.krupskiy@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Hogg and Tanis,Probability and Statistical Inference. Prentice Hall."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

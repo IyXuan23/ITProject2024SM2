@@ -1,0 +1,157 @@
+{
+    "subject name": "Design Thesis",
+    "subject code": "ABPL90169",
+    "subject availability": [
+        "Semester 1 (Early-Start)",
+        "Semester 2 (Early-Start)"
+    ],
+    "overview": [
+        "This subject is the culmination of each student's studies in Master of Architecture. It will consist of a number of studio groups offering a range of opportunities for students to demonstrate an original approach to design synthesis, in architecture which is based on research and critical thinking. These studios will allow opportunities for self-directed research inquiries/projects.",
+        "Students will be expected to demonstrate mastery of design resolution, conceptual engagement and aesthetic expression. Students will also be required to demonstrate a range of professional competencies defined in the National Standard of Competency for Architects (NSCA)."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate a capacity to make a contribution to the existing body of knowledge in architectural theory and practice;",
+        "Demonstrate critical awareness of how their chosen specialisation contributes to this body of knowledge;",
+        "Demonstrate an understanding of design as a form of research enquiry."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ABPL90115",
+                    "ABPL90439"
+                ],
+                [
+                    "ABPL90438",
+                    "ABPL90143"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Preliminary Thesis Proposal:\r\nOral presentation (7 minutes) of research questions, accompanied by critical evaluation of relevant precedents from practice and research, and a draft 'thesis statement'. 26 hours (of work required)",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Interim design: Design crit comprising oral presentation (7 minutes) of refined research question accompanied by representations of design-in-progress, that might include including site investigations, sketches, drawings, maquettes, concept test models and/or digital multi-media experiments, as appropriate to the research.. 52 hours (of work required)",
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Resolved Design: Fully resolved architectural design thesis that explores the research question presented in two forms: \r\nA5 digital book that records the research investigation through text and visual representations that may include drawings, digital multi-media and physical models as appropriate to the design; and\r\nDesign crit (10 minutes). 182 hours (of work required). Hurdle requirement:. Must pass  Resolved  Design  to pass the subject",
+            "timing": "During the teaching period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Principal coordinator": "Stuart Harrison"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Up to 80 hours: including   2 x 3 hours of studios  and 8 x 1 hour lectures  over the teaching period"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "23 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "1 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Principal coordinator": "Rory Hyde"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Up to 80 hours: including   2 x 3 hours of studios  and 8 x 1 hour lectures  over the teaching period"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "19 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "26 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "stuart.harrison1@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "rory.hyde@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

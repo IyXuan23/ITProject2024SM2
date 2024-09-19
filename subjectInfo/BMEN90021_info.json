@@ -1,0 +1,158 @@
+{
+    "subject name": "Medical Imaging",
+    "subject code": "BMEN90021",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject introduces students to the engineering, physics and physiology of medical imaging, including the history and progression of medical imaging modalities as well as emerging imaging technologies in clinical and research practise. Topics covered include: x-ray, computed tomography, positron emission tomography, magnetic resonance imaging and ultrasound."
+    ],
+    "indicative content": [
+        "Topics include:",
+        "Image metrics including signal-to-noise and contrast-to-noise ratios, image resolution, image operations including convolution, filtering and edge detection;",
+        "Biophysical principles of X-ray, CT, PET, SPECT, MRI and ultrasound, and the mathematics of image reconstruction for each modality, including filtered backprojection and fourier reconstruction methods;",
+        "This material is complemented by the use of software tools (e.g. MATLAB) for data simulation, modelling, image manipulation and reconstruction techniques.",
+        ""
+    ],
+    "intended learning outcomes": [
+        "Describe the principles of the modalities of medical imaging systems",
+        "Describe the physics and physiology fundamental to these imaging systems",
+        "Apply the mathematics of each imaging modality",
+        "Compute image reconstructions using back-projection methods",
+        "Compute image reconstructions using fourier transform methods",
+        "Identify basic causes of image contrast and artefacts",
+        "Describe clinical applications of each imaging modality",
+        "Apply their knowledge to understanding emerging medical imaging technologies."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BMEN30006"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Equivalent"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BMEN90005 Neuroimaging Methods and Applications",
+        "BMEN40006 Neuroimaging Methods"
+    ],
+    "assessments": [
+        {
+            "description": "One mid-semester test. ILOs 1-3 and 6-8 are assessed in the mid-semester test.. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Attendance and participation in four laboratory classes in Weeks 2 to 12, working in groups of two, each with a written assignment of approximately 750 words. ILOs 3-7 are assessed through the laboratory assignments and submitted reports for two projects.. 18-20 hours (of work required)",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "One examination. ILOs 1-3 and 6-8 are assessed in the final written examination.. 3 hours. Hurdle requirement:. Students must pass end of semester examination to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Leigh Johnston"
+                },
+                {
+                    "Coordinator": "Kathryn Stok"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours of lectures, tutorials and workshops (30 hours of lectures, 6 hours of tutorials, and 4 x three hour workshops) per semester"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "l.johnston@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "TBA"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "\"Fundamentals of Medical Imaging\" by Paul Suetens, 2nd edition, Cambridge University Press 2009."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through lectures, tutorials and workshop classes for hands-on laboratory activities.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students are provided with lecture slides, tutorials with worked solutions, laboratory sheets, and reference text lists.",
+            "CAREERS / INDUSTRY LINKS",
+            "Exposure to medical imaging in clinical and research settings through guest lectures, and hospital and laboratory visits."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

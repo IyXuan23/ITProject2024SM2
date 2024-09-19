@@ -1,0 +1,171 @@
+{
+    "subject name": "Embedded System Design",
+    "subject code": "ELEN90066",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject provides a practical introduction to the basics of modelling, analysis, and design of microprocessor-based embedded systems. Students will learn how to integrate computation with physical processes to meet a desired specification within the context of a design project. The project work will expose students to the various stages in an engineering project (design, implementation, testing and documentation) and a range of embedded system concepts.INDICATIVE CONTENT",
+        "Topics covered may include: digital computer and microprocessor architectures, modelling of dynamic behaviours, control, models of computation, operating systems concepts, multi-tasking, resource management and real-time behaviours, interfacing with the physical world, analysis and verification, safety, reliability, and security and privacy.This material will be complemented by exposure to standard software tools including compilers and debuggers, finite state machine design and analysis software, and simulation tools. The subject will include a level of industry engagement, to provide broader examples of engineering projects, through guest lectures."
+    ],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "1. Apply fundamental concepts to model and design the joint dynamics of software, networks, and physical processes that underpin embedded systems with an appreciation for the importance of using abstractions and how they can limit overall system performance, robustness and security",
+        "2.  Design, build and test the hardware components (microprocessor, sensors, actuators, peripheral interfacing) of an embedded system",
+        "3. Develop and test the low-level software components of an embedded system using software tools to simulate and verify its behaviour",
+        "4. Conduct a small embedded system design project"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ELEN20006",
+                    "",
+                    "ELEN30014"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Continuous assessment of assignments and in-class workshop tasks (addressing ILOs 1-4). 35 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final project report and project outcome, not exceeding 20 pages (addressing ILOs 1-4). 25 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "One written examination, not exceeding three hours (addressing ILOs 1 and 2). 3 hours. Hurdle requirement:. Students must pass the written exam to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Gavin Buskes"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures and 36 hours of workshops"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Farhad Farokhi"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures and 36 hours of workshops"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Gavin Buskes-"
+                ],
+                "email": [
+                    "g.buskes@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "farhad.farokhi@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "TBA"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject is delivered through lectures and a semester-long design, build and code project, plus workshop classes to assist with the project.INDICATIVE KEY LEARNING RESOURCESStudents are provided with lecture slides, worked problem sets, project specifications, and reference text lists.CAREERS / INDUSTRY LINKSThe subject includes a level of industry engagement, to provide broader examples of engineering projects, through guest lectures."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

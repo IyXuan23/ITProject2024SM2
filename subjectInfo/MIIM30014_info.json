@@ -1,0 +1,148 @@
+{
+    "subject name": "Medical Microbiology: Virology",
+    "subject code": "MIIM30014",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject describes how medically important viruses interact with their hosts to cause infection.",
+        "The subject will cover the strategies that different groups of viruses employ to replicate in host cells, and their mechanisms for manipulating cellular biochemistry for their own ends. The different outcomes possible for both the virus and the host cell, including clearance, persistence, carcinogenesis and immunodeficiency will be discussed. Also covered will be how viruses may be transmitted and detected, and the pathogenic process. The host immune response to infection and the various mechanisms used by viruses to evade the host\u2019s defences will also be explored. Chemotherapeutic and vaccine strategies to control viral infection, as well as the exploitation of viruses as vectors for vaccine and gene therapy applications, will also be examined. These topics will be further illustrated by discussing the features of a range of medically important viruses."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "explain fundamental concepts of how viruses interact with host target cells and replicate within them;",
+        "describe the diverse range of viruses, and the ways in which they interact with their hosts and the environment;",
+        "describe the way in which the immune system responds to defend the body against virus infection and how viruses evade these responses;",
+        "explain the molecular basis of various viruses to cause disease, together with strategies to interrupt this process, including the development of new antivirals;",
+        "apply relevant knowledge of replication, pathogenesis, immunity and epidemiology of viruses to the determination of appropriate control strategies;",
+        "explain how viruses can be harnessed in research and to improve medical health outcomes;",
+        "understand the most suitable techniques and tools to investigate a viral outbreak;",
+        "demonstrate an understanding of viral disease in a local and global context;",
+        "formulate scientific ideas and findings and communicate these in written form;",
+        "describe the principles and procedures involved in the identification and characterisation of viruses."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Students are strongly encouraged to complete MIIM20002 Microbes, Infections and Responses prior to commencing this subject, in addition to the pre-requisite subjects listed above."
+            ],
+            "one of pre-requisite": [
+                [
+                    "BIOM20001",
+                    "MIIM20001"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "526-314 Medical Microbiology: Viruses (pre 2010)",
+        "526-333 Viruses and Other Parasites (pre 2010)",
+        "MIIM30014 Viruses and Other Parasites (pre 2011)"
+    ],
+    "assessments": null,
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Damian Purcell"
+                },
+                {
+                    "Coordinators": "Jason Mackenzie and Sarah Londrigan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week (total contact hours: 36)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Subject Coordinators"
+                ],
+                "email": [
+                    "dfjp@unimelb.edu.au",
+                    "jason.mackenzie@unimelb.edu.au",
+                    "sarahll@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Principles of Virology, Flint SJ et al., 3rd Edn 2009 (two volumes)"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available to students enrolled in the:",
+            "NG B. Sc.NG B. Biomed"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

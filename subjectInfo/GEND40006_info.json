@@ -1,0 +1,156 @@
+{
+    "subject name": "Gender Studies Thesis Part 1",
+    "subject code": "GEND40006",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "A research topic will be selected in consultation with the allocated supervisor. Enrolment in the thesis is across two consecutive semesters and students must enrol in the subject in each semester to ensure they are meeting the full 50-point requirement for this yearlong subject. Students are expected to attend regular, documented consultations as arranged with their supervisor over the two semesters of enrolment. Meetings should normally occur at least fortnightly and should be of at least a half an hour in duration."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop and complete a significant research project which is written up and presented as a 15,000 word dissertation",
+        "Develop skills in scholarly investigation and critical analysis appropriate to Gender Studies",
+        "Enhance research capacity and improve writing skills under supervision."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "BH-ARTS Bachelor of Arts (Degree with Honours)",
+                "GDA-ARTS Graduate Diploma in Arts (Advanced)"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [
+        "GEND40004 Gender Studies Thesis"
+    ],
+    "assessments": [
+        {
+            "description": "A thesis on an approved topic written over two consecutive semesters. 15,000 words",
+            "timing": "Due at the end of the second semester of enrolment",
+            "percentage": "100%"
+        },
+        {
+            "description": "One presentation at a work-in-progress seminar, either in the student's School, or as part of a dedicated, cross-Schools Gender Studies Honours workshop.. 20 minutes",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 1.\tStudents are required to attend a minimum of 80% of supervision meetings in order to qualify to have their written work assessed.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2.\tLate Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Joshua Pocius"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular, documented consultations over two semesters with the supervisor(s) as arranged. Meetings should normally occur at least fortnightly and should be at least of half an hour duration."
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "CQ Quinan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular, documented consultations over two semesters with the supervisor(s) as arranged. Meetings should normally occur at least fortnightly and should be at least of half an hour duration."
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "joshua.pocius@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "c.quinan@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "https://handbook.unimelb.edu.au/view/current/BH-ARTS"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

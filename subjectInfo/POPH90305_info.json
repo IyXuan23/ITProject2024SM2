@@ -1,0 +1,119 @@
+{
+    "subject name": "Population Oral Health",
+    "subject code": "POPH90305",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is a core subject within the Graduate Certificate of Dental Public Health and an elective in the Master of Public Health. It will provide an overview of how the fundamentals of public health can be applied to oral health.  This subject explores the epidemiology of common oral conditions such as dental caries, periodontal disease and oral cancer as well as patient reported outcomes. The subject will explore population-level drivers of dental conditions, and inequalities and how policy, health services and health promotion can lead to population-level improvements in oral health."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse population-level determinants of oral health outcomes at the individual and community levels.",
+        "Investigate social and economic inequalities in oral health outcomes.",
+        "Critique evidence-based policies and interventions for reducing burden of oral diseases at the population level.",
+        "Critically evaluate the effect of oral health promotion interventions and policies on population oral health and social and economic inequalities in oral health outcomes"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "2 X 750 word Written Assignments. 750 words (each)",
+            "timing": "Weeks 4 and 7",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written Assignment. 1500 words (total)",
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written Assignment. 2000 words (total)",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Nadia Kaunein"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "subject name": "Prof Development & Application I",
+    "subject code": "BUSA90550",
+    "subject availability": [
+        "January"
+    ],
+    "overview": [
+        "This subject is designed to help students develop the skills and knowledge required to effectively manage the early stages of their career.  This subject runs across the roughly the first half of the full-time course and identifies specific needs of each individual student and then provides ongoing support, training, and opportunities to practice and perfect these skills.",
+        "Assessment of the subject includes a quiz on revisionary material, the writing of CVs, group work and group presentations as well as an essay involving ethical concerns within analytics.",
+        "The program focuses on four areas:",
+        "Revisionary material: Rudimentary technical knowledge for the course.",
+        "Communication skills: These skills include effective presentations, verbal communication, written communication, public speaking, and communicating technical material to non-technical audiences.",
+        "Career development skills: These skills include case practice, interview skills, CV writing, networking, and business etiquette.",
+        "Team skills: These skills include managing conflict, cultural awareness, giving and receiving feedback, and resilience.",
+        "These areas are the preparation for industry placement occurring in Professional Development II"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Assess their grasp of the fundamental technical knowledge at the beginning of the course.",
+        "Appreciate the importance of communication and team skills in career success",
+        "Have identified communication, career development, and team skills that need improvement.",
+        "Work effectively in teams",
+        "Create an effective CV & Address case-based interviews",
+        "Identify ethical issues & concerns in the acquisition, retrieval, storage, and analysis of data & appreciate the importance of ethical practice and apply it in a workplace context."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Cover letter and CV. 500 words (equivalent). Hurdle requirement:. Students are required to complete and pass this assessment to pass the subject",
+            "timing": "First half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group presentation - business case. 200 words (equivalent)",
+            "timing": "First half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Quiz. 1500 words (equivalent). Hurdle requirement:. Students are required to pass the assessment to pass the subject",
+            "timing": "First half of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Individual report. 500 words (equivalent). Hurdle requirement:. Students are required to pass the assessment to pass the subject",
+            "timing": "First half of the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "January": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "100 hours"
+                },
+                {
+                    "Teaching period": "22 January 2024 to 19 July 2024"
+                },
+                {
+                    "Last self-enrol date": "27 February 2024"
+                },
+                {
+                    "Census date": "1 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "24 May 2024"
+                },
+                {
+                    "Assessment period ends": "19 July 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

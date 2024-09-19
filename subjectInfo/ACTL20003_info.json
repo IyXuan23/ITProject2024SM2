@@ -1,0 +1,120 @@
+{
+    "subject name": "Stochastic Techniques in Insurance",
+    "subject code": "ACTL20003",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject aims to provide a thorough grounding in stochastic techniques for actuarial studies. It covers some probability concepts including expectations, conditional expectations, joint and marginal distributions, moment generating function and probability generating function;  some commonly used probability distributions in insurance and finance; mixed distributions and actuarial applications; ordinary differential equations and actuarial applications; recursive techniques and actuarial applications; actuarial applications of Laws of Large Numbers and Central Limit Theorem; generating and Laplace transforms; actuarial applications of Brownian motion, geometric Brownian motion and lognormal distribution; stochastic integrals and Ito\u2019s formulae."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Discuss joint and marginal distributions, analyse mixed random variables, and apply some commonly used probability distributions in insurance and finance.",
+        "Describe expectations and conditional expectations and apply them in solving problems in insurance and finance.",
+        "Apply moment generating function and probability generating functions in solving problems in insurance.",
+        "Describe the Laws of Large Numbers and the Central Limit Theorems and apply them to actuarial problems.",
+        "Solve and apply some types of ordinary differential equations in actuarial problems.",
+        "Apply recursive techniques in insurance and finance.",
+        "Apply generating transform and Laplace transform techniques in insurance.",
+        "State the definitions and properties of Brownian motion and geometric Brownian motion.",
+        "Perform calculations with stochastic integrals and Ito\u2019s formula."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ACTL20001",
+                    "MAST20004"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1 (Week 5 -7). 1000 words",
+            "timing": "First half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assignment 2 (Week 10-12). 1000 words",
+            "timing": "Second half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Final Exam. 2 hours. Hurdle requirement:. To pass the subject, student must pass the final exam.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Han Li"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Associate Professor Han Li:"
+                ],
+                "email": [
+                    "han.li@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

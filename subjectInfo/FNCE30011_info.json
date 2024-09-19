@@ -1,0 +1,139 @@
+{
+    "subject name": "Essentials of Corporate Valuation",
+    "subject code": "FNCE30011",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject examines the key concepts and methodologies used in the valuation of corporations and other business interests including stand\u2010alone projects, joint ventures and private equity. Topics include: cashflow\u2010based approaches, multiples\u2010based approaches, forecasting cashflows and earnings, estimating discount rates, adjustments for leverage, adjustments for imputation, the valuation of franking credits, adjustments for flexibility, valuation by replication, valuation in the digital economy. There will be an extensive use of real\u2010world examples and cases throughout the course."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify and explain the role of valuation in the economy",
+        "Understand and apply cashflow-based valuation methods",
+        "Understand and apply multiples-based valuation methods",
+        "Analyse and interpret discount rates and earnings multiples",
+        "Demonstrate and explain how to properly account for leverage and flexibility",
+        "Examine the impact of imputation on alternative valuation methods",
+        "Apply the principle of replication to value complex financial securities",
+        "Critically evaluate the use of alternative valuation methods in the digital economy"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "FNCE20005"
+                ],
+                [
+                    "ECOM20001",
+                    "ECON20003",
+                    "MAST20004",
+                    "MAST20005",
+                    "MAST20006",
+                    "MAST20018",
+                    "MAST20029"
+                ]
+            ],
+            "additional pre-requisite": [
+                "FNCE20001  Business Finance"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Take Home Exam. 500 words (equivalent)",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group assignment (in groups of 3 students). 2000 words (equivalent)",
+            "timing": "From Week 8 to Week 10",
+            "percentage": "25%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "65%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "John Handley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 3\u2010hour seminar per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "John Handley:"
+                ],
+                "email": [
+                    "handleyj@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by the subject coordinator"
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,221 @@
+{
+    "subject name": "Introduction to Machine Learning",
+    "subject code": "COMP90049",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "Machine Learning is the study of making accurate, computationally efficient, interpretable and robust inferences from data, often drawing on principles from statistics. This subject aims to introduce students to the intellectual foundations of machine learning, including the mathematical principles of learning from data, algorithms and data structures for machine learning, and practical skills of data analysis."
+    ],
+    "indicative content": [
+        "Indicative content includes: cleaning and normalising data, supervised learning (classification, regression, linear & non-linear models), and unsupervised learning (clustering), and mathematical foundations for a career in machine learning."
+    ],
+    "intended learning outcomes": [
+        "ILO 1 - Apply elementary mathematical concepts used in machine learning",
+        "ILO 2 - Derive machine learning models from first principles",
+        "ILO 3 - Design, implement, and evaluate machine learning systems for real-world problems",
+        "ILO 4 - Identify the correct machine learning model for a given real-world problem"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "ENGR30003 Numerical Programming for Engineers"
+            ],
+            "one of pre-requisite": [
+                [
+                    "COMP20003",
+                    "COMP20007",
+                    "COMP90038",
+                    "ENGR30004"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-SCICMP Master of Science (Computer Science)",
+                "MC-CS Master of Computer Science",
+                "GC-CS Graduate Certificate in Computer Science"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "Distributed Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Cyber Security (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Artificial Intelligence (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Human-Computer Interaction (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Digital Innovation (100pt) specialisation (formal) in the MC-IT Master of Information Technology"
+            ]
+        },
+        {
+            "option": "Option 4",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "Distributed Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Cyber Security (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Artificial Intelligence (150pt) specialisation (formal) in the MC-IT Master of Information Technology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "COMP30027",
+        "COMP30018 Knowledge Technologies"
+    ],
+    "assessments": [
+        {
+            "description": "Programming assignment applying and evaluating specific machine learning method(s) on given dataset(s). Addresses ILOs 3 & 4.. 20-25 hours (of work required)",
+            "timing": "From Week 4 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "A final, open-ended (in terms of methodology) research project. 35-45 hours (of work required)",
+            "timing": "From Week 8 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "End of semester exam.  Closed-book,  2 hours.. 120 minutes. Hurdle requirement:. The end of semester written examination must be passed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Hasti Samadi"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Lea Frermann"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Hasti Samadi"
+                ],
+                "email": [
+                    "hasti.samadi@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Lea Frermann"
+                ],
+                "email": [
+                    "lea.frermann@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "This course is taught over 12 weeks, each week with two one hour formal lectures and a one hour workshop. During the workshops the students are given problems to solve to reinforce the previous week\u2019s lecturing material. The problem solving nature of the workshops is geared for the students to learn and understand the concepts of the subject material.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Christopher D. Manning, Prabhakar Raghavan, and Hinrich Schutze (2008), Information Retrieval, Cambridge University Press. Freely available at informationretrieval.org",
+            "Pang-Ning Tan, Michael Steinbach and Vipin Kumar (2005) Introduction to Data Mining, Addison-Wesley.",
+            "CAREERS / INDUSTRY LINKS",
+            "This subject is relevant to many fields including Engineering, Commerce, Government Organisations, Research Institutes and Institutions in Medicine where data analysis can play a significant improvement in delivering services or improving profits."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

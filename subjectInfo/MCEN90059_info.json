@@ -1,0 +1,110 @@
+{
+    "subject name": "Probability, Reliability and Quality",
+    "subject code": "MCEN90059",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Reliability and quality are essential elements for today's products, processes and services, since failure in achieving either one can have major consequences.  This subject aims to offer a comprehensive overview of methodologies and tool to evaluate and demonstrate reliability and quality of components, equipment, processes and systems, supporting more assertive decision-making from engineers who wish to build a competitive edge in a wide variety of industries.",
+        "This course consists of four main modules - 1) Probability and engineering statistics; 2) Reliability and maintenance engineering; 3) Quality management and process control, and 4) Design of experiments.  Topics include basic probability rules; random variables and distribution functions; functions of random variables; ANOVA; design of engineering experiments; methods of reliability; management and applications to quality control and the reliability assessment of the product in an engineering industry.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "1. Explain the different statistical methods available for analysis of different processes;",
+        "2. Perform both parametric and non-parametric hypothesis tests for a range of engineering problems;",
+        "3. Design and plan for collecting experimental data to uncover critical information and knowledge in industry-based problem;",
+        "4. Demonstrate an understanding of the concepts of reliability engineering and the relationship between the time to time failure distribution, the reliability function and the hazard rate;",
+        "5. Analyse how an organization can improve its processes, products and services, and integrate its several functions through the best use of quality engineering;",
+        "6. Apply the total quality management, Six-Sigma, and Benchmarking into organisations."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into any of the Master of Engineering courses, Master of Engineering Management, Master of Energy Systems, or approval of the subject coordinator for any student not enrolled in the engineering master level program."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Mid semester test. Intended Learning Outcomes (ILOs) 1, 2 and 3 are addressed in this assessment.. 1 hours",
+            "timing": "From Week 6 to Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Individual written report 1. ILO 4 is addressed in this assessment.. 1000 words",
+            "timing": "From Week 7 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Individual written report 2. ILO 5 and 6 are addressed in this assessment.. 1000 words",
+            "timing": "From Week 9 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final written exam. ILOs 4, 5 and 6 are addressed in this assessment.. 2 hours. Hurdle requirement:. Students must pass the end of semester exam in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hour of lectures and 24 hours of workshops/tutorials"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

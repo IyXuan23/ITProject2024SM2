@@ -1,0 +1,170 @@
+{
+    "subject name": "Leadership for Innovation",
+    "subject code": "ENGR90036",
+    "subject availability": [
+        "Semester 1 (Early-Start)",
+        "Semester 2 (Early-Start)"
+    ],
+    "overview": [
+        "This subject, which is offered to students who have completed ENGR90034 Creating Innovative Engineering (CIE), will give participants core leadership skills for managing professionals engaged in innovation and other ambiguous project-based work.",
+        "The subject teaches leadership at three levels (12 hours each).  The first level, taught intensively before the start of the semester, will enable you to learn basic management theory that allows you to bridge from the skills and theory taught in CIE to the level needed to start mentoring a team in CIE or another subject.  The second level, taught as four three-hour workshops during the semester, will focus on key thematic issues in the leadership of innovative teams.  The third level, taught in twelve one-hour sessions, will focus on specific leadership skills.  These include facilitation, coaching, mentoring, conflict resolution, etc.  Students will apply the theory and skills to the mentoring of a student project team in CIE or another subject within the University.",
+        "You will apply what you are learning, and develop skills, by mentoring an industry-sponsored project within CIE or a project within another subject.  CIE mentors will also need to manage their relationship with the external sponsor of the project."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the basic theoretical issues underlying the management of teams (theories of motivation, team formation, group process, etc.)",
+        "L02 Analyse key theoretical issues underlying the leadership of innovative teams (collaboration, adaptive leadership, reflexivity in group dialogue, the need to be present and aware, etc.)",
+        "L03 Develop skills in the leadership of teams",
+        "Develop and demonstrate the capacity to reflect on their leadership behaviour.",
+        "L05  Develop and demonstrate the capacity to give constructive and developmental feedback to peers."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ENGR90034"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students will be invited to apply in writing to enrol in this subject, and will be selected on the basis of their application letter and their performance in Creating Innovative Engineering."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Development feedback to a peer on their reflection.. 10 hours (of work required)",
+            "timing": "From Week 1 to Week 10",
+            "percentage": "15%"
+        },
+        {
+            "description": "Weekly reflection on performance as a team leader. 500 words",
+            "timing": "From Week 1 to Week 10",
+            "percentage": "30%"
+        },
+        {
+            "description": "Essay exploring basic management theories.. 2000 words",
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "description": "Essay reflecting on their overall experience during the semester.. 3000 words",
+            "timing": "End of semester",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Coordinator": "Peter Cebon"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "16 hours of workshops conducted prior to the beginning of semester, 4.5 hours lectures per week, 2 x 3 hour workshops during semester."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Pre teaching start date": "12 February 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students will need to participate in 16 hours of workshops conducted prior to the beginning of semester."
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "23 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Coordinator": "Peter Cebon"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "16 hours of workshops conducted prior to the beginning of semester, 4.5 hours lectures per week, 2 x 3 hour workshops during semester."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Pre teaching start date": "8 July 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students will need to participate in 16 hours of workshops conducted prior to the beginning of semester."
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "19 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Dr Peter Cebon"
+                ],
+                "email": [
+                    "pcebon@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [
+                    "Dr Peter Cebon"
+                ],
+                "email": [
+                    "pcebon@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

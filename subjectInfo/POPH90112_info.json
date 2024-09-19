@@ -1,0 +1,137 @@
+{
+    "subject name": "Infectious Disease Epidemiology",
+    "subject code": "POPH90112",
+    "subject availability": [
+        "April - Dual-Delivery"
+    ],
+    "overview": [
+        "The epidemiology of infectious diseases differs from chronic disease - cases may be the source of infection for further cases, immunity is an important factor in disease transmission and control, and there is often the need for urgency in the detection and response to disease.",
+        "This subject introduces students to the strategies used to identify and respond to infectious disease problems. Content is updated weekly to incorporate topical infectious disease events, and emphasis is given to a practical understanding and application of infectious disease epidemiology. Students will learn the basic principles of infectious disease surveillance and response, and will develop the terminology, and written and oral skills for effective reporting. Students will also develop problem-solving skills in scenario-based exercises."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Use key epidemiological characteristics to explain how infectious agents are transmitted and cause disease in human populations.",
+        "Analyse surveillance systems and data to show they are used to understand the epidemiology of an infectious disease.",
+        "Identify and investigate an infectious disease outbreak to explain its cause and transmission.",
+        "Formulate a comprehensive assessment to characterise the epidemiology of an infectious disease.",
+        "Design a response to an infectious disease problem and its evaluation."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "POPH90014"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Three short answer assignments (300 words each), due during the 1st, 2nd, 3rd week of teaching respectively.. 900 words (total)",
+            "timing": "Early in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Group oral Presentation (15 minutes) (assessed as a group). 15 minutes",
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "Individual summary of group work. 300 words",
+            "timing": "Week 6",
+            "percentage": "5%"
+        },
+        {
+            "description": "Major Assignment. 2500 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "April": [
+                {
+                    "Coordinator": "Alicia Arnott"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "1 April 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "12 April 2024"
+                },
+                {
+                    "Census date": "19 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "24 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "April": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "alicia.arnott@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Students will be provided with the appropriate links, references and resources on the LMS throughout the subject to complete all the learning tasks and assessments.",
+                    "The following two texts are useful reference texts for those planning a career in infectious disease epidemiology, but please note again, these are optional and not necessary to successfully complete the Infectious Disease Epidemiology subject.",
+                    "*   Sonja A. Rasmussen and Richard A. Goodman, editors. The CDC field epidemiology manual. 4th edition. Oxford University Press; New York; 2019.",
+                    "*   David L. Heymann, editor. Control of Communicable Diseases Manual. 20th Edition. AHPA Press; Washington DC; 2014."
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.mspgh.unimelb.edu.au"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

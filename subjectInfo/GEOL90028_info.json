@@ -1,0 +1,105 @@
+{
+    "subject name": "Geochronology and Thermochronology",
+    "subject code": "GEOL90028",
+    "subject availability": [
+        "May"
+    ],
+    "overview": [
+        "The course covers the basic principles of Ar-Ar, Rb-Sr, Sm-Nd, U-Pb (conventional Pb-Pb, U-Pb, SHRIMP, LA-ICPMS, CHIME), Lu-Hf and Re-Os, as well as fission track and (U-Th)/He thermochronology. The application of these geochronology/thermochronology and isotopic tracing methods to a variety of geological problems will be presented. Afternoon sessions will be devoted to pracs (calculating ages, meaning of errors, plotting data e.g. isochrons, U-Pb plots, histograms using the computer package ISOPLOT and modelling thermal histories)."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Equip students with discipline-specific knowledge and expertise appropriate for post-graduate research in the field;",
+        "Equip students with discipline-specific knowledge and expertise enabling them to take their place as professional geologists in industry or government organisations; and",
+        "Provide students with the confidence and competence to employ geochemical and/or geochronological data to determine the relationships between magmatism, metamorphism, deformation and sedimentation."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Two practical exercises (3 hours each). 6 hours",
+            "timing": "1 Weeks after the end of teaching",
+            "percentage": "40%"
+        },
+        {
+            "description": "Exam, taken on the last day of the teaching period. 3 hours (of work required)",
+            "timing": "End of the teaching period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "May": [
+                {
+                    "Coordinator": "Ashlea Wainwright"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total of 40 contact hours over 5 days: x4hrs lectures & x4hrs practicals per day"
+                },
+                {
+                    "Total time commitment": "75 hours"
+                },
+                {
+                    "Teaching period": "13 May 2024 to 17 May 2024"
+                },
+                {
+                    "Last self-enrol date": "14 May 2024"
+                },
+                {
+                    "Census date": "14 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "16 May 2024"
+                },
+                {
+                    "Assessment period ends": "17 May 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "May": {
+                "name": [],
+                "email": [
+                    "awai@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

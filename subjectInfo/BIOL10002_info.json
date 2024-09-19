@@ -1,0 +1,128 @@
+{
+    "subject name": "Biomolecules and Cells",
+    "subject code": "BIOL10002",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject builds on students\u2019 prior knowledge, exploring the diversity and unity of life through the lens of five core concepts: evolution, cell theory, regulation, transmission of information and interconnectedness in biological systems. These concepts will be studied at the molecular, cellular, and individual level. Topics will include the evolution of life from the abiotic to the individual, the molecular and physical structure of the cell, cell replication and gene expression, homeostasis and physiological systems regulation, respiration, and interactions within and between organisms."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "demonstrate an understanding of the evolution of life from the molecular level to the multicellular;",
+        "recognize cells as the fundamental structural and functional unit of life with respect to their molecular machinery, cellular function and cellular interaction;",
+        "explain the importance of information being conserved or modified within, and transferred between, cells and organisms;",
+        "describe the chemical nature of biological processes and the way cells and organisms regulate their (internal) environment;",
+        "explain the interconnected and interacting nature of living systems by drawing on examples of networks at the molecular, cellular and individual levels;",
+        "identify biology as an evolving science based on concepts developed from observations, experiments, and data analysis;",
+        "identify connections between major concepts in biology; and",
+        "design and perform an inquiry-based project and interpret the data."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the B-BMED Bachelor of Biomedicine"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BIOL10008",
+        "BIOL10009",
+        "Pre 2021: BIOL10004 - Biology of Cells and Organisms"
+    ],
+    "assessments": [
+        {
+            "description": "Test 1 \u2013 30 minutes (Week 4) 10%  \r\nTest 2 \u2013 60 minutes invigilated MST (Weeks 8 \u2013 9) 20%\r\nTest 3 \u2013 30 minutes (Weeks 11 \u2013 12) 10%. 2 hours",
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Laboratory practical attendance and completion of in class activities. Hurdle requirement:. Student participation in practical activities for at least 80% of the practical classes as demonstrated by submission of practical notes and activities completed before and during class. For the purposes of meeting this hurdle requirement, each submission must be submitted during or immediately after  the scheduled practical class and constitute a genuine attempt to address the requirements of the task.",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "description": "A written project report. 800 words",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Hurdle requirement: students must obtain an minimum of 30% of the exam marks in order to successfully pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Lauren Salo"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of interactive seminars (2 x 1 hour per week across semester) \r\n15 hours of practical classes (5 x 3 hours, approximately fortnightly across semester) \r\n12 hours of workshops (6 x 2 hours, fortnightly across semester)\r\nStudents are also expected to undertake up to 24 hours of independent online activities including watching videos and instant feedback activities (2 hr per week)"
+                },
+                {
+                    "Total time commitment": "175 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "BIOL10002-info@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Sadava DE, Hillis DM, Heller HC, Hacker SD, and Hall DW, Life:  The Science of Biology 12th edition, Macmillan, 2020, ISBN 9781319315788"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject involves the use of animals that form an essential part of the learning objectives for this subject. Please note: There are some non-dissection alternatives for those who have strong philosophical objections and these and other alternatives can be discussed with the subject co-ordinator.",
+            "Required Equipment - Laboratory coat.",
+            "B-BMED students who fail this subject with a mark of 45-49%, who do not fail any other subjects in the same semester may be eligible for a progression supplementary exam for this subject in line with theAssessment Procedure(point 15). Students will be contacted via email by the University Results final release date if they are eligible."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

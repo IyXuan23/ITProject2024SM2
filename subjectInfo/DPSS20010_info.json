@@ -1,0 +1,123 @@
+{
+    "subject name": "Production Practice 1",
+    "subject code": "DPSS20010",
+    "subject availability": [
+        "Semester 1 (Extended)"
+    ],
+    "overview": [
+        "In this subject, students apply their developing knowledge and skills to roles on VCA productions that relate to at least one of their chosen specialisations. Students will deepen their understanding, experience and confidence by contributing to the production process and preparing for future roles with greater responsibility. The subject will include academic skills in reflective writing and industry appropriate project reporting."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "demonstrate a production role requiring technical and collaborative skills in the creation and realisation of live performance;",
+        "implement the roles, responsibilities and processes necessary in the production of live performance;",
+        "apply safe work and best practices in technical theatre;",
+        "apply the creative processes and technical skills employed by a theatre practitioner in the realisation of live performance in a production environment;",
+        "demonstrate communicative and cooperative skills to collaborate effectively with theatre makers and production departments at an introductory level;",
+        "generate industry standard documentation relevant to an assigned production role;",
+        "reflect on the process and output of a placement and articulate insights gained from the experience relevant to an assigned production role."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "DPSS10005",
+                    "DPSS10010"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "Production role proposal. 400 words (equivalent)",
+            "timing": "Early in the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Placement on one VCA production. 3000 words (equivalent). Hurdle requirement:. Students are required to achieve a pass grade or above for their placement on a VCA production.",
+            "timing": "Throughout the teaching period",
+            "percentage": "75%"
+        },
+        {
+            "description": "Reflective essay. 600 words",
+            "timing": "During the assessment period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Hurdle requirement:. Students are required to attend a minimum of 75% of all timetabled classes,  consultations and tutorials, and 100% of all key production events relevant to assigned role which may include: design presentations, \"meet and greet\" gatherings, production meetings, technical rehearsals, bump in, show calls, and bump out.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Students must submit all elements of assessment to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended)": [
+                {
+                    "Coordinator": "Matt Scott"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "24 hours of seminars and de-briefs"
+                },
+                {
+                    "Total time commitment": "204 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to  9 June 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Extended)": {
+                "name": [
+                    "Matt Scott:",
+                    ""
+                ],
+                "email": [
+                    "matthew.scott@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

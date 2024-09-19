@@ -1,0 +1,155 @@
+{
+    "subject name": "Engineering Hydrology",
+    "subject code": "ENEN90038",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "In this subject, students will learn surface and groundwater hydrology with an emphasis on engineering applications. Techniques for statistical analyses of hydrological variables and mathematical modelling of hydrological processes will be introduced for engineering designs and investigations. The subject will introduce groundwater principles and modelling. Students will also acquire knowledge of surface water and groundwater quality. The subject will lay the foundation for a later subject ENEN90039 - Advanced Hydrological Solutions."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the process of evapotranspiration and perform quantitative analyses on meteorological and environmental data to compute evapotranspiration.",
+        "Describe precipitation processes and perform quantitative analyses on precipitation to be used in engineering designs.",
+        "Perform flood frequency analyses and flood modelling for engineering design.",
+        "Explain runoff processes and perform water balance modelling for hydrological investigations.",
+        "Identify surface water quality issues and conduct simple water quality modelling.",
+        "Analyse groundwater processes and undertake basic groundwater flow modelling.",
+        "Identify major sources and types of groundwater contamination and formulate mechanisms of contamination transport."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "MC-ENG Master of Engineering",
+                "206EC Master of Environmental Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ENEN20002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                [
+                    "MAST20030"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST20009",
+                    "MAST20032"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment one: Hydrological processes and data analyses 1, including a report of 1000 words.  Intended Learning Outcomes (ILOs) 1 - 3 are adddressed in this assessment.. 30 hours (of work required)",
+            "timing": "From Week 1 to Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment two: Hydrological processes\r\nand data analyses 2, including a report of 1000 words. ILO 1-3 are addressed in this assessment.. 30 hours (of work required)",
+            "timing": "From Week 6 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment three: Rainfall-runoff and flood\r\nmodelling, including a report of 1000 words.  ILO 3 and 4 are addressed in this assessment.. 30 hours (of work required)",
+            "timing": "From Week 5 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment four: Groundwater hydrology, including a report of 1000 words.  ILOs 6 and 7 are addressed in this assessment.. 30 hours (of work required)",
+            "timing": "From Week 9 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "One final (written) examination. ILOs 1-7 are addressed in this assessment.. 1.5 hours. Hurdle requirement:. Examination must be passed.",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Q J Wang"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Up to 50 hours of contact hours, including lectures (i.e. 24 hours), tutorials (i.e. 24 hours) and lab practical (i.e. 2 hours)."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Prof. QJ Wang"
+                ],
+                "email": [
+                    "quan.wang@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

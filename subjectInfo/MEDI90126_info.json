@@ -1,0 +1,171 @@
+{
+    "subject name": "Ultrasound Critical Care Procedures",
+    "subject code": "MEDI90126",
+    "subject availability": [
+        "Semester 1 - Online",
+        "Semester 2 - Online"
+    ],
+    "overview": [
+        "After completion of this subject, students will have the knowledge of when and how to perform ultrasound-guided percutaneous procedures commonly used in critical care, including central and peripheral venous and arterial vascular access, drainage of effusions from the lung, heart and peritoneal cavities, and ultrasound guided surgical airway procedures."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe in detail the anatomy relevant to ultrasound-guided drainage of effusions from the pericardial, pleural and abdominal cavities and cannulation of vessels and the trachea.",
+        "Identify the key steps required to minimise infectious and mechanical complications from percutaneous procedures.",
+        "Identify the key steps required to perform and write a structured report of ultrasound-guided procedures including central and peripheral vascular access, drainage of effusions of the lung, heart and peritoneal cavities, and ultrasound-guided surgical airway procedures.",
+        "Evaluate the requirements for training, competence, and certification in ultrasound-guided procedures."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDI90112"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note: these can be taken concurrently (at the same time)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MEDI90054"
+    ],
+    "assessments": [
+        {
+            "description": "Multiple-choice questions following each tutorial. 625 words (equivalent). Hurdle requirement:. Must be passed",
+            "timing": "Throughout the semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Interpretation of 10 case studies assessed by structured questions pertaining to each case. 1250 words (equivalent). Hurdle requirement:. Must be passed",
+            "timing": "Throughout the semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Open-book summative examination. 625 words (equivalent). Hurdle requirement:. Must be passed",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - Online": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "a Doctor of Medicine or a Bachelor of Medicine/Bachelor of Surgery (MBBS) or equivalent, oran undergraduate degree or equivalent in allied health, nursing, physiotherapy, or science.",
+                    [
+                        "a Doctor of Medicine or a Bachelor of Medicine/Bachelor of Surgery (MBBS) or equivalent, or",
+                        "an undergraduate degree or equivalent in allied health, nursing, physiotherapy, or science."
+                    ]
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

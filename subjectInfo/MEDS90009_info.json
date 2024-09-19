@@ -1,0 +1,134 @@
+{
+    "subject name": "Curriculum Design in Surgical Education",
+    "subject code": "MEDS90009",
+    "subject availability": [
+        "Semester 2 (Early-Start) - Online"
+    ],
+    "overview": [
+        "This subject draws together essential elements of curriculum design \u2013 planning, resourcing, recruitment, selection, development, implementation, assessment and evaluation. Participants will review existing programs with respect to theoretical underpinning, educational methods and structure. Participants will be expected to design a component of a surgical training program using best educational practice.The overall aims of the subject are:\u2022 To identify best practice in curriculum design\u2022 To apply sound curriculum design principles in a surgical training program\u2022 To explore basic principles of assessment"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify key elements of curriculum design including planning, resourcing, recruitment, selection, educational materials, delivery modes, assessment and evaluation",
+        "Design and implement elements of curricula",
+        "Describe current approaches to curricula design (e.g. competency based)",
+        "Demonstrate an understanding of core curricula, electives and options as they relate to surgical training",
+        "Describe basic principles of assessment",
+        "Identify the strengths and weaknesses of assessment methods in surgical education"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "GC-SURGED Graduate Certificate in Surgical Education",
+                "GD-SURGED Graduate Diploma in Surgical Education",
+                "MC-SURGED Master of Surgical Education",
+                "Students enrolling in this subject as a single subject under the Community Access Program must meet the entrance requirements for the MC-SURGED.",
+                "This subject is not available for students admitted in any other courses."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Essay - educational program design for surgical training. The aim of this assessment is to progress knowledge of skills assessed in subject 2. That is, this assessment moves away from reporting and reflecting on the 'micro' teaching session plan (Subject 2) to the higher-level of the program/curriculum. Students are encouraged to design curriculum aligned with their actual practice.. 2000 words",
+            "timing": "Mid semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Essay. The aim of this assessment is to explore in detail an element of assessment in surgical education. This is a critical element of professional educational activity and will enable participants to develop a deep understanding of at least one facet of high stakes assessment. Assessment in the context of surgical practice has high stakes for not only the surgical trainee but for patients too. It is essential that surgical educators have a deep understanding of assessment methods for those seeking to work in a high risk environment such as surgery.. 2000 words",
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Reflective writing. Students are expected to reflect on an existing curriculum highlighting strengths and areas for development by drawing on the theoretical materials presented in the subject. 1500 words. Hurdle requirement",
+            "timing": "Mid semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 (Early-Start) - Online": [
+                {
+                    "Coordinator": "Debra Nestel"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "8 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "19 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Reading materials online"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "IT requirements:",
+            "Participants will require access to the internet with a minimum connection speed of 256Kbps to access course materials and to participate in on-line discussions and presentations forums. Faster connection speeds are preferred. Participants will also need to verify that their internet connection is configured to allow them to view streamed audio and video files. Test files will be made available for students to test their connections.",
+            "Participants are expected to have a headset and microphone connected to their computer for participation in on-line activities.",
+            "Participants will be expected to have access to the following Microsoft Office products to fully participate:",
+            [
+                "MS Word",
+                "MS Powerpoint"
+            ],
+            "All online applications will be web-based and no special software is required."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.commercial.unimelb.edu.au/gcsurgicaleducation/"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

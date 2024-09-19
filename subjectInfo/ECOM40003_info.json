@@ -1,0 +1,120 @@
+{
+    "subject name": "Macroeconometrics",
+    "subject code": "ECOM40003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Decision making in central banks, consulting firms, and other institutions relies on advanced empirical analyses of economic data. This subject provides a cutting-edge econometric methodology for empirical macroeconomic research. The focus is put on modelling unit-root nonstationary processes that describe many economic time series well. Applications of the considered econometric techniques include forecasting and nowcasting macroeconomic variables including using big data, estimating the effects of monetary policy, as well as modelling of trend inflation. Topics in Climate Change include forecasting CO2 emissions for the 21st century and modelling long-run trends in global temperatures. Particular attention is paid to developing programming skills that allow for performing rigorous applied macroeconomic research in R."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Apply quantitative analysis to model and forecast the essential variables and quantities for the empirical macroeconomic research.",
+        "Understand, derive, and program estimation algorithms for univariate and multivariate structural models and for economically interpretable quantities such as impulse response functions and forecast error variance decompositions, inflation trend, output gap, etc.",
+        "Comprehend and apply Bayesian analysis of unit-root nonstationary variables in uni- and multi-variate systems.",
+        "Forecast economic variables of interest, with the focus on density forecasting, using big data with dedicated models applying appropriate numerical techniques that make the task computationally feasible.",
+        "Use structural multivariate models to identify the monetary policy shock and estimate its effect on the real business cycle indicators.",
+        "Understand and estimate state-space models in macroeconomic applications.",
+        "Apply macroeconomic modeling in climate change topics."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ECOM40006"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "BH-COM Bachelor of Commerce (Degree with Honours)",
+                "Economics specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ECOM90007"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment. 1500 words (equivalent)",
+            "timing": "Week 4",
+            "percentage": "13%"
+        },
+        {
+            "description": "Assignment. 1500 words (equivalent)",
+            "timing": "Week 8",
+            "percentage": "13%"
+        },
+        {
+            "description": "Assignment. 1500 words (equivalent)",
+            "timing": "Week 12",
+            "percentage": "14%"
+        },
+        {
+            "description": "End-of-Semester Examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Tomasz Wozniak"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Tomasz Wozniak:"
+                ],
+                "email": [
+                    "tomasz.wozniak@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

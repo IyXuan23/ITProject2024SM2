@@ -1,0 +1,109 @@
+{
+    "subject name": "Data Analysis for Finance",
+    "subject code": "FNCE90083",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces students to principles and applications of data analysis for finance. Concepts covered include data collection, processing and management, relevant theory in statistics, econometrics and machine learning, programming in relevant languages and data presentation. Specific topics include data sourcing, processing and cleaning, summarizing and visualizing data; multiple regression, time-series models, panel data techniques and causal inference; machine learning and classification methods, model selection and assessing model performance, unsupervised learning and textual analysis.  Students will become proficient in relevant programming languages such as Python or R."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop proficiency with relevant software and programming languages for complex data analysis tasks with finance applications",
+        "Demonstrate the ability to source, process and clean complex data from a variety of sources",
+        "Understand the methods and principles of summarizing and visualizing data",
+        "Understand the relevant theoretical principles behind data analysis, including statistics, econometrics and machine learning",
+        "Develop skills in presenting data analysis for a variety of audiences in written form"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time):",
+                [
+                    "ACCT90002",
+                    "ECON90033",
+                    "ECON90034",
+                    "FNCE90047"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "MC-FINANCE Master of Finance",
+                "MC-FINENH Master of Finance (Enhanced)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Take-home group assignment 1 (up to 3 people per group). 1000 words",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group Presentation (up to 3 people per group). 10 minutes",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "Take-home group assignment 2 (up to 3 people per group). 1000 words",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Joachim Inkmann"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "To be advised by the subject coordinator"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

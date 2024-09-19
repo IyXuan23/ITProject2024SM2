@@ -1,0 +1,134 @@
+{
+    "subject name": "Landscape Studio 3 Speculations",
+    "subject code": "ABPL90172",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "A studio-based subject that offers speculative investigations for landscape architectural design. Building upon landscape derived theoretical influences and precedent informed by design practice, Studio options will vary from year to year. Framed by contemporary agendas for landscape design, studio investigations will include speculation and experiment with spatial design, materiality and detailing; digital media; heritage and conservation in national and or international contexts.",
+        "Prescribed software programs with a costMcneel RhinoPrescribed software toolsDrafting and modelling software (e.g. McNeel Rhino)Image editing software (e.g. Affinity Photo)Vector editing software (e.g. Affinity Designer)Layout software (e.g. Affinity Publisher)",
+        "Details of software availability and pricing are captured at:https://msd.unimelb.edu.au/current-students/student-experience/it-support",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop Knowledge in contemporary design methods and design precedents related to landscape architecture and urban design.",
+        "Develop skills in selecting and creatively applying established methods of design research and design generation, along with advanced representational skills.",
+        "Apply established methods of design research to complex ecological and cultural landscapes in national or international contexts."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "200pt Program course entry point in the MC-LARCH Master of Landscape Architecture",
+                "300pt Program course entry point in the MC-ARCLARC Master of Architecture/Master of Landscape Architecture",
+                "300pt Program course entry point in the MC-LARCHUD Master of Landscape Architecture/Master of Urban Design",
+                "300pt Program course entry point in the MC-LARCHUP Master of Landscape Architecture/Master of Urban Planning"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ABPL90176"
+                ]
+            ],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "300pt Program course entry point in the MC-LARCH Master of Landscape Architecture",
+                "400pt Program course entry point in the MC-LARCHUD Master of Landscape Architecture/Master of Urban Design",
+                "400pt Program course entry point in the MC-LARCHUP Master of Landscape Architecture/Master of Urban Planning"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "An assignment. 2000 words (equivalent)",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "An assignment. 3000 words (equivalent)",
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "description": "A final project. 5000 words (equivalent)",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "Wendy Walls and Jillian Walliss"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "6 hours per week including one hour lecture class"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Jillian Wallis:",
+                    ""
+                ],
+                "email": [
+                    "jwalliss@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

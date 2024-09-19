@@ -1,0 +1,127 @@
+{
+    "subject name": "Mathematical Biology",
+    "subject code": "MAST90011",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Modern techniques have revolutionised biology and medicine, but interpretative and predictive tools are needed. Mathematical modelling is such a tool, providing explanations for counter-intuitive results and predictions leading to new experimental directions. The broad flavour of the area and the modelling process will be discussed. Applications will be drawn from many areas including population growth, epidemic modelling, biological invasion, pattern formation, tumour modelling, developmental biology and tissue engineering. A large range of mathematical techniques will be discussed, for example discrete time models, ordinary differential equations, partial differential equations, stochastic models and cellular automata."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "appreciate the context in which continuum and discrete modelling may arise in mathematical modelling;",
+        "have high level mathematical tools and knowledge that can be used to model a range of problems in mathematical biology;",
+        "have the ability to implement physically justified approximations to solve complex problems;",
+        "have been exposed to both computational and analytical tools, and understand the various contexts in which they can be applied;",
+        "have the ability to pursue further studies in this and related areas."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST20030"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Equivalent"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                [
+                    "MAST30030"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "MAST30029 Partial Differential Equations (pre-2014)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Up to 50 pages of written assignments (three assignments worth 20% each, due early, mid and late in semester). 50 pages",
+            "timing": "Throughout the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "description": "A written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Stuart Johnston"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "TBA"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Edelstein-Keshet, L. Mathematical Models in Biology. McGraw Hill, 1987.Murray, J. D. Mathematical Biology. Springer Verlag, 1990 (or the new 2 Volume Third edition, 2003).Britton, N. F. Essential Mathematical Biology, Springer, 2003.Dr Vries, G., Hillen T., Lewis, M., Muller, J. and Schonfisch, B. A Course in Mathematical Biology. SIAM, 2006."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

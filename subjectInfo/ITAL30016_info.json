@@ -1,0 +1,177 @@
+{
+    "subject name": "Italian 8",
+    "subject code": "ITAL30016",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject continues its focus on the spoken and written language and culture of present day Italy. Students will undertake regular activities in order to further develop their linguistic and cultural skills. They will also participate in regular conversation practice for the purpose of reinforcing their command of current idiomatic Italian to a higher standard. Students will expand their knowledge of contemporary Italian culture and language, through a critical analysis of a variety of texts and documents (including films, music, mass media and literature). By the end of the subject, students should have further improved their written production skills and should be able to express themselves with fluency on most topics."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Be able to interpret and analyse a variety of text types, as well as cultural practices, in Italian, directly relevant to Italian-speaking social and cultural contexts",
+        "Have strengthened one's capacity in using linguistic structures and resources, relating to specific literary, linguistic and cultural aspects of Italian-speaking communities, in order to communicate effectively in Italian both in writing and speaking",
+        "Have expanded research skills appropriate to task to allow for extended analysis and interpretation",
+        "Have developed an increasing understanding of the diversity of Italian language and culture",
+        "Have developed an increasing ability to compare and contrast linguistic and cultural similarities and differences between Italian language and culture and other languages and cultures",
+        "Have expanded the application of learning techniques across tasks and contexts to consolidate knowledge, and ability in relation to Italian language and culture",
+        "Have improved reflective skills",
+        "Be able to work in an effective manner in an Italian-speaking context both individually and cooperatively in and out of the classroom setting."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ITAL20002",
+                    "ITAL30015",
+                    "ITAL10009"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ITAL10010",
+        "ITAL20003"
+    ],
+    "assessments": [
+        {
+            "description": "One written task in class. 400 words",
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written assignment. 1200 words",
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "One mid-semester test (equivalent to\u00a0800 words). 1 hours",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "One oral presentation (equivalent to 600 words). 10 minutes",
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "description": "One final project including short analysis of 200 words. 800 words (total)",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Two pop tests. 200 words (total)",
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Vita Giordano"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total of 36 hours: One 2-hour seminar per week and one 1-hour conversation class per week for 12 weeks."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "vita@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    [
+                        "Soluzioni.A Practical Grammar of Contemporary Italian. Denise De Rome. London Hodder, 4th edition, 2019"
+                    ]
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/soll"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Language Placement Test required",
+                    "Language Placement Test required"
+                ]
+            }
+        ]
+    }
+}

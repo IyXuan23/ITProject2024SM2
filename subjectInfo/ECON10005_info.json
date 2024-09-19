@@ -1,0 +1,218 @@
+{
+    "subject name": "Quantitative Methods 1",
+    "subject code": "ECON10005",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject covers the core concepts which underpin quantitative decision analysis in the various specialisations within the faculty. It provides a foundation for all second-year quantitative subjects in the commerce degree. The topics covered are drawn from financial mathematics; measures of location and dispersion; probability, random variables and expected values; sampling design; estimation and testing using the normal and t-distribution; and simple regression and correlation. Excel is used to illustrate applications in accounting, economics, finance, management and marketing."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Graph economic data using methods that facilitate analysis.",
+        "Explain concepts relevant for summarising and interpreting data.",
+        "Explain how the concepts of random variables and probability distributions are useful for drawing inferences.",
+        "Explain the concepts of population, samples and sampling distributions.",
+        "Estimate unknown population quantities and test hypotheses about them.",
+        "Conduct simple regression analysis to model the relationship between variables and draw inferences about relationships.",
+        "Apply common analytical techniques relevant for financial decision making."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "A study score of at least 25 in English (any) or equivalent and Mathematical Methods in VCE Units 3/4 or equivalent"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the B-COM Bachelor of Commerce"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                [
+                    "MAST10012"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MAST20005",
+        "MAST10010",
+        "",
+        "Students intending to major in Actuarial Studies should not enrol in this subject."
+    ],
+    "assessments": [
+        {
+            "description": "Assignment 1 (Individual Assignment). 300 words",
+            "timing": "Week 4",
+            "percentage": "3%"
+        },
+        {
+            "description": "Mid-semester test. 45 minutes",
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "Assignment 2 (Group Assignment). 1000 words",
+            "timing": "Week 10",
+            "percentage": "7%"
+        },
+        {
+            "description": "Weekly online quiz",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Tutorial attendance",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours. Hurdle requirement:. To pass this subject, students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinators": "Wasana Karunarathne and Yong Song"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinators": "K Shields and Jenny Williams"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Yong Song:"
+                ],
+                "email": [
+                    "yong.song@unimelb.edu.au",
+                    "lakminik@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Kalvinder Shields:"
+                ],
+                "email": [
+                    "k.shields@unimelb.edu.au",
+                    "jenny.williams@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

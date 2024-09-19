@@ -1,0 +1,171 @@
+{
+    "subject name": "Ancient Egyptian 2",
+    "subject code": "ANCW10007",
+    "subject availability": [
+        "August"
+    ],
+    "overview": [
+        "In this subject, students consolidate the basic elements covered in Ancient Egyptian 1, and are introduced to more complex grammar and syntax, as well as some of the issues involved in interpreting an ancient language. Increasingly difficult texts are read from a variety of sources. Background information on ancient Egyptian culture is woven into the subject matter throughout the semester. By the end of the subject, students should have a sufficient grasp of the language and script to read hieroglyphic texts of moderate difficulty with vocabulary assistance. Students who successfully complete this subject may progress to Ancient Egyptian 3."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Acquire an understanding of the elements of the grammar, syntax, vocabulary and writing system of Ancient Egyptian",
+        "Attain reading skills sufficient to begin reading hieroglyphic texts of moderate difficulty with vocabulary assistance."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ANCW10006"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ANCW10005",
+        "ANCW20020",
+        "ANCW30022"
+    ],
+    "assessments": [
+        {
+            "description": "In-class assessment exercises. 500 words",
+            "timing": "Week 2",
+            "percentage": "12%"
+        },
+        {
+            "description": "In-class assessment exercises. 500 words",
+            "timing": "Week 4",
+            "percentage": "12%"
+        },
+        {
+            "description": "In-class assessment exercises. 500 words",
+            "timing": "Week 6",
+            "percentage": "12%"
+        },
+        {
+            "description": "In-class assessment exercises. 500 words",
+            "timing": "Week 8",
+            "percentage": "12%"
+        },
+        {
+            "description": "In-class assessment exercises. 500 words",
+            "timing": "Week 10",
+            "percentage": "12%"
+        },
+        {
+            "description": "An examination. 90 minutes",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "August": [
+                {
+                    "Coordinator": "Brent Davis"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours \u2013 \r\nLecture: 2 x 1 hour lecture in Week 3 & 6, and 1 x 1 hour lecture weekly for the remaining weeks.\r\nTutorial: 3 x 1.5 hours tutorial in Week 4, 5, 7 & 9, and 2 x 1.5 hours tutorial weekly for the remaining weeks."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "5 August 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "20 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "11 October 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "August": {
+                "name": [],
+                "email": [
+                    "bedavis@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "James P. Allen.Middle Egyptian: An Introduction to the Language and Culture of Hieroglyphs(3rd Edition), Cambridge University Press, 2014"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Raymond O. Faulkner.A Concise Dictionary of Middle Egyptian, Oxford: Griffith Institute, 1962 (reprinted 2015)"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "http://shaps.unimelb.edu.au/classics-archaeology"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

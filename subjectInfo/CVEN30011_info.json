@@ -1,0 +1,125 @@
+{
+    "subject name": "Smart Transportation",
+    "subject code": "CVEN30011",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Urban Transport systems face many challenges due to growing levels of congestion and rising levels of environmental, social and safety problems.",
+        "This subject will use the systems approach as a framework for developing the key skills that need to be acquired to develop and implement new transport technologies that can improve the sustainability of urban transport systems.",
+        "This course will focus on (1) the fundamental knowledge to understand transport systems from the perspective of an engineer and planner, and on (2) how new technologies can be integrated with existing transport services to improve accessibility and sustainability in transport systems. Key skills will be attained in the areas of data collection and processing, analysis, and evaluation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "SILO1. Identify elements of urban transport systems and basic theories used in transport engineering ;",
+        "SILO2. Explain the concepts of accessibility, equity, and sustainability within the scope of urban transport systems;",
+        "SILO3. Examine causal relationships between transport system's elements;",
+        "SILO4. Analyse operational, tactical, and strategic level transport engineering problems and solutions;",
+        "SILO5. Estimate the demand for new services based on user and system attributes;",
+        "SILO6. Design public transport service and signal timing plans;",
+        "SILO7. Collect and analyse different types of transport demand and service data;",
+        "SILO8. Propose data collection approaches involving emerging technologies to improve transport services;",
+        "SILO9. Assess the appropriateness of emerging transport technologies for addressing urban transport challenges;",
+        "SILO10. Demonstrate ability to work in a team to solve problems."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Participation in at least 8 workshops. Intended Learning Outcomes (ILOs) 1-10 are addressed in this assessment.. Hurdle requirement:. Students must attend at least 8 workshops to pass the subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "0%"
+        },
+        {
+            "description": "Weekly quizzes reflecting content from readings and lectures. 20 minutes per quiz. ILOs 1-9 are addressed in this assessment.. 20 minutes (each)",
+            "timing": "Throughout the teaching period",
+            "percentage": "12%"
+        },
+        {
+            "description": "Individual Assignment  - A report of a workload equivalent to 1000 words. ILOs 1-3 are addressed in this assessment.. 25 hours (of work required)",
+            "timing": "Week 4",
+            "percentage": "25%"
+        },
+        {
+            "description": "Individual Assignment - A report of a workload equivalent to 1250 words. ILOs 4-6 are addressed in this assessment.. 30 hours (of work required)",
+            "timing": "Week 8",
+            "percentage": "30%"
+        },
+        {
+            "description": "Group Project -  A report of a workload equivalent to 1400 words per student, 33 hours of work required per student. ILOs 7-10 are addressed in this assessment.. 33 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "33%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Patricia Sauri Lavieri"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Patricia Sauri Lavieri"
+                ],
+                "email": [
+                    "patricia.lavieri@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,130 @@
+{
+    "subject name": "Content and Language Integrated Pedagogy",
+    "subject code": "EDUC90481",
+    "subject availability": [
+        "July"
+    ],
+    "overview": [
+        "This subject focuses on content language integrated pedagogy, in particular issues in the methodology of teaching in a second or foreign language, including such areas as setting goals and objectives; models of Content Language Integrated Learning programs; outcomes (including attainment in the discipline, language proficiency, ethnicity); use and avoidance of the first language; the importance of interaction in constructing meaning, clarifying knowledge and developing relevant language; and the dual role of the CLIL teacher in developing content knowledge and promoting language development. It will include a brief introduction to the theory and practice of second language teaching and learning in so far as it is relevant to CLIL (for example teaching relevant elements of the language such as new vocabulary, dominant structures, or text features and genres of a discipline).",
+        "This subject has a TESOL or Modern Languages/LOTE focus, according to the course within which the student is enrolled"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Critically appraise and explain the application of current methodologies for an additional language context",
+        "Interpret and apply advanced professional knowledge of key areas of specialisation for an additional language context"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC90929",
+                    "EDUC90930",
+                    "EDUC91029",
+                    "EDUC91030"
+                ],
+                "*Students that commenced their course prior to 2021 may have completed EDUC90830 in place of EDUC91029, and EDUC90900 in place of EDUC91030:",
+                [
+                    "EDUC90830",
+                    "EDUC90900"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students in the 200-point program of the Master of TESOL or the Master of Modern Languages Education must have completed 100 points of study including four Education electives and the following four compulsory subjects*:"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Reflective Essay. 2000 words",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Essay based task. 3000 words",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. Minimum of 80% attendance at all scheduled lectures, tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "July": [
+                {
+                    "Principal coordinator": "Shu Ohki"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours (6 hour full-day intensive face to face and 18 hours online)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 16 September 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "9 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "13 September 2024"
+                },
+                {
+                    "Assessment period ends": "2 October 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [],
+                "email": [
+                    "shu.ohki@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Dale, L., & Tanner, R. (2012). CLIL Activities with CD-ROM: A resource for subject and language teachers. New York, NY: Cambridge University Press."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

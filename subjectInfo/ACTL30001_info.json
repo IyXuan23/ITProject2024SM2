@@ -1,0 +1,151 @@
+{
+    "subject name": "Actuarial Modelling I",
+    "subject code": "ACTL30001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to provide students with a grounding in mathematical and statistical modelling techniques that are of particular relevance to actuarial work, covering survival models concepts, estimation procedures for lifetime distributions, multiple state models, binomial and Poisson models of mortality, actuarial applications of discrete-time and continuous-time  Markov chains. This subject focuses on modelling techniques in life insurance."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the concept of survival model",
+        "Summarise estimation procedures for lifetime distributions",
+        "Analyse discrete-time Markov chains and interpret their actuarial applications",
+        "Analyse continuous-time Markov processes and apply them in actuarial problems",
+        "Construct models of transfer between multiple states, including processes with single or multiple decrements, and derive relationships between probabilities of transfer and transition intensities",
+        "Derive maximum likelihood estimators for the transition intensities in models of transfers between states with piecewise constant transition intensities",
+        "Analyse the binomial model of mortality, \u00a0derive the maximum likelihood estimator for the probability of death and compare the binomial model with the multiple state models",
+        "Apply prerequisite mathematical and statistical concepts to the solution of problems on the above topics"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST20005"
+                ],
+                [
+                    "ACTL20003",
+                    "MAST20005"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "For students who commenced their degree in 2018 or earlier",
+                "ACTL20002\t Financial Mathematics II",
+                "For students who commenced their degree in 2019 or later (i.e. enrollment into this subject from 2021 onwards)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "300-330 Survival Models: Theory and Applications"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment 1 (Week 5 or 6). 1000 words",
+            "timing": "First half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assignment 2 (Week 10 or 11). 1000 words",
+            "timing": "Second half of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "End-of-semester exam. 2 hours. Hurdle requirement:. To pass this subject, students must pass the end of semester examination",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Shuanming Li"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Prof. Shuanming Li"
+                ],
+                "email": [
+                    "shli@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Information Not Available"
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

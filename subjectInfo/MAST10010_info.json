@@ -1,0 +1,162 @@
+{
+    "subject name": "Data Analysis",
+    "subject code": "MAST10010",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject lays the foundations for an understanding of the fundamental concepts of probability and statistics required for data analysis. Students should develop expertise in some of the statistical techniques commonly used in the design and analysis of experiments, and will gain experience in the use of a major statistical computing package. They should develop skills in collecting random samples, data description, basic statistical inference including parametric and nonparametric tests to compare population proportions and means, data manipulation and statistical computing. The methods will be illustrated using applications from science, engineering and commerce. Descriptive statistics, data manipulation and the implementation of the statistical procedures covered in lectures will be reinforced in the computer laboratory classes.",
+        "Sampling; introduction to experimental design; review of simple probability; estimation; confidence intervals; hypothesis testing including types of errors and power; inferences about means and proportions based on single and independent samples; matched pairs designs; introduction to nonparametric methods; contingency tables; regression; and analysis of variance."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the importance of random samples and experimental design in scientific research;",
+        "Understand some fundamental concepts of statistical inference relating to confidence intervals and hypothesis testing;",
+        "Use quantitative and graphical methods to describe a set of data;",
+        "Develop expertise in the use of some common statistical techniques;",
+        "Become familiar with a major statistical computing package."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Study score of 25 or more in VCE Mathematical Methods 3/4 or equivalent"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "MAST10012"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                [
+                    "MAST10014",
+                    "MAST10015"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ECON10005",
+        "",
+        "Students who have completed one of MAST20005 MAST20017  (prior to 2012) may not enrol in this subject for credit",
+        "Bachelor of Science students are permitted to complete a maximum of three level-1 Mathematics and Statistics subjects. They are not permitted to complete all four of MAST10005, MAST10006, MAST10007 and MAST10010"
+    ],
+    "assessments": [
+        {
+            "description": "Ten online quizzes due at weekly intervals. 10 hours (of work required)",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Three written assignments amounting to a total of up to 40 pages. 40 pages",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Paul Fijn"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week, 1 x one hour practice class per week, 1 x one hour computer laboratory class per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "paul.fijn@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Jessica Utts and Robert Heckard, Mind on Statistics, 4th Edition, Cengage Learning, 2010."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

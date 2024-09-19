@@ -1,0 +1,167 @@
+{
+    "subject name": "Physics for Biomedicine",
+    "subject code": "PHYC10007",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject will develop students' appreciation of the importance of physical principles to biomedicine as well as their understanding of the principles underpinning human structure and function, medical diagnostics and therapeutics. Lectures for this subject contain an extensive range of live in-lecture demonstrations where many of the topics are demonstrated with experiments using apparatus from the School of Physics collection.",
+        "Physics for Biomedicine provides the fundamental physics concepts required to understand many biological and medical applications. By taking this subject you will study the mechanics behind the movement of the human body, the physical principles of various human systems and the biophysics that underpin cell biology. You will also learn concepts central to medical imaging and diagnostics. Physics for Biomedicine will help you develop your problem solving and laboratory skills in the context of the medical applications of physics."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "understand and explain the importance of physical principles to biological and environmental sciences;",
+        "understand and explain the physics principles of translational mechanics, light and mechanical waves, fluids, electricity and magnetism, atomic, radiation and imaging physics in the context of biomedical applications;",
+        "apply these principles using logical reasoning, together with appropriate mathematical reasoning, to a variety of familiar and novel situations and problems in the biological and environmental sciences; and",
+        "acquire experimental data using a range of measurement instruments and interpret these data."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST10012"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "VCE Unit 3/4 Mathematical Methods"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the B-BMED Bachelor of Biomedicine"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "PHYC10009",
+        "Students who have completed VCE Unit 3/4 Physics (with a score of 25 or more) will not be permitted to enrol in this subject."
+    ],
+    "assessments": [
+        {
+            "description": "Assessment of practical work. Hurdle requirement:. Satisfactory completion of practical work is necessary to pass the subject (i.e. attendance and submission of work for at least 80% of workshop sessions together with a result for assessed work of at least 50%).",
+            "timing": "Throughout the semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Ten weekly assignments (10 x 1.5 = 15%). 30 minutes (each)",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Roger Rassool"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week; 1 x one hour tutorial per week; practical work (6 x 2.5 hour laboratory sessions)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Director of First Year Studies"
+                ],
+                "email": [
+                    "dfys@physics.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Introduction to Biological Physics for the Health and Life Sciences, 2nd Edition, Kirsten Franklin, Paul Muir, Terry Scott, Paul Yates, Wiley: ISBN: 978-1-118-93448-7"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This unit is only available to students enrolled in the Bachelor of Biomedicine.",
+            "To prevent repetition of content, students who have completed VCE Unit 3/4 Physics, or equivalent, normallywill notbe permitted to enrol in this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

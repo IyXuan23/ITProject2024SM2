@@ -1,0 +1,179 @@
+{
+    "subject name": "Hardware Accelerated Computing",
+    "subject code": "ELEN90096",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Hardware acceleration for computationally intensive applications is of growing importance for improving workload performance in cloud data centres, the network edge, and IoT embedded devices. This subject introduces students to the basics of hardware design for field programmable gate arrays (FPGAs) which are widely used to accelerate algorithms in applications areas such as machine learning, artificial intelligence, networking, cryptography, and multimedia signal processing. In addition to covering FPGA fundamentals, the subject will take a systems-based approach to analysing algorithms for suitability of acceleration and mapping to heterogeneous computing resources.",
+        "Topics covered in this subject may include:",
+        "Review of combinational and sequential digital logic",
+        "FPGA architectures and fundamentals",
+        "Hardware description languages (Verilog/VHDL) and hardware design flows",
+        "High-level synthesis and OpenCL",
+        "The use of parallelism, locality, and precision in hardware accelerators",
+        "Host-accelerator interactions and hardware-software co-design",
+        "Optimisation of hardware designs with respect to throughput, latency, energy, and area",
+        "Accelerator design for selected applications such as machine learning, artificial intelligence, networking, cryptography, and multimedia signal processing",
+        "",
+        "As part of this subject, students will complete a significant design project in which they design, implement, verify, and benchmark a hardware accelerator for a selected application"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain hardware accelerator architectures and computational models",
+        "Implement digital logic functions in a variety of industrial tools, such as hardware description languages, high-level synthesis tools, and OpenCL",
+        "Analyse advanced computational algorithms for amenability to hardware acceleration, mapping to heterogeneous computing systems to exploit parallel computation",
+        "Design hardware to accelerate computationally intensive algorithms using a systems-based approach with consideration given to trade-offs in speed, energy efficiency, and area",
+        "Articulate the importance of hardware acceleration for computational systems as a continuing trend in industry"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "COMP20005",
+                    "ELEN90066"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-ELECENG Master of Electrical Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Computing (200pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Artificial Intelligence (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Artificial Intelligence (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Artificial Intelligence (200pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Distributed Computing (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Distributed Computing (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Distributed Computing (200pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Cyber Security (100pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Cyber Security (150pt) specialisation (formal) in the MC-IT Master of Information Technology",
+                "Cyber Security (200pt) specialisation (formal) in the MC-IT Master of Information Technology"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                [
+                    "SWEN30006",
+                    "COMP30026"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-SOFTENG Master of Software Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Continuous assessment of team workshop exercises, approximately weekly, not exceeding 8 pages per student spaced out over weeks 2-7. Approximatley 12 hours of work per student. Intended Learning Outcomes (ILOs) 1-2 are adressed in this assessment. 12 hours (of work required)",
+            "timing": "From Week 2 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "Intermediate team project milestones, including peer assessment, not exceeding 12 pages per student spaced over weeks 8-11. Approimately 16 hours of work per student. Intended Learning Outcomes (ILOs) 3-4 are addressed in this assessment. 16 hours (of work required)",
+            "timing": "From Week 8 to Week 11",
+            "percentage": "15%"
+        },
+        {
+            "description": "Team project report, not exceeding 25 pages. Intended Learning Outcomes (ILOs) 3-5 are addressed in this assessment. 35 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "Mid-semester test . Intended Learning Outcomes (ILOs) 1-3 are addressed in this assessment. 1 hours",
+            "timing": "From Week 7 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final Exam. Intended Learning Outcomes (ILOs) 1-5 are addressed in this assessment. 2 hours. Hurdle requirement:. Students must score above a hurdle requirement on the final exam. This hurdle requirement will be set by the Board of Examiners and be no higher than 50%.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Eric Schoof"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of lectures and 24 hours of workshops"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:",
+                    ""
+                ],
+                "email": [
+                    "eschoof@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "The subject is delivered through a combination of lectures and workshop classes for hands-on laboratory activities."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,123 @@
+{
+    "subject name": "Economic Evaluation 1",
+    "subject code": "POPH90093",
+    "subject availability": [
+        "Semester 2 - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject provides an introduction to the principles, concepts and methods of economic evaluation and their application to health care and public health. Students are introduced to the foundations of economic evaluation in economic theory and the principal methods used by health economists: cost benefit analysis, cost effectiveness analysis, cost consequences analysis and cost utility analysis. In each case, the steps involved in identifying, measuring and valuing incremental costs and outcomes will be explained. Students will learn the key elements of an economic evaluation study design and be able to critically review economic evaluation studies. Contemporary issues and approaches in economic evaluation will be introduced, including the use of distributional cost effectiveness to capture reductions in inequality; and subjective wellbeing and other approaches for extending the measurement of benefit beyond the Quality Adjusted Life Year (QALY)"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Critically review an economic evaluation study",
+        "Demonstrate an understanding of the principal methods of economic evaluation and the key steps involved in designing an economic evaluation",
+        "Demonstrate an understanding of the economic principles underpinning economic evaluation and the use of economic evaluation evidence to inform resource allocation and priority setting"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Critical review of an economic evaluation study. 1500 words",
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "description": "Online examination. 1 hours",
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Major Assignment. 2500 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Natalie Carvalho"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "natalie.carvalho@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Drummond, M.F., Sculpher, M.J., Claxton, K., Stoddart, G.L. and Torrance, G.W., 2015.Methods for the economic evaluation of health care programmes. Oxford university press.",
+                    "Tudor-Edwards and McIntosh,Applied health economics for public health practice and research(2019).",
+                    "Resources Provided to Students:Additional readings and case studies will be distributed to students in the first week of classes."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

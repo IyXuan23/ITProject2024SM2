@@ -1,0 +1,105 @@
+{
+    "subject name": "Biomolecular Structure Determination",
+    "subject code": "SCIE90026",
+    "subject availability": [],
+    "overview": [
+        "This subject provides an in-depth look into the methods, algorithms and techniques behind biomolecular structure determination. In particular, students will be exposed to prominent techniques in the field for example: X-ray Crystallography, Nuclear Magnetic Resonance (NMR) and cryogenic-Electron Microscopy (cryo-EM). As part of a general introduction into measurement techniques students will visit state-of-the-art NMR, cryo-EM and X-ray facilities at the Bio21 Institute and the Australian Synchrotron. Using industry standard software packages, students will learn to input and handle data to reconstruct biomolecular structure and dynamics across the range of techniques. The computer based laboratories will be overseen by practitioners in the field. This multi-disciplinary subject is co-taught by staff in the School of Physics, Chemistry and Biomedical sciences. There is particular emphasis on integration of these disciplines with students receiving both theoretical and practical knowledge of fundamental and frontier research and development in biomolecular structure determination."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the measurement principles used to perform bio-molecular structure determination.",
+        "Demonstrate high level computer based skills that can be used to study a range of biomolecular structural problems in biology.",
+        "Compare and contrast the strengths and weakness of each technique and explain how they can be applied to advance how these techniques may be applied both in advanced scientific research and biotechnology development.",
+        "Understand and articulate advances in biomolecular imaging and structure determination."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Computer programming assignment 1 (1000-1500 words), contributing 25%. Addressing Intended Learning Outcomes  2&3.. 1 words",
+            "timing": "Week 4",
+            "percentage": "25%"
+        },
+        {
+            "description": "Computer programming assignment 2 (1000-1500 words), contributing 25%. Addressing Intended Learning Outcomes  2&3.. 1 words",
+            "timing": "Week 8",
+            "percentage": "25%"
+        },
+        {
+            "description": "Computer programming assignment 3 (1000-1500 words), contributing 25%. Addressing Intended Learning Outcomes  2&3.. 1 words",
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "Exam - End of Semester (1 hour), contributing 25%. Addressing Intended Learning Outcomes 1&4.. 1 minutes. Hurdle requirement:. To pass the subject students must obtain at least: 50% overall",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Ivanhoe Leung"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "9 x 1 hr lectures - Total 9 hours\r\n3 x 3 hour field trips - Total 9 hours\r\n18 x 2 hr computer based practical/tutorial - Total 36 hours\r\n\r\nTotal contact hours - 54 hrs"
+                },
+                {
+                    "Total time commitment": "160 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "ivanhoe.leung@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

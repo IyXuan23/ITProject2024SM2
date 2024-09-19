@@ -1,0 +1,111 @@
+{
+    "subject name": "Predictive Analytics",
+    "subject code": "BISY90016",
+    "subject availability": [],
+    "overview": [
+        "Predicting key business variables has become increasingly important, as it drives both objective decision-making and improved profitability within organisations. This subject covers the main methods used to predict business variables, based on historical data. These include traditional regression, time series analysis, forecasting models, survival analysis, data mining, support vector machines and sentiment analysis.  Throughout the subject, the focus will be on understanding how these methods are applied in various business problems, and identifying which predictive approach is the most appropriate to use, given a specific context.  The importance of benchmarking different methodologies, as well as the use of prediction in decision-making frameworks, will also be emphasised."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand a wide range of models and methodologies relevant to predicting business outcomes.",
+        "Apply appropriate modelling skills to business contexts such as resource allocation, product development and consumer behaviour.",
+        "Develop forecasting techniques to identify potentially attractive market and investment opportunities.",
+        "Translate forecasting outputs into insights that form the basis of recommendations addressing relevant business problems.",
+        "Determine which metrics to use in critiquing and comparing competing predictive methodologies.",
+        "Identify what additional data would be required to create more robust prediction models, given a certain business context"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90480",
+                    "BUSA90481",
+                    "BUSA90060",
+                    "BUSA90224",
+                    "BUSA90243",
+                    "BUSA90093",
+                    "BUSA90193",
+                    "BUSA90001"
+                ],
+                [
+                    "BUSA90026",
+                    "BUSA90227"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note: BUSA90026 and BUSA90227 are concurrent pre-requisite and may be done concurrently with the subject."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual assignment. 1000 words",
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "Syndicate assignment (equivalent to individual 1000 words assessment). 1000 words (each)",
+            "timing": "Week 8",
+            "percentage": "30%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours. Hurdle requirement:. Students are required to pass the exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "September": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "150 hours"
+                },
+                {
+                    "Pre teaching start date": "16 September 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during pre-teaching period"
+                },
+                {
+                    "Teaching period": "23 September 2024 to 29 November 2024"
+                },
+                {
+                    "Last self-enrol date": "14 July 2024"
+                },
+                {
+                    "Census date": "4 October 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "8 November 2024"
+                },
+                {
+                    "Assessment period ends": "6 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

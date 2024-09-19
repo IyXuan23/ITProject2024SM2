@@ -1,0 +1,65 @@
+subject name: Foundations of Algorithms
+
+subject code: COMP10002
+
+subject availability:
+  - Semester 1
+  - Semester 2
+
+overview:
+
+aims:
+  - In many projects, it is important for programmers to have fine control over low-level details of program execution, and to be able to assess the cost of a design decision on likely overall program performance. This subject introduces students to a system programming language that gives programmers this kind of control, explores a range of standard data structures and algorithmic techniques, and shows how to apply them to frequently encountered problems.
+
+indicative content:
+  - Introduction to computer organization
+  - Machine level representation of data
+  - Programming in a system programming language
+  - Pointers and dynamic memory allocation
+  - Program semantics and arguments about correctness
+  - Induction and recursion
+  - Basic searching algorithms (linear and binary)
+  - String algorithms (such as KMP, BMH, and index-based techniques)
+  - Basic sorting algorithms (such as selection sort, insertion sort, quicksort)
+  - Basic data structures (such as binary search trees and hash tables)
+  - Asymptotic complexity
+  - Standard software development tools such as debuggers.
+  - 
+
+pre-requisites:
+  option: Option 1
+  necessary pre-requisite: []
+  one of pre-requisite: [['COMP10001', 'COMP10003']]
+  additional pre-requisite: []
+  option: Option 2
+  necessary pre-requisite: []
+  one of pre-requisite: []
+  additional pre-requisite: ['Achieving at least 75% in a programming competency test.']
+
+corequisites: None
+
+non-allowed subjects:
+  - COMP20005
+
+assessments:
+  description: Problem Sets - 1-Hour (each). Week 2 to Week 9. Each student will be required to complete five exercises out of a total of eight made available, one associated with each of these eight weeks' workshop classes.. 1 hours. Hurdle requirement:. Please see below
+  timing: From Week 2 to Week 9
+  percentage: 5%
+  description: Quiz, held in Week 5 or Week 6.. 45 minutes. Hurdle requirement:. Please see below
+  timing: Mid semester
+  percentage: 15%
+  description: Two programming Assignments, 20% each, 20-30 hours each.. 20-30 hours (of work required). Hurdle requirement:. Please see below.
+  timing: Week 8 and 11
+  percentage: 40%
+  description: Exam. 1.5 hours. Hurdle requirement:. Please see below.
+  timing: During the examination period
+  percentage: 40%
+
+dates and times:
+  Semester 1: [{'Principal coordinator': 'Jianzhong Qi'}, {'Coordinator': 'Shaanan Cohney'}, {'Mode of delivery': 'On Campus (Parkville)'}, {'Contact hours': '60 hours, comprising of three 1-hour lectures and one 2-hour workshop per week'}, {'Total time commitment': '170 hours'}, {'Teaching period': '26 February 2024 to 26 May 2024'}, {'Last self-enrol date': '8 March 2024'}, {'Census date': '3 April 2024'}, {'Last date to withdraw without fail': '3 May 2024'}, {'Assessment period ends': '21 June 2024'}]
+  Semester 2: [{'Principal coordinator': 'Alistair Moffat'}, {'Coordinator': 'Artem Polyvyanyy'}, {'Mode of delivery': 'On Campus (Parkville)'}, {'Contact hours': '60 hours, comprising of three 1-hour lectures and one 2-hour workshop per week'}, {'Total time commitment': '170 hours'}, {'Teaching period': '22 July 2024 to 20 October 2024'}, {'Last self-enrol date': '2 August 2024'}, {'Census date': '2 September 2024'}, {'Last date to withdraw without fail': '20 September 2024'}, {'Assessment period ends': '15 November 2024'}]
+
+contact information:
+  Semester 1: {'name': ['Jianzhong Qi', 'Shaanan Cohney'], 'email': ['jianzhong.qi@unimelb.edu.au', 'cohneys@unimelb.edu.au']}
+  Semester 2: {'name': ['Alistair Moffat', 'Artem Polyvyanyy'], 'email': ['ammoffat@unimelb.edu.au', 'artem.polyvyanyy@unimelb.edu.au']}
+

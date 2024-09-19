@@ -1,0 +1,107 @@
+{
+    "subject name": "Advanced Corporate Finance",
+    "subject code": "FNCE40001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces a study of recent literature in a number of areas of financial management. Topics include real options, mergers and acquisitions, capital structure decisions, dividend policy, security analysis and design, and corporate hedging."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Aware of current state of academic research in different areas of corporate finance such as firms\u2019 corporate governance, executive compensation, capital structure and investment policy, and mergers and acquisitions, among others.",
+        "Be able to clearly understand the research methodologies and data sets commonly utilised in research in corporate finance.",
+        "Be able to critically evaluate research papers in these areas including in depth discussion of the published results as well as the limitations associated with them.",
+        "Be able to reflect on the state-of-knowledge in these areas and propose viable research questions capable to filling gaps in the literature"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "FNCE20005",
+                    ""
+                ]
+            ],
+            "additional pre-requisite": [
+                "Admission into the BH-COM Bachelor of Commerce (Degree with Honours)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Literature Review (due last Friday of the semester). 1500 words",
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Gabriele Lattanzio"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 3-hour seminar per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Gabriele Lattanzio:"
+                ],
+                "email": [
+                    "gabriele.lattanzio@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

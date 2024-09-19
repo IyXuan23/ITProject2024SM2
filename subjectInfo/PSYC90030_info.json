@@ -1,0 +1,108 @@
+{
+    "subject name": "Principles of Psychological Assessment",
+    "subject code": "PSYC90030",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces students who are studying clinical psychology or clinical neuropsychology at the graduate level to the principles and practice of psychological and neuropsychological assessment, covering childhood and adulthood. Current trends in the theoretical understanding of personality, psychopathology and cognitive ability will provide the conceptual basis assessment practice. It will be shown that psychological and neuropsychological assessment is best understood to include all aspects of the clinical encounter which lead to diagnostic case formulation. In particular, the subject content will address the application of techniques derived from psychological science to enhance correct classification of psychological conditions."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe a range of assessment techniques useful for the evaluation of psychological conditions in children and adults with an emphasis on cognitive ability assessment and the clinical contexts they are relevant in.",
+        "Demonstrate mastery of the principal criteria practicing psychologists use to evaluate the quality of psychological data, as they relate to the clinical assessment of\r\nindividuals."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "527CL Master of Psychology (Clinical Psychology)",
+                "527CN Master of Psychology (Clinical Neuropsychology)",
+                "080CL Master of Psychology (Clinical Psychology)/Doctor of Philosophy",
+                "080CN Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy",
+                "GD-CLINPSY Graduate Diploma in Clinical Psychology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A written report. 1000 words. Hurdle requirement:. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "A written examination. 1.5 hours. Hurdle requirement:. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. Hurdle requirement of at least 80% attendance at all coursework and seminar activities associated with this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Charles Malpas"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1.5 hours of lectures/seminars per week for a 12-week semester"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Charles Malpas"
+                ],
+                "email": [
+                    "charles.malpas@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Kaufman, A.S., & Lichtenberger, E.O. (2009). Essentials of WAIS-IV Assessment. John Wiley and Sons, New York.",
+                    "Anderson, V., Notrham, E., Hendy, J., & Wrennal, J. (2001) Developmental Neuropsychology: A Clinical Approach. London: Psychology Press."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

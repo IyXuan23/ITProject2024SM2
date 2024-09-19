@@ -1,0 +1,159 @@
+{
+    "subject name": "Korean 1",
+    "subject code": "KORE10001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject is designed for students with no Korean language background. Students will develop essential Korean language skills in order to be able to engage in basic social conversation. The subject will introduce the Korean writing system, Hangeul, and Korean romanisation. Students will also develop inter-personal skills and business manners in contemporary Korea. In addition, they will develop intercultural understanding of traditions, names, honorifics, rituals and societal conversation in everyday practice and the media."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Read and write Hangeul",
+        "Comprehend basic Korean language",
+        "Construct simple sentences to engage in casual conversation",
+        "Understand basic rules in social and business conversation in Korean"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Link"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "All students enrolling in Korean for the first time are required to complete the online language questionnaire/placement test at the link below. This applies to all students, from total beginners through to formal study, such as VCE or equivalent, or informally through family or overseas travel. Upon completion of the placement test, students will receive an email with the outcome and entry point. Within 5 working days of receiving the email, study plans will be updated and students will be able to self-enrol into the first subject of their entry point. The results of the test are binding and enrolment can only be changed with approval from the coordinator of the language major.",
+                "It is recommended that students undertake the language placement test at least two weeks prior to the commencement of semester."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Quiz. 400 words",
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written work. 500 words",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Mid-Semester test. 1000 words",
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "description": "Final written test. 1000 words",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Oral examination. 700 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Take-home assignment. 400 words",
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance of all classes.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. (Some assessment tasks may be treated differently and these will be highlighted by the Subject Coordinator in the LMS). All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Nicola Fraschini"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "47 hours.  Two 1.5-hour tutorials per week and 1-hour online lecture per week (lecture starts from week 2)."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "nicola.fraschini@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Fraschini, N. & Kim, H. (2022). Mission Accomplished: Korean 1. Seoul: Hawoo. ISBN: 979-11-6748-074-3"
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

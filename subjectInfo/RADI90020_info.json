@@ -1,0 +1,106 @@
+{
+    "subject name": "Diagnostic Radiology 4",
+    "subject code": "RADI90020",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject covers Nuclear Medicine and Paediatric imaging and pathology. It aims to enhance observational, analytical and communication skills of radiology trainees in their 3rd year of RANZCR training whilst simultaneously providing a comprehensive foundation in critical and evaluative skills in image interpretation.Students will acquire a broad range of competencies, knowledge and understanding of key radiological diagnoses across a variety of imaging modalities for effective patient management and care.Teaching methods include lectures and interactive tutorial case based sessions facilitated by subspecialist expert radiologists and pathologists, with a focus on case based learning blueprinted to the Royal Australian and New Zealand College of Radiologists (RANZCR) curriculum.Assessment tasks include; Oral case based and formal written examinations."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate an ability to accurately interpret both normal and common abnormal radiological findings on various imaging modalities  including Plain Xray, CT, ultrasound, MRI, Angiography; Nuclear medicine, including PET",
+        "Demonstrate an ability to recognize common pathologies relevant to radiology",
+        "Discuss the choice of imaging modality for common radiological conditions, taking into account radiation safety issues  (ALARA principles)",
+        "Successfully present written and oral radiology cases in a preparatory format for the RANZCR examination"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Oral Tutorial Case Presentation 1. 500 words",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Oral Tutorial Case Presentation 2. 500 words",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written Case Report examination. 2 hours",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Rapid Reporting Case Exam. 2000 words",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Patricia Desmond"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "pdesmond@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

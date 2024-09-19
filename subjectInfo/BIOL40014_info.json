@@ -1,0 +1,185 @@
+{
+    "subject name": "Advanced Coursework in Medical Biology",
+    "subject code": "BIOL40014",
+    "subject availability": [
+        "Semester 1 (Early-Start)",
+        "Semester 2"
+    ],
+    "overview": [
+        "The purpose of the advanced coursework is to develop professional and scientific skills necessary for general scientific inquiry. The knowledge gained will foster the student\u2019s capacity to identify questions and generate ideas as well as providing a framework for students to use in order to approach and validate their ideas. Students will develop an understanding of experimental design, approach and evaluation, and skills in critical analysis of published experimental data. Students will also develop skills in written and oral forms of scientific communication."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify major advances in biomedical research",
+        "Write about research and data using a scientific style of writing",
+        "Communicate research and data in oral presentations",
+        "Read scientific articles with critical assessment of the content",
+        "Develop the ability to understand and critically evaluate data obtained by other researchers",
+        "Understand experimental design and statistics and be able to apply good experimental design",
+        "Establish a strong foundation in statistics as it applies biomedical scientific data",
+        "Synthesise a logical frame for their own hypotheses based on the literature and propose experiments to clarify scientific questions or resolve contradictory reports",
+        "Understanding biomedical research through specialised lectures"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "BH-BMED Bachelor of Biomedicine (Degree with Honours)",
+                "BH-SCI Bachelor of Science (Degree with Honours)",
+                "MC-BMEDSC Master of Biomedical Science"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Journal Club presentation: 30mins presentation followed by 30mins student-led discussion with small group of peers. 60 minutes (total)",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written critique of Journal Article, submitted two weeks after presentation. 1500 words",
+            "timing": "From Week 5 to Week 14",
+            "percentage": "15%"
+        },
+        {
+            "description": "Participation (have read the article and contribute to group discussion). Hurdle requirement:. 100% Attendance at Journal clubs within a group (~5 one hour sessions)",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Experimental Design and Statistics Online Quizzes (3 x quizzes). 30 minutes (each)",
+            "timing": "From Week 5 to Week 11",
+            "percentage": "12%"
+        },
+        {
+            "description": "Experimental Design and Statistics plan. 1250 words",
+            "timing": "Mid semester",
+            "percentage": "13%"
+        },
+        {
+            "description": "Research Proposal, in the context of research experience to date, but not an assessment of research project itself (1,500 words plus figure). 1500 words",
+            "timing": "Late in the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Hurdle requirement:. 80% attendance at postgraduate Lecture series (12 one hour lectures)",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Principal coordinator": "Jess Borger"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "26"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "12 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "23 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Jess Borger"
+                },
+                {
+                    "Coordinator": "Kerry Ko"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours: 5 x 60min journal clubs; 12 x 60min postgraduate seminar series attendance; 3 x 60min Experimental Design and Statistics tutorials; and 4 x 60min workshops."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Subject Coordinator:"
+                ],
+                "email": [
+                    "borger.j@wehi.edu.au",
+                    "education@wehi.edu.au",
+                    "www.wehi.edu.au/education"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Subject coordinator:"
+                ],
+                "email": [
+                    "borger.j@wehi.edu.au",
+                    "education@weh",
+                    "i.edu.au",
+                    "www.wehi.edu.au/education"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.wehi.edu.au"
+        ]
+    }
+}

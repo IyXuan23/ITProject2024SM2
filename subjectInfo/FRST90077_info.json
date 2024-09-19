@@ -1,0 +1,128 @@
+{
+    "subject name": "Long Research Project B",
+    "subject code": "FRST90077",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "The Research Project develops a student\u2019s ability to design and undertake a substantial body of work, to find solutions to an issue, and to report on this in written and verbal form. The project topic is developed in close collaboration between student and academic supervisors. Project definition is completed shortly after commencement of the semester of enrolment in the subject, and requires approval from the subject coordination committee. Logistic assistance for projects is coordinated on a case-by-case basis. Each student prepares a short oral presentation on their project proposal, which is peer-reviewed, as well as a written proposal (5-8 pages) to be assessed by the subject coordination committee. A more detailed oral presentation is presented on the final results of the project to an audience of Faculty staff."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "An understanding of the processes and practice of research in forest science, horticultural science or urban ecology;",
+        "The application relevant scientific methods in a research context;",
+        "Appropriate scientific skills and knowledge in research framework;",
+        "Critical and independent thinking;",
+        "An enhanced understanding of applications of the subject area across a wide area;",
+        "Advanced oral and written communication skills; and",
+        "The ability to write clear and concise reports for industry, government agencies and other users of natural resource management information."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Undertaking a research project is conditional upon obtaining approval from a supervisor with consideration to appropriate subjects undertaken in their Masters"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Project Proposal. 2000 words",
+            "timing": "End of week 5 into the first semester of enrolment",
+            "percentage": "10%"
+        },
+        {
+            "description": "Thesis. 15,000 words",
+            "timing": "In the exam period in the semester of enrolment",
+            "percentage": "75%"
+        },
+        {
+            "description": "Oral Presentation. 20-30 minutes",
+            "timing": "By the end of the examination period in second semester of enrolment",
+            "percentage": "15%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Patrick Lane"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "25 hours per semester, 50 hours across the two semesters. Students may be required to attend a weekly workshop."
+                },
+                {
+                    "Total time commitment": "600 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Patrick Lane"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "25 hours per semester, 50 hours across the two semesters. Students may be required to attend a weekly workshop."
+                },
+                {
+                    "Total time commitment": "600 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

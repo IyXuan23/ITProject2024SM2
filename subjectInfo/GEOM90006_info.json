@@ -1,0 +1,168 @@
+{
+    "subject name": "Spatial Data Analytics",
+    "subject code": "GEOM90006",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Much of the world\u2019s data relates to processes and objects situated in space. Spatial data is a rich source of insights about patterns, processes, trends and behaviours in space and time. To tap into these insights, specialised statistical, analytical and computational techniques are required.",
+        "This subject exposes students to fundamental aspects of spatial analytics. Students are introduced to key techniques and principles for the analysis of point, area, and field data, covering concepts such as point pattern analysis, spatial autocorrelation and geostatistics. As part of putting these techniques and principles into practice, students learn computational thinking approaches and acquire technical software skills in a high-level scripting language (such as Python and R) that enable them to effectively address spatial data science problems across a variety of domains.",
+        "The subject partners with other subjects on spatial data management and visualisation and is of particular relevance to people wishing to establish a career in digital infrastructure, spatial information technology, or the quantitative environmental modelling or planning sectors.",
+        "The subject delivers underlying and cross-disciplinary concepts of geographic information science (GIS) and spatial analytics in managing environmental and infrastructure data, and the visual representation of spatial and temporal information. Relating these relevant concepts to applications through case study examples from various sectors such as digital infrastructure, spatial information technology, quantitative environmental modelling, urban sustainability, and planning. Defining and realizing a student-driven project employing a modern scripting language and spatial-temporal relationships of the observed data from real world.",
+        "Students will be provided with pointers and material to familiarise themselves with the tools used in this subject before the semester starts; this element of preparation is expected for successful participation in the subject. Advice will be provided on LMS.",
+        "Please view this video for further information:Spatial Data Analytics"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Distinguish and characterise spatial patterns and processes captured in infrastructure and environmental data;",
+        "Design and apply spatial analyses appropriate to given spatial processes, for example, urban sustainability and environmental management;",
+        "Implement and test data structures and analysis procedures for spatial data in a transparent, collaborative, reusable and replicable manner;",
+        "Interpret and critically evaluate a computational implementation of a spatial analysis project."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "GEOM90042"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment 1  Part 1: Programming skills task - Jupyter Lab / Notebook. 5 hours (documented code \u2013 no word equivalent). Intended Learning Outcome (ILO) 3 is addressed in this assessment.. 5 hours",
+            "timing": "Week 2",
+            "percentage": "2%"
+        },
+        {
+            "description": "Assignment 1 Part 2:  Programming skills task  -   Jupyter Lab /Notebook. 5 hours (documented code \u2013 no word equivalent).    (ILO) 3 is addressed in this assessment.. 5 hours",
+            "timing": "Week 3",
+            "percentage": "2%"
+        },
+        {
+            "description": "Assignment 2:  formative task \u2013 responses to around five questions representing the fundamentals of Assignment 2 . 5 hours (documented code \u2013 ~ 150 words equivalent).  (ILOs) 2 and 3 are addressed in this assessment.. 5 hours",
+            "timing": "Week 4",
+            "percentage": "2%"
+        },
+        {
+            "description": "Assignment 2:\r\nIndividual assessment of a spatial data analysis project. 25 hours (an equivalent of 1000 words).  (ILOs) 2 and 3 are addressed in this assessment.. 25 hours",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment 3: formative task \u2013 responses to around five questions representing the fundamentals of Assignment 3. 5 hours (documented code \u2013 ~150 words equivalent).  (ILOs) 2 and 3 are addressed in this assessment.. 5 hours",
+            "timing": "Week 6",
+            "percentage": "2%"
+        },
+        {
+            "description": "Assignment 3: \r\nIndividual assessment of a spatial data analysis project. 25 hours (an equivalent of 1000 words). (ILOs) 2 and 3 are addressed in this assessment.. 25 hours",
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Major Project Proposal:\r\nRequiring each team member to commit 10 hours (a contribution to the equivalent of 500 words) of work for the group project report, worth 5%. (ILOs) 1-4 are addressed in this assessment.. 10 hours",
+            "timing": "Week 9",
+            "percentage": "5%"
+        },
+        {
+            "description": "Major Project formative task \u2013 preliminary results on major project submitted early. \r\n\r\nRequiring each team member to commit 5 hours (a contribution to the equivalent of 150  words) of work for the group report, worth 2%.  (ILOs) 1-4 are addressed in this assessment.. 5 hours",
+            "timing": "Week 11",
+            "percentage": "2%"
+        },
+        {
+            "description": "Major Project:\r\nMajor spatial data analysis project requiring each team member to commit 40 hours (a contribution to the group report equivalent of 1500 words) of work for the group report, worth 35%.  (ILOs) 1-4 are addressed in this assessment.. 40 hours",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "description": "A 5-minute video presentation of the group project outcomes and the student's own contributions to the project, worth 10%. (10 Hours; a video equivalent of 500 words). (ILOs) 1-4 are addressed in this assessment.. 10 hours",
+            "timing": "During the examination period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Jagannath Aryal"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Jagannath Aryal"
+                ],
+                "email": [
+                    "jagannath.aryal@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "O'Sullivan, D. and Unwin, D.J. (2002).Geographic Information Analysis. Hoboken, NJ: John Wiley & Sons"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is based principally on presentations by academic lecturers. In addition each student prepares practical assignments. A computer laboratory equipped with industry-standard software will be used by students to undertake the tutorials.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "CAREERS / INDUSTRY LINKS",
+            "Spatial data analytics offers necessary skills to students to work in variety of disciplines such as digital infrastructure, geography, economics, social science, the environmental sciences and statistics."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

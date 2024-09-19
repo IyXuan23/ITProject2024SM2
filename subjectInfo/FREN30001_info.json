@@ -1,0 +1,170 @@
+{
+    "subject name": "French 7",
+    "subject code": "FREN30001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject rounds out the study of French by examining traditions that have shaped the understanding of what \u201cFrench\u201d is for French speakers around the world. This subject also provides students with a Work Integrated Learning opportunity. In this subject, students will develop advanced written and oral skills in French. Students will learn how to structure and present developed texts of various genres by the use of academic research. This will be done working with the theme, \u201cThe culture of the language\u201d in which French is viewed not only as the principal vehicle of French culture; it is also an object represented in and by that culture."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Use sophisticated oral and written French at level B2/C1 of the Common European Framework for Languages",
+        "Identify three specialised fields (19th, 20th, 21st century) in at least one of the three core areas of French literature, linguistics, and cultural (cinema) studies",
+        "Describe the wider literary or linguistic methods used in the specialist fields of French Studies (eg close reading) by developing analytical skills",
+        "Gain the capacity to engage in intercultural dialogue taking into consideration the diverse needs of the French Studies academic and professional communities",
+        "Locate and critically analyse pertinent research literature in both French and English through self-directed small research projects",
+        "Proficiently employ learning and research technologies in French and English."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "FREN10007",
+                    "FREN20002",
+                    "FREN30004"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "FREN20019",
+        "FREN10008"
+    ],
+    "assessments": [
+        {
+            "description": "An oral presentation in French including a reflective component.. 1000 words (equivalent)",
+            "timing": "From Week 8 to Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "A written task in French. 1000 words (total)",
+            "timing": "From Week 5 to Week 8",
+            "percentage": "30%"
+        },
+        {
+            "description": "A creative writing task in French. 1700 words",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "description": "4 online quizzes. 300 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Hurdle requirement:. 1.\tAttendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Sandrine Michel"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours: 2 x 2-hour tutorials per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "smichel@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    [
+                        "Material prepared by the French Program;",
+                        "Fred Vargas,Salut et libert\u00e9. suivi deLa Nuit des brutes(Paris, Flammarion, Coll Librio n\u00b0 547)."
+                    ]
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/soll"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Language Placement Test required",
+                    "Language Placement Test required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

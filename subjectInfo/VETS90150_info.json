@@ -1,0 +1,110 @@
+{
+    "subject name": "Wildlife, Aquaculture, Exotics and Pigs",
+    "subject code": "VETS90150",
+    "subject availability": [
+        "Semester 2 (Early-Start)"
+    ],
+    "overview": [
+        "This subject focuses on identification of disease and impacts of disease in wildlife, farmed and ornamental fish, small companion animals (such as rabbits, rodents and reptiles), and pigs. Content will include a focus on husbandry, statutory regulations, and development of diagnostic reasoning skills, and will encourage a comparative view of veterinary medicine and surgery."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the factors that affect the occurrence and impacts of disease in wildlife, fish, small companion animals (such as rabbits, rodents and reptiles) and pigs, including specific examples",
+        "Develop and communicate an effective plan for the husbandry of orphan marsupials, ornamental and farmed fish, small companion animals and pigs that addresses associated welfare issues",
+        "Recognise the clinical signs of common and important diseases in wildlife populations, farmed fish and pigs, describe the impacts of these diseases on the wider ecological and production systems, and apply principles of investigation, prevention and management of disease to these populations",
+        "Explain how to safely examine native Australian wildlife, fish, small companion animals and pigs, collect and interpret clinical history and physical examination findings and formulate a plan for the diagnosis and treatment of common diseases, taking into account prognostic, economic, public health and animal welfare considerations",
+        "Explain legal obligations in relation to treating wildlife in private veterinary practice and the statutory regulations applicable to the husbandry, welfare, disease control and use of therapeutic substances in fish"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "VETS90141"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written examination. 1 hours. Hurdle requirement:. Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the teaching period",
+            "percentage": "45%"
+        },
+        {
+            "description": "Written examination. 1 hours. Hurdle requirement:. Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the teaching period",
+            "percentage": "45%"
+        },
+        {
+            "description": "Group presentation (up to 20 minutes). 20 minutes. Hurdle requirement:. Students must attend and participate in the group presentations.",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Aggregate mark. Hurdle requirement:. Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Coordinator": "Jasmin Hufschmid"
+                },
+                {
+                    "Mode of delivery": "On Campus (Werribee)"
+                },
+                {
+                    "Contact hours": "30 hours of lectures, practical classes, seminars and workshops"
+                },
+                {
+                    "Total time commitment": "100 hours"
+                },
+                {
+                    "Teaching period": "8 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "19 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "huj@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

@@ -1,0 +1,148 @@
+{
+    "subject name": "GradDip Composition 2",
+    "subject code": "MUSI40013",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "There will be one major project related to the individual needs of the student, covering areas of compositional philosophy and technique, including electronic and computer music, aural training and directed listening."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "students will further develop their own individual working methods and habits, style, language and goals, be introduced to advanced techniques and equipment and be able to work with large scale and extended musical structures."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MUSI40012"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A 15-minute folio, written under supervision across the semester. 4800 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        },
+        {
+            "description": "Presentation of a concert of the student's own works, of approximately 15 minutes. 15 minutes",
+            "timing": "Held in the last 4 weeks of semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Composition process journal with reflection. 400 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Miriama Young"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "32 hours, comprising eight 1-hour individual lessons per semester and one 2-hour seminar per week."
+                },
+                {
+                    "Total time commitment": "255 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Miriama Young"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "32 hours, comprising eight 1-hour individual lessons per semester and one 2-hour seminar per week."
+                },
+                {
+                    "Total time commitment": "255 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Miriama Young:"
+                ],
+                "email": [
+                    "miriama.young@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Miriama Young:"
+                ],
+                "email": [
+                    "miriama.young@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

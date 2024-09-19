@@ -1,0 +1,117 @@
+{
+    "subject name": "Vet Bioscience: Metabolism",
+    "subject code": "VETS90125",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Using clinical cases to illustrate principles, this subject introduces students to the normal structure and function of the hepatobiliary, urinary and endocrine systems of the domestic animals, the disease processes that may affect these systems, and the causes and potential consequences of such disease. Students will develop skills in the clinical evaluation of the hepatic, urinary and endocrine systems, including the selection and analysis of diagnostic tests of these systems."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Compare and contrast the structure and function of the hepatobiliary, endocrine and urinary systems of different species",
+        "Explain the processes by which normal function of the hepatobiliary, urinary and endocrine systems may be disrupted, and predict the outcomes of these perturbations",
+        "Apply an understanding of the principles of pharmacokinetics to predict the effect of administered drugs",
+        "Apply an understanding of the mechanism of action of drugs that act on the urinary system to explain their use in the treatment of disease",
+        "Work collaboratively, communicate effectively, and apply an understanding of the structure and function of the hepatobiliary, urinary and endocrine systems in order to analyse and interpret clinical problems related to these systems in animals"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "VETS90121"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "Up to four online quizzes of case study exercises, each taking approximately 30 minutes to complete and each equally weighted. 2 hours",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group assignment. 500 words",
+            "timing": "End of semester",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written test. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Aggregate mark. Hurdle requirement:. Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Jenny Charles"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "90 hours of lectures, practical classes and case studies"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "charlesj@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

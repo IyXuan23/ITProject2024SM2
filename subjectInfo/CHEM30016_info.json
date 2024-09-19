@@ -1,0 +1,140 @@
+{
+    "subject name": "Reactivity and Mechanism",
+    "subject code": "CHEM30016",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The subject builds on the skills base established in CHEM20020 Structure and Properties. The concepts of quantum chemistry, statistical mechanics, molecular interactions and reaction kinetics will lay the fundamentals for the discussion of chemical reactions involving various types of reactive intermediates. The application of molecular orbital theory will be used to understand the nature of pericyclic reactions and the concept of coordination in main group (including carbon) and transition metal elements. An investigation of inorganic reaction mechanisms will focus on transformations involving coordination and organometallic complexes of d-block metals. Discussion of synthetic aspects will cover methods for carbon-carbon bond formation and functional group transformations, as well as principles of catalysis involving transition metal complexes and their chemistry in synthetic and biological systems."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Students will develop the conceptual framework needed to rationalise chemical reactivity in contexts ranging from isolated molecules, macromolecules to surface chemistry.",
+        "Learn important spectroscopic methods that underpin emerging areas of research in fields as diverse as materials science and biotechnology.",
+        "Upon completion, students will have obtained the chemical knowledge that enables them to successfully specialise in all different areas of chemical sciences."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CHEM20018",
+                    "CHEM20020"
+                ],
+                "Exchange students are required to contact the subject coordinator prior to enrolment."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Three equally weighted short tests, each of duration\u00a0no more\u00a0than 90 minutes. Each test will be made available in the final week of each 4 week block (weeks 4, 8 and 12). 90 minutes (each)",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "An exam. 3 hours",
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Trevor Smith"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week; 1 x one hour tutorial per week. Total 48 hours."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "trevoras@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "P Atkins and J De Paula,Atkins\u2019 Physical Chemistry, 10th Ed, Oxford University Press, 2014",
+                    "M. Weller, T. Overton, J. Rourke and F. Armstrong,Inorganic Chemistry, 6th Ed, Oxford University Press, 2014",
+                    "J. Clayden, N. Greeves and S. Warren,Organic Chemistry, 2nd Ed, Oxford University Press, 2012"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "It is recommended that students who plan to major in Chemistry to also have completed the following:",
+            [
+                "Mathematics and Statistics - two semesters of first year mathematics, for example MAST10005 Calculus 1, MAST10006 Calculus 2 and/or MAST10007 Linear Algebra.",
+                "Physics - VCE Units 3/4 12 Physics or equivalent, for example PHYC10005 Physics 1: Fundamentals"
+            ]
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Commerce",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

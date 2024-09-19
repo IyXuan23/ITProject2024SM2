@@ -1,0 +1,129 @@
+{
+    "subject name": "Short Research Project B",
+    "subject code": "FRST90076",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject enables students to conduct an original research topic, under supervision approved by the subject coordinator. The work commitment will be equivalent to lecture and practical based subjects worth 25 points. The content and extent of the project will be determined by a project supervisor in consultation with the student and subject coordinator. Students are strongly encouraged to initiate project ideas within existing networks or to identify a project topic of keen interest, through discussion with subject coordinator, prior to subject commencement. The project represents a capstone subject and comprises a review of a body of relevant literature, together with a critical evaluation of research or experimental protocols, a modest original experiment, or limited exploration of a scientific problem, or an investigation into a problem using an approved methodology. Following an initial workshop to establish subject expectations, deliverables and skill base requirements, projects may involve regular one hour meetings with their supervisor where students report on progress, difficulties and research plans. Other workshops will deliver skill development in oral and written report presentation.",
+        "Please note that students should enrol into both the Semester 1 and Semester 2 availabilities of this 12.5 subject to achieve the combined 25 point credit total."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "An understanding of the processes and practice of research in forest science, horticultural science or urban ecology;",
+        "The application relevant scientific methods in a research context;",
+        "Appropriate scientific skills and knowledge in research framework;",
+        "Critical and independent thinking;",
+        "An enhanced understanding of applications of the subject area across a wide area;",
+        "Advanced oral and written communication skills; and",
+        "The ability to write clear and concise reports for industry, government agencies and other users of natural resource management information."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Eligibility for honours or postgraduate degree - Undertaking a research project is conditional upon obtaining approval from a supervisor with consideration to appropriate subjects undertaken in their Masters"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Project Proposal due end of week 4. 1000 words",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Thesis. 7500 words",
+            "timing": "In the exam period in the semester of enrolment",
+            "percentage": "75%"
+        },
+        {
+            "description": "Oral Presentation. 10-15 minutes",
+            "timing": "By the end of the examination period in the second semester of enrolment",
+            "percentage": "15%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Patrick Lane"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "300 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Patrick Lane"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "300 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

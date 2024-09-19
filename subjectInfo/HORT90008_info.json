@@ -1,0 +1,119 @@
+{
+    "subject name": "Horticultural Plant Science",
+    "subject code": "HORT90008",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject considers the evolution of plants, their structure and function, how they reproduce, cell physiology, energy transformations, metabolism, photosynthesis, water and nutrient uptake and transport, plant nutrition and whole plant physiology.",
+        "Upon completion of this subject, students should be able to demonstrate their understanding of the structure of plant cells and tissues, the basic processes involved in the growth of plants and the integration of these processes in the physiology of plant growth."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Synthesise and evaluate information related to the cellular organisation, arrangement of plant tissues and structures and how they vary within and between phylogenetic lineages;",
+        "Describe and discuss how the local environment affects plant biochemistry, photosynthesis, respiration and transpiration;",
+        "Apply knowledge of plants to infer key limiting processes in specific contexts; and",
+        "Employ scientific processes to generate and review written laboratory reports."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Laboratory report 1 (equivalent to 1000 words). 1000 words",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Peer-to-peer feedback activity: individual peer-review of a laboratory report (up to a maximum of 750 words). 750 words",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "Laboratory report 2 (equivalent to 2500 words). 2500 words",
+            "timing": "Week 12",
+            "percentage": "45%"
+        },
+        {
+            "description": "A written examination equivalent to 1000 words. 1 hours",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Amy Hahs"
+                },
+                {
+                    "Mode of delivery": "On Campus (Burnley)"
+                },
+                {
+                    "Contact hours": "48 hours:  1 x 2 hour lecture per week  and 1 x 2 hour practical sessions per week over the semester"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Amy Hahs"
+                ],
+                "email": [
+                    "hahsa@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Evert, RF and Eichhorn, SE 2013 Raven Biology of Plants, 8th edn, WH Freeman, New York."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

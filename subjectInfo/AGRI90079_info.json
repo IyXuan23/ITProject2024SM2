@@ -1,0 +1,167 @@
+{
+    "subject name": "Minor Research Project Part 1",
+    "subject code": "AGRI90079",
+    "subject availability": [
+        "Semester 1 (Extended)",
+        "Semester 2 (Extended)"
+    ],
+    "overview": [
+        "The work will include a project proposal, researching an area of importance to an Agricultural industry. This will include a brief review of the body of scientific literature to provide context and rationale, together with an approach or protocol for a modest original experiment, or a limited exploration of a scientific problem. The proposal is a hurdle requirement and a pass (30% or more) is required to continue with this subject. Final reports and oral presentations will occur at the end of semester and orals will involve a mini-symposium where findings will be presented to project stakeholders and the student cohort.",
+        "Projects may involve regular 1-hour discussion groups where students report on progress, any problems and ongoing plans."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Undertake a major original research project as a capstone learning activity on a topic in a Faculty-supported disciplinary area",
+        "Integration and application of disciplinary knowledge and skills to an independently generated research question and investigation",
+        "Analyze and synthesize salient features and important theoretical, methodological and empirical trends in published literature and data",
+        "Present research findings in clear, concise and persuasive written and verbal forms"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "AGRI90075",
+                    "NRMT90003"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Undertaking a research project is conditional upon obtaining approval from a supervisor. Details regarding to the research area of academic supervisors and enrolment method, please visithttps://science.unimelb.edu.au/students/plan-your-study/agriculture-food-science-research-projects"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "AGRI90070",
+        "AGRI90072",
+        "AGRI90080",
+        "AGRI90082"
+    ],
+    "assessments": [
+        {
+            "description": "Project Proposal. 1500 words. Hurdle requirement:. A pass in the project proposal",
+            "timing": "Monday 9.00am of week 5 of first semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final Report due Monday 9.00am after the SWOTVAC period. 7500 words",
+            "timing": "At the end of second semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "Oral Presentation. 15 minutes",
+            "timing": "At the end of Semester 2",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended)": [
+                {
+                    "Principal coordinator": "Pangzhen Zhang"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "12 hours (overall total for enrolment in Part 1 and Part 2 across consecutive study periods)"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 30 June 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Principal coordinator": "Pangzhen Zhang"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "12 hours (overall total for enrolment in Part 1 and Part 2 across consecutive study periods)"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 24 December 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "24 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Extended)": {
+                "name": [],
+                "email": [
+                    "pangzhen.zhang@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Extended)": {
+                "name": [],
+                "email": [
+                    "pangzhen.zhang@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "Plan your study: Agriculture and Food Science Masters research projects"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

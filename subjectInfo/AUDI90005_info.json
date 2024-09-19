@@ -1,0 +1,124 @@
+{
+    "subject name": "Cochlear Implants",
+    "subject code": "AUDI90005",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "This course introduces students to the design principles of cochlear implants and the history of their development. All aspects of the clinical application of cochlear implants including audiological evaluation, medical issues, counselling, programming of devices and outcome measures are covered."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "apply audiological assessment techniques to accurately evaluate a severe to profoundly hearing impaired individual;",
+        "apply communication skills to effectively counsel candidates regarding cochlear implants;",
+        "apply communication skills to effectively rehabilitate/habilitate cochlear implant recipients;",
+        "apply audiological skills to manage and assess cochlear implants patients pre and post operatively;",
+        "develop a management plan for patients for whom a cochlear implant is not appropriate; and",
+        "understand the technical advances and limitations of cochlear implant technology."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AUDI90021",
+                    "AUDI90023",
+                    "AUDI90047",
+                    "AUDI90050"
+                ],
+                "For students completing 1st Year prior to 2021",
+                [
+                    "AUDI90023",
+                    "AUDI90021"
+                ],
+                "AUDI90015 Acoustics"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "For students completing 1st Year from 2021 onwards",
+                "AUDI90017 Perception of Sound & Speech"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A short answer test",
+            "timing": "Week 13 of semester 3",
+            "percentage": "15%"
+        },
+        {
+            "description": "A written assignment not exceeding 1500 words. 1500 words",
+            "timing": "Week 8 of semester 4",
+            "percentage": "25%"
+        },
+        {
+            "description": "A written examination. 2 hours. Hurdle requirement:. Students must pass the written exam to pass the subject.",
+            "timing": "At the end of semester 4",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Coordinators": "Michelle Todorov and Alexandra Walchhuetter"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Lectures and Practical Sessions: 34 hours. Clinics: 20 hours."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [
+                    "Dr. Michelle Todorov"
+                ],
+                "email": [
+                    "michelle.todorov@unimelb.edu.au",
+                    "alexandra.walchhuetter@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Nil"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

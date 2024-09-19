@@ -1,0 +1,115 @@
+{
+    "subject name": "Production Animal Health",
+    "subject code": "ANSC30006",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces students to the major factors influencing the health of production animals. Students will learn the principles of health, understand how to analyse data to identify disease, and investigate significant infectious and non-infectious causes of disease in production systems. Students will develop an understanding of how the type of production system will influence disease risk and development in production animals, and begin to understand how management of the whole production system is key in maximising animal health and production."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the different factors that can affect the health of production animals",
+        "Describe some of the important diseases of concern in the major production animal species in Australia",
+        "Demonstrate how management practices contribute to the risk of disease and to optimising the health of production animals",
+        "Determine the impact of disease in production animals by analysing animal health data",
+        "Apply knowledge that enables an assessment of the overall health status of production animals"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "AGRI20043",
+                    "BCMB20002",
+                    "BIOM20001"
+                ],
+                [
+                    "AGRI20044",
+                    "MIIM20001"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Mid semester examination. 1 hours",
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "description": "Online assessments based on case studies/workshops/practicals (total 4 of no more than 500 words each). 2000 words",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "Vern Bowles and Andres Diaz Mendez"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "60 hours: 2 hours of lectures and 3 hours of workshop/practicals per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "andres.diaz@unimelb.edu.au",
+                    "vmb@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "subject name": "Advanced Practice in Surgical Education",
+    "subject code": "MEDS90033",
+    "subject availability": [
+        "Semester 2 (Early-Start) - Online"
+    ],
+    "overview": [
+        "This subject provides Master of Surgical Education students with an opportunity to integrate learning from the Graduate Certificate and Graduate Diploma courses. It is a capstone activity in which students develop a surgical curriculum relevant to their surgical education practice. This activity enables students to apply theoretical knowledge gained through earlier course content.",
+        "The subject has two parts. First, the student conducts a needs assessment of stakeholders to establish the conditions and scope of the proposed curriculum. Second, students develop the curriculum considering all essential components. This must include program goals and outcomes, educational methods, target learners and their requisites, program content, faculty requirements, settings, equipment and other resources, assessment and an evaluation strategy. Depending on the nature of the curriculum, students may also include recruitment, selection, governance and other considerations.",
+        "Students will be expected to demonstrate effective academic writing skills in the presentation of their curriculum and high level communication skills in an oral presentation. Students will also be expected to reflect on their advanced educational practice through reflective writing."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Conduct a needs assessment with appropriate stakeholders for a new surgical curriculum",
+        "Design a new surgical curriculum for the student's practice",
+        "Apply theoretical concepts in the design of a new surgical curriculum",
+        "Critically evaluate educational methods for use in a new curriculum (e.g. problem-based learning, simulator-based skills development etc.)",
+        "Demonstrate application of specific curriculum components in a new surgical curriculum offering justification for decisions such as learning outcomes, lesson plans, assessment and evaluation strategies, governance etc.",
+        "Demonstrate documentation and oral presentation of a curriculum"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDS90006",
+                    "MEDS90007",
+                    "MEDS90008",
+                    "MEDS90009",
+                    "MEDS90011"
+                ],
+                [
+                    "MEDS90012",
+                    "MEDS90013",
+                    "MEDS90014",
+                    "MEDS90015",
+                    "MEDS90016",
+                    "MEDS90017",
+                    "MEDS90018"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written report on needs assessment. 2000 words",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Oral presentation of curriculum. 10 minutes",
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written presentation of curriculum. 6000 words",
+            "timing": "Week 11",
+            "percentage": "60%"
+        },
+        {
+            "description": "Written reflection on the development of the curriculum. 1000 words",
+            "timing": "Week 12",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 (Early-Start) - Online": [
+                {
+                    "Principal coordinator": "Debra Nestel"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "8 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "19 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Nestel, D., K. Dalrymple, J. Paige, and R. Aggarwal. Advancing Surgical Education - Theory, Evidence and Practice. Innovation and Change in Professional Education. Singapore: Springer Science+Business Media 2019.",
+                    "Swanwick, T., K. Forrest, and B. O\u2019Brien, eds. Understanding Medical Education: Evidence, Theory, and Practice. 3rd ed. Hoboken, NJ: Wiley-Blackwell, 2019."
+                ]
+            }
+        ]
+    }
+}

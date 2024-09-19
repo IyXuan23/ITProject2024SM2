@@ -1,0 +1,121 @@
+{
+    "subject name": "Condensed Matter Physics 4",
+    "subject code": "PHYC90013",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides an advanced introduction to condensed matter physics. The general topics covered are (i) experimental and theoretical aspects of the characterisation of condensed matter using electrons and x-rays and (ii) the quantum model of solids and its relevance to semiconductor and mesoscopic physics. Specific topics covered may include: (i) the imaging of condensed matter at the atomic level and (ii) the determination of how atoms are bonded; (iii) application of imaging beyond the nanoscale; (iv) magnetism; (v) superconductivity; (vi) the properties of semiconductor devices and (vii) mesoscopic systems."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Challenge students to expand their knowledge of condensed matter physics and provide a foundation for further advanced studies;",
+        "Broaden appreciation of how condensed matter physics integrates into the discipline of physics overall;",
+        "Develop an understanding of how condensed matter is characterised on the atomic scale;",
+        "Understand the role of quantum effects in micro- and meso-scopic systems and acquire a fundamental understanding of a range of physical phenomena in condensed matter systems."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHYC30018"
+                ],
+                [
+                    "PHYC30017"
+                ],
+                "Or equivalent."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Two assignments totalling up to 36 pages of written work, spaced equally. 36",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "One written examination. 4 hours",
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Jeffrey McCallum"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours comprising 3x one-hour lectures/week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "msc@physics.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

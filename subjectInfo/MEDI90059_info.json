@@ -1,0 +1,162 @@
+{
+    "subject name": "Advanced Echocardiography Interpretation",
+    "subject code": "MEDI90059",
+    "subject availability": [
+        "Semester 1 - Online",
+        "Semester 2 - Online"
+    ],
+    "overview": [
+        "This subject will outline how formally report diagnostic echocardiography studies, using a custom designed database reporting system. There will be 50 case studies to be reported.",
+        "Topics include:",
+        "Principles of Echocardiography Reporting",
+        "Use of Echocardiography Report Database",
+        "Reporting Case Studies-50 Cases"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the principles of echocardiography reporting",
+        "Understand how to use the echocardiography report database",
+        "Interpret and reporting 40 case studies"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "GD-CLINUS Graduate Diploma in Clinical Ultrasound",
+                "GD-CLINUS Graduate Diploma in Clinical Ultrasound",
+                "This subject is not available for students admitted in any other courses."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One open - book multiple choice examination consisting of 50 questions which are likely to include case study diagnoses and image interpretation and measurement, students will have 1 week to complete the examination",
+            "timing": "During the assessment period",
+            "percentage": "80%"
+        },
+        {
+            "description": "Completion of self assessment modules at the end of each tutorial",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "Off Campus, Online"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - Online": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "Off Campus, Online"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "https://study.unimelb.edu.au/find/courses/graduate/graduate-diploma-in-clinical-ultrasound/"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "https://study.unimelb.edu.au/find/courses/graduate/graduate-diploma-in-clinical-ultrasound/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Royse C, Donnan G, Royse A. Pocket Guide to Perioperative and Critical Care Echocardiography. 2006; McGraw-Hills"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Other materials will be provided as a package of readings, PowerPoint presentations and case studies."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Administration is via e-mail."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

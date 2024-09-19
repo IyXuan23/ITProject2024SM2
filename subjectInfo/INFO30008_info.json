@@ -1,0 +1,130 @@
+{
+    "subject name": "Interactive Technology Project",
+    "subject code": "INFO30008",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "As the 25pt capstone for the Digital Technologies Major, this subject creates an opportunity for students to work as an independent team to develop and evaluate a novel proposal for a new interactive technology or new application of existing technologies. The group will work under a supervisory framework and be given regular briefings on their activities and expected progress. Using knowledge and techniques from INFO10003 Fundamentals of Interaction Design, the group will identify and analyse an existing situation of use, develop a \u2018design concept\u2019, and a digital prototype to realise part of that concept. Using knowledge and techniques from INFO20004 Usability Evaluation Methods, the group will conduct an evaluation of their prototype and interpret the resulting findings. Students will learn how to develop a technology innovation proposal for their design concept that builds on evaluation findings to mount a business case."
+    ],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Be able to identify, formulate and communicate a high-level design concept for an innovative interactive technology",
+        "Be able to devise a clear set of requirements and opportunities for new digital technologies in a specific real-world context",
+        "Be able to develop a detailed and viable project plan for the full life-cycle of design-build-evaluate of a digital technology",
+        "Develop experience of executing a digital technology prototyping project",
+        "Be able to apply and adapt previously learned evaluation methods to a specific digital project and to determine to extent to which requirements have been met",
+        "Develop and construct a persuasive case for the full development of a design based on the demonstrated evidence of a prototyping project"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "INFO20004",
+                    "INFO20005"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1 \u2013 Opportunity Identification and Digital Prototyping: Group project (3-5 students). The group will identify a new opportunity for interactive technology design, with an associated context of potential users. A design concept will be developed, and a prototype will be designed and built to reflect some part of the design concept. The work is submitted as a written and illustrated report (4000 words - 20%) and a presentation (10 minutes - 10%), requiring approximately 50 hours of work per student. Addressing Intended Learning Outcomes (ILO's) 1, 2 & 3.. 50 hours",
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "description": "Assignment 2 - Evaluation of digital prototype: Group project (3-5 students) building on Assignment 1. The group will plan and conduct a usability evaluation of their digital prototype, using chosen evaluation techniques. The work is submitted as written and illustrated report of evaluation findings and design recommendations (4000 words - 20%) and a presentation (10 minutes \u2013 10%), requiring approximately 50 hours of work per student. Addressing ILO's 3, 4 & 5.. 50 hours",
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "Assignment 3 - An individually submitted digital innovation proposal (of 3000 words) which presents a business case for a new digital technology based on the evidence of the prototype developed during semester, and requiring 20 hours of work. Addresses ILO 6.. 20 hours. Hurdle requirement:. Assignment 3 is a hurdle and must be passed to pass the subject.",
+            "timing": "Week 12",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Wally Smith"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 3-hour seminar per week"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Wally Smith"
+                ],
+                "email": [
+                    "wsmith@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Teaching and Learning Methods",
+            "This subject will be delivered through a weekly seminar."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

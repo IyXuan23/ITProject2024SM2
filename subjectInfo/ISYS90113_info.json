@@ -1,0 +1,156 @@
+{
+    "subject name": "Information Systems Res Project Pt 1",
+    "subject code": "ISYS90113",
+    "subject availability": [
+        "Semester 1 (Extended)",
+        "Semester 2 (Extended)"
+    ],
+    "overview": [],
+    "aims": [
+        "Students undertake an original investigation of a topic relevant to Information Systems (or cognate discipline). Specific research projects will depend on the availability of appropriate expertise but may address a range of issues within Information Systems research.",
+        "IS MAJOR Research Project",
+        "Under the supervision and guidance of an academic researcher, students are required to design and conduct a research investigation. This would typically involve conducting a literature review to identify a research question, selecting an appropriate data gathering method to address this question, executing data collection, analysing data, and evaluating the outcome of the study both in terms of its limitations and against the existing literature. A systematic literature review would not usually be considered sufficient for this type of project. The results will be reported as a thesis and in a public presentation. In some instances, it is expected that the results will also be submitted for publication in a conference or journal. Students would normally undertake Information Systems Project Part 1 in their first semester of research and then the other 3 Information Systems Research subjects Part 2, 3, and 4 concurrently in the second semester of research."
+    ],
+    "indicative content": [
+        "Research will be conducted on a topic of mutual interest under the guidance of an experienced Information Systems researcher."
+    ],
+    "intended learning outcomes": [
+        "A comprehensive understanding of the process and practice of research in Information Systems",
+        "Research maturity, including the ability to independently carry out a literature review, and develop a method for undertaking research in information systems",
+        "Developed expertise in the area of their research project",
+        "Completed a substantial piece of original research that demonstrates critical thinking and analytical skills to apply theory to an information systems research project; and",
+        "The necessary skills for further advanced research in Information Systems (e.g. in doctoral studies)"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "COMP90044"
+                ],
+                "Permission from the MIS course coordinator."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "In addition, no candidate will be allowed to enrol until a topic has been negotiated with a supervisor, a supervisor has agreed to supervise, and the topic approved by the MIS course coordinator. This approval must be obtained well prior (at least 2 weeks) to the start of a semester. To meet this deadline, candidates are strongly advised to start selecting and negotiating topics and supervisors once they have completed COMP90044."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A thesis of approximately 12,000-14,000 words.\r\nSupervisors will set mid-project milestones as a hurdle requirement to determine successful progress. These milestones are not a separate assessment but will form part of the thesis work. Intended Learning Outcomes (ILO's) 1 to 5 are addressed in the thesis.. 600 hours. Hurdle requirement:. The thesis is a hurdle and must be passed to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "90%"
+        },
+        {
+            "description": "An oral presentation of 15 minutes in the presence of the research project supervisors. To be completed in week 12 of the 4th IS Research Subject. ILO's 1 to 5 are addressed in the oral presentation.. 50 hours. Hurdle requirement:. The presentation is a hurdle and must be passed to pass the subject.",
+            "timing": "Week 12",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended)": [
+                {
+                    "Principal coordinator": "Abel Armas Cervantes"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 30 June 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Principal coordinator": "Abel Armas Cervantes"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 24 December 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "24 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Extended)": {
+                "name": [
+                    "Abel Armas Cervantes"
+                ],
+                "email": [
+                    "abel.armas@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Extended)": {
+                "name": [
+                    "Abel Armas Cervantes"
+                ],
+                "email": [
+                    "abel.armas@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Teaching and Learning Methods",
+            "This subject is an individual research project and weekly contact hours are arranged between students and supervisors"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": []
+    }
+}

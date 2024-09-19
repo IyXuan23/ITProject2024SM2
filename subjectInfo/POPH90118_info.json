@@ -1,0 +1,121 @@
+{
+    "subject name": "Clinical Biostatistics",
+    "subject code": "POPH90118",
+    "subject availability": [
+        "Semester 1 - Online"
+    ],
+    "overview": [
+        "Clinical trials (equivalence trials, cross-over trials); Clinical agreement (Bland-Altman methods, kappa statistics, intraclass correlation); Statistical process control (special and common causes of variation; quality control charts); Diagnostic tests (sensitivity, specificity, ROC curves); Meta-analysis (systematic reviews, assessing heterogeneity, publication bias, estimating effects from randomised controlled trials, diagnostic tests and observational studies).",
+        "",
+        "",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "To enable students to use correctly statistical methods of particular relevance to evidence-based health care",
+        "To advise clinicians on the application of these methods and interpretation of the results"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST90100",
+                    "POPH90014"
+                ],
+                "Note: the following subject/s can also be taken concurrently (at the same time)",
+                [
+                    "MAST90102"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One written assignment. 2000 words",
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "description": "One written assignment. 2000 words",
+            "timing": "Week 10",
+            "percentage": "35%"
+        },
+        {
+            "description": "One written assignment. 2000 words",
+            "timing": "Week 12",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinator": "John Carlin"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "john.carlin@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None",
+                    "Resources Provided to Students:Printed course notes and assignment material by mail, email, and online interaction facilities",
+                    "Special Computer Requirements:Stata statistical software."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is delivered online via our partners in the Biostatistics Collaboration of Australia (www.bca.edu.au). It is not generally available in the Master of Public Health nor in any program outside the MSPGH."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.pgh.unimelb.edu.au"
+        ]
+    }
+}

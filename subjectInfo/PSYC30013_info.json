@@ -1,0 +1,129 @@
+{
+    "subject name": "Research Methods for Human Inquiry",
+    "subject code": "PSYC30013",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "In this subject, students will acquire research skills and methods to critically investigate, measure and assess psychological research. In addition, students will acquire an understanding of fundamental principles in the psychological assessment of individual traits and dispositions. Emphasis will be placed on how (a) the skills and techniques being taught are tools for gathering evidence relating to real-world problems that are typically encountered in the psychological sciences and (b) meaningful inferences can be generalised beyond the particular sample data at hand. Topics to be covered may include research design, implementation, and evaluation; techniques for measuring human behaviour, emotions, and interactions; the application of relatively simple quantitative models to data in order to identify group differences, associations, and predictions.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "The translation of research questions into appropriate methods of investigation.",
+        "The application of different types of quantitative methods to real-world problems.",
+        "The fundamental principles of individual and group-based psychological assessment."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Assignment 1 (SAQ and data analysis). 1200 words",
+            "timing": "From Week 2 to Week 5",
+            "percentage": "30%"
+        },
+        {
+            "description": "Assignment 2 (SAQ and data analysis). 1600 words",
+            "timing": "From Week 6 to Week 9",
+            "percentage": "40%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance of at least 80% of laboratory classes.\r\n\u00a0\r\n\r\nIn case of failure to meet the hurdle requirement, additional work related to the missed class activities (e.g., short 500 word essay on missed topic) will be required before a passing grade can be awarded.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Andrew Perfors"
+                },
+                {
+                    "Coordinator": "Andrew Legg"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Principal Coordinator:"
+                ],
+                "email": [
+                    "rmhi-armp@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "No prescribed texts."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ]
+    }
+}

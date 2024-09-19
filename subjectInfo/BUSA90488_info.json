@@ -1,0 +1,105 @@
+{
+    "subject name": "Business in Complex Environments",
+    "subject code": "BUSA90488",
+    "subject availability": [
+        "March"
+    ],
+    "overview": [
+        "This subject is intended as an \u2018integrative\u2019 capstone course, and as such does not introduce to the students substantial new material; but rather, provides them with a vehicle for applying and integrating the knowledge and skills they have already acquired. In particular, groups of students will be asked to undertake an exercise that simulates the management of a firm in preparation for their transition back into the workplace. They will also be asked to reflect on an integrative activity they have undertaken during their degree."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "use existing financial, accounting, production and marketing data in order to develop a forward looking business plan,",
+        "evaluate the inflow of information to adapt and change their operating plans in response to changing circumstances.",
+        "use the available financial, accounting, production and marketing information to assess and diagnose the results of their decisions, and",
+        "cogently explain and defend their decisions."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90482",
+                    "BUSA90483",
+                    "BUSA90487",
+                    "IBUS90005"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Pre-course work completion. Hurdle requirement",
+            "timing": "To be submitted prior to the week of intensive classes",
+            "percentage": "5%"
+        },
+        {
+            "description": "Syndicate assignment, success measures",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Syndicate-based initial plan for the project, equivalent to 1000 words for an individual. 1000 words (each)",
+            "timing": "Mid-way through the subject",
+            "percentage": "25%"
+        },
+        {
+            "description": "Collective research report and presentation plus a component for syndicate performance in the simulation, report equivalent to 1,500 words for an individual. 20 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Individual assessment, CompXm individual competition. Hurdle requirement:. Students are required to pass the assessment to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "March": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Teaching period": "11 March 2024 to 15 March 2024"
+                },
+                {
+                    "Last self-enrol date": "12 March 2024"
+                },
+                {
+                    "Census date": "12 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "14 March 2024"
+                },
+                {
+                    "Assessment period ends": "15 March 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students admitted in MC-BA."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

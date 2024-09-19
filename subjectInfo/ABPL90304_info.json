@@ -1,0 +1,126 @@
+{
+    "subject name": "Flexible Urban Modelling",
+    "subject code": "ABPL90304",
+    "subject availability": [],
+    "overview": [
+        "This elective focuses on integration of geospatial data into iterative, procedural, rapid, large-scale design modelling, using a range of emerging tools including GIS, 3D modelling, CIM (Civil Information Models) and associated scripts and plugins. In this subject you will develop methods to model and interact with complex built form, difficult terrains and integrate social, environmental, and ecological data into your design decision-making.",
+        "This subject offers an opportunity to build upon prior skills and interest in areas such as biomorphic form making, 3D printing, photogrammetry, agent-based simulation, particle systems, material networks, online mapping, GIS analysis, motion graphics and performance-based design. It is recommended for students of urban design, landscape architecture, and architecture.",
+        "Prescribed software programs with no costAutodesk Civil 3DAutodesk 3Ds MaxQGIS (Opensource)Prescribed software programs with a costChaos Group VrayPrescribed software toolsLayout softwareDetails of software availability and pricing are captured at:https://msd.unimelb.edu.au/current-students/student-experience/it-support"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the strengths and limitations of working between GIS based data and cartesian modelling environments.",
+        "Understand a range of possibilities for spatial data to inform design decisions and design modelling.",
+        "Engage with and apply a variety of emerging spatial modelling technologies to address design objectives in both complex existing conditions and to future climate, density and transport projections.",
+        "Develop practical, rapid and refined, knowledge capture and presentation techniques for design communication and design modelling, including visualising data in online map platforms."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-URPL Master of Urban Planning",
+                "MC-URBDES Master of Urban Design",
+                "MC-ARCH Master of Architecture",
+                "MC-LARCH Master of Landscape Architecture",
+                "MC-PROPUP Master of Property/Master of Urban Planning",
+                "MC-CM Master of Construction Management",
+                "MC-UPUD Master of Urban Planning/Master of Urban Design",
+                "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+                "MC-LARCHUD Master of Landscape Architecture/Master of Urban Design"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "How to  guide. 1000 words (equivalent)",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Design research project poster or video. 1500 words (equivalent)",
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "Video Workflows. 2500 words (equivalent)",
+            "timing": "Week 12",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Nano Langenheim"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "nano.langenheim@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Reader will be available online"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Incidental costs:",
+            "You will predominantly use Autodesk software\u2019s 3ds Max and  AutoCAD  which is available free to studentshttps://www.autodesk.com/education/free-software/featured",
+            "Quantum Geographic Information Systems (QGIS) is also free software, and can be downloaded using the following instructions:https://www.youtube.com/watch?v=Q61LSk9n3U8&list=PLxhO2rXtBrKEwCHRYXXs8aQ3SswxXOTR8&index=2&t=0s",
+            "Adobe Creative Cloud (CC) can be purchased on monthly basis.",
+            "Most other plugins and scripts are available free though we are also in the process of sourcing / negotiating home licences for others for which the university has licences.",
+            "Subject note:In 2020, this subject will be taught online. To allow for this you will need the following:",
+            "A PC (Window Operating System) desktop/laptop that complies with the MSD recommendations with a webcam, headphone and microphone please refer:https://msd.unimelb.edu.au/current-students/student-experience/it-support"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://msd.unimelb.edu.au/master-urban-design"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

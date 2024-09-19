@@ -1,0 +1,128 @@
+{
+    "subject name": "Advanced Materials",
+    "subject code": "MCEN90052",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Students will learn about the mechanical behaviour and structure of materials, from the continuum  modelling of properties to  the microscopic origin of the behaviour with reference to available and  appropriate multiscale modelling techniques.",
+        "The subject will cover the microstructure\u2010property relation in elastic and plastic deformation, timedependent deformation (creep)and failure in materials with emphasis on engineering materials. The  diverse mechanical behaviour will be discussed for differentmaterials classes, including metals, functional materials, architectured materials, composites and polymers."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Illustrate the origins of materials' strength.",
+        "Explain the structure-property-processing relation in the mechanical behaviour of materials.",
+        "Explain linear elastic properties of materials.",
+        "Explain multiscale character of plasticity and failure in materials.",
+        "Establish links between theoretical concepts and observed phenomena; identify problems and formulate informed solution strategies.",
+        "Recommend appropriate models for mechanical strength.",
+        "Interpret materials failure and deduce the cause of failure.",
+        "Expand their analytical and cognitive skills through learning experiences in an interdisciplinary field.",
+        "Describe contemporary issues in the research on mechanical behaviour of materials."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MCEN90014"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Group project and report, requiring 40 hours of work per student. Intended Learning Outcomes (ILOs) 1-9 are addressed in this assessment.. 40 hours",
+            "timing": "From Week 4 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written Assignment - individual problem solving; max 1000  words,  requiring  24 hours of  work. ILOs 1-9 are addressed in this assessment.. 24 hours (of work required)",
+            "timing": "From Week 4 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written Exam ILOs 1-4, 6-9 are addressed in this assessment.. 2 hours. Hurdle requirement:. Students must pass the exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Weekly individual quiz. ILOs 1-4, 6-9 are addressed in this assessment.. 12 hours",
+            "timing": "From Week 1 to Week 12",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Christian Brandl"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures and 12 hours of tutorials"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Dr Christian Brandl"
+                ],
+                "email": [
+                    "christian.brandl@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

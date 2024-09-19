@@ -1,0 +1,164 @@
+{
+    "subject name": "Engineering Entrepreneurship",
+    "subject code": "ENGR90026",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject is available as an elective in many of the Faculty of Engineering and IT Masters programs. It is aimed both at students who have immediate entrepreneurial intentions and at students who may be considering starting their own business at some point in their careers. The subject is designed to introduce all participants to their potential as entrepreneurs. By developing their own enterprise proposal within small groups, students will learn and demonstrate various processes by which successful new ventures move from idea to launch."
+    ],
+    "indicative content": [
+        "Business modelling, opportunity analysis, value creation, financial management, sources of finance, creativity, innovation, entrepreneurial behaviour, successful engineering entrepreneurs.",
+        "TEACHING METHOD",
+        "The teaching method is based around a structured process of mini-lectures, class exercises, and active hands-on learning by doing. Intensive field research and minimum viable product development are very important to the subject. Learning is further enhanced through meetings with the lecturer and review by peers."
+    ],
+    "intended learning outcomes": [
+        "Describe, explain, and apply the major concepts and theoretical frameworks that explain entrepreneurial behaviour and success",
+        "Create, identify, validate, and pursue opportunities for new businesses",
+        "Prepare, present, test, and utilise a scalable, repeatable business model to create a new venture",
+        "Identify the sources of finance for new ventures, and be able to sell a business concept to potential funding sources",
+        "Create value for themselves, investors, customers, employees, and society as a whole by working on a business and not just in a business"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 100 credit points of study or equivalent advanced standing."
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:MC-CIVENG Master of Civil EngineeringMC-CHEMENG Master of Chemical EngineeringMC-MECHENG Master of Mechanical EngineeringMC-SOFTENG Master of Software EngineeringMC-SPATENG Master of Spatial EngineeringMC-ENG Master of EngineeringMC-ELECENG Master of Electrical EngineeringMC-DINFENG Master of Digital Infrastructure EngineeringMC-MTRNENG Master of Mechatronics Engineering",
+                "MC-CIVENG Master of Civil Engineering",
+                "MC-CHEMENG Master of Chemical Engineering",
+                "MC-MECHENG Master of Mechanical Engineering",
+                "MC-SOFTENG Master of Software Engineering",
+                "MC-SPATENG Master of Spatial Engineering",
+                "MC-ENG Master of Engineering",
+                "MC-ELECENG Master of Electrical Engineering",
+                "MC-DINFENG Master of Digital Infrastructure Engineering",
+                "MC-MTRNENG Master of Mechatronics Engineering",
+                "MC-CIVENG Master of Civil Engineering",
+                "MC-CHEMENG Master of Chemical Engineering",
+                "MC-MECHENG Master of Mechanical Engineering",
+                "MC-SOFTENG Master of Software Engineering",
+                "MC-SPATENG Master of Spatial Engineering",
+                "MC-ENG Master of Engineering",
+                "MC-ELECENG Master of Electrical Engineering",
+                "MC-DINFENG Master of Digital Infrastructure Engineering",
+                "MC-MTRNENG Master of Mechatronics Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "761EM Master of Engineering Management"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written Assignment\r\nProposal for a start-up enterprise (maximum 5000 words) and the presentation of that proposal (15 minutes) in the final class session.  Group submission - submitting the draft in Week 9 and the final version in Week 12. Intended Learning Outcomes (ILOs) 1 to 5 are addressed in this assessment.. 45 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "35%"
+        },
+        {
+            "description": "Participation  will be measured by mini-lecture attendance and engagement, and by attending scheduled meetings with the lecturer. Students are also required to do a peer review of the contribution of their team members.\r\nIntended Learning Outcomes (ILOs) 1 to 5 are addressed in this assessment.. 25 hours (of work required). Hurdle requirement:. Students must participate in at least 80% of the interactive mini-lectures and must attend at least 80% of the scheduled meetings with the lecturer.  Students must submit a valid peer review of the members of their project team.",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written Assignment\r\nPersonal plan for the future. Individual submission of up to 2,000 words in total. Intended Learning Outcomes (ILOs) 1, 2 and 5 are addressed in this assessment.. 20 hours (of work required)",
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group Presentation\r\n\"Lessons Learned\" video. Group submission. Intended Learning Outcomes (ILOs) 3 and 4 are addressed in this assessment.. 25 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Felix Hui"
+                },
+                {
+                    "Coordinator": "Sam Pitruzzello"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total 36 hours (2 x 1.5-hour workshops per week)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:",
+                    ""
+                ],
+                "email": [
+                    "sam.pitruzzello@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Scaling Lean by Ash Maurya (Portfolio/Penguin 2016, ISBN 97811019890521)"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "The Startup Owner\u2019s Manual by Steve Blank and Bob Dorf, 2012, K&S Ranch Inc Publishers, ISBN 978-0-9849993-0-9Business Model Generation by Alexander Osterwalder and Yves Pigneur, 2010, Wiley, ISBN 978-0470-87641-1The Lean Startup by Eric Ries, Crown Business 2011, ISBN 978-0-307-88789-4",
+                    "Running Lean by Ash Maurya, Orielly Media Second Edition 2012, ISBN 978-1-449-30517-8"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "Learning will take place through a series of interactive workshops with the workshop leader as well as outside speakers.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "A reading pack will be made available to enrolled students ahead of the semester. Additional reading material will be available throughout the semester.",
+            "CAREERS / INDUSTRY LINKS",
+            "Successful engineering entrepreneurs will give guest presentations during the subject. Students successfully completing the subject will be able to use the skills they have gained to take their ideas further, whether in a startup or in an established organisation."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

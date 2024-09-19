@@ -1,0 +1,88 @@
+{
+    "subject name": "Predictive Business Analytics",
+    "subject code": "BUSA90541",
+    "subject availability": [
+        "May"
+    ],
+    "overview": [
+        "Predicting key business and economic variables is increasingly important, as it drives both objective decision-making and improved profitability. This component aims to cover the main methods used to predict business and economic variables, based on historical data. These include traditional regression, time series, multivariate and econometric models, as well as emerging methods such as ensemble forecasts. Both point and density prediction will be considered, along with metrics for the quality of both. Throughout, the focus will be on introducing methods in the context of substantive business and economic problems, using a wide range of prediction methods. The importance of benchmarking different methodologies, and the use of prediction in decision-making frameworks, will also be stressed."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand a wide range of models and methodologies relevant to predicting business outcomes.",
+        "Apply appropriate modelling and forecasting techniques to business and economic contexts, and to critique and compare competing methodologies.",
+        "Translate forecasting outputs to information and provide recommendations to address the relevant business problems."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90536"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual assignment. 1000 words",
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "description": "Syndicate assignment. 1500 words (equivalent)",
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "description": "Final examination. 2 hours. Hurdle requirement:. Students are required to pass the final examination to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "May": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "27 May 2024 to 19 July 2024"
+                },
+                {
+                    "Last self-enrol date": "6 June 2024"
+                },
+                {
+                    "Census date": "14 June 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "5 July 2024"
+                },
+                {
+                    "Assessment period ends": "26 July 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,118 @@
+{
+    "subject name": "Particle Physics",
+    "subject code": "PHYC90011",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Particle Physics is the study of the elementary constituents of matter, and the fundamental forces of nature. The subject introduces modern elementary particle physics, with an emphasis on the theoretical description of the Standard Model of Particle Physics and its experimental basis. Specific topics may include basic group theory; parity and CP violation; global and local symmetries; non-abelian gauge theory; QCD and the quark model; running coupling constants and asymptotic freedom; spontaneous symmetry breaking and the Higgs mechanism; the complete Standard Model Lagrangian; interactions of particles with matter; accelerators and detectors; deep inelastic scattering and structure functions; flavour mixing and neutrino oscillations."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "to introduce the experimental motivation and theoretical framework of the Standard Electroweak theory and QCD;",
+        "to understand the role that global and local symmetries play in modern elementary particle physics and to become acquainted with the concept of symmetry breaking;",
+        "to develop tools to enable the quantitative calculation of tree-level electroweak cross-sections;",
+        "to provide a foundation for more advanced studies in particle physics."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHYC90007",
+                    "PHYC90008"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Up to four assignments totalling up to 36 pages of written work, spaced equally. 36 pages",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "One written examination. 4 hours",
+            "timing": "End of semester",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Jeffrey McCallum"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours comprising 3 one-hour lectures/week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "msc@physics.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

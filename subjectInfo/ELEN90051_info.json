@@ -1,0 +1,146 @@
+{
+    "subject name": "Advanced Communication Systems",
+    "subject code": "ELEN90051",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "The aim of this subject is to develop a thorough understanding of the main concepts, techniques and performance criteria used in the analysis and design of digital communication systems and wireless networks.Such systems and networks lie at the heart of the information and communication technologies (ICT) that underpin modern society and are very much part of the Internet of Things which involves machine to machine communication."
+    ],
+    "indicative content": [
+        "This subject provides an in-depth treatment of the main concepts and techniques used in the analysis and design of digital communication systems and wireless networks.",
+        "Topics include:",
+        "Source coding; entropy, Shannon source coding bound, data compression techniques;",
+        "Channel modelling, modulation over time-varying fading channels, time and frequency diversity, energy and spectral efficiency, multiple carrier modulation including orthogonal frequency division multiplexing (OFDM) modulation, phase noise characteristics and its impact on single-carrier and multicarrier systems, spatial multiplexing for multiple access protocols, multiple antenna technologies (MIMO systems), cellular networks;",
+        "Channel coding for error control: mutual information, channel capacity, Shannon channel coding bound, channel coding concepts, block codes; convolutional / trellis codes; introduction to LDPC codes, turbo codes, polar codes.",
+        "Examples include short, medium and long range communication systems such as bluetooth, cellular and satellite communication systems."
+    ],
+    "intended learning outcomes": [
+        "ILO 1 - Understand and model channel impairments such as noise, interference and fading;",
+        "ILO 2 - Articulate what techniques can be used to communicate effectively despite channel impairments;",
+        "ILO 3 - Describe the performance measures that are used to assess effective communication in digital communications systems and wireless networks;",
+        "ILO 4 - Relate the overall performance of digital communications systems and wireless networks;",
+        "ILO 5 - Develop systems engineering skills in translating transmitter/channel/receiver requirements and constraints into the specification of digital modulation and coding schemes;",
+        "ILO 6 - Value the broader context, implications and applications of digital communication systems in society."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ELEN90057"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "(prior to 2011, ELEN30003 Communication Systems)",
+                "Master of Telecommunications Engineering (MTE) students may be eligible on the basis of subject(s) equivalent to ELEN90057, subject to approval by the ELEN90051 subject coordinator."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ELEN40003 Digital Communications"
+    ],
+    "assessments": [
+        {
+            "description": "Progress Test . ILOs 1-5 are addressed in this assessment.. 1.5 hours. Hurdle requirement:. *See below on hurdle requirement",
+            "timing": "From Week 5 to Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "Quizzes in class, approximately 10 minutes each. ILOs  1-6 are addressed in this assessment. 10 minutes (each)",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written Assignments. Three equally-weighted assignments not exceeding 30 pages in total and completed in groups of up to 3 students. Due in weeks 4, 8 and 12. Assignments worth 10% each. ILOs 1-6 are addessed in this assessment.. 30 pages",
+            "timing": "From Week 4 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "One 2-hour written examination. Intended Learning Outcomes (ILOs ) 1-5 are addressed in this assessment.. 2 hours. Hurdle requirement:. *See below on hurdle requirement",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Margreta Kuijper"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Four hours of workshops per week for 12 weeks. These workshops integrate what would traditionally be called lectures, tutorials and laboratories."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "mkuijper@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "\u201cIntroduction to Wireless Digital Communication: A Signal Processing Perspective\u201d by Robert W. Heath Jr, Pearson Education, 2017"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Credit may not be obtained for both:",
+            "ELEN40003 (431-460) Digital Communication Systems and ELEN90051 Advanced Communication Systems",
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through lectures and workshop classes that combine theoretical tutorials, programming and hands-on laboratory activities.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students are provided with lecture notes, a workshop manual and reference text lists.",
+            "CAREERS / INDUSTRY LINKS",
+            "Exposure to industry applications via guest lecturers."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

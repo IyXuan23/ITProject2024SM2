@@ -1,0 +1,149 @@
+{
+    "subject name": "Technology Innovation Project",
+    "subject code": "INFO90010",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject involves an in-depth innovation investigation under the supervision of a member of the academic staff and in the context of the University's engagement initiatives. Students working in groups will be required to perform research, customer and problem discovery, ideation, concept creation and validation, and technical implementation for a real-world challenge. The subject also provides students with skills and knowledge for improving written and oral communication.",
+        "Indicative content includes innovation methodology, customer & problem discovery, customer & problem validation, innovation experiments, and innovation presentations."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Work independently as part of an interdisciplinary team to complete a technical innovation project",
+        "Collect and critically analyse a range of data about people and their problems, and create innovation hypotheses from this data",
+        "Validate innovation hypotheses",
+        "Conceptualise, design, and implement an innovative and technology-based solution to the identified problem",
+        "Present technical solutions to non-technical stakeholders in both written and oral forms"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "with a Weighted Average Mark (WAM) of at least 70",
+                "If you meet this criteria please complete an Enrolment Variation form.  Subject Coordinator approval is NOT required."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Completion of a minimum of 50 credit points ofGraduate level Computing and Information Systems subjects",
+                "The 50 points excludes:\n COMP90007 Internet Technologies;\n COMP90038 Algorithms and Complexity;\n COMP90041 Programming and Software Development;\n SINF90001/INFO90002 Database Systems and Information Modelling."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "COMP90055",
+        "COMP90082",
+        "ISYS90082",
+        "SWEN90013",
+        "COMP90019 - Distributed Computing Project",
+        "COMP90028 - Information Technology Research Project"
+    ],
+    "assessments": [
+        {
+            "description": "A group of four project proposal. Approximately 20 hours per student. Due end of week 1. Intended Learning Outcomes (ILOs) 1 - 5 are assessed as part of the proposal.. 20 hours (of work required). Hurdle requirement:. Students must pass the project proposal to pass the subject.",
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "description": "A 15 minute group of four presentation. Approximately 10-15 hours of preparation per student. ILOs 3, 4 and 5 are assessed in this presentation.. 10-15 hours (of work required)",
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "A group of four project progress report. Approximately 80 hours of work per student. ILOs 1 - 5 are assessed in this report.. 80 hours (of work required)",
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "A technology innovation solution. Approximately 50 hours of work per student. ILOs 3, 4 and 5 are assessed in this presentation.. 50 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "A 20 minute group of four presentation. Approximately 15-20 hours of preparation per student. ILOs 3, 4 and 5 are assessed in this presentation.. 15-20 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "A final group project report, with an individual reflection for each student. Approximately 150 hours of work per student. ILOs 1 - 5 are assessed in this report.. 150 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Jenny Waycott"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 2 hour weekly lecture; 1 x 2 hour weekly workshop"
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Jenny Waycott"
+                ],
+                "email": [
+                    "jwaycott@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject involves attending a weekly lecture and a 2-hour practical workshop. During the workshop students will work in their project groups and do independent group work and facilitated activities, which aim to develop students' innovation and design thinking skills. Tutors will facilitate the workshop and provide guidance on each group's technology innovation project. This face-to-face teaching will be supplemented by online readings and recorded lectures provided on the subject LMS site, which will be updated throughout the semester. Students are expected to regularly review the content in the subject LMS and to spend approximately 20 hours per week on their group project, including attending classes and completing project activities outside of class time."
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Permission required from the subject coordinator",
+                    "Permission required from the subject coordinator"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

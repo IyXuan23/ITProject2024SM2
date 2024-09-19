@@ -1,0 +1,155 @@
+{
+    "subject name": "Quantum and Thermal Physics",
+    "subject code": "PHYC20012",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject surveys the foundations of Thermal Physics and Classical Mechanics and develops the fundamental principles of Quantum Mechanics. Topics in Thermal Physics include the kinetic theory of gases, the classical laws of thermodynamics, temperature, work, heat, chemical thermodynamics and chemical potential, heat engines, refrigerators, Gibbs and Helmholtz free energies and phase changes. Topics in Classical Mechanics include a review of Newton\u2019s Laws, the Principle of Least Action, Lagrange\u2019s equations, Hamilton\u2019s equations and the Legendre transform. These principles will be illustrated by application to the simple harmonic oscillator. Topics in Quantum Physics include the inadequacies of Classical Physics, matter waves and quantum behaviour, one-dimensional quantum systems, expectation values, observables, operators, quantum tunnelling, and the quantization of three-dimensional systems."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "discuss the key observations and events that led to the development of quantum mechanics from a foundation of thermal physics and classical mechanics;",
+        "discuss the fundamental principles of quantum mechanics and the critical aspects of quantum theory that distinguish it from the classical theories of thermodynamics and mechanics;",
+        "apply the principles of thermal, classical and quantum physics to the analysis of simple physical, chemical or mechanical problems."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "(Note: the following subject/s can also be taken concurrently (at the same time):"
+            ],
+            "one of pre-requisite": [
+                [
+                    "PHYC10001",
+                    "PHYC10003",
+                    "PHYC10009"
+                ],
+                [
+                    "PHYC10002",
+                    "PHYC10004",
+                    "PHYC10006"
+                ],
+                [
+                    "MAST10006",
+                    "MAST10021",
+                    "MAST10009"
+                ],
+                [
+                    "MAST10007",
+                    "MAST10022",
+                    "MAST10008"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Important: To qualify as a prerequisite for this subject, PHYC10009 must be completed with a result of at least 75 (H2A).",
+                "MAST10019 Calculus Extension Studies",
+                "MAST10018 Linear Algebra Extension Studies"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Three written assignments requiring a total of up to twenty-four hours of work outside class time to be submitted and assessed early, mid and late semester (10% for each assignment).. 24 hours",
+            "timing": "During the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "David Jamieson and Jeffrey McCallum"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours comprising 36 hours of lectures and 12 hours of tutorials."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ","
+                ],
+                "email": [
+                    "jeffreym@unimelb.edu.au",
+                    "d.jamieson@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Serway, Moses and Moyer,Modern Physics3rd Ed. Brooks/Cole-Thomson Learning, 2005",
+                    "D V Schroeder,An Introduction to Thermal Physics, Addison-Wesley Longman."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

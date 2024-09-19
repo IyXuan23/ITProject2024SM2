@@ -1,0 +1,127 @@
+{
+    "subject name": "Agribusiness 2",
+    "subject code": "AGRI90077",
+    "subject availability": [
+        "July"
+    ],
+    "overview": [
+        "Food, beverage and fibre value chains exist in both developed and developing countries, and may be analysed in terms of both firm and whole-of-chain perspectives. This subject reconciles supply, price, value chain and risk concepts and introduces a range of techniques applicable to value chain mapping and analysis as well measurement of performance and risk, in whatever environment the chain resides in.The subject improves capacity to make strategic decisions and assess improvement options surrounding areas such as logistics, inventory management, location, distribution networks and risk. The importance of sustainability in a value chain is emphasised with the need to account for chain externalities as well as chain goods."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate an understanding of the main concepts of value chain analysis and apply relevant tools for mapping and analysis of value chains",
+        "Describe theory of risk principles and the measurement of risk and price volatility.",
+        "Differentiate supply chain and value chain concepts",
+        "Demonstrate the relationship between supply chain decisions and strategic fit to overall firm success",
+        "Identify and explain the determinants of supply chain performance including their measurement",
+        "Understand the role of logistics decisions in a value chain and be able to apply frameworks for making such decisions",
+        "Understand the whole-of-chain concept inclusive of chain goods and chain externalities as underpinning long term sustainable value chain development",
+        "Analyse risk and apply tools of risk management to decision-making in the agri value chain including effective hedging strategies for managing commodity price risks through forward contracts, future contracts, options, & over-the-counter products."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AGRI90012"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1. 1500 words",
+            "timing": "First half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Assignment 2. 1500 words",
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Take home exam. 2 hours",
+            "timing": "End of the assessment period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "July": [
+                {
+                    "Principal coordinator": "Paul Deane"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "40 Hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "15 July 2024"
+                },
+                {
+                    "Pre teaching requirements": "Pre-reading is required for all students. Please see the LMS for details."
+                },
+                {
+                    "Teaching period": "22 July 2024 to 30 August 2024"
+                },
+                {
+                    "Last self-enrol date": "16 July 2024"
+                },
+                {
+                    "Census date": "2 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "23 August 2024"
+                },
+                {
+                    "Assessment period ends": "13 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "paul.deane@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Chopra, S. and P. Meindl (2013)Supply Chain Management: Strategy, Planning and Operation(5th ed.). Pearson Global Edition, New Jersey"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

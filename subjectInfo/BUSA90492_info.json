@@ -1,0 +1,111 @@
+{
+    "subject name": "Financial Analysis and Valuation",
+    "subject code": "BUSA90492",
+    "subject availability": [],
+    "overview": [
+        "This subject examines the use of financial statements for the analysis and valuation of companies. The framework employed incorporates four key components: (1) an analysis of the company\u2019s operating environment and the strategies it employs; (2) an assessment of the quality of the company\u2019s financial reports, including making any necessary adjustments; (3) forecasting future performance and cash flows; and (4) estimating a value for the company. Several valuation approaches are covered including the use of valuation multiples. And present value-based techniques."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand and be able to apply the primary approaches available to value firms.",
+        "Have an improved ability to link valuation to the strategic, accounting and financial analyses of firms.",
+        "Be able to apply these analysis tools in a variety of decision settings."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90480",
+                    "BUSA90481",
+                    "BUSA90060",
+                    "BUSA90193",
+                    "BUSA90227",
+                    "BUSA90243",
+                    "BUSA90001",
+                    "BUSA90093",
+                    "BUSA90074",
+                    "BUSA90026",
+                    "BUSA90224"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Contribution to class learning",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Syndicate assignments (group of 4 - 5 students). 2000 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours. Hurdle requirement:. Students are required to pass the exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "January": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "8 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during the pre-teaching period"
+                },
+                {
+                    "Teaching period": "15 January 2024 to 22 March 2024"
+                },
+                {
+                    "Last self-enrol date": "10 December 2023"
+                },
+                {
+                    "Census date": "2 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "1 March 2024"
+                },
+                {
+                    "Assessment period ends": "29 March 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students admitted to MC-BA, MC-BAPT, or students with permission of the MBA course coordinator"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

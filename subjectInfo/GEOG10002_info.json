@@ -1,0 +1,101 @@
+{
+    "subject name": "Landscape Information Systems",
+    "subject code": "GEOG10002",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject will introduce students to Geographic Information Systems (GIS) providing an understanding of the use of software and the acquisition, storage and interpretation of spatial and temporal data associated with landscapes. The subject covers the application of GIS in a number of fields including physical and human geography, planning and natural resource management. Students are introduced to core concepts in GIS and analytical techniques including spatial sampling, interaction models, and spatial statistics. Students are also provided instruction in the presentation of spatial data."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the major techniques available for acquiring data",
+        "Observe, sample and record data",
+        "Interpret results using appropriate tools and techniques",
+        "Have a basic knowledge of the operation of GIS software and data and how it is used in the context of geography, natural resource management, urban and regional planning and environmental science",
+        "Understand core spatial concepts including mapping techniques",
+        "Organise and analyse geographic data using a range of techniques",
+        "Understand the principles of spatial data presentation and communication"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment due in approximately week 6. 1000 words",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "An exercise to be completed in laboratory classes due in approximately week 12. 1000 words (equivalent)",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Mode of delivery": "On Campus (Dookie)"
+                },
+                {
+                    "Contact hours": "48 hours - 24 hours lectures, 24 hours tutorials / workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

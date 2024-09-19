@@ -1,0 +1,147 @@
+{
+    "subject name": "Property Law (PG)",
+    "subject code": "ABPL90041",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Overview of the legal system in Australia:",
+        "The concept of property and ownership in Australia",
+        "Comparative land policy",
+        "The general law and the Torrens land registration systems",
+        "The legal nature of land: improvements, fixtures and chattels",
+        "Encumbrances: easements, restrictive covenants, right",
+        "Co-ownership: subdivision, joint tenancy in common",
+        "Licenses and leases",
+        "Contract, tort and agency",
+        "Occupier's liability",
+        "Impact of heritage legislation"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse basic property law issues;",
+        "Adopt an ethical viewpoint to real property matters;",
+        "Understand the processes of law in the context of real property;",
+        "Use effective written communications in a professional report;",
+        "Use effective oral communications in debating legal principles."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-PROP Master of Property",
+                "MC-PROP2Y Master of Property",
+                "MC-PROP3Y Master of Property",
+                "702PA Graduate Diploma in Property Valuation",
+                "MC-SPATENG Master of Spatial Engineering",
+                "MC-DINFENG Master of Digital Infrastructure Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Approval from the subject coordinator."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "702-354"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment one. 1000 words",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment two, due towards the end of semester. 1000 words",
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "One written examination, not exceeding three hours. 3 hours. Hurdle requirement:. A grade of at least 40% must be achieved in the final examination in order to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Hao Wu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "one 2-hour lecture, and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Hao Wu",
+                    "",
+                    "",
+                    "Phil Nolan",
+                    ""
+                ],
+                "email": [
+                    "haow@unimelb.edu.au",
+                    "phillip.nolan@lplc.com.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "subject name": "Research Proposal",
+    "subject code": "DENT90108",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "This subject will introduce students to the principles of research and the inherent methodologies, as well as the methods for critical appraisal of the available scientific literature. Students will have the opportunity to plan a research investigation in an area of clinical interest. In consultation with a research supervisor and/or the course coordinator, participants will formulate a research question. This subject will provide participants with the practical knowledge required to plan a research project with consideration given to the process and requirements of ethics approval and basic statistical concepts."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the different types of research questions and the characteristics of a 'good' research question, formulate an answerable research question and develop a conceptual hypothesis",
+        "Describe the theoretical concepts behind a range of qualitative and quantitative data analysis techniques",
+        "Employ the principles of ethical clinical research and of the responsibilities of researchers"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Essay 1: Research problem. 1000 words (total)",
+            "timing": "Toward the end of the first half year teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Essay 2: Critical appraisal of literature (related to the research problem). 3000 words (total)",
+            "timing": "End of First half of year teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Completion of RIOT training module. 2000 words (equivalent). Hurdle requirement:. Must be completed in accordance with university requirements",
+            "timing": "First half of year teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Oral presentation: Research question. 1000 words (equivalent)",
+            "timing": "Early in the second half of year teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Essay 2: Research methodology. 1500 words",
+            "timing": "Mid second half of year teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Data Analysis plan. 1000 words (equivalent)",
+            "timing": "Towards the end of the second half year teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Oral presentation: Research proposal. 20 minutes",
+            "timing": "End of teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Principal coordinator": "Paolo Cattaneo"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Pre teaching start date": "29 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "-"
+                },
+                {
+                    "Teaching period": "5 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "9 February 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

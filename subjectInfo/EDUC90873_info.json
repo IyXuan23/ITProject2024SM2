@@ -1,0 +1,116 @@
+{
+    "subject name": "Brain, Mind and Education",
+    "subject code": "EDUC90873",
+    "subject availability": [
+        "Semester 2 (Early-Start) - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject will explore the practical application of the emerging field of The Science of Learning (with a particular focus on Educational Neuroscience). The subject will provide students with an understanding of how science can inform classroom practice and how the application of scientific and design methodologies can be implemented in the creation, delivery and evaluation of learning interventions. Specifically, students will learn how neuroscience, psychology, and educational research can - and cannot - be successfully translated into classroom practice. More generally, students will be equipped with the skills to scientifically evaluate the validity of educational, psychological and neuroscientific research. These skills will allow students to become knowledgeable and effective consumers of commercial educational products and methods, enable them to critically reflect on their own teaching effectiveness in a scientifically valid way, and to develop novel and effective teaching practices.Specifically, the subject will address the following:",
+        "Applying the science of learning to teaching and learning practices;",
+        "applying neuroscience to practical human learning;",
+        "specific learning topics (memory, attention, emotions, feedback, creativity);",
+        "practical implications of science of learning."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Have a working knowledge of current research in evidence-based learning and teaching strategies;",
+        "Understand and adapt essential concepts in neuroscience, including memory, attention, emotions, feedback, and creativity;",
+        "Apply the scientific method to their own professional practice, in order to design, deliver and evaluate learning interventions;",
+        "Apply educational, psychological and neuroscientific research, as it applies to student outcomes, wellbeing, social and emotional competence, safety and inclusion."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC90872"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Proposal for practice artefact. 2000 words",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "A developed practice artefact and 20 minute practical demonstration. 3000 words (equivalent)",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. Minimum of 75% attendance at all tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Coordinator": "Sean Kang"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours (8 x 3 hour seminars over four Saturdays)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "20 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "sean.kang@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Participants will be provided with a collection of readings via the online Learning Management System (LMS)."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "subject name": "Intermediate Financial Mathematics",
+    "subject code": "ACTL30006",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject introduces actuarial students to stochastic asset liability modelling. It aims to expand the student's knowledge of basic actuarial principles in the fields of investments and asset management. Topics include: utility theory, stochastic dominance, measures of investment risk, portfolio theory, models of asset returns, asset liability modelling, equilibrium models, the efficient markets hypothesis, stochastic models of security prices and Brownian Motion and its application."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the objectives of Modern Portfolio Theory;",
+        "Define and analyse mean-variance efficiency;",
+        "Find efficient portfolios using Gaussian Elimination;",
+        "Define and apply single- and multi- factor models for investment returns;",
+        "Apply expected utility theory to make investment choices;",
+        "Apply and criticise the Capital Asset Pricing Model;",
+        "Find portfolio expected returns using the Arbitrage Pricing theory;",
+        "Compare and contrast methodologies for making investment choices in terms of the strengths of their assumptions;",
+        "Make decisions regarding investment choice using a variety of mathematical techniques;",
+        "Apply the concepts of market efficiency and rationality; and",
+        "Apply stock price models across time to assessing long-term risk in portfolios."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ACTL20003",
+                    "ACTL20004"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "For students who commenced their degree in 2018 or earlier",
+                "ACTL20002\t Financial Mathematics II",
+                "For students who commenced their degree in 2019 or later (i.e. entry into this subject from 2021 onwards)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "FNCE30001",
+        "306-331 Investments"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment 1. 750 words",
+            "timing": "From Week 5 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "Mid-semester test. 50 minutes",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "Assignment 2. 750 words",
+            "timing": "From Week 9 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours. Hurdle requirement:. To pass this subject, students must pass the end-of-semester exam",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Han Li"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 1-hour lectures during semester and one 1-hour tutorial per week (commencing in second week of semester)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Han Li:"
+                ],
+                "email": [
+                    "han.li@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Introduction to Mathematical Portfolio Theory, Joshi, Paterson 2013"
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

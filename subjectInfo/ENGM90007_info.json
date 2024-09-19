@@ -1,0 +1,137 @@
+{
+    "subject name": "Project Management Practices",
+    "subject code": "ENGM90007",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "AIMSIn this subject students will learn about how to evaluate the feasibility of a project and then to define, structure and organise the initial planning phase for both construction projects and complex projects (e.g. IT, high technology projects). The interaction between commercial expectations and project management approaches will be considered broadly based on process and systems thinking. The subject builds on and integrates knowledge from CVEN90043 Sustainable Infrastructure Engineering and/or MCEN90010 Finance and Human Resources for Engineers where the fundamentals of economic appraisal is described, the planning approaches detailed in subject CVEN90045 Engineering Project Implementation and the fundamentals of risk management for which detailed approaches are provided in MULT90014 Business Risk Management. The subject is particularly important for students wishing to understand how to structure and scope projects such that they are well planned on the basis of triple bottom line thinking and the project management processes are efficiently structured.INDICATIVE CONTENTTechniques considered include the use of logic maps, business cases and system based project management concepts. Details include the development of acquisition strategies, system life-cycle, boundaries, scope management and mechanisms to control of client expectations and assist them to make sound project decisions leading to the sanctioning of a project. Expected value and Monte Carlo techniques are used as tools to refine project decisions based on risk evaluation.Project governance arrangements are considered along with cultural context, resourcing requirements of a project and how this is organised and managed. Specific areas considered include the selection of consultants or contractors, communication processes, industrial relations, occupational health and safety, meetings, delegation and leadership."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Assist project owners to sensibly consider the feasibility of projects",
+        "Develop investment logic maps",
+        "Structure an acquisition strategy for either traditional projects or a complex engineering or IT project",
+        "Clarify a project\u2019s scope and establish boundaries to the scope of complex projects",
+        "Analyse and evaluate project risks and project decisions",
+        "Develop and communicate projects in a consolidated project management plan that considers client interface, governance, organizational structure and resources to assist in the management and control of projects to achieve targeted key performance indicators",
+        "Understand the influence of cultural differences when resourcing large international projects."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One written examination, maximum of 2700 words in length.  This is a take home exam and will be open for 2 days. Intended Learning Outcomes (ILOs) 1 - 7 are addressed in this assessment.. 48 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Written Assignment -\r\nOne 2000 word report. ILOs 1, 2 and 6 are addressed in this assessment.. 35-40 hours (of work required)",
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Presentation -\r\nOne 10 minute poster presentation. ILOs 3 and 4 are addressed in this assessment.. 13-15 hours (of work required)",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "In-class Mini Tests.  5 mini quizzes of 10 minutes duration, each worth 2% (best of 6 opportunities) 10% in total. ILOs 1, 5 and 6 are addressed in this assessment.. 10 minutes (each)",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Structured active readings. 5 structured online reading exercises each worth 2% (5 x 2% = 10%). Approx. 1 hr and 15 minutes to complete each. ILOs 1 - 7 are addressed.. 6.5 hours (of work required)",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Robert Moehler"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours (Lectures: 2 hours per week; Tutorials: 1 hour per week)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Robert Moehler"
+                ],
+                "email": [
+                    "robert.moehler@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject is based principally on presentations by experienced industry and academic professionals who outline both theory and project management processes as illustrated by project case studies. A major case study is dissected throughout the subject with students working in groups and as individuals to explore the strengths and weaknesses of the project management practices adopted. Workshop dialogue sessions are convened by the lecturer to assist students reflect on the topics presented. In addition to specific assignment work students prepare and present a poster on an aspect of systems based project management.INDICATIVE KEY LEARNING RESOURCESBackground reading on a systems approach to project management is available:Blanchard, B.S. and Fabrycky, W.J., 2005,Systems Engineering and Analysis. Upper Saddle River: Prentice Hall International.CAREERS / INDUSTRY LINKSPresenters from industry provide insights via the case studies presented. Reference materials are frequently industry based guidelines. Students who are already working in the industry can base their assignment on a project related to their workplace. The main case study dissected throughout the subject is a real and current project."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

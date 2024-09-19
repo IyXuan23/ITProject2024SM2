@@ -1,0 +1,112 @@
+{
+    "subject name": "Design Visualisation: Digital Techniques",
+    "subject code": "ARCH30005",
+    "subject availability": [],
+    "overview": [
+        "Design Visualisation: Digital Techniques forms part of the Digital Visualisation specialisation in the Bachelor Design",
+        "This subject brings together practical know-how and critical thinking around the field of digital visualisations of space using industry standard software. Building on the digital representational and design skills acquired in the pre-requisite subject, students will learn the principles of colour, material mapping, lighting, composition, entourage, story boarding, rendering and animation techniques. Students will acquire new skills for building digital models, setting up \u2018cameras\u2019, adding \u2018entourage\u2019 (people, vegetation etc) with post-production across an ecology of software. The subject will be delivered through a series of lectures, specialist software workshop led by industry expert and tutorials. The outcome will be a portfolio of image rendering and animation positioned within a critical theoretical context of image-production in contemporary design practice. Concluding each lecture and workshop, students will be introduced to self-teaching modules that will enable further experimentation with media and techniques.",
+        "Prescribed software programs with no costAutodesk 3DS MaxPrescribed software programs with a costMcNeel Rhino (optional)Chaos Group VrayAdobe Creative SuiteDetails of software availability and pricing are captured athttps://edsc.unimelb.edu.au/student-experience/it-support",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Apply professional and theoretical principles of design visualisation within contemporary, industry-standard software workflows.",
+        "Develop and iteratively refine design visualisations through digital modelling, rendering, and visual composition.",
+        "Evaluate the use of colour, texture mapping, lighting, and composition principles in developing and completed design visualisations.",
+        "Discuss and reflect on design visualisation processes and outcomes practiced through considered graphical communication, layout, and composition."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ARCH20004"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Module 1: contains documentation of techniques and outcome of rendering exercises collated in process journal format,. 20-24 hours (of work required)",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Module 2 contains composed interior rendering image\u00a0 and process documentation collated in journal format. 25 -30 hours (of work required)",
+            "timing": "Week 8",
+            "percentage": "25%"
+        },
+        {
+            "description": "Module 3 contains composed  rendering image and a choreographed animation (maximum 60 second ) sequence with verbal presentation. 35- 42 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "description": "Portfolio submission contains formatted journal containing collated and composed\u00a0renderings and animation (as stills) as a portfolio, equivalent to 24 hours of work. 20 -24 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Craig McCormack"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "54 hours  (8 hours of lectures and 46 hours of studios and workshops)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Course reader will be provided on LMS"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "It is not recommended to take ARCH30005 (Design Visualisation: Digital Techniques) concurrently with either ARCH20002 (Design Studio Gamma), ARCH20003 (Modern Architecture: MoMo to PoMo), or ABPL20033 (Architectural Technology)."
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

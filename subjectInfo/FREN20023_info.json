@@ -1,0 +1,153 @@
+{
+    "subject name": "French 8",
+    "subject code": "FREN20023",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject considers the porous boundaries between popular and elite cultures in the French-speaking world. By exploring and critically analysing different genres and mediums, students will gain a greater insight on how art communicates ideas. This subject aims to further students' advanced level of proficiency in all aspects of French language acquisition, and to bring students to Level C1 of the Common European Framework of Reference for Languages (CEFR).",
+        "Three distinct components will inform the learning experience and give students the opportunity to examine a range of innovative and creative presentation formats. Through the combination of theory and practice, students will explore graphic fiction and non-fiction, art collections and contemporary music, hence deepening their understanding of art and its relevance in past and present francophone societies."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Confidently use sophisticated oral and written French at level C1 of the Common European Framework for Languages",
+        "Further develop critical and analytical skills in relation to texts, artworks and films in the field of French and Francophone history and culture",
+        "Identify and discuss social and cultural issues in the francophone world and appreciate their wider impact",
+        "Locate, evaluate and apply a variety of sources in the field of French and francophone Studies",
+        "Proficiently employ learning and research technologies in French and English",
+        "Reflect on their identity as a bi/multicultural and bi/multilingual person and as a global citizen."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "FREN20019"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "FREN30022",
+        "FREN10009"
+    ],
+    "assessments": [
+        {
+            "description": "3 online quizzes. 300 words (equivalent)",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "An oral presentation in French. 1000 words (equivalent)",
+            "timing": "From Week 5 to Week 7",
+            "percentage": "25%"
+        },
+        {
+            "description": "A written task in French. 1000 words",
+            "timing": "From Week 8 to Week 10",
+            "percentage": "30%"
+        },
+        {
+            "description": "A research project in French. 1700 words",
+            "timing": "End of semester",
+            "percentage": "35%"
+        },
+        {
+            "description": "Hurdle requirement:. 1.\tAttendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Veronique Duche"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours: 2 x 1.5 hour tutorials per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "veronique.duche@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

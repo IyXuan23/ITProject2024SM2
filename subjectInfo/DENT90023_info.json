@@ -1,0 +1,160 @@
+{
+    "subject name": "Adv Clinical Practice in Specialty 1",
+    "subject code": "DENT90023",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2 (Early-Start)"
+    ],
+    "overview": [
+        "Students enrolled in the Doctor of Clinical Dentistry undertake four advanced clinical practice subjects over four consecutive semesters in years 2 and 3 of the course. This is the first of these subjects. It is offered in the following specialties:",
+        "ENDODONTICS: Clinical management of advanced endodontic cases, including trauma, emergency management of pain, and the non-surgical and surgical management of endodontic problems.",
+        "ORAL MEDICINE: Exposure to more difficult and advanced cases of persons with a wide range of oro-facial and dental problems, those with complex pharmacological management of medical conditions and those with oral manifestations of systemic disease.",
+        "ORTHODONTICS: The clinical management at an advanced level of patients with a wide variety of clinical problems.",
+        "PEDIATRIC DENTISTRY: The clinical management at an advanced level of children and adolescents with a wide variety of clinical dental problems including those complicated by medical compromise.",
+        "PERIODONTICS: The clinical management at an advanced level of individuals with a wide variety of periodontal conditions.",
+        "PROSTHODONTICS: Clinical management of individuals with advanced prosthodontic requirements at a specialist standard.",
+        "SPECIAL NEEDS DENTISTRY: The clinical management of a wide range of individuals with special needs at a specialist standard, including treatment using sedation or general anaesthesia."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "ENDO: An overall pass in the end of year written and oral examinations must be achieved for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "ORAL MED: An overall pass mark on the assignments and case presentations for the year must be achieved for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "ORTHO: To pass this subject, students must demonstrate proficient management of clinical orthodontic problems under supervision.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "PED DENT: To pass this subject, students must demonstrate proficient management of clinical dental problems in children and adolescents.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "PERIO: Proficient clinical management of moderate to advanced periodontitis cases and pass in case presentations for the year.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "PROS: An overall pass mark in the clinical examinations for the semester must be achieved for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "SND: An overall pass mark in the clinical examinations for the semester must be achieved for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "David Manton"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "ENDO, PERIO: Six 3-hr sessions each wk in assigned clinics. SND: 5-6 x 3 hr clinical sessions and 1 hr per wk clinical review meeting.PED DENT: Six 3-hr sessions each wk in assigned clinics. This may include one 3-hour session each week of clinical demonstration to undergraduate students and rostered after-hours and weekend on-call responsibilities. ORAL MED, PROS: Five 3-hr sessions each wk in assigned clinics. ORTHO: Five or six 3-hr sessions each wk in supervised clinic sessions. One of these sessions may include one 3-hour session each week of clinical demonstration to undergraduate students."
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Principal coordinator": "David Manton"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Teaching period": "8 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "19 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "https://ask.unimelb.edu.au",
+                    "enquiries-STEM@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "https://ask.unimelb.edu.au",
+                    "enquiries-STEM@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

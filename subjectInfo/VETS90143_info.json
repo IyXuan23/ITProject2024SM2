@@ -1,0 +1,102 @@
+{
+    "subject name": "Ruminants and Camelids A",
+    "subject code": "VETS90143",
+    "subject availability": [
+        "Semester 1 (Early-Start)"
+    ],
+    "overview": [
+        "This subject focuses on both the general principles of veterinary production animal practice and the specific approach to diagnosis, control and prevention of disease in production animals, with a focus on public health. Content will be delivered in blocks based on clinical presentations related to dermatologic, ophthalmic, reproductive, neonatal, locomotory and respiratory problems in parallel with presentations of the same systems in other species. This approach is designed to support students in the development of their diagnostic reasoning skills, and encourage a comparative view of veterinary medicine and surgery."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Collect and interpret information from clinical examination, history and epidemiological data in an individual or herds of ruminants and camelids in order to develop contextually appropriate prioritised differential diagnoses related to skin, ophthalmic, reproductive, neonatal, lameness and respiratory presentations",
+        "Analyse records of production, health and reproductive performance of ruminant and camelid herds and flocks in order to make recommendations that optimise health and productivity",
+        "Justify and perform appropriate ancillary laboratory tests and interpret the results of the laboratory reports in order to establish a definitive diagnosis of diseases and production-limiting conditions that affect ruminants and camelids",
+        "Formulate and recommend appropriate therapeutic and control strategies for important endemic and exotic diseases of individuals or herds of ruminants and camelids to achieve farm financial, animal health and production performance targets (taking into account the legal, ethical, prognostic, economic, welfare, public health and food safety considerations)"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Satisfactory completion of all subjects at DVM 2 level"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written test. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Aggregate Mark. Hurdle requirement:. Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Principal coordinator": "Peter Mansell"
+                },
+                {
+                    "Mode of delivery": "On Campus (Werribee)"
+                },
+                {
+                    "Contact hours": "43 hours of lectures, practical classes and workshops"
+                },
+                {
+                    "Total time commitment": "100 hours"
+                },
+                {
+                    "Teaching period": "5 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "16 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "pmansell@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

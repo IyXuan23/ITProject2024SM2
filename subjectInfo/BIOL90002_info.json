@@ -1,0 +1,116 @@
+{
+    "subject name": "Applied Statistics for Biologists",
+    "subject code": "BIOL90002",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject focuses on common statistical approaches used to analyse biological data sets. Topics covered include research and experimental design, hypothesis testing, estimation, and statistical modelling for univariate and multivariate data. In interactive classes, students will consolidate concepts before working through examples in the context of different disciplines within the biosciences (including biomedicine, genetics, environmental science and ecology). The computer-based workshops will provide opportunities to translate theoretical knowledge into practice with emphasis on statistical interpretation, reasoning, and basic coding skills. By the end of the subject, students will have the statistical skills required to design, analyse, and interpret their own biological research."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "apply appropriate statistical models to biological and environmental data sets;",
+        "explain how good experimental design facilitates effective statistical tests;",
+        "use basic coding within the R statistical environment;",
+        "evaluate a research design and statistical methodology published in scientific literature; and",
+        "justify their own statistical decisions and experimental designs."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Four in-class quizzes (5% each) based on concepts from interactive classes, spaced evenly across the semester.. 1000 words (total)",
+            "timing": "Weeks 2, 4, 7, 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "Two coding assignments (equivalent to 600 words each) associated with computer-based workshops. 600 words",
+            "timing": "Weeks 3-4 and 9-10",
+            "percentage": "30%"
+        },
+        {
+            "description": "A critical review. 1000 words (total)",
+            "timing": "From Week 6 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "A final synthesis report. 1800 words (total)",
+            "timing": "During the assessment period",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Allyson O'Brien"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Quinn, G.P. & M.J. Keough (2002) Experimental design and data analysis for biologists. Cambridge University Press"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "McCarthy, M.A. (2007) Bayesian methods for ecology. Cambridge University Press"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students undertaking this subject will be expected to regularly access a computer with statistical software."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

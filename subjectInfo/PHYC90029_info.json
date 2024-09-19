@@ -1,0 +1,157 @@
+{
+    "subject name": "Physics Research Project Pt 1",
+    "subject code": "PHYC90029",
+    "subject availability": [
+        "Semester 1 (Extended)",
+        "Semester 2 (Extended)"
+    ],
+    "overview": [
+        "This subject is part of a sequence of three or four parts (depending on the research project stream) taken in successive semesters that together constitute the 100-point research project offered through the Master of Science (Physics).",
+        "In this subject, students undertake a substantial program of original research in one of the many research fields in which the School of Physics is active and internationally recognised: astrophysics, condensed matter physics, optics, and particle physics. The research may be experimental and/or theoretical in nature. It will be conducted under the supervision of a member of the School\u2019s academic staff. The results will be reported in the form of a substantial thesis. In most instances, it is expected that the results will also be submitted for publication in a learned scientific journal. As part of their introduction to the research topic, students will be required to complete a seminar series and/or reading course providing advanced theoretical and/or practical training in the field."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "to introduce students to the excitement and challenge of fundamental and applied research in physics;",
+        "to challenge students to deepen their knowledge of fundamental physical principles by pushing outward the boundaries of knowledge;",
+        "to complete a substantial piece of original research whose quality is sufficiently high that it is publishable in a leading international physics journal;",
+        "to prepare students for further advanced research in physics, for example through doctoral studies."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Satisfactory outcomes for Progress Review Reports completed at the end of each semester (pass/fail)",
+            "timing": "End of each semester",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Group seminar (15 min + 5 min questions) or preliminary research report (5 pages of mixed text, diagrams, and mathematical formulas) due after the student has enrolled in 25 points of Research Project; (pass/fail)",
+            "timing": "Due after the student has enrolled in 25 points of Research Project",
+            "percentage": "N/A"
+        },
+        {
+            "description": "A preliminary literature survey and research plan at the end of year one or after the student has enrolled in 25 points of Research Project, (10 pages of mixed text, diagrams, and mathematical formulas); (pass/fail). 10 pages",
+            "timing": "At the end of year one or after the student has enrolled in 25 points of Research Project",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Successful completion of a seminar series and/or reading course (depending on the research stream) providing advanced theoretical and/or practical training, marked on a pass/fail basis",
+            "timing": "Enrolment in the seminar series is required after completion of 25pts of Research Project",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Major thesis, comprising up to 50 pages of mixed text, diagrams, and mathematical formulas, due at the end of the final semester of Research Project enrolment. 50 pages",
+            "timing": "Due at the end of the final semester of Research Project enrolment",
+            "percentage": "70%"
+        },
+        {
+            "description": "An oral presentation lasting up to 30 minutes, given at the end of the final semester of Research Project enrolment. 30 minutes",
+            "timing": "At the end of the final semester of Research Project enrolment",
+            "percentage": "10%"
+        },
+        {
+            "description": "Assessment of research performance based on attendance, application, initiative and demonstrated skills",
+            "timing": "",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended)": [
+                {
+                    "Principal coordinator": "Jeffrey McCallum"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Teaching period": "26 February 2024 to 30 June 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Extended)": [
+                {
+                    "Principal coordinator": "Jeffrey McCallum"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Teaching period": "22 July 2024 to 24 December 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "24 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Extended)": {
+                "name": [],
+                "email": [
+                    "msc@physics.unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Extended)": {
+                "name": [],
+                "email": [
+                    "msc@physics.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

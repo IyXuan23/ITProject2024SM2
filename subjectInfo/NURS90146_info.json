@@ -1,0 +1,113 @@
+{
+    "subject name": "Surgical Oncology Nursing",
+    "subject code": "NURS90146",
+    "subject availability": [
+        "September - Online"
+    ],
+    "overview": [
+        "This subject will provide students with the scientific basis underpinning specialist surgical oncology nursing. In this subject, students will explore current and emerging surgical interventions, across the disease trajectory, for specific cancer diagnoses and populations. This subject provides nurses with specialist surgical oncology knowledge in relation to the assessment, care and support of people affected by cancer. Students will learn and advocate for the best practice treatment strategies in the prevention, detection and management of surgical oncology complications. Students will also explore specific supportive care needs of people affected by cancer who are treated with surgery and appreciate the importance of evidence-based interdisciplinary interventions to meet these needs."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Integrate core principles covered in this subject to inform the provision of specialist surgical cancer nursing care that addresses actual and potential disease- and treatment-related health needs",
+        "Apply knowledge of current and emerging modalities for prevention, diagnosis and staging, treatment and palliation of a range of cancer diagnoses with surgery in the provision of specialist cancer nursing care to prepare, support and assess people affected by cancer",
+        "Employ best practice specialist nursing care in the prevention, detection and management of complications of surgery",
+        "Assess the supportive care needs of people affected by cancer treated with surgery and evidence-based multidisciplinary interventions to meet these needs, from diagnosis to survivorship"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "NURS90121"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written Assessment. 1500 words",
+            "timing": "Middle of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Written Assessment. 500 words",
+            "timing": "From Week 8 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Quiz. 30 minutes",
+            "timing": "From Week 8 to Week 9",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "September - Online": [
+                {
+                    "Coordinators": "Josalind Wong and Trevor Saunders"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "3"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Pre teaching start date": "16 September 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students will familiarise themselves with the online platform which will provide an overview of the subject, assessment requirements and expected activities and behaviours. They will also be provided with information about studying online and informed about the University resources available to them."
+                },
+                {
+                    "Teaching period": "23 September 2024 to 17 November 2024"
+                },
+                {
+                    "Last self-enrol date": "17 September 2024"
+                },
+                {
+                    "Census date": "4 October 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "1 November 2024"
+                },
+                {
+                    "Assessment period ends": "24 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "September": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There is no prescribed text for this subject."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

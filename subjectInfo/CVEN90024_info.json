@@ -1,0 +1,146 @@
+{
+    "subject name": "High Rise Structures",
+    "subject code": "CVEN90024",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "AIMSThis subject introduces students to the special requirements necessary for the successful design of high rise buildings. Elements of high rise building design considered in the subject are structural floor, framing and foundation systems, wind loading including wind tunnel testing and earthquake loading, analysis techniques including computer-aided analysis, vertical movements and second order effects, facade design, construction methods, sustainability concepts and a review of case study buildings.The subject builds on fundamental structural engineering knowledge and when learnt together with other structural engineering electives will provide students who successfully complete the subjects a well-rounded knowledge of a range of structural engineering design skills. Students who complete this subject may find work in a structural engineering consultancy or as a site engineer and work under the supervision of a chartered professional engineer on high rise building designs or design variations.INDICATIVE CONTENTIntroduction to high-rise design; introduction to finite element analysis; loads and design criteria for tall buildings; gravity load resisting; structural systems; gravity loads; lateral load resisting structural system; SpaceGass modelling; wind loading and analysis; earthquake induced loading; distribution of lateral loads to structural elements; coupled core systems and outriggers; theoretical treatment for column beam frames; architectural aspects and sustainability concepts; extreme loading effects; foundations of tall buildings; and, construction methods. Skills acquired from the above topics will be integrated and applied to the assignment which consists of a detailed analysis of a typical high rise building."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the multi-disciplinary nature of designing a tall building and the role of a structural engineer in the design of tall buildings",
+        "Describe the design criteria and loading conditions for buildings",
+        "Develop conceptual designs of floors using different floor systems",
+        "Develop conceptual designs of lateral load resisting systems for buildings",
+        "Calculate dynamic wind loads on tall buildings using the dynamic response factor approach",
+        "Interpret wind tunnel test results to obtain equivalent wind loads",
+        "Understand the concepts behind perception of motion, calculate the serviceability acceleration levels in tall buildings responding to wind loading",
+        "Develop approximate models for analysing structural systems in buildings",
+        "Develop computer models for analysing structural systems in buildings",
+        "Develop conceptual designs of foundation systems for different buildings and soil types",
+        "Identify different facade systems commonly used in building structures",
+        "Identify and analyse different structural systems using case study buildings."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the 746ST Master of Engineering Structures"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "CVEN30009"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A 500 word assignment. Intended Learning Outcomes (ILOs) 2 to 5 and 9 to 12 are addressed in this assignment.. 5 hours (of work required)",
+            "timing": "Mid semester",
+            "percentage": "4%"
+        },
+        {
+            "description": "A 2500 word assignment. ILOs 2 to 5 and 9 to 12 are addressed in this assignment.. 30-35 hours (of work required)",
+            "timing": "Mid semester",
+            "percentage": "26%"
+        },
+        {
+            "description": "One written examination. ILOs 1 to 12 are addressed in this examination.. 3 hours",
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Priyan Mendis"
+                },
+                {
+                    "Coordinator": "Tharaka Gunawardena"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "52 hours (Lectures: 38 hours per semester; Workshops, including some computer laboratories: 14 hours per semester)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Priyan Mendis"
+                ],
+                "email": [
+                    "pamendis@unimelb.edu.au",
+                    "tgu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject will be delivered through a combination of lectures, tutorials and workshops. Theoretical basis of the subject will be covered in lectures and tutorials. The workshops will consist of modelling exercises to support materials covered in the lectures and to provide hands on experience to the students looking at different aspects of practical examples.INDICATIVE KEY LEARNING RESOURCESStudents will have access to lecture slides and notes on select aspects of structural design of high rise buildings prepared by Priyan Mendis and Anil Hira, selected journal publications, EXCEL spreadsheets showing examples of numerical simulations, exercises and examples on Space Gass and Strand7 computational packages and demonstration of ETABS software.CAREERS / INDUSTRY LINKSLecturers are involved in designing high-rise buildings in Australia and overseas. In addition, a practising specialist in the field of high rise structures will contribute to the teaching of the subject by delivering a two hour lecture and providing notes."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

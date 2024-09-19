@@ -1,0 +1,122 @@
+{
+    "subject name": "Advanced Cost Management",
+    "subject code": "ABPL90129",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Successful project development depends on pro-active cost management from feasibility through to design, tender and construction, to the completion and useful life of the project. This subject examines applications of economics, management, law and statistical techniques to construction cost economics and management.",
+        "Topics include: advanced cost modelling techniques with parametric and probabilistic cost estimating methods; cost-in-use studies and life-cost approach to building evaluation (LCC in practice); feasibility studies and financial decision-making; value management; tender analysis; construction claims, conflict and dispute management; professional practice in quantity surveying including professional ethics; the role of quantity surveyors during construction as it affects the valuation of preliminaries, fluctuations, change orders and accounts, provisional sums and prime cost sums, as well as the role of quantity surveyors in risk assessment.",
+        "Principles of professional liability in quantity surveying practice as well as the impact of advanced digital technology such as Building Information Modelling on Cost management are also examined."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Evaluate a contractor\u2019s tender based on priced Bill of Quantities or Builders Quantities and prepare a tender evaluation report.",
+        "Apply parametric and probabilistic estimating methods to project cost estimation.",
+        "Develop, evaluate and interpret a life cycle cost model for a simple commercial building using Microsoft Excel spreadsheet.",
+        "Describe and analyse the role of quantity surveyors in risk assessment as well as the principles of professional liability in quantity surveying practice.",
+        "Identify and describe some of the emerging and future roles and responsibilities of quantity surveyors in the construction industry."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ABPL90208",
+                    "ABPL90413"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Group assignment equivalent to 1000 words per student focusing on a financial feasibility discounted cash-flow analysis and / or coupled with a life cycle cost assessment of a hypothetical project from the perspective of the developer. Students will submit feasibility and /or life cycle cost assessment report.. 1000 words (each)",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Individual assignment equivalent to 2000 words focusing on Tender Evaluation for a building project. Students will submit a tender evaluation report.. 2000 words",
+            "timing": "Week 10",
+            "percentage": "40%"
+        },
+        {
+            "description": "Two hour examination,  focusing on advanced cost management theories and techniques covered during the semester.. 2 hours. Hurdle requirement:. A minimum mark of 40% has to be achieved in the examination in order to pass this subject",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Ajibade Aibinu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject coordinators"
+                ],
+                "email": [
+                    "aaibinu@unimelb.edu.au",
+                    "lawther.p@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

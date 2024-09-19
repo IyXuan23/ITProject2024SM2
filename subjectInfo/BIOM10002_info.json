@@ -1,0 +1,132 @@
+{
+    "subject name": "Exploring Biomedicine",
+    "subject code": "BIOM10002",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject examines the five core concepts in biology: evolution, structure & function, regulation, transmission of information and interconnectedness. These biological concepts will first be introduced broadly, followed by a more focused exploration of how they apply in human health and disease. Specific diseases will be viewed through the lens of the central disciplines of Biomedical Science to elaborate on how the five core concepts relate to molecules and genes, cells and tissues, organs and systems; and individuals and populations of both humans and pathogens."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate an understanding of evolution and the underlying processes that have resulted in the diversity and complexity of life",
+        "Describe the structural and functional complexity that results from the aggregation of cells into organised organs and systems",
+        "Explain metabolic and physiological regulation as it relates to the maintenance of homeostasis in health and how it is perturbed in disease",
+        "Identify communication and information flows between organisms and within and between populations",
+        "Explain the interconnectedness in living systems, with a focus on humans and their pathogens",
+        "Identify connections between major concepts in biology within the context of human diseases",
+        "Develop literature research skills  specific to the biomedical sciences",
+        "Demonstrate effective communication of biomedical science concepts to a scientifically literate audience"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOM10001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "The above subject can also be taken concurrently (at the same time)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "4 pre-class, in-class or online quizzes. 2.5% each. 400 words",
+            "timing": "Throughout semester, approximately one every 3 weeks",
+            "percentage": "10%"
+        },
+        {
+            "description": "Conference abstract. 200 words",
+            "timing": "From Week 3 to Week 4",
+            "percentage": "5%"
+        },
+        {
+            "description": "Virtual conference ePoster + 2 minute video synopsis. 400 words (equivalent)",
+            "timing": "From Week 6 to Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "Annotated bibliography. 300 words (equivalent)",
+            "timing": "From Week 8 to Week 9",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written assignment. 1000 words",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written Exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "description": "Hurdle requirement:. Must attend at least 75% of workshops",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinators": "Amber Willems-Jones and Charlotte Clark"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Up to 2 hours of asynchronous recorded lectures per week and 2 hours of synchronous workshops per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "biom-10002@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to Bachelor of Biomedicine students"
+        ]
+    }
+}

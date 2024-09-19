@@ -1,0 +1,139 @@
+{
+    "subject name": "Graphic Design Studio 3",
+    "subject code": "GDES30003",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is the capstone subject for the Graphic Design major in the Bachelor of Design, and will integrate previous coursework in the major. The core of the undergraduate sequence in the major is the development of both design thinking and dexterity with tools.",
+        "The focus of the investigations of this subject will be a range of graphic design projects including, book design, exhibition catalogues and web-based communication collateral. Students will be expected to prepare a visually presented portfolio, that reflects examples of relevant professional practice in the design industry.",
+        "Materials and SoftwareAdobe CC is required software for this subject. Please note that Adobe CC software is available in the labs on campus for all Breadth and Graphic Design students."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "confidently engage with and contribute to a design studio culture and its working methodology;",
+        "employ high-level representational and compositional skills to generate and present ideas in digital, analogue and other formats;",
+        "demonstrate comprehensive digital and analogue graphic skills, including print, screen and interactive applications;",
+        "create a prototype design proposal for presentation in a critical setting;",
+        "apply design methodologies and problem solving to a professional project or individually devised schemas, with a focus on print and screen-based presentation;",
+        "demonstrate a high level of understanding of cultural, historical and environmental contexts, including social and economic factors, and an ability to incorporate these into design projects;",
+        "demonstrate an awareness of the environmental impacts of graphic design, including use of recycled materials and responsible disposal of hazardous materials;",
+        "demonstrate an understanding of the functional and pragmatic aspects of graphic design practices, and apply this knowledge into a comprehensive capstone design project;",
+        "demonstrate an understanding of the role of design in addressing issues of environmental sustainability, experimental and sensory design intentions;",
+        "demonstrate the ability to communicate a design proposal in a public setting, and to respond constructively to critical interrogation and review."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "GDES30001",
+                    "GDES30002",
+                    "GDES30007",
+                    "GDES30008"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Design Brief 1: 10-minute Individual oral presentation: a review (critique), demonstrating design output that may include physical or digital models, drawings, written assignments, journals and sketches (equivalent to 40-50 hours of work).. 50 hours",
+            "timing": "Early in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Design Brief 2: 10-minute Individual oral presentation: a review (critique), demonstrating design output that may include physical or digital models, drawings, written assignments, journals and sketches (equivalent to 40-50 hours of work).. 50 hours",
+            "timing": "Mid teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Design Brief 3: 10-minute Individual oral presentation: a review (critique), demonstrating design output that may include physical or digital models, drawings, written assignments, journals and sketches (equivalent to 40-50 hours of work).. 50 hours",
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "15-minute oral presentation: an end-of-semester review (critique), building on skills and themes developed throughout the semester, demonstrating design output that may include physical or digital models, drawings, written assignments, journals and sketches (equivalent to 60-70 hours of work).\r\n\r\nDesign Journal: equivalent to a 1000-word essay, approximately 20 hours of work, completed throughout semester, based on themes developed through the lectures.. 100 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance at 75% or more of studios.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Narelle Desmond"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "72 hours, comprising two 3-hour studios per week."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Narelle Desmond:"
+                ],
+                "email": [
+                    "narelle.desmond@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Materials and SoftwareAdobe CC is required software for this subject. Please note that Adobe CC software is available in the labs on campus for all Breadth and Graphic Design students."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Design"
+            ]
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

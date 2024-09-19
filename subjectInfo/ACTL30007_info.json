@@ -1,0 +1,127 @@
+{
+    "subject name": "Actuarial Modelling III",
+    "subject code": "ACTL30007",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to provide a grounding in stochastic modelling techniques that are of particular relevance to actuarial work in general insurance, covering  loss distribution with and without risk sharing,  calculation of moments and moment generating function of aggregate claims, recursion formulae, effect of reinsurance, individual risk model involving recursion formulae and approximations, modelling dependence by copulas, extreme value theorems and applications, and time series models."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Apply relevant pre-requisite knowledge of mathematics, probability theory and statistics in the solution of a range of practical problems.",
+        "Derive and calculate probabilities for, and moments of, loss distributions both with and without simple reinsurance arrangements.",
+        "Estimate the parameters of a loss distribution when data is complete or incomplete.",
+        "Fit a statistical distribution to a dataset and perform goodness-of-fit tests.",
+        "Construct risk models appropriate for short term insurance contracts and derive both moments and moment generating functions for aggregate claim amounts under these models with and without simple forms of proportional and excess of loss reinsurance.",
+        "Derive recursion formulae and apply approximation methods to calculate aggregate claims distributions.",
+        "Describe and apply copulas to model dependent risks.",
+        "Apply extreme value theory in modelling the distribution of severity of loss.",
+        "Describe and apply the main concepts and properties underlying the analysis of several time series models."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST20005"
+                ],
+                [
+                    "ACTL20003",
+                    "MAST20005"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "For 2020, students must have completed both of:",
+                "ACTL20002 Financial Mathematics II",
+                "From 2021, students must have completed both of:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1. 1500 words",
+            "timing": "Second half of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Mid-semester test. 1000 words",
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours. Hurdle requirement:. To pass this subject, students must pass the end-of-semester examanination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Benjamin Avanzi"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Benjamin Avanzi:"
+                ],
+                "email": [
+                    "b.avanzi@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Prescribed textbooks are:\u2022 Wuthrich, Mario V., Non-Life Insurance: Mathematics & Statistics (January 7, 2020). Available at SSRN:https://ssrn.com/abstract=2319328\u2022 Shumway, Robert H., Stoffer, David S. (2017) Time Series Analysis and Its Applications With R Examples, Springer, ISBN 978-3-319-52452-8"
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

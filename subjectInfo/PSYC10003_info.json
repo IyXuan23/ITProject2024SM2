@@ -1,0 +1,154 @@
+{
+    "subject name": "Mind, Brain & Behaviour 1",
+    "subject code": "PSYC10003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Mind, Brain & Behaviour 1 provides an introduction to the psychological concepts, theories and neural mechanisms that explain how we sense, perceive, learn, think and remember. Students are introduced to the research methods used in psychology for answering questions and solving problems related to human behaviour. Students apply their knowledge and skills in a team-based project that addresses a contemporary problem and communicate their findings in a team-based presentation. They learn how to build an evidence-based argument and communicate this in an individual literature review or empirical report."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the core psychological theories, models and empirical findings that underpin knowledge of behavioural neuroscience, sensation and perception, learning and memory, psychological research methods and ethics.",
+        "Critically evaluate psychological theories, models, and research.",
+        "Describe, analyse, and interpret psychological data.",
+        "Apply assessment criteria to evaluate the quality of reasoning and argumentation.",
+        "Collaborate effectively within a team to develop a research proposal to investigate a psychological research question.",
+        "Provide constructive feedback to peers about the quality of reasoning and argumentation.",
+        "Independently write a literature review or research report  responding to a psychological question."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "PSYC90097 Mind, Brain and Behaviour 1",
+        "PSYC10006 Mind, Brain, and Behaviour A"
+    ],
+    "assessments": [
+        {
+            "description": "A multiple-choice examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Team-based project (4-5 person team). 1500 words (total)",
+            "timing": "From Week 5 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual literature review or report. 1200 words",
+            "timing": "From Week 9 to Week 12",
+            "percentage": "35%"
+        },
+        {
+            "description": "Research Experience Program (REP) Participate in up to five hours of research activities detailed at https://psychologicalsciences.unimelb.edu.au/research/research-experience-program with 1% awarded for each hour of participation. 5 hours",
+            "timing": "End of the assessment period",
+            "percentage": "5%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance and contribution to 80% of tutorial and team-based classes. Failure to meet this hurdle without documentation of mitigating circumstances will require completion of additional work to be eligible for a passing grade (e.g., a 500 word essay on topic related to missed class/es)",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Meredith McKague"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 one hour lectures (two times a week), and 16.5 hours (11 x 1.5 hours) of practical classes and tutorials. 5 hours of research participation."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "mckaguem@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no prescribed texts for this subject."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Eysenck, M.W. (2009)Fundamentals ofPsychology.Hove, Sussex, UK: Psychology Press/Palgrave Macmillan",
+                    "Ranzijn, R., McConnochie, K. & Nolan W. (2009)Psychology and indigenous Australians: Foundations of cultural competence.Palgrave Macmillan",
+                    "Smyth, T.R. (2004)The Principles of Writing in PsychologyBasingstoke, Hampshie, UK: Palgrave Macmillan",
+                    "Gravetter, F.J. & Wallnau L.B. (2009)Statistics for the Behavioural Sciences(7th ed.). Belmont CA: Wadsworth/Thomson Learning",
+                    "Gravetter, F.J. & Forzano, L-A.B. (2010)Research Methods for the Behavioural Sciences(custom publication of the complete book). Belmont CA: Wadsworth/Thomson Learning"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

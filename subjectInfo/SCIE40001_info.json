@@ -1,0 +1,116 @@
+{
+    "subject name": "Critical Thinking in Research",
+    "subject code": "SCIE40001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject will provide students with an opportunity to develop some critical thinking skills that are required for a variety of research activities. These skills will be gained from discussions, and critical evaluations, of some recently published research papers. In their written submissions, students will be required to write succinctly and accurately, while at the same time demonstrate their critical thinking in the set tasks. Attendance at regular research seminars delivered within the Faculty is recommended. Some discussion of the Faculties\u2019 research programs which are relevant to the student\u2019s research project will be expected."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate detailed knowledge of different perspectives within veterinary and agricultural science discipline;",
+        "Apply an independent approach to critically review a scientific manuscript;",
+        "Apply an independent approach to succinctly summarise a research paper;",
+        "Critically evaluate scientific research and findings;",
+        "Demonstrate methods of enquiry when analysing the design and interpretation of experiments;",
+        "Contribute to the development of ethical practices in all human-animal interactions."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "BH-AGR Bachelor of Agriculture (Degree with Honours)",
+                "BH-SCI Bachelor of Science (Degree with Honours)",
+                "BH-BMED Bachelor of Biomedicine (Degree with Honours)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Abstract and title for a provided paper that has the abstract and title blanked out. 500 words",
+            "timing": "Early in the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Critical evaluation and review of a manuscript into which flaws have been introduced. 1500 words",
+            "timing": "Mid semester",
+            "percentage": "35%"
+        },
+        {
+            "description": "Essay based on how the student's research project fits in with the broader research programs within the Faculty, due in the last week of semester. 2000 words",
+            "timing": "Late in the teaching period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinators": "Andres Diaz Mendez and Carol Hartley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "andres.diaz@unimelb.edu.au",
+                    "carolah@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

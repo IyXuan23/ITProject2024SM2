@@ -1,0 +1,147 @@
+{
+    "subject name": "Staging German",
+    "subject code": "GERM30025",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is the capstone for all students completing a major in German Studies, regardless of entry level. In this subject, students extend and apply their learning in German language and cultural studies to a real-world context: the staging of a student theatre production in German, for an internal and external audience. Students will engage with the history of German-language theatre and will gain in-depth knowledge of one play, including its historical context, performance history and generic features. Students will work with a high degree of independence in regard to the interpretation and staging of the play. They will use their skills in German language and literary interpretation to research the play, its context and content."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe key aspects of German-language theatre in the modern era",
+        "Analyse, interpret and contextualise a prescribed theatre text on the basis of scholarly research and close reading",
+        "Communicate effectively in written and spoken German with internal and external stakeholders",
+        "Apply their intercultural understanding of German, Australian and other cultures to the staging of a German play."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "GERM10006",
+                    "GERM20007",
+                    "GERM30005"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Note: these can be taken concurrently (at the same time)"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admitted in German Studies Entry Point 7"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Test on German theatre history. 1 hours",
+            "timing": "Week 5",
+            "percentage": "25%"
+        },
+        {
+            "description": "Test on theatre text. 1 hours",
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "description": "A scene analysis, or character profile, written in German. 1000 words",
+            "timing": "End of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Theatre performance or performance support (1000 words (equivalent) per student). 1000 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Heather Benbow"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total 48 hours: 1 x 1 hour Tutorial and 1 x 2 hour seminar per week for 12 weeks and 1 x 2 hour workshop for 6 weeks"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "benbow@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,138 @@
+{
+    "subject name": "Oral Health Sciences 1",
+    "subject code": "ORAL10003",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "This subject comprises five modules:",
+        "General Anatomy and Physiology:this subject component integrates the structure and function of human body systems relevant to the oral health care of the dental patient. Topics to be covered include the structure and function of the cardiovascular, lymphatic, nervous, respiratory and gastrointestinal systems.",
+        "Oral Anatomy and Histology: this subject component covers the hard and soft tissues of the human dentition. Topics to be covered include the morphological anatomy of both the deciduous and permanent dentition as well as the development and microscopic structure of the human oral tissues such as enamel, dentine, dental pulp and the periodontal ligament.",
+        "Plaque Related Diseases: this subject component integrates concepts in microbiology, microbial ecology, biochemistry, immunology and physiology that are relevant to the understanding of oral health and disease. Throughout this subject, students will develop knowledge regarding the common oral diseases that are caused by bacteria that are part of dental plaque, especially periodontitis and dental caries (tooth decay). Students will gain knowledge of the theoretical basis supporting the prevention of these diseases at an individual and community level.",
+        "Head and Neck Anatomy:this subject component integrates the structure and function of body tissues of the head and neck including the embryology of the craniofacial region, the structure and function of the nerve and vascular supply of the head and neck, lymphatic drainage of the head, osteology of the skull, myology of the head and neck and the pterygomandibular space.",
+        "Pathology: this subject component covers inflammation and infections, defense mechanism, immunology, healing and repair; pathological conditions causing abnormal bleeding; neoplasia and cardio-vascular disease; disorders of the nervous system and endocrine system; and infectious diseases and allergies."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "employ the terminology of anatomy, biochemistry, microbiology, oral anatomy and histology including odontogenesis as it related to oral health care;",
+        "discuss the principal clinical applications of anatomy, physiology, biochemistry, microbiology, microbial ecology, oral anatomy and histology in oral health care;",
+        "discuss the principles of the aetiology and prevention of common oral diseases;",
+        "summarise the mechanisms of action of primary prevention of the plaque related diseases (dental caries and periodontal diseases);",
+        "justify the application of appropriate preventive regimes for dental caries and periodontal diseases;",
+        "recognise healthy oral tissues and the clinical appearance of dental caries and periodontal disease;"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "Mid-year",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "End of the assessment period",
+            "percentage": "35%"
+        },
+        {
+            "description": "Practical workbook. 500 words (equivalent)",
+            "timing": "End of the assessment period",
+            "percentage": "7.5%"
+        },
+        {
+            "description": "Class test. 1 hours",
+            "timing": "Middle of first half of year teaching period",
+            "percentage": "7.5%"
+        },
+        {
+            "description": "1 x 500-word reflective journal entry. 500 words",
+            "timing": "Second half of the teaching period",
+            "percentage": "2.5%"
+        },
+        {
+            "description": "20 x quizzes x 5 minutes. 5 minutes",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "In-class Test. 1 hours",
+            "timing": "Middle of second half of year teaching period",
+            "percentage": "7.5%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Principal coordinator": "Julie Owen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "96 hours of lectures, seminars, practical work and computer assisted learning."
+                },
+                {
+                    "Total time commitment": "408 hours"
+                },
+                {
+                    "Pre teaching start date": "19 February 2024"
+                },
+                {
+                    "Pre teaching requirements": "Attend Orientation activities."
+                },
+                {
+                    "Teaching period": "26 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "1 March 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [],
+                "email": [
+                    "https://ask.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": []
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

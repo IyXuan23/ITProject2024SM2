@@ -1,0 +1,159 @@
+{
+    "subject name": "Applied Instrumental and Vocal Teaching",
+    "subject code": "MUSI90149",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject examines the principles and practice of instrumental and vocal teaching covering beginners to advanced students. It includes study and application of the methodologies appropriate to a variety of music performance teaching situations including individual, group, and ensemble settings and consideration of ethical teaching principles.",
+        "Co-curricular studies such as music literacy, music theory, history and aural training are integrated into the study. The balance of \u2018music intrinsic\u2019 and broader outcomes, including the acquisition of social, collaborative and life skills are considered.",
+        "A specific study of instrumental acoustics supports practical teaching and the development of a teaching philosophy will provide a basis for continued growth as a music performer-teacher."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "effectively implement performance learning experiences for a range of students in various settings, applying theories, processes and curriculum studied elsewhere in the degree;",
+        "identify and promote relationships between music performance learning and co-curricular musical learning (music literacy, music theory and aural training) and between music performance learning and extra-musical learning, particularly with regard to skills for life;",
+        "express a working knowledge of acoustics as applied to the function and tuning of instruments, and performance situations as well as specific knowledge of their own instrument;",
+        "demonstrate a broad knowledge of current music teaching philosophies and to develop a personal philosophy for instrumental / vocal teaching; and",
+        "demonstrate teaching strategies that reflect a sound understanding of the creative process."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MUSI90150"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written assignment. 1250 words",
+            "timing": "Early in the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written essay. 2000 words",
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "30-minute practical test. 1700 words (equivalent)",
+            "timing": "During the assessment period",
+            "percentage": "35%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum of 80% of all scheduled classes.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Leon de Bruin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours, comprising twelve 2-hour workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Leon de Bruin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours, comprising twelve 2-hour workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Leon de Bruin:"
+                ],
+                "email": [
+                    "leon.debruin@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Leon de Bruin:"
+                ],
+                "email": [
+                    "leon.debruin@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "A reading package will be available on the LMS prior to the commencement of the subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

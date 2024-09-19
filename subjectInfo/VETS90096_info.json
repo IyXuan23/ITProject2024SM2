@@ -1,0 +1,134 @@
+{
+    "subject name": "Veterinary Professional Practice 5",
+    "subject code": "VETS90096",
+    "subject availability": [
+        "Year Long (Extended)"
+    ],
+    "overview": [
+        "This subject is composed of 23 weeks of Core and Track clinical rotations undertaken within the University Veterinary Hospital and at external locations, and 21 weeks of clinical extramural placements. Students also participate in the Capstone activities at the conclusion of their clinical training and assessment tasks.",
+        "This subject includes training in clinical disciplines that include anesthesiology, anatomical pathology, clinical pathology, conservation and Wildlife medicine, diagnostic imaging, equine medicine and surgery, production animal medicine and surgery, shelter medicine and surgery, small animal emergency and critical care, small animal medicine and surgery and veterinary public health/epidemiology.",
+        "The clinical extramural placements can be undertaken in approved veterinary practices in Australia or internationally, in government veterinary laboratories or other organisations, or in a veterinary research environment. Students may commence these extramural placements immediately after achieving passes in all DVM 3 level subjects.",
+        "After completion of the 42 weeks of clinical training, the subject concludes with a Capstone series of lectures and workshops which review topics that prepare students for transition to the workplace and their veterinary professional careers."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate appropriate, context-specific professional behaviours in order to effectively work within a team and communicate professionally with colleagues and members of the public",
+        "Obtain a history and perform a clinical examination in order to formulate a prioritised differential diagnosis list and devise an appropriate diagnostic plan",
+        "Select, perform and interpret appropriate diagnostic investigations in order to establish a definitive diagnosis",
+        "Demonstrate technical proficiency in entry level clinical skills in order to successfully perform common procedures in the major domestic species",
+        "Evaluate and integrate information from a range of sources in order to identify potential biosecurity and public health issues and implement measures that will limit pathogen transmission to humans or other animals",
+        "Gather and assimilate relevant environmental, animal, herd, client, health and welfare information in order to formulate and recommend prevention, control and therapeutic plans for individual animals and populations",
+        "Apply ethical and legal standards in order to make decisions and recommendations on the appropriate use of medicines and treatments including euthanasia and the completion of certification",
+        "Gather, analyse, synthesise and communicate scientific evidence in order to practice evidence-based medicine and answer a research question"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Satisfactory completion of all subjects at DVM 3 level"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Core and Track clinical rotations; 23 weeks total. 115 days (placement). Hurdle requirement:. Students must pass each Core and Track clinical rotation.",
+            "timing": "Continuous assessment throughout the teaching period",
+            "percentage": "87.5%"
+        },
+        {
+            "description": "Clinical extramural placements; 21 weeks total. 105 days (placement). Hurdle requirement:. Students must complete a total of 21 weeks of extramural placements in accordance with the DVM Clinical Extramural Studies Guide by the end of the teaching period (i.e. 17 weeks in the fourth year and 4 weeks prior to the start of the fourth year).",
+            "timing": "End of the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Up to 10 Clinical skills assessments \r\n(Pass/fail only). 4000 words (equivalent). Hurdle requirement:. Students must pass all assessments of professional entry-level clinical skills by the end of the teaching period.",
+            "timing": "End of the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Students must pass the written examination.",
+            "timing": "End of the teaching period",
+            "percentage": "12.5%"
+        },
+        {
+            "description": "Attendance - Capstone, approximately 3 days. Hurdle requirement:. Students must attend the Capstone activities.",
+            "timing": "End of the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Aggregate Mark. Hurdle requirement:. Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long (Extended)": [
+                {
+                    "Principal coordinator": "Fiona Witham"
+                },
+                {
+                    "Coordinator": "Rachael-Kate Llewellyn"
+                },
+                {
+                    "Mode of delivery": "On Campus (Werribee)"
+                },
+                {
+                    "Contact hours": "1, 760 hours (comprising 115 days of Core and Track clinical rotations, 105 days of clinical extramural placements and a 3\u2010day Capstone experience)"
+                },
+                {
+                    "Total time commitment": "1,740 hours"
+                },
+                {
+                    "Teaching period": "15 January 2024 to  1 November 2024"
+                },
+                {
+                    "Last self-enrol date": "26 January 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long (Extended)": {
+                "name": [],
+                "email": [
+                    "rachaelkate.llewellyn@unimelb.edu.au",
+                    "fwitham@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "These are rotation-dependent and will be provided prior to the start of each individual rotation."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "The requirement of students to complete extramural placements and some rotations on sites external to the Werribee campus may incur additional incidental costs associated with travel and/or accommodation. The amount of these incidental expenses will depend on the location of these external placements. Students should take into account expected incidental expenses prior to organising or confirming external placements."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

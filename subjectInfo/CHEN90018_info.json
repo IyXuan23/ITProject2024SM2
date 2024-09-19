@@ -1,0 +1,165 @@
+{
+    "subject name": "Particle Technology",
+    "subject code": "CHEN90018",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject covers aspects related to particle technology including powder and suspension processing. Initially, the student learns how to describe particles and systems of particles in terms of size, shape and distribution. Particle formation and synthesis will be covered.  Understanding of the basic mechanics of fluid flow around particles is described. This knowledge is used as the basis for designing unit operations associated with powders and suspensions, including particle classification, particle breakage (comminution) and agglomeration, packed beds and fluidisation, flotation and powder storage in hoppers.  Particle systems will be simulated using Discrete Element Modelling.  The combination and variety of topics in this subject provides students with an appreciation of particulate processing. This knowledge is vital for numerous industries including (but not limited to) mineral processing, potable water treatment, wastewater treatment, food and pharmaceuticals.",
+        "Particle size and measurement of particle size, shape factors, differential and cumulative distributions, mean size, median size and surface area",
+        "Particle formation processes",
+        "Generalised description of separation and classification efficiency based on particle size, density and composition. Hydrocyclones, screens and data reconciliation for particulate separators, including the two-product formula",
+        "Comminution, Bond work index, matrix description of size reduction and milling circuit simulation, comminution circuits and liberation of particles from composite particles",
+        "Flow properties of solids, design of bins and hoppers, mass and channel flow",
+        "Particle settling including single particle and hindered gravity sedimentation",
+        "Pressure filtration",
+        "Motion of particles in fluids, fluidisation, minimum fluidisation velocity and bed expansion, flow of fluids through granular beds",
+        "Modelling of particle systems"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Be able to describe particles and systems of particles and appreciate the flow behaviour of particulate materials",
+        "Design unit operations associated with particulate powders and slurries common to the materials, food, water, pharmaceuticals and minerals processing industries",
+        "Appraise different proposals for unit operations in comminution and particle liberation, particle separation, hopper flow",
+        "Be able to design unit operations involving fluidisation and flow through packed beds",
+        "Be fluent in Discrete Element Modelling of particle systems."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ENGR30002"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST20009",
+                    "MAST20029",
+                    "MAST20032"
+                ]
+            ],
+            "alternate pre-requisite": [
+                "Or equivalent approved by the subject coordinator"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-CHEMENG Master of Chemical Engineering",
+                "Chemical specialisation (formal) in the MC-ENG Master of Engineering",
+                "Biochemical specialisation (formal) in the MC-ENG Master of Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "10 x weekly online quizzes worth 10 marks each (10% total). Each quiz reinforces the week's lectures and address Intended Learning Outcomes (ILOs) 1 to 5. Assessed within weeks 2 to 11. 10 minutes",
+            "timing": "From Week 2 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written experimental report not exceeding 1000 words, based on the 3 hour practical experiment. ILOs 1, 2 and 4 are addressed in the practical.. 12-14 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written assignment not exceeding 1000 words. ILOs 3 and 4 are addressed in the assignment. 10-13 hours (of work required)",
+            "timing": "Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written closed book examination. ILOs 1 to 4 are addressed in the exam.. 3 hours. Hurdle requirement:. The final exam must be passed (with minimum score of 40%) to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Anthony Stickland"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 2-hour lecture and 2 x 1-hour lectures + 1 x 1-hour tutorial per week + 1 x 3-hour practical"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures, guest lectures, tutorials, online quizzes and a practical experiment. The tutorials include aspects of student-centred learning. Regular online quizzes are used to assist student progress and understanding. Students also complete an assignment which reinforces the material covered in lectures.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students have online access to lecture slides and lecture recordings through the subject LMS site. The site also contains tutorials and worked solutions.",
+            "The key texts for the subject are:",
+            [
+                "Rhodes, M.J., 1998, Introduction to Particle Technology, Wiley, Chichester",
+                "Coulson, J.M. and Richardson, J.F., 1991,Chemical Engineering, vol 2, 4th Ed, Particle Technology and Separation Processes, Pergamon Press, Oxford",
+                "Kelly, E.G. and Spottiswood, D.J., 1989, Introduction to Mineral Processing, John Wiley and Sons"
+            ],
+            "CAREERS / INDUSTRY LINKS",
+            "The knowledge gained through this subject is crucial to the career of a process engineer, since 75% of chemical manufacturing processes involve small particles at some point in the process. This subject is vital for students wishing to progress to jobs in engineering design offices and in operational roles within a wide range of industries including minerals processing, water and wastewater treatment, paints and coatings, food processing and ceramics to name just a few."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

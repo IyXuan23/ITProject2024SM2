@@ -1,0 +1,139 @@
+{
+    "subject name": "French IV: Honours Language I",
+    "subject code": "FREN40005",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject is intended primarily to foster students' writing skills, with a particular focus on academic writing. Students will analyse a range of academic texts and learn to identify and use the rhetorical features inherent to French academic discourses. In each text they will identify features of large-scale organisation, stylistic and rhetorical procedures and unfamiliar lexical items. They will also acquire an in-depth understanding of appropriate use of connectors and other rhetorical devices to (1) achieve meaning in a complex argumentative texts and (2) present and develop their own arguments in a clear, coherent and convincing fashion in both oral and written forms. Aspects of French grammar will be explored in context as difficulties occur. Although students undertaking thesis writing in French will find this subject particularly useful, students interested in the advanced mastery of French in both oral and written forms will find this subject rewarding."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Have enhanced oral-aural communication skills required in normal and professional life, in particular for oral presentations (exposes, interviews, debates, etc.) by learning appropriate strategies and operating at various levels of formality",
+        "Have enhanced their pronunciation, in particular acquisition of native-like patterns of delivery",
+        "Have enhanced their ability to write and translate (French-English, English-French) texts of various length, in different registers (in particular French academic writing)",
+        "Have enhanced their mastery of a wide range of vocabulary related to the themes and genres studied in class",
+        "Have enhanced their ability to analyse, discuss and use complex grammatical and discourse structures at sentence and text level."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "French Studies specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)",
+                "Graduate Diploma in Arts (Advanced) - French informal specialisation in the GDA-ARTS Graduate Diploma in Arts (Advanced)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A summary of an argumentative text (in class). 250 words",
+            "timing": "Week 6",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written test (explication de texte) (in class). 750 words",
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "description": "An oral presentation. 1000 words",
+            "timing": "From Week 8 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "A subsequent write up in essay form. 2000 words",
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "description": "On line blog (5 entries, weeks 2,4,6,8,10). 1000 words",
+            "timing": "From Week 2 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Hurdle requirement:. 1.\tAttendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Bertrand Bourgeois"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours: 1 x 2-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "bbo@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Materials will be made available through the School."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/soll"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

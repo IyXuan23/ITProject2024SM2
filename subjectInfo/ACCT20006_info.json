@@ -1,0 +1,129 @@
+{
+    "subject name": "Business Forensics and Fraud",
+    "subject code": "ACCT20006",
+    "subject availability": [],
+    "overview": [
+        "This subject considers business fraud and forensic processes from an accounting perspective. The subject introduces students to various types of fraud, considering recent trends in fraudulent business activities both within Australia and globally. Regulatory requirements and best practice procedures for the design of fraud management (prevention) programs are considered and the latest in fraud detection methods (with an emphasis on information technology tools) are evaluated. The subject also considers the role of accounting in fraud and other business forensic investigations in the context of the Australian legal framework including: methods for obtaining and controlling evidence; conducting investigations; quantifying loss and damage; and the presentation of evidence in court as an expert witness."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Define fraud;",
+        "Explain and describe different types of fraud and fraud schemes;",
+        "Describe recent fraud trends in the Australian and broader international context;",
+        "Recommend corporate governance measures and accountability frameworks that can be used in the prevention of fraud;",
+        "Explain and apply fraud detection processes;",
+        "Explain the law of evidence as it applies within the Australian corporate regulatory framework;",
+        "Explain forensic processes for fraud investigation including the identification of relevant information and facts to be used to quantify loss and damage in cases involving a civil wrong or breach of contract; and",
+        "Describe the key elements of an expert witness report."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ACCT10002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Group assignment (normally in groups of 3-4 students). 2000 words",
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Seminar preparation and participation",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester exam. 3 hours. Hurdle requirement:. To pass this subject, students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Winter Term": [
+                {
+                    "Principal coordinator": "Dean Newlan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three 1.5-hour seminars and three 1.5-hour workshops per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "24 June 2024 to 19 July 2024"
+                },
+                {
+                    "Last self-enrol date": "28 June 2024"
+                },
+                {
+                    "Census date": "5 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "26 July 2024"
+                },
+                {
+                    "Assessment period ends": "2 August 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Winter Term": {
+                "name": [],
+                "email": [
+                    "accounting-teaching@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,167 @@
+{
+    "subject name": "The Ethics of Artificial Intelligence",
+    "subject code": "COMP90087",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to provide students with the necessary tools to: identify social and ethical issues of digital technology particularly artificial intelligence and reason about these issues; communicate concerns, or discuss ideas, from differing points of view; and ultimately build technology with awareness of, and respect for, inclusion and the responsibility that comes with building powerful tools. Not contemplating ethical or social implications of AI and other technological tools may open up unintended consequences and risks. Ethical dilemmas can also cause additional personal stress for individuals who lack the skills to think about them reflectively. For these reasons, the growing societal and ethical problems raised by artificial intelligence and other technologies have become a major focus of many organisations, including for start-ups, government, defence, and many corporations.",
+        "Topics include:",
+        "the history of artificial intelligence",
+        "established ethical theories and concepts and their relation to artificial intelligence and technology",
+        "fairness, equity, and discrimination in automated decision making",
+        "accountability, explainability, and transparency of AI",
+        "practical approaches and ethical frameworks for designing, developing and deploying technology responsibly"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand and describe the social and ethical issues raised by technology in various contexts",
+        "Apply established ethical theories to reason about social and ethical issues related to technology",
+        "Critically examine, analyse, and apply ethical perspectives to design, develop and deploy of digital technologies responsibly",
+        "Communicate perspectives to other technical professionals and the community at large",
+        "Demonstrate a profound respect for that fact that just because you can, does not mean you should create a technology"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP10001",
+                    "COMP10002",
+                    "COMP20003",
+                    "COMP20007",
+                    "COMP90041",
+                    "COMP90059",
+                    "ENGR30004"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Equivalent introductory programming and algorithms experience"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-CS Master of Computer Science",
+                "MC-SCICMP Master of Science (Computer Science)",
+                "MC-DATASC Master of Data Science",
+                "MC-SOFTENG Master of Software Engineering",
+                "MC-DINFENG Master of Digital Infrastructure Engineering",
+                "Software specialisation (formal) in the MC-ENG Master of Engineering",
+                "Software with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                "100pt Program course entry point in the MC-IT Master of Information Technology",
+                "150pt Program course entry point in the MC-IT Master of Information Technology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ISYS90051",
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "Tutorial participation  and contributions to online discussion. Two hours per week. Intended Learning Outcomes (ILO's) 1 to 4 are addressed by tutorial participation and contributions to online discussion.",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Critical evaluation essay. ILO's 1 to 5 are addressed in the essay.. 35-45 hours",
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "description": "Research essay. Due first week of examination period.\r\nILO's 1 to 5 are addressed in the essay.. 35-45 hours",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Exam. ILO's 1 and 2 are addressed in the exam.. 1 hours",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Simon Coghlan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising one 2-hour lecture and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Simon Coghlan"
+                ],
+                "email": [
+                    "simon.coghlan@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures and tutorials."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

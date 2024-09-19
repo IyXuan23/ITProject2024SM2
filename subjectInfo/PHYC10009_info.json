@@ -1,0 +1,147 @@
+{
+    "subject name": "Foundations of Physics",
+    "subject code": "PHYC10009",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject is designed for students with a minimal background in Physics and aims to provide a foundation in physics understanding for a range of important physics principles and applications. Emphasis is placed on key concepts rather than detailed analysis.Topics include:",
+        "Mechanics: describing and explaining translational motion (1-D and 2-D); laws of motion and forces; energy transfer; momentum and impulse; equilibrium in the context of human and animal movement and transport.",
+        "Waves: explore wave properties of reflection, refraction, interference and diffraction of water, light and sound in the context of optics, hearing and ultrasound.",
+        "Electrostatics and Electricity: describe than explain the effects of charge on different materials and objects; explore moving charges and electrical components such as batteries and resistors in simple electrical circuits.",
+        "Magnetism: describe the effects and origin of magnetic fields; explore the relationship between charges and magnetic fields in the context of induction and electrical motors.",
+        "Modern Physics: explore and describe the concepts behind the experiments that lead to our understanding of modern physics; Rutherford gold foil experiment, Double-Slit experiment and the Photoelectric Effect."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "understand and explain the physics principles of translational mechanics, light, water and sound waves, electrostatics and electrity, magnetism and elements of modern physics;",
+        "apply these principles using logical reasoning, together with appropriate mathematical reasoning, to a variety of familiar and novel situations and problems;",
+        "make considered and logical predictions of the outcomes of different physical situations in the context of the relevant physics principles; and",
+        "acquire experimental data using a range of measurement instruments and interpret these data."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST10014",
+                    "MAST10015"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "VCE Units 3 and 4 Mathematical Methods or equivalent"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the B-SCI Bachelor of Science"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "Students who have achieved a study score of 25 or more in VCE Physics 3 and 4 or equivalent",
+        "Such students are advised to enrol in PHYC10003 \u2013 Physics 1"
+    ],
+    "assessments": [
+        {
+            "description": "Assessment of practical work (Please see below). Hurdle requirement:. Satisfactory completion of practical work is necessary to pass the subject (i.e. attendance and submission of work for at least 80% of workshop sessions together with a result for assessed work of at least 50%).",
+            "timing": "Throughout the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Ten weekly assignments (10 x 1.5%). 60 minutes (each)",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Jacinta Den Besten"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Lectures - 3  x 1 hour lectures per week; \r\nProblem based classes - 1 x one hour class per week\r\nPractical classes - 6 x 2.5 hour laboratory classes fortnightly"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Physics: Principles with Applications, Global Edition, Douglas C. Giancoli, 7th Edition, Pearson 2015"
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

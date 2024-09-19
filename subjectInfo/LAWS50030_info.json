@@ -1,0 +1,145 @@
+{
+    "subject name": "Property",
+    "subject code": "LAWS50030",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces students to the principles of real property in Australian law and examines the role of property law in defining and regulating relationships between private individuals, between the Crown and the public, and between the Crown and Aboriginal and Torres Strait Islander peoples.",
+        "Topics include:",
+        "the concept of property in historical, social and political context, including the origins of property in the English common law and the role of property law in the colonisation of Australia;",
+        "foundational common law concepts of property, including possession and title;",
+        "the fragmentation of proprietary interests in land, including the doctrines of tenure and estates;",
+        "an overview of the legislative regime governing adverse possession of property;",
+        "the history of Australian property law including the acquisition of radical title, Crown powers to deal with land, and the introduction of the Torrens system;",
+        "attempts to recognise Aboriginal and Torres Strait Islander rights to land in Australian law,  including an overview of the native title framework;",
+        "the nature, acquisition, disposal, enforceability and registration of proprietary interests in land under the Torrens system of title by registration;",
+        "the nature, creation, disposal and enforceability of equitable property interests;",
+        "various categories of non-possessory interests in land, including security interests, easements, and profits \u00e1 pr\u00e8ndre; and",
+        "rules for deciding priority between valid but conflicting interests in real property."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Critically examine and discuss property law, including its historical development, key concepts, and its role in defining various social relationships;",
+        "Apply legal rules and analyse complex property law problems, including the acquisition and disposal of proprietary interests and resolution of disputes;",
+        "Critically evaluate policy issues related to property rights, recognise diverse judicial and theoretical approaches, and assess the social and political implications of key issues in property law;",
+        "Recognise and, where relevant, apply the intersections between property and other areas of law, such as contract, tort, equity, and environment and planning law;",
+        "Present legal analysis, arguments, and conclusions in a structured and clear manner; and",
+        "Apply and adapt legal method and reasoning to solve complex property law problems in familiar and novel legal contexts."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "LAWS50023",
+                    "LAWS50024",
+                    "LAWS50026",
+                    "LAWS50028",
+                    "LAWS50029",
+                    "LAWS90140"
+                ],
+                [
+                    "LAWS50025"
+                ],
+                "Note: these can be taken concurrently (at the same time)"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Mid-Semester exam. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Cait Storr"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours"
+                },
+                {
+                    "Total time commitment": "144 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    [
+                        "Brendan Edgeworth, Chris Rossiter, Pamela O\u2019Connor, Andrew Godwin and Leon Terrill,Sackville & Neave: Australian Property Law(LexisNexis Butterworth, 11th ed, 2021); and",
+                        "Specialist subject materials will also be made available from Melbourne Law School."
+                    ],
+                    "Other materials (may be accessed online atwww.legislation.vic.gov.au):",
+                    [
+                        "Transfer of Land Act 1958(Vic)",
+                        "Property Law Act 1958(Vic)"
+                    ]
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    [
+                        "Anthony Moore, Scott Grattan and Lynden Griggs,Australian Real Property Law(Lawbook Co., 7th ed, 2020)",
+                        "Robert Chambers,An Introduction to Property Law in Australia(Lawbook Company, 4th ed, 2019)"
+                    ]
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "If required, please contactlaw-admissions@unimelb.edu.aufor subject coordinator approval.",
+                    "If required, please contactlaw-admissions@unimelb.edu.aufor subject coordinator approval."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

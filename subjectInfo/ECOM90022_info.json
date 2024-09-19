@@ -1,0 +1,109 @@
+{
+    "subject name": "Research Methods",
+    "subject code": "ECOM90022",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject provides an overview of research methodology. It aims to introduce a range of skills that are likely to be encountered during the completion of a Research Project as well as in future research and professional work. These skills will include identifying and applying the appropriate econometric techniques, collecting data, examining the relevant literature and employing effective presentation techniques of results."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify the key components of applied econometrics research;",
+        "Identify the bibliographic and data sources relevant to a research question;",
+        "Critically evaluate the literature relevant to research question;",
+        "Effectively communicate research findings; and",
+        "Demonstrate awareness of ethical approaches to research and work practices."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 100 credit points of study (This is a Capstone subject)"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-APPECON Master of Applied Econometrics"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Initial report. 100 words",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Presentation (oral or equivalent submission including a voice recording or video and/or slides). 10 minutes",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Report 1. 1500 words",
+            "timing": "Week 6",
+            "percentage": "25%"
+        },
+        {
+            "description": "Presentation (oral or equivalent submission including a voice recording or video and/or slides). 10 minutes",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Report 2. 1500 words",
+            "timing": "Week 12",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Andrew Clarke"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 x 1 hour recorded lectures, 1 hour live online tutorial."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

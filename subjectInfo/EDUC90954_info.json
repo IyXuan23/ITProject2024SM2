@@ -1,0 +1,131 @@
+{
+    "subject name": "Science Communication and Technology",
+    "subject code": "EDUC90954",
+    "subject availability": [
+        "July"
+    ],
+    "overview": [
+        "This subject focuses on Science Communication with a particular focus on uses of (digital) technologies. Science communicators have different roles as teachers, journalists, museum curators, each playing a major role in promoting public understanding of science. This subject examines the skills and experiences that participants bring and works with them to further develop their abilities as communicators of science, focusing on opportunities and affordances of using digital technologies. Common practices, goals and outcomes in science communication will be explored, and the mediating influence of beliefs, values and understandings of and about science discussed. In particular, the importance of reflecting a humanistic perspective on science, as recently described in the national curriculum, in order to better engage various audiences (i.e. students, general public etc.) will be discussed."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Apply and evaluate their philosophy for communicating science, and link this to educational theoretical and research literature",
+        "Evaluate a range of social and philosophical issues affecting the success of science communication practices using digital technologies",
+        "Critique and apply principles and theories to (re-)design science communication practices that use digital technologies to engage and educate, and that reflect a humanistic perspective of science"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC90929",
+                    "EDUC90930",
+                    "EDUC91029",
+                    "EDUC91030"
+                ],
+                "*Students that commenced their course prior to 2021 may have completed EDUC90830 in place of EDUC91029, and EDUC90900 in place of EDUC91030:",
+                [
+                    "EDUC90830",
+                    "EDUC90900"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students admitted to courses/entry points not specified below have no prerequisites for this subject.",
+                "Students in the 200-point program of the Master of Education, Master of TESOL or Master of Modern Languages Education, must have completed the following four compulsory subjects*:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual oral presentation (2,000 words equivalent). 20 minutes",
+            "timing": "Early-mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Essay. 3000 words",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. Minimum of 75% attendance at all tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "July": [
+                {
+                    "Coordinator": "Jan van Driel"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 July 2024 to 24 August 2024"
+                },
+                {
+                    "Last self-enrol date": "1 August 2024"
+                },
+                {
+                    "Census date": "9 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "13 September 2024"
+                },
+                {
+                    "Assessment period ends": "2 October 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [],
+                "email": [
+                    "j.vandriel@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

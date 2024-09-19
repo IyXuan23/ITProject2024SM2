@@ -1,0 +1,110 @@
+{
+    "subject name": "MD Research Skills",
+    "subject code": "MEDS90036",
+    "subject availability": [
+        "February"
+    ],
+    "overview": [
+        "Due to the impact of COVID-19, this subject is being undertaken by the Doctor of Medicine Year 3 2020, Year 3 2021, Year 3 2022 and Year 3 2023 cohorts, in lieu of MEDS90026 MD Research Project 2.",
+        "This subject will expand on the research principles introduced earlier in the course will focus on the application of study design methodologies, critical evaluation of scientific literature and statistical analysis in clinical research."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the principles and application of a range of study design methodologies including epidemiological/ population studies, health services research, randomised controlled trials, quantitative studies and qualitative studies"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDS90004"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Module 1 - Advanced Study Design written assessment. 1000 words. Hurdle requirement:. Satisfactory standard",
+            "timing": "End of Module 1",
+            "percentage": "0%"
+        },
+        {
+            "description": "Module 2 - Critical Analysis written assessment. 1000 words. Hurdle requirement:. Satisfactory standard",
+            "timing": "End of Module 2",
+            "percentage": "0%"
+        },
+        {
+            "description": "Module 3 - Statistics weekly online quizzes (x6). 15 minutes (each). Hurdle requirement:. Satisfactory standard in all 6 online quizzes",
+            "timing": "From Week 8 to Week 14",
+            "percentage": "0%"
+        },
+        {
+            "description": "Module 3 - Statistics final online quiz. 75 minutes (total). Hurdle requirement:. Satisfactory standard",
+            "timing": "End of module 3",
+            "percentage": "0%"
+        },
+        {
+            "description": "Research activity written report. 3000 words. Hurdle requirement:. Satisfactory standard",
+            "timing": "Final week of teaching period",
+            "percentage": "0%"
+        },
+        {
+            "description": "Research activity oral presentation. 10 minutes. Hurdle requirement:. Satisfactory standard",
+            "timing": "Final 4 weeks of the teaching period",
+            "percentage": "0%"
+        },
+        {
+            "description": "Professional Behaviour. Hurdle requirement:. Satisfactory standard in professional behaviour, as demonstrated by Professional Behaviour Assessment",
+            "timing": "Throughout the semester",
+            "percentage": "0%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Principal coordinator": "Kesha Rana"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "20 hours synchronous learning + 280 hours asynchronous learning"
+                },
+                {
+                    "Total time commitment": "300 hours"
+                },
+                {
+                    "Teaching period": "12 February 2024 to 27 September 2024"
+                },
+                {
+                    "Last self-enrol date": "28 March 2024"
+                },
+                {
+                    "Census date": "5 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "5 July 2024"
+                },
+                {
+                    "Assessment period ends": "27 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

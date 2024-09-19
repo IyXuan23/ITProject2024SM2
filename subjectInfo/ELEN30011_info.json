@@ -1,0 +1,177 @@
+{
+    "subject name": "Electrical Device Modelling",
+    "subject code": "ELEN30011",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "AIM",
+        "This subject develops the theoretical and practical tools required to understand, construct, validate and apply models of standard electrical and electronic devices. In particular, students will study the theoretical and practical development of models for devices such as resistors, capacitors, inductors, transformers, motors, batteries, diodes, transistors, and transmission lines. In doing so, students will gain exposure to a variety of fundamental fields in physics, including electromagnetism, semiconductor materials and quantum electronics. This material will be complemented by exposure to experiment design and measurement techniques in the laboratory, the application of models from device manufacturers, and the use of electronic circuit simulation software.INDICATIVE CONTENT",
+        "Topics include:",
+        "Vector calculus for device modelling, Maxwell\u2019s equations, physics of conductors and insulators, passive device models (including for resistors, capacitors and inductors), lumped and distributed circuit models for wired interconnections (including treatment of signal integrity and termination strategies), semiconductors and quantum electronics, static and dynamic models for p-n junctions diodes and bipolar junction transistors."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop/interpret useful models for electrical and electronic devices from the underlying physics and/or empirical data",
+        "Use modelling principles in engineering design with an appreciation for the impact of modelling uncertainty and model complexity",
+        "Implement and analyse the results of laboratory experiments for gathering empirical data from electrical and electronic devices",
+        "Use software tools to simulate the behaviour of electrical and electronic devices."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ELEN20005"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ELEN20005"
+                ],
+                [
+                    "PHYC10002",
+                    "PHYC10004"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Graduate Students:",
+                "Admission into one of the following:",
+                "MC-ELECENG Master of Electrical Engineering",
+                "MC-MTRNENG Master of Mechatronics Engineering",
+                "Undergraduate students:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "431-328 Digital Systems 3: Circuits and Systems"
+    ],
+    "assessments": [
+        {
+            "description": "One written examination, not exceeding three hours at the end of semester, worth 50%. Intended Learning Outcomes (ILOs) 1 and 2 are addressed in this assessment.. 3 hours. Hurdle requirement:. Students must pass the sum of the written exam and the mid-semester test to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Continuous assessment via workshop-based project work (group of 2-3 students), not exceeding 30 pages in total over the semester.  Intended Learning Outcomes (ILOs) 3 and 4 are addressed in this assessment.. 30-35 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "A mid-semester test.. 75 minutes. Hurdle requirement:. Students must pass the sum of the written exam and the mid-semester test to pass the subject.",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Peter Dower"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x 1 hour lectures per week and up to 36 hours of workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "pdower@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "TBA"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    [
+                        "W.H. Hayt, J.A. Buck, Engineering Electromagnetics. McGraw-Hill, 8th Edition;",
+                        "B.G. Streetman, S. Banerjee, Solid State Electronic Devices. Prentice-Hall, 6th Edition."
+                    ]
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through lectures and workshop classes that combine both tutorial and hands-on laboratory activities.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students are provided with lecture notes, problem worksheets and solutions, a laboratory manual, and reference text lists.",
+            "CAREERS / INDUSTRY LINKS",
+            "Exposure to industry standard devices, models, datasheets, and modelling tools, and their practical application."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

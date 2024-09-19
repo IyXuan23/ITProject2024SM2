@@ -1,0 +1,104 @@
+{
+    "subject name": "Models of Psychological Processes",
+    "subject code": "PSYC40012",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is designed to introduce students to the development and testing of models for psychological data, with a focus on models of human cognition. Quantitative data is a feature of all areas of psychology and can only be interpreted by use of an appropriate model. Modelling in psychology has two aims. The first is to find a quantitative description that accurately captures the data. The second is to test competing hypotheses about the psychological processes that generated the data. The methods of psychological modelling will be introduced and illustrated in selected areas of cognitive psychology.",
+        "The subject comprises a series of nine two-hour seminars covering the conceptual, theoretical, and methodological issues involved in developing and evaluating quantitative models of human cognitive performance. The seminars are complemented by nine two-hour laboratory classes in which students will learn how to use the modelling language Matlab to fit, visualise, and evaluate models of data from specific cognitive domains, such as attention, categorisation, and decision making."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "The concepts and methods involved in the development, testing, and evaluation of quantitative models for psychological data.",
+        "The philosophical and methodological distinction between hypothesis-testing and model evaluation.",
+        "The trade-off between goodness-of-fit and model flexibility and its implications for psychological inference.",
+        "The distinction between process models and empirical models of psychological data."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "There are no pre-requisites for this subject."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "There are no non-allowed subjects."
+    ],
+    "assessments": [
+        {
+            "description": "Take-home exam. 2000 words",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Essay. 2000 words",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours per semester"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Prof Philip Smith"
+                ],
+                "email": [
+                    "philipls@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "A reading pack and lecture notes will be provided."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "No recommended texts."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

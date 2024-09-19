@@ -1,0 +1,140 @@
+{
+    "subject name": "Process Simulation and Control",
+    "subject code": "CHEN90032",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Continuous chemical processes are inherently dynamic systems \u2013 process inputs and outputs change in time. To accommodate this, modern plants require some form of automatic control. This subject equips students with the skills to understand how and why key process variables change in time, and to then design and implement effective control strategies to accommodate this.Students are introduced to the concept of feedback control, with examples of control schemes for common unit operations. The development of dynamic process models is introduced, along with analytical and numerical techniques for process simulation. Process simulation is performed using linear ordinary differential equation models, Laplace transforms, transfer functions, and numerical methods. The response of complex process plants to common dynamic inputs is investigated. Students are introduced to frequency response analysis and Bode plots.The process control component of the subject introduces the concept of closed loop transfer functions and the PID controller. Dynamic process simulation is performed using analytical techniques and with the numerical simulation capabilities of software packages including MATLAB Simulink. The stability of closed loop systems is analysed using techniques such as Routh stability analysis, the Bode stability criterion, and gain and phase margins. The effect of controller tuning constants on control system response is investigated, along with various controller tuning methods. Advanced control strategies including cascade control, time-delay compensation, and feedforward control are developed, as well as techniques to simultaneously control multiple process variables in multiloop systems.",
+        "The subject will cover feedback control schemes for common unit operations. Developing and using process simulators, including the application of Laplace transforms and transfer functions as well as the use of numerical simulation tools. Frequency response analysis and Bode plots. Simulation of closed-loop control systems and PID controllers. Closed-loop stability analysis and controller tuning. Advanced single-loop control strategies and multiloop control systems.",
+        "Please view this video for further information:Process Simulation and Control"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Interpret how key process variables change in time for common chemical processes responding to typical dynamic inputs",
+        "Simulate common unit operations, using analytical and numerical methods",
+        "Analyse and implement effective and efficient control strategies for chemical processes",
+        "Analyse and tune feedback controllers effectively",
+        "Demonstrate mastery of the mathematical modelling of feedback and other control loops",
+        "Appraise different methods of implementing advanced forms of process control and identify the optimum solutions particularly considering multi-loop control",
+        "Appraise how regulatory control systems interact with safety systems to keep large scale chemical infrastructure operating in a reliable, safe, sustainable and profitable fashion."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CHEN20011",
+                    "MAST20029"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CHEN30009 Process Dynamics and Control"
+    ],
+    "assessments": [
+        {
+            "description": "Attendance and participation in a 3 hour laboratory class, with a written assignment of approximately 1000 words. Requiring a time commitment of 13-15 hours of work including preparation. ILOs 1,2, and 3 are addressed in this laboratory class.. 1000 words",
+            "timing": "From Week 5 to Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "Attendance and participation in a 3 hour laboratory class, with a written assignment of approximately 1000 words. Requiring a time commitment of 13-15 hours of work including preparation. ILOs 3, 4, 5, and 6 are addressed in this laboratory class.. 13-15 hours",
+            "timing": "From Week 6 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "A written assignment requiring 13-15 hours of work. ILOs 1, 2, 3 and 7 are addressed in this assignment.. 13-15 hours",
+            "timing": "From Week 3 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "A written assignment, requiring 13-15 hours of work. ILOs 3, 4, 5, and 6 are addressed in this assignment. 13-15 words",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written 3-hour closed book end-of-semester examination (60%). ILOs 1 to 7 are addressed in the exam. The examination is a hurdle and must be passed to pass the subject.. 3 hours. Hurdle requirement:. The examination must be passed to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Ali Zavabeti"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "54 hours in total arising from the following: 3 x 1-hour lectures per week for 12 weeks, 1 x 1-hour tutorial per week for 12 weeks and 2 x 3-hour practicals"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Seborg, Edgar, Mellichamp, Doyle,Process Dynamics and Control, Third Edition 2011, Wiley."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures and tutorials. Students also complete an experiment and a simulation-based controller design project, applying material covered in the lectures.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Lecture notes and slides. Worked solutions to tutorial problems. Online quizzes. All content is made available via the LMS.",
+            "CAREERS / INDUSTRY LINKS",
+            "Case studies on practical control and process safety systems, delivered by a practicing control engineer."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ]
+    }
+}

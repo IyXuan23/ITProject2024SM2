@@ -1,0 +1,123 @@
+{
+    "subject name": "Mathematics of Risk",
+    "subject code": "MAST90051",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Mathematical modelling of various types of risk has become an important component of the modern financial industry. The subject discusses the key aspects of the mathematics of market risk. Main concepts include loss distributions, risk and dependence measures, copulas, risk aggregation and allocation principles, elements of extreme value theory. The main theme is the need to satisfactorily address extreme outcomes and the dependence of key risk drivers."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "understand the basic mathematical concepts used in the financial market risk analysis;",
+        "know how these concepts can be applied in situations requiring quantitative risk management;",
+        "gain the ability to pursue further studies in this and related areas."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST30020"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST10009",
+                    "MAST20026",
+                    "MAST20033"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Up to 30 pages of written assignments (two assignments worth 10% each, due mid and late in semester). 30 pages",
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        },
+        {
+            "description": "10 weekly online quizzes, starting from week 2. 15 minutes (each)",
+            "timing": "From Week 2 to Week 11",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Konstantin Borovkov"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "borovkov@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Alexander J McNeil, R\u00fcdiger Frey, Paul Embrechts. Quantitative Risk Management: concepts, techniques and tools, Princeton Univ. Press (2005)"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

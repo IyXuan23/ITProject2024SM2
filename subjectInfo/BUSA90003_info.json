@@ -1,0 +1,93 @@
+{
+    "subject name": "Financial Accounting",
+    "subject code": "BUSA90003",
+    "subject availability": [
+        "May - Online"
+    ],
+    "overview": [
+        "Accounting is the \u201clanguage of business,\u201d and accounting information is the basis for performance measurement, business contracting, and most operating, investing, and financing decisions that managers make. Financial accounting information affects how individuals outside an organisation perceive that organisation, and by extension, the resources available to the organisation to accomplish its objectives. An understanding of and the ability to use accounting information will be essential to students' success as a manager. This subject provides students with foundational knowledge about external financial reporting by for-profit organisations. This foundational knowledge not only forms the basis for correctly interpreting and using accounting information provided internally to managers for managerial decision making, but also provides the basis for using financial statements for more externally-focused judgments and decisions (e.g., assessing an organisation\u2019s intrinsic value or to assess an organisation\u2019s strengths and weaknesses relative to competitors)."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Read and interpret a company's financial statements.",
+        "Analyse a company's financial statements and draw relevant inferences from the analysis to assist in making decisions",
+        "Discuss fundamental accounting concepts and issues using everyday language.",
+        "Appreciate the measurement and recognition difficulties inherent in financial reporting, as well as the role of judgment in the preparation and interpretation of financial statements."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "",
+                    "BUSA90552"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Contribution to class learning",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual quizzes x 5. 2500 words (equivalent)",
+            "timing": "From Week 1 to Week 5",
+            "percentage": "50%"
+        },
+        {
+            "description": "Individual assessment. 2500 words. Hurdle requirement:. Students are required to pass this individual assessment to pass the subject.",
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "May - Online": [
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "13 May 2024 to 21 June 2024"
+                },
+                {
+                    "Last self-enrol date": "13 May 2024"
+                },
+                {
+                    "Census date": "23 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "7 June 2024"
+                },
+                {
+                    "Assessment period ends": "28 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

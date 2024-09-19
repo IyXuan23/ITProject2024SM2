@@ -1,0 +1,198 @@
+{
+    "subject name": "Concepts in Information Systems",
+    "subject code": "ISYS90026",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "Information Technology now impacts on people and processes within and beyond organisational boundaries. The discipline of Information Systems is concerned with the effective use of IT by people and organisations. This subject provides context on Information Systems practice and use viewed through a range of roles that interact with these systems, including those of system developers, users, business managers, IT managers, and vendors. It provides students with a foundation that is further built on in other information systems subjects.",
+        "The subject supports course-level objectives by allowing students to understand the complexity of real-world applications of information systems within a range of industries. It challenges students to integrate concepts, theories and frameworks with case studies and examples drawn from industry. The emphasis is on gaining a tool kit for a rich understanding of the practical problem solving rather than learning the theory per se. The subject contributes to the development of independent critical inquiry, case study analysis and problem solving."
+    ],
+    "indicative content": [
+        "Klings\u2019s Social Informatics, Prahalad and Hamel\u2019s Core Competencies, Porter\u2019s Competitive Advantage, Chan and Luftman\u2019s Concepts of Business \u2013 IT Alignment, Cullen and Seddon\u2019s Outsourcing Management, Willcock\u2019s Offshoring Challenges, Agarwal and Sambamurthy\u2019s IT Governance issues and various Change Management Models.",
+        "Please view this video for further information:Concepts in Information Systems"
+    ],
+    "intended learning outcomes": [
+        "Explain the importance of understanding IT in its context to successful IS practice by looking at issues such as IT-supported core competencies, competitive advantage, business-IT alignment, governance and outsourcing, and change management in IT",
+        "Apply key areas of research and practice in information systems",
+        "Identify interrelationships between concepts in information systems",
+        "Critically discuss and analyse information systems issues at an advanced level",
+        "Exploit the key knowledge and transferable skills as a basis for further post-graduate level study",
+        "Use the learned context to assess the role of IT/IS in organisations",
+        "Demonstrate the importance of ICT service provision and acquisition in the responsibilities of an ICT infrastructure manager"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Tutorial participation. Intended Learning Outcomes (ILO's) 1 to 7 are addressed.",
+            "timing": "From Week 2 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "Hurdle case: this is the first case study exercise where students are introduced to Case Study methodology.  This is a hurdle case, which is not marked, and is used to provide early feedback on how students should be analysing and writing up a case. The total time commitment for this exercise is around 15 hours. ILO's 2, 4 and 5 are addressed in this assessment.. 15 hours (of work required)",
+            "timing": "Week 4",
+            "percentage": "0%"
+        },
+        {
+            "description": "Individual case 1: Following the case study method taught to students in the Hurdle case, students are asked to fully analyse and respond to a case study. Approximately 25 hours. ILO's 1 to 4, 6 and 7 are addressed in this assessment.. 25 hours (of work required)",
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "Individual case 2: Following the case study method taught to students in the Hurdle case, students are asked to fully analyse and respond to a case study. Approximately 25 hours. ILO's 1 to 4, 6 and 7 are addressed in this assessment.. 25 hours (of work required)",
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group case: Students form groups of 5 students, and together analyse and respond to a larger case study.  Approximately 8 hours per student. ILO's 1 to 7 are addressed in this assessment.. 40 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Exam case:  End of semester Case Study. Approximately 30 hours. ILO's 1  to 4, 6 and 7 are addressed in this assessment.. 30 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Ofir Turel"
+                },
+                {
+                    "Coordinator": "Sarah Webber"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "6x 90 minute lectures, 7x 90 minute tutorials. Total 19.5 hours."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Ofir Turel"
+                },
+                {
+                    "Coordinator": "Sarah Webber"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "6x 90 minute lectures, 7x 90 minute tutorials. Total 19.5 hours."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Ofir Turel"
+                ],
+                "email": [
+                    "oturel@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Ofir Turel"
+                ],
+                "email": [
+                    "oturel@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Most reading materials will be made available online. Web sources will also be used in the subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is normally only available to students in the 200-point 2 year Master of Information Systems.",
+            "Learning and Teaching Methods",
+            "This is predominantly an online subject. All material will be delivered online (with 5 face to face sessions throughout the semester). Each week, students are expected to read a set of readings, followed by in-depth critical and moderated online discussion of the concepts from the readings, and application of concepts to real world case studies. All assessment will also be submitted online.",
+            "Indicative Key Learning Resources",
+            "All material and readings provided online on a weekly basis. In addition, publicly available you-tube resources of interviews with CIOs, and guest lectures from Industry Partners during the face-to-face seminars.",
+            "Careers/Industry Links",
+            "This subject is relevant to careers as IT analyst and consultant. As a body of knowledge and skills, Knowledge Management has been championed by many prominent organisations including, Deloitte, PwC, Accenture, Ernst and Young, KPMG. Students will work on real-world cases of organisations attempting knowledge management initiatives, and also read papers produced by these companies. There will be two lectures from invited practitioners from industry."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

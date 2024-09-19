@@ -1,0 +1,139 @@
+{
+    "subject name": "Modelling the Real World",
+    "subject code": "EVSC20007",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The ability to model natural and human phenomena is key to understanding physical, biological and human environments. Models can be conceptual, logical, mathematical and software based; this subject explores how models of varying complexity can be used for modelling systems in the real world depending on resolution needed and information available.",
+        "Population growth, disease propagation, traffic flows, pollution dispersion, earthquake impacts, climate and energy prediction models are widely used to plan for the sustainable use of resources and management of the natural and built environment. Using real-world examples drawn from physics, chemistry, biology and earth sciences, this subject introduces students to framing these, sometimes complex, systems firstly as conceptual models, then as logical and mathematical models. These logical and mathematical models are then brought to life using tools such as software representations and simulations for the system of interest.",
+        "These real world models are used to test hypotheses and observables. Visualisation tools along with the ability to formulate and simulate natural and human systems are skills readily transferrable to many science, engineering, business and medical professions."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Formulate natural and human phenomena in a conceptual framework.",
+        "Translate a conceptual model of an observed system into a mathematical and logical model representation.",
+        "Design a software model based upon a mathematical and logical representation of a system.",
+        "Visualise and predict the temporal and spatial evolution of a system using software tools.",
+        "Evaluate hypotheses and the various models with observational data."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "A score of 29 VCE - 3/4 Specialist Mathematics"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "MAST10005"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Equivalent"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A mid-semester test. 1 hours",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Four laboratory exercises completed during practice classes, held at regular intervals due in weeks 4, 8, 10, 12 (10% for each exercise)",
+            "timing": "From Week 4 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "description": "A written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Robyn Schofield"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 x one-hour lectures (2 per week), 12 x two-hour practice classes (1 per week)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "https://www.codecademy.com/learn/learn-python"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

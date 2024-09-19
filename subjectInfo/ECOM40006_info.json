@@ -1,0 +1,107 @@
+{
+    "subject name": "Econometrics 3",
+    "subject code": "ECOM40006",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces appropriate estimation and inference techniques for models that involve a single equation and those involving systems of equations. Normally topics will include asymtotic theory, maximum likelihood estimation, classical testing procedures, generalised least squares estimation, seemingly unrelated regression models, stochastic regressors, instrumental variables, generalised methods of moments, simultaneous equations models (including VARs) and model-selection procedures."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Investigate the characteristics of data that influence the choice of model and estimation technique for modelling and estimating economic relationships.",
+        "Apply suitable estimation techniques to a range of economic and econometric models, interpret the results from these models, and use the results for forecasting and policy analysis.",
+        "Describe the theory underlying inference techniques used in econometrics."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ECOM30002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into BH-COM, BH-ARTS (Economics), Graduate Diploma in Economics or Master of Economics"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ECOM40006"
+    ],
+    "assessments": [
+        {
+            "description": "Three Assignments. 700 words (each)",
+            "timing": "Throughout the semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours. Hurdle requirement:. To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Sami Stouli"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Sami Stouli:"
+                ],
+                "email": [
+                    "sami.stouli@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

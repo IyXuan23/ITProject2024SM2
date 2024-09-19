@@ -1,0 +1,114 @@
+{
+    "subject name": "Neuropsychological Rehabilitation",
+    "subject code": "PSYC90033",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Coverage of the rapidly expanding field of neuropsychological rehabilitation is provided in this subject. The curriculum covers the nature of recovery following focal and diffuse brain injury from neurological, cognitive and psychosocial viewpoints, as well as frameworks for developing appropriate neuropsychological interventions for rehabilitation. Commonly encountered disorders such as stroke and brain injury will be discussed in the context of their cognitive, emotional, and social effects, including neuropsychiatric comorbidities. Approaches to the assessment and management of cognitive and behavioural disorders will be surveyed, with an emphasis on designing and implementing cognitive and behavioural interventions that are patient-centred and culturally responsive. During the semester students may be required to make observations regarding a patient's recovery, practice how to design and implement an intervention, or provide psychoeducation and feedback to patients and families, as they explore the various roles of clinical neuropsychologists in rehabilitation settings."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Determine the likely neurological, behavioural, and psychosocial factors at play in a patient's presentation to a rehabilitation setting, including any interaction of these factors in a culturally appropriate manner",
+        "Distinguish a patient's potential for recovery and meaningful activity, including the identification of barriers to recovery as well as protective factors in a culturally appropriate manner"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PSYC90003",
+                    "PSYC90006",
+                    "PSYC90007",
+                    "PSYC90029",
+                    "PSYC90030",
+                    "PSYC90031",
+                    "PSYC90032",
+                    "PSYC90082",
+                    "PSYC90083",
+                    "PSYC90084"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A written report. 2000 words. Hurdle requirement",
+            "timing": "Mid semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "A 20 minute group oral presentation on a neuropsychological rehabilitation plan, including recognition of the role of neuropsychology versus other disciplines. 20 minutes. Hurdle requirement",
+            "timing": "End of semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. Hurdle requirement of at least 80% attendance at all coursework and seminar activities associated with this subject.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Genevieve Rayner"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1.5 hours of lectures/seminars per week for 12 weeks"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Principal Coordinator: Dr Genevieve Rayner",
+                    ""
+                ],
+                "email": [
+                    "raynerg@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "subject name": "MA Research",
+    "subject code": "ASIA70005",
+    "subject availability": [
+        "Time-based Research"
+    ],
+    "overview": [],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Advanced knowledge and understanding in a chosen specialised area  in arts, humanities or social sciences.",
+        "Demonstrated ability to conduct research with a strong emphasis on ethical considerations and rigorous methodologies.",
+        "Advanced technical skills to independently initiate and formulate original research.",
+        "Advanced communication and written skills to present a theoretically sound and methodologically defensible research investigation.",
+        "Capacity to disseminate research findings to a variety of audiences."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MR-ARTSTHS Master of Arts (Thesis only)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "HIST70005",
+        "ENGL70003",
+        "LING70006",
+        "POLS70006"
+    ],
+    "assessments": [
+        {
+            "description": "A thesis on an approved topic. 30,000-50,000 words",
+            "timing": "End of semester",
+            "percentage": "100%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Time-based Research": [
+                {
+                    "Coordinator": "Heather Benbow"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular meetings with the supervisor"
+                },
+                {
+                    "Teaching period": "\u2014  to  \u2014"
+                },
+                {
+                    "Last self-enrol date": "\u2014"
+                },
+                {
+                    "Census date": "\u2014"
+                },
+                {
+                    "Last date to withdraw without fail": "\u2014"
+                },
+                {
+                    "Assessment period ends": "\u2014"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.gradresearch.unimelb.edu.au/"
+        ]
+    }
+}

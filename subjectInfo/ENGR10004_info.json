@@ -1,0 +1,181 @@
+{
+    "subject name": "Engineering Technology and Society",
+    "subject code": "ENGR10004",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "Engineering Technology and Society introduces students to the impact engineers have on society through the development and application of new technologies to solve large scale challenges facing society. This is achieved through a mix of a design project, interactive workshops and lectures with hands-on testing and analysis. This subject centres on the engineering method, the approach to problem solving and engineering design that makes engineers unique. The subject will prepare students for an exciting and rigorous engineering education that will allow them to serve an increasingly complex society.",
+        "This subject features designing a solution to a real-world challenge relevant to the environment, energy or health using skills from areas such as fluid mechanics, water treatment, image analysis and online sensing. The exposure of students to emerging technologies is critical in the training of engineers for a modern workforce, especially in developing computer literacy in solving engineering problems. Students will gain experience with appropriate software tools for engineering calculations and simple logic structures as well as 3D computer aided drawing to empower students to 3D print components to test and refine your design solution."
+    ],
+    "indicative content": [
+        "The juxtaposition of the engineering profession and disciplines with society, how engineers develop and use technology to solve problems, using appropriate software tools and fabrication technologies including 3D printing to design and test engineering solutions, image and data gathering, image and data analysis, online sensing, fluid flow and pumping, water treatment, how to work in teams, report writing and communication skills.",
+        "Please view this video for further information:Engineering Technology and Society"
+    ],
+    "intended learning outcomes": [
+        "Explain the importance of engineers and the place of engineering in society",
+        "Apply basic knowledge of fluid mechanics, process engineering, water treatment, image analysis and online sensing to solve design problems across multiple engineering disciplines",
+        "Identify the nature of a technical problem and make appropriate simplifying assumptions, in order to achieve a solution",
+        "Develop and construct mathematical, physical and conceptual models of situations, systems and devices, and utilise such models for purposes of analysis and design",
+        "Analyse possible alternative engineering approaches and evaluate their advantages and disadvantages in terms of functionality, cost, sustainability and all other factors",
+        "Demonstrate competency in current tools for analysis, simulation, visualisation, synthesis and design, particularly computer-based tools and packages."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "A mark of at least 25 in VCE Math Methods or equivalent approved by the Subject Coordinator"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of:",
+                "B-SCI Bachelor of Science",
+                "B-BMED Bachelor of Biomedicine",
+                "B-COM Bachelor of Commerce"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                [
+                    "MAST10014",
+                    "MAST10015"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Performance-\r\nWorkshop Performance Marks based on workshop attendance,  in-class participation and submission of short task summaries in 10 x 3-hour workshops. ILO 1, 2, 3 and 4 are addressed in this assessment.. 35 hours (of work required). Hurdle requirement:. Please refer to the Additional Details as below.",
+            "timing": "Throughout the semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Other-\r\nWeekly online homework. ILO 2, 3 and 4 are addressed in this assessment.. 10-15 hours (of work required). Hurdle requirement:. Please refer to the Additional Details as below.",
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Mid-Semester Test-\r\nMid-semester quiz. ILO 2 and 6 are addressed in this assessment.. 40 minutes. Hurdle requirement:. Please refer to the Additional Details as below.",
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group Assessment / Project-\r\n**In-class team (of 3-4 students) based project assessments. Approximately 10-15 hours of work per team. ILO 2, 3, 4 and 6 are addressed in this assessment.. 10-15 hours (of work required)",
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Group Assessment / Project-\r\n**A written end of semester team (of 3-4 students) report, 25 pages in length (including diagrams and calculations). ILO 1, 2, 3, 4, 5 and 6 are addressed in this assessment.. 25 pages",
+            "timing": "Week 10 (draft report) and during Examination Period (revised report)",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Lionel Lam"
+                },
+                {
+                    "Coordinator": "Ray Dagastine"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x 1 hour lectures and 1 x 3 hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Lionel Lam"
+                ],
+                "email": [
+                    "lionel.lam@unimelb.edu.au",
+                    "rrd@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The key element of the subject is the series of workshops that take place throughout the semester. Students work in teams to complete a series of projects, gathering and analysing data, and designing, building and testing a solution to an engineering challenge. The lectures support the workshop activities.INDICATIVE KEY LEARNING RESOURCES",
+            "Students are provided with lecture slides with example problems, and other reference material (both text and audiovisual) where relevant.CAREERS / INDUSTRY LINKS",
+            "This is the first engineering subject that most students will normally undertake. It starts building some of the key skills that employers look for when recruiting graduates. When available, presentations from guest lecturers with industry links will be arranged."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

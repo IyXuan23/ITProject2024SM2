@@ -1,0 +1,155 @@
+{
+    "subject name": "Building Information Management",
+    "subject code": "ABPL90433",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "In this subject, students will explore typical workflows of applying BIM within organisations and on projects by multidisciplinary teams. Topics include:",
+        "Analysis of process",
+        "BIM Execution Planning",
+        "Collaborative model-sharing",
+        "BIM guidelines, standards and policies",
+        "Interoperability and \u2018Open BIM\u2019",
+        "BIM\u2019s impact on project procurement",
+        "BIM across the supply chain",
+        "As part of this analysis of the process, BIM Execution Planning and collaborative model-sharing will get explained. Also, students will learn about guidelines, standards and policies that help regulate information flow on BIM projects and they will explore how these apply in practice. As part of this topic, students will learn about the concepts behind software interoperability and information-sharing via \u2018Open BIM\u2019.",
+        "The subject will outline BIM\u2019s impact on project procurement, both in terms of its contractual implications, as well as considering project delivery mechanisms associated with BIM. Under the \u2018whole of life\u2019 topic, students will learn to position BIM efforts by various contributors on projects across the entire supply chain, from clients, consultants, contractors, fabricators, and Facility/Asset Managers."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate a deep understanding of Building Information Modelling (BIM)-related processes as they unfold in practice;",
+        "Set BIM up within a practice, as well as on projects;",
+        "Critically assess the impact of BIM guidelines, standards and policies on the process;",
+        "Critically analyse the impact of procurement on the ability to apply BIM on projects;",
+        "Assist in the coordination of BIM processes across multi-disciplinary project teams;",
+        "Understand the life-cycle aspect of BIM and its impact on team collaboration;",
+        "Demonstrate deep understanding of BIM Execution Planning."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "200pt Program course entry point in the MC-CM Master of Construction Management",
+                "200pt Program course entry point in the MC-ARCH Master of Architecture",
+                "MC-ARCHCM Master of Architecture/Master of Construction Management"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ABPL90292",
+                    "ABPL90313"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the 300pt Program course entry point in the MC-CM Master of Construction Management"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Approval  from the subject coordinator"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CONS30002"
+    ],
+    "assessments": [
+        {
+            "description": "Group professional report (group of 2). 1500 words",
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "description": "Group technical  report( group of 2). 1000 words",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "in class presentation. 500 words (equivalent)",
+            "timing": "From Week 5 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "Exam. 2 hours. Hurdle requirement:. A minimum mark of 40% must be achieved in the examination to pass the subject",
+            "timing": "End of the assessment period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Mehran Oraee"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Subject Coordinator: Mehran Oraee"
+                ],
+                "email": [
+                    "mehran.oraee@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

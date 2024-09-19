@@ -1,2 +1,2 @@
 # ITProject2024SM2
-Upgrading student handbook
+You need to use the subjectInfo and Openai API

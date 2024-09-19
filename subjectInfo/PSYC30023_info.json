@@ -1,0 +1,110 @@
+{
+    "subject name": "Computational Behavioural Science",
+    "subject code": "PSYC30023",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Understanding human behaviour is a major challenge and a crucial step in solving many of the world\u2019s most wicked problems. As access to computational power has grown and data sources have expanded computational modelling methods have become essential to progress in understanding cognitive and social processes. This course covers topics in perception, memory, language, reasoning, social structure and influence from a computational modelling perspective. For computer scientists, it illustrates how computational approaches can be used to capture and explain human behaviour. For behavioural scientists, it provides the skill set required to develop computational theories of cognition and social behaviour and to exploit new and emerging sources of digital data."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Recognise and identify key terms of cognitive processes including perception, memory, language and reasoning",
+        "Explain and illustrate processes that give rise to social structure and influence",
+        "Build, employ, and analyse computational models of cognitive and social processes",
+        "Communicate and critique the outcomes of computational modelling exercises in written form."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Six computational notebooks. 2500 words (equivalent)",
+            "timing": "Weeks 2, 4, 6, 8, 10, 12",
+            "percentage": "60%"
+        },
+        {
+            "description": "Final Exam. 1500 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Attendance. Hurdle requirement:. Attendance of at least 80% of tutorial classes. In case of failure to meet the attendance requirement, additional work related to the missed class activities (e.g., short 500 word essay on missed topic) will be required before a passing grade can be awarded.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Simon Dennis"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "12 x 3 hour lectures and 12 x 1 hr tutorials"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "simon.dennis@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

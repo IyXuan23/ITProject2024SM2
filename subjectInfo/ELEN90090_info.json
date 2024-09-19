@@ -1,0 +1,140 @@
+{
+    "subject name": "Autonomous Systems Clinic",
+    "subject code": "ELEN90090",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "AIMS:Students work collaboratively in small groups to engineer an autonomous system that performs a specified task. This includes carrying out steps such as: task analysis; proposing multiple solutions; feasibility analysis through prototyping and computer-aided design; detailed design, construction, and testing of the chosen solution; and demonstrating the solution in a proving ground. The lectures will cast content from the pre-requisite subjects into the context of the task at hand, as well as covering additional topics relevant to the task. Each student group is expected to demonstrate initiative and independence while pursuing the goal of designing and building their autonomous system, with a focus of the subject being that students learn through hands-on experience, implementation, and verification.",
+        "INDICATIVE CONTENT:Successful completion of the project requires the student to draw upon knowledge, understanding, and skills learned in the prerequisite subjects, namely:",
+        "\u2022 Embedded System Design - including topics such as: finite, extended, and hierarchical state machines; modelling cyber-physical systems; scheduling, multi-tasking, and real-time issues; interfacing to the analogue world.\u2022 Control Systems - including topics such as: modelling; linearisation; feedback interconnections; proportional, integral, derivative (PID) control; actuator constraint considerations.\u2022 Signal Processing - including topics such as: design and implementation of digital filters (low-, high-, band-, all- pass filters); ARMA systems; up-sampling and down-sampling.",
+        "Additional topics, specific to the task as hand, will be covered, such as: ideation, prototyping, and design practices; image processing and computer vision tools; software introductions; safety and failure analysis.",
+        "A range of materials, components, and fabrication facilities are provided, from which the students are expected to utilise a subset for designing and building their autonomous system, such as: electric motors, range sensors, camera, voltage converters, compute power, sheet wood, soldering stations, laser wood cutting, 3D printing. The task to be performed is motivated by a real-world application of autonomous systems, such as: operating in hazardous environments or performing repetitive tasks.",
+        "Please view this video for further information:Autonomous Systems Clinic"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "1. Devise, produce, and verify solutions to complex autonomous systems design problems, drawing upon the principles underpinning autonomous systems from areas such as embedded systems, control systems and signal processing",
+        "2. Apply established engineering design methods and systems-level thinking to the execution of an autonomous systems project",
+        "3. Contrast and integrate modern software frameworks for enabling autonomy of modern autonomous systems hardware",
+        "4. Apply systematic approaches to the management and execution of a complex engineering design project in a small team",
+        "5. Articulate and convey project framing and details through technical reports, presentations, and informational videos"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ELEN90055",
+                    "ELEN90066"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ELEN90058",
+                    "MCEN90032"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Mid-semester test.  Intended Learning Outcomes (ILOs) 1 and 2 are addressed in this assessment.. 1 hours. Hurdle requirement:. \"Students must score above a hurdle requirement on the total of the mid-semester test and continuous individual project work assessment.  This hurdle requirement will be set by the Board of Examiners and be no higher than 50%.\"",
+            "timing": "From Week 6 to Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "Continuous individual assessment of project work, including peer assessment, not exceeding 40 pages per student over the semester. ILOs 1 - 5 are addressed in this assessment.. 60 hours (of work required). Hurdle requirement:. \"Students must score above a hurdle requirement on the total of the mid-semester test and continuous individual project work assessment.  This hurdle requirement will be set by the Board of Examiners and be no higher than 50%.\"",
+            "timing": "Throughout the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Submission of a final team report not exceeding 30 pages, including an individual contribution statement. Approximately 40 hours of work per team (3 - 4 students). ILOs 1, 2 and 5 are addressed in this assessment.. 40 hours",
+            "timing": "Week 14",
+            "percentage": "30%"
+        },
+        {
+            "description": "Team video presentation. 3 minutes per student. ILO 5  is addressed in this assessment.. 3 minutes",
+            "timing": "Week 14",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinators": "Matt Dos Santos Xavier and Paul Beuchat"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "16 hours of lectures, 36 hours of workshops"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Paul Beuchat"
+                ],
+                "email": [
+                    "paul.beuchat@unimelb.edu.au",
+                    "matt.xavier@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "The subject is designed and delivered using project-based learning pedagogies. Students in this subject complete a semester-long project in small team. Guided workshop sessions and lecture/lectorial sessions are grouped towards the start and/or middle of semester. The other parts of semester are fully dedicated to self-directed project-work, with the teaching team facilitating productive team-work and project-progress.",
+            "Students are provided with a functioning robot that has an accompanying wiki with documentation and tutorials for how to interact with the sensors and actuators of the robot. Lecture/lectorial and guided-workshop materials bring the pre-requiste knowledge into context for this autonomous systems project, as well as introducing topics not covered by the pre-requistes and providing guidance for self-directed learing.",
+            "The premise of the subject is model an industry-type experience of developing and delivering a product to a client. Thus, those enrolled in the subject act as student engineers to deliver an autonomous system prototype to a client. The project (from a real or semi-fictional client) mirrors real-world autonomous systems applications, for example: plant health monitoring, search and rescue, autonomous forklifts. Where possible an industry guest acts as the client to deliver the project requirements and review the final prototypes."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

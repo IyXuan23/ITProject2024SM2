@@ -1,0 +1,127 @@
+{
+    "subject name": "Advanced Psychological Practice 2",
+    "subject code": "PSYC90016",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject will provide students with an overview of medications used in the treatment of psychiatric disorders, including their mechanisms of action and side effects. Students will gain an understanding of the role of psychologists in working alongside other health practitioners who prescribe and monitor these treatments.  Students will also be introduced to a range of biological aspects of psychological functioning, including the role of endocrine factors in normal functioning and psychological disorders. Students will gain an understanding of the role of psychologists in developing interventions based on these biological perspectives."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Illustrate a comprehensive knowledge of the classes of psychotropic medications;",
+        "Recognise and appreciate the indications for the use of psychotropic medications;",
+        "Outline the pharmacological basis of the mechanism of action of psychotropic medications and their common side effects;",
+        "Recall topics in biological aspects of psychological functioning, such as sleep;",
+        "Recount the role of endocrine factors in psychological functioning;",
+        "Explain the biological mechanisms involved in high prevalence disorders, such as anxiety and depression;",
+        "Describe the biological mechanisms in psychological interventions for psychological disorders."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PSYC90009",
+                    "PSYC90011",
+                    "PSYC90015",
+                    "PSYC90023",
+                    "PSYC90030"
+                ],
+                "Note: these subjects can also be taken concurrently (at the same time)"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "2 x MCQ quizzes based on material presented in Weeks 1-6. 40 minutes (each). Hurdle requirement:. Must be attempted",
+            "timing": "From Week 3 to Week 6",
+            "percentage": "50%"
+        },
+        {
+            "description": "One written assignment based on material presented in Weeks 7-9. 600-650 words. Hurdle requirement:. must be attempted",
+            "timing": "Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "One written assignment based on material presented in Weeks 10-12. 600-650 words. Hurdle requirement:. must be attempted",
+            "timing": "Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "Hurdle requirement:. Hurdle requirement of at least 80% attendance at all coursework and seminar activities associated with this subject.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Lisa Phillips"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1.5 hours of lectures/seminars per week for 12 weeks"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Prof Lisa Phillips"
+                ],
+                "email": [
+                    "lisajp@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "No prescribed texts."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "The following volumes are useful for consultation during the course:",
+                    "Stahl's Essential Psychopharmacology, 3rd Edition Cambridge University Press; SM Stahl",
+                    "Introduction to Neuropsychopharmacology, Oxford University Press; Iversen, Iversen, Bloom, Roth",
+                    "Therapeutic Guidelines: Psychotropic; Therapeutic Guidelines Limited."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

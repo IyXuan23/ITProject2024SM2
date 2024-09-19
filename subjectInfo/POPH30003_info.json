@@ -1,0 +1,142 @@
+{
+    "subject name": "Real World Epidemiology",
+    "subject code": "POPH30003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Real World Epidemiology is one of the four subjects in the Public Health and Epidemiology major in the Bachelor of Biomedicine.",
+        "In this subject, students will apply their new epidemiological skills and knowledge to real-life health and public health scenarios. Within the different scenarios encountered students will be asked to make decisions as health professionals and public health professional based on their interpretation of the epidemiological evidence. A variety of non-communicable diseases, injuries and infectious diseases will be considered in the scenarios presented. Students will consider the issues that can occur in epidemiological investigations and how such issues can lead to incorrect healthcare and public health decisions being made. Students will also learn how to synthesise and present the evidence from epidemiological studies and learn how to choose the best evidence to base decisions on for specific populations. Within this subject the different components of health systems will be explored and how epidemiological evidence can be used to improve policy and practice will be discussed. Students will also learn to develop mathematical models to predict the trajectory of infection spread. The hands-on delivery of this subject combining lectures, Q&A sessions and tutorials allows the students to practically apply their new skills to scenarios that mirror current real-world health challenges.",
+        "This subject would be appropriate for students considering careers in public health, the health professions or health research."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Discuss the strengths and limitations of epidemiological investigations (including surveillance systems-based investigations, case control studies and systematic reviews)",
+        "Describe the concepts of causal inference, bias and confounding for the purpose of critical appraisal and designing investigations to answer questions of public health importance",
+        "Appraise a variety of epidemiological investigations and synthesise such appraisals to inform decision making in public health and health professional practice",
+        "Describe the basic concepts underlying the susceptible-infectious-recovered infectious disease model, for the purpose of infectious disease modelling",
+        "Analyse data, and present and interpret the results from a variety of epidemiological investigations for the purposes of decision making in public health and health professional practice",
+        "Identify the key components of a health system and describe the points in the system where epidemiological evidence can be used to improve policy and practice across different contexts."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Workshop participation - discussion and brief summary presentations to the class. 500 words",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written Assessment. 1000 words",
+            "timing": "Week 6",
+            "percentage": "25%"
+        },
+        {
+            "description": "Open book in-class test. 1 hours",
+            "timing": "Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written assessment. 1500 words",
+            "timing": "During the assessment period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Melissa Russell"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "\u2022\tOne hour lecture per week, delivered on campus, totalling 12 hours \r\n\u2022\tTwo hours per week in interactive group learning workshops, delivered on campus, totalling 24 hours\r\n\u2022\tOne to two hours instructional material and guided learning activities per week, delivered asynchronously online, totalling 24 hours."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "melissar@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

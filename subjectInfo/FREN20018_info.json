@@ -1,0 +1,170 @@
+{
+    "subject name": "Intensive French 3 and 4",
+    "subject code": "FREN20018",
+    "subject availability": [
+        "Summer Term"
+    ],
+    "overview": [
+        "Intensive French 3 and 4 is designed to provide students with a systematic revision and consolidation of the essential structures of French. Classes will present grammar, syntax, and vocabulary in meaningful situations. The subject also stresses the productive aspect of language use in practical situations, while extending grammatical and lexical knowledge and refining oral skills. Listening skills are also developed by use of authentic documents. Students will also spend time in private study working on written and oral exercises and using online resources. On completion of the subject students should be able to sustain conversations and express opinions on topics of general interest, have consolidated their knowledge of all basic structures of French, and have attained level B1 of competence in the Common European Reference Framework in the target language."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate their listening, speaking, reading and writing skills in French to reach the intermediate level in line with the B1 level of the European Common Framework for Languages",
+        "Demonstrate an improved understanding of French culture, customs and mannerisms through the study of authentic material",
+        "Display an increased awareness and understanding of French-speaking cultures throughout the world",
+        "Demonstrate increased autonomy in the study of the French language and French-speaking cultures."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "FREN10005"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "FREN10001",
+        "FREN10003",
+        "FREN20015",
+        "FREN20017"
+    ],
+    "assessments": [
+        {
+            "description": "Test of oral comprehension, written comprehension and expression",
+            "timing": "Week 2",
+            "percentage": "15%"
+        },
+        {
+            "description": "Test of oral comprehension, written comprehension and expression",
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "description": "Examination of oral and written proficiency",
+            "timing": "Week 3",
+            "percentage": "15%"
+        },
+        {
+            "description": "Examination of oral and written proficiency",
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "description": "Group project",
+            "timing": "End of the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Hurdle requirement:. 1.\tAttendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Coordinator": "Sandrine Michel"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "100 hours: 8 X 2.5 hour tutorials per week for 5 weeks"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "8 January 2024 to  9 February 2024"
+                },
+                {
+                    "Last self-enrol date": "15 January 2024"
+                },
+                {
+                    "Census date": "19 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "9 February 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [],
+                "email": [
+                    "smichel@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "100% FLE Grammaire essentielle du fran\u00e7ais B1didierfle.app (2023 ed.), ISBN 9782278109258"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/soll"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Language Placement Test required",
+                    "Language Placement Test required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

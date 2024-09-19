@@ -1,0 +1,119 @@
+{
+    "subject name": "Learning Area Accounting 1",
+    "subject code": "EDUC91093",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces Teacher Candidates to the theory and practice of teaching Accounting in the context of Australian/Victorian Curricula and Frameworks. This subject provides Teacher Candidates with both the knowledge base and skills of professional practice, enabling them to effectively educate senior secondary school students (VCE) in this specific learning area, and to work effectively within school contexts.",
+        "Teacher Candidates are supported to develop knowledge and skills related to curriculum content, best practice pedagogy and assessment, as well as the application and management of these activities. Framed through the Clinical Teaching Model, they are supported to adapt and apply this knowledge in lesson planning, including the selection and integration of teaching strategies and resources, including the effective and appropriate use of ICT, to meet the specific needs of students from diverse backgrounds, and to engage students in their learning.",
+        "The assessment tasks in this subject will support the development of Teacher Candidates\u2019 understanding of contemporary theories and pedagogies of the Accounting field and their relationship with content and pedagogical knowledge, along with specific skills in developing, sequencing, and delivering programs."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Critically reflect on research into how students learn through an emerging understanding of Accounting curriculum and theory and implications for effective teaching practice.",
+        "Design achievable Accounting learning goals, lesson plans and learning sequences, integrating knowledge of student learning, curriculum, assessment, and reporting.",
+        "Demonstrate strong Accounting subject and pedagogical content knowledge that meets the specific needs of students from diverse backgrounds and promotes participation and inclusion of all students in their learning.",
+        "Select and integrate Accounting teaching strategies and resources, including ICT, to meet the specific needs of students from diverse backgrounds, and to engage students in their learning."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "EDUC90955 Learning Area Accounting 1 (no longer offered)"
+    ],
+    "assessments": [
+        {
+            "description": "Report: Written\u202freport\u202fon pedagogical content knowledge. 2000 words",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Planning document: Lesson plan. 3000 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Attendance. Hurdle requirement:. A minimum of 80% attendance at, or engagement with, all sessions identified as contact hours (may include lectures, tutorials, seminars and workshops, both synchronous and asynchronous).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "Hugh Gundlach and Simon Phelan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours (16 hours on-campus classes, 8 hours online asynchronous activities)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Simon Phelan:"
+                ],
+                "email": [
+                    "simon.phelan@unimelb.edu.au",
+                    "hughg@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Current VCAA VCE Accounting Study Design",
+                    "https://www.vcaa.vic.edu.au/curriculum/vce/vce-study-designs/Accounting/Pages/index.aspx"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "ACARA Australian Curriculum Economics and Business Years 7 to 10",
+                    "https://www.australiancurriculum.edu.au/f-10-curriculum/humanities-and-social-sciences/economics-and-business/",
+                    "VCAA Victorian Curriculum Economics and Business Levels 7 to 10",
+                    "https://victoriancurriculum.vcaa.vic.edu.au/the-humanities/economics-and-business/curriculum/f-10"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "Faculty of Education:https://education.unimelb.edu.au/"
+        ]
+    }
+}

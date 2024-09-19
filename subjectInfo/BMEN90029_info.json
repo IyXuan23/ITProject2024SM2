@@ -1,0 +1,132 @@
+{
+    "subject name": "Soft Tissue and Cellular Biomechanics",
+    "subject code": "BMEN90029",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject aims to develop students' knowledge and capabilities in experimental and computational biomechanics of cells and soft-tissues. Students will apply fundamental mathematical theory of nonlinear continuum mechanics and computational approaches to solve stress-equilibrium equations. Students will learn fundamentals in cell signalling and how cell- and sub-cellular-level processes affect cell and tissue mechanical properties. These concepts will be put to practice in project-based and examination assessments."
+    ],
+    "indicative content": [
+        "Nonlinear continuum mechanics theory",
+        "Computational techniques for solving nonlinear mechanics problems",
+        "Soft-tissue mechanical properties",
+        "Cytoskeletal networks and mechanics",
+        "Signalling pathtways and systems-biology related to mechanics of cells and tissues",
+        ""
+    ],
+    "intended learning outcomes": [
+        "Describe the fundamental mathematical principles behind nonlinear continuum mechanics",
+        "Describe and construct biochemical models of cell signalling pathways that affect cell and tissue mechanics",
+        "Construct computational models of the mechanics of soft-tissues and cells",
+        "Describe how the mechanical behaviour of cells and tissues in the body are regulated by chemical and mechanical signals",
+        "Construct multi-scale models of mechanics and signalling in cells and tissues",
+        "Demonstrate skills in communicating results from engineering research in written form."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "",
+                    "BMEN90038",
+                    "MAST30030",
+                    "MCEN30017"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Mid-semester test. Intended Learning Outcomes (ILOs) 1 and 4 will be addressed in this assessment.. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Assignment requiring 20-35 hours work. ILOs 1 and 3 will be assessed in this assignment.. 35 hours (of work required)",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Project-based assignment requiring 20-35 hours work. ILOs 1-6 will be assessed in this assignment.. 35 hours (of work required)",
+            "timing": "From Week 11 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "2-hours end-of-semester examination. ILOs 1, 2 and 4 will be assessed in the examination.. 2 hours. Hurdle requirement:. Students will need a mark of at least 50% in the end-of-semester exam to pass this subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Vijay Rajagopal"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "60 hours including 3 hours of lectures and 2 hours of workshops per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject will be delivered through lectures, tutorials and, workshops.INDICATIVE KEY LEARNING RESOURCESStudents will be provided e-copy of lecture slides that can be used as lecture notes. Additional content necessary for workshop activities will be made available in workshop documents.CAREERS / INDUSTRY LINKSStudents will learn about applications of the subject matter in industry during lectures."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

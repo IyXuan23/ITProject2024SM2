@@ -1,0 +1,141 @@
+{
+    "subject name": "Money and Banking",
+    "subject code": "ECON30005",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This course provides an overview of the economic principles that underlie the operation of banks and other financial institutions. The impact of monetary policy in Australia will also be examined with particular emphasis on the roles played by the Reserve Bank and other banking and financial institutions. Topics may include how economic theory applies to financial markets; the process of financial intermediation; available financial statistics; the money supply process and the implementation of monetary policy; money in the macroeconomy; the recent behaviour of major financial aggregates; the 1997/98 Asian economic crisis; financial regulation and deregulation; the monetary transmission mechanism; and a discussion of the recent approach to monetary policy in Australia. The course emphasises institutional and public policy issues, providing an Australian perspective on this topical subject."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain how financial institutions improve welfare outcomes by facilitating borrowing and lending outcomes that would not otherwise occur",
+        "Synthesise how financial institutions transform the risk and liquidity structure of financial assets and remove informational asymmetries and identify the subsequent impact on borrowing and lending opportunities",
+        "Describe the role of the financial intermediary and the function of financial institutions in facilitating financial intermediation",
+        "Analyse the implication of expectations in economic markets generally and in financial markets particularly;",
+        "Explain regulation and deregulation of economic markets in general and of financial markets in particular",
+        "Evaluate the implementation of, and recent approach to, monetary policy in Australia and explain the transmission of monetary policy throughout the economy",
+        "Describe the role of money and financial institutions in recent problems in the world economy",
+        "Apply relevant theories to the real world issues and scenarios, such as how the institutional structure of the Reserve Bank Board can be designed to minimise the incentive to deliver undesirable outcomes",
+        "Critically evaluate the relevance of competing theories. For example, the extent to which different types of market failure apply to financial markets and consequently how best to regulate financial markets."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ECON20001",
+                    "ECON20002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1. 1000 words",
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assignment 2. 1000 words",
+            "timing": "Week 10",
+            "percentage": "15%"
+        },
+        {
+            "description": "End-of-semester Examination. 2 hours. Hurdle requirement:. Successful completion of this subject requires a pass (50%) in the final exam.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Lawrence Uren"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 1-hour lectures and a 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "luren@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "F. Mishkin,The Economics of Money, Banking and Financial Markets, Global Edition, 11th Edition, 2016."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,125 @@
+{
+    "subject name": "Learning Area Humanities Additional 3",
+    "subject code": "EDUC91166",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "In this third learning area subject, Teacher Candidates will extend and consolidate their understandings of the research and practice of teaching, with particular attention given to the critique of contemporary issues and debates in the disciplines in the Humanities and Social Sciences within Australia and beyond. The principles and practices of civics and citizenship education will be developed and applied throughout the semester, with a particular emphasis on the contribution that intercultural understanding can make to learning in the Humanities and an education for democratic citizenship more broadly.",
+        "The assessment tasks in this subject will support Teacher Candidates in strengthening their skills in identifying and adapting exemplary pedagogical practices to differentiate teaching and meet the specific needs of students of diverse backgrounds and abilities, including place-based learning, as well as critiquing and responding to key educational issues that impact on teaching and learning."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate strong\u202fHumanities and Social Sciences subject and pedagogical content knowledge including differentiation of teaching and content selection and organisation to meet the specific needs of students of\u202fdiverse backgrounds and abilities, including Aboriginal and Torres Strait Islander students.",
+        "Select and integrate\u202fHumanities and Social Sciences teaching strategies and resources, including ICT, to meet the specific needs of students from diverse backgrounds, and to engage students in their learning.",
+        "Critically reflect on key educational issues and theories that impact on teaching and learning in\u202fHumanities and Social Sciences.",
+        "Identify appropriate sources of professional learning support and plan professional learning needs."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC91136"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "EDUC91165",
+                    "EDUC91164"
+                ],
+                [
+                    "EDUC91165",
+                    "EDUC91164"
+                ]
+            ],
+            "additional pre-requisite": [
+                "All Modes:",
+                "Standard/Accelerated Mode:",
+                "Note: the above subject can be taken concurrently",
+                "Extended Mode:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Report: Written report on current issues in Humanities. 2500 words",
+            "timing": "Mid semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Resource\u202fFolio: Folio\u202fof teaching\u202fresources. 2500 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Attendance. Hurdle requirement:. A minimum of 80% attendance at, or engagement with, all sessions identified as contact hours (may include lectures, tutorials, seminars and workshops, both synchronous and asynchronous).",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Jeana Kriewaldt"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of on-campus classes"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Jeana Kriewaldt <",
+                    ">"
+                ],
+                "email": [
+                    "jeana@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Taylor, T et.al. (2019) Place and time: Teaching history, geography and social sciences Edition 2. Melbourne: Pearson Australia."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "Faculty of Education:https://education.unimelb.edu.au/"
+        ]
+    }
+}

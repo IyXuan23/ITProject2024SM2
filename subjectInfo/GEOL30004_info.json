@@ -1,0 +1,156 @@
+{
+    "subject name": "Geochemistry",
+    "subject code": "GEOL30004",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject will examine the role that geochemistry plays in Earth processes\u2013including those associated with the formation and evolution of our planet. It will explore the many ways in which the geochemical data preserved in rocks and minerals can provide quantitative and qualitative insights into these Earth-forming processes, including the timing of key events in our planet\u2019s history. Many of the approaches investigated in this subject can also be applied to a wide range of topics such as palaeoclimate reconstruction, resource exploration and archaeological science. The subject emphasises the application of geochemical methods to unfamiliar problems, simulating the experience of a working geoscientist, and is applicable to broader range of scientific careers."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe how the solid Earth can usefully be considered in terms of chemical reservoirs, and movement of material between those reservoirs",
+        "Use isotope geochemical methods to estimate absolute ages for magmatic and metamorphic processes",
+        "Use ratios and trends in trace element geochemistry to describe and interpret magmatic and metamorphic processes",
+        "Use major element geochemistry and the assumption of phase equilibrium to describe and interpret geological processes",
+        "Synthesise geochemical datasets to form conclusions about a geological terrane",
+        "Identify how or when different geochemical tools are best applied to solve petrogenetic problems"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "GEOL20003",
+                    "EVSC20008",
+                    "GEOL20002",
+                    "ERTH20002"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-GEOSC Master of Geoscience"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Three assessments based on practical knowledge (400 - 450 words equivalent each; 10% each). 1250 words (total)",
+            "timing": "Due in Week 5, 8 and 10.",
+            "percentage": "30%"
+        },
+        {
+            "description": "In-class practical quiz. 1.25 hours",
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written Examination. 1.5 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Brandon Mahan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x two hour lecture per week; and 1 x two hour practical class per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "brandon.mahan@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Marjorie Wilson Igneous Petrogenesis, a global tectonic approach: (Unwin Hyman: ISBN 0-04-552025-9)",
+                    "Gunter Faure Principles of Isotope Geology (Wiley & Sons: ISBN 0-471-86412-9)",
+                    "Hugh R Rollinson Using Geochemical Data (Longman Geochemistry Series: ISBN 978-1317898184)",
+                    "John V Walther Essentials of Geochemistry, Second edition (Jones & Barlett Learning: ISBN 978-0763759223)"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

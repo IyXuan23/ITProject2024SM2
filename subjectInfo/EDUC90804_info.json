@@ -1,0 +1,113 @@
+{
+    "subject name": "Clinical Assessment & Course Evaluation",
+    "subject code": "EDUC90804",
+    "subject availability": [
+        "March"
+    ],
+    "overview": [
+        "\u2018Clinical Assessment and Course Evaluation\u2019 considers the similarities and differences involved in judging the performance of clinical learners while also evaluating the education they receive. Whereas the foundation subject (\u201cAssessing Clinical Learners\u201d) focussed on the basics of the main assessment formats used by clinical teachers, this subject goes into greater depth on designing and implementing highly-performing assessment regimens. It also explores key issues in measuring the quality of health professional education programs and their associated assessments."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "understand and explain key characteristics of assessment methods including reliability, validity, feasibility, fairness",
+        "design or adapt assessment programs that are appropriate for specific clinical contexts",
+        "interpret and report the results of assessments and their psychometric performance",
+        "evaluate the effectiveness, appropriateness and efficiency of assessments and educational programs"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC90741",
+                    "EDUC90742",
+                    "EDUC90743",
+                    "EDUC90744"
+                ],
+                "This subject is not available for students admitted in any other courses."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "GD-CLINED Graduate Diploma in Clinical Education",
+                "MC-CLINED Master of Clinical Education"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written paper on course evaluation, with a 1,000 word project proposal submitted mid semester for feedback.. 1,500 words",
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Written paper on clinical assessment. 2500 words",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "March": [
+                {
+                    "Coordinators": "Anna Ryan and Kate Reid"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two days of 8.5 hours each"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "19 March 2024 to  7 May 2024"
+                },
+                {
+                    "Last self-enrol date": "29 March 2024"
+                },
+                {
+                    "Census date": "12 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "24 May 2024"
+                },
+                {
+                    "Assessment period ends": "4 July 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "March": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "N/A"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://excite.mdhs.unimelb.edu.au/award_courses/grad_dip_in_clinical_education"
+        ]
+    }
+}

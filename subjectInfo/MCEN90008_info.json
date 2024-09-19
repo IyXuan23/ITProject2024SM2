@@ -1,0 +1,149 @@
+{
+    "subject name": "Fluid Dynamics",
+    "subject code": "MCEN90008",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject builds upon previous fluids subjects, providing students with the basic skills necessary to calculate fluid flows around bodies. Broadly speaking the subject is divided into two units; Unit 1: potential flow and Unit 2: compressible flow. These could equally be described as subsonic and supersonic aerodynamics respectively. Fluid flows have broad reaching applications in many engineering systems and examples as broad as building ventilation, mixing, as well as meteorological applications are considered in unit 1. The supersonic course is more firmly concentrated on aeronautical / astronautical applications.",
+        "Both units will start from the basic equations of motion governing fluid flow, and build a useable set of tools that enable the students to calculate flow fields in potential and supersonic flows. This approach will give students a clear sense of the origins of the tools that they use, and also a clear sense of the limitations. Such knowledge is necessary since these theories provided much of the backbone to early computational fluid dynamics packages used in industry.",
+        "The two units are strongly linked by the same goal. Throughout the potential flow unit, we build slowly from first principles, proving the utility of potential flow solutions, adding building block flows until eventually the course culminates with a demonstration of how these techniques can be used to calculate the flow (and lift coefficient) of subsonic airfoils. The supersonic unit follows a similar approach, building from first principles, until we eventually develop a set of tools that enables the calculation of the flow (and lift coefficient) of supersonic airfoils. In doing so, students will be introduced to many aspects of supersonic aircraft design."
+    ],
+    "indicative content": [
+        "This subject introduces students to analysis techniques used in subsonic and supersonic flows. Topics covered include (Unit 1) basic introduction to inviscid flow with and without vorticity; concepts and analysis using stream function and velocity potential; incompressible viscous flow past bodies with vortex shedding; magnus effect; complex velocity potential; (Unit 2) speed of sound; aerodynamic heating; normal and oblique shock waves; expansion fans; theories of thin airfoils; shock expansion theory; boundary layer and shock wave interactions; the `sound barrier\u2019; experimental techniques."
+    ],
+    "intended learning outcomes": [
+        "Use complex velocity potential analysis to solve a variety of inviscid flow problems including incompressible flow past airfoils",
+        "Use Matlab to find numerical solutions of certain more complicated flow situations",
+        "Understand the basic features of subsonic airfoils, including lift, drag and stall",
+        "Apply shock expansion theory to the solution of flow in a variety of situations including prediction of lift and drag of two-dimensional bodies in supersonic flow",
+        "Apply Ackeret or linear theory to thin airfoils",
+        "Understand the basic features of supersonic airfoil designs and appreciate the differences between subsonic and supersonic airframe design."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST20029"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "MAST20030"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST20009",
+                    "MAST20032"
+                ]
+            ],
+            "alternate pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MCEN30004 Thermofluids 2",
+        "MCEN30005 Thermofluids 3"
+    ],
+    "assessments": [
+        {
+            "description": "Two assignments of up to 2000 words each, (15% each). 35-40 hours (of work required)",
+            "timing": "Due before week 10 of semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "One practical laboratory report of up to 2000 words. 13-15 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "One examination. 3 hours. Hurdle requirement:. students must pass the exam component to pass this subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Nicholas Hutchins"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures, 12 hours of tutorials and up to 10 hours of practical work."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "nhu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "TBA"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject will be delivered through a combination of lectures and tutorials. Students will also complete two experiments which will reinforce the material covered in lectures."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,144 @@
+{
+    "subject name": "Education Randomised Controlled Trials",
+    "subject code": "EDUC91017",
+    "subject availability": [
+        "July"
+    ],
+    "overview": [
+        "The aim of this subject is to enable students to understand and apply the principles of design and analysis of randomised controlled trials (RCTs) within the educational context. The subject provides a comprehensive introduction to trial design features used to limit bias, essential aspects of trial design, conduct, analysis and reporting, and challenges and solutions for conducting RCTs within the education context. At the end of the subject, it is expected that students will be able to contribute effectively to the planning, conduct and reporting of an RCT within an education context.",
+        "Throughout the subject, the emphasis will be on practical issues faced by researchers in the conduct of RCTs in education, and participants will be provided with skills to design and conduct rigorous RCTs in this research area. This subject covers: when is an RCT design appropriate, ethical considerations, principles and methods of randomisation in controlled trials, types of RCTs, allocation to groups, outcome measurements, understanding implementation and process measures, cost-analysis, statistical approaches, data interpretation and reporting."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe and critically evaluate the purpose and role of randomised controlled trials (RCTs) in education, drawing upon existing theories and professional viewpoints",
+        "Critically review and evaluate the design and findings from existing randomised controlled trials in education settings",
+        "Understand the fundamental features of RCTs, why they exist and how quality of these features is represented during the design, conduct and reporting stages",
+        "Design and communicate the features of RCTs for a specific education intervention/strategy/program"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC90929",
+                    "EDUC90930",
+                    "EDUC91029",
+                    "EDUC91030"
+                ],
+                "*Students that commenced their course prior to 2021 may have completed EDUC90830 in place of EDUC91029, and EDUC90900 in place of EDUC91030:",
+                [
+                    "EDUC90830",
+                    "EDUC90900"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students admitted to courses/entry points not specified below have no prerequisites for this subject.",
+                "Students in the 200-point program of the Master of Education, Master of TESOL or Master of Modern Languages Education, must have completed the following four compulsory subjects*:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Online quiz 1 (15 MCQ). 750 words (equivalent)",
+            "timing": "Mid teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Online quiz 2 (15 MCQ). 750 words (equivalent)",
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Research proposal. 3500 words",
+            "timing": "End of the assessment period",
+            "percentage": "70%"
+        },
+        {
+            "description": "Hurdle requirement:. A minimum of 80% attendance at all seminars, tutorials and workshops",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "July": [
+                {
+                    "Principal coordinator": "Jon Quach"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours comprising four days of on campus classes (6 hours per day)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "21 June 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are required to access materials on the LMS"
+                },
+                {
+                    "Teaching period": "5 July 2024 to 11 August 2024"
+                },
+                {
+                    "Last self-enrol date": "24 June 2024"
+                },
+                {
+                    "Census date": "9 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 August 2024"
+                },
+                {
+                    "Assessment period ends": "1 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [],
+                "email": [
+                    "jon.quach@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

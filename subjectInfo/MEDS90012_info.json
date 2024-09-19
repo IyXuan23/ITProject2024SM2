@@ -1,0 +1,154 @@
+{
+    "subject name": "Recruitment and Selection in Surgery",
+    "subject code": "MEDS90012",
+    "subject availability": [
+        "Semester 1 (Early-Start) - Online"
+    ],
+    "overview": [
+        "This subject introduces participants to recruitment and selection in medical and surgical education. Entry to surgical practice is highly competitive. The profession has a responsibility to ensure that those who enter surgical training are those who are best suited. Current approaches to selection have been challenged. Internationally, there has been significant shift in methods. There are tensions in recruitment that include the need to increase diversity of trainees.",
+        "In this subject, a broad range of recruitment and selection approaches will be explored highlighting their advantages and disadvantages. Best practice in human resource management will be explored. We draw on practices in business and management including a range of psychometric tests and their acceptability and suitability for entry to surgical training. Further, attention will be given to the history of dexterity, visuo-spatial and other abilities relevant for the unique nature of surgical practice.",
+        "The subject will review selections systems from around the world research findings on validation including candidate, surgeon and patient reactions. Where training panels are used, issues in their performance will be considered.",
+        "We will also investigate selection methods for medical school which vary widely and for which there is a substantial and growing body of evidence. The widespread introduction of graduate entry medicine may have implications for entry to speciality training. The subject also reviews the extensive literature on career intention.",
+        "The subject advances also students\u2019 knowledge of assessment in designing and selecting appropriate tests for selection. Additionally, students will be able to locate selection in the spectrum of curriculum activity \u2013 that is, from selection, through curriculum implementation (including assessment) and evaluation.",
+        "Overall aims:",
+        "To provide participants with an understanding of best practice in recruitment and selection",
+        "To provide an understanding of selection criteria and methods for measuring behaviours"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe principles of selection for professional training",
+        "Outline and critically review processes of selection for medical school (e.g. UMAT, GAMSAT, multi mini interview etc)",
+        "Outline and critically review recruitment and selection for speciality training drawing on local and international experiences",
+        "Identify factors which influence trainees\u2019 career choices",
+        "Design a selection strategy for entry to surgical training"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDS90006",
+                    "MEDS90007",
+                    "MEDS90008",
+                    "MEDS90009"
+                ],
+                "This subject is not available for students admitted in any other courses."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "GC-SURGED Graduate Certificate in Surgical Education",
+                "GD-SURGED Graduate Diploma in Surgical Education",
+                "MC-SURGED Master of Surgical Education"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Essay. The aim of this assessment is to promote critique of fair practice in selection strategies that involve interviews.. 1,500 words",
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Essay. The aim of this assessment is to provide students with an opportunity to design a strategy for selection (into surgical training, surgical craft group etc). There will be a choice of an overarching strategy or focus on a detailed element of selection methods. Students are expected to provide a rationale for their strategy supported by best evidence.. 3,000 words",
+            "timing": "End of semester",
+            "percentage": "70%"
+        },
+        {
+            "description": "Hurdle requirement:. Skills - participate in a simulated selection panel, due on study day. The aim of this assessment is for students to demonstrate fair and transparent practice in managing a selection panel and 'candidates'.",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Reflective writing. Students are expected to reflect on a selection process that they have been involved in as either an applicant or a selector. They are to highlight what was helpful and what was unhelpful and relate this to the approaches used in other professions where competitive selection is critical.. 1,500 words. Hurdle requirement",
+            "timing": "Mid semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start) - Online": [
+                {
+                    "Coordinator": "Debra Nestel"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "29 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period, students should complete pre-readings, which will be made available via Canvas"
+                },
+                {
+                    "Teaching period": "5 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "9 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Reading materials online"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "IT requirements:",
+            "Participants will require access to the internet with a minimum connection speed of 256Kbps to access course materials and to participate in on-line discussions and presentations forums. Faster connection speeds are preferred. Participants will also need to verify that their internet connection is configured to allow them to view streamed audio and video files. Test files will be made available for students to test their connections.",
+            "Participants are expected to have a headset and microphone connected to their computer for participation in on-line activities.",
+            "Participants will be expected to have access to the following Microsoft Office products to fully participate:",
+            [
+                "MS Word",
+                "MS Powerpoint"
+            ],
+            "All online applications will be web-based and no special software is required."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

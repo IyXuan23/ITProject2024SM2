@@ -1,0 +1,115 @@
+{
+    "subject name": "Biomedicine: Molecule to Malady",
+    "subject code": "BIOM30002",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject provides students with an insight into how medical problems are approached in the 21st century. Students spend 5-6 hours addressing each of six \u201cmaladies\u201d, selected to demonstrate the holistic nature of medical practice and the integration of biomedical research into the development of novel diagnostics and evidence-based therapies.",
+        "Each module includes elements of normal anatomy and physiology, the epidemiology and the pathology of disease, including any genetic, microbiological, immunological, and inflammatory processes that underpin the pathology. Finally, the public health implications of the malady are considered wherever possible."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain why the treatment of complex diseases requires a multidisciplinary and holistic approach;",
+        "Discuss how an understanding of the biological bases of selected diseases leads to precise diagnostic and therapeutic opportunities;",
+        "Describe the molecular, cellular and physiological bases of selected diseases; and",
+        "Apply a theoretical framework to the systematic study of complex diseases."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOM20001",
+                    "BIOM20002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "2 x 35 min intra-semester tests (15% each). 70 minutes",
+            "timing": "From Week 5 to Week 10",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written assignment. 600 words (equivalent)",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "55%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "Christopher McDevitt and Jessica Welch"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three 1-hour lectures per week plus six 1-hour tutorials per semester."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinators"
+                ],
+                "email": [
+                    "M2M-BIOM30002@unimelb.edu.au",
+                    "M2M-BIOM30002@unimelb.edu.au",
+                    "M2M-BIOM30002@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None. It is anticipated that students will access standard reference texts on anatomy, physiology, pathology, biochemistry & molecular biology, microbiology & immunology, pharmacology and clinical medicine. Key references and review articles will be provided via the LMS."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students enrolled in the Bachelor of Biomedicine."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

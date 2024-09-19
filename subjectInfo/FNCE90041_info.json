@@ -1,0 +1,96 @@
+{
+    "subject name": "Finance Theory - Investments",
+    "subject code": "FNCE90041",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject provides an overview of capital market theory and evidence. We will cover dynamic models of optimal portfolio choice and equilibrium asset pricing. Topics include current research in both theoretical and empirical studies."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the debate around return predictability",
+        "Identify intertemporal hedging demands",
+        "Estimate optimal dynamic portfolio weights",
+        "Evaluate the performance of dynamic portfolio strategies",
+        "Understand models of aggregate equilibrium asset pricing",
+        "Understand major models of cross-sectional asset pricing",
+        "Conduct empirical research on asset pricing models."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-COMFIN Master of Commerce (Finance)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A 2000-word mid-semester project or 2-hour examination. 2000 words",
+            "timing": "From Week 1 to Week 6",
+            "percentage": "35%"
+        },
+        {
+            "description": "A 2000-word end-of-semester project or 2-hour examination. 2000 words",
+            "timing": "From Week 7 to Week 12",
+            "percentage": "35%"
+        },
+        {
+            "description": "Assignment. 1500 words",
+            "timing": "Week 12",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Eduard Inozemtsev"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 3-hour lecture per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

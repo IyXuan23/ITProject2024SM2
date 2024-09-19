@@ -1,0 +1,123 @@
+{
+    "subject name": "Plant Production and Establishment",
+    "subject code": "HORT90004",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides an overview of the horticultural industry from plant production to installation and establishment of plants in the landscape. It introduces plant propagation techniques and plant growing systems; site analysis, with specific reference to the properties of urban soils and related issues affecting plant performance; plant quality; planting techniques; plant establishment; water delivery and management issues; and the plant maintenance activities during production and at planting that are required for designed landscapes to succeed."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe methods of propagating and producing landscape plants",
+        "Assess and analyse sites for planting",
+        "Describe the requirements for successful plant establishment",
+        "Discuss the main requirements for successful maintenance and management of plants destined for designed landscapes"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One literature review on an aspect of horticultural practice. 1500 words (equivalent)",
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "description": "One practical report. 1250 words (equivalent)",
+            "timing": "Week 11",
+            "percentage": "25%"
+        },
+        {
+            "description": "One practical report. 750 words (equivalent)",
+            "timing": "Week 3",
+            "percentage": "15%"
+        },
+        {
+            "description": "One final examination, equivalent to 1500 words. 90 minutes",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Chris Williams"
+                },
+                {
+                    "Mode of delivery": "On Campus (Burnley)"
+                },
+                {
+                    "Contact hours": "48 hours comprising lectures, practical exercises and field trips."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "chriscw@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Reading material to support the subject will be made available through the Learning Management System."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

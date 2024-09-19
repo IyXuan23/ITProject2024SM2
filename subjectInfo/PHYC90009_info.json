@@ -1,0 +1,108 @@
+{
+    "subject name": "Physical Cosmology",
+    "subject code": "PHYC90009",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject provides an advanced introduction to physical cosmology. Specific topics may include the isotropic homogeneous Universe, the Robertson Walker metric, the Friedmann equations, baryogenesis, inflation, big-bang nucleosynthesis, the recombination era, density fluctuations as the origin of galaxies, the cosmic microwave background, linear and non-linear growth of structure, the Press-Schechter mass function, reionization of the IGM and gravitational lensing. Examples are drawn from past and current cosmological observations."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "challenge the students to develop knowledge of fundamental physical principles governing the formation and evolution of structure in the Universe;",
+        "understand the connection between the microscopic properties of particles and the macroscopic evolution of the Universe;",
+        "introduce students to the problems facing contemporary research in cosmology;",
+        "appreciate the distinction between the evolution of baryonic and non-baryonic matter;",
+        "develop the skills required to interpret cosmological data."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "This subject will assume a general familiarity with Physics at third year level."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Assignment, totalling up to 25 pages of written work. 25 pages",
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assignment, totalling up to 25 pages of written work. 25 pages",
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "One written examination. 3 hours",
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Michele Trenti"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total of 36 contact hours: 3 x 1 hour lectures per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

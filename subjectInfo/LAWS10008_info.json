@@ -1,0 +1,127 @@
+{
+    "subject name": "Science, Technology and the Law",
+    "subject code": "LAWS10008",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Science and technology are at the heart of many of the most pressing legal and social problems of our day: climate change, war, disease prevention, state and corporate surveillance, \u2018post-truth\u2019 politics, the Uberisation platformisation of everything, and AI. Likewise, legal institutions rely heavily on scientific claims for their legitimacy and technical innovations for their social and political effects.",
+        "This subject takes a critical look at these dynamics, using both historical and contemporary examples to explore the complex relations between law, science and power.In doing so it asks: How do scientific discoveries and their technological applications shape our social and legal worlds? And how do law and society affect scientific and technological developments in turn?",
+        "The overall aim is to equip students from diverse disciplinary backgrounds with the analytical and critical tools necessary to understand and respond to complex questions of science and technology in all their legal, social, political, ethical, and cultural dimensions."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse and reflect upon the complex relationships between law, science, and power, including the historical and contemporary examples that illustrate these dynamics.",
+        "Evaluate the ways in which legal institutions rely on scientific claims for their legitimacy and how technical innovations impact social and political effects.",
+        "Demonstrate an understanding of how scientific discoveries and technological applications can shape our social and legal worlds, as well as how law and society can affect scientific and technological developments in turn.",
+        "Apply analytical and critical tools to complex questions related to science and technology, including their legal, social, political, ethical, and cultural dimensions."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Analysis task on legal and political aspects of a contemporary scientific or technical issue. 1000 words (equivalent)",
+            "timing": "Week 5-6",
+            "percentage": "25%"
+        },
+        {
+            "description": "Research essay. 3000 words",
+            "timing": "During the examination period",
+            "percentage": "75%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "James Parker"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "150 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Lecturer",
+                    ""
+                ],
+                "email": [
+                    "Associate Professor James Parker",
+                    "Contact Stop 1"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Materials may be provided by Melbourne Law School."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "law.unimelb.edu.au"
+        ]
+    }
+}

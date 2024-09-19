@@ -1,0 +1,114 @@
+{
+    "subject name": "Intensive Care Nursing Practice",
+    "subject code": "NURS90150",
+    "subject availability": [
+        "April - Off Campus"
+    ],
+    "overview": [
+        "In this subject, students will clinically apply the theoretical principles from this subject and subjects, Applied Pathophysiology, Foundations of Critical Care Nursing and Intensive Care Nursing. Students will demonstrate the ability to undertake and support comprehensive patient assessment, monitoring and evaluation and care planning in specialty nursing practice. Students will learn to incorporate and apply scientific knowledge and evidence-based treatment and nursing interventions to support a patient-centred approach to inform their clinical decision making in practice."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Integrate core principles of critical care nursing to develop practice knowledge that supports comprehensive patient assessment and monitoring.",
+        "Apply knowledge and skills to recognise, prioritise and respond to patients experiencing acute alterations to health status",
+        "Evaluate the effect of intensive care nursing interventions in the delivery of safe and competent nursing",
+        "Apply skills in problem-solving, critical thinking, and reflective practice to the delivery of specialist intensive care nursing",
+        "Coordinate safe and timely care of patients with a range of speciality clinical needs"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "NURS90076"
+                ],
+                [
+                    "NURS90122"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Formative written assessment (Professional Practice Portfolio Part A). 1000 words. Hurdle requirement:. Students must pass this assessment.",
+            "timing": "First half of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Summative written assessment \r\n(Professional Practice Portfolio Part B). 1000 words. Hurdle requirement:. Students must pass this assessment.",
+            "timing": "During the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Clinical Skills Assessment x 6 (500 words each) \r\n(Professional Practice Portfolio Part C). 3000 words (equivalent). Hurdle requirement:. Students must pass all six clinical skills assessments.",
+            "timing": "Distributed evenly across the study period and due by the end of assessment period.",
+            "percentage": "0%"
+        }
+    ],
+    "dates and times": [
+        {
+            "April - Off Campus": [
+                {
+                    "Coordinator": "Rosemary Turner"
+                },
+                {
+                    "Mode of delivery": "Off Campus"
+                },
+                {
+                    "Contact hours": "Asynchronous learning (encompassing self-directed learning, working through the online learning activities within the subject modules in Canvas and participation in discussion board and group activities within the LMS). Online LMS activities consist of approximately 5 hours per week and synchronous online webinars and tutorials of 12-16 hours across the subject duration"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "1 April 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students will familiarise themselves with the online platform which will provide an overview of the subject, assessment requirements and expected activities and behaviours. They will also be provided with information about studying online and informed about the University resources available to them."
+                },
+                {
+                    "Teaching period": "8 April 2024 to 17 November 2024"
+                },
+                {
+                    "Last self-enrol date": "2 April 2024"
+                },
+                {
+                    "Census date": "24 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "30 August 2024"
+                },
+                {
+                    "Assessment period ends": "24 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "April": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

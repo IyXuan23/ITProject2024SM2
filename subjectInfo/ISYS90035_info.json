@@ -1,0 +1,132 @@
+{
+    "subject name": "Knowledge Management Systems",
+    "subject code": "ISYS90035",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject focuses on how Knowledge Management (KM) and a range of Information Technologies and analysis techniques are used to support KM initiatives in organisations. Technologies likely to be considered are: collaborative and social media tools; corporate knowledge directories; data warehouses and other repositories of organizational memory; business intelligence including data-mining; process automation; workflow and document management. The emphasis is on high-level decision-making and the rationale of technology-based initiatives and their impact on organizational knowledge and its use. This subject supports course-level objectives by allowing students to develop analytical skills to understand the complexity of real-world KM work in organisations. It promotes innovative thinking around the deployment of existing and emerging information technologies for KM. The subject contributes to the development of independent critical inquiry, analysis and reflection."
+    ],
+    "indicative content": [
+        "Techniques of analysis and design likely to be learned are: critical thinking, discourse analysis and design thinking. Real-world case studies in the form of fieldwork are conducted likely from the following domains: software industry; retail; creative/fashion industry; manufacturing; emergency management. Real case-study work will shape thinking about IT support for KM in these industries."
+    ],
+    "intended learning outcomes": [
+        "Apply the theoretical concepts of knowledge management to real-world situations",
+        "Use qualitative techniques of analysis to identify requirements for knowledge-initiatives in response to a real-world work situation",
+        "Demonstrate the strengths and weaknesses of different technological approaches to knowledge management",
+        "Specify new high-level designs for knowledge management initiatives using discourse analysis, qualitative techniques and design thinking",
+        "Analyse documented cases of knowledge management initiatives and identify their strengths and weaknesses"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ISYS90026"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "An individual report of approximately 2000 words, due the 1st week of the examination period, requiring approximately 40-45 hours of work per student. Intended Learning Outcomes (ILO's) 1, 3 and 5 are addressed in the report.. 40-45 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        },
+        {
+            "description": "One team-based leadership, presentation and participation: student teams to lead weekly discussions on the week's theme from selected readings, requiring approximately 20-25 hours of work per student. ILO's 1 to 3 are addressed in the discussion.. 20-25 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "One group based design report (30%) with 3-4 group members of approximately 3500 words supported by a 15 minute presentation with Q&A  (5 mins for group presentation and 10 mins for Q&A) to assess individual student's understanding (15%) . \r\n\r\nReport due end of week 10;\r\nPresentation due end of week 12. \r\n\r\nRequires approximately 55-60 hours of work per student. \r\n\r\nILO's 1, 3, 4 and 5 are addressed in the group design report and presentation.. 55-60 hours (of work required)",
+            "timing": "Late in the teaching period",
+            "percentage": "45%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Libo Liu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of one 2-hour lecture per week and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "libo.liu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Learning and Teaching Methods",
+            "The subject is delivered in 3 hour classes, with each class containing: a lecture on theoretical concepts; a lecture on an analysis or design technique; a tutorial group work activity; an interactive debrief on the outcomes of the group activity. Outside class students will study theory and cases through reading and continuing their group activities.",
+            "Indicative Key Learning Resources",
+            "A reader of key articles will be available at The University Bookshop. Materials from real-world cases are provided in class.",
+            "Careers/Industry Links",
+            "This subject is relevant to careers as IT analyst and consultant. As a body of knowledge and skills, Knowledge Management has been championed by many prominent organisations including, The World Bank, NASA, Australian Tax Office. Students will work on real-world cases of organisations attempting knowledge management initiatives. There will normally be one or two lectures from invited practitioners from industry."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

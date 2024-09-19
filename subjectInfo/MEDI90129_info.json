@@ -1,0 +1,167 @@
+{
+    "subject name": "Clinical Ultrasound - Core Concepts",
+    "subject code": "MEDI90129",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "Students will acquire a theoretical understanding and knowledge required to understand the production of clinical ultrasound images, including ultrasound physics, transducer and machine componentry, image optimisation, artefacts, and probe manipulation.  This will enable safe application of focused ultrasound to improve patient clinical diagnosis and management, including the indications, contraindications, pitfalls and limitations of clinical ultrasound (both generally and in a specific (chosen) health care specialty).",
+        "Students will also be able to evaluate the requirements for training, competence and certification in focused ultrasound."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the role of clinical ultrasound as a core pillar of clinical assessment and management in health care",
+        "Comprehend and demonstrate the understanding of the physics, transducer and machine componentry, image optimisation pertaining to ultrasound image generation and biosafety for clinical applications of ultrasound",
+        "Comprehend and demonstrate the understanding of common pitfalls and limitations of clinical ultrasound and how these impact on the clinical utility of clinical ultrasound",
+        "Comprehend and demonstrate the understanding of evaluate how to optimise ultrasound images for a variety of types of clinical ultrasound",
+        "Comprehend and demonstrate the understanding of requirements for focused ultrasound reporting, image archiving, infection control, and machine care",
+        "Comprehend and demonstrate the understanding of the requirements for training, competence and credentialing in focused and procedural ultrasound in general"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Multiple-choice questions following each tutorial (25 MCQ). 1250 words (equivalent)",
+            "timing": "End of the assessment period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Interpretation of 10 case studies assessed by structured questions pertaining to each case (25 MCQ). 625 words (equivalent)",
+            "timing": "End of the assessment period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Self-reflective e-portfolio of cases that the student has managed or been involved\u2013 2 cases. Hurdle requirement:. Students must submit e-portfolio of cases that the student has managed or been involved\u2013 2 cases to pass this subject",
+            "timing": "End of the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Open-book summative multiple-choice examination of 25 questions. 625 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Elizabeth Hurley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "a Doctor of Medicine or a Bachelor of Medicine/Bachelor of Surgery (MBBS) or equivalentoran undergraduate degree or equivalent in allied health, nursing, physiotherapy, or science.",
+                    "a Doctor of Medicine or a Bachelor of Medicine/Bachelor of Surgery (MBBS) or equivalentoran undergraduate degree or equivalent in allied health, nursing, physiotherapy, or science."
+                ]
+            }
+        ]
+    }
+}

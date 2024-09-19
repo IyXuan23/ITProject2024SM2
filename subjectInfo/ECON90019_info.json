@@ -1,0 +1,122 @@
+{
+    "subject name": "International Trade",
+    "subject code": "ECON90019",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Topics include explanations of the patterns of trade and the gains from trade; the analytics of the instruments of trade policy under different market structures; the generalised theory of distortions in open economies; the political economy of trade policy; the economics of preferential trade agreements; and the role of the World Trade Organisation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain why countries engage in international trade;",
+        "Analyse the causes and consequences of international trade;",
+        "Synthesise the theoretical and empirical literature and describe the current state of knowledge in the field of international trade;",
+        "Analyse the welfare effects of various trade policies under different industry structures, such as monopolies, oligopolies and monopolistic competition;",
+        "Evaluate the welfare effects of trade and industry policies under various trading regimes (regional trading blocs vs multilateralism);",
+        "Critically evaluate the income and distributional effects of various trade policies."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ECON90002",
+                    "ECON40001"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ECON40003"
+    ],
+    "assessments": [
+        {
+            "description": "Three 1,000-word class assignments due in weeks 5, 9 and 12. 3000 words (total)",
+            "timing": "From Week 5 to Week 12",
+            "percentage": "40%"
+        },
+        {
+            "description": "Class attendance and participation",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Two-hour end-of-semester exam. 2000 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Reshad Ahsan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Reshad Ahsan:"
+                ],
+                "email": [
+                    "rahsan@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students may not gain credit for both ECON90019 International Trade and ECON40003 International Trade."
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "subject name": "Food Microbiology and Safety",
+    "subject code": "FOOD20006",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Microbes (viruses, bacteria, fungi, parasites and other agents) can be associated with food in several ways:",
+        "As components of the fermentation processes that are associated with the development of flavours and textures of food and its preservation",
+        "As the normal microflora that is associated with the origins of the food and persist during storage, possibly contributing to food spoilage",
+        "As contaminants that enter food during processing or through subsequent mishandling, often posing public health risks",
+        "However, as foods must be safe and fit for human consumption, this subject aims to familiarise students with major food spoilage and pathogenic microorganisms.",
+        "The content will cover:",
+        "The kinetics of bacterial growth and the factors that may alter this (water activity, low pH, temperature, preservatives)",
+        "The principles of modelling growth",
+        "The principles of hazard and risk assessment in microbiological safety",
+        "The role of microbes in food processing, including examples of specific fermentation processes and waste treatment",
+        "Practical exercises and case studies will be undertaken to provide an in-depth understanding of the regulatory framework of food safety"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe concepts of normal flora and pathogenic microbes",
+        "Understand how microbes interact and impact on food",
+        "Understand the basics of identifying, classifying and enumerating microbes important in agri-food systems",
+        "Use bright field light microscopy as a tool for identifying microbes",
+        "Describe aseptic techniques for the transfer and handling enumerating and identifying microorganisms in food samples"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "AGRI10050",
+                    "BIOL10002",
+                    "BIOL10008",
+                    "BIOL10009"
+                ],
+                [
+                    "AGRI10051",
+                    "BIOL10010",
+                    "BIOL10011",
+                    "BIOM10002"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment approximately due in week 9. 1500 words",
+            "timing": "Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "Mid semester test. 1 hours",
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Kelly Tivendale"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 lectures/workshops and 18 hr practicals"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:",
+                    ""
+                ],
+                "email": [
+                    "kellyat@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Fundamental Food Microbiology by Bibek Ray and Arun Bhunia, 5th Edition, CRC Press."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Food Microbiology by Martin R Adams and Maurice O Moss, 3rd Edition."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,135 @@
+{
+    "subject name": "Publishing and Writing Summer School",
+    "subject code": "PUBL90026",
+    "subject availability": [],
+    "overview": [
+        "This subject inducts students into short-deadline workflows and projects in an operational publishing house. Over five days, students undertake writing and publishing projects in the Publishing program\u2019s teaching press, Grattan Street Press, under the supervision of academic staff, and to deadline, as part of the teaching press\u2019s ongoing publication schedule. Students also participate in two masterclasses with leading authors and/or editors, designed to refine writing and editing skills employed in book publishing."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Acquire practical understanding of editing, production and marketing workflows in a publishing house operating with best practices",
+        "Acquire experience of the editorial judgement involved in manuscript assessment",
+        "Acquire and demonstrate skills for writing and editing to short deadlines",
+        "Acquire and demonstrate skills for editing according to genre."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PUBL90001",
+                    "PUBL90002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "with a final grade of 70% or higher in PUBL90002 Editorial English."
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "PUBL90002"
+                ],
+                "with a final grade of 75% or higher."
+            ],
+            "one of pre-requisite": [
+                [
+                    "PUBL90006",
+                    "PUBL90010"
+                ]
+            ],
+            "alternate pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "PUBL90025"
+    ],
+    "assessments": [
+        {
+            "description": "Write and edit a blogpost for publication on the teaching press website. 1000 words",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group project: in class, plan and present a social media marketing campaign ; Due final day of intensive. 1000 words",
+            "timing": "End of semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Prepare an editorial assessment of a draft short story or chapter associated with a masterclass in this subject OR create art and text for a social media campaign presented in class ; Due 4 weeks after intensive teaching ends. 3000 words",
+            "timing": "At the end of the assessment period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Students are required to attend a minimum of 100% of classes to pass this subject, and regular class participation is expected.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Coordinator": "Sybil Nolan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "38 contact hours during five-day intensive"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "15 January 2024 to 19 January 2024"
+                },
+                {
+                    "Last self-enrol date": "16 January 2024"
+                },
+                {
+                    "Census date": "2 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "9 February 2024"
+                },
+                {
+                    "Assessment period ends": "16 February 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [],
+                "email": [
+                    "sybil.nolan@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Subject readings will be available online."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Adobe Creative Cloud can be used in this subject, it is recommended that you purchase a licence via Student IThttps://studentit.unimelb.edu.au/software#adobecc"
+                ]
+            }
+        ]
+    }
+}

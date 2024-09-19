@@ -1,0 +1,141 @@
+{
+    "subject name": "Landscape Studio: Urban Open Space",
+    "subject code": "ABPL30042",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The focus of this studio will be on the production of a design for an urban open space. It will introduce a range of precedents, principles, and practices for urban landscape design.Prescribed software toolsDrafting software (e.g. McNeel Rhino, Autodesk AutoCAD)Image editing software (e.g. Affinity Photo)Layout software (e.g. Affinity Publisher)Modelling software (e.g. Autodesk 3Ds Max)Details of software availability and pricing are captured athttps://edsc.unimelb.edu.au/student-experience/it-support",
+        "",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop a basic understanding of urban and landscape design theory;",
+        "Develop creative responses to land planning and design problems in city and suburban areas;",
+        "Develop representational skills for urban landscape design;",
+        "Develop a basic understanding of policy for urban regions and its implications."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "ABPL20040 Landscape Studio 2: Site Plan and Design",
+                "ABPL20049 Introduction to Urban Design and Planning",
+                "B-DES Bachelor of Design students:"
+            ],
+            "one of pre-requisite": [
+                [
+                    "ABPL20028"
+                ],
+                [
+                    "ABPL20055",
+                    "ARCH10004"
+                ]
+            ],
+            "additional pre-requisite": [
+                "B-ENVS Bachelor of Environments students:",
+                "ABPL20038 Explorations (Landscape Studio 1)"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)",
+                [
+                    "ARCH20004"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ARCH20001",
+                    "ARCH20002"
+                ]
+            ],
+            "additional pre-requisite": [
+                "ABPL10004 Global Foundations of Design"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Group design project. 800 words (equivalent)",
+            "timing": "Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "Individual design project. 3200 words (equivalent). Hurdle requirement:. Must pass the individual design project to pass the subject.",
+            "timing": "Week 14",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Sidh Sintusingha"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of studios ( 1X3 hour studio per week ) and 12 hours  of lectures"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "ssint@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

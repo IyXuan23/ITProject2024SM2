@@ -1,0 +1,134 @@
+{
+    "subject name": "Biological Modelling and Simulation",
+    "subject code": "MAST30032",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces the concepts of mathematical and computational modelling of biological systems, and how they are applied to data in order to study the underlying drivers of observed behaviour. The subject emphasises the role of abstraction and simplification of biological systems, where required details of the underlying biological mechanisms will be provided. Combined with an introduction to Monte Carlo methods for statistical inference, students will learn how to identify common patterns in the rich and diverse nature of biological phenomena and appreciate how the modelling process leads to new insight into biological phenomena.",
+        "Modelling: Deterministic and stochastic population-level dynamic models; and agent-based computational models will be introduced and studied. Indicative examples will be drawn from health (e.g. infectious diseases, cell tumor growth, developmental biology), ecology (e.g. predator-prey systems, sustainable harvesting, environmental decision making) and biotechnology (e.g. biochemical and metabolic models).",
+        "Simulation: Sampling based methods (i.e. Monte Carlo methods) for parameter estimation and hypothesis testing will be introduced, and their importance in modern computational biology discussed."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Appreciate how abstraction and simplification of biological systems through modelling can provide new insight into biological phenomena",
+        "Be able to distinguish between different approaches to modelling (deterministic, stochastic, agent-based, statistical) and critically evaluate the suitability of these alternative approaches for particular biological problems",
+        "Be able to develop computer programs that implement and solve simple models of biological phenomena",
+        "Be familiar with the concept of statistical simulation and its role in testing hypotheses and understanding model behaviour",
+        "Use models and their application to data to formally evaluate biological hypotheses",
+        "Demonstrate an understanding of how to interpret and critique the biological modelling literature"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST20030"
+                ],
+                "Other evidence of competence in computer programming can also be provided to meet this pre-requisite, including passing a relevant Year 12 school subject, or a statement of achievement from a relevant MOOC, or passing a programming competency test administered by another University of Melbourne School."
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST20004",
+                    "MAST20006"
+                ],
+                [
+                    "COMP10001",
+                    "COMP20005",
+                    "PHYC20013"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Students must complete the following subject:",
+                "Plus one of",
+                "Plus one of"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Literature Review. 1000 words",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written Assignment-\r\nThree assignments, containing mathematical analysis and simulation, due at regular intervals during semester (week 4, 8 and 12).. 60 pages",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "A written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Edward Hinton"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours: 24 x one-hour lectures (2 per week), 12 x two-hour practice classes (1 per week)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "edward.hinton@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

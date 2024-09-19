@@ -1,0 +1,174 @@
+{
+    "subject name": "Business Analytics for Decision Making",
+    "subject code": "MGMT90239",
+    "subject availability": [
+        "Term 1 - Online",
+        "Term 3 - Online"
+    ],
+    "overview": [
+        "This subject will focus on quantitative approaches to analyse business problems and based on these analyses, make effective decisions. The subject will explore descriptive analytic, predictive analytic, and prescriptive analytic techniques. Using these techniques, students will develop understanding of a wide variety of strategic and operational business decision problems being faced by managers and decision makers in the fields of financial management, human resource management, marketing management, operations management, and international business management. Students will be expected to be able to calculate and manipulate data as well as interpret the results in order to derive and evaluate alternative solutions to typical business decision problems."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Familiarize themselves with the descriptive analytic, predictive analytic, and prescriptive analytic approaches;",
+        "Acquire an understanding of the application of quantitative approaches to management;",
+        "Formulate various business optimization problems as mathematical models, such as linear programming and integer programming;",
+        "Apply the Excel Solver to solve the mathematical models and analyze the solutions;",
+        "Adopt the decision analysis approach with perfect and sample information to develop an optimal strategy;",
+        "Understand the fundamentals of decision making under uncertainty;",
+        "Recognize the role of probability and probability distributions in evaluating alternative courses of action;",
+        "Analyze past trend in an effort to predict the future by using the regression analysis approaches."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MGMT90141"
+    ],
+    "assessments": [
+        {
+            "description": "Weekly quizzes\r\n10 multiple-choice questions each week. 1 hours",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Reflection on online discussion board participation (requires participation in discussion activities in all 8 weeks). 1000 words",
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "End of term examination. 3 hours",
+            "timing": "End of term",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Term 1 - Online": [
+                {
+                    "Coordinator": "Jackson Yuen"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "22 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "Orientation activities."
+                },
+                {
+                    "Teaching period": "29 January 2024 to 24 March 2024"
+                },
+                {
+                    "Last self-enrol date": "23 January 2024"
+                },
+                {
+                    "Census date": "16 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "8 March 2024"
+                },
+                {
+                    "Assessment period ends": "31 March 2024"
+                }
+            ]
+        },
+        {
+            "Term 3 - Online": [
+                {
+                    "Coordinator": "Jackson Yuen"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "15 July 2024"
+                },
+                {
+                    "Pre teaching requirements": "Orientation activities"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 15 September 2024"
+                },
+                {
+                    "Last self-enrol date": "16 July 2024"
+                },
+                {
+                    "Census date": "9 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "30 August 2024"
+                },
+                {
+                    "Assessment period ends": "22 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Term 1": {
+                "name": [],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "jctyuen@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Term 3": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "jctyuen@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Students will have access to electronic copies of relevant readings"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

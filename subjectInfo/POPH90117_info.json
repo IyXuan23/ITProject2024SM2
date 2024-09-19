@@ -1,0 +1,123 @@
+{
+    "subject name": "Health Indicators and Health Surveys",
+    "subject code": "POPH90117",
+    "subject availability": [
+        "Semester 1 - Online"
+    ],
+    "overview": [
+        "This subject introduces students to a variety of sources of routinely collected health-related data and how these data are used to derive population measures of fertility, mortality and morbidity, and to measure health service utilisation, disease registration and reporting. You will also learn how to develop, design and deliver a valid and reliable health questionnaire, and how to design and implement a survey using an efficient sampling strategy, and to analyse and interpret the resulting data.",
+        "Topics include: routinely collected health-related data; quantitative methods in demography, including standardisation and life tables; health differentials; design and analysis of population health surveys, including the role of stratification, clustering and weighting."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "derive and compare population measures of mortality, illness, fertility and survival",
+        "be aware of the main sources of routinely collected health data and their advantages and disadvantages",
+        "be able to collect primary data by a well-designed survey and analyse and interpret it appropriately"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One written assignment. 10 hours",
+            "timing": "Week 4",
+            "percentage": "25%"
+        },
+        {
+            "description": "One written assignment. 10 hours",
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "description": "One written assignment. 10 hours",
+            "timing": "Week 10",
+            "percentage": "25%"
+        },
+        {
+            "description": "One written assignment. 10 hours",
+            "timing": "End of semester",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Principal coordinator": "John Carlin"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "None"
+                },
+                {
+                    "Total time commitment": "172 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "john.carlin@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Levy PS, Lemeshow S.Sampling of Populations: Methods and Applications,4th edition, Wiley Interscience 2008.",
+                    "Resources Provided to Students:Printed course notes and assignment material will be provided to students by mail (including electronic media).",
+                    "Special Computer Requirements:R or Stata Statistical software, and Microsoft Excel"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is delivered online via our partners in the Biostatistics Collaboration of Australia (www.bca.edu.au). It is not generally available in the Master of Public Health nor in any program outside the MSPGH."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.mspgh.unimelb.edu.au"
+        ]
+    }
+}

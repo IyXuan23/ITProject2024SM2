@@ -1,0 +1,142 @@
+{
+    "subject name": "Geometry",
+    "subject code": "MAST30024",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject introduces three areas of geometry that play a key role in many branches of mathematics and physics. In differential geometry, calculus and the concept of curvature will be used to study the shape of curves and surfaces. In topology, geometric properties that are unchanged by continuous deformations will be studied to find a topological classification of surfaces. In algebraic geometry, curves defined by polynomial equations will be explored. Remarkable connections between these areas will be discussed.",
+        "Topics include: Topological classification of surfaces, Euler characteristic, orientability.Introduction to the differential geometry of surfaces in Euclidean space:smooth surfaces, tangent planes, length of curves, Riemannian metrics, Gaussian curvature, minimal surfaces, Gauss-Bonnet theorem.Complex algebraic curves, including conics and cubics, genus."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Euler characteristic and the topological classification of surfaces;",
+        "how surfaces arise as complex algebraic curves.",
+        "Riemannian metrics and curvature for surfaces;",
+        "the Gauss-Bonnet theorem;"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST20009",
+                    "MAST20032"
+                ],
+                [
+                    "MAST10009",
+                    "MAST20026",
+                    "MAST20033"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Two or three written assignments due at regular intervals amounting to a total of up to 50 pages. 50 pages",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Scott Mullane"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week, 1 x one hour practice class per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "mullanes@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "N. Hitchin,Geometry of surfaces, Oxford University lecture notes, available online.",
+                    "M. do Carmo,Differential geometry of curves and surfaces, Prentice-Hall, 1976.",
+                    "F. Kirwan,Complex algebraic curves, Cambridge University Press, 1992."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Commerce",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

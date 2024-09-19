@@ -1,0 +1,122 @@
+{
+    "subject name": "Skills for IS Research and Development",
+    "subject code": "ISYS90118",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Aims:Information Systems as a discipline and practice usually informs a range of research skills. This subject will cover some of these essential skills such as carrying out critical literature review, designing research questions and methodologies, and comparing different approaches that are appropriate for primary research or development. Research skills are also essential for IS development projects, particularly in the requirements analysis and planning stages of development.",
+        "Research is a systematic process of answering questions to acquire new knowledge. Research in information systems questions how professional practice is conducted and contributes to the development of better practices. The subject provides students with coverage of how research is conducted within information systems, and how to critically assess published research and current practitioner knowledge. Topics covered include the nature of research, research design, approaches to development, theory and research, research paradigms: positivist, interpretivist and critical research approaches, quantitative and qualitative methodologies, and experimental research.",
+        "Indicative ContentTopics covered will include qualitative and quantitative research methods commonly used in social science research such as those often used in the Information Systems discipline. Also, covered will be epistemology and theory, methodology and methods; how to conduct a literature review and identify research questions; how to design research that is both rigorous and relevant; designing good processes for requirements analysis, research ethics; and understanding the limitations of different research models and development approaches."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "ILO1 - Locate and identify peer reviewed publications, and gray literature, and analyse their relevance to a research topic",
+        "ILO2 - Critically analyse research papers to distil key messages",
+        "ILO3 - Synthesize research publications to create a research question",
+        "ILO4 - Research and justify a discipline-appropriate research method to answer a specific research question",
+        "ILO5 - Critically analyse a given research approach against discipline norms in research ethics",
+        "ILO6 - Reflect on the strengths and weaknesses of their chosen research method, in relation to a research or development context."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "COMP90044"
+    ],
+    "assessments": [
+        {
+            "description": "Tutorial Preparation and Participation (equivalent to 1000 words in total). 2 hours preparation and 2 hours attendance (5 two-hour tutorials). Due weeks 2, 4, 6, 8 and 10. Intended Learning Outcomes (ILOs) 1-4 and 6 are addressed in this assessment.. 20 hours (of work required). Hurdle requirement:. 80% attendance at tutorials in order to pass this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Self-reflection research journal: Four journals of 150 words each over the semester. Estimated hours: 2 hours for each journal entry (8 hours in total). 5% each, 20% in total. Due weeks 3, 6, 9 and 12. ILOs 1 and 4-6 are addressed in this assessment.. 8 hours (of work required). Hurdle requirement:. Submission of all 4 journals are required in order to pass this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Proposal Part 1: 1200 word proposal including reference. ILOs 1-3 are addressed in this assessment.. 12 hours (of work required)",
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final Proposal (building on feedback and initial work from part 1):  5200 words incorporating parts of proposal part 1 and references. ILOs 1-6 are addressed in this assessment.. 20 hours (of work required). Hurdle requirement:. Students must pass the final proposal to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Rachelle Bosua"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours in total (2 hours Each week) comprising of 14 hours lectures and 10 hours tutorial."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "rachelle.bosua@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

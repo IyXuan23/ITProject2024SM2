@@ -1,0 +1,123 @@
+{
+    "subject name": "Structure and Function in Dentistry",
+    "subject code": "DENT90114",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "This subject facilitates learning of head and neck anatomy. Topics include the development of tissues and structures from embryonic stages through to completion of growth, and the functional aspects of anatomy such as occlusion. Learning is supported by a range of medical imaging modalities, including microscopic features and 3D technologies. The development and morphology of permanent and primary teeth are studied, along with the relationship between structure and function. Basic neuroscience knowledge required to support the practice of dentistry is also covered."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse the processes of growth and development of the head and neck region, orofacial structures and teeth",
+        "Describe the structure and function of the head and neck region, orofacial structures and teeth",
+        "Describe the evolution of the human and hominin dentition",
+        "Compare the relationship between form and function of the dentition of humans and other animals",
+        "Analyse relevant neurological pathways",
+        "Differentiate between anatomical variation and pathological anatomy of the jaws and dentition",
+        "Examine the growth of the human body, face and dentition relevant to the management of skeletal and occlusal discrepancies"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Class Test: Head and Neck, and Oral Anatomy. 30 minutes",
+            "timing": "Early in the first half of year teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Portfolio. 3000 words (equivalent)",
+            "timing": "End of first half of year teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Class Test: Head and Neck, and Oral Anatomy. 30 minutes",
+            "timing": "During the first half of year teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Class Test: Growth Studies. 30 minutes",
+            "timing": "Early in the second half of year teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "During the end of year examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Principal coordinator": "Rita Hardiman"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "120 hours"
+                },
+                {
+                    "Total time commitment": "256 hours"
+                },
+                {
+                    "Pre teaching start date": "24 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "Attend Orientation activities."
+                },
+                {
+                    "Teaching period": "29 January 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 February 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [
+                    "A/Prof Rita Hardiman"
+                ],
+                "email": [
+                    "r.hardiman@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

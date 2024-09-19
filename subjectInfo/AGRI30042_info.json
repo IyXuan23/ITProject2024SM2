@@ -1,0 +1,154 @@
+{
+    "subject name": "Plant Pathology",
+    "subject code": "AGRI30042",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject outlines the methods used to identify pathogens causing plant diseases, the consequences of diseases for plant productivity, and control of plant diseases. The links between classic plant pathology and modern molecular pathology techniques are explored as plant breeders and pathologists seek novel integrated disease management procedures to control pathogens.",
+        "Topics covered include:",
+        "Taxonomy, identification and biology of the main groups of plant pathogens affecting Australian cropping industries and abiotic causes of plant diseases",
+        "Host pathogen relationships, and the nature of disease resistance and pathogenesis",
+        "Methods to identify pathogens, and development of tools for diagnosis",
+        "Modern bioinformatic techniques used in plant pathology",
+        "Processes leading to plant disease epidemics and their evaluation",
+        "Evolutionary processes and management practices affecting pathogen populations in agricultural ecosystems",
+        "Management and integrated control of plant diseases",
+        "Current professional opportunities and challenges in the field of plant pathology",
+        "Practical work includes:",
+        "Identification and diagnosis of common diseases",
+        "Development of skills in traditional and molecular research techniques and methodology in plant pathology",
+        "Development of bioinformatic skills used in pathogen diagnosis and molecular taxonomy of plant pathogens"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate an understanding of the classification and biology of the major groups of plant pathogens",
+        "Apply an understanding of plant pathology and molecular biology techniques to isolate and diagnose plant pathogenic organisms.",
+        "Demonstrate an understanding of bioinformatics tools used in plant pathology and be able to conduct DNA sequence analyses for diagnostics and molecular taxonomy",
+        "Identify the factors leading to disease epidemics",
+        "Formulate a practicable approach to integrated disease control in commercial plant species"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "BOTA20001",
+                    "AGRI20026"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BIOL30006 AGRI30032"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment based on practical classes to identify a post harvest disease. 600 words",
+            "timing": "From Week 5 to Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "Mid-semester test. 45 minutes",
+            "timing": "From Week 6 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "Completion and submission of molecular biology practical tasks, through submission of practical report at end of Practical 7. 200 words (equivalent)",
+            "timing": "Week 8",
+            "percentage": "5%"
+        },
+        {
+            "description": "Completion and submission of bioinformatics practical tasks, through the completion of practical report at the end of Practical 9. 200 words (equivalent)",
+            "timing": "Week 10",
+            "percentage": "5%"
+        },
+        {
+            "description": "Assignment comprising a collection of plant diseases. 1200 words",
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Exam. 90 minutes",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Niloofar Vaghefi"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "60 hours total - 24 hours of lectures, 36 hours of practicals."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "vaghefin@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "G. N. Agrios 2005. Plant Pathology. 5th ed. Academic Press, Harcourt/Academic Press, USA."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "G.L. Schumann & C.J. D\u2019Arcy. 2010 Essential Plant Pathology 2nd Ed. American Phytopathological Society Press, USA"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

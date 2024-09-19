@@ -1,0 +1,121 @@
+{
+    "subject name": "Theatre Practice 2",
+    "subject code": "DRAM20034",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject will cover practical devising which involves a range of projects, both within and outside of conventional theatre settings. In collaboration with a director, students will initiate and generate their content in ensemble to create an original work.",
+        "The performance territory of the clown is used as a springboard for the students to create their comic pieces to be performed in applied theatre settings, such as schools and community organisations. Ongoing reflection as emerging theatre-makers will enable the students to evaluate their developing process methodologies as performers and devisors."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "apply practical studio techniques in various performance contexts;",
+        "devise original work individually, and in groups, in collaboration with a director for public presentation in a festival setting;",
+        "apply technical, generative, compositional and dramaturgical tools to devise work for presentation in an applied theatre setting;",
+        "employ and sustain a professional working ethos in independent and collaborative work and in communication with staff, industry and peers."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "DRAM20032",
+                    "DRAM20033"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "DRAM20027 Theatre Lab 2"
+    ],
+    "assessments": [
+        {
+            "description": "Studio Process: devising and rehearsals of public performance outcomes. 100 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "1-hour public performance. 40 hours (of work required)",
+            "timing": "Mid teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "7 to 10-minute individual or group devised performances of self-directed works. 60 hours (of work required)",
+            "timing": "During the assessment period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend 75% of all scheduled classes.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Students must submit all elements of assessment to be eligible for a pass in this subject.For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Sarah Austin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "240 hours, comprising theatre and performance classes and rehearsals as directed"
+                },
+                {
+                    "Total time commitment": "408 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Sarah Austin:",
+                    ""
+                ],
+                "email": [
+                    "sarah.austin@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

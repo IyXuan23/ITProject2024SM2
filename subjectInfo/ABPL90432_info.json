@@ -1,0 +1,140 @@
+{
+    "subject name": "Building Information Modelling",
+    "subject code": "ABPL90432",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Building Information Modelling (BIM) and its associated technologies and processes can integrate the project team and facilitate high-quality and cost-efficient work. This subject will introduce BIM principles and break down the jargon around the topic of BIM. During tutorials, students will learn about the most popular BIM software in the industry and will work with the software to create and manage building project information throughout the design, construction and operation phases. To this end, students will develop 2D and 3D representations of a building information model using design BIM authoring software (e.g. Autodesk Revit). Later, BIM coordination software (e.g. Autodesk Navisworks) will be used for 3D model checking and detecting clashes in 3D disciplinary models, followed by developing a 4D BIM model (construction planning and simulation) as well as developing a 5D BIM model (quantification) of the given project. Throughout the process, students will use an online BIM collaboration platform to collaborate with their teammates and share project documents and information.",
+        "Prescribed software programs with no costAutodesk RevitAutodesk Navisworks ManageDetails of software availability and pricing are captured at:https://msd.unimelb.edu.au/current-students/student-experience/it-support",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand and apply the BIM process to the changing construction project delivery practices;",
+        "Explore and adopt BIM tools in a project lifecycle;",
+        "Develop 3D Building Information Model;",
+        "Develop multidimensional project information model;",
+        "Investigate and detect disciplinary clashes within project information models;",
+        "Plan for construction and develop construction model using BIM-based construction simulation software;",
+        "Extract quantities of building elements and materials using BIM-based estimation and take off software;",
+        "Critically assess the benefits, risks, and challenges to the adoption of BIM."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "200pt Program course entry point in the MC-CM Master of Construction Management",
+                "200pt Program course entry point in the MC-ARCH Master of Architecture",
+                "300pt Program course entry point in the MC-ARCHCM Master of Architecture/Master of Construction Management",
+                "400pt Program Course entry in the MC-ARCHCM (Master of Architecture /Master of Construction Management - Construction background)"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ABPL90292",
+                    "ABPL90313"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the 300pt Program course entry point in the MC-CM Master of Construction Management"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Approval  from the subject coordinator"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CONS30001"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment 1: Professional report (critical analysis of BIM adoption challenges and benefits),  and  3D Building Information Model using BIM software. 1500 words (equivalent)",
+            "timing": "Week 5",
+            "percentage": "30%"
+        },
+        {
+            "description": "Assignment 2 ( group work) : Professional report (critical analysis of disciplinary clashes), AND\r\n Multidimensional Information Model using BIM software, AND Class presentation (group). 2000 words (equivalent)",
+            "timing": "Week 11 and 12",
+            "percentage": "40%"
+        },
+        {
+            "description": "Final Written exam. 1500 words (equivalent). Hurdle requirement:. A minimum mark of 40% must be achieved in the examination to pass the subject",
+            "timing": "End of semester",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Mehran Oraee"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1X1 hour lecture and 1X3 hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "mehran.oraee@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

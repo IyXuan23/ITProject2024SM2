@@ -1,12 +1,7 @@
 import openai
-import config
-
-openai.api_key = config.OPENAI_API_KEY
 
 def ask_gpt_for_keywords(question):
-    """
-    使用 GPT 模型来提取用户问题中的字段（如 pre-requisites 或 subject code）和完整的课程名称。
-    """
+    
     response = openai.ChatCompletion.create(
         model="gpt-4", 
         messages=[

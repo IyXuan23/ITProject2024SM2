@@ -1,0 +1,133 @@
+{
+    "subject name": "Financial Markets and Instruments",
+    "subject code": "FNCE90047",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "The structure of the financial system; terminology, trading and pricing of money and capital market instruments; duration, value at risk, financial market volatility; term structure of interest rates; inflation, interest rates and indexed securities; regulation of securities markets and financial institutions; market; tax treatment of financial institutions; tax and company finance; futures markets; options markets; forward rate agreements; swaps; developments in retail financial markets."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse the nature of financial markets and explain the principles by which financial markets operate;",
+        "Describe the major institutional participants and markets;",
+        "Explain the risk return spectrum and the characteristics of financial instruments;",
+        "Describe derivatives and explain how they are used in the management of financial risk;",
+        "Apply the theory of regulation to current markets and critically assess the current regulatory structures."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "MC-FIN Master of Finance",
+                "GD-FIN Graduate Diploma in Finance",
+                "MC-FINANCE Master of Finance",
+                "MC-FINENH Master of Finance (Enhanced)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Group assignment (normally groups of 5-6 students).. 4000 words",
+            "timing": "From Week 7 to Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Carole Comerton-Forde"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three hours of lectures and seminars per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Andrea Lu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three hours of lectures and seminars per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Kidwell D., M. Brimble, L. Lenten, P. Docherty, P. Mazzola and A. Basu,Financial Markets, Institutions and Money, 3rd Edition, Wiley."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "subject name": "Neuroscience and Psychopharmacology",
+    "subject code": "PSYC90083",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The subject provides a cognitive neuroscience perspective on the brain mechanisms underlying cognitive processes that are commonly impaired in conditions confronted by neuropsychologists. The subject will describe the basic cognitive neuroscience (e.g., cortical structure, function and psychopharmacology) underpinning critical cognitive processes such as memory, executive function and attention, and application to understanding dysfunction of these processes in clinical conditions.  Additionally, the subject will provide students with an introduction to medications used in the treatment of psychiatric disorders."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify the strengths and weakness of cognitive neuroscience methods, including MRI, EEG and TMS, to be a better consumer of clinical research where such methods are applied;",
+        "Demonstrate an understanding of the neural mechanisms, including structure, function and chemical processes, that underpin key cognitive and emotional processes;",
+        "Develop a comprehensive knowledge of the classes of psychotropic medications and an understanding of the indications for their use;",
+        "Explain the pharmacological basis of the mechanism of action of psychotropic medications and their common side effects."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the 527CN Master of Psychology (Clinical Neuropsychology), 527CL Master of Psychology (Clinical Psychology), 080CL Master of Psychology (Clinical Psychology)/Doctor of Philosophy, 080CN Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "2 x MCQ quizzes based on material presented in Weeks 1-6. 40 minutes",
+            "timing": "From Week 3 to Week 6",
+            "percentage": "60%"
+        },
+        {
+            "description": "One written assignment based on material presented in Weeks 9-12. 1250 words. Hurdle requirement:. must be attempted",
+            "timing": "After the completion of the teaching period.",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. Hurdle requirement of at least 80% attendance at all coursework and seminar activities associated with this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Rob Hester"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1.5 hours of lectures/seminars per week for 12 weeks"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Prof Rob Hester"
+                ],
+                "email": [
+                    "hesterr@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

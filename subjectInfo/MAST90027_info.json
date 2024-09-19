@@ -1,0 +1,102 @@
+{
+    "subject name": "Practice of Statistics & Data Science",
+    "subject code": "MAST90027",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject builds on methods and techniques learned in theoretical subjects by studying the application of statistics in real contexts. Emphasis is on the skills needed for a practising statistician, including the development of mature statistical thinking, organizing the structure of a statistical problem, the contribution to the design of research from a statistical point of view, measurement issues and data processing. The subject deals with thinking about data in a broad context, and skills required in statistical consulting."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "have developed their skills in the effective communication of statistical material, verbally and in writing;",
+        "be aware of the key requirements of working as a practising statistician, and developed their ability to meet these requirements;",
+        "have developed their understanding of the needs and characteristics of users of statistics, and learned about the important issues that arise in interactions between statisticians and their clients."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST30025",
+                    "MAST30027",
+                    "MAST90104"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Up to 75 pages of written assignments (five assignments, two worth 15% each, two worth 25% each and one worth 20% due at approximately equal intervals). 75 pages",
+            "timing": "Throughout the teaching period",
+            "percentage": "100%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Ian Gordon"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Boen, J.R. and Zahn, D.A. The Human Side of Statistical Consulting.(1982).Derr, J. Statistical Consulting: A Guide to Effective Communication.(2000).Tufte, E. The Visual Display of Quantitative Information.(1983)."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

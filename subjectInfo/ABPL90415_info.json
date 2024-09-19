@@ -1,0 +1,103 @@
+{
+    "subject name": "Advanced Asset Strategy Applications",
+    "subject code": "ABPL90415",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject further develops fundamental knowledge of real estate assets and markets, and applies learnings in context of technical modelling and evaluation of real estate assets, for redevelopment, valuation and asset repositioning. Topics covered include: advanced development feasibility; advanced asset valuation and advanced asset repositioning considerations.  These topic areas are supplemented by development of advanced technical modelling skills utilizing proprietary software, providing students with the potential for external accreditation in commonly used industry software. Students are required to apply this knowledge and skills to a real-life case project and develop a range of potential solutions for optimization of the asset.",
+        "The subject has four aims:"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Apply specialist knowledge and skills in response to the analysis of challenges and create strategic opportunities for property assets",
+        "Critique existing property data analyses, valuation, feasibilities and reports;",
+        "Analyse the complex opportunities and create strategies for property assets in terms of valuation, development and asset repositioning",
+        "Identify and develop strategies and solutions using proprietary industry software for complex property situations."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ABPL90026",
+                    "ABPL90036"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1: Valuation Report. 1000 words",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment 2: Feasibility Report. 1000 words",
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment 3: Asset repositioning Report. 1000 words",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final Report: demonstrating analysis and identification of asset strategy. 2000 words",
+            "timing": "Week 14",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Samuel Swanzy-Impraim"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1X2 hour lecture and 1X1 hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "G. Brown and G. Matysiak,Real Estate Investment: A Capital Market Approach,Prentice Hall, 2000.",
+                    "J.D. Fisher and Brueggman, W.B. real Estate Finance and Investment, McGraw Hill, 2018."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "subject name": "Introduction to Business Problems",
+    "subject code": "BUSA90499",
+    "subject availability": [
+        "March"
+    ],
+    "overview": [
+        "This subject is the introduction to the program of Masters in Business Analytics. The subject will focus on two issues: (I) introduce students to business problems that are best addressed with analytics and the complexities of business problems, and (2) the complexities of possible solutions to those problems. To address the implementation of those solutions, team processes will be examined and project management tools will be provided.",
+        "Students will be presented with a data set and a case study of an organization facing a significant business problem. Students will be asked to prepare possible solutions to the problem, which will be revisited in the Business Analytics Applications subject at the end of their program of study. Assessment in this subject will focus on the team processes and project management tools applied to this case study.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the wide variety of business problems that are best addressed with analytics.",
+        "Define business problems in ways that are insightful.",
+        "Understand the complexity of business problems, and solutions to those problems.",
+        "Understand the complexity of business data.",
+        "Understand the complexity of implementing solutions to business problems.",
+        "Understand the multitude of organisational stakeholders, and their different, and often opposite, objective functions.",
+        "Understand the complexity of managing the implementation of analytics projects."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One syndicate oral presentation (1500 individual words or equivalent). 30 minutes",
+            "timing": "Week 3",
+            "percentage": "40%"
+        },
+        {
+            "description": "One individual test. 2 hours. Hurdle requirement:. Students are required to pass the test to pass the subject",
+            "timing": "",
+            "percentage": "55%"
+        },
+        {
+            "description": "Individual assignment. 600 words",
+            "timing": "Week 3",
+            "percentage": "5%"
+        },
+        {
+            "description": "Attendance (minimum 80%). Hurdle requirement:. students need to attend at least 80% of  classes  to pass the subject",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "March": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "18 March 2024 to 26 April 2024"
+                },
+                {
+                    "Last self-enrol date": "26 March 2024"
+                },
+                {
+                    "Census date": "5 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "19 April 2024"
+                },
+                {
+                    "Assessment period ends": "26 April 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students admitted to MC-BUSANA, or students with permission of the Master of Business Analytics course coordinator"
+        ]
+    }
+}

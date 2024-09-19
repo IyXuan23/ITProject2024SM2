@@ -1,0 +1,141 @@
+{
+    "subject name": "Transport System Modelling",
+    "subject code": "CVEN90063",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "In undergraduate subjects, students are exposed to some engineering features of transport and traffic engineering. However, these do not fully provide the requisite knowledge and skills for understanding the modelling and planning aspects of transport system engineering. These competencies are of highest importance for those interested in a career in transport engineering. In this subject, students will be provided with the fundamental concept of four-step modelling in depth, including trip generation/attraction, trip distribution, modal split and traffic assignment. The contemporary topics of transport modelling such as choice modelling, car-ownership and uncertainty modelling in the context of transport infrastructure engineering will also be presented. The subject provides real world examples and assignments. The primary emphasis of the subject is on concepts (rather than mathematical details) and getting students ready for the industry.",
+        "Please view this video for further information:Transport System Modelling"
+    ],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the component models and the modelling framework used in transport network modelling and complex systems",
+        "Assess the strengths and weaknesses of various transport models",
+        "Apply the 4-step and activity-based modelling theories in transport planning",
+        "Implement trip generation/attraction, trip distribution, modal split and traffic and transit assignment in transport strategic modelling",
+        "Discuss uncertainty in planning transport infrastructure projects",
+        "Demonstrate skills in conducting traffic impact study",
+        "Assess contemporary issues in transport modelling and planning"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CVEN90048"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the 761EM Master of Engineering Management"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual assignment 1, Trip generation/attraction. Intended Learning Outcomes (ILOs) 3 and 4 are addressed in this assignment.. 25 hours (of work required)",
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "description": "Individual assignment 2, Modal split and traffic assignment. ILOs 3 and 4 are addressed in this assignment.. 20 hours (of work required)",
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "Individual assignment 3, Simulation. ILOs 3 and 4 are addressed in this assignment.. 20 hours (of work required)",
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "description": "Examination.  ILOs 1 to 7 are addressed in this assignment.. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Neema Nassir"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours (2 hours lectures, 2 hours workshop per week)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Neema Nassir"
+                ],
+                "email": [
+                    "neema.nassir@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

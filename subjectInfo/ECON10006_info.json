@@ -1,0 +1,113 @@
+{
+    "subject name": "Introductory Economics",
+    "subject code": "ECON10006",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject introduces students to the theory of microeconomics. It will consider the operation of a market economy and the problem of how best to allocate society's scarce resources. The course considers the way in which various decision making units in the economy (individuals and firms) make their consumption and production decisions and how these decisions are coordinated. It considers the laws of supply and demand, and introduces the theory of the firm, and its components, production and cost theories and models of market structure. The various causes of market failure are assessed, and consideration is given to public policies designed to correct this market failure. This subject will use the agriculture sector as a case study focusing on the place of agriculture within the Australian economy, and exploring the impact of supply and demand, government policy and international trade on the sector."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "The concept of scarcity and marginal analysis",
+        "The basic economic forces affecting decision making by firms and consumers",
+        "The role of supply and demand in determining price",
+        "How market failure, in the form of externalities and common property rights affects the market",
+        "Inter-relationship between different components in an economy",
+        "The role and impact of government (policy) in the economy",
+        "The theory of international trade, importance of trade in the economy and the impact of trade and economic policies on world trade"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Mid-semester test due approximately week 6. 1 hours",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment due approximately week 9. 1500 words",
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Ros Gall"
+                },
+                {
+                    "Mode of delivery": "On Campus (Dookie)"
+                },
+                {
+                    "Contact hours": "36 hours: 24 hours lectures, 12 hours tutorials"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "rosgall@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

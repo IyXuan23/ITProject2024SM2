@@ -1,0 +1,115 @@
+{
+    "subject name": "Nutrition and Feed Science",
+    "subject code": "ANSC90002",
+    "subject availability": [
+        "July"
+    ],
+    "overview": [
+        "Formerly BIOL90021",
+        "The subject examines the applications of new technologies in processing and analysis of feeds for a range of animal species. The subject will introduce empirical, mechanistic and telemetric models to evaluate animal performance under different dietary regimes. Furthermore, the implications of feed composition and evaluation on mechanistic modelling of nutrient uptake and utilisation by the animal will be assessed. The modelling procedures will also be used to evaluate wastage of C and N in animal production systems with special emphasis on the losses of C as methane and N as ammonia and nitrous oxides."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop an awareness of empirical, mechanistic and telemetric methods of modelling animal systems",
+        "Be able to formulate diets for a variety of livestock using a feed formulation package",
+        "Characterize the impacts of different feed composition on animal performance",
+        "Evaluate G x E interactions of livestock and feeds",
+        "Develop an awareness of greenhouse gas emission sources and potential feed-based mitigation strategies"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A written assignment due approximately 2 weeks after the conclusion of the teaching period. 2000 words",
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "45%"
+        },
+        {
+            "description": "A written assignment due approximately 1 month after the conclusion of the teaching period. 2000 words",
+            "timing": "4 Weeks after the end of teaching",
+            "percentage": "45%"
+        },
+        {
+            "description": "Written reflections / online discussions (submitted on LMS after each lecture topic) approx. 100 words each. Due daily. 1000 words (total)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "July": [
+                {
+                    "Principal coordinator": "Kristy Digiacomo"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Up to 45 hours of lectures/practicals/tutorials"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to 12 July 2024"
+                },
+                {
+                    "Last self-enrol date": "3 July 2024"
+                },
+                {
+                    "Census date": "12 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 August 2024"
+                },
+                {
+                    "Assessment period ends": "23 August 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [],
+                "email": [
+                    "kristyd@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "none"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

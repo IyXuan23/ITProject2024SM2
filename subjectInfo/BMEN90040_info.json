@@ -1,0 +1,146 @@
+{
+    "subject name": "Process Eng for Biomedical Technologies",
+    "subject code": "BMEN90040",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Process engineering applies scientific principles to convert raw materials and energy into useful products, and it is critical to a variety of biomedical technologies including production of pharmaceuticals, dialysis, tissue engineering, etc.  Core to process engineering is an understanding of how energy and mass move through systems \u2013 and how these can be controlled \u2013 to achieve a desired goal.",
+        "In this subject you will learn the fundamental laws that describe how heat and mass move through systems and develop mathematical models that describe this movement.  We will then look at how this movement of energy and mass is applicable to the biomedical engineering discipline.  Some of the topics covered are listed below:",
+        "How oxygen and nutrients travel through the human body to maintain homeostasis,",
+        "How cell culture and tissue engineering systems can be designed to provide sufficient nutrients and oxygen to maintain cell viability,",
+        "How dialysis can be used to remove contaminants from blood of patients suffering kidney failure,",
+        "How the presence of a bacterial biofilm limits the ability to treat biomedical device-related infections, and",
+        "How processes can be designed to produce products like pharmaceuticals."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Evaluate mass transfer in the context of biomedical engineering",
+        "Analyse the roles of transport processes in the cells, tissues and organ systems of the human body",
+        "Formulate problems in biological systems, identifying fundamental transport processes and the equations that describe these systems",
+        "Apply principles of transport to develop solutions to problems in process and biomedical engineering"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "BIOL10004\tBiology of Cells and Organisms"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BIOL10002",
+                    "BIOL10008",
+                    "BIOL10009"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CHEN20009 Transport Processes",
+        "BMEN30007 Biotransport Processes"
+    ],
+    "assessments": [
+        {
+            "description": "Laboratory Practical 1.  Intended Learning Outcomes (ILOs) 1-5 are addressed in this assessment.. 20 hours",
+            "timing": "From Week 2 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "Laboratory Practical 2. ILOs 1-5 are addressed in this assessment.. 20 hours",
+            "timing": "From Week 5 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Individual Written Assignment 1. ILOs 1-4 are addressed in this assessment.. 13 hours",
+            "timing": "From Week 4 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual Written Assignment 2. ILOs 1-4 are addressed in this assessment.. 13 hours",
+            "timing": "From Week 8 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final Exam. ILOs 1-4 are addressed in this assessment.. 2 hours. Hurdle requirement:. The exam must be passed to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Daniel Heath"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x 1 hour lectures per week for 12 weeks, 1 x 1 hour tutorial per week for 12 weeks, 2 x 2 hour laboratories"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Daniel Heath"
+                ],
+                "email": [
+                    "daniel.heath@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject was first offered in 2022.",
+            "LEARNING AND TEACHING METHODSThe subject is delivered through lectures, tutorials, workshops, practicals, and consultations. Assessment is in the form of a practical reports, assignments, and a final exam.",
+            "INDICATIVE KEY LEARNING RESOURCESStudents are provided with lecture slides, tutorials with worked solutions, workshops with discussed solutions, assignments with worked solutions, and references.",
+            "CAREERS / INDUSTRY LINKSBuilding student understanding of process engineering is crucial for manufacturing of biomedical solutions. Students develop a toolbox of theory and its application in process engineering and mass transfer as applied to critical biomedical technologies regarding pharmaceutical manufacturing and tissue engineering/drug delivery."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "subject name": "Plant Molecular Biology & Biotechnology",
+    "subject code": "BOTA30005",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject will focus on processes that are unique to plants as well as current techniques for their investigation and manipulation in biotechnology, including genetic engineering and plant transformation. The subject includes study of the responses of plants to biotic and abiotic stress; cell wall biosynthesis, carbon dioxide fixation and concentrating mechanisms; cell-cell recognition; nutrient uptake and processing; and the organisation of the genome in plants and its modification by biotechnology.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "demonstrate an understanding of the functional biology specific to plants;",
+        "apply concepts of biotechnology to agriculture, horticulture, forestry and the food industries;",
+        "evaluate current benefits or limitations for converting plant molecular biology to applied biotechnological outcomes; and",
+        "demonstrate practical skills to perform plant molecular biology experiments, including the analysis and evaluation of the data generated."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "BCMB20002",
+                    "BIOM20001",
+                    "BOTA20001",
+                    "CEDB20003"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A laboratory test. 1 hours",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Two practical reports totalling no more than 1,000 words each, one before and one after the midsemester break. 1000 words (each)",
+            "timing": "From Week 8 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "A written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Michelle Watt"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours: 24 lectures (2 x 1hr per week) and 24 hours of practical work (1 x 3hr per week for 8 weeks) during the semester"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "watt.m@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

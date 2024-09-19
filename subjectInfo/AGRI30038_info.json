@@ -1,0 +1,176 @@
+{
+    "subject name": "Professional Practice for Agriculture",
+    "subject code": "AGRI30038",
+    "subject availability": [
+        "Semester 2 - On Campus",
+        "Semester 2 - On Campus"
+    ],
+    "overview": [
+        "This capstone subject provides students with the opportunity to apply the theoretical and practical knowledge acquired during their Bachelor of Agriculture degree or Bachelor of Science (Agricultural Science major) to analysis of large-scale challenges confronting agricultural industries.",
+        "Students will develop the capacity to apply a 'systems thinking' approach to problems, utilising the understanding that they have developed throughout their studies of relevant environmental, economic, social and political factors. They will also develop their skills in gathering and interpreting evidence, teamwork, and oral and written communication.",
+        "Students will undertake an investigation of an industry challenge of their choice, working both individually, and in small groups. Students will undertake guided reflection on their learning, as a basis for developing personal principles for ethical professional practice."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate detailed, evidence based knowledge and interpretation of current challenges facing agricultural production systems",
+        "Be able to articulate a 'systems-thinking' approach to agriculture, and to the sustainability of agricultural production systems",
+        "Be able to gather and interpret evidence, in order to identify options for addressing problems",
+        "Demonstrate the ability to collaborate effectively with colleagues and other stakeholders to design potential improvement to current challenges facing agricultural production systems",
+        "Articulate and demonstrate the principles of reflective and ethical professional practice, to guide students in their future study or employment"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                "Completion of at least 175 credit points",
+                [
+                    "AGRI20038",
+                    "AGRI20042"
+                ]
+            ],
+            "additional pre-requisite": [
+                "B-AGR Students:",
+                "Completion of at least 175 credit points"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "Completion of at least 175 credit points",
+                [
+                    "AGRI20026",
+                    "AGRI20036",
+                    "AGRI20037",
+                    "AGRI20038"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "B-SCI Students:",
+                "Completion of at least 175 credit points"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "An individual written report consisting of three components: 500 word\u00a0research proposal due in week 4 worth 10%; draft version of 2,000 word final report due in week 8 worth 15%; final version due at the end of semester worth 35%. 2000 words (total)",
+            "timing": "From week 4 to the end of semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "Group oral presentation. 15 minutes",
+            "timing": "From Week 11 to Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "Half-page individual journal reflection per week throughout the semester. Submitted for assessment in weeks 2, 6 and 11. 5.5 pages",
+            "timing": "From Week 2 to Week 11",
+            "percentage": "15%"
+        },
+        {
+            "description": "Hurdle requirement:. 80% attendance at workshops and tutorials",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 - On Campus": [
+                {
+                    "Principal coordinators": "Michael Santhanam-Martin and Sarah Frankland"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 x 1-hr lectures and 1 x 2-hr tutorials per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - On Campus": [
+                {
+                    "Principal coordinators": "Sarah Frankland and Michael Santhanam-Martin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Dookie)"
+                },
+                {
+                    "Contact hours": "2 x 1-hr lectures and 1 x 2-hr tutorials per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "sarah.frankland@unimelb.edu.au",
+                    "mpmartin@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "sarah.frankland@unimelb.edu.au",
+                    "mpmartin@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

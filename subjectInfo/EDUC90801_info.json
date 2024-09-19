@@ -1,0 +1,121 @@
+{
+    "subject name": "Clinical Education Modules",
+    "subject code": "EDUC90801",
+    "subject availability": [
+        "August"
+    ],
+    "overview": [
+        "Clinical Education Modules is designed to provide students with an opportunity to explore an area of interest in greater depth while remaining within the structure of the Graduate Diploma program. The aim of the modules is to allow participants to expand knowledge within a specialised area of interest, while maintaining broad application to the unique requirements of teachers working in health professional contexts.",
+        "Participants will be asked to nominate to attend four modules from a range of module topics offered each year. They need only be assessed in two of the nominated modules. The topics offered will vary and are presented to participants at the start of the year based on currency, interest, and availability. Only those modules attracting sufficient preferences will be delivered each year. Examples of module topics to be offered include:",
+        "Comparative Clinical Education",
+        "Gender & Culture in Clinical Education",
+        "Promoting Professionalism",
+        "Interprofessional Education",
+        "Teaching Clinical Reasoning",
+        "Clinical Teaching with the Humanities",
+        "other topics as appropriate.",
+        "Participants enrolled in the Graduate Diploma in Clinical Education will be provided with a description of each module and will be surveyed before the semester starts in order to nominate their four modules for attendance. The two assessable modules may be nominated after the end of the teaching period."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop a critical understanding of the theoretical concepts and latest discussions in this subject",
+        "Articulate and reflect on how this subject is relevant to their specific discipline or learning environments",
+        "Identify and develop strategies and/or approaches for enhancing clinical learning",
+        "Analyse learning and teaching pedagogies and practices",
+        "Critically analyse and design learning experiences and evaluate how best these experiences can be implemented and evaluated",
+        "Demonstrate the application of knowledge and skills and make independent judgements about effective teaching and associated evaluation strategies in a range of specialised and professional contexts."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EDUC90741",
+                    "EDUC90742",
+                    "EDUC90743",
+                    "EDUC90744"
+                ],
+                "This subject is not available for students admitted in any other courses."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "GD-CLINED Graduate Diploma in Clinical Education",
+                "MC-CLINED Master of Clinical Education"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual or group presentation for both modules - total 2,000 words equivalent. 10 minutes",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "A written assignment for each module undertaken - 1,500 words each. 3000 words (total)",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "August": [
+                {
+                    "Principal coordinator": "Justin Bilszta"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three days of 8.5 hours each"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "7 August 2024 to  9 August 2024"
+                },
+                {
+                    "Last self-enrol date": "7 August 2024"
+                },
+                {
+                    "Census date": "23 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "21 October 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "August": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

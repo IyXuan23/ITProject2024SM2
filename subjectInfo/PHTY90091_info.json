@@ -1,0 +1,123 @@
+{
+    "subject name": "Cardiorespiratory Physiotherapy",
+    "subject code": "PHTY90091",
+    "subject availability": [
+        "July"
+    ],
+    "overview": [
+        "This subject will apply a problem-based approach to describe the physiotherapy assessment and management of individuals with acute and chronic cardiorespiratory conditions. Students will integrate prior knowledge of anatomy, physiology, pharmacology and pathology with theoretical and evidence-based knowledge to generate an effective and comprehensive physiotherapy assessment and management plan. A variety of teaching methods will be employed to develop students\u2019 skills in the assessment and diagnosis of cardiorespiratory problems. A range of cardiorespiratory physiotherapy interventions will be introduced, and students will be trained in the appropriate execution of these techniques and relevant outcome measures to evaluate their efficacy. Consideration will also be given to the rights of individuals and the impact of team management processes in cardiorespiratory physiotherapy practice. This subject includes 12 hours of clinical (generic) placement."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Critically reflect and modify practice in response to feedback from peers and academic staff",
+        "Apply a bio psychosocial model to accurately assess, interpret and treat individuals with common cardiorespiratory conditions",
+        "Employ safe and effective evidence based physiotherapy interventions for individuals with cardiorespiratory conditions",
+        "Design, implement and evaluate a repertoire of exercises and health and well being promotion strategies that best meet the needs of individuals with a range of impairments, activity limitations and/or participation restrictions",
+        "Identify  the personal and environmental barriers and facilitators that influence capability, opportunity and motivation to participate",
+        "Identify, critique and apply evidence informed practice in the selection, justification and modification of physiotherapy approaches for individuals with cardiorespiratory conditions",
+        "Explain  the role of other professions, families, carers and communities in the care with individuals with a diverse range of health conditions",
+        "Apply skills  patient centred goal setting with individuals",
+        "Apply the skills to educate individuals and relevant others about the individual's condition and the options for physiotherapy approaches to promotion of health and wellbeing",
+        "Effectively communicate and respectfully engage with individuals (including those with cognitive, behavioural and communication limitations) and relevant others to optimise outcomes.",
+        "Respond to the social and cultural needs of the individual, their family/carers and the organisation in health decision making.",
+        "Explain the impact of available resources on the delivery of optimal physiotherapy treatment approaches"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Foundation Science for Physiotherapy A\nIntegrated Professional practice A"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "ePortfolio. 1250 words",
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written examination. 1.5 hours",
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Objective Structured Clinical Examination  (OSCE)  \r\n2 station OSCE each station 10 minutes. 20 minutes (total). Hurdle requirement:. Students must pass OSCE in order to pass subject",
+            "timing": "End of semester",
+            "percentage": "45%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance of >85% of practical skills classes",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "July": [
+                {
+                    "Coordinator": "Aiden Smart"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "186 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "23 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "8 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [],
+                "email": [
+                    "aiden.smart@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Pryor JA and Prasad SA (2008): Physiotherapy for respiratory and Cardiac Problems. 4 th ed. Edinburgh: Churchill Livingstone Elsevier."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://physioth.unimelb.edu.au/"
+        ]
+    }
+}
