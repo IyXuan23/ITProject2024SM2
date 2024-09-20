@@ -1,3 +1,4 @@
 #ignores the virtual environment file
 venv/
 *.venv
+node_modules
