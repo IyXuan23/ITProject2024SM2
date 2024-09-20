@@ -26,11 +26,24 @@
   border-radius: 10px;
   overflow: hidden;
   z-index: 9998;
-  display: none;
+  display: flex;
+  flex-direction: column;
+}
+
+#chat-wrapper {
+  flex: 1;
+  position: relative;
 }
 
 #unimelb-handbot-chat-container deep-chat {
   width: 100%;
   height: 100%;
   border: none;
+}
+
+.chat-element {
+  width: 100% !important;
+  height: 100% !important;
+  border-radius: 10px;
+  z-index: 1001;
 }

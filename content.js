@@ -22,10 +22,12 @@ function createCloseButton() {
 
   closeButton.addEventListener('mouseover', () => {
     closeButton.style.color = '#000';
+    closeButton.style.transform = 'scale(1.1)';
   });
 
   closeButton.addEventListener('mouseout', () => {
     closeButton.style.color = '#666';
+    closeButton.style.transform = 'scale(1)';
   });
 
   closeButton.addEventListener('click', () => {
@@ -40,55 +42,119 @@ function createCloseButton() {
   return closeButton;
 }
 
-function loadChatInterface() {
-  fetch(chrome.runtime.getURL('test_popup.html'))
-    .then(response => {
-      if (!response.ok) {
-        throw new Error(`HTTP error! status: ${response.status}`);
-      }
-      return response.text();
-    })
-    .then(data => {
-      chatContainer.innerHTML = data;
-      console.log('Chat interface HTML loaded successfully');
-      
-      const closeButton = createCloseButton();
-      chatContainer.appendChild(closeButton);
-      
-      const scripts = Array.from(chatContainer.getElementsByTagName('script'));
-      scripts.forEach((script, index) => {
-        const newScript = document.createElement('script');
-        if (script.src) {
-          newScript.src = chrome.runtime.getURL(script.src.split('/').pop());
+async function loadChatInterface() {
+  try {
+    const response = await fetch(chrome.runtime.getURL('test_popup.html'));
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    const data = await response.text();
+    chatContainer.innerHTML = data;
+    console.log('Chat interface HTML loaded successfully');
+    
+    // 立即设置容器尺寸
+    chatContainer.style.width = '400px';
+    chatContainer.style.height = '600px';
+    chatContainer.style.display = 'flex';
+    chatContainer.style.flexDirection = 'column';
+    
+    const closeButton = createCloseButton();
+    chatContainer.appendChild(closeButton);
+    
+    chatContainer.offsetHeight;
+    
+    // 手动加载 deepChat.bundle.js
+    const deepChatScript = document.createElement('script');
+    deepChatScript.src = chrome.runtime.getURL('deepChat.bundle.js');
+    await new Promise((resolve, reject) => {
+      deepChatScript.onload = () => {
+        console.log('DeepChat script loaded');
+        if (typeof DeepChat !== 'undefined') {
+          console.log('DeepChat is defined after script load');
         } else {
-          newScript.textContent = script.textContent;
+          console.error('DeepChat is still undefined after script load');
         }
+        resolve();
+      };
+      deepChatScript.onerror = (error) => {
+        console.error('Error loading DeepChat script:', error);
+        reject(error);
+      };
+      document.head.appendChild(deepChatScript);
+    });
+
+    const scripts = Array.from(chatContainer.getElementsByTagName('script'));
+    for (let i = 0; i < scripts.length; i++) {
+      const script = scripts[i];
+      const newScript = document.createElement('script');
+      if (script.src) {
+        newScript.src = chrome.runtime.getURL(script.src.split('/').pop());
+      } else {
+        newScript.textContent = script.textContent;
+      }
+      await new Promise((resolve, reject) => {
         newScript.onload = () => {
-          console.log(`Script ${index + 1}/${scripts.length} loaded`);
-          if (script === scripts[scripts.length - 1]) {
-            initializeChat();
-          }
+          console.log(`Script ${i + 1}/${scripts.length} loaded:`, newScript.src || 'inline script');
+          resolve();
         };
         newScript.onerror = (error) => {
-          console.error(`Error loading script ${index + 1}/${scripts.length}:`, error);
+          console.error(`Error loading script ${i + 1}/${scripts.length}:`, error);
+          reject(error);
         };
         document.body.appendChild(newScript);
       });
-    })
-    .catch(error => {
-      console.error('Error loading chat interface:', error);
-      chatContainer.innerHTML = '<p>加载聊天界面时出错。请刷新页面后重试。</p>';
-    });
+    }
+    
+    console.log('All scripts loaded, initializing chat');
+    initializeChat();
+  } catch (error) {
+    console.error('Error loading chat interface:', error);
+    chatContainer.innerHTML = '<p>Error loading chat interface</p>';
+  }
 }
 
 function initializeChat() {
   console.log('Initializing chat');
   const chatElement = chatContainer.querySelector('deep-chat');
   if (chatElement) {
-    chatElement.style.width = '100%';
-    chatElement.style.height = '100%';
-    chatElement.demo = true;
-    console.log('Chat element initialized');
+    console.log('Chat element found:', chatElement);
+    console.log('Chat element dimensions:', chatElement.offsetWidth, chatElement.offsetHeight);
+    console.log('Chat element attributes:', Array.from(chatElement.attributes).map(attr => `${attr.name}="${attr.value}"`).join(', '));
+    
+    // 检查 DeepChat 是否已定义
+    console.log('DeepChat defined in initializeChat:', typeof DeepChat !== 'undefined');
+    
+    if (typeof DeepChat !== 'undefined') {
+      try {
+        new DeepChat({
+          container: chatElement,
+          demo: true
+        });
+        console.log('Deep chat manually initialized');
+      } catch (error) {
+        console.error('Error initializing DeepChat:', error);
+      }
+    } else {
+      console.error('DeepChat is not defined. Current global objects:', Object.keys(window));
+      // 尝试重新加载 DeepChat 脚本
+      const deepChatScript = document.createElement('script');
+      deepChatScript.src = chrome.runtime.getURL('deepChat.bundle.js');
+      deepChatScript.onload = () => {
+        console.log('DeepChat script reloaded');
+        if (typeof DeepChat !== 'undefined') {
+          console.log('DeepChat is defined after script reload');
+          new DeepChat({
+            container: chatElement,
+            demo: true
+          });
+        } else {
+          console.error('DeepChat is still undefined after script reload');
+        }
+      };
+      document.head.appendChild(deepChatScript);
+    }
+    
+    console.log('Chat element initialization attempt completed');
   } else {
     console.error('Chat element not found');
   }
@@ -96,11 +162,15 @@ function initializeChat() {
 
 hoverball.addEventListener('click', () => {
   if (chatContainer.style.display === 'none') {
-    chatContainer.style.display = 'block';
+    chatContainer.style.display = 'flex';
+    chatContainer.style.flexDirection = 'column';
     setTimeout(() => {
       chatContainer.style.transform = 'translateY(0)';
       chatContainer.style.opacity = '1';
-    }, 10);
+      console.log('Chat container should now be visible');
+      // 重新初始化聊天
+      initializeChat();
+    }, 300); // 给足够的时间让过渡效果完成
     if (chatContainer.innerHTML === '') {
       console.log('Loading chat interface');
       loadChatInterface();
@@ -117,8 +187,8 @@ hoverball.addEventListener('click', () => {
   }
 });
 
-hoverball.style.width = '48px';
-hoverball.style.height = '48px';
+hoverball.style.width = '60px';
+hoverball.style.height = '60px';
 hoverball.style.cursor = 'pointer';
 
 hoverball.style.position = 'fixed';
@@ -130,21 +200,20 @@ hoverball.style.borderRadius = '50%';
 hoverball.style.transition = 'transform 0.3s ease';
 
 hoverball.addEventListener('mouseover', () => {
-  hoverball.style.transform = 'scale(1.3)';
+  hoverball.style.transform = 'scale(1.1)';
 });
 
 hoverball.addEventListener('mouseout', () => {
   hoverball.style.transform = 'scale(1)';
 });
 
-
 chatContainer.style.position = 'fixed';
 chatContainer.style.right = '20px';
-chatContainer.style.bottom = '80px';
-chatContainer.style.width = '400px';
+chatContainer.style.bottom = '90px';
+chatContainer.style.width = '500px';
 chatContainer.style.height = '600px';
 chatContainer.style.backgroundColor = 'white';
-chatContainer.style.zIndex = '1000';
+chatContainer.style.zIndex = '1002';
 chatContainer.style.boxShadow = '0 0 10px rgba(0,0,0,0.1)';
 chatContainer.style.borderRadius = '10px';
 chatContainer.style.overflow = 'hidden';

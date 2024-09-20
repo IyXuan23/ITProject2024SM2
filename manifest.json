@@ -8,7 +8,10 @@
         "48": "Chatbot_logo_48.png",
         "128": "Chatbot_logo_128.png"
     },
-    "permissions": ["activeTab"],
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
     "content_scripts": [
         {
             "matches": ["https://handbook.unimelb.edu.au/*"],
@@ -18,8 +21,17 @@
     ],
     "web_accessible_resources": [
         {
-            "resources": ["test_popup.html", "Chatbot_logo_128.png", "deepChat.bundle.js", "microsoft.cognitiveservices.speech.sdk.bundle.js", "chatbot_styles.js"],
-            "matches": ["https://handbook.unimelb.edu.au/*"]
+            "resources": [
+                "test_popup.html",
+                "deepChat.bundle.js",
+                "Chatbot_logo_128.png",
+                "microsoft.cognitiveservices.speech.sdk.bundle.js",
+                "chatbot_styles.js"
+            ],
+            "matches": ["<all_urls>"]
         }
-    ]
+    ],
+    "content_security_policy": {
+        "extension_pages": "script-src 'self'; object-src 'self'"
+    }
 }
