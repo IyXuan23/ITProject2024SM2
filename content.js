@@ -52,7 +52,6 @@ async function loadChatInterface() {
     chatContainer.innerHTML = data;
     console.log('Chat interface HTML loaded successfully');
     
-    // 立即设置容器尺寸
     chatContainer.style.width = '400px';
     chatContainer.style.height = '600px';
     chatContainer.style.display = 'flex';
@@ -63,7 +62,6 @@ async function loadChatInterface() {
     
     chatContainer.offsetHeight;
     
-    // 手动加载 deepChat.bundle.js
     const deepChatScript = document.createElement('script');
     deepChatScript.src = chrome.runtime.getURL('deepChat.bundle.js');
     await new Promise((resolve, reject) => {
@@ -121,7 +119,6 @@ function initializeChat() {
     console.log('Chat element dimensions:', chatElement.offsetWidth, chatElement.offsetHeight);
     console.log('Chat element attributes:', Array.from(chatElement.attributes).map(attr => `${attr.name}="${attr.value}"`).join(', '));
     
-    // 检查 DeepChat 是否已定义
     console.log('DeepChat defined in initializeChat:', typeof DeepChat !== 'undefined');
     
     if (typeof DeepChat !== 'undefined') {
@@ -136,7 +133,6 @@ function initializeChat() {
       }
     } else {
       console.error('DeepChat is not defined. Current global objects:', Object.keys(window));
-      // 尝试重新加载 DeepChat 脚本
       const deepChatScript = document.createElement('script');
       deepChatScript.src = chrome.runtime.getURL('deepChat.bundle.js');
       deepChatScript.onload = () => {
@@ -168,9 +164,8 @@ hoverball.addEventListener('click', () => {
       chatContainer.style.transform = 'translateY(0)';
       chatContainer.style.opacity = '1';
       console.log('Chat container should now be visible');
-      // 重新初始化聊天
       initializeChat();
-    }, 300); // 给足够的时间让过渡效果完成
+    }, 300);
     if (chatContainer.innerHTML === '') {
       console.log('Loading chat interface');
       loadChatInterface();
