@@ -21,33 +21,6 @@ vn = VannaDefault(model=vanna_model_name, api_key=vanna_api_key)
 # vn.connect_to_postgres(dbname="postgres",user="postgres.seqkcnapvgkwqbqipqqs",password="IT Web Server12",host="aws-0-ap-southeast-2.pooler.supabase.com",port=6543)
 # NO NEED TO CHANGE ANYTHING BELOW THIS LINE
 
-def is_sql_valid(sql_query):
-    try:
-        # 使用您的数据库连接参数
-        conn = psycopg2.connect(
-            dbname="postgres",
-            user="postgres.seqkcnapvgkwqbqipqqs",
-            password="IT Web Server12",
-            host="aws-0-ap-southeast-2.pooler.supabase.com",
-            port=6543
-        )
-        cur = conn.cursor()
-        conn.set_session(autocommit=False)
-        try:
-            cur.execute(sql.SQL("EXPLAIN {}").format(sql.SQL(sql_query)))
-            conn.rollback() 
-            return True
-        except psycopg2.Error as e:
-            conn.rollback()
-            return False
-        finally:
-            cur.close()
-    except psycopg2.Error as e:
-        return False
-    finally:
-        if conn:
-            conn.close()
-
 def requires_cache(fields):
     def decorator(f):
         @wraps(f)
@@ -84,9 +57,8 @@ def generate_sql():
     user_question = flask.request.args.get('question')
     # Step 1: Generate the SQL query from the user question
     sql = vn.generate_sql(user_question)
-
-    valid = is_sql_valid(sql)
-
+    valid = vn.is_sql_valid(sql=sql)
+    
     if valid:
         conn = psycopg2.connect(database="postgres",user="postgres.seqkcnapvgkwqbqipqqs",password="IT Web Server12",host="aws-0-ap-southeast-2.pooler.supabase.com",port=6543)
         cur = conn.cursor()
