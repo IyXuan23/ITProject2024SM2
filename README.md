@@ -1,6 +1,8 @@
 # Chatbot Chrome extension version 
 
-## Installation
+## Running this extension
 
-To experiment this extension, please clone this repo and use 'Load Unpacked Extension' in Chrome.
-Read more on [Development Basics](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked).
+1. Clone this repository.
+2. Load this directory in Chrome as an [unpacked extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked).
+3. Open the extension's side panel by clicking the icon.
+4. Alternatively, you can click the hoverball on the bottom right of your screen to open the side panel.
