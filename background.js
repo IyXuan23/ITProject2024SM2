@@ -7,36 +7,18 @@ chrome.runtime.onMessage.addListener((message, sender) => {
                 path: 'sidepanel.html',
                 enabled: true
             });
-        } else if (message.type === 'close_side_panel') {
-            await chrome.sidePanel.setOptions({
-                tabId: sender.tab.id,
-                enabled: false
-            });
         }
     })();
 });
 
-const ORIGIN = 'https://handbook.unimelb.edu.au/search';
-
-chrome.sidePanel
-    .setPanelBehavior({ openPanelOnActionClick: true })
-    .catch((error) => console.error(error));
-
-chrome.tabs.onUpdated.addListener(async (tabId, info, tab) => {
-    if (!tab.url) return;
+chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
     const url = new URL(tab.url);
-    // Enables the side panel on handbook.unimelb.edu.au
-    if (url.origin === ORIGIN) {
-        await chrome.sidePanel.setOptions({
-            tabId,
-            path: 'sidepanel.html',
-            enabled: true
-        });
-    } else {
-        // Disables the side panel on all other sites
-        await chrome.sidePanel.setOptions({
-            tabId,
-            enabled: false
+    const path = url.pathname.split('/');
+    if (path[1] === 'subjects' && path[2]) {
+        const subjectCode = path[2].toUpperCase();
+        chrome.tabs.sendMessage(tabId, {
+            type: 'UPDATE_BUTTON_TEXT',
+            subjectCode: subjectCode
         });
     }
 });

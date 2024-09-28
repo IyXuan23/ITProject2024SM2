@@ -9,6 +9,7 @@
         "128": "Chatbot_logo_128.png"
     },
     "permissions": [
+        "tabs",
         "sidePanel"
     ],
     "background": {
@@ -23,7 +24,10 @@
     "content_scripts": [
         {
             "matches": ["https://handbook.unimelb.edu.au/*"],
-            "js": ["hoverball.js"]
+            "js": [
+                "hoverball.js",
+                "sidepanel_script.js"
+            ]
         }
     ],
     "web_accessible_resources": [

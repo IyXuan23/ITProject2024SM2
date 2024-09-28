@@ -1,6 +1,6 @@
 const chatElement = document.getElementById("chat-element");
 
-document.addEventListener('DOMContentLoaded', (event) => {
+document.addEventListener('DOMContentLoaded', async(event) => {
     chatElement.requestInterceptor = async (requestDetails) => {
         const userQuery = requestDetails.body.messages[requestDetails.body.messages.length - 1].text;
         const encodedQuery = encodeURIComponent(userQuery);
