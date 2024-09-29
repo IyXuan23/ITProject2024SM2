@@ -55,4 +55,3 @@ def construct_rephrase(conversation_history : dict, followup_question : str) -> 
     messages.extend(conversation_history)
     messages.append({"role": "user", "content": f"Based on the above conversation, rephrase my last question\n\nMy last question: \"{followup_question}\"\nRephrased question:"})
     return messages
-

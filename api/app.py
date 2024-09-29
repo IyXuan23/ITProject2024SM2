@@ -8,7 +8,7 @@ from psycopg2 import sql
 from openai import OpenAI
 from dependencies.cache import MemoryCache
 from dependencies.vanna import VannaDefault
-from followup import *
+from dependencies.followup import *
 
 # TODO: Implement a functionality to manage cookie (session) size
 
