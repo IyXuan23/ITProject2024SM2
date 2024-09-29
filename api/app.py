@@ -20,7 +20,6 @@ Description:    This file contains all necessary functions for VANNA to generate
 
                             ####################### SET UP #######################
 cache = MemoryCache()
-load_dotenv()
 app = Flask(__name__, static_url_path='')
 
 openai_api_key = os.environ.get('OPENAI_API_KEY')
