@@ -9,7 +9,7 @@ from openai import OpenAI
 from dependencies.cache import MemoryCache
 from dependencies.vanna import VannaDefault
 from dependencies.followup import *
-
+import secrets
 # TODO: Implement a functionality to manage cookie (session) size
 
 """
@@ -25,6 +25,7 @@ openai_api_key = os.environ.get('OPENAI_API_KEY')
 vanna_api_key = os.environ.get('VANNA_API_KEY')
 vanna_model_name = os.environ.get('VANNA_MODEL_NAME')
 CORS(app, resources={r"/api/*": {"origins": "*"}})
+app.secret_key = secrets.token_hex()
 
 vn = VannaDefault(model=vanna_model_name, api_key=vanna_api_key)
 
