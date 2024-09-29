@@ -1,5 +1,4 @@
 import os
-from dotenv import load_dotenv
 from functools import wraps
 from flask import Flask, jsonify, Response, request, session
 from flask_cors import CORS
