@@ -16,9 +16,10 @@ chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
     const path = url.pathname.split('/');
     if (path[1] === 'subjects' && path[2]) {
         const subjectCode = path[2].toUpperCase();
-        chrome.tabs.sendMessage(tabId, {
+        console.log("sending message");
+        setTimeout(() => chrome.runtime.sendMessage({
             type: 'UPDATE_BUTTON_TEXT',
             subjectCode: subjectCode
-        });
+        }), 1001);
     }
 });

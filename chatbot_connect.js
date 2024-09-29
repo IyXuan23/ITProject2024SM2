@@ -19,3 +19,33 @@ document.addEventListener('DOMContentLoaded', async(event) => {
 chatElement.validateInput = (text) => {
     return text.length > 0;
 };
+
+chatElementRef.htmlClassUtilities = {
+    'custom-button': {
+        events: {
+            click: (event) => {
+                const text = event.currentTarget.querySelector('.custom-button-text').innerText;
+                chatElementRef.submitUserMessage(text.substring(1, text.length - 1));
+            },
+        },
+        styles: {
+            default: {
+                marginLeft: '10px',
+                marginRight: '10px',
+                backgroundColor: '#ffffff',
+                borderRadius: '10px',
+                padding: '10px',
+                cursor: 'pointer',
+                textAlign: 'center',
+                marginTop: '10px'
+            },
+            hover: { backgroundColor: '#ebebeb' },
+            click: { backgroundColor: '#e4e4e4' },
+        },
+    },
+    'custom-button-text': {
+        styles: {
+            default: { pointerEvents: 'none' },
+        },
+    },
+};
