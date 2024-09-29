@@ -11,7 +11,8 @@
     "permissions": [
         "tabs",
         "sidePanel",
-        "scripting"
+        "scripting",
+        "webNavigation"
     ],
     "host_permissions": [
         "*://*/*"

@@ -11,15 +11,37 @@ chrome.runtime.onMessage.addListener((message, sender) => {
     })();
 });
 
-chrome.tabs.onUpdated.addListener((tabId, changeInfo, tab) => {
-    const url = new URL(tab.url);
-    const path = url.pathname.split('/');
-    if (path[1] === 'subjects' && path[2]) {
-        const subjectCode = path[2].toUpperCase();
-        console.log("sending message");
-        setTimeout(() => chrome.runtime.sendMessage({
-            type: 'UPDATE_BUTTON_TEXT',
-            subjectCode: subjectCode
-        }), 1001);
-    }
+chrome.webNavigation.onHistoryStateUpdated.addListener((details) => {
+    chrome.tabs.get(details.tabId, (tab) => {
+        const url = new URL(tab.url);
+        const path = url.pathname.split('/');
+        if (path[1] === 'subjects') {
+            const subjectCode = path[2].toUpperCase();
+            setTimeout(() => chrome.runtime.sendMessage({
+                type: 'UPDATE_BUTTON_TEXT_SUBJECT',
+                subjectCode: subjectCode
+            }), 1001);
+        }
+        if (path[2] === 'subjects') {
+            const subjectCode = path[3].toUpperCase();
+            setTimeout(() => chrome.runtime.sendMessage({
+                type: 'UPDATE_BUTTON_TEXT_SUBJECT',
+                subjectCode: subjectCode
+            }), 1001);
+        }
+        if (path[1] === 'courses') {
+            const subjectCode = path[2].toUpperCase();
+            setTimeout(() => chrome.runtime.sendMessage({
+                type: 'UPDATE_BUTTON_TEXT_COURSE    ',
+                subjectCode: subjectCode
+            }), 1001);
+        }
+        if (path[2] === 'courses') {
+            const courseCode = path[3].toUpperCase();
+            setTimeout(() => chrome.runtime.sendMessage({
+                type: 'UPDATE_BUTTON_TEXT_COURSE',
+                courseCode: courseCode
+            }), 1001);
+        }
+    });
 });
