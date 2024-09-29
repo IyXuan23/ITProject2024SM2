@@ -6,7 +6,7 @@ import flask
 import psycopg2
 from psycopg2 import sql
 from openai import OpenAI
-from cache import MemoryCache
+from dependencies.cache import MemoryCache
 from dependencies.vanna import VannaDefault
 from followup import *
 
