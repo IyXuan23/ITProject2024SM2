@@ -12,7 +12,6 @@
         padding: 0;
     }
 </style>
-
 <script type="text/javascript" src="./deepChat.bundle.js"></script>
 <script src="./microsoft.cognitiveservices.speech.sdk.bundle.js"></script>
 <body>
@@ -23,13 +22,14 @@
       "container": {"borderRadius": "20px", "border": "1px solid #969696", "boxShadow": "unset", "width": "78%", "marginLeft": "-15px"},
       "text": {"padding": "10px", "paddingLeft": "15px", "paddingRight": "34px"}
     },
-    "placeholder": {"text": "Enter a prompt here", "style": {"color": "#bcbcbc"}}
+    "placeholder": {"text": "Ask me anything...", "style": {"color": "#bcbcbc"}}
   }'
   messageStyles='{
     "default": {
       "shared": {"bubble": {"maxWidth": "100%", "backgroundColor": "unset", "marginTop": "10px", "marginBottom": "10px"}},
       "user": {"bubble": {"marginLeft": "0px", "color": "black"}},
-      "ai": {"innerContainer": {"borderRadius": "15px", "backgroundColor": "white"}}
+      "ai": {"innerContainer": {"borderRadius": "15px", "marginTop": "10px", "backgroundColor": "white"}},
+      "suggestion": {"bubble": {"maxWidth": "100%", "backgroundColor": "unset", "marginTop": "10px", "marginBottom": "10px"}}
     }
   }'
   avatars='{
