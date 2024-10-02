@@ -27,7 +27,7 @@ def is_followup_question(conversation_history : dict, new_question : str) -> boo
     messages = [
         {
             "role": "system",
-            "content": "You are an AI assistant that determines if a user's new question is related to the previous conversation."
+            "content": "You are an AI assistant that determines if a user's new question is related to the previous conversation. Two questions are considered unrelated if they are about different subjects (with different subject names or codes) or if they pertain to different courses (a course is a program of study, and a subject is a specific unit within a course)."
         }
     ]
     messages.extend(conversation_history)
@@ -36,7 +36,6 @@ def is_followup_question(conversation_history : dict, new_question : str) -> boo
         "content": (
             f"Is the following question a follow-up to our previous conversation or a new topic?\n"
             f"Question: \"{new_question}\"\n"
-            "Two questions are unrelated if they are about different subjects (different subject name or code) or courses\n"
             "Answer with 'follow-up' or 'new topic'."
         )
     })
@@ -51,7 +50,8 @@ def is_followup_question(conversation_history : dict, new_question : str) -> boo
         return False
 
 def construct_rephrase(conversation_history : dict, followup_question : str) -> dict:
-    messages = [{"role": "system", "content": "You are an assistant that rephrases questions to include necessary context based on the conversation."}]
+    messages = [{"role": "system",
+    "content": "You are an assistant that rephrases user questions to include necessary context, such as the subject code or course code, based on the conversation. Remember, 'course' and 'subject' are not interchangeable: a course is a program of study, while a subject refers to a specific class or unit within a course."}]
     messages.extend(conversation_history)
     messages.append({"role": "user", "content": f"Based on the above conversation, rephrase my last question\n\nMy last question: \"{followup_question}\"\nRephrased question:"})
     return messages

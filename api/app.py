@@ -10,6 +10,7 @@ from dependencies.cache import MemoryCache
 from dependencies.vanna import VannaDefault
 from dependencies.followup import *
 import secrets
+
 # TODO: Implement a functionality to manage cookie (session) size
 
 """
@@ -62,6 +63,7 @@ def requires_cache(fields):
 
 def is_sql_valid(sql_query:str) -> bool:
     try:
+        # 使用您的数据库连接参数
         conn = psycopg2.connect(
             dbname="postgres",
             user="postgres.seqkcnapvgkwqbqipqqs",
