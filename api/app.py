@@ -177,11 +177,11 @@ def run_sql(id: str, sql: str):
 
 @app.route('/api/v0/generate_questions', methods=['GET'])
 def generate_questions():
-    generate_questions = vn.generate_questions()
+    question = flask.request.args.get('question')
+    generate_questions = vn.get_similar_question_sql(question=question)
     return jsonify({
         "type": "question_list",
         "questions": generate_questions,
-        "header": "Here are some questions you can ask:"
         })
 
 @app.route('/api/v0/generate_followup_questions', methods=['GET'])
