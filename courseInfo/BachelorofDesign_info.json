@@ -1,4 +1,6 @@
 {
+    "Course name": "Bachelor of Design",
+    "Course code": "B-DES",
     "Overview text": [
         "The Bachelor of Design is focused on the life-cycle of the constructed and inhabited world. Its application is wide ranging, from the macro-level of the metropolis to the construction of buildings, bridges and landscapes, to the small-scale of systems and micro-structures.",
         "Design is the unifying force that ties multiple disciplines together - from Architecture to Civil Systems, Computing and Software Systems (prior to 2023 called Computing), Construction, User Experience Design (prior to 2023 called Digital Technologies), Landscape Architecture, Mechanical Systems, Property, Digital Infrastructure Engineering Systems, Urban Planning through to Visual and Performance Design. Via completion of majors and electives taken from other disciplines within the degree, double majors, and specialisations, students will encounter design in a transdisciplinary and complementary manner. Students will be exposed to the spectrum of design \u2013 from the creative and imaginative, through to the algorithmic and policy-generated, to iterative and managed problem-solving.",
@@ -39,21 +41,21 @@
             "overview": [
                 "The Bachelor of Design requires the successful completion of 300 credit points.",
                 [
-                    "225 credit points of Design subjects including\nA minimum of 62.5 credit points of Level 1 discipline subjects\nA minimum of 62.5 credit points of Level 2 discipline subjects\nA minimum of 75 credit points of Level 3 discipline subjects\n\n",
-                    "A minimum of 62.5 credit points of Level 1 discipline subjects",
-                    "A minimum of 62.5 credit points of Level 2 discipline subjects",
-                    "A minimum of 75 credit points of Level 3 discipline subjects",
-                    "50 credit points of Breadth subjects includingA maximum of 37.5 credit points of Level 1 breadth subjects\n",
-                    "A maximum of 37.5 credit points of Level 1 breadth subjects",
+                    "225 credit points of Design subjects including\n",
+                    [
+                        [
+                            "A minimum of 62.5 credit points of Level 1 discipline subjects",
+                            "A minimum of 62.5 credit points of Level 2 discipline subjects",
+                            "A minimum of 75 credit points of Level 3 discipline subjects"
+                        ]
+                    ],
+                    "50 credit points of Breadth subjects including\n",
+                    [
+                        [
+                            "A maximum of 37.5 credit points of Level 1 breadth subjects"
+                        ]
+                    ],
                     "25 credit points of free subjects (discipline or breadth)"
-                ],
-                [
-                    "A minimum of 62.5 credit points of Level 1 discipline subjects",
-                    "A minimum of 62.5 credit points of Level 2 discipline subjects",
-                    "A minimum of 75 credit points of Level 3 discipline subjects"
-                ],
-                [
-                    "A maximum of 37.5 credit points of Level 1 breadth subjects"
                 ]
             ],
             "Additional rules": {

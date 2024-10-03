@@ -67,6 +67,7 @@ def convert_listdict_to_list(input_list: list) -> None | list:
     Returns:
     None if list is empty.
     """
+    """
     if not input_list:
         return None
     
@@ -84,6 +85,24 @@ def convert_listdict_to_list(input_list: list) -> None | list:
                         return_list.append(sub)
                     continue
     return None if len(return_list) == 0 else return_list
+    """
+
+    returned_text = []
+    if not input_list:
+        return None
+    
+    for info in input_list:
+        for key,value in info.items():
+            f_key = key + ': ' if ': ' not in key else key
+            if isinstance(value,list):
+                f_value = convert_list_into_text(value)
+            else:
+                f_value = value + ', '
+            returned_text.append(f_key)
+            returned_text.append(f_value)
+        returned_text.append('. ')
+    return returned_text if len(returned_text) > 0 else None
+
 
 def convert_list_into_text(input_list: list) -> None | str:
     """
@@ -100,26 +119,34 @@ def convert_list_into_text(input_list: list) -> None | str:
 
     final_list = []
     for i, elt in enumerate(input_list):
-        if isinstance(elt, list):
+        if elt == None:
+            return None
+        elif isinstance(elt, list):
             temp_list = elt.copy()
-            temp_list[0] = '(' + temp_list[0]
-            temp_list[-1] = temp_list[-1] + ')'
             for n in temp_list:
-                if n[-1] not in [',','.',':',')']:
-                    n = n + ', '
-                final_list.append(n)
-        elif len(elt) >= 1:
+                n = clean_lines(n)
+                n = n.strip()
+                if n[-1] not in [',','.',':',')',';']:
+                    n = n + ','
+                if n not in final_list:
+                    final_list.append(n)
+        
+        elif (len(elt) >= 2):
+            elt = elt.strip()
             # Check if it's the last element. If it is append a period.
-            if i == len(input_list) - 1:
+            if (i == len(input_list) - 1) & (elt[-1] not in [',','.',':',')',';']):
                 elt = elt + '.'
             # If it's not the last element, append a comma or ':'.
             else:
-                if ('the following' in elt) & (elt[-1] not in [',','.',':']):
-                    elt = elt + ': '
-                elif (elt[-1] not in [',','.',':']):
-                    elt = elt + ', '
-            final_list.append(elt)
+                if ('the following' in elt) & (elt[-1] not in [',','.',':',')',';']):
+                    elt = elt + ':'
+                elif (elt[-1] not in [',','.',':',')',';']):
+                    elt = elt + ','
+            elt = clean_lines(elt)
+            if elt not in final_list:
+                final_list.append(elt)
     
+
     text = ' '.join(final_list) if len(final_list) > 0 else None
     return text
 
@@ -178,11 +205,39 @@ def copy_specific_file(source_folder: str, target_folder :str, file_names: list)
         if os.path.exists(src_path):
             dest_path = os.path.join(target_folder, file)
             shutil.copy(src_path, dest_path)
-            print(f'Copied: {file_name}')
+            print(f'Copied: {file}')
         
         else:
             # The file was not found
-            print(f'File {file_name} not found in {source_folder}')
+            print(f'File {file} not found in {source_folder}')
             print("--------ERROR!-----------\n")
             break
     print("--------SUCCEED IN COPYING FILES!-----------\n")
+
+def convert_dict_to_text(intput_dict: dict) -> None | str:
+    if not intput_dict:
+        return None
+    returned_text = []
+    for key,value in intput_dict.items():
+        key = key + ': '
+        returned_text.append(key)
+        if isinstance(value,list):
+            f_value = convert_list_into_text(value)
+        elif isinstance(value,dict):
+            f_value = convert_dict_to_text(value)
+        if f_value is not None:
+            print(value)
+            print(f_value)
+            returned_text.append(f_value)
+    return convert_list_into_text(returned_text) if len(returned_text)>0 else None
+
+def clean_lines(data):
+    if isinstance(data, dict):
+        return {key: clean_lines(value) for key, value in data.items()}
+    elif isinstance(data, list):
+        return [clean_lines(item) for item in data]
+    elif isinstance(data, str):
+        return data.replace('\n', ' ').replace('\u2013', '-').replace('\u201c', '"').replace('\u201d', '"')\
+                .replace('\u2019', "'") .replace('\u2010', '-')
+    else:
+        return data

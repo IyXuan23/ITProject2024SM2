@@ -1,0 +1,99 @@
+{
+    "Course name": "Master of Applied Analytics",
+    "Course code": "MC-APPANA",
+    "Overview text": [
+        "The Master of Applied Analytics targets professionals from health, psychology, education and built environment disciplines wishing to develop an understanding of how to apply analytics in one of these specialisation areas. The degree will enable students to develop a critical and thorough understanding of applied analytics technology. Students will be equipped to apply key analytics techniques to different scenarios in their professional area and to evaluate and communicate strategic and operational issues around the application of analytics concepts and theories to real-world practice.",
+        "Using sophisticated interactive technology, facilitating close rich engagement with world-renowned experts and a diverse network of peers, the course provides students with advanced specialised expertise and skills to tackle the complex challenges raised by the design and application of analytics technologies. All subjects are undertaken online providing students with flexibility in where and when they study. Students will be expected to actively participate in discussions and collaborations with their peers and teachers.",
+        "The degree requires completion of six subjects which will cover both core and specialization specific analytics techniques plus a substantial research-based Capstone project where students apply research principles and methods in analytics to a specialisation area. As most students in this course will be full-time professionals, enrolment is currently offered on a part-time basis only, requiring students to complete one subject per eight-week term, over an academic year of four terms. The course will typically be completed over two years part time.",
+        "Last updated: 13 September 2024"
+    ],
+    "Overview table": {
+        "Award title": "Master of Applied Analytics",
+        "Year & campus": "2024",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Graduate Coursework",
+        "AQFlevel": "9",
+        "Credit points": "100 credit points",
+        "Duration": "24 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "1. In order to be considered for entry, applicants must have completed:",
+            "a bachelor honours degree or equivalent in a cognate area; or",
+            "a three-year undergraduate qualification and at least 50 credit points, or equivalent, of graduate study in a cognate area; or",
+            "a three-year undergraduate qualification in a cognate area and at least two years of documented, relevant work experience; or ",
+            "a minimum of eight years documented, relevant work experience; and",
+            "a personal statement.",
+            "Meeting these requirements does not guarantee selection.",
+            "2. In ranking applications, the Selection Committee will consider:",
+            "prior academic performance; and if relevant",
+            "the work experience; and",
+            "the personal statement.",
+            "3. The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Board rules on the use of selection instruments.",
+            "4. Applicants are required to satisfy the university's English language requirements for graduate courses. For those applicants seeking to meet these requirements by one of the standard tests approved by the academic board, performance band 6.5 is required.",
+            "Notes:",
+            "(a) Cognate area refers to one of i) Health, ii) Psychology, iii) Urban design/architecture/built environment iv) Education"
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "The Master of Applied Analytics welcomes applications from students with disabilities. It is University and degree policy to take all reasonable steps to minimise the impact of disability upon academic study, and reasonable adjustments will be made to enhance a student's participation in the degree.",
+            "The Master of Applied Analytics requires all students to enrol in subjects where they will require:",
+            "1. The ability to use a computer, including read material on screen, to a competent standard;",
+            "2. The ability to read, analyse and comprehend complex scenarios involving the use of analytics;",
+            "3. The ability to actively and safely contribute in online activities;",
+            "4. The ability to work independently and as a part of a group;",
+            "5. The ability to clearly and independently communicate orally a knowledge and application of analytics principles and critically evaluate these principles;",
+            "6. The ability to clearly and independently communicate in writing a knowledge and application of analytics principles",
+            "Students must possess behavioural and social attributes that enable them to participate in a complex learning environment. Students are required to take responsibility for their own participation and learning. They also contribute to the learning of other students in collaborative learning environments, demonstrating interpersonal skills and an understanding of the needs of other students. Assessment may include the outcomes of tasks completed in collaboration with other students. There may be additional inherent academic requirements for some subjects, and these requirements are listed within the description of the requirements for each of these subjects.",
+            "Students who feel their disability will impact on meeting this requirement are encouraged to discuss this matter with the relevant Subject Coordinator and the Disability Liaison Unit:http://www.services.unimelb.edu.au/disability/"
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "The degree requires completion of 100 points, comprising six individual subjects plus a Capstone project.",
+                "MAST90130 Critical Thinking with Analytics must be undertaken as the first subject.",
+                "Students must complete 75 points of study, including MGMT90248 Analytics and Society before enrolling in the Applied Analytics Capstone.",
+                "The Applied Analytics Capstone is completed over two terms: students enrol in MGMT90250 Applied Analytics Capstone Part 1 and then in MGMT90251 Applied Analytics Capstone Part 2.",
+                "Students may complete the course with or without choosing a specialisation. Students may complete one of the following specialisations:",
+                [
+                    "Education Analytics",
+                    "Urban Analytics",
+                    "Health Analytics",
+                    "Psychology Analytics"
+                ]
+            ]
+        },
+        "Compulsory subjects": {
+            "overview": [
+                [
+                    "MAST90130",
+                    "MGMT90248",
+                    "MGMT90250",
+                    "MGMT90251"
+                ]
+            ]
+        },
+        "Elective subjects": {
+            "overview": [
+                "May be core subjects depending on specialisation chosen.",
+                [
+                    "ABPL90407",
+                    "ABPL90408",
+                    "MGMT90239",
+                    "MAST90131",
+                    "COMP90075",
+                    "COMP90076",
+                    "PSYC90109",
+                    "MAST90135",
+                    "POPH90295",
+                    "MAST90134"
+                ],
+                "To complete the course without a specialisation:",
+                "50 points of electives (any four subjects chosen from the specialisations)."
+            ]
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": []
+}
