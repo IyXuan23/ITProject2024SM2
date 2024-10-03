@@ -10,3 +10,8 @@ node_modules/
 .next
 api/
 next-env.d.ts
+.idea/
+app/
+public/
+types/
+utils/

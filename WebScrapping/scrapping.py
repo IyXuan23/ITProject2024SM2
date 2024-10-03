@@ -1,5 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
+import os
+import json
 
 from functions import *
 from functionsCourses import *
@@ -24,8 +26,8 @@ breadthURL = 'https://handbook.unimelb.edu.au/search?study_periods%5B%5D=all&are
 #scrapeLinks(NUM_OF_BREADTH_TRACK_PAGES, breadthtrackLinkArray, breadthURL)
 
 #subjectLinks = retrieveLinks('linkStorage\subjectLinks.json')
-courseLinks = retrieveLinks('linkStorage\courseLinks.json')
-majorLinks = retrieveLinks('linkStorage\majorLinks.json')
+#courseLinks = retrieveLinks('linkStorage\courseLinks.json')
+#majorLinks = retrieveLinks('linkStorage\majorLinks.json')
 
 #0-50 DONE
 #51-266 DONE
@@ -64,9 +66,9 @@ majorLinks = retrieveLinks('linkStorage\majorLinks.json')
 
 
 #0-44 done
-for link in courseLinks :
-    print(link[1])
-    scrapeCourses(link[0], link[1], link[2])
+# for link in courseLinks :
+#     print(link[1])
+#     scrapeCourses(link[0], link[1], link[2])
 
 #scrapping for the (bachelor) courses
 
@@ -84,5 +86,51 @@ for link in courseLinks :
 
 # getMajorLinks(courseLinks)
 # scrapeMajorInformation(majorLinks)
+
+def filterDict(majorData):
+
+    for element in majorData:
+        if type(element) == dict:
+            return element
+    
+    return None
+
+
+directoryPath = 'courseInfo'
+pairingList = []
+for fileName in os.listdir(directoryPath):
+
+    filePath = os.path.join(directoryPath, fileName)
+
+    with open(filePath, 'r') as file: 
+
+        data = json.load(file)
+        courseName = data['Course name']
+
+        if "Majors, minors and specialisations" in data:
+            majorData = data["Majors, minors and specialisations"]
+
+            keys = [key for key in majorData.keys() if 'major' in key.lower()]
+
+            if len(keys) >= 1:
+                majorDataArray = [majorData[key] for key in keys]
+
+            else:
+                print('no Majors = ' + courseName)
+                print(keys)
+                continue
+        
+        for majorData in majorDataArray:
+            someData = filterDict(majorData)
+            if someData == None:
+                continue
+            else:
+                result = [[courseName, major, points] for major, points in someData.items()]
+                pairingList.extend(result)
+
+newFileName = 'courseMajorPairing.json'
+newFilePath = os.path.join('majorInfo', newFileName)
+with open(newFilePath, 'w') as newFile:
+    json.dump(pairingList, newFile, indent=4)
 
 
