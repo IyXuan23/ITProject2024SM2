@@ -1,5 +1,4 @@
 const chatElement = document.getElementById("chat-element");
-
 document.addEventListener('DOMContentLoaded', async(event) => {
     
     chatElement.requestInterceptor = async (requestDetails) => {
@@ -7,6 +6,8 @@ document.addEventListener('DOMContentLoaded', async(event) => {
         const encodedQuery = encodeURIComponent(userQuery);
         const newUrl = `https://api-test-gamma-nine.vercel.app/api/v0/generate_sql?question=${encodedQuery}`;
         chatElement.connect.url = newUrl;
+        const similarQuestions = await fetchSimilarQuestions(userQuery);
+        console.log(similarQuestions)
         return requestDetails;
     };
 
@@ -30,30 +31,29 @@ document.addEventListener('DOMContentLoaded', async(event) => {
             const suggestion1 = chatElementRef.shadowRoot.querySelector('#suggestion1')
             const suggestion2 = chatElementRef.shadowRoot.querySelector('#suggestion2')
             const suggestion3 = chatElementRef.shadowRoot.querySelector('#suggestion3')
-            const suggestion = getRndSuggestion();
-            suggestion1.textContent = suggestion[0]
-            suggestion2.textContent = suggestion[1]
-            suggestion3.textContent = suggestion[2]
-            console.log(message.message.html);
+            const suggestions = ["suggestion1", "suggestion2", "suggestion3"]
+            suggestion1.textContent = suggestions[0]
+            suggestion2.textContent = suggestions[1]
+            suggestion3.textContent = suggestions[2]
         }
     };
 });
 
 
-function getRndSuggestion() {
-    const suggestions = [
-        "Tell me what's the prerequisite for this subject?",
-        "What are the learning outcomes for this subject?",
-        "How many assessments does this subject have?",
-        "Who is the coordinator for this subject?",
-        "What are the teaching times for this subject?",
-        "When is the census date for this subject?",
-    ]
-    while (suggestions.length < 6) {
-        var r = Math.floor(Math.random() * suggestions.length) + 1;
-        if (arr.indexOf(r) === -1) arr.push(r);
+async function fetchSimilarQuestions(userQuery) {
+    const encodedQuery = encodeURIComponent(userQuery);
+    const url = `https://api-test-gamma-nine.vercel.app/api/v0/generate_questions?question=${encodedQuery}`;
+
+    try {
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`Response status: ${response.status}`);
+        }
+        const json = await response.json();
+        return json.questions;
+    } catch (error) {
+        console.error(error.message);
     }
-    return suggestions;
 }
 
 chatElementRef.htmlClassUtilities = {
