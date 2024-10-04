@@ -6,8 +6,6 @@ document.addEventListener('DOMContentLoaded', async(event) => {
         const encodedQuery = encodeURIComponent(userQuery);
         const newUrl = `https://api-test-gamma-nine.vercel.app/api/v0/generate_sql?question=${encodedQuery}`;
         chatElement.connect.url = newUrl;
-        const similarQuestions = await fetchSimilarQuestions(userQuery);
-        console.log(similarQuestions)
         return requestDetails;
     };
 
@@ -17,33 +15,39 @@ document.addEventListener('DOMContentLoaded', async(event) => {
         return response;
     };
 
-    chatElement.onMessage = (message) => {
+    chatElement.onMessage = async (message) => {
         if (message.message.role === 'ai' && !message.isHistory) {
             chatElement.addMessage({
                 html: `
-                <div class="deep-chat-temporary-message">
+                <div class="deep-chat-temporary-message" id = "suggestions-button" style="display: none">
                     <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion1" style="margin-top: 5px"></button>
                     <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion2" style="margin-top: 6px"></button>
                     <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion3" style="margin-top: 6px"></button>
                 </div>`, 
                 role: "user"
             });
-            const suggestion1 = chatElementRef.shadowRoot.querySelector('#suggestion1')
-            const suggestion2 = chatElementRef.shadowRoot.querySelector('#suggestion2')
-            const suggestion3 = chatElementRef.shadowRoot.querySelector('#suggestion3')
-            const suggestions = ["suggestion1", "suggestion2", "suggestion3"]
-            suggestion1.textContent = suggestions[0]
-            suggestion2.textContent = suggestions[1]
-            suggestion3.textContent = suggestions[2]
+            const suggestions = await fetchSimilarQuestions();
+            console.log(suggestions);
+            let j = 0;
+            for (let i = 0; i < 3; i++) {
+                if (suggestions[j] !== null) {
+                    const button = chatElementRef.shadowRoot.querySelector(`#suggestion${i + 1}`);
+                    button.textContent = suggestions[j];
+                    j++;
+                } else {
+                    j++;
+                }
+            }
+            const suggestionsButton = chatElementRef.shadowRoot.querySelector('#suggestions-button');
+            suggestionsButton.style.display = "block";
         }
     };
 });
 
 
-async function fetchSimilarQuestions(userQuery) {
-    const encodedQuery = encodeURIComponent(userQuery);
-    const url = `https://api-test-gamma-nine.vercel.app/api/v0/generate_questions?question=${encodedQuery}`;
+async function fetchSimilarQuestions() {
 
+    const url = `https://api-test-gamma-nine.vercel.app/api/v0/generate_questions`;
     try {
         const response = await fetch(url);
         if (!response.ok) {
@@ -55,6 +59,7 @@ async function fetchSimilarQuestions(userQuery) {
         console.error(error.message);
     }
 }
+
 
 chatElementRef.htmlClassUtilities = {
     'custom-button': {
