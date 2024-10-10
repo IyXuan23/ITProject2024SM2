@@ -30,25 +30,26 @@ for file_path in glob.glob(os.path.join(folder_path, '*.json')):
                 # Get major name from file
                 major_name = data['major name']
 
-                
                 course_name = None
                 for info in pairing_data:
                     if major_name in info:
                         course_name = info[0]
 
-                # For debugging
-                print("Importing data for " + major_name)
+                        # For debugging
+                        print("Importing data for " + major_name)
 
-                overview = convert_list_into_text(data['overview'])
-                ILOs = data['ILOs']
-                structure = json.dumps(data['structure'])
+                        overview = convert_list_into_text(data['overview'])
+                        ILOs = data['ILOs']
+                        structure = json.dumps(data['structure'])
 
-                # Insert information from file to table for each prerequisite option
-                cur.execute("""
-                    INSERT INTO majors(overview,learning_outcomes,course_name,major_name,major_structure)
-                        VALUES (%s, %s, %s, %s, %s)""", 
-                        (overview,ILOs,course_name,major_name,structure))
-                
+                        # Insert information from file to table for each prerequisite option
+                        cur.execute("""
+                            INSERT INTO majors(overview,learning_outcomes,course_name,major_name,major_structure)
+                            VALUES (%s, %s, %s, %s, %s)
+                            ON CONFLICT (course_name,major_name) DO NOTHING
+                                """, 
+                            (overview,ILOs,course_name,major_name,structure))
+                    
    
 #Commit the transaction    
 conn.commit()
