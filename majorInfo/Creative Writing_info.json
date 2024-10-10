@@ -1,0 +1,60 @@
+{
+    "major name": "Creative Writing",
+    "overview": [
+        "This major offers students the opportunity to explore their creative potential and to extend their work to avant-garde, cross-genre and experimental forms of writing. Students are encouraged to critically test the creative implications and the influence of contemporary theoretical and philosophical schools of thought in all forms of writing. Areas of specialisation include fiction, poetry, poetics, non-fiction, autobiography and writing for performance, theatre and screen."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "This major requires the completion of:",
+            [
+                "25 credit points of Level 1 subjects, comprising of either:",
+                "\n\n12.5 credit points of Level 1 electives and 12.5 credit points of Arts Discovery (for a single major) OR 25 credit points of Level 1 electives (for a double major)\n",
+                "37.5 credit points of Level 2 electives",
+                "12.5 credit points of Level 3 Capstone Subjects",
+                "25 credit points of Level 3 electives"
+            ],
+            "12.5 credit points of Level 1 electivesand12.5 credit points of Arts Discovery (for a single major)",
+            "OR",
+            "25 credit points of Level 1 electives (for a double major)",
+            "*Notes:",
+            "Students must undertake the Arts Discovery subject as part of the course requirements and the Arts Discovery can be counted in one major only. For this major, you will need to complete two Level 1 subjects.",
+            "If you are completing a single major the correct enrolment for this major at level 1 is: The Arts Discovery subject and One Level 1 elective subject.",
+            "If you are completing a double major the correct enrolment for this major at level 1 is: The Arts Discovery subject and One Level 1 Elective subject OR Two Level 1 Elective subjects."
+        ],
+        "Links": [
+            "http://www.culture-communication.unimelb.edu.au/study/creative-writing"
+        ],
+        "Level 1 electives": [
+            {
+                "CWRI10001": "Creative Writing: Poetry and Fiction Credits",
+                "CWRI10003": "Creative Nonfiction & Multimodal Writing Credits"
+            }
+        ],
+        "Level 2 electives": [
+            {
+                "CWRI20002": "Short Fiction Credits",
+                "CWRI20005": "Creative Non Fiction Credits",
+                "CWRI20007": "Poetry Credits",
+                "CWRI20009": "Writing for Screen Credits",
+                "CWRI20010": "Scripts for Contemporary Theatre Credits",
+                "CWRI20012": "Writing Identity and Difference Credits"
+            }
+        ],
+        "Level 3 electives": [
+            {
+                "CWRI30001": "Novels Credits",
+                "CWRI30006": "Poetry and Poetics of Writing Back Credits",
+                "CWRI30013": "Life Writing Credits",
+                "CWRI30014": "Advanced Screenwriting Credits",
+                "CWRI30015": "Writing Videogames and Live Performance Credits"
+            }
+        ],
+        "Level 3 Capstone Subject": [
+            {
+                "CWRI30004": "Encounters with Writing Credits"
+            }
+        ]
+    }
+}

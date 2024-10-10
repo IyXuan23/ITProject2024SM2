@@ -1,0 +1,34 @@
+{
+    "major name": "Energy Systems",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "62.5 credit points",
+            "The Energy Systems specialisation is completed by undertaking at least four Year 3 Energy Systems electives (a minimum of 50 credit points).",
+            "Note:",
+            "Students entering the course with advanced standing who plan on completing a specialisation may need to enrol in core specialisation subjects in their commencing semester. Please check and follow the structure outlined for your intended specialisation and seek course planning advice.",
+            "To obtain a specialisation in Energy Systems, students must complete:",
+            [
+                "62.5 credit points of Year 3 Environmental Engineering and/or Specialisation electives includingA minimum of 50 credit points of Year 3 Energy Systems electives\n",
+                "A minimum of 50 credit points of Year 3 Energy Systems electives"
+            ],
+            [
+                "A minimum of 50 credit points of Year 3 Energy Systems electives"
+            ]
+        ],
+        "Subject Options": [
+            "Year 3 Energy Systems electives",
+            {
+                "ENEN90033": "Solar Energy Credits",
+                "ENEN90027": "Energy for Sustainable Development Credits",
+                "ENEN90011": "Energy Efficiency Technology Credits",
+                "ENEN90014": "Sustainable Buildings Credits",
+                "ENEN90006": "Solid Wastes to Sustainable Resources Credits"
+            },
+            "(Must be completed in Year 3 of the course)",
+            "Students may choose up to 12.5 points of subjects from the list of Environmental Engineering Electives or may choose to complete the fifth Energy Systems subject.",
+            "Refer to the Course Structure page for Environmental Engineering electives list."
+        ]
+    }
+}

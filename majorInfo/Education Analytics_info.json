@@ -1,0 +1,21 @@
+{
+    "major name": "Education Analytics",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points"
+        ],
+        "Notes": [],
+        "Specialisation Core": [
+            "25 points:",
+            {
+                "MAST90131": "Measurement Analytics Credits",
+                "COMP90076": "Social Analytics Credits"
+            }
+        ],
+        "Electives": [
+            "25 points: any two subjects chosen from the other specialisations"
+        ]
+    }
+}

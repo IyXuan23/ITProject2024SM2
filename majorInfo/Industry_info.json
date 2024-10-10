@@ -1,0 +1,29 @@
+{
+    "major name": "Industry",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "The Industry specialisation is completed by undertaking:",
+            [
+                "37.5 credit points of Year 3 specialisation compulsory subjects",
+                "12.5 credit points of Year 3 specialisation selectives"
+            ]
+        ],
+        "Subject options": [],
+        "Year 3 specialisation compulsory subjects": [
+            {
+                "ENGR90026": "Engineering Entrepreneurship Credits",
+                "ENGR90033": "Internship Credits"
+            }
+        ],
+        "Year 3 specialisation selectives": [
+            {
+                "BUSA90473": "Business Practicum Credits",
+                "BUSA90485": "Global Business Practicum Credits",
+                "MGMT90225": "Business Model Innovation Credits"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "major name": "Civil Engineering Systems",
+    "overview": [
+        "Students who have undertaken the Civil Engineering Systems major will be able to rigorously integrate fundamental science to provide accurate information and optimum solutions to practical problems involving civil infrastructure. More specifically, core skills and knowledge that will be developed include: fundamental scientific comprehension that will lead to accurate computer modelling of civil systems, analytical and abstract thinking, problem-solving and design skills, ability to carry out laboratory experiments to eliminate or confirm possible solutions to complex problems. In all levels of this major, we will ensure the development of excellent communication skills that will enable our graduates to deliver complex scientific information in a clear and concise fashion.",
+        "The Civil Engineering Systems major will provide various pathways for students. These include accredited professional or scientific research careers in civil engineering through further study in the Masters in Engineering (ME) or PhD programs. Professional masters courses in other disciplines such as education, law, or business will be available. Students may also choose to enter the workforce at the completion of their undergraduate degree with employers who value the range of scientific, technical and problem solving skills graduates will have developed."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "CVEN30008": "Engineering Risk Management Credits",
+                "CVEN30010": "Geotechnical Modelling and Design Credits",
+                "CVEN30009": "Structural Theory and Design Credits",
+                "ENGR30002": "Fluid Mechanics Credits"
+            }
+        ],
+        "Notes": [
+            "In addition to these four core subjects, students must complete either MAST20029 Engineering Mathematics OR both of MAST20009 Vector Calculus AND MAST20030 Differential Equations at Level 2."
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "major name": "EAL Teaching",
+    "overview": [
+        "The EAL Teaching specialisation is for qualified teachers seeking specialise in teaching English as an Additional Language (EAL) in schools. The specialisation consists of four subjects including a supervised placement. Applicants must ensure they are available for 22 days of supervised placement at a school or a similar setting during school hours."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "4 x specialisation core subjects (50 credit points)",
+            "Victorian Institute of Teaching (VIT) eligibility is required to obtain this specialisation, and is a pre-requisite for EDUC90050. Contact theVictorian Institute of Teaching (VIT)to determine eligibility if you do not already hold current registration."
+        ],
+        "Subject Options": [
+            {
+                "EDUC90587": "Grammar for Language Teachers Credits",
+                "EDUC90048": "Second Language Teaching Methodology Credits",
+                "EDUC90050": "Supervised Teaching (Second Language) Credits",
+                "EDUC90631": "Second Language Acquisition and Teaching Credits"
+            }
+        ]
+    }
+}

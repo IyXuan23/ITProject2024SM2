@@ -1,0 +1,64 @@
+{
+    "major name": "Earth Sciences",
+    "overview": [
+        "The Graduate Diploma in Science (Advanced) in Earth Sciences is a one-year program designed to extend students' knowledge and skills through a supervised research project together with advanced coursework in Earth Sciences.",
+        "This specialisation consists of advanced coursework subjects and a research project. The course can be completed full-time in one year (100 points) or part-time. The course consists of semester-long and/or short, intensive subjects, a literature review, and a minor thesis."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points"
+        ],
+        "Subject Options": [],
+        "Coursework Subjects": [
+            "Students will select 75 points from the following subjects:",
+            {
+                "ATOC90010": "Statistics in Climate Dynamics Credits",
+                "ATOC90011": "Convective Clouds and Storms Credits",
+                "ATOC90012": "Advanced Dynamical Meteorology Credits",
+                "ATOC90013": "Atmospheric Modelling Credits",
+                "COMP90059": "Introduction to Programming Credits",
+                "GEOL90005": "Hydrogeology/Environmental Geochemistry Credits",
+                "GEOL90027": "Advanced Structural Mapping Credits",
+                "GEOL90028": "Geochronology and Thermochronology Credits",
+                "GEOL90030": "Coastal Environmental Geomorphology Credits",
+                "GEOL90031": "Ore Reserve Estimation Credits",
+                "GEOL90032": "Introduction to Mineralogy Credits",
+                "GEOL90033": "Mine Safety and Engineering Credits",
+                "GEOL90034": "Practical Igneous Petrology Credits",
+                "ERTH90033": "Geology from Geophysics Credits",
+                "GEOL90043": "Fundamentals of Geological CO2 Storage Credits",
+                "GEOL90044": "Ore Deposit Models Credits",
+                "GEOL90045": "Exploration Field Skills Credits",
+                "GEOL90046": "Environmental Geology Field Techniques Credits",
+                "GEOM90044": "Geographic Information Systems Credits",
+                "ERTH90034": "Advanced Hydrogeology Credits",
+                "GEOL90051": "Basin Structure and Stratigraphy Credits",
+                "GEOL90052": "Precious Metal and Magmatic Ore Deposits Credits",
+                "GEOM90005": "Remote Sensing Credits",
+                "GEOM90008": "Spatial Data Management Credits",
+                "ERTH90062": "Introduction to Archaeological Science Credits",
+                "ERTH90063": "Seminar in Archaeological Science Credits"
+            }
+        ],
+        "Research Project": [
+            "Students must complete a total of 25 pts of a Research Project subject by enrolling in the following subject:",
+            {
+                "ERTH90061": "Earth Science Research Project 25 Credits"
+            }
+        ],
+        "Notes": [
+            "This program has a start-year and a mid-year intake."
+        ],
+        "Links": [
+            "http://graduate.science.unimelb.edu.au"
+        ],
+        "Coursework and Research project (100 pts)": [
+            "Students must complete both:",
+            [
+                "75 points advanced coursework",
+                "25 points research project"
+            ]
+        ]
+    }
+}

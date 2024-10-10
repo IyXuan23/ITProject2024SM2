@@ -1,0 +1,27 @@
+{
+    "major name": "Neuroscience",
+    "overview": [
+        "It is expected that students completing this Major will understand the fundamental organisational and functional principles of the nervous system: from the biology of nerve cells and neural circuits through to neural systems and ultimately to complex behaviours like thought and emotion. From the two core subjects students will gain an overview of the breath of modern neuroscience to see how a spectrum of science disciplines (such as Cell and Molecular Biology, Pharmacology, Physiology, Zoology and Anatomy) contribute to our understanding of nervous system function. This will also reveal how Neuroscience overlaps with related areas of study, such as Cognitive Science, Psychology and Medicine. Areas of study include how perceptual and motor systems are organised, the crucial role of the nervous system in the regulation of the internal environment of the body, how the nervous system develops, how it has evolved, and the effects of injury, disease and abuse."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "NEUR30003": "Principles of Neuroscience Credits",
+                "NEUR30002": "Neurophysiology: Neurons and Circuits Credits"
+            },
+            "AND",
+            {
+                "BCMB30004": "Cell Signalling and Neurochemistry Credits",
+                "BIOM30003": "Biomedical Science Research Project Credits",
+                "NEUR30004": "Complex Functions in Neuroscience Credits",
+                "NEUR30005": "Developmental Neurobiology Credits",
+                "NEUR30006": "Real and Artificial Neural Networks Credits",
+                "NEUR30007": "Auditory Neuroscience Credits",
+                "OPTO30007": "Visual Neuroscience Credits",
+                "PHRM30002": "Drugs Affecting the Nervous System Credits"
+            }
+        ]
+    }
+}

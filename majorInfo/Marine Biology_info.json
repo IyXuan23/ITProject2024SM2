@@ -1,0 +1,26 @@
+{
+    "major name": "Marine Biology",
+    "overview": [
+        "A marine biology major will provide the springboard for students entering careers or research in the following areas: marine ecology, fisheries, commercial aquaculture, marine environmental monitoring and assessment, marine science education and tourism. Graduates will be prepared for these pathways by developing specialised knowledge about marine biological systems, as well as practical experience, which are crucial to being prepared to make contributions in laboratories, or in consulting roles in the marine environmental industry.",
+        "This major will integrate knowledge from a range of disciplines from the biological (botany, zoology) to physical sciences (chemistry, geography, oceanography), by enabling students to complete a sequence of specialist subjects in each, as well as integrated subjects in which the students develop an understanding of the application of ecological principles and environmental management strategies to solving current problems in marine biology. Students will gain relevant workplace training by participating in field-based and group-based research projects."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "ECOL30007": "Marine Biodiversity and Biogeography Credits",
+                "ZOOL30008": "Experimental Marine Biology Credits",
+                "BIOL30011": "Applied Marine Biology Credits"
+            },
+            "AND",
+            {
+                "CHEM30012": "Analytical & Environmental Chemistry Credits",
+                "ECOL30005": "Applied Ecology Credits",
+                "ECOL30006": "Ecology in Changing Environments Credits",
+                "GEOG30001": "Geomorphology: Catchment to Coast Credits",
+                "GEOM30009": "Imaging the Environment Credits"
+            }
+        ]
+    }
+}

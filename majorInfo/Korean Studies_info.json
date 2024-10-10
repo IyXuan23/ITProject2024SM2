@@ -1,0 +1,46 @@
+{
+    "major name": "Korean Studies",
+    "overview": [
+        "The Korean Studies major is designed to build students\u2019 knowledge and skills in understanding and analysing the Korean language, contemporary Korean history, politics, and society as well as two Koreas in a global context. Korean language subjects are organised in a progressive sequence from Korean 1 to Korean 6. This major is designed to develop communication skills in Korean by maximising linguistic and cultural knowledge. Non-language elective subjects cover topics such as modern Korean history, Cold-War politics, North Korea and regional security, economic development, social issues, gender studies, migration, and popular culture to broaden students' understanding of Korean society and Korea in a global context. Additionally, the Capstone subject will provide students with real-life opportunities to publish for the international media and collaborate with businesses, governments or the Korean Studies Research Hub, for example through internships. The Korean Studies major provides excellent preparation for students to enter foreign service, public international relations, business and trade, media and cultural industries."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points"
+        ],
+        "Entry Point information": [
+            "Students will have their appropriate entry point determined by the Korean Studies program, based on evidence of prior learning and/or results of a placement test as required. Please refer to the following link for further information:",
+            "https://arts.unimelb.edu.au/asia-institute/current-students/placement-tests",
+            "The entry point for this major is",
+            [
+                "Korean Studies entry point 1: Students who have never studied Korean before or have only rudimentary knowledge of the language usually enter the progression at Korean 1"
+            ],
+            "This major requires the completion of:"
+        ],
+        "Korean Studies Entry Point 1": [],
+        "Level 1 core subjects": [
+            {
+                "KORE10001": "Korean 1 Credits",
+                "KORE10002": "Korean 2 Credits"
+            }
+        ],
+        "Level 2 core subjects": [
+            {
+                "KORE20002": "Contemporary Korea Credits",
+                "KORE20003": "Korean 3 Credits",
+                "KORE20004": "Korean 4 Credits"
+            }
+        ],
+        "Level 3 core subjects": [
+            {
+                "KORE30003": "Korean 5 Credits",
+                "KORE30004": "Korean 6 Credits"
+            }
+        ],
+        "Level 3 Capstone subject": [
+            {
+                "KORE30001": "Korean Politics and Society Credits"
+            }
+        ]
+    }
+}

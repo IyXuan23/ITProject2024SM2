@@ -1,0 +1,20 @@
+{
+    "major name": "Urban Analytics",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points"
+        ],
+        "Specialisation Core": [
+            "25 points:",
+            {
+                "ABPL90407": "Representing Spatial Information Credits",
+                "ABPL90408": "Spatial Analytics Credits"
+            }
+        ],
+        "Electives": [
+            "25 points: any two subjects chosen from the other specialisations"
+        ]
+    }
+}

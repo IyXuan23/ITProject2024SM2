@@ -1,0 +1,39 @@
+{
+    "major name": "Singer",
+    "overview": [
+        "Graduates will have achieved a professional level standard in vocal performance or repetiteur skills capable of meeting global demands.",
+        "For singers, this will include skills in acting, movement and other stagecraft skills as well as the lyric diction skills required for professional opera singing. Students are taught to realise feeling through not only the voice but subtle stage action.",
+        "Last updated: 1 June 2024"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points"
+        ],
+        "Year 1": [
+            {
+                "MUSI90183": "Acting for Opera Performance 1 Credits"
+            },
+            "PLUS",
+            "Students select one of:",
+            {
+                "MUSI90235": "Practice-Led Music Research Methods Credits",
+                "MUSI90239": "Lyric Diction for Opera Credits"
+            },
+            "OR an elective selected from the Melbourne Conservatorium of Music."
+        ],
+        "Year 2": [
+            {
+                "MUSI90237": "Major Role Preparation Credits"
+            },
+            "PLUS",
+            "Students select one of:",
+            {
+                "MUSI90236": "Research Project In Opera Credits",
+                "MUSI90242": "Opera Global Atelier Credits",
+                "MUSI90243": "Opera Atelier Credits"
+            },
+            "OR an elective selected from the Melbourne Conservatorium of Music."
+        ]
+    }
+}

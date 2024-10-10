@@ -1,0 +1,47 @@
+{
+    "major name": "Performance Design",
+    "overview": [
+        "A central player in the act of creating a performance is the designer. Whether it is in the role of set designer, costume designer, lighting designer or sound designer, they play a pivotal and collaborative part in the conception and realisation of a performancePerformance designers use as their raw materials some or all of the following \u2013 the human figure, space, light and sound. As a student you will learn to manipulate these materials and explore their relationship to each other through studio-based classes along side a comprehensive study of the theory, history and practice of performance designYou will develop the conceptual and technical skills required to respond to a design brief and effectively represent and communicate your ideas, culminating in a major design project in third year.",
+        "Upon completion of the Bachelor of Design with a major in Performance Design, students will have the option of either finding employment or applying to continue into the Master of Design for Performance, or the Master of Production Design for Screen."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "To obtain a major in Performance Design students need to complete:",
+            [
+                "50 credit points of Performance Design capstone subjects"
+            ]
+        ],
+        "Notes": [
+            "To view a sample course plan please visithttp://edsc.unimelb.edu.au/undergraduate/course-planning/bdes/performance-design"
+        ],
+        "Non-allowed breadth": [
+            "Students undertaking the Performance Design major are not permitted to take as breadth:",
+            {
+                "ABPL20028": "Architecture Design Studio: Water Credits",
+                "ABPL30037": "Architecture Design Studio: Fire Credits",
+                "ABPL30048": "Architecture Design Studio: Air Credits",
+                "COMP30019": "Graphics and Interaction Credits",
+                "FINA20033": "Introduction to Printmaking Processes Credits",
+                "FINA20026": "Painting Techniques Credits",
+                "FINA20035": "Drawing with Anatomy Credits",
+                "FLTV10021": "Interactive Art Media 1 Credits",
+                "SCRN30005": "The Environmental Screenscape Credits",
+                "THTR20042": "Puppets as Storytellers Credits",
+                "THTR20043": "Design and the Moving Image Credits",
+                "THTR30039": "Understanding Masks Credits",
+                "GDES10001": "Graphic Design Studio 1: Image & Text Credits",
+                "GDES20001": "Graphic Design Studio 2: Image & Media Credits",
+                "GDES20002": "Colour Studio Credits"
+            }
+        ],
+        "Performance Design capstone subjects": [
+            {
+                "FINA30023": "Space in Performance Credits",
+                "FINA30022": "Space Studio Credits",
+                "FINA30024": "Performance Design Studio Credits"
+            }
+        ]
+    }
+}

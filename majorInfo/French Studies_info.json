@@ -1,0 +1,206 @@
+{
+    "major name": "French Studies",
+    "overview": [
+        "French is one of the world's major international languages: it is spoken by over 200 million people in 43 countries, on five continents. Knowledge of French may increase access to careers in international relations, development studies, business, science and the arts.",
+        "The overall objective of the French Studies program is to teach students to process information from a wide variety of materials in French, both written and spoken, and to produce accounts and discussions of that information in a variety of forms. In subjects at all levels, you will be guided towards undertaking independent research projects into areas including language, literature, politics, cinema, theatre, travel writing, food and wine, immigration and identity.",
+        "The core subjects in French are organised in a progressive sequence from French 1 through to French 7. Entry and exit points are determined by the French Studies program based on the student\u2019s background in the language, placement testing or prerequisites. Students normally progress through the subjects in consecutive order. Mid-year entry is also possible into subjects with even numbers, subject to appropriate prior experience and approval from the head of the French program. Accelerated progression is possible on advice from the French Program."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "Students will have their appropriate entry point determined by the French Studies program, based on evidence of prior learning and/or results of a placement test as required. Please refer to the following link for further information:",
+            "Link",
+            "The entry points for this major are:",
+            [
+                "Entry at French 1 is for students who have little or no background in the French language. Students commencing their study of French at this level range from absolute beginners to students who have completed up to two years of French study at secondary level (not including VCE or equivalent).",
+                "Entry at French 3 is for students who have completed more than two years of French study at secondary level, including those who have achieved a VCE French study score of up to 31 (up to 4 in IB French), or equivalent.",
+                "Entry at French 5 is for students who have achieved a VCE French study score of between 32 and 41 (5 to 6 in IB French), or equivalent.",
+                "Entry at French 7 is for students who have achieved a VCE French study score of 42 or above (7 in IB French), or equivalent."
+            ],
+            "This major requires the completion of either:"
+        ],
+        "Links": [
+            "http://languages-linguistics.unimelb.edu.au"
+        ],
+        "Entry Point 1": [
+            [
+                "25 credit points of EP1 Level 1 Core subjects",
+                "25 credit points of EP1 Level 2 Core subjects and 12.5 credit points of Level 2 French elective*",
+                "12.5 credit points of EP1 Level 3 Capstone subject and 25 credit points of EP1 Level 3 Core subjects"
+            ],
+            "25 credit points of EP1 Level 2 Core subjectsand12.5 credit points of Level 2 French elective*",
+            "12.5 credit points of EP1 Level 3 Capstone subjectand25 credit points of EP1 Level 3 Core subjects"
+        ],
+        "Entry Point 3": [
+            [
+                "25 credit points of EP3 Level 1 Core subjects",
+                "25 credit points of EP3 Level 2 Core subjects and 12.5 credit points of Level 2 French elective*",
+                "12.5 credit points of EP3 Level 3 Capstone subject and 12.5 credit points of EP3 Level 3 Core subjects and 12.5 credit points of Level 3 French elective*"
+            ],
+            "25 credit points of EP3 Level 2 Core subjectsand12.5 credit points of Level 2 French elective*",
+            "12.5 credit points of EP3 Level 3 Capstone subjectand12.5 credit points of EP3 Level 3 Core subjectsand12.5 credit points of Level 3 French elective*"
+        ],
+        "Entry Point 5": [
+            [
+                "25 credit points of EP5 Level 1 Core subjects",
+                "25 credit points of EP5 Level 2 Core subjects and 12.5 credit points of Level 2 French elective*",
+                "12.5 credit points of EP 5 Level 3 Capstone subject and 25 credit points of Level 3 French elective*"
+            ],
+            "25 credit points of EP5 Level 2 Core subjectsand12.5 credit points of Level 2 French elective*",
+            "12.5 credit points of EP 5 Level 3 Capstone subjectand25 credit points of Level 3 French elective*"
+        ],
+        "Entry Point 7": [
+            [
+                "25 credit points of EP7 Level 1 Core subjects",
+                "37.5 credit points of Level 2 French electives*",
+                "12.5 credit points of EP 7 Level 3 Capstone subject and 25 credit points of Level 3 French electives*"
+            ],
+            "12.5 credit points of EP 7 Level 3 Capstone subjectand25 credit points of Level 3 French electives*"
+        ],
+        "Note:": [
+            "* Students completing a French major from any Entry Point may choose one subject from the Other electives list instead of a French Studies elective at either second or third-year level."
+        ],
+        "Subject Options": [],
+        "French Studies Entry Point 1": [],
+        "French Studies Entry Point 3": [],
+        "French Studies Entry Point 5": [],
+        "French Studies Entry Point 7": [],
+        "Electives for all Entry Points": [],
+        "Level 1 Core subjects - Entry Point 1": [
+            {
+                "FREN10004": "French 1 Credits",
+                "FREN10005": "French 2 Credits"
+            }
+        ],
+        "Level 2 Core subjects - Entry Point 1": [
+            {
+                "FREN20015": "French 3 Credits",
+                "FREN20017": "French 4 Credits",
+                "FREN20018": "Intensive French 3 and 4 Credits"
+            }
+        ],
+        "Level 3 Core subjects - Entry Point 1": [
+            {
+                "FREN30003": "French 5 Credits",
+                "FREN30004": "French 6 Credits"
+            }
+        ],
+        "Level 3 Capstone - Entry Point 1": [
+            {
+                "FREN30023": "Global French Studies Credits"
+            }
+        ],
+        "Level 1 Core subjects - Entry Point 3": [
+            {
+                "FREN10001": "French 3 Credits",
+                "FREN10003": "French 4 Credits"
+            }
+        ],
+        "Level 2 Core subjects - Entry Point 3": [
+            {
+                "FREN20001": "French 5 Credits",
+                "FREN20002": "French 6 Credits"
+            }
+        ],
+        "Level 3 Core subjects - Entry Point 3": [
+            {
+                "FREN30001": "French 7 Credits"
+            }
+        ],
+        "Level 3 Capstone subject - Entry Point 3": [
+            {
+                "FREN30024": "Global French Studies (Advanced) Credits"
+            }
+        ],
+        "Level 1 Core subjects - Entry Point 5": [
+            {
+                "FREN10006": "French 5 Credits",
+                "FREN10007": "French 6 Credits"
+            }
+        ],
+        "Level 2 Core subjects - Entry Point 5": [
+            {
+                "FREN20019": "French 7 Credits",
+                "FREN20023": "French 8 Credits"
+            }
+        ],
+        "Level 3 Capstone subject - Entry Point 5": [
+            {
+                "FREN30024": "Global French Studies (Advanced) Credits"
+            }
+        ],
+        "Level 1 Core subjects - Entry Point 7": [
+            {
+                "FREN10008": "French 7 Credits",
+                "FREN10009": "French 8 Credits"
+            }
+        ],
+        "Level 3 Capstone subject - Entry Point 7": [
+            {
+                "FREN30024": "Global French Studies (Advanced) Credits"
+            }
+        ],
+        "Level 2 French Electives": [
+            {
+                "FREN20003": "Romanticism to Decadence: French Novels Credits",
+                "FREN20011": "French Cinema: The New Wave and Beyond Credits",
+                "FREN20013": "Matters of Taste: French Eating Cultures Credits",
+                "FREN20020": "In the Heart of the Loire Valley Credits",
+                "FREN20021": "The French Pacific in a Global Context Credits",
+                "FREN20022": "From Page to Stage: French Theatre Credits",
+                "FREN20007": "Immigration and Identity Credits",
+                "FREN20004": "French Translation Credits",
+                "FREN20012": "French Travel Writing Credits",
+                "FREN20010": "The Rise of the Novel Credits",
+                "FREN20016": "French and Francophone Cultural Studies Credits",
+                "FREN20024": "The French Media: From Ink to Link Credits",
+                "FREN20025": "Global Francophone Cities Credits"
+            }
+        ],
+        "Level 2 Other electives": [
+            {
+                "EURO20001": "Language and Society in Europe Credits",
+                "EURO20002": "European Modernism Credits",
+                "EURO20003": "Memory & Memoirs of 20th Century Europe Credits",
+                "EURO20005": "Screening Europe: Image and Identity Credits",
+                "EURO20006": "Europe and its Others Credits",
+                "EURO20007": "A Taste of Europe: Melbourne Intensive Credits",
+                "EURO20009": "Wines of the World Credits"
+            }
+        ],
+        "Level 3 French Electives": [
+            {
+                "FREN30013": "French Cinema: The New Wave and Beyond Credits",
+                "FREN30015": "Matters of Taste: French Eating Cultures Credits",
+                "FREN30018": "In the Heart of the Loire Valley Credits",
+                "FREN30019": "The French Pacific in a Global Context Credits",
+                "FREN30020": "From Page to Stage: French Theatre Credits",
+                "FREN30014": "French Travel Writing Credits",
+                "FREN30006": "French Translation Credits",
+                "FREN30005": "Romanticism to Decadence: French Novels Credits",
+                "FREN30012": "The Rise of the Novel Credits",
+                "FREN30017": "Immigration and Identity Credits",
+                "FREN30021": "French and Francophone Cultural Studies Credits",
+                "FREN30025": "The French Media: From Ink to Link Credits",
+                "FREN30026": "Global Francophone Cities Credits",
+                "FREN30022": "French 8 Credits"
+            }
+        ],
+        "Level 3 Other electives": [
+            {
+                "EURO30002": "Memory & Memoirs of 20th Century Europe Credits",
+                "EURO30001": "Language and Society in Europe Credits",
+                "EURO30003": "European Modernism Credits",
+                "EURO30004": "Screening Europe: Image and Identity Credits",
+                "EURO30005": "Europe and its Others Credits",
+                "EURO30006": "A Taste of Europe: Melbourne Intensive Credits",
+                "EURO30008": "Wines of the World Credits",
+                "LANG30001": "Languages at Work Credits",
+                "LING30015": "Corpus Linguistics Credits"
+            },
+            "Note : Students completing a French major from any Entry Point may choose one subject from the  Other elective list instead of a French Studies elective at either second or third-year level.",
+            "FREN30022 French 8 is only available as an elective to students in Entry Point 3."
+        ]
+    }
+}

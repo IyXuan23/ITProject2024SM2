@@ -1,0 +1,25 @@
+{
+    "major name": "Periodontics",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "225 credit points",
+            "225 points of core subjects"
+        ],
+        "Subject Options": [
+            "Year 1:",
+            {
+                "DENT90099": "Periodontics 1 Credits"
+            },
+            "Year 2:",
+            {
+                "DENT90100": "Periodontics 2 Credits"
+            },
+            "Year 3:",
+            {
+                "DENT90101": "Periodontics 3 Credits"
+            }
+        ]
+    }
+}

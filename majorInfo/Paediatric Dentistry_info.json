@@ -1,0 +1,25 @@
+{
+    "major name": "Paediatric Dentistry",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "225 credit points",
+            "225 points of core subjects"
+        ],
+        "Subject Options": [
+            "Year 1:",
+            {
+                "DENT90096": "Paediatric Dentistry 1 Credits"
+            },
+            "Year 2:",
+            {
+                "DENT90097": "Paediatric Dentistry 2 Credits"
+            },
+            "Year 3:",
+            {
+                "DENT90098": "Paediatric Dentistry 3 Credits"
+            }
+        ]
+    }
+}

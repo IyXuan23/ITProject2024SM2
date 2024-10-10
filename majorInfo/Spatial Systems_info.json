@@ -1,0 +1,105 @@
+{
+    "major name": "Spatial Systems",
+    "overview": [
+        "Spatial Systems is the study of the science and technologies of 3D measurement, mapping and visualisation. This major provides the opportunity to acquire skills in modern, sophisticated technologies such as global positioning system (GPS), three dimensional computer visualisations, geographic information systems (GIS), surveying, and satellite and photographic image processing.",
+        "Careers and Further Study",
+        "Students pursuing a career in Spatial Systems will complete the Bachelor of Environments with a major in Spatial Systems, followed by the two-year Master of Engineering (Geomatics). The five-year Bachelor-Master combination leads to professional accreditation by Engineers Australia and the Institution of Surveyors, Australia. For more information on the Masters of Engineering and graduate careers, please visit the Melbourne School of Engineering web site:http://eng.unimelb.edu.au"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "150 credit points",
+            "100 points of Spatial Systems subjects."
+        ],
+        "Subject Options": [
+            "The following description of the Spatial Systems major aligns with the Study Plan Structure viewable on the Portal for students who commenced the Bachelor of Environments in 2015 or later.",
+            "The components within the structure of this major have been designed to enforce the requirements of both this specific major and of the course overall, e.g. the requirement that at least 62.5 points of Environments discipline subjects (which can include subjects taken within the major) are taken at each of Level 2 and Level 3.",
+            {
+                "here": " Credits"
+            }
+        ],
+        "Level 1 Environments & Enabling Electives (12.5 - 25 points)": [
+            "Mathematics Background",
+            "The mathematics pre-requisite of the spatial systems major should be covered \u2013 in spirit and practice \u2013 as enabling subjects (calculus 1 or calculus 2, depending on the candidate\u2019s school math, and Linear Algebra)",
+            "In order to complete this major, enrol into the subjects below in your first year, based on your mathematics background:",
+            [
+                "\nVCE Mathematical Methods Units 1 and 2 only: Enrol in MAST10012 Introduction to Mathematics, followed by MAST10005 Calculus 1"
+            ],
+            [
+                "\nVCE Mathematical Methods Units 3 and 4 with a study score of 25 or more: Enrol in MAST10005 Calculus 1"
+            ],
+            [
+                "\nVCE Specialist Maths Units 3 and 4 with a study score of 30 or more: Enrol in MAST10006 Calculus 2"
+            ],
+            "This requirement may be taken as breadth.",
+            {
+                "MAST10005": "Calculus 1 Credits",
+                "MAST10006": "Calculus 2 Credits",
+                "MAST10007": "Linear Algebra Credits"
+            },
+            "IMPORTANT:",
+            "1. Students who completed VCE Mathematical Methods Units 1 and 2 only: Enrol in MAST10012 Introduction to Mathematics, followed by MAST10005 Calculus 1. This requirement may be taken as breadth",
+            "2. ENVS10005 Governing Environments and ENVS10006 Mapping Environments are recommended to be taken as Environments Electives."
+        ],
+        "Spatial Systems major - core subjects (100 points)": [
+            {
+                "GEOM20013": "Applying Digital Infrastructure Credits",
+                "GEOM20015": "Sensing and Measurement Credits",
+                "COMP20005": "Intro. to Numerical Computation in C Credits",
+                "INFO20003": "Database Systems Credits",
+                "GEOM30009": "Imaging the Environment Credits",
+                "GEOM30012": "Digital Infrastructure Systems Capstone Credits",
+                "GEOM30013": "Land Administration Systems Credits",
+                "CVEN30008": "Engineering Risk Management Credits"
+            }
+        ],
+        "Environments Discipline subjects (37.5 points)": [
+            "Choose the total of",
+            [
+                "1. 37.5 points of Environments Discipline subjects"
+            ],
+            "RULES:",
+            "Please note these rules when choosing the Environments Discipline subjects below",
+            [
+                "1. Must complete 12.5 points level 2 subjects",
+                "2. Must complete 12.5 points level 3 subjects"
+            ],
+            {
+                "Environments Discipline subjects": " Credits"
+            }
+        ],
+        "Breadth subjects and restrictions for Spatial Systems major students": [
+            {
+                "Restrictions for Breadth Options": " Credits"
+            },
+            "Students undertaking the Geomatics major are not permitted to take as breadth:",
+            [
+                "any Civil Engineering subjects (subject codes beginning CVEN)"
+            ],
+            [
+                "any Computer Science subjects (subject codes beginning COMP)"
+            ],
+            [
+                "any Engineering subjects (subject codes beginning ENGR)"
+            ],
+            [
+                "any Geomatics subjects (subject codes beginning GEOM)"
+            ],
+            [
+                "any Informatics subjects (subject codes beginning INFO)"
+            ],
+            [
+                "any Mathematics and Statistics subjects (subject codes beginning MAST) - with the exception of MAST10006 Calculus 2 and MAST10007 Linear Algebra (and any required prerequisites for these subjects such as MAST10005 Calculus 1 and MAST10012 Introduction to Mathematics)"
+            ],
+            [
+                "any Physics subjects (subject codes beginning PHYC)"
+            ],
+            [
+                "any Science Informatics subjects (subject codes beginning SINF)"
+            ]
+        ],
+        "Notes": [
+            "For more information on this major and to view a sample course plan please visit:http://edsc.unimelb.edu.au/sample-course-plans-bachelor-environments"
+        ]
+    }
+}

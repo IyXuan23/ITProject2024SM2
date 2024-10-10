@@ -1,0 +1,57 @@
+{
+    "major name": "Standard Mode",
+    "overview": [
+        "The Standard Mode of the Master of Teaching (Early Childhood) is for Teacher Candidates wishing to complete the course with a standard full time study load over two years.",
+        "Last updated: 16 April 2024"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "200 credit points",
+            "The Standard Mode of the Master of Teaching (Early Childhood) is completed over 2 years.",
+            "Subject sequencing for the Standard Mode is detailed below. Overall course rules can be found on the Course Structure page for the Master of Teaching (Early Childhood):",
+            "https://handbook.unimelb.edu.au/courses/mc-teachec/course-structure"
+        ],
+        "Subject Options": [
+            "FIRST YEAR SUBJECTS (STANDARD MODE)",
+            "Subjects undertaken in the first semester of the program",
+            "Total credit point load this semester: 50",
+            {
+                "EDUC91048": "Engaging and Assessing Learners (EC) 1 Credits",
+                "EDUC91047": "First Nations in Education Credits",
+                "EDUC91049": "Language, Literacy & Play-based Learning Credits",
+                "EDUC91050": "Children, Childhood and Families Credits"
+            },
+            "Subjects undertaken in second semester of the program",
+            "Total credit point load this semester: 50",
+            {
+                "EDUC91051": "Engaging and Assessing Learners (EC) 2 Credits",
+                "EDUC91052": "Becoming Numerate in the Early Years Credits",
+                "EDUC91053": "Diversity and Inclusion Credits",
+                "EDUC91054": "The Arts, Play and Young Children Credits"
+            },
+            "SECOND YEAR SUBJECTS (STANDARD MODE)",
+            "Subjects undertaken in third semester of the program",
+            "Total credit point load this semester: 50",
+            [
+                "Note \u2018EDUC91152 Professional Learning Capstone (MTeach)\u2019 is a Year Long subject, taken over the third and fourth semesters. The credit point load for the subject is calculated as 12.5 points each semester."
+            ],
+            {
+                "EDUC91055": "Engaging and Assessing Learners (EC) 3 Credits",
+                "EDUC91056": "Social and Emotional Wellbeing Credits",
+                "EDUC91057": "Early Childhood Multimodal Literacies Credits",
+                "EDUC91152": "Professional Learning Capstone (MTeach) Credits"
+            },
+            "Subjects undertaken in fourth semester of the program",
+            "Total credit point load this semester: 50",
+            [
+                "Continue the Year Long \u2018EDUC91152 Professional Learning Capstone (MTeach)\u2019, and take:"
+            ],
+            {
+                "EDUC91059": "Leadership, Ethics and Advocacy (EC) Credits",
+                "EDUC91060": "Inquiry and Project Learning Credits",
+                "EDUC91061": "STEM Learning in the Early Years Credits"
+            }
+        ]
+    }
+}

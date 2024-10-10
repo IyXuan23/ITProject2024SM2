@@ -1,0 +1,102 @@
+{
+    "major name": "Waste Management",
+    "overview": [
+        "Waste Management is offered as a major field of study in the Master of Environment degree.",
+        "Waste is more than just what people throw in the bin. There are air-borne emissions, liquid wastes that impact on water supplies as well as the complex waste streams produced by industry that can have toxic impacts on the environment.",
+        "Waste Management is concerned with the management of various waste streams. We study waste avoidance and minimisation, best environmental practice and provide the tools for sound decision making at the design and implementation phases of waste management projects.",
+        "By studying Waste Management, you'll develop theoretical and practical skills for working in environmental control authorities, industry and elsewhere. If you are a student with an undergraduate degree in another discipline, gain investigative and management skills as part of an engineering education.",
+        "You can expect to find employment in environmental control authorities, urban and industrial workplaces, local government, education, or as a consultant."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "Students will be required to complete the two core subjects, plus choose three subjects from the compulsory specialisation subject list. Students in the 200 point pathway must take at least 12.5 points of subjects from the compulsory capstone subjects \u2013 these subjects enable students to complete an independent project in the area of waste management. Students in the 100 point pathway will not normally be required to complete this component. Students must also undertake electives to make up the balance of the award. The selection of electives is made in consultation with the Waste Management major coordinator. More information about this stream can be found here:",
+            "http://environment.unimelb.edu.au/study/specialisations/waste-management"
+        ],
+        "Subject Options": [],
+        "Core Subjects": [
+            "Students must complete the following core subjects:",
+            {
+                "MULT90004": "Environmental Sustainability Credits",
+                "MULT90005": "Partnerships for Sustainable Futures Credits"
+            }
+        ],
+        "Compulsory Specialisation": [
+            "Students must complete at least three of the following compulsory specialisation subjects:",
+            {
+                "ENEN90005": "Environmental Management ISO 14000 Credits",
+                "ENEN90006": "Solid Wastes to Sustainable Resources Credits",
+                "ENEN90029": "Water and Waste Water Management Credits",
+                "ENEN90031": "Quantitative Environmental Modelling Credits",
+                "ENEN90032": "Environmental Analysis Tools Credits"
+            }
+        ],
+        "Compulsory Capstone Experience": [
+            "Students must complete at least 12.5 points from the following compulsory capstone subjects - please note that if you select either a 25 or 50 point research project that spreads across two semesters you must enrol into the Part 1 and Part 2 subjects over consecutive semesters. Students completing the 100 point pathway will normally be exempt from this requirement.",
+            {
+                "ENST90006": "Environmental Research Review (12.5) Credits",
+                "ENST90007": "Environmental Research Project (25) Credits",
+                "ENST90016": "Environmental Research Project (50) Credits",
+                "ENST90025": "Environmental Industry Research (25) Credits",
+                "ENST90020": "Environmental Industry Research (50) Credits",
+                "DEVT90002": "Internship in Development Credits",
+                "NRMT90003": "Social Research Methods Credits",
+                "DEVT90008": "International Internship in Development Credits",
+                "GEOG90022": "International Internship in Environment Credits",
+                "AGRI90076": "Industry Internship Credits",
+                "ENST90035": "Environmental Research Project - 25 Pt1 Credits",
+                "ENST90036": "Environmental Research Project - 25 Pt2 Credits",
+                "ENST90037": "Environmental Research Project - 50 Pt1 Credits",
+                "ENST90038": "Environmental Research Project - 50 Pt2 Credits",
+                "ENST90039": "Environmental Industry Research - 25 Pt1 Credits",
+                "ENST90040": "Environmental Industry Research - 25 Pt2 Credits",
+                "ENST90041": "Environmental Industry Research - 50 Pt1 Credits",
+                "ENST90042": "Environmental Industry Research - 50 Pt2 Credits"
+            }
+        ],
+        "Elective Subjects": [
+            "Students should make up the balance of the award with electives. Subjects in the list below are recommended. Other subjects may be taken with the approval of stream coordinator.",
+            {
+                "CHEM90007": "Environmental Chemistry Credits",
+                "ECON90016": "Environmental Economics and Strategy Credits",
+                "ENEN90028": "Monitoring Environmental Impacts Credits",
+                "ENST90002": "Social Impact Assessment and Evaluation Credits",
+                "ENST90017": "Environmental Policy Instruments Credits",
+                "EVSC90014": "Environmental Risk Assessment Credits",
+                "EVSC90015": "Environmental Impact Assessment Credits",
+                "FRST90034": "Ecological Restoration Credits",
+                "GEOL90005": "Hydrogeology/Environmental Geochemistry Credits",
+                "LAWS70068": "Environmental Law Credits",
+                "MAST90007": "Statistics for Research Workers Credits",
+                "POPH90014": "Epidemiology 1 Credits",
+                "EVSC90025": "Water Sensitive Urban Design Credits",
+                "GEOG90020": "Participatory Risk Management Credits",
+                "ABPL90009": "Participation and Negotiation Credits",
+                "MGMT90031": "Project Management Credits",
+                "POPH90230": "Planetary and Global Health Credits",
+                "ENST90032": "Sustainability and Behaviour Change Credits",
+                "ENEN90005": "Environmental Management ISO 14000 Credits",
+                "ENEN90006": "Solid Wastes to Sustainable Resources Credits",
+                "ENEN90029": "Water and Waste Water Management Credits",
+                "ENEN90031": "Quantitative Environmental Modelling Credits",
+                "ENEN90032": "Environmental Analysis Tools Credits",
+                "ENST70001": "Environmental Research Proj (50 Long) Credits",
+                "ENST70002": "Environmental Industry Research: 50 Long Credits",
+                "ENST90006": "Environmental Research Review (12.5) Credits",
+                "ENST90007": "Environmental Research Project (25) Credits",
+                "ENST90016": "Environmental Research Project (50) Credits",
+                "ENST90020": "Environmental Industry Research (50) Credits",
+                "ENST90024": "Environmental Research Project - 25 Long Credits",
+                "ENST90025": "Environmental Industry Research (25) Credits",
+                "ENST90026": "Environmental Industry Research: 25 Long Credits",
+                "NRMT90003": "Social Research Methods Credits",
+                "DEVT90002": "Internship in Development Credits",
+                "DEVT90008": "International Internship in Development Credits",
+                "GEOG90022": "International Internship in Environment Credits",
+                "AGRI90076": "Industry Internship Credits",
+                "LING90002": "Presenting Academic Discourse Credits",
+                "SCIE90017": "Science and Technology Internship Credits"
+            }
+        ]
+    }
+}

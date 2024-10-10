@@ -1,0 +1,103 @@
+{
+    "major name": "Urban Design and Planning",
+    "overview": [
+        "THE COURSE STRUCTURE BELOW ONLY APPLIES TO RE-ENROLLING STUDENTS WHO COMMENCED THEIR STUDIES PRIOR TO 2016.",
+        "Urban Design and Planning is founded upon the social, environmental, political, aesthetic and economic importance of design in the public realm, serving the public interest. It focuses on the intersections between architecture, landscape architecture, planning and geography. Students who have a desire to learn about and engage in the design of urban places will explore two strongly related fields of environmental practice: urban design as the shaping of urban space and urban planning as the strategic and regulatory mediation of urban change.",
+        "Careers and Further StudyCompletion of the Urban Design and Planning major will provide a basis for practice in the field and to apply for one of the two-year graduate programs, the Master of Urban Planning or the Master of Urban Design, or for the three-year Masters programs in Architecture or Landscape Architecture. For more information on the Masters programs, please visit the Melbourne School of Design web site:msd.unimelb.edu.au"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "100 points of Urban Design and Planning subjects."
+        ],
+        "Subject Options": [
+            "The following description of the Urban Design and Planning major aligns with the Study Plan Structure viewable on the Portal for students who commenced the Bachelor of Environments in 2015 or later.",
+            "The components within the structure of this major have been designed to enforce the requirements of both this specific major and of the course overall, e.g. the requirement that at least 62.5 points of Environments discipline subjects (which can include subjects taken within the major) are taken at each of Level 2 and Level 3.",
+            "PRE-2015 STUDENTS: Students who commenced the Bachelor of Environments prior to 2015 should refer to the handbook entry for the year they commenced in conjunction with the 2015 handbook listings for Environments elective and Breadth subject listings. View 2014 Bachelor of Environments Handbook entry."
+        ],
+        "Level 1 Environments & Enabling Electives": [
+            "In order to complete this major, enrol into ALL these subjects in your first year:",
+            {
+                "ENVS10004": "Designing Environments Credits",
+                "ENVS10007": "Urban Environments Credits"
+            },
+            "IMPORTANT:",
+            [
+                "1. ENVS10005 Governing Environments is recommended to be taken as an Environments Elective."
+            ]
+        ],
+        "Urban Planning and Design major - core subjects (87.5 points)": [
+            {
+                "ABPL20034": "Urban History Credits",
+                "ABPL20037": "Urban Design Studies Credits",
+                "ABPL20049": "Introduction to Urban Design & Planning Credits",
+                "ABPL30051": "Urban Morphological Mapping Credits",
+                "ABPL20035": "Cities: From Local to Global Credits",
+                "ABPL30060": "Urban Precinct Studio Credits"
+            }
+        ],
+        "Major Electives & Environments Discipline subjects": [
+            "Choose the total of",
+            [
+                "1. 12.5 points of Major elective subjects;",
+                "2. 50 points of Environments Discipline subjects"
+            ],
+            "RULES:",
+            "Please note these rules when choosing the Major electives & Environments Discipline subjects below",
+            [
+                "1. Must complete 12.5 points level 2 subjects",
+                "2. Must complete 25 points level 3 subjects"
+            ]
+        ],
+        "Major Electives (12.5 points)": [
+            "Select from the list below",
+            {
+                "ABPL20031": "Principles of Property Credits",
+                "ABPL20045": "City Futures Credits",
+                "GEOG20008": "Inside the City of Diversity Credits",
+                "EVSC30006": "Ecology of Urban Landscapes Credits",
+                "GEOG30021": "The Disaster Resilient City Credits",
+                "GEOG20003": "Environmental Politics and Management Credits",
+                "GEOG20001": "Society and Environments Credits",
+                "ABPL20028": "Architecture Design Studio: Water Credits"
+            }
+        ],
+        "Environments Discipline subjects (50 points)": [
+            {
+                "Environments Discipline subjects": " Credits"
+            }
+        ],
+        "Breadth subjects and restrictions for Urban Design and Planning major students": [
+            "The breadth requirements for the Bachelor of Environments include the restriction of some subjects as breadth options, depending on an individual student\u2019s choice of major. Subjects in the Handbook that are marked as available as breadth in the Bachelor of Environments may be subject to further restrictions, depending up which major a student is completing in that course. For detailed information on these Restrictions for Breadth Options view 2016 Handbook",
+            "Students undertaking the Urban Design and Planning major are not permitted to take as breadth:",
+            [
+                "any of the following Level 2 or Level 3 Design subjects:"
+            ],
+            {
+                "ABPL20027": "Architecture Design Studio: Earth Credits",
+                "ABPL20028": "Architecture Design Studio: Water Credits",
+                "ABPL20030": "Foundations of Architecture Credits",
+                "ABPL20036": "Environmental Building Systems Credits",
+                "ABPL20038": "Explorations (Landscape Studio 1) Credits",
+                "ABPL20039": "History of Designed Landscapes Credits",
+                "ABPL20040": "Landscape Studio 2: Site Plan & Design Credits",
+                "ABPL20047": "Site Tectonics Credits",
+                "HORT20026": "Designing with Plants Credits",
+                "ABPL30037": "Architecture Design Studio: Fire Credits",
+                "ABPL30042": "Landscape Studio: Urban Open Space Credits",
+                "ABPL30043": " Credits",
+                "ABPL30048": "Architecture Design Studio: Air Credits",
+                "ABPL30049": "Case Studies in Landscape Architecture Credits",
+                "ABPL30050": "Modern Architecture: MoMo to PoMo Credits",
+                "ABPL30051": "Urban Morphological Mapping Credits",
+                "ABPL30052": "Urban Precinct Studio Credits",
+                "ABPL30053": "Formative Ideas in Architecture Credits"
+            }
+        ],
+        "Notes": [
+            "For more information on this major and to view a sample course plan please visit:http://edsc.unimelb.edu.au/sample-course-plans-bachelor-environments",
+            "The Bachelor of Environments Urban Design and Planning major provides a pathway into either the Master of Urban Design or the Master of Urban Planning. It is expected that graduates of either the Master of Urban Design or the Master of Urban Planning will have completed the academic requirements for membership of the Planning Institute of Australia (PIA)."
+        ]
+    }
+}

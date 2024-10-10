@@ -1,0 +1,138 @@
+{
+    "major name": "Indonesian Studies",
+    "overview": [
+        "The undergraduate program in Indonesian Studies comprises coursework designed to build students' knowledge and skills in understanding and analysing Indonesian language and society.",
+        "Indonesian language subjects are organised in a progressive sequence (of units) from Indonesian 1 through to Indonesian 6, with 4 additional advanced units. Entry points are determined by the student\u2019s background in the language, placement testing, prerequisites, or at the discretion of the Indonesian Studies program. Students normally progress through the subjects in consecutive order. Mid-year entry is also possible, subject to appropriate prior experience and approval from the convenor of the Indonesian Studies program."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "Students will have their appropriate entry point determined by the Indonesian Studies Program, based on evidence of prior learning and/or results of a placement test as required. Please refer the following link for further information:",
+            "Link",
+            "The entry points for this major are:",
+            [
+                "Entry Point 1: Students who have never studied Indonesian before or have only rudimentary knowledge of the language usually enter the progression at Indonesian 1.",
+                "Entry Point 3: Students who have completed VCE Indonesian (Second Language), Standard IB Indonesian or have an equivalent language level usually enter the progression at Indonesian 3.",
+                "Entry Point 5: Students who perform at an advanced level in Indonesian, for example those who have completed VCE Indonesian (First Language) or have lived or studied in Indonesia, usually enter at Indonesian 5."
+            ],
+            "This major requires the completion of either:"
+        ],
+        "Links": [
+            "http://www.asiainstitute.unimelb.edu.au/study/indonesian"
+        ],
+        "Entry Point 1": [
+            [
+                "25 credit points of EP1 Level 1 core subjects",
+                "25 credit points of EP1 Level 2 core subjects",
+                "12.5 credit points of Level 2 electives",
+                "25 credit points of EP1 Level 3 core subjects",
+                "12.5 credit points of Capstone subject"
+            ],
+            "OR"
+        ],
+        "Entry Point 3": [
+            [
+                "25 credit points of EP3 Level 1 core subjects",
+                "25 credit points of EP3 Level 2 core subjects",
+                "12.5 credit points of Level 2 electives",
+                "25 credit points of EP3 Level 3 selectives",
+                "12.5 credit points of Capstone subject"
+            ],
+            "OR"
+        ],
+        "Entry Point 5": [
+            [
+                "25 credit points of EP5 Level 1 core subjects",
+                "25 credit points of EP5 Level 2 selectives",
+                "12.5 credit points of Level 2 electives",
+                "25 credit points of EP5 Level 3 selectives",
+                "Students complete level 3 selectives that they have not previously completed at Level 2.",
+                "12.5 credit points of Capstone subject"
+            ]
+        ],
+        "Level 1 core subjects \u2013 Entry Point 1": [
+            {
+                "INDO10005": "Indonesian 1 Credits",
+                "INDO10006": "Indonesian 2 Credits"
+            }
+        ],
+        "Level 2 core subjects \u2013 Entry Point 1": [
+            {
+                "INDO20006": "Indonesian 3 Credits",
+                "INDO20007": "Indonesian 4 Credits"
+            }
+        ],
+        "Level 3 core subjects \u2013 Entry Point 1": [
+            {
+                "INDO30011": "Indonesian 5 Credits",
+                "INDO30007": "Indonesian 6 Credits"
+            }
+        ],
+        "Level 3 Capstone subject - Entry Point 1": [
+            {
+                "INDO30021": "Indonesian Visions, Global Partnerships Credits"
+            }
+        ],
+        "Level 1 core subjects \u2013 Entry Point 3": [
+            {
+                "INDO10001": "Indonesian 3 Credits",
+                "INDO10002": "Indonesian 4 Credits"
+            }
+        ],
+        "Level 2 core subjects \u2013 Entry Point 3": [
+            {
+                "INDO20008": "Indonesian 5 Credits",
+                "INDO20009": "Indonesian 6 Credits"
+            }
+        ],
+        "Level 3 selectives \u2013 Entry Point 3": [
+            {
+                "INDO30006": "Indonesian Literature and Film Credits",
+                "INDO30018": "Diversity: Identities in Indonesia Credits",
+                "INDO30019": "Translation: Intercultural Indonesian Credits",
+                "INDO30020": "Indonesia in the World Credits"
+            }
+        ],
+        "Level 3 Capstone subject - Entry Point 3": [
+            {
+                "INDO30021": "Indonesian Visions, Global Partnerships Credits"
+            }
+        ],
+        "Level 1 core subjects \u2013 Entry Point 5": [
+            {
+                "INDO10003": "Indonesian 5 Credits",
+                "INDO10004": "Indonesian 6 Credits"
+            }
+        ],
+        "Level 2 selectives \u2013 Entry Point 5": [
+            {
+                "INDO20014": "Diversity: Identities in Indonesia Credits",
+                "INDO20015": "Indonesian Literature and Film Credits",
+                "INDO20016": "Translation: Intercultural Indonesian Credits",
+                "INDO20017": "Indonesia in the World Credits"
+            }
+        ],
+        "Level 3 selectives \u2013 Entry Point 5": [
+            {
+                "INDO30006": "Indonesian Literature and Film Credits",
+                "INDO30018": "Diversity: Identities in Indonesia Credits",
+                "INDO30019": "Translation: Intercultural Indonesian Credits",
+                "INDO30020": "Indonesia in the World Credits"
+            }
+        ],
+        "Level 3 Capstone subject - Entry Point 5": [
+            {
+                "INDO30021": "Indonesian Visions, Global Partnerships Credits"
+            }
+        ],
+        "Level 2 electives - all entry points": [
+            {
+                "INDO20001": "Yogyakarta Summer Intensive Credits",
+                "INDO20018": "Indonesian Politics and Society Credits",
+                "INDO20020": "Creative Industries in Indonesia Credits",
+                "INDO20019": "Indonesian Languages in Social Context Credits"
+            }
+        ]
+    }
+}

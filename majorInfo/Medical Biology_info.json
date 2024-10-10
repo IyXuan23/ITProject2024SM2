@@ -1,0 +1,36 @@
+{
+    "major name": "Medical Biology",
+    "overview": [
+        "The Honours program in The Department of Medical Biology is a fourth-year program, which gives students the opportunity to apply and extend their previous science, biomedical or health science studies to a cutting edge research project. Projects will be undertaken at The Walter & Eliza Hall Institute of Medical Research and supervised by experienced full-time research staff. The course year starts in February or in August and is only available full time.The Honours program comprises:The Advanced Coursework (25 points) component is designed to develop a greater understanding of key topics of research in biochemistry and molecular biology, including areas such as genome sciences, structural biology, bioinformatics and molecular cell biology. Further, students will acquire an appreciation and understanding of new technologies and approaches that are used in modern biochemical and molecular biology research programs and develop a greater understanding of the scientific process as well as access to key literature and data sets.The Research Project (75 points) provides the students with their first real-life experience of medical research. During the year, students will review and analyse the literature, design and perform their own experiments, and report the results of their research in a thesis, which constitutes the major piece of assessed work of the Honours program. The student will also present their research at a seminar at the end of the year."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "The Honours program consists of 100 credit points completed over 12 months full time (or part time equivalent) comprising of two (2) Advanced Coursework subjects and a Research Project.",
+            "To be awarded Honours with a specialisation in Medical Biology (Walter and Eliza Hall Institute), students must successfully complete the following:",
+            [
+                "BIOL40014 - Advanced Coursework in Medical Biology (25 points)",
+                "BMSC40003 and BMSC40008 - Medical Biology Research Project (75 points)"
+            ],
+            "There are no elective subjects in this Honours program."
+        ],
+        "Subject Options": [],
+        "Coursework Component": [
+            "Students must complete 25 credit points of advanced coursework subjects. This is achieved by enrolling in the following subjects in the appropriate semesters.",
+            {
+                "BIOL40014": "Advanced Coursework in Medical Biology Credits"
+            }
+        ],
+        "Research Component": [
+            "Students must complete a total of 75 credit points of research across the duration of the Honours program. This is achieved by enrolling in a combination of the following subjects in the appropriate semesters.",
+            {
+                "BMSC40003": "Medical Biology Research Project Part 1 Credits",
+                "BMSC40008": "Medical Biology Research Project Part 2 Credits"
+            }
+        ],
+        "Links": [
+            "http://www.wehi.edu.au"
+        ]
+    }
+}

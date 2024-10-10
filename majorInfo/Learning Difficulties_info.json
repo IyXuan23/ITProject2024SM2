@@ -1,0 +1,26 @@
+{
+    "major name": "Learning Difficulties",
+    "overview": [
+        "In this specialisation, you will investigate the areas of learning difficulties, intervention and individual differences in literacy, numeracy and language learning. You will improve your professional knowledge and understanding of the nature and causes of learning difficulties in children and young people and explore how to implement teaching that optimises learning."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "62.5 credit points",
+            "Students taking the Learning Difficulties specialisation will need to complete:",
+            [
+                "62.5 credit points of specialisation core subjects"
+            ]
+        ],
+        "Subject Options": [
+            "Specialisation core subjects",
+            {
+                "EDUC91191": "Learning Foundations Credits",
+                "EDUC90195": "Learning Difficulties in Literacy Credits",
+                "EDUC90290": "Behaviour and Learning Credits",
+                "EDUC90506": "Language and Communication Credits",
+                "EDUC90194": "Learning Difficulties in Numeracy Credits"
+            }
+        ]
+    }
+}

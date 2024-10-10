@@ -1,0 +1,36 @@
+{
+    "major name": "Ecosystem Science",
+    "overview": [
+        "The Ecosystem Science major focuses on the science and technologies associated with the function and management of ecosystems, via two specialisations in urban ecosystems and forest ecosystems. The major integrates knowledge from a range of disciplines including plant sciences, soil science, hydrology, ecology, design, engineering and the social sciences, by enabling students to complete a sequence of subjects in each specialisation. Students will also complete an integrated capstone subject in which they develop skills in site analysis, the collection, integration and analysis of data, and the evaluation and presentation of management plans. Students will gain to experience prepare them for the workplace by participating in group research projects and working groups."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "Students are required to complete all requirements in one stream"
+        ],
+        "Urban Ecosystems specialisation": [
+            {
+                "EVSC30007": "Landscape Ecosystem Project Credits",
+                "ENST30003": "Green Infrastructure Technologies Credits",
+                "FRST30003": "Urban Forest Ecosystems Credits",
+                "EVSC30006": "Ecology of Urban Landscapes Credits"
+            }
+        ],
+        "Forest Ecosystems specialisation": [
+            {
+                "EVSC30007": "Landscape Ecosystem Project Credits",
+                "FRST30001": "Forest Systems Credits"
+            },
+            "AND",
+            {
+                "BOTA30004": "Vegetation Management and Conservation Credits",
+                "BOTA30006": "Field Botany Credits",
+                "ECOL30005": "Applied Ecology Credits",
+                "EVSC30003": "Environmental Risk Assessment Credits",
+                "FRST30003": "Urban Forest Ecosystems Credits",
+                "ENST30004": "Nature, Conservation and Society Credits"
+            }
+        ]
+    }
+}
