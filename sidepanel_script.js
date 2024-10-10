@@ -14,9 +14,9 @@ function updateButtonTexts(subjectCode, courseCode) {
     button3.style.display = 'block';
 
     if (subjectCode) {
-        button1text.textContent = `Tell me what's the prerequisite for ${subjectCode}`;
-        button2text.textContent = `What are the learning outcomes for ${subjectCode}?`;
-        button3text.textContent = `How many assessments does ${subjectCode} have?`;
+        button1text.textContent = `Does ${subjectCode} have any prerequisites?`;
+        button2text.textContent = `What can I learn from ${subjectCode}?`;
+        button3text.textContent = `How many assessments does ${subjectCode} have? Which weight the most?`;
     }
     else if (courseCode) {
         button1text.textContent = `Tell me what's the entry requirement for ${courseCode}?`;
@@ -30,19 +30,37 @@ function updateButtonTexts(subjectCode, courseCode) {
     }
 }
 
+function updateGreeting() {
+    const greetingText = chatElementRef.shadowRoot.querySelector('#greetingText');
+    const greetings = ["Wominjeka,", "Hola,", "Bonjour,", "Ciao,", "Hello,"];
+    let index = 0;
+    function fadeOutIn() {
+        setTimeout(() => {
+            greetingText.textContent = greetings[index];
+            setTimeout(() => {
+                index = (index + 1) % greetings.length;
+            }, 500);
+        }, 500);
+    }
+    setInterval(fadeOutIn, 5000);
+}
+
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     if (message.type === 'UPDATE_BUTTON_TEXT_SUBJECT') {
         const subjectCode = message.subjectCode;
         updateButtonTexts(subjectCode, null);
+        updateGreeting();
         sendResponse({ received: true });
     }
     if (message.type === 'UPDATE_BUTTON_TEXT_COURSE') {
         const courseCode = message.courseCode;
         updateButtonTexts(null, courseCode);
+        updateGreeting();
         sendResponse({ received: true });
     }
     if (message.type === 'UPDATE_BUTTON_TEXT_SAMPLE') {
         updateButtonTexts(null, null);
+        updateGreeting();
         sendResponse({ received: true });
     }
     return true;

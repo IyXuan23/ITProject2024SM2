@@ -1,3 +1,9 @@
+body {
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+}
+
 #unimelb-handbot-hoverball {
   position: fixed;
   bottom: 20px;
@@ -41,9 +47,54 @@
   border: none;
 }
 
+.text-container {
+  margin-left: 15px;
+}
+
+
 .chat-element {
   width: 100% !important;
   height: 100% !important;
   border-radius: 10px;
   z-index: 1001;
+}
+
+.libre-baskerville-regular {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-bold {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.libre-baskerville-regular-italic {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.poppins-medium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.shippori-mincho-extrabold {
+  font-family: "Shippori Mincho", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
 }

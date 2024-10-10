@@ -1,6 +1,5 @@
 const chatElement = document.getElementById("chat-element");
 document.addEventListener('DOMContentLoaded', async(event) => {
-    
     chatElement.requestInterceptor = async (requestDetails) => {
         const userQuery = requestDetails.body.messages[requestDetails.body.messages.length - 1].text;
         const encodedQuery = encodeURIComponent(userQuery);
@@ -15,33 +14,33 @@ document.addEventListener('DOMContentLoaded', async(event) => {
         return response;
     };
 
-    chatElement.onMessage = async (message) => {
-        if (message.message.role === 'ai' && !message.isHistory) {
-            chatElement.addMessage({
-                html: `
-                <div class="deep-chat-temporary-message" id = "suggestions-button" style="display: none">
-                    <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion1" style="margin-top: 5px"></button>
-                    <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion2" style="margin-top: 6px"></button>
-                    <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion3" style="margin-top: 6px"></button>
-                </div>`, 
-                role: "user"
-            });
-            const suggestions = await fetchSimilarQuestions();
-            console.log(suggestions);
-            let j = 0;
-            for (let i = 0; i < 3; i++) {
-                if (suggestions[j] !== null) {
-                    const button = chatElementRef.shadowRoot.querySelector(`#suggestion${i + 1}`);
-                    button.textContent = suggestions[j];
-                    j++;
-                } else {
-                    j++;
-                }
-            }
-            const suggestionsButton = chatElementRef.shadowRoot.querySelector('#suggestions-button');
-            suggestionsButton.style.display = "block";
-        }
-    };
+    // chatElement.onMessage = async (message) => {
+    //     if (message.message.role === 'ai' && !message.isHistory) {
+    //         chatElement.addMessage({
+    //             html: `
+    //             <div class="deep-chat-temporary-message" id = "suggestions-button" style="display: none">
+    //                 <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion1" style="margin-top: 5px"></button>
+    //                 <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion2" style="margin-top: 6px"></button>
+    //                 <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion3" style="margin-top: 6px"></button>
+    //             </div>`, 
+    //             role: "user"
+    //         });
+    //         const suggestions = await fetchSimilarQuestions();
+    //         console.log(suggestions);
+    //         let j = 0;
+    //         for (let i = 0; i < 3; i++) {
+    //             if (suggestions[j] !== null) {
+    //                 const button = chatElementRef.shadowRoot.querySelector(`#suggestion${i + 1}`);
+    //                 button.textContent = suggestions[j];
+    //                 j++;
+    //             } else {
+    //                 j++;
+    //             }
+    //         }
+    //         const suggestionsButton = chatElementRef.shadowRoot.querySelector('#suggestions-button');
+    //         suggestionsButton.style.display = "block";
+    //     }
+    // };
 });
 
 
@@ -71,19 +70,19 @@ chatElementRef.htmlClassUtilities = {
         },
         styles: {
             default: {
-                marginLeft: '10px',
-                marginRight: '10px',
+                marginLeft: '15px',
+                marginRight: '15px',
                 backgroundColor: '#ffffff',
-                borderRadius: '10px',
-                padding: '10px',
+                borderRadius: '20px',
+                padding: '8px',
                 cursor: 'pointer',
                 textAlign: 'center',
-                marginTop: '10px',
-                boxshadow: '0 0 0 5px rgba(0, 0, 0, 0.5)',
-                border: '1px solid #969696'
+                marginTop: '12px',
+                boxShadow: "0px 0.3px 0.9px rgba(0, 0, 0, 0.12), 0px 1.6px 3.6px rgba(0, 0, 0, 0.16)",
+                animation: 'fadeIn 1s'
             },
-            hover: { backgroundColor: '#ebebeb', transform: 'scale(1.03)', transition: 'transform 0.3s ease' },
-            click: { backgroundColor: '#e4e4e4', transform: 'scale(1.03)', transition: 'transform 0.3s ease' },
+            hover: { backgroundColor: '#ebebeb', transform: 'scale(1.015)', transition: 'transform 0.3s ease' },
+            click: { backgroundColor: '#e4e4e4', transform: 'scale(1.015)', transition: 'transform 0.3s ease' },
         },
     },
     'custom-button-text': {
