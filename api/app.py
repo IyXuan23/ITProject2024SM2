@@ -11,7 +11,6 @@ from dependencies.vanna import VannaDefault
 from dependencies.followup import *
 import secrets
 
-# TODO: Implement a functionality to manage cookie (session) size
 
 """
 File:           app.py
@@ -22,9 +21,13 @@ Description:    This file contains all necessary functions for VANNA to generate
 cache = MemoryCache()
 app = Flask(__name__, static_url_path='')
 
+
 openai_api_key = os.environ.get('OPENAI_API_KEY')
 vanna_api_key = os.environ.get('VANNA_API_KEY')
 vanna_model_name = os.environ.get('VANNA_MODEL_NAME')
+
+
+
 CORS(app, resources={r"/api/*": {"origins": "*"}})
 app.secret_key = secrets.token_hex()
 
@@ -88,7 +91,6 @@ def is_sql_valid(sql_query:str) -> bool:
         if conn:
             conn.close()
 
-# TODO: Implement a functionality to manage cookie (session) size
 @app.route('/api/v0/generate_sql', methods=['GET'])
 def generate_sql():
     user_question = flask.request.args.get('question')
@@ -122,7 +124,7 @@ def generate_sql():
     print(rephrased_question)
     print(sql)
     valid = is_sql_valid(sql)
-
+    generate_popup_query(rephrased_question)
     if valid:
 
         # Fetch info from database
