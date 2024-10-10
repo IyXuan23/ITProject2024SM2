@@ -1,0 +1,164 @@
+{
+    "major name": "Japanese Studies",
+    "overview": [
+        "The undergraduate program in Japanese Studies comprises coursework designed to build students\u2019 knowledge and skills in understanding and analysing Japanese language and society.",
+        "Japanese subjects are organised in a progressive sequence (of units) from Japanese 1 through to Japanese 8 with several additional units. Entry and exit points are determined by the student\u2019s background in the language, placement testing, prerequisites, or at the discretion of the Japanese program. Students normally progress through the subjects in consecutive order. Mid-year entry is also possible into subjects with even numbers, subject to appropriate prior experience and approval from the convenor of the Japanese Studies program.",
+        "The language-society subjects are designed to maximise acquisition of the language and to develop their communication skills in various types of texts, interactional contexts and strategic aspects of meaning making. The curriculum also allows students to develop a broad understanding of cultural, social and historical aspects of Japan. Non-language subjects such as Social Problems in Japan help students understand the complexity and diversity of the society, and challenge stereotypes. Teaching staff create a meeting place where students from a variety of cultural backgrounds can explore intercultural language activities to promote intercultural as well as communicative competence.",
+        "Note: Students in the Japanese Studies major are not able to take the Japanese Societies minor due to the \"Diversity of Study\" course rule."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "Students will have their appropriate entry point determined by the Japanese Studies program, based on evidence of prior learning and/or results of a placement test as required. Please refer to the following link for further information:",
+            "Link",
+            "The entry points for this major are:",
+            [
+                "Japanese Studies 1 entry point: Students who have never studied Japanese before or have only rudimentary knowledge of the language usually enter the progression at Japanese 1",
+                "Japanese Studies  3 entry point: Students who have completed VCE Japanese (Second language), IB or have an equivalent language level usually enter the progression at Japanese 3",
+                "Japanese Studies  5 entry point: Students who perform at an intermediate level in Japanese, for example those who have completed VCE or IB with excellent results or have an equivalent language level usually enter the progression at Japanese 5",
+                "Japanese Studies 7 entry point: Students who perform at a advanced level in Japanese, for example those who hold N3 of JLPT (Japanese Language Proficiency Test) or have lived or studied in Japan usually enter the progression at Japanese 7"
+            ],
+            "This major requires the completion of either:"
+        ],
+        "Links": [
+            "http://www.asiainstitute.unimelb.edu.au/study/japanese"
+        ],
+        "Entry Point 1": [
+            [
+                "25 credit points of EP1 Level 1 Core subjects",
+                "37.5 credit points of EP1 Level 2 Core subjects",
+                "25 credit points of EP1 Level 3 Core subjects",
+                "12.5 credit points of Level 3 Capstone Subject"
+            ],
+            "OR"
+        ],
+        "Entry Point 3": [
+            [
+                "25 credit points of EP3 Level 1 Core subjects",
+                "37.5 credit points of EP3 Level 2 Core subjects",
+                "25 credit points of EP3 Level 3 Core subjects",
+                "12.5 credit points of Level 3 Capstone Subject"
+            ],
+            "OR"
+        ],
+        "Entry Point 5": [
+            [
+                "25 credit points of EP5 Level 1 Core subjects",
+                "37.5 credit points of EP5 Level 2 Core subjects",
+                "25 credit points of EP5 Level 3 Core subjects",
+                "12.5 credit points of Level 3 Capstone Subject"
+            ],
+            "OR"
+        ],
+        "Entry Point 7": [
+            [
+                "25 credit points of EP7 Level 1 Core subjects",
+                "37.5 credit points of EP7 Level 2 Core subjects",
+                "25 credit points of EP7 Level 3 Core subjects",
+                "12.5 credit points of Level 3 Capstone Subject"
+            ]
+        ],
+        "Subject Options": [],
+        "Japanese Studies Entry Point 1": [],
+        "Japanese Studies Entry Point 3": [],
+        "Japanese Studies Entry Point 5": [],
+        "Japanese Studies Entry Point 7": [],
+        "Level 1 Core subjects - Entry Point 1": [
+            {
+                "JAPN10001": "Japanese 1 Credits",
+                "JAPN10002": "Japanese 2 Credits"
+            }
+        ],
+        "Level 2 Core subjects - Entry Point 1": [
+            {
+                "JAPN20002": "Introduction to Japanese Communication Credits",
+                "JAPN20007": "Japanese 3 Credits",
+                "JAPN20008": "Japanese 4 Credits"
+            }
+        ],
+        "Level 3 Core subjects - Entry Point 1": [
+            {
+                "JAPN30007": "Japanese 5 Credits",
+                "JAPN30010": "Signs and Symbols in Japanese Credits"
+            }
+        ],
+        "Capstone subject - Entry Point 1": [
+            {
+                "JAPN30018": "Global Japanese in Context Credits"
+            }
+        ],
+        "Level 1 Core subjects - Entry Point 3": [
+            {
+                "JAPN10007": "Japanese 3 Credits",
+                "JAPN10008": "Japanese 4 Credits"
+            }
+        ],
+        "Level 2 Core subjects - Entry Point 3": [
+            {
+                "JAPN20013": "Japanese 5 Credits",
+                "JAPN20014": "Japanese 6 Credits",
+                "JAPN20009": "Signs and Symbols in Japanese Credits"
+            }
+        ],
+        "Level 3 Core subjects - Entry Point 3": [
+            {
+                "JAPN30005": "Japanese 7 Credits",
+                "JAPN30013": "Japanese Grammar in Action Credits"
+            }
+        ],
+        "Capstone subject - Entry Point 3": [
+            {
+                "JAPN30018": "Global Japanese in Context Credits"
+            }
+        ],
+        "Level 1 Core subjects - Entry Point 5": [
+            {
+                "JAPN10003": "Japanese 5 Credits",
+                "JAPN10004": "Japanese 6 Credits"
+            }
+        ],
+        "Level 2 Core subjects - Entry Point 5": [
+            {
+                "JAPN20003": "Japanese 7 Credits",
+                "JAPN20004": "Japanese 8 Credits",
+                "JAPN20010": "Japanese Grammar in Action Credits"
+            }
+        ],
+        "Level 3 Core subjects - Entry Point 5": [
+            {
+                "JAPN30004": "Japanese through the Media Credits",
+                "JAPN30012": "Variation in Japanese Language Credits"
+            }
+        ],
+        "Capstone subject - Entry Point 5": [
+            {
+                "JAPN30018": "Global Japanese in Context Credits"
+            }
+        ],
+        "Level 1 Core subjects - Entry Point 7": [
+            {
+                "JAPN10005": "Japanese 7 Credits",
+                "JAPN10006": "Japanese 8 Credits"
+            }
+        ],
+        "Level 2 Core subjects - Entry Point 7": [
+            {
+                "JAPN20005": "Contemporary Japan Credits",
+                "JAPN20011": "Reading Japanese Literature Credits",
+                "JAPN20012": "Variation in Japanese Language Credits"
+            }
+        ],
+        "Level 3 Core subjects - Entry Point 7": [
+            {
+                "JAPN30002": "Social Problems in Japan Credits",
+                "JAPN30004": "Japanese through the Media Credits"
+            }
+        ],
+        "Capstone subject - Entry Point 7": [
+            {
+                "JAPN30018": "Global Japanese in Context Credits"
+            }
+        ]
+    }
+}

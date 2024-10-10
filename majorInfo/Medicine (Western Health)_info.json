@@ -1,0 +1,26 @@
+{
+    "major name": "Medicine (Western Health)",
+    "overview": [
+        "Students will complete this Bachelor of Science (Honours) as a pathway towards study of a higher degree or for transition to further specialities in medicine, dentistry and allied health sciences.",
+        "The specialisations that we promote are framed within a world-leading institute, the Australian Institute for Musculoskeletal Science (AIMSS). AIMSS interacts within many national and international collaborations and this diversity promotes a comprehensive approach to research into the musculoskeletal sciences. Our platform is highly active in the basic sciences as well as in the clinical and epidemiological sciences and, also, at the clinical front of medicine. The phrase 'From bench to bedside and back again' was coined approximately 40 years ago and this well-established approach is truly possible at AIMSS due to our diverse academic list and the highly collaborative manner in which our medical staff and researchers interact."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "The Western Health Honours Program candidates will need to complete course-work and projects that make up 100 credit points completed over 12 months full-time (or part-time equivalent) comprising of two (2) Advanced Coursework subjects and a Research Project."
+        ],
+        "Subject Options": [
+            "To be awarded Honours with a specialisation in Medicine (Western Health), students must successfully complete the following:",
+            {
+                "BIOM40001": "Introduction To Biomedical Research Credits",
+                "MEDI40004": "Seminars in Translational Medicine Credits",
+                "MEDI40018": "Research Project - WH Part 1 Credits",
+                "MEDI40019": "Research Project - WH Part 2 Credits"
+            }
+        ],
+        "Notes": [
+            "The Honours Program year starts in February and ends in November and is only available full time."
+        ]
+    }
+}

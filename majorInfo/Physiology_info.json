@@ -1,0 +1,39 @@
+{
+    "major name": "Physiology",
+    "overview": [
+        "The Physiology major will teach students how the body works. Students will learn about the ways in which cells, organs and the whole body function in an integrated way. By understanding normal function, students will investigate disturbances in whole body systems such as those relating to the endocrine, cardiovascular, musculoskeletal, developmental and neural control systems. The experimental bases of physiology are emphasized and students will use contemporary techniques to examine questions in physiology. Discoveries in physiology have a broad impact upon health and medicine, environmental science, industry, nutrition, exercise and reproductive biology. Many of the discoveries from the human genome project rely on physiology to understand their impact on the human body."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "PHYS30010": "Advanced Human Physiology Credits"
+            },
+            "AND",
+            "Three of the following prescribed electives",
+            "Electives",
+            {
+                "PHYS30009": "Experimental Physiology Credits",
+                "PHYS30011": "Clinical and Translational Physiology Credits",
+                "PHYS30012": "Physiology: Adapting to Challenges Credits"
+            },
+            "AND",
+            {
+                "ANAT30007": "Human Locomotor Systems Credits",
+                "ANAT30008": "Viscera and Visceral Systems Credits",
+                "BIOL30001": "Reproductive Physiology Credits",
+                "BIOM30003": "Biomedical Science Research Project Credits",
+                "NEUR30002": "Neurophysiology: Neurons and Circuits Credits",
+                "NEUR30003": "Principles of Neuroscience Credits",
+                "NEUR30004": "Complex Functions in Neuroscience Credits",
+                "PATH30001": "Mechanisms of Human Disease Credits",
+                "PHRM30003": "Drug Treatment of Disease Credits"
+            }
+        ],
+        "Notes": [
+            "This major is available to new generation Bachelor of Science students (B-SCI) and Bachelor of Biomedicine students. It is also available to Bachelor of Science students who commenced prior to 2008. The published structure of this major includes subjects available in the current year. Pre-2008 Bachelor of Science students who completed one or more Level 3 science subjects towards this major prior to 2010 should contact the Science Student Centre for advice on appropriate subjects to complete this major.",
+            "A quota has been applied to 3 optional subjects in this major."
+        ]
+    }
+}

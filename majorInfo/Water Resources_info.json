@@ -1,0 +1,71 @@
+{
+    "major name": "Water Resources",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "The Water Resources specialisation is completed by undertaking specific subjects (50 credit points embedded within Year 2 and 3 requirements).",
+            "Note:",
+            "Students entering the course with advanced standing who plan on completing a specialisation may need to enrol in core specialisation subjects in their commencing semester. Please check and follow the structure outlined for your intended specialisation and seek course planning advice.",
+            "To obtain a specialisation in Water Resources, students must complete:",
+            [
+                "25 credit points of Year 2 core specialisation subjects",
+                "62.5 credit points of Year 2 compulsory subjects",
+                "12.5 credit points of Year 2 selective subjects",
+                "25 credit points of Year 3 core specialisation subjects",
+                "50 credit points of Year 3 compulsory subjects"
+            ],
+            "Year 1:",
+            [
+                "100 credit points of Year 1 compulsory subjects"
+            ],
+            "Year 2:",
+            [
+                "25 credit points of Year 2 core specialisation subjects",
+                "62.5 credit points of Year 2 compulsory subjects",
+                "12.5 credit points of Year 2 selective subjects"
+            ],
+            "Year 3:",
+            [
+                "25 credit points of Year 3 core specialisation subjects",
+                "50 credit points of Year 3 compulsory subjects",
+                "25 credit points of Year 3 Capstone subjects"
+            ]
+        ],
+        "Subject Options": [
+            "Refer to the Course Structure page for Year 1 compulsory and Year 3 capstone subjects.",
+            "Year 2 core specialisation subjects",
+            {
+                "EVSC90025": "Water Sensitive Urban Design Credits",
+                "CVEN90066": "Metocean Engineering Credits"
+            },
+            "Year 2 compulsory subjects",
+            {
+                "CVEN90075": "Transport Infrastructure Design Credits",
+                "CVEN90044": "Engineering Site Characterisation Credits",
+                "CVEN90050": "Geotechnical Engineering Credits",
+                "CVEN90045": "Engineering Project Implementation Credits",
+                "CVEN90051": "Civil Hydraulics Credits"
+            },
+            "Year 2 selective subjects",
+            {
+                "ENGR90021": "Critical Communication for Engineers Credits",
+                "ENGR90034": "Creating Innovative Engineering Credits",
+                "ENGR90039": "Creating Innovative Professionals Credits"
+            },
+            "Year 3 core specialisation subjects",
+            {
+                "ENEN90038": "Engineering Hydrology Credits",
+                "ENEN90029": "Water and Waste Water Management Credits"
+            },
+            "Year 3 compulsory subjects",
+            {
+                "CVEN90058": "Construction Engineering Credits",
+                "CVEN90060": "Integrated Infrastructure Design Credits",
+                "CVEN90048": "Transport Systems Credits",
+                "CVEN90049": "Structural Theory and Design 2 Credits"
+            }
+        ]
+    }
+}

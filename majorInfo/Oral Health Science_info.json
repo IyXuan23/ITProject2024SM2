@@ -1,0 +1,41 @@
+{
+    "major name": "Oral Health Science",
+    "overview": [
+        "The Honours year is a valuable addition to your Bachelor of Science or Bachelor of Biomedicine degree. Honours graduates obtain skills and qualifications which can lead to higher education degrees such as a Master of Science or Doctor of Philosophy. An Honours degree is also a strong entry point into careers in science, medical research and industry.The Honours year with the Melbourne Dental School is designed to provide opportunities for you to gain an understanding of the practice of biomedical research, and to teach you how to:\u2022 design a scientific project and consider ethical principles and processes used in biological research;\u2022 locate and utilise information available in scientific and medical literature, and ensure an understanding of experimental data in order to construct a rational scientific argument;\u2022 introduce the student to research techniques and enable them to apply the techniques to a specific project;\u2022 enhance problem solving skills by undertaking methodological approaches to research;\u2022 establish time management skills and to manage the completion of specific tasks;\u2022 collect and critically analyse information, including statistical assessment of experimental data;\u2022 communicate research results in both written and oral form, including the organisation of knowledge and identification of the potential scope of the research project.",
+        "Most students start their studies at the beginning of Semester one (February), although mid-year entry (August) is also a possibility.",
+        "Admission requirements",
+        "In addition to satisfying the Bachelor of Science (Degree with Honours) entry requirements, students are required to have completed stream specific prerequisites. Details of stream specific prerequisites can be found at the Bachelor of Science (Degree with Honours) entry and participation requirements page."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "The Honours program consists of 100 credit points completed over 12 months full time (or part time equivalent) comprising of two (2) Advanced Coursework subjects and a Research Project.",
+            "To be awarded Honours with a specialisation in Oral Health Science, students must successfully complete the following:",
+            [
+                "BIOM40001 - Introduction to Biomedical Research (12.5 points)",
+                "DENT40003 - Advanced in Oral Health Research (12.5 points)",
+                "DENT40010 and DENT40011 - Oral Health Sciences Research Project (75 points)"
+            ],
+            "There are no elective subjects in this Honours program."
+        ],
+        "Subject Options": [],
+        "Coursework Component": [
+            "Students must complete 25 credit points of advanced coursework subjects. This is achieved by enrolling in the following subjects in the appropriate semesters.",
+            {
+                "BIOM40001": "Introduction To Biomedical Research Credits",
+                "DENT40003": "Advances in Oral Health Research Credits"
+            }
+        ],
+        "Research Component": [
+            "Students must complete a total of 75 credit points of research across the duration of the Honours program. This is achieved by enrolling in a combination of the following subjects in the appropriate semesters.",
+            {
+                "DENT40010": "Oral Health Sci Research Proj Part 1 Credits",
+                "DENT40011": "Oral Health Sci Research Proj Part 2 Credits"
+            }
+        ],
+        "Links": [
+            "https://dental.unimelb.edu.au/study/honours-and-masters"
+        ]
+    }
+}

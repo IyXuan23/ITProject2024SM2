@@ -1,0 +1,26 @@
+{
+    "major name": "Standard Pathway",
+    "overview": [
+        "The Standard Pathway for the Graduate Certificate in Gerontology, comprising four subjects.",
+        "Last updated: 27 August 2024"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "Standard Pathway students choose FOUR subjects from the following list:",
+            {
+                "POPH90256": "Ageing in Society Credits",
+                "POPH90258": "Economics of Ageing Credits",
+                "POPH90257": "Body of Ageing Credits",
+                "POPH90264": "Global Population Ageing Credits",
+                "PSYT90092": "Mental Health and Ageing Credits",
+                "POPH90267": "Ageing Health & Human Services Credits",
+                "ABPL90377": "Design for Ageing Credits",
+                "POPH90263": "Technology and Ageing Credits",
+                "NURS90076": "Applied Pathophysiology Credits",
+                "NURS90067": "Health Assessment for Advanced Practice1 Credits"
+            }
+        ]
+    }
+}

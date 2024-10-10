@@ -1,0 +1,22 @@
+{
+    "major name": "Gerontology Nursing",
+    "overview": [
+        "This specialisation is for the nursing workforce in inpatient settings such as aged care settings and hospitals where age-related issues are contributing factors to presentations and specialist nursing knowledge is required for assessment and management. Specialised nursing care is also required in community settings including primary care and home-based services. Nurses have a leading role in care and advocacy to provide evidence-based care to ageing populations."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "The complete the gerontology nursing specialisation you must complete the following four subjects:"
+        ],
+        "Subject Options": [
+            "To complete the gerontology nursing specialisation students must take the following four subjects:",
+            {
+                "PSYT90092": "Mental Health and Ageing Credits",
+                "POPH90257": "Body of Ageing Credits",
+                "NURS90076": "Applied Pathophysiology Credits",
+                "NURS90067": "Health Assessment for Advanced Practice1 Credits"
+            }
+        ]
+    }
+}

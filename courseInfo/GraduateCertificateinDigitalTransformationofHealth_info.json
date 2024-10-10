@@ -1,0 +1,67 @@
+{
+    "Course name": "Graduate Certificate in Digital Transformation of Health",
+    "Course code": "GC-DTHLTH",
+    "Overview text": [
+        "The Graduate Certificate in Digital Transformation of Health outlines contemporary approaches for aspiring leaders in the health sector to harness the power of healthcare data and build effective and sustainable digitally enabled models of care. This degree connects students with University of Melbourne\u2019s global strengths in health and biomedical science, and in computer and information science.Students complete two core subjects developed and taught by an interdisciplinary team of experts from the Centre for Digital Transformation of Health, with learning outcomes informed by the Australian Digital Health Agency\u2019s National Digital Health Capability Action Plan and global trends in digital health education. The core subjects provide critical grounding in contemporary health informatics knowledge and practice; design, development, and evaluation of digital health initiatives; real-time interrogation of data; and implementation of knowledge gained in rapid quality improvement cycles. These subjects provide insights to drive improvements in patient outcomes and health system performance.",
+        "Varied elective subjects allow students to strengthen and complement existing skills and pursue interests aligned to preferred career pathways. Elective subject options include programming, leadership, innovation, evaluation, sustainability, and ethico-legal considerations in digital health.This program is suitable for people with an interest in healthcare data and its use in improving systems and outcomes, including but not limited to:\u2022 Clinical Health Professionals\u2022 Public Health Professionals\u2022 Epidemiologists\u2022 Clinical and Health Service Researchers\u2022 Data Analysts and Data Scientists\u2022 Bioinformaticians\u2022 Information Technologists\u2022 Medical Technology Developers and Entrepreneurs\u2022 Consumer Health Advocates\u2022 Managers, Administrators and Policy Makers in the Health Sector.",
+        "Opportunities include:\u2022 Hands-on work with patient datasets, tools for analytics and design, and introductions to machine learning and artificial intelligence in healthcare\u2022 Networking with an interprofessional group of peers from the health workforce, biomedical research, information systems and information technology, and other fields\u2022 Engaging with senior specialists in healthcare IT from public and private sector organisations\u2022 Connecting with mentors among the nationally and globally recognised informatics experts who teach in our program.This qualification may be used to support an application for education recognition in connection with memberships of health professional societies, such as the Australasian Institute of Digital Health. This qualification also caters to professionals interested in pursuing a clinical informatics fellowship.",
+        "The Graduate Certificate in Digital Transformation of Health can be a pathway to a University of Melbourne Master of Public Health (244CW), Master of Clinical Research (N01AA), or Master of Information Systems (MC-IS).",
+        "The Graduate Certificate in Digital Transformation of Health is offered for full-time or part-time study. It may be completed part-time over 1 or 2 years, starting in semester 1 or 2 each year, or it can be taken full-time over 6 months. Note: If you intend to complete within 6months, not all electives are available to you. If you plan to proceed to a Masters degree, electives must be chosen accordingly.",
+        "Last updated: 14 May 2024"
+    ],
+    "Overview table": {
+        "Award title": "Graduate Certificate in Digital Transformation of Health",
+        "Year & campus": "2024\u2014 Parkville",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Graduate Coursework",
+        "AQFlevel": "8",
+        "Credit points": "50 credit points",
+        "Duration": "6 months full-time or 12 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "In order to be considered for entry, applicants must have completed:",
+            "An undergraduate degree in any discipline ",
+            "Meeting this requirement does not guarantee selection.Applicants are required to satisfy the university\u2019s English language requirements for postgraduate courses. For those applicants seeking to meet these requirements by one of the standard tests approved by the Academic Board, performance band 6.5 is required.In ranking applications, the Selection Committee will consider:",
+            "Prior academic performance",
+            "The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Board rules on the use of selection instruments.",
+            "Notes:",
+            "This Certificate is used as a pathway to the MPH only and as an exit point from an incomplete MPH. Students will not be able to take this Certificate concurrently with the Master of Public Health.",
+            "Students who have completed relevant masters level public health subjects may be eligible for up to 25 points advanced standing."
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "For the purposes of considering a request for Reasonable Adjustments under the Disability Standards for Education (2005), and Students Experiencing Academic Disadvantage Policy, academic requirements for this subject are articulated in the Subject Description, Subject Objectives, Generic Skills and Assessment Requirements of this entry. The University is dedicated to providing support to those with special requirements. Further details on the disability support scheme can be found at the Disability Liaison Unit website.http://www.services.unimelb.edu.au/disability/"
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "The Graduate Certificate in Digital Transformation of Health requires the successful completion of 50 credit points.",
+                "50-point program: Two compulsory subjects (25 points: 2 x 12.5 point subjects) AND Two elective subjects (25 points: 2 x 12.5 point subjects)",
+                "Students must complete the following two compulsory subjects",
+                [
+                    "ISYS90069",
+                    "INFO90011"
+                ],
+                "Students must choose two electives from the following list:",
+                [
+                    "INFO90001",
+                    "POPH90013",
+                    "POPH90263",
+                    "POPH90294",
+                    "PADM90014",
+                    "POPH90299",
+                    "COMP90059",
+                    "LAWS70421",
+                    "REHB90009",
+                    "POPH90304",
+                    "COMP90090",
+                    "COMP90089"
+                ]
+            ]
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": []
+}

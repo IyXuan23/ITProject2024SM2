@@ -1,0 +1,18 @@
+{
+    "major name": "Animal Health and Disease",
+    "overview": [
+        "The Animal Health and disease major will provide an avenue for students wishing to pursue careers or research in the animal health, wildlife, and production industries. Graduates of this major will develop understandings of the role of animal health in maintaining the health of human populations, wildlife populations and the health of production animals, at the same time developing skills in laboratory techniques important in the diagnosis and surveillance of disease in animal populations. Students will gain experience that prepares them for the workplace by participating in laboratory activities and industry engagement via workshops and site visits."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "VETS30033": "Health & Disease in Wildlife Populations Credits",
+                "ANSC30001": "Animal Disease Biotechnology 1 Credits",
+                "ANSC30002": "Animal Disease Biotechnology 2 Credits",
+                "ANSC30006": "Production Animal Health Credits"
+            }
+        ]
+    }
+}

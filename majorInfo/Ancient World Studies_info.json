@@ -1,0 +1,75 @@
+{
+    "major name": "Ancient World Studies",
+    "overview": [
+        "Ancient World Studies embraces the broad study of Classical Greece and Rome, as well as Egypt and the Near East from 3000 BCE to the 4th century CE. Students can choose a variety of subject streams, which combine the study of ancient languages and/or texts in translation such as myth, literature, history, and philosophy with the study of archaeology, art, and architectural monuments. In addition, students can focus on a particular time period, geographic region, technical specialisation such as myth or ceramics, or thematic area of study. Students will gain insight into and understanding of contemporary society by exploring how ancient cultures have contributed to the development of our modern world, with regard to gender and ethnic identity, warfare, colonialism and imperialism, the propagandistic power of literary and visual imagery, and technology and economy. They will develop skills in research, writing, analysis, and communication that promote career flexibility."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "This major requires the completion of:",
+            [
+                "25 credit points of Level 1 subjects, comprising of either:",
+                "\n\n12.5 credit points of Level 1 electives and 12.5 credit points of Arts Discovery (for a single major) OR 25 credit points of Level 1 electives (for a double major)\n",
+                "37.5 credit points of Level 2 electives",
+                "12.5 credit points of Level 3 Capstone subject",
+                "25 credit points of Level 3 electives"
+            ],
+            "12.5 credit points of Level 1 electivesand12.5 credit points of Arts Discovery (for a single major)",
+            "OR",
+            "25 credit points of Level 1 electives (for a double major)",
+            "*Note:",
+            "Students must undertake the Arts Discovery subject as part of the course requirements and the Arts Discovery can be counted in one major only. For this major, you will need to complete two Level 1 subjects.",
+            "If you are completing a single major the correct enrolment for this major at level 1 is: The Arts Discovery subject and One Level 1 elective subject.",
+            "If you are completing a double major the correct enrolment for this major at level 1 is: The Arts Discovery subject and One Level 1 Elective subject OR Two Level 1 Elective subjects.",
+            "The subject ANCW30017 is compulsory in the Classics (Ancient Greek and Latin) and Ancient World Studies majors. Students who are completing two majors in these disciplines can only count ANCW30017 towards one major. One additional Level 3 subject must be completed for the other major."
+        ],
+        "Links": [
+            "http://shaps.unimelb.edu.au/classics-archaeology"
+        ],
+        "Level 1 electives": [
+            {
+                "ANCW10001": "Ancient Egypt and Mesopotamia Credits",
+                "ANCW10002": "Myth, Art and Empire: Greece and Rome Credits",
+                "ANCW10004": "Intensive Syriac Aramaic Credits",
+                "ANCW10006": "Ancient Egyptian 1 Credits",
+                "ANCW10007": "Ancient Egyptian 2 Credits",
+                "ANCW10008": "Intensive Akkadian 1 Credits",
+                "ANCW10009": "Intensive Akkadian 2 Credits"
+            }
+        ],
+        "Level 2 electives": [
+            {
+                "ANCW20003": "Egypt Under the Pharaohs with the NGV Credits",
+                "ANCW20015": "Classical Mythology Credits",
+                "ANCW20018": "Intensive Syriac Aramaic Credits",
+                "ANCW20019": "The Rise and Fall of the Roman Republic Credits",
+                "ANCW20022": "History of Greece: Homer to Alexander Credits",
+                "ANCW20023": "Ancient Egyptian 3 Credits",
+                "ANCW20024": "Ancient Egyptian 4 Credits",
+                "ANCW20025": "Archaeology of the Roman World Credits",
+                "ANCW20026": "Living and Dying in the Roman World Credits",
+                "ANCW20027": "The Ancient Greeks: Art & Archaeology Credits",
+                "ANCW20028": "Interpreting Material Culture Credits",
+                "PHIL20040": "Greek Philosophy Credits"
+            }
+        ],
+        "Level 3 Capstone subject": [
+            {
+                "ANCW30017": "Interpreting the Ancient World Credits"
+            }
+        ],
+        "Level 3 electives": [
+            {
+                "ANCW30004": "Beyond Babylon Credits",
+                "ANCW30011": "Underworld and Afterlife Credits",
+                "ANCW30016": "The Age of Alexander the Great Credits",
+                "ANCW30020": "Intensive Syriac Aramaic Credits",
+                "ANCW30021": "Imperial Rome: Mediterranean Superpower Credits",
+                "ANCW30023": "Practical Archaeology Credits",
+                "ANCW30025": "Field Archaeology Credits",
+                "ANCW30026": "Roman Law in Context Credits"
+            }
+        ]
+    }
+}

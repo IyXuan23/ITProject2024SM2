@@ -1,0 +1,24 @@
+{
+    "major name": "Sustainability and Environment",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "37.5 credit points",
+            "To obtain a specialisation in Sustainability and Environment, students must complete:",
+            [
+                "37.5 credit points of Year 2 Sustainability and Environment specialisation subjects"
+            ],
+            "Note: Students entering the course with advanced standing who plan on completing a specialisation may need to enrol in core specialisation subjects in their commencing semester. Please check and follow the structure outlined for your intended specialisation and seek course planning advice."
+        ],
+        "Subject Options": [
+            "Year 2 core specialisation subjects",
+            {
+                "CHEN90011": "Wastewater and Environmental Remediation Credits",
+                "CHEN90031": "Sustainable Bioprocessing Credits",
+                "CHEN90041": "Energy, Emissions and Pollution Control Credits"
+            },
+            "(Must be completed in Year 2 of the course)"
+        ]
+    }
+}

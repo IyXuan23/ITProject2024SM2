@@ -1,0 +1,106 @@
+{
+    "Course name": "Graduate Diploma in Veterinary Professional Leadership and Management",
+    "Course code": "GD-VPLMGT",
+    "Overview text": [
+        "This program provides veterinarians and veterinary students with specialist training in organisational leadership and management, across a broad range of management settings. Students study coursework subjects within the Master of Management program covering a broad spectrum of management activities. These subjects develop the theoretical and practical knowledge required to become a successful manager and leader, such as: business decision-making, motivating and leading people, and developing organisational strategies. Additionally, students participate in relevant industry placements which culminate in a capstone industry subject. This provides for experiential learning, which will equip students with the professional skills required to gain employment in a range of veterinary industries including practice management, private industries such as pharmaceuticals, research, government and non-government organisations.",
+        "",
+        "Last updated: 30 January 2024"
+    ],
+    "Overview table": {
+        "Award title": "Graduate Diploma in Veterinary Professional Leadership and Management",
+        "Year & campus": "2024\u2014 Parkville",
+        "CRICOS code": "088481F",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Graduate Coursework",
+        "AQFlevel": "8",
+        "Credit points": "100 credit points",
+        "Duration": "12 months full-time or 24 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "1. In order to be considered for entry, applicants must have completed:",
+            "either",
+            "a degree in veterinary science (BVSc, DVM or equivalent qualification) and relevant professional experience",
+            "or",
+            "acceptance into the Doctor of Veterinary Medicine at the University of Melbourne and currently undertaking full time studies in good standing.",
+            "Meeting these requirements does not guarantee selection.",
+            "2. In ranking applications, the Selection Committee will consider:",
+            "prior academic performance; and, if relevant",
+            "professional experience.",
+            "3. The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic BoardRuleson the use of selection instruments.",
+            "4. Applicants are required to satisfy the university\u2019sEnglish language requirements for graduate courses. For those applicants seeking to meet these requirements by one of the standard tests approved by the Academic Board, performanceband 7is required."
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "For the purposes of considering request for Reasonable Adjustments under the Disability Standards for Education (Cwth 2005), and Student Support and Engagement Policy, academic requirements for this subject are articulated in the Subject Overview, Learning Outcomes, Assessment and Generic Skills sections of this entry.",
+            "It is University policy to take all reasonable steps to minimise the impact of disability upon academic study, and reasonable adjustments will be made to enhance a student's participation in the University's programs. Students who feel their disability may impact on meeting the requirements of this subject are encouraged to discuss this matter with a Faculty Student Adviser and the Disability Liaison Unit:http://www.services.unimelb.edu.au/disability/",
+            "Students must possess the intellectual, ethical, and emotional capabilities required to participate in the full curriculum and to achieve the levels of competence required. Candidates must have abilities and skills in observation; motor in relevant areas; communication; in conceptual, integrative, and quantitative dimensions; and in behavioural and social dimensions. Adjustments can be provided to minimise the impact of a disability, however students need to be able to participate in the program in an independent manner and with regard to their safety and the safety of others.",
+            "1. Observation: In some contexts, the student must be able to observe demonstrations and experiments in the basic and applied sciences. More broadly, observation requires reading text, diagrams, maps, drawings and numerical data. The candidate should be able to observe details at a number of scales and record useful observations in discipline dependant contexts.",
+            "2. Communication: A candidate should be able to communicate with fellow students, professional and academic staff, members of relevant professions and the public. A candidate must be able to communicate effectively and sensitively. Communication includes not only speech but also reading and writing.",
+            "3. Motor: Candidates should have sufficient motor function necessary for participation in the inherent discipline-related activities. The practical work, design work, field work, diagnostic procedures, laboratory tests, require varying motor movement abilities. Off campus investigations may include visits to construction sites, urban, rural and/or remote environments.",
+            "4. Intellectual, Conceptual, Integrative and Quantitative Abilities: These abilities include measurement, calculation, reasoning, analysis, and synthesis. Problem solving, the critical skill demanded of professionals in land and environment industries, requires all of these intellectual abilities. In addition, the candidate should be able to comprehend three-dimensional relationships and to understand the spatial relationships of structures.",
+            "5. Behavioural and Social Attributes: A candidate must possess behavioural and social attributes that enable them to participate in a complex learning environment. Students are required to take responsibility for their own participation and learning. They also contribute to the learning of other students in collaborative learning environments, demonstrating interpersonal skills and an understanding of the needs of other students. Assessment may include the outcomes of tasks completed in collaboration with other students."
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "Two cohorts of students are able to undertake this course:",
+                [
+                    "Students concurrently enrolled in the Doctor of Veterinary Medicine at the University of Melbourne will take 62.5 points of enrolment in this Graduate Diploma, plus 37.5 points cross-credited based on concurrent enrolment in the DVM (Either both of VETS90060 Applications in Animal Health 1 Part A and VETS90061 Applications in Animal Health 1 Part B (37.5 points) or all three of VETS90082 Animal Management and Veterinary Health (12.5 points), VETS20014 Foundations of Animal Health 1 (12.5 points) and VETS20015 Foundations of Animal Health 2 (12.5 points), for a total 100 points."
+                ],
+                [
+                    "Students not concurrently enrolled in the Doctor of Veterinary Medicine will undertake 100 points in this Graduate Diploma."
+                ],
+                "Individual course structures are listed below for each cohort of students."
+            ]
+        },
+        "Subject options": {
+            "overview": []
+        },
+        "Students concurrently enrolled in the Doctor of Veterinary Medicine": {
+            "overview": [
+                "Students should take the following core subjects:",
+                [
+                    "MGMT90140",
+                    "MGMT90141",
+                    "AGRI90090"
+                ],
+                "Students should choose one of the following selective core subjects:",
+                [
+                    "MGMT90025",
+                    "MGMT90015"
+                ],
+                "Students should choose one of the following elective subjects, or another subject within the Master of Management program as approved by their course coordinator.",
+                [
+                    "MKTG90037",
+                    "MKTG90007"
+                ]
+            ]
+        },
+        "Students not concurrently enrolled in the Doctor of Veterinary Medicine": {
+            "overview": [
+                "Students should take the following core subjects:",
+                [
+                    "MGMT90140",
+                    "MGMT90141",
+                    "AGRI90090",
+                    "VETS90032",
+                    "VETS90031"
+                ],
+                "Students should choose one of the following selective core subjects:",
+                [
+                    "MGMT90025",
+                    "MGMT90015"
+                ],
+                "Students should choose one of the following elective subjects, or another subject within the Master of Management program as approved by their course coordinator.",
+                [
+                    "MKTG90037",
+                    "MKTG90007"
+                ]
+            ]
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": []
+}

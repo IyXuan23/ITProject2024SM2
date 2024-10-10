@@ -1,121 +1,160 @@
-from model import ask_gpt_for_keywords
-from database import load_subjects
-import difflib
 import logging
+import Levenshtein
+import re
+from model import ask_gpt_for_keywords
+from database import load_subjects, load_majors, load_courses
+from fuzzywuzzy import fuzz
+from jellyfish import jaro_winkler_similarity
 
 # Configure logging
 logging.basicConfig(filename='app.log', level=logging.INFO, format='%(asctime)s - %(message)s')
 
-# Load subject information
+# Load subjects, majors, and courses data
 subjects = load_subjects()
+majors = load_majors()
+courses = load_courses()
 
-def get_closest_match(user_input, options):
+def clean_input(user_input):
     """
-    Use difflib to perform fuzzy matching and find the closest match.
+    Clean user input by removing special characters and unnecessary spaces.
     """
-    closest_matches = difflib.get_close_matches(user_input.lower(), options, n=1, cutoff=0.6)
-    return closest_matches[0] if closest_matches else None
+    user_input = re.sub(r'[^\w\s]', '', user_input)  # Retain only letters, numbers, and spaces
+    return user_input.strip().lower()
 
-def detect_field_from_input(user_input):
+def get_best_match(user_input, options):
     """
-    Custom function to analyze user input and extract the possible field
-    (e.g., 'subject name', 'subject code', etc.).
+    Use multiple algorithms (Levenshtein distance, Jaro-Winkler similarity, fuzzy matching) to find the closest match.
     """
-    # Define common field keywords
-    common_fields = {
-        'subject name': ['subject name', 'name'],
-        'subject code': ['subject code', 'code', 'sub co'],
-        'pre-requisites': ['pre-requisite', 'prereq', 'pre-requirement'],
-        'overview': ['overview', 'description'],
-        # You can add more field keywords here
-    }
-    
-    # Convert user input to lowercase
     user_input_lower = user_input.lower()
+    scores = []
 
-    # Iterate through common field keywords to find a match
-    for field, keywords in common_fields.items():
-        for keyword in keywords:
-            if keyword in user_input_lower:
-                return field
-    
+    for option in options:
+        option_lower = option.lower()
+
+        # Levenshtein distance
+        lev_ratio = Levenshtein.ratio(user_input_lower, option_lower)
+
+        # Jaro-Winkler similarity
+        jw_similarity = jaro_winkler_similarity(user_input_lower, option_lower)
+
+        # Fuzzy matching
+        fuzz_ratio = fuzz.token_set_ratio(user_input_lower, option_lower) / 100  # Normalize to 0-1
+
+        # Overall score (weights can be adjusted as needed)
+        total_score = (lev_ratio + jw_similarity + fuzz_ratio) / 3
+
+        scores.append((option, total_score))
+
+    # Sort by score in descending order
+    scores.sort(key=lambda x: x[1], reverse=True)
+
+    # Set similarity threshold
+    if scores and scores[0][1] >= 0.7:
+        return scores[0][0]
     return None
 
 def correct_query(key_field, key_subject):
     """
-    Generate a corrected query based on the user's input field and subject name or code.
+    Generate a corrected query statement based on user input for fields, subjects, majors, or courses.
     """
-    key_subject_lower = key_subject.lower()  # Convert to lowercase for matching
-    all_subject_names = [data['subject name'].lower() for data in subjects.values()]
-    all_subject_codes = [subject_code.lower() for subject_code in subjects.keys()]
+    key_subject_cleaned = clean_input(key_subject)
 
-    # Get all available fields
-    sample_data = next(iter(subjects.values()))  # Pick any subject's data as a sample
-    available_fields = [field.lower() for field in sample_data.keys()]
+    # Retrieve all subject names and codes
+    all_subject_names = [data['subject name'] for data in subjects.values()]
+    all_subject_codes = [subject_code for subject_code in subjects.keys()]
 
-    # Fuzzy match field name
-    closest_field = get_closest_match(key_field, available_fields)
-    if closest_field:
-        corrected_field = closest_field
-    else:
-        corrected_field = key_field
+    # Retrieve all major names
+    all_major_names = [major_name for major_name in majors.keys()]
 
-    # Fuzzy match subject name or code
-    closest_subject_name = get_closest_match(key_subject_lower, all_subject_names)
-    closest_subject_code = get_closest_match(key_subject_lower, all_subject_codes)
+    # Retrieve all course names
+    all_course_names = [course_name for course_name in courses.keys()]
 
-    if closest_subject_name:
+    # Combine names and codes of subjects, majors, and courses
+    all_names = all_subject_names + all_subject_codes + all_major_names + all_course_names
+
+    # Retrieve available fields
+    sample_data = next(iter(subjects.values()))
+    available_fields = [field for field in sample_data.keys()]
+
+    # Add fields from majors
+    if majors:
+        sample_major_data = next(iter(majors.values()))
+        available_fields += [field for field in sample_major_data.keys()]
+
+    # Add fields from courses
+    if courses:
+        sample_course_data = next(iter(courses.values()))
+        available_fields += [field for field in sample_course_data.keys()]
+
+    available_fields = list(set(available_fields))
+
+    # Match field name
+    closest_field = get_best_match(key_field, available_fields)
+    if not closest_field:
+        closest_field = key_field
+
+    # Match subject/major/course code or name
+    closest_subject = get_best_match(key_subject_cleaned, all_names)
+    if closest_subject:
+        # Check if found in subjects
         for subject_code, data in subjects.items():
-            if data['subject name'].lower() == closest_subject_name:
-                corrected_subject = data['subject name']
+            if data['subject name'] == closest_subject or subject_code == closest_subject:
+                corrected_subject = data['subject name'] if data['subject name'] == closest_subject else subject_code
                 break
-    elif closest_subject_code:
-        for subject_code, data in subjects.items():
-            if subject_code.lower() == closest_subject_code:
-                corrected_subject = subject_code
-                break
+        else:
+            # Check if found in majors
+            for major_name in majors.keys():
+                if major_name == closest_subject:
+                    corrected_subject = major_name
+                    break
+            else:
+                # Check if found in courses
+                for course_name in courses.keys():
+                    if course_name == closest_subject:
+                        corrected_subject = course_name
+                        break
+                else:
+                    corrected_subject = key_subject
     else:
         corrected_subject = key_subject
 
-    # Return the corrected query
-    return f"What is the {corrected_field} for {corrected_subject}?"
+    # Return corrected query statement
+    return f"Please provide information about {closest_field} for {corrected_subject}."
 
-def main():
-    while True:
-        user_input = input("Enter your question (or 'exit' to quit): ").strip()
+def main(user_input):
+    try:
+        # Extract keywords using GPT model
+        response = ask_gpt_for_keywords(user_input)
         
-        if user_input.lower() == 'exit':
-            print("Goodbye!")
-            break
+        # Validate response format
+        if response.count('\n') < 1:
+            raise ValueError("Invalid format received from GPT.")
 
-        try:
-            # Detect field from user input using custom function
-            key_field = detect_field_from_input(user_input)
-            if not key_field:
-                print("Sorry, I couldn't detect the field you are asking about.")
-                continue
+        # Split response into lines
+        lines = response.strip().split('\n')
+        if len(lines) < 2:
+            raise ValueError("Incomplete information received from GPT.")
 
-            # Use GPT model to extract keywords to get subject information (subject code or name)
-            response = ask_gpt_for_keywords(user_input)
+        key_field = lines[0].replace('Key Field: ', '').strip()
+        key_subject = lines[1].replace('Key Subject: ', '').strip()
 
-            # Extract subject information
-            key_subject = response.split('\n')[1].replace('Key Subject: ', '').strip()
+        # Display extracted field and subject/major/course
+        print(f"Key Field: {key_field}")
+        print(f"Key Subject: {key_subject}")
+        
+        # Correct query statement
+        corrected_query = correct_query(key_field, key_subject)
+        print(f"Corrected Query: {corrected_query}")
 
-            # Output the detected field and subject
-            print(f"Key Field: {key_field}")
-            print(f"Key Subject: {key_subject}")
-            
-            # Automatically correct the query
-            corrected_query = correct_query(key_field, key_subject)
-            print(f"Corrected Query: {corrected_query}")
+        # Log user query and corrected result
+        logging.info(f"User Input: {user_input} | Corrected Query: {corrected_query}")
 
-            # Log user query and corrected result
-            logging.info(f"User Input: {user_input} | Corrected Query: {corrected_query}")
+    except Exception as e:
+        # Handle errors and log them
+        print("An error occurred during processing. Please try again.")
+        logging.error(f"Error: {str(e)}")
 
-        except Exception as e:
-            # Capture and log errors
-            print("An error occurred during processing. Please try again.")
-            logging.error(f"Error: {str(e)}")
-
+# Example usage
 if __name__ == "__main__":
-    main()
+    user_input = input("Enter your question: ").strip()
+    main(user_input)

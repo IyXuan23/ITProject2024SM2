@@ -1,0 +1,86 @@
+{
+    "Course name": "Master of Engineering Structures",
+    "Course code": "746ST",
+    "Overview text": [
+        "The Graduate Program in Engineering Structures is designed to meet the needs of graduates involved in disciplines associated with the advanced design of engineering structures. The Program includes contemporary issues such as ecologically sustainable buildings and the design of structures for extreme loading, such as earthquake, wind, blast and fire. Participants are also able to choose from a wide range of elective subjects including subjects focusing on project management and architecture. The major themes of this course are: structural systems, conceptual design, sustainable design, extreme loading and advanced analysis techniques.",
+        "Last updated: 30 January 2024"
+    ],
+    "Overview table": {
+        "Award title": "Master of Engineering Structures",
+        "Year & campus": "2024\u2014 Parkville",
+        "CRICOS code": "053355A",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Graduate Coursework",
+        "AQFlevel": "9",
+        "Credit points": "100 credit points",
+        "Duration": "12 months full-time or 24 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "1. In order to be considered for entry, applicants must have completed:\u2022 either\u2013 a 4 year degree in structural engineering with a weighted average mark of at least H3 (65%), or equivalent, or\u2013 a 4 year degree in civil engineering with a weighted average mark of at least H3 (65%), or equivalent, and either one year of documented, relevant work experience, or 30% of the final year of the degree dedicated to structural engineering subjects, or\u2013 a 3 year undergraduate degree in structural engineering with a weighted average mark of at least H3 (65%), or equivalent, and at least two years documented relevant work and/or professional experience since graduation; or\u2013 a 3 year undergraduate degree in civil engineering with a weighted average mark of at least H3 (65%), or equivalent, and at least three years of documented relevant work and/or professional experience since graduation.Meeting these requirements does not guarantee selection.2. In ranking applications, the Selection Committee will consider:\u2022 prior academic performance; and where relevant\u2022 the professional experience.3. The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Boardruleson the use of selection instruments.4. Applicants are required to satisfy the university\u2019s English language requirements for postgraduate courses. For those applicants seeking to meet these requirements by one of the standard tests approved by the Academic Board,performance band 6.5is required.Additional notes for the HandbookFor more information on meeting the University's English language requirements, see:http://futurestudents.unimelb.edu.au/info/international/english_and_foundation_programs"
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "For the purposes of considering a request for Reasonable Adjustments under the Disability Standards for Education (2005), and Students Experiencing Academic Disadvantage Policy, academic requirements for this subject are articulated in the Subject Description, Subject Objectives, Generic Skills and Assessment Requirements of this entry.The University is dedicated to providingsupport to those with special requirements. Further details on the disability support scheme can be found at the Disability Liaison Unit website.http://www.services.unimelb.edu.au/disability/"
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "Students must complete 100 points. This consists of a 2 subjects (25 points) which are selected from theCore Subjects, a minimum of 3 subjects (37.5 points) fromStructural Engineering selectivesand up to 3 subjects are selected from theInfrastructure Engineering electives."
+            ]
+        },
+        "Subject options": {
+            "overview": []
+        },
+        "Core subjects": {
+            "overview": [
+                "Must complete both of the core subjects. Total of 25 points.",
+                [
+                    "CVEN90024",
+                    "CVEN90035"
+                ]
+            ]
+        },
+        "Structural Engineering Selectives": {
+            "overview": [
+                "Select a minimum of 3 subjects from the following list. Total of 37.5 points.",
+                "The remaining subjects could be selected from theInfrastructure Engineering Electives.",
+                [
+                    "CVEN90017",
+                    "CVEN90026",
+                    "CVEN90016",
+                    "CVEN90018",
+                    "CVEN90062"
+                ]
+            ]
+        },
+        "Infrastructure Engineering Electives": {
+            "overview": [
+                "Select up to 3 subjects from the following list. Total of 37.5 points.",
+                "Students may also choose one Infrastructure Engineering elective subject not in the list below. Research subjects are subject to approval.",
+                [
+                    "CVEN90043",
+                    "ENEN90031",
+                    "ENEN90033",
+                    "ENEN90027",
+                    "ENGM90007",
+                    "CVEN90045",
+                    "CVEN90027",
+                    "CVEN90062",
+                    "ENEN90011",
+                    "ENEN90014",
+                    "ENGM90006",
+                    "CVEN90056",
+                    "CVEN90063",
+                    "CVEN90067",
+                    "CVEN90068",
+                    "CVEN90070",
+                    "CVEN90071"
+                ]
+            ]
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": []
+}

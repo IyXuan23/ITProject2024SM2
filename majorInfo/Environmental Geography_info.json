@@ -1,0 +1,128 @@
+{
+    "major name": "Environmental Geography",
+    "overview": [
+        "THE COURSE STRUCTURE BELOW ONLY APPLIES TO RE-ENROLLING STUDENTS WHO COMMENCED THEIR STUDIES PRIOR TO 2016",
+        "The Environmental Geographies major focuses on the relationship between human activities and the natural and built environment, humanity's changing relationship with the natural environment, and with the natural 'resources' that we both need and use. Contemporary political disputes, for example, have much to do with long-held concerns over energy supplies, water, land and food."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "150 credit points",
+            "112.5 points of Environmental Geographies subjects"
+        ],
+        "Subject Options": [
+            "The following description of the Environmental Geographies major aligns with the Study Plan Structure viewable on the Portal for students who commenced the Bachelor of Environments in 2015 or later.",
+            "The components within the structure of this major have been designed to enforce the requirements of both this specific major and of the course overall, e.g. the requirement that at least 62.5 points of Environments discipline subjects (which can include subjects taken within the major) are taken at each of Level 2 and Level 3.",
+            "PRE-2015 STUDENTS: Students who commenced the Bachelor of Environments prior to 2015 should refer to the handbook entry for the year they commenced in conjunction with the 2015 handbook listings for Environments elective and Breadth subject listings. View 2014 Bachelor of Environments Handbook entry."
+        ],
+        "Level 1 Optional Core (12.5 points)": [
+            "In order to complete this major, enrol in the following subject below in your first year:",
+            {
+                "ENVS10001": "Natural Environments Credits"
+            },
+            "IMPORTANT: This subject can also be taken as a Level 1 Environments Elective."
+        ],
+        "Environmental Geographies core subjects (37.5 points)": [
+            "All of",
+            {
+                "GEOG20001": "Society and Environments Credits",
+                "GEOG20003": "Environmental Politics and Management Credits",
+                "GEOG30019": "Sustainable Development Credits"
+            }
+        ],
+        "Major Electives & Environments Discipline subjects": [
+            "Choose the total of",
+            [
+                "1. 75 points of Major elective subjects;",
+                "2. 37.5 points of Environments Discipline subjects"
+            ],
+            "RULES:",
+            "Please note these rules when choosing the Major electives & Environments Discipline subjects below",
+            [
+                "1. Must complete 12.5 points level 2 subjects",
+                "2. Must complete 25 points level 3 subjects"
+            ]
+        ],
+        "Major Electives (75 points)": [
+            "Select from the list below",
+            {
+                "AIND20010": "Australian Environmental Philosophy Credits",
+                "ECOL20003": "Ecology Credits",
+                "ECON30011": "Environmental Economics Credits",
+                "GEOG10001": "Famine: The Geography of Scarcity Credits",
+                "GEOG20002": "Landscapes and Environmental Change Credits",
+                "GEOG20008": "Inside the City of Diversity Credits",
+                "GEOG20009": "Landscapes and Diversity Credits",
+                "GEOG20010": "China in Transition Credits",
+                "GEOG20011": "Global Inequalities In The Anthropocene Credits",
+                "GEOG20012": "Post-Conflict Development and Difference Credits",
+                "GEOG30001": "Geomorphology: Catchment to Coast Credits",
+                "GEOG30007": "China Field Class Credits",
+                "GEOG30021": "The Disaster Resilient City Credits",
+                "GEOG30022": "Riverine Landscapes: Hydrology & Ecology Credits",
+                "GEOG30023": "Global Climate Change in Context Credits",
+                "GEOG30024": "Africa: Environment, Development, People Credits",
+                "GEOG30025": "Biogeography and Ecology of Fire Credits",
+                "GEOG30026": "East Timor Field Class Credits",
+                "GEOG30027": "Local Sites, Global Connections Credits",
+                "ENST20002": " Credits"
+            }
+        ],
+        "Environments Discipline subjects (37.5 points)": [
+            {
+                "Environments Discipline subjects": " Credits"
+            }
+        ],
+        "Breadth subjects and restrictions for Environmental Geographies major students": [
+            {
+                "Restrictions for Breadth Options": " Credits"
+            },
+            "Students undertaking the Environmental Geographies major are not permitted to take as breadth:",
+            [
+                "any Anthropology subjects (subject codes beginning ANTH)"
+            ],
+            [
+                "any Asian Studies subjects (subject codes beginning ASIA)"
+            ],
+            [
+                "any Australian Indigenous Studies subjects (subject codes beginning AIND)"
+            ],
+            [
+                "any Australian Studies subjecs (subject code beginning AUST)"
+            ],
+            [
+                "any Criminology subjects (subject codes beginning CRIM)"
+            ],
+            [
+                "any Development Studies subjects (subject codes beginning DEVT)"
+            ],
+            [
+                "any Economics subjects (subject codes beginning ECON)"
+            ],
+            [
+                "any Environmental Science subjects (subject codes beginning EVSC)"
+            ],
+            [
+                "any Gender Studies subjects (subject codes beginning GEND)"
+            ],
+            [
+                "any Linguistics subjects (subject codes beginning LING)"
+            ],
+            [
+                "any Political Science subjects (subject codes beginning POLS)"
+            ],
+            [
+                "any Psychology subjects (subject codes beginning PSYC)"
+            ],
+            [
+                "any Social Theory subjects (subject codes beginning SOTH)"
+            ],
+            [
+                "any Sociology subjects (subject codes beginning SOCI)"
+            ]
+        ],
+        "Notes": [
+            "For more information on this major and to view a sample course plan please visit:http://edsc.unimelb.edu.au/sample-course-plans-bachelor-environments"
+        ]
+    }
+}

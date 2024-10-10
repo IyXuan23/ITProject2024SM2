@@ -1,0 +1,44 @@
+{
+    "major name": "400pt Program",
+    "overview": [
+        "Please refer to the course overview .",
+        "Last updated: 30 January 2024"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "400 credit points",
+            "300 points Core subjects in Construction Management or Property",
+            "37.5 points Construction Management specialisation subjects",
+            "25 points Property electives",
+            "25 points Construction Management electives",
+            "12.5 points elective"
+        ],
+        "Subject Options": [],
+        "First-Year Core Subjects (100 points)": [
+            "Students with an undergraduate major or degree in Property should complete all the following subjects:",
+            {
+                "ABPL90292": "Construction of Buildings Credits",
+                "ABPL90086": "Environmental Systems Credits",
+                "ABPL90313": "Management of Construction Credits",
+                "ABPL90324": "Materials and Structures Credits",
+                "ABPL90293": "Steel and Composite Construction Systems Credits",
+                "ABPL90312": "Cost Management Credits",
+                "ABPL90335": "Contract Management Credits",
+                "ABPL90435": "Concrete Construction Systems Credits"
+            },
+            "AND",
+            "Students with an undergraduate major or degree in Construction Management should complete all the following subjects:",
+            {
+                "ABPL90290": "Fundamentals of Built Environment Law Credits",
+                "ABPL90274": "Property Markets and Valuations Credits",
+                "ABPL90275": "Property Resources and Management Credits",
+                "ACCT90041": "Fundamentals in Accounting Credits",
+                "ABPL90130": "Planning Law & Statutory Planning Credits",
+                "FNCE90060": "Financial Management Credits",
+                "ECON90015": "Managerial Economics Credits"
+            },
+            "For remaining points (second to fourth year) please check 300pt Program"
+        ]
+    }
+}

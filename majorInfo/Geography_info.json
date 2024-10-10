@@ -1,0 +1,79 @@
+{
+    "major name": "Geography",
+    "overview": [
+        "Geography is the investigation and understanding of the dynamic relationships between societies and environments. The discipline raises and answers questions about why these relationships are the way they are, how and why they are changing, and how and why their characteristics vary over time and space. Geographers study human actions and activities from the local scale to the global scale. Geography is one of the few disciplines that encompasses very different ways of knowing - those of science and those of the humanities and social sciences - in its approach to the world\u2019s urgent problems and injustices. As such it is a globally-minded discipline that seeks to understand the complex connections between people and place in order to work towards a more equitable world.",
+        "The BA Major in Geography allows students both breadth and specificity in the study of Geography. Specific pathways within the Major are dedicated to the study of urban geography, cultural geography, development geography, environmental geography (especially focused on climate change issues and debates) and Asia-Pacific geography. Field classes in Australia and overseas (at 200-level and 300-level) offer students the opportunity to explore and examine geographical issues, policy and problems first-hand."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "This major requires the completion of:",
+            [
+                "12.5 credit points of Level 1 Core subjects",
+                "12.5 credit points of Arts Discovery (for a single major) or 12.5 credit points of Level 1 electives (for a double major)*",
+                "37.5 credit points of Level 2 electives",
+                "37.5 credit points of Level 3 subjects includingOne of the Level 3 Capstone subjects\n",
+                "One of the Level 3 Capstone subjects"
+            ],
+            "12.5 credit points of Arts Discovery (for a single major)or12.5 credit points of Level 1 electives (for a double major)*",
+            [
+                "One of the Level 3 Capstone subjects"
+            ],
+            "*Note:",
+            "Students must undertake the Arts Discovery subject as part of the course requirements and the Arts Discovery can be counted in one major only. For this major, you will need to complete two Level 1 subjects.",
+            "If you are completing a single major the correct enrolment for this major at level 1 is: The Arts Discovery subject and One Level 1 core subject",
+            "If you are completing a double major the correct enrolment for this major at level 1 is: The Arts Discovery subject and One Level 1 core subject OR One Level 1 core subject and One Level 1 elective subject"
+        ],
+        "Level 1 core subject": [
+            {
+                "GEOG10001": "Famine: The Geography of Scarcity Credits"
+            }
+        ],
+        "Level 1 electives": [
+            {
+                "GEOG10003": "Global Youth Credits"
+            }
+        ],
+        "Level 2 electives": [
+            {
+                "GEOG20001": "Society and Environments Credits",
+                "GEOG20002": "Landscapes and Environmental Change Credits",
+                "GEOG20003": "Environmental Politics and Management Credits",
+                "GEOG20008": "Inside the City of Diversity Credits",
+                "GEOG20010": "China in Transition Credits",
+                "GEOG20011": "Global Inequalities In The Anthropocene Credits",
+                "GEOG20012": "Post-Conflict Development and Difference Credits",
+                "GEOG20013": "Health Geography Credits",
+                "GEOG20015": "Environmental Change & the Human Journey Credits",
+                "GEOG20016": "Fertility, Mortality and Social Change Credits",
+                "GEOG20017": "Spatial Analysis in Geography Credits",
+                "GEOG20018": "India: Environment, Politics and Society Credits"
+            }
+        ],
+        "Level 3 Capstone subjects": [
+            {
+                "GEOG30007": "China Field Class Credits",
+                "GEOG30025": "Biogeography and Ecology of Fire Credits",
+                "GEOG30026": "East Timor Field Class Credits",
+                "GEOG30027": "Local Sites, Global Connections Credits",
+                "GEOG30033": "Arid Australia Field Class Credits"
+            }
+        ],
+        "Level 3 electives": [
+            {
+                "GEOG30001": "Geomorphology: Catchment to Coast Credits",
+                "GEOG30019": "Sustainable Development Credits",
+                "GEOG30021": "The Disaster Resilient City Credits",
+                "GEOG30022": "Riverine Landscapes: Hydrology & Ecology Credits",
+                "GEOG30023": "Global Climate Change in Context Credits",
+                "GEOG30024": "Africa: Environment, Development, People Credits",
+                "GEOG30028": "Mobile Worlds Credits",
+                "GEOG30029": "Geographies of Migration Credits",
+                "GEOG30030": "Spatial Modelling for Nature and People Credits",
+                "GEOG30031": "Law Space: Geographies of Justice Credits",
+                "GEOG30032": "Risk Management and Citizen Science Credits"
+            }
+        ]
+    }
+}

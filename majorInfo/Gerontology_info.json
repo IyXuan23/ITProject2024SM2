@@ -1,0 +1,64 @@
+{
+    "major name": "Gerontology",
+    "overview": [
+        "Students specialising in Gerontology will acquire knowledge and skills in both the theory and practice of multi-disciplinary aspects of ageing according to the subjects selected. As populations and workforces age, the demand for skilled professionals will continue to increase rapidly. A Gerontology specialisation will give MPH students an edge in that area of the employment market. The gerontology subjects are designed to provide an overview of ageing societies from different disciplines and engage with examples from around the world. Students will identify and discuss current and key challenges in ageing from a global perspective. They will develop an informed understanding of gerontological research principles, concepts and methods and will learn to articulate the ways in which age, gender, ethnicity and indigenous status, society, culture, geography, the environment, disability and socio-economic status influence the ageing experience. Systems, structures and policies that address ageing in Australia and other countries are examined, along with strategies aimed to promote healthy and productive ageing across the lifespan. Students will be challenged to apply comprehensive knowledge of the ageing experience from conceptual and practical dimensions of the course in developing solutions to complex ageing issues.",
+        "Last updated: 17 July 2024"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [],
+        "Standard 200 Point Program (no Advanced Standing):": [
+            "SIX core subjects and NINE elective subjects and the Capstone Selective POPH90227 Public Health in PracticeORSIX core subjects, EIGHT elective subjects and either a Research Project or Professional Practice unit",
+            "175 Point Pathway:",
+            "SIX core subjects and SEVEN elective subjects and the Capstone Selective POPH90227 Public Health in PracticeORSIX core subjects, SIX elective subjects and either a Research Project or Professional Practice unit",
+            "150 Point Pathway:",
+            "SIX core subjects and FIVE elective subjects and the Capstone Selective POPH90227 Public Health in PracticeORSIX core subjects and FOUR elective subjects and either a Research Project or Professional Practice unit"
+        ],
+        "Subject Options": [],
+        "Core Subjects": [
+            {
+                "POPH90217": "Foundations of Public Health Credits",
+                "POPH90013": "Biostatistics Credits",
+                "POPH90014": "Epidemiology 1 Credits",
+                "POPH90218": "Public Health Leadership and Management Credits",
+                "POPH90231": "Qualitative Research in Public Health Credits",
+                "POPH90274": "Prioritising & Planning in Public Health Credits"
+            }
+        ],
+        "Highly Recommended Electives*": [
+            {
+                "POPH90264": "Global Population Ageing Credits",
+                "PSYT90092": "Mental Health and Ageing Credits",
+                "POPH90258": "Economics of Ageing Credits"
+            },
+            "*The highly recommended electives meet the requirements for working in this field and can be different to the electives required to complete a research project in this area."
+        ],
+        "Other Recommended Electives": [
+            {
+                "POPH90267": "Ageing Health & Human Services Credits",
+                "POPH90256": "Ageing in Society Credits",
+                "ABPL90377": "Design for Ageing Credits",
+                "POPH90257": "Body of Ageing Credits"
+            }
+        ],
+        "Capstone": [
+            "There are three Capstone options to choose from - please refer to the Course Entry for detailed information on each of these:",
+            [
+                "1. Research Project",
+                "2. Professional Practice Unit",
+                "3. Capstone selective subject and an additional elective"
+            ]
+        ],
+        "Pre-requisite Subjects for the Research Project Option": [
+            "Please refer to the Subject Entries below for detailed information on the research project pre-requisites for this specialisation",
+            {
+                "POPH90284": "Research Project in Public Health Part 1 Credits",
+                "POPH90285": "Research Project in Public Health Part 2 Credits"
+            },
+            "OR",
+            {
+                "POPH90255": "Research Project in Public Health - S Credits"
+            }
+        ]
+    }
+}

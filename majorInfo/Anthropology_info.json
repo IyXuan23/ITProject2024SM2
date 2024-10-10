@@ -1,0 +1,72 @@
+{
+    "major name": "Anthropology",
+    "overview": [
+        "Anthropology is the study of people\u2019s common humanity as well as the extraordinary cultural and social diversity found around the globe. Its distinctive methodology, based on intense, long-term participation in people\u2019s daily lives, allows for ideas to develop out of local experience and knowledge. Contemporary fieldwork is as likely to take place in an urban tower block or tourist resort or moving with migrants or refugees, as it would be in a remote village in Africa or an island community in Melanesia. This major invites participation in subjects on: diverse ideas about the body; belief and religious practices; the growth of consumption and commodification, ethnic and national identity, and constructions of nature, sex, family and gender. The course we offer will expand your horizons by challenging your taken-for-granted understanding of the world, and it will also provide you with the skills needed to work successfully with people, to listen, to think critically, and to be fully engaged in an ever more expanding world."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "This major requires the completion of:",
+            [
+                "25 credit points of Level 1 subjects, comprising of either:",
+                "\n\n12.5 credit points of Level 1 electives and 12.5 credit points of Arts Discovery (for a single major) OR 25 credit points of Level 1 electives (for a double major)\n",
+                "25 credit points of Level 2 core subjects",
+                "12.5 credit points of Level 2 elective subject",
+                "12.5 credit points of Level 3 Capstone subjects",
+                "25 credit points of Level 3 elective subjects"
+            ],
+            "12.5 credit points of Level 1 electivesand12.5 credit points of Arts Discovery (for a single major)",
+            "OR",
+            "25 credit points of Level 1 electives (for a double major)",
+            "*Notes:",
+            "Students must undertake the Arts Discovery subject as part of the course requirements and the Arts Discovery can be counted in one major only. For this major, you will need to complete two Level 1 subjects.",
+            "If you are completing a single major the correct enrolment for this major at level 1 is: The Arts Discovery subject and One Level 1 elective subject",
+            "If you are completing a double major the correct enrolment for this major at level 1 is: The Arts Discovery subject and One Level 1 elective subject OR Two Level 1 elective subjects"
+        ],
+        "Links": [
+            "http://ssps.unimelb.edu.au/study-areas/anthropology-and-development-studies"
+        ],
+        "Level 1 elective subjects": [
+            {
+                "ANTH10001": "Anthropology: Studying Self and Other Credits",
+                "ANTH10002": "Anthropology & Food in Everyday Life Credits"
+            }
+        ],
+        "Level 2 core subjects": [
+            {
+                "ANTH20012": "Self, Culture and Society Credits",
+                "ANTH20015": "Melbourne: Urban Anthropology in Action Credits"
+            }
+        ],
+        "Level 2 elective subject": [
+            {
+                "ANTH20001": "Keeping the Body in Mind Credits",
+                "ANTH20008": "Anthropology of Gender and Sexuality Credits",
+                "ANTH20011": "Ethnic Nationalism and the Modern World Credits",
+                "ANTH20013": "Diplomat, Soldier, Spy: The Deep State Credits",
+                "DEVT20001": "Development in the 21st Century Credits",
+                "GEND20001": "Gender, Sexuality and Power Credits",
+                "GEND20008": "Feminist Futures: Theory and Activism Credits"
+            }
+        ],
+        "Level 3 Capstone subject": [
+            {
+                "ANTH30013": "The Anthropological Imagination Credits"
+            }
+        ],
+        "Level 3 electives": [
+            {
+                "ANTH30003": "Lived Religion in an Uncertain World Credits",
+                "ANTH30005": "Power, Ideology and Inequality Credits",
+                "ANTH30009": "Anthropology of More-Than-Human Worlds Credits",
+                "ANTH30018": "Cultures of Law Credits",
+                "ANTH30023": "Crisis, Culture and Resistance Credits",
+                "MULT30017": "Australian Indigenous Public Policy Credits",
+                "ANTH30019": "Innovation, Design, and Society Credits",
+                "ANTH30024": "Money and Sweat: Economic Anthropology Credits",
+                "ANTH30025": "Extractive Legacies in Latin America Credits"
+            }
+        ]
+    }
+}

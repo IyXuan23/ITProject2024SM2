@@ -1,0 +1,30 @@
+{
+    "major name": "Pathology",
+    "overview": [
+        "Pathology is the scientific study of the nature of disease and its causes, processes, development, and consequences. It is a branch of science where factors which influence the shift from normal to abnormal and back again are studied at every level from the whole organism to the molecule. Therefore it overlaps with a range of biomedical disciplines such as anatomy, cell biology, biochemistry and molecular biology, microbiology and immunology and genetics. The study of Pathology will provide students with background knowledge which will enable them to ask fundamental questions about the response of tissues and cells to injury, mechanisms of healing and the outcomes which may occur when healing is unsuccessful. Students who complete a Pathology major will study findings emerging from research laboratories which are currently investigating some of the most common and intractable diseases in our community e.g. cardiovascular disease, autoimmune disease, neurodegenerative disease and cancer. A Pathology major will also give students the opportunity to experience working in a team on an investigative project and enable them to develop both verbal and written communication skills."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "PATH30001": "Mechanisms of Human Disease Credits",
+                "PATH30002": "Techniques for Investigation of Disease Credits",
+                "PATH30003": "Frontiers in Human Disease Credits"
+            },
+            "AND",
+            "Electives options",
+            {
+                "PATH30004": "Advanced Investigation of Human Disease Credits",
+                "BIOM30003": "Biomedical Science Research Project Credits"
+            },
+            "OR",
+            "One ofLevel 3 subjects in Anatomy, Cell Biology, Biochemistry and Molecular Biology, Genetics, Microbiology and Immunology, Pharmacology, or Physiology",
+            "Note:",
+            "Alternative subject options to make up this elective component of the major can also be taken, subject to the approval of the major coordinator."
+        ],
+        "Notes": [
+            "A quota has been applied to a core subject and an optional subject in this major."
+        ]
+    }
+}

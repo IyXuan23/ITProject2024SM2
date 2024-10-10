@@ -1,0 +1,20 @@
+{
+    "major name": "Psychology Analytics",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points"
+        ],
+        "Specialisation Core": [
+            "25 points:",
+            {
+                "PSYC90109": "Introduction to Experience Sampling Credits",
+                "COMP90076": "Social Analytics Credits"
+            }
+        ],
+        "Electives": [
+            "25 points: any two subjects chosen from the other specialisations"
+        ]
+    }
+}

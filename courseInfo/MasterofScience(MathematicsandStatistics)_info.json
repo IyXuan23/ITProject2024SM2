@@ -1,0 +1,308 @@
+{
+    "Course name": "Master of Science (Mathematics and Statistics)",
+    "Course code": "MC-SCIMAT",
+    "Overview text": [
+        "The Master of Science (Mathematics and Statistics) is a coursework master's degree incorporating a substantial research project.",
+        "The course is a flexible program that allows students to study subjects across Pure Mathematics, Applied Mathematics, Mathematical Biology, Mathematical Physics, Physical Combinatorics, Operations Research, Industrial Optimisation, Discrete Mathematics, Statistics, Probability and Stochastic Processes. Subjects are taught at an advanced level and form an ideal preparation for research in Mathematics and Statistics, including doctoral (PhD) studies.",
+        "The Master of Science (Mathematics and Statistics) also gives students the opportunity to undertake a professional skills component, and is a pathway to PhD study or to the workforce."
+    ],
+    "Overview table": {
+        "Award title": "Master of Science (Mathematics and Statistics)",
+        "Year & campus": "2024\u2014 Parkville",
+        "CRICOS code": "094599G",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Graduate Coursework",
+        "AQFlevel": "9",
+        "Credit points": "200 credit points",
+        "Duration": "24 months full-time or 48 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "1. In order to be considered for entry, applicants must have completed:",
+            "Meeting these requirements does not guarantee selection.",
+            "2.In ranking applications, the Selection Committee will consider:",
+            "3.The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Board rules on the use of selection instruments.",
+            "4.Applicants are required to satisfy the university\u2019s English language requirements for graduate courses. For those applicants seeking to meet these requirements by one of the standard tests approved by the Academic Board, performance band 6.5 is required.",
+            "Note:"
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "The Master of Science (Mathematics and Statistics) welcomes applications from students with disabilities. It is University and degree policy to take all reasonable steps to minimise the impact of disability upon academic study, and reasonable adjustments will be made to enhance a student\u2019s participation in the degree. The Master of Science (Mathematics and Statistics) requires the following for all enrolled students:",
+            "1. the ability to comprehend complex science and technology related information;",
+            "2. the ability to clearly and independently communicate knowledge and application of science, and technology principles and practices during assessment tasks;",
+            "3. the ability to spend significant time behind a computer screen.",
+            "Students must possess behavioural and social attributes that enable them to participate in a complex learning environment. Students are required to take responsibility for their own participation and learning. They also contribute to the learning of other students in collaborative learning environments, demonstrating interpersonal skills and an understanding of the needs of other students. Assessment may include the outcomes of tasks completed in collaboration with other students. There may be additional inherent academic requirements for some subjects, and these requirements are listed within the description of the requirements for each of these subjects. Students who feel their disability will impact on meeting this requirement are encouraged to discuss this matter with the relevant Subject Coordinator and the Disability Liaison Unit:http://www.services.unimelb.edu.au/disability/"
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "Students must complete a total of 200 pts comprising:",
+                [
+                    "Discipline subjects (137.5 points);",
+                    "Professional Skills Subject (12.5 points);",
+                    "Research Project Component (50 points or in special cases, with approval of the MSc program coordinator, 25 points with an additional 25 points of Master's level Mathematics and Statistics discipline subjects)."
+                ]
+            ]
+        },
+        "Subject options": {
+            "overview": []
+        },
+        "Specialisation subjects": {
+            "overview": [
+                "Students must select one of the following specialisations (62.5 pts):",
+                [
+                    "Applied Mathematics and Mathematical Biology;",
+                    "Operations Research and Industrial Optimisation;",
+                    "Pure Mathematics;",
+                    "Statistics and Stochastic Processes."
+                ]
+            ],
+            "Applied Mathematics and Mathematical Biology specialisation": {
+                "overview": [
+                    "Students must complete two compulsory specialisation subjects:",
+                    [
+                        "MAST90064",
+                        "MAST90067"
+                    ],
+                    "Students must select three elective specialisation subjects:",
+                    [
+                        "MAST90011",
+                        "MAST90026",
+                        "MAST90060",
+                        "MAST90103",
+                        "MAST90113",
+                        "MAST90125",
+                        "MAST90127",
+                        "MAST90129"
+                    ]
+                ]
+            },
+            "Mathematical Physics and Physical Combinatorics specialisation": {
+                "overview": [
+                    "Students must complete at least two of three compulsory specialisation subjects:",
+                    [
+                        "MAST90030",
+                        "MAST90060",
+                        "MAST90067"
+                    ],
+                    "Students must select three elective specialisation subjects:",
+                    [
+                        "MAST90031",
+                        "MAST90064",
+                        "MAST90065",
+                        "MAST90069",
+                        "MAST90103",
+                        "MAST90132"
+                    ]
+                ]
+            },
+            "Operations Research and Industrial Optimisation specialisation": {
+                "overview": [
+                    "Students must complete two compulsory specialisation subjects:",
+                    [
+                        "MAST90014",
+                        "MAST90098"
+                    ],
+                    "Students must select three elective specialisation subjects:",
+                    [
+                        "MAST90013",
+                        "MAST90050",
+                        "MAST90137",
+                        "MAST90142",
+                        "MAST90144"
+                    ]
+                ]
+            },
+            "Pure Mathematics specialisation": {
+                "overview": [
+                    "Students must complete two compulsory specialisation subjects:",
+                    [
+                        "MAST90012",
+                        "MAST90023"
+                    ],
+                    "Students must select three elective specialisation subjects:",
+                    [
+                        "MAST90017",
+                        "MAST90020",
+                        "MAST90029",
+                        "MAST90056",
+                        "MAST90068",
+                        "MAST90097",
+                        "MAST90124",
+                        "MAST90132",
+                        "MAST90133",
+                        "MAST90136",
+                        "MAST90143"
+                    ]
+                ]
+            },
+            "Statistics and Stochastic Processes specialisation": {
+                "overview": [
+                    "Students must complete two compulsory specialisation subjects:",
+                    [
+                        "MAST90081",
+                        "MAST90082"
+                    ],
+                    "Students must select three elective specialisation subjects:",
+                    [
+                        "MAST90019",
+                        "MAST90027",
+                        "MAST90051",
+                        "MAST90059",
+                        "MAST90083",
+                        "MAST90084",
+                        "MAST90111",
+                        "MAST90112",
+                        "MAST90122",
+                        "MAST90125",
+                        "MAST90138"
+                    ]
+                ]
+            }
+        },
+        "Further Discipline Subjects": {
+            "overview": [
+                "Students must also select:",
+                [
+                    "Two subjects (25 points) from a single specialisation different to their selected specialisation;",
+                    "Four subjects (50 points) from any of the specialisations. Students from the Mathematical Physics and Physical Combinatorics specialisation may take up to four approved Master's level subjects from other Schools or Faculties, of which at least two must be from the Physics Master's level subjects listed below.   Students from other specialisations may take up to two approved Master's level subjects from other Schools or Faculties."
+                ],
+                "Up to two of the four Further Discipline subjects can be replaced with approved undergraduate subjects. Where it is necessary for the student to acquire the required knowledge for Master's level Mathematics & Statistics discipline subjects, up to two further Master's level subjects can be replaced with approved undergraduate subjects."
+            ],
+            "Suggested Further Discipline Subjects": {
+                "overview": [],
+                "Mathematics and Statistics": {
+                    "overview": [
+                        [
+                            "MAST90053"
+                        ]
+                    ]
+                },
+                "Physics": {
+                    "overview": [
+                        [
+                            "PHYC90007",
+                            "PHYC90008",
+                            "PHYC90009",
+                            "PHYC90010",
+                            "PHYC90011",
+                            "PHYC90012"
+                        ]
+                    ]
+                },
+                "Computer Science": {
+                    "overview": [
+                        [
+                            "COMP90038",
+                            "COMP90043",
+                            "COMP90046",
+                            "COMP90048",
+                            "COMP90049",
+                            "COMP90051",
+                            "COMP90059"
+                        ]
+                    ]
+                },
+                "Bioinformatics": {
+                    "overview": [
+                        [
+                            "BINF90001",
+                            "BINF90002"
+                        ]
+                    ]
+                },
+                "Biomedical Engineering": {
+                    "overview": [
+                        [
+                            "BMEN90027"
+                        ]
+                    ]
+                }
+            }
+        },
+        "Professional Skills": {
+            "overview": [
+                "1. Students must choose one of the following:",
+                [
+                    "MAST90045",
+                    "COMP90072"
+                ],
+                "2. Students who have already received credit for one of (MAST30028, MAST30032, MAST90026, COMP10001, COMP10002, COMP20005, COMP90059, INFO10001, PHYC20013, or other evidence of competence in computer programming as approved by the course coordinator) must choose one of the above subjects, or one of the following:",
+                [
+                    "SCIE90005",
+                    "SCIE90012",
+                    "SCIE90013",
+                    "SCIE90017",
+                    "MULT90063",
+                    "LAWS90203",
+                    "ENGR90021"
+                ]
+            ]
+        },
+        "Research Project - 50 points": {
+            "overview": [
+                "A typical course structure for full time students",
+                "Full time students are advised to structure their enrolments as follows:",
+                [
+                    "Semester 1 - 50.0 points of coursework and no research project.",
+                    "Semester 2 - 37.5 points of coursework and Research Project Part 1 (12.5 points).",
+                    "Semester 3 - 37.5 points of coursework and Research Project Part 2 (12.5 points).",
+                    "Semester 4 - 25.0 points of coursework and Research Project Part 3 (25 points)."
+                ],
+                "Other structures that are suitable for part time study, or for students who enroll with credit from earlier degrees, can be negotiated with the student's supervisor and the School's MSc program coordinator."
+            ],
+            "Research Project Component": {
+                "overview": [
+                    "The first semester of study is meant for coursework only. During the first semester, students should finalise their choice of research project supervisor and research topic.",
+                    "The research project should be conducted in three consecutive semesters. Typically, work on the project, including the associated thesis and presentation, starts at the beginning of the second semester of study and is conducted in 60 of the next 66 weeks. An indicative total time commitment of 800 hours for the duration of the project is expected.",
+                    "The assessment requirements below are applicable to the entire 50 point Research Project.",
+                    [
+                        "A preliminary literature survey and research plan (of 2 pages) is due at the end of week eight of Research Project Part 1 (hurdle; pass/fail ).",
+                        "An intermediate report on the progress in the research project (of 2 pages) is due at the end of week eight of Research Project Part 2 (hurdle; pass/fail).",
+                        "A thesis (90% of assessment) is the main requirement due after the full 50 points of enrolment in the research project component. Theses are expected to be 40-60 pages in length, excluding references, appendices, figures and tables. The thesis will be submitted two weeks prior to the end of the teaching period in the final semester of Research project enrolment.",
+                        "Students will have to give 30 minute presentations (10% of assessment) on their research projects in the last week of that teaching period, on a date to be announced by the School of Mathematics and Statistics at the beginning of semester."
+                    ],
+                    "Leave of absence during enrolment in a research project and outside of university holidays requires the approval of the student\u2019s supervisor.",
+                    "Under special circumstances, with the permission of the program coordinator, students may be allowed to complete two 25 point research projects in lieu of a single 50 point project.",
+                    [
+                        "MAST90116",
+                        "MAST90119",
+                        "MAST90117",
+                        "MAST90120",
+                        "MAST90118",
+                        "MAST90121"
+                    ]
+                ]
+            }
+        },
+        "Research Project - 25 points": {
+            "overview": [
+                "A typical course structure for full time students",
+                "This option is only available to students in special cases, and only with approval of the MSc program coordinator. Full time students for whom that option is approved are advised to structure their enrolments as follows:",
+                [
+                    "Semester 1 - 50.0 points of coursework and no research project.",
+                    "Semester 2 - 50.0 points of coursework and no research project.",
+                    "Semester 3 - 37.5 points of coursework and Minor Research Project Part 1 (12.5 points).",
+                    "Semester 4 - 37.5 points of coursework and Minor Research Project Part 2 (12.5 points)."
+                ],
+                "Other structures that are suitable for part time study, or for students who enroll with credit from earlier degrees, can be negotiated with the student\u2019s supervisor and the School's MSc program coordinator."
+            ],
+            "Research Project Component": {
+                "overview": [
+                    "The research project starts at the beginning of the third semester of study. Typically, work on the project, including associated thesis and presentation, should be conducted in 40 of the next 44 weeks.An indicative total time commitment of 400 hours for the duration of the project is expected.Leave of absence during enrolment in a research project and outside of university holidays requires the approval of the student\u2019s supervisor.",
+                    "The thesis will be submitted two weeks prior to the end of the teaching period in the final semester of research project enrolment, being the fourth semester of study. The students will have to give presentations on their research projects in the last week of that teaching period, on a date to be announced by the School of Mathematics and Statistics at the beginning of that semester.",
+                    [
+                        "MAST90114",
+                        "MAST90115"
+                    ],
+                    "Students completing this option will be required to select a further 25 points of coursework subjects from the relevant specialisation."
+                ]
+            }
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": [
+        "The Master of Science offers a pathway to a PhD."
+    ]
+}

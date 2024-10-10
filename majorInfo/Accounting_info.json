@@ -1,0 +1,63 @@
+{
+    "major name": "Accounting",
+    "overview": [
+        "Accounting is the \u2018language of business\u2019, informing management decision-making within an organisation and the allocation of resources between organisations. It provides the tools to measure and assess firm performance and valuation.",
+        "Professional accountants operate in an increasingly complex and sophisticated field and are valued in every industry. Because they act as strategic advisers and business partners, they must understand business issues and processes and have the skills necessary for sound decision-making. Accounting leads to a career path with countless possibilities \u2013 you can work in a variety of roles, in any sector, in countries across the globe.",
+        "Melbourne is known for the quality of its accounting program and strong graduate employability outcomes. The Accounting major offers a direct path to becoming a qualified accountant. You'll learn about the financial structure of organisations, and how to produce and analyse financial information. You'll also develop knowledge of business strategy, issues and processes, along with the skills for sound decision making.",
+        "Membership requirements to Professional Associations vary, but will usually require you to have completed certain subjects in the Bachelor of Commerce, such as Corporate Law, Principles of Business Law and Taxation Law 1. Full membership requirements may include relevant work experience and/or further study."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "37.5 credit points"
+        ],
+        "Required pre-major study:": [
+            "Students need to complete the following prerequisite subjects before taking the Capstone and Core subjects of this major:"
+        ],
+        "Required major study": [
+            "To obtain a major in Accounting students need to complete:",
+            [
+                "12.5 credit points of Capstone subjects",
+                "25 credit points of Core major subjects"
+            ],
+            "To obtain a major in Accounting and seek accreditation as an accountant students need to complete:",
+            [
+                "12.5 credit points of Capstone subjects",
+                "25 credit points of Core major subjects",
+                "37.5 credit points of Prescribed breadth subjects"
+            ]
+        ],
+        "Subject lists": [],
+        "Level 1 prerequisite subjects": [
+            {
+                "ACCT10001": "Accounting Reports and Analysis Credits",
+                "ACCT10002": "Introductory Financial Accounting Credits"
+            }
+        ],
+        "Level 2 prerequisite subjects": [
+            {
+                "ACCT20001": "Cost Management Credits",
+                "ACCT20002": "Intermediate Financial Accounting Credits",
+                "ACCT20007": "Accounting Information: Risks & Controls Credits"
+            }
+        ],
+        "Capstone subject": [
+            {
+                "ACCT30001": "Analysis of Firms & Financial Statements Credits"
+            }
+        ],
+        "Core major subjects": [
+            {
+                "ACCT30002": "Enterprise Performance Management Credits",
+                "ACCT30004": "Auditing and Assurance Services Credits"
+            }
+        ],
+        "Prescribed breadth subjects": [
+            {
+                "BLAW10001": "Principles of Business Law Credits",
+                "BLAW20001": "Corporate Law Credits",
+                "BLAW30002": "Taxation Law I Credits"
+            }
+        ]
+    }
+}

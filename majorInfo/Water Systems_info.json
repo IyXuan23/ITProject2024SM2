@@ -1,0 +1,35 @@
+{
+    "major name": "Water Systems",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "62.5 credit points",
+            "The Water Systems specialisation is completed by undertaking at least four Year 3 Water Systems electives (a minimum of 50 credit points).",
+            "Note:",
+            "Students entering the course with advanced standing who plan on completing a specialisation may need to enrol in core specialisation subjects in their commencing semester. Please check and follow the structure outlined for your intended specialisation and seek course planning advice.",
+            "To obtain a specialisation in Water Systems, students must complete:",
+            [
+                "62.5 credit points of Year 3 Environmental Engineering and/or Specialisation electives includingA minimum of 50 credit points of Year 3 Water Systems electives\n",
+                "A minimum of 50 credit points of Year 3 Water Systems electives"
+            ],
+            [
+                "A minimum of 50 credit points of Year 3 Water Systems electives"
+            ]
+        ],
+        "Subject Options": [
+            "Year 3 Water Systems electives",
+            {
+                "ENEN90039": "Advanced Hydrological Solutions Credits",
+                "EVSC90025": "Water Sensitive Urban Design Credits",
+                "ENEN90029": "Water and Waste Water Management Credits",
+                "ENGR90024": "Computational Fluid Dynamics Credits",
+                "GEOL90005": "Hydrogeology/Environmental Geochemistry Credits",
+                "ENEN90037": "International River Basin Management Credits"
+            },
+            "(Must be completed in Year 3 of the course)",
+            "Students may choose up to 12.5 points of subjects from the list of Environmental Engineering Electives or may choose to complete the fifth Water Systems subject.",
+            "Refer to the Course Structure page for Environmental Engineering electives list."
+        ]
+    }
+}

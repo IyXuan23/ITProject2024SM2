@@ -1,0 +1,96 @@
+{
+    "major name": "Hebrew and Jewish Studies",
+    "overview": [
+        "The Hebrew and Jewish Studies program offers an unparalleled opportunity to study the development of Jewish civilization, Israeli history and culture, and the study of the Hebrew language. Hebrew and Jewish Studies investigate the history, literature, archaeology, philosophy, ethnography and social theory of Jewish society and culture. Students are encouraged to engage in contemporary debates about ethnicity and identity, assimilation, exile and Diaspora cultures. Students benefit from the interdisciplinary breadth and the opportunity to combine this with options in Hebrew language study which is taught from beginners to advanced level. Students explore topics that draw on extensive archival resources available in Australia and internationally."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "Students will have their appropriate entry point determined by the Hebrew and Jewish Studies program, based on evidence of prior learning and/or results of a placement test as required. Please contact the coordinator for more information.",
+            "The entry points for this major are:",
+            [
+                "Entry Point 1",
+                "Entry Point 3",
+                "Entry Point 5"
+            ],
+            "This major requires one of:"
+        ],
+        "Links": [
+            "http://shaps.unimelb.edu.au/jewish-culture-society"
+        ],
+        "Entry Point 1": [],
+        "Entry Point 3": [],
+        "Entry Point 5": [],
+        "Subject Options": [],
+        "EP 1 Level 1 core subjects": [
+            {
+                "HEBR10001": "Hebrew 1 Credits",
+                "HEBR10002": "Hebrew 2 Credits"
+            }
+        ],
+        "EP 1 Level 2 core subjects": [
+            {
+                "HEBR20005": "Hebrew 3 Credits",
+                "HEBR20006": "Hebrew 4 Credits"
+            }
+        ],
+        "Level 2 elective subjects": [
+            {
+                "HIST20013": "The Holocaust & Genocide Credits",
+                "HIST20060": "Total War: World War II Credits",
+                "ISLM20015": "Politics: Middle East and South Asia Credits",
+                "JEWI20006": "Israelis & Palestinians: Conflict, Peace Credits",
+                "JEWI20007": "Modern Israel: Good Bad and Disputed Credits"
+            }
+        ],
+        "EP 1 Level 3 core subjects": [
+            {
+                "HEBR30003": "Hebrew 5 Credits",
+                "HEBR30004": "Hebrew 6 Credits"
+            }
+        ],
+        "Capstone subject": [
+            {
+                "JEWI30005": "Research in Contemporary Jewish Studies Credits"
+            }
+        ],
+        "EP 3 Level 1 core subjects": [
+            {
+                "HEBR10005": "Hebrew 3 Credits",
+                "HEBR10006": "Hebrew 4 Credits"
+            }
+        ],
+        "EP 3 Level 2 core subjects": [
+            {
+                "HEBR20007": "Hebrew 5 Credits",
+                "HEBR20008": "Hebrew 6 Credits"
+            }
+        ],
+        "Level 3 elective subjects": [
+            {
+                "HIST30010": "Hitler's Germany and Fascism Credits",
+                "HEBR30016": "Hebrew 7 Credits",
+                "HEBR30017": "Hebrew 8 Credits"
+            }
+        ],
+        "EP 5 Level 1 core subjects": [
+            {
+                "HEBR10011": "Hebrew 5 Credits",
+                "HEBR10012": "Hebrew 6 Credits"
+            }
+        ],
+        "EP 5 Level 2 core subjects": [
+            {
+                "HEBR20016": "Hebrew 7 Credits",
+                "HEBR20017": "Hebrew 8 Credits"
+            }
+        ],
+        "EP 5 Level 3 core subjects": [
+            {
+                "HEBR30018": "Hebrew 9 Credits",
+                "HEBR30019": "Hebrew 10 Credits"
+            }
+        ]
+    }
+}

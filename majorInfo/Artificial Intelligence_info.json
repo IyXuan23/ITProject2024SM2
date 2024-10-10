@@ -1,0 +1,29 @@
+{
+    "major name": "Artificial Intelligence",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "The Artificial Intelligence specialisation is completed by undertaking:",
+            [
+                "37.5 credit points of Specialisation compulsory subjects",
+                "12.5 credit points of Specialisation selectives"
+            ]
+        ],
+        "Subject options": [],
+        "Specialisation compulsory subjects": [
+            {
+                "COMP90038": "Algorithms and Complexity Credits",
+                "COMP90049": "Introduction to Machine Learning Credits",
+                "COMP90051": "Statistical Machine Learning Credits"
+            }
+        ],
+        "Specialisation selectives": [
+            {
+                "COMP90054": "AI Planning for Autonomy Credits",
+                "COMP90086": "Computer Vision Credits"
+            }
+        ]
+    }
+}

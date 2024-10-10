@@ -1,0 +1,163 @@
+{
+    "Course name": "Master of Computer Science",
+    "Course code": "MC-CS",
+    "Overview text": [
+        "The Master of Computer Science is a research training program that gives students the opportunity to undertake a year-long research project in a field of choice, as well as a broad range of advanced computer science subjects.",
+        "This degree is designed for people who want to gain significant experience in research, leading to further study in a PhD, and/or careers in high-level tech companies and R&D labs.",
+        "In addition to a broad grounding across the breadth of advanced computer science, students will develop specialist knowledge in areas such as artificial intelligence, cybersecurity, human-computer interaction, programming languages & distributed systems, and spatial information science."
+    ],
+    "Overview table": {
+        "Award title": "Master of Computer Science",
+        "Year & campus": "2024\u2014 Parkville",
+        "CRICOS code": "0100884",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Graduate Coursework",
+        "AQFlevel": "9",
+        "Credit points": "200 credit points",
+        "Duration": "24 months full-time or 48 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "1. In order to be considered for entry, applicants must have completed:",
+            "an undergraduate degree with a major in Computer Science or equivalent, and a weighted average mark of at least H2A (75%); and",
+            "at least 25 points of university level mathematics or statistics subjects.",
+            "Meeting these requirements does not guarantee selection.",
+            "1. In ranking applications, the Selection Committee will consider\nprior academic performance.\n",
+            "2. prior academic performance.",
+            "3. The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Board rules on the use of selection instruments.",
+            "4. Applicants are required to satisfy the university\u2019s English language requirements for graduate courses. For those applicants seeking to meet these requirements by one of the standard tests approved by the Academic Board, performance band 6.5 is required.",
+            "prior academic performance.",
+            "Note:",
+            "Quotas may be applied and preference may be given to applicants with evidence of appropriate preparation or potential to undertake research.",
+            "Entry into the Master of Computer Science is subject to the capacity of the school offering the program stream to provide adequate supervision in a research project appropriate to the interests and preparation of the individual student and may be subject to the agreement of a member of academic staff to supervise the project module.",
+            "Some knowledge of formal logic and discrete mathematics and second year university level mathematics/statistics is recommended."
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "The Master of Computer Science welcomes applications from students with disabilities. It is University and degree policy to take all reasonable steps to minimise the impact of disability upon academic study, and reasonable adjustments will be made to enhance a student\u2019s participation in the degree.",
+            "The Master of Computer Science requires all students to enrol in subjects where they will require:",
+            "1. The ability to comprehend complex science and technology related information;",
+            "2. The ability to clearly and independently communicate a knowledge and application of science, and technology principles and practices during assessment tasks; and",
+            "3. The ability to actively and safely contribute in clinical, laboratory, and fieldwork/excursion activities.",
+            "Students must possess behavioural and social attributes that enable them to participate in a complex learning environment, including taking part in research projects that may be part of larger projects, consisting of a team of academics, PhD students, and research fellows.",
+            "Students are required to take responsibility for their own participation and learning. They also contribute to the learning of other students in collaborative learning environments, demonstrating interpersonal skills and an understanding of the needs of other students. Assessment may include the outcomes of tasks completed in collaboration with other students. There may be additional inherent academic requirements for some subjects, and these requirements are listed within the description of the requirements for each of these subjects. Students who feel their disability will impact on meeting this requirement are encouraged to discuss this matter with the relevant Subject Coordinator and the Disability Liaison Unit:http://www.services.unimelb.edu.au/disability/"
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "The Master of Computer Science requires the successful completion of 200 credit points.",
+                "All students must complete:",
+                [
+                    "100 credit points of Year 1 subjects including\n",
+                    [
+                        [
+                            "12.5 credit points of Year 1 compulsory subjects",
+                            "Between 25 and 37.5 credit points of Year 1 Foundational Computer Science subjects",
+                            "Between 50 and 62.5 credit points of Year 1 elective subjects"
+                        ]
+                    ],
+                    "100 credit points of Year 2 compulsory research project (in four parts) including\n",
+                    [
+                        [
+                            "50 credit points of Part 1 and 2 Computer Science Research Project subjects",
+                            "50 credit points of Part 3 and 4 Computer Science Research Project subjects"
+                        ]
+                    ]
+                ]
+            ],
+            "Subject Options": {
+                "overview": [
+                    "Year 1",
+                    "Compulsory subjects"
+                ],
+                "": {
+                    "overview": [
+                        [
+                            "COMP90044"
+                        ],
+                        "COMP90044 Research Methods should be taken in the semester immediately prior to the semester you commence your Research Project (i.e., second semester of study for full-time students).",
+                        "Foundational Computer Science subjects",
+                        [
+                            "COMP90049",
+                            "COMP90048",
+                            "COMP90015",
+                            "COMP90054",
+                            "INFO90004",
+                            "GEOM90008"
+                        ],
+                        "Elective subjects",
+                        "Advanced Computer Science electives",
+                        [
+                            "COMP90057",
+                            "SWEN90010",
+                            "COMP90077",
+                            "COMP90056",
+                            "MULT90063",
+                            "COMP90084"
+                        ],
+                        "Artificial Intelligence electives",
+                        [
+                            "COMP90051",
+                            "COMP90042",
+                            "COMP90046",
+                            "COMP90083",
+                            "COMP90086",
+                            "COMP90087",
+                            "COMP90089",
+                            "ELEN90095"
+                        ],
+                        "Cybersecurity electives",
+                        [
+                            "COMP90073",
+                            "COMP90074",
+                            "SWEN90006",
+                            "COMP90043"
+                        ],
+                        "Human-Computer Interaction electives",
+                        [
+                            "INFO90003",
+                            "INFO90007",
+                            "INFO90005",
+                            "INFO90006"
+                        ],
+                        "Programming Languages and Distributed Computing electives",
+                        [
+                            "COMP90020",
+                            "COMP90024",
+                            "COMP90025",
+                            "COMP90018",
+                            "COMP90045"
+                        ],
+                        "Spatial Information electives",
+                        [
+                            "GEOM90006",
+                            "GEOM90038",
+                            "GEOM90007"
+                        ],
+                        "Databases and Data Analysis electives",
+                        [
+                            "COMP90050",
+                            "COMP90014",
+                            "COMP90016",
+                            "ELEN90094",
+                            "COMP90088"
+                        ],
+                        "Year 2",
+                        "Compulsory subjects",
+                        [
+                            "COMP90078",
+                            "COMP90079",
+                            "COMP90080",
+                            "COMP90081"
+                        ],
+                        "Students studying full-time must take Part 1 and 2 concurrently, and Part 3 and 4 concurrently.",
+                        "This sequence supports both full-time and part-time study."
+                    ]
+                }
+            }
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": []
+}

@@ -1,0 +1,183 @@
+{
+    "Course name": "Master of Applied Econometrics (Enhanced)",
+    "Course code": "MC-AECOENH",
+    "Overview text": [
+        "The Master of Applied Econometrics (Enhanced) is a four-semester program that focuses on the practical application of advanced econometric modelling techniques. The program provides graduates with extensive knowledge of the most recent research in the disciplines of economics and econometrics, equipping graduates with the skills required to guide and inform evidence-based decision making in a data-driven manner. It consists of an expansive coursework component covering a suite of econometrics offerings including financial econometrics, macroeconometrics, microeconometrics and, time series analysis, as well as providing invaluable experience undertaking research.",
+        "Last updated: 13 September 2024"
+    ],
+    "Overview table": {
+        "Award title": "Master of Applied Econometrics (Enhanced)",
+        "Year & campus": "2024\u2014 Parkville",
+        "CRICOS code": "107112C",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Graduate Coursework",
+        "AQFlevel": "9",
+        "Credit points": "200 credit points",
+        "Duration": "24 months full-time or 48 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "1. In order to be considered for entry, applicants must have completed:",
+            "An undergraduate or postgraduate degree with a strong analytical and mathematical component with a major in social science, commerce, or stem with a weighted average mark of at least H2B (70%). A first-year statistics subject must have been completed; and",
+            "A 500 word personal statement outlining why they wish to be considered for the course; and",
+            "The Graduate Record Examination (GRE) unless the applicant has completed an undergraduate degree in Australia or New Zealand or met one of the approved conditions for GRE exemption.",
+            "Meeting these requirements does not guarantee selection.",
+            "2. In ranking applications, the Selection Committee will consider:",
+            "Prior academic performance; and",
+            "The GRE score unless the applicant has completed an undergraduate degree in Australia or New Zealand or met one of the approved conditions for GRE exemption; and",
+            "The personal statement.",
+            "3. The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Board rules on the use of selection instruments.",
+            "4. Applicants are required to satisfy the university\u2019s English language requirements for graduate courses. For those applicants seeking to meet these requirements by one of the standard tests approved by the Academic Board, performance band 6.5 is required.",
+            "Notes:",
+            "Applicants with an honours degree in economics with a weighted average mark of at least H2B (70%), or a relevant postgraduate degree with a weighted average mark of at least H2B (70%), who have completed subjects which satisfy the prerequisites for second year subjects in the Master of Applied Econometrics (Enhanced) may be awarded up to 100 points of credit into the Master of Applied Econometrics (Enhanced)."
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "Inherent requirements are the abilities, knowledge and skills needed to complete this course that must be met by all students. For information on the inherent requirements specific to this course contact the course/program coordinator. In some circumstances reasonable adjustments may be available to enable students to meet these requirements while still preserving the academic integrity of the university's learning, assessment and accreditation processes. For more information on how to seek these adjustments refer to the Student Equity and Disability Support website:https://services.unimelb.edu.au/student-equity/home"
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "The Master of Applied Econometrics program consists of 16 subjects, comprising six core subjects, eight elective subjects and two capstone subjects."
+            ]
+        },
+        "Semester 1, Year 1": {
+            "overview": [],
+            "Students complete three core subjects (37.5 points):": {
+                "overview": [
+                    [
+                        "BUSA90520",
+                        "ECOM90001",
+                        "ECOM90024"
+                    ]
+                ]
+            },
+            "Students complete 1 Elective Subject (12.5 points) selected from:": {
+                "overview": [
+                    [
+                        "ECON90016",
+                        "ECON90034",
+                        "ECON90047",
+                        "ECON90075",
+                        "ECON30001",
+                        "ECON30005",
+                        "ECON30010",
+                        "ECON30020",
+                        "ECON30024"
+                    ],
+                    "Or any other elective subject approved by the Program Director"
+                ]
+            }
+        },
+        "Semester 2, Year 1": {
+            "overview": [],
+            "Students complete two core subjects (25 points):": {
+                "overview": [
+                    [
+                        "ECOM90002",
+                        "ECOM90025"
+                    ]
+                ]
+            },
+            "And one core subject (12.5 points) selected from:": {
+                "overview": [
+                    [
+                        "ECOM90003",
+                        "ECOM90004",
+                        "ECON90033"
+                    ]
+                ]
+            },
+            "Students complete 1 Elective Subject (12.5 points) selected from:": {
+                "overview": [
+                    [
+                        "ECON90015",
+                        "ECON90034",
+                        "ECON90045",
+                        "ECON30002",
+                        "ECON30003",
+                        "ECON30019",
+                        "ECON30022",
+                        "ECON30029",
+                        "ECON30030",
+                        "ECON90080"
+                    ],
+                    "Or any other elective subject approved by the Program Director"
+                ]
+            }
+        },
+        "Semester 1, Year 2": {
+            "overview": [],
+            "Students complete 1 Capstone Subject (12.5 points) selected from:": {
+                "overview": [
+                    [
+                        "ECOM90026",
+                        "ECOM90013"
+                    ],
+                    "Note: ECOM90013 Econometrics 3 is a concurrent prerequisite for ECOM90026 Econometrics Research Report Part 1."
+                ]
+            },
+            "Students complete 1 elective subject (12.5 points) selected from:": {
+                "overview": [
+                    [
+                        "ECOM90007",
+                        "ECOM90023",
+                        "ECON90010"
+                    ]
+                ]
+            },
+            "Students complete 2 elective subjects (25 points) selected from:": {
+                "overview": [
+                    [
+                        "ECOM90007",
+                        "ECOM90013",
+                        "ECOM90023",
+                        "BUSA90521",
+                        "BISY90017",
+                        "ECON90010",
+                        "BUSA90473",
+                        "BUSA90485",
+                        "BUSA90525",
+                        "ECOM90020"
+                    ],
+                    "Or any elective approved by the Program Director"
+                ]
+            }
+        },
+        "Semester 2, Year 2": {
+            "overview": [],
+            "Students complete 1 Capstone Subject (12.5 points):": {
+                "overview": [],
+                "Students who have completed ECOM90026 Econometrics Research Report Part 1 select:": {
+                    "overview": [
+                        [
+                            "ECOM90027"
+                        ]
+                    ]
+                }
+            },
+            "": {
+                "overview": []
+            },
+            "Students complete 3 elective subjects (37.5 points) selected from:": {
+                "overview": [
+                    [
+                        "ECOM90003",
+                        "ECOM90004",
+                        "ECOM90008",
+                        "ECOM90011",
+                        "ECOM90012",
+                        "ECOM90017",
+                        "BUSA90473",
+                        "BUSA90485",
+                        "BUSA90525"
+                    ],
+                    "Or any elective approved by the Program Director"
+                ]
+            }
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": []
+}

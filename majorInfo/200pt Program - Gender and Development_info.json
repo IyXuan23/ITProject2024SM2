@@ -1,0 +1,137 @@
+{
+    "major name": "200pt Program - Gender and Development",
+    "overview": [
+        "The Master of Development Studies (specialisation in Gender & Development) provides specialist training and a professional qualification for graduates who are working, or seeking to work in international and community development, especially for those with an interest in gender and development. The program is designed to give students a firm grounding in theories about gender and development and enable them to think critically, reflexively and creatively about gendered policy and programming. The integration of theory and practice in our curriculum will help students develop capacity for gender analysis of important cross-cutting themes in development such as poverty, inequality, social justice, conflict and security, environment and livelihoods, and mobility and displacement. High achieving students who complete the thesis option may qualify for entry to a masters by research or a PhD.",
+        "Last updated: 30 July 2024"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "200 credit points",
+            "Duration: two years full-time / up to four years part-time"
+        ],
+        "Links": [
+            "http://arts.unimelb.edu.au/ssps"
+        ],
+        "Students entering the 200 Point Program - Gender and Development will need to complete:": [
+            [
+                "37.5 credit points of compulsory subjects",
+                "25 credit points of core subjects"
+            ],
+            "Remaining 137.5 credit point requirements:",
+            "Capstone Stream 1 or 3:",
+            "25 credit points of Capstone Stream 1 subjectand112.5 credit points of elective subjects",
+            "OR",
+            "25 credit points of Capstone Stream 3 subjectsand112.5 credit points of elective subjects",
+            "OR",
+            "Capstone Stream 2 - Minor Thesis",
+            [
+                "12.5 credit points of development research design & assessment subject",
+                "25 credit points of Minor Thesis subjects - Part 1",
+                "25 credit points of Minor Thesis subjects - Part 2",
+                "75 credit points of elective subjects"
+            ]
+        ],
+        "Capstone Requirement": [
+            "Capstone subject options must be completed in the final hundred points of the program. All students are required to complete one Capstone Subject Option (at least 25 credit points). This requirement cannot be waived or replaced in any circumstances.",
+            "Capstone Stream 1: DEVT90060 Internship in Development (25 credit points)",
+            "Purpose: An opportunity to acquire practical skills in development practice and apply this knowledge to solve problems that arise in a professional context and develop an integrated understanding of knowledge and practice.",
+            "Capstone Stream 2: GEND90011 Gender and Development Thesis Part 1 and GEND90012 Gender and Development Thesis Part 2 (total 50 credit points)",
+            "Purpose: An opportunity to integrate knowledge and research skills to address a specific development research question.",
+            "Capstone Stream 3: DEVT90001 Project Management & Design (12.5 credit points) and DEVT90035 Monitoring and Evaluation in Development (12.5 credit point)",
+            "Purpose: An opportunity to acquire practical skills in project management and monitoring and evaluation and apply this knowledge to solve problems that arise in a professional context and develop an integrated understanding of knowledge and practice."
+        ],
+        "Subject Options": [],
+        "Compulsory subjects ": [
+            {
+                "DEVT90009": "Development Theories Credits",
+                "DEVT90080": "Gender Analysis in Development Practice Credits",
+                "DEVT90040": "Gender Issues in Development Credits"
+            }
+        ],
+        "Core subjects ": [
+            {
+                "DEVT90053": "Development Systems and Interventions Credits",
+                "GEND90006": "Gender, Globalisation and Development Credits",
+                "GEND90007": "Rethinking Rights and Global Development Credits",
+                "GEND40003": "Gender in Cross-Cultural Perspective Credits"
+            }
+        ],
+        "Capstone subjects": [
+            "Capstone Stream 1 -Internship",
+            {
+                "DEVT90060": "Internship in Development Credits"
+            },
+            "Capstone Stream 2 - Minor thesis",
+            "Please note the following prior to enrolling in the minor thesis:",
+            [
+                "Students admitted into the 200 point program must have completed 37.5 credit points of compulsory subjects within the program, with an average of H1 (80%).",
+                "To be eligible to enrol in the thesis, students must submit a 300 word thesis proposal for approval by the course coordinator prior to the semester of enrolment in the thesis.",
+                "Students enrolling in the minor thesis must also complete DEVT90041 Development Research Design & Assessment.",
+                "The minor thesis must be completed over two consecutive semesters (Part 1 and 2)."
+            ],
+            {
+                "DEVT90041": "Development Research Design & Assessment Credits",
+                "GEND90011": "Gender and Development Thesis Part 1 Credits",
+                "GEND90012": "Gender and Development Thesis Part 2 Credits"
+            },
+            "Capstone Stream 3 - Coursework",
+            {
+                "DEVT90001": "Development Project Management & Design Credits",
+                "DEVT90035": "Monitoring and Evaluation in Development Credits"
+            }
+        ],
+        "Elective subjects": [
+            "Capstone Stream 1 or 3 Option - 112.5 credit points",
+            "or",
+            "Capstone Stream 2 Option - 75 credit points",
+            {
+                "ASIA90001": "Human Rights in Southeast Asia Credits",
+                "ASIA90014": "Civil Society and Social Change in China Credits",
+                "ASIA90016": "China and the Environment Credits",
+                "ASIA90017": "Contemporary China Credits",
+                "CRIM90017": "Violence, Trauma and Reconciliation Credits",
+                "DEVT90001": "Development Project Management & Design Credits",
+                "DEVT90003": "The Political Ecology of Development Credits",
+                "DEVT90007": "Development Policy: Independent Project Credits",
+                "DEVT90035": "Monitoring and Evaluation in Development Credits",
+                "DEVT90039": "Civil Society, NGOs and the State Credits",
+                "DEVT90041": "Development Research Design & Assessment Credits",
+                "DEVT90043": "Advocacy in Development Credits",
+                "DEVT90044": "Practising Community-led Development Credits",
+                "DEVT90045": "Political Economy of Development Credits",
+                "DEVT90056": "The Anthropology of Development Credits",
+                "DEVT90060": "Internship in Development Credits",
+                "DEVT90061": "Global Urban Development Credits",
+                "DEVT90062": "Development and Inequality Credits",
+                "DEVT90067": "Migration and Development Credits",
+                "DEVT90076": "Social Policy and Development Credits",
+                "DEVT90077": "Poverty, Microfinance and Development Credits",
+                "DEVT90078": "Contested Development and Culture Credits",
+                "DEVT90079": "Conflict, Security and Development Credits",
+                "ENST90002": "Social Impact Assessment and Evaluation Credits",
+                "ENST90005": "Environmental Policy Credits",
+                "MECM90016": "Digital Politics Credits",
+                "MULT90059": "Social Enterprise Incubator Credits",
+                "POLS90012": "Trade Policy Politics & Governance Credits",
+                "POLS90013": "Politics and Business in post-Mao China Credits",
+                "POLS90016": "International Organisations Credits",
+                "POLS90034": "International Policymaking in Practice Credits",
+                "POLS90058": "Asia-Pacific: Zone of Conflict or Peace? Credits",
+                "POPH90088": "Disability in Policy and Practice Credits",
+                "POPH90189": "Health Program Design & Implementation Credits",
+                "DEVT90058": "Disaster and Humanitarian Aid Credits",
+                "FOOD90041": "The Politics of Food Credits",
+                "NRMT90007": "Communities and Ecosystem Management Credits",
+                "ABPL90442": "International Development Infrastructure Credits",
+                "DEVT90072": "Critical Development in Latin America Credits",
+                "POPH90137": "Primary Health Care, Jamkhed, India Credits"
+            },
+            "Notes:",
+            "Up to 25  credit points of non-listed elective subjects may be requested as electives in the 200 Point Program.",
+            "For policies that govern this degree, see Academic Services Policy in the University Melbourne Policy Framework:",
+            "Academic Services Policy",
+            "University Melbourne Policy Framework"
+        ]
+    }
+}
