@@ -20,28 +20,34 @@ folder_path = 'majorInfo'
 
 # Open file and load data from file
 for file_path in glob.glob(os.path.join(folder_path, '*.json')):
-    with open(file_path) as file:
-        data = json.load(file)
-    
-    
-    # Get subject code from file
-    major_name = data['major name']
+    if file_path != 'courseMajorPairing.json':
+        with open(file_path) as file:
+            data = json.load(file)
 
-    course_code = None
+            with open ('courseMajorPairing.json') as pairing_file:
+                pairing_data = json.load(pairing_file)
+                
+                # Get subject code from file
+                major_name = data['major name']
 
-    # For debugging
-    print("Importing data for " + major_name)
+                course_name = None
+                for info in pairing_data:
+                    if major_name in info:
+                        course_name = info[0]
 
-    overview = convert_list_into_text(data['overview'])
-    ILOs = data['ILOs']
-    structure = json.dumps(data['structure'])
+                # For debugging
+                print("Importing data for " + major_name)
 
-    # Insert information from file to table for each prerequisite option
-    cur.execute("""
-        INSERT INTO majors(overview,learning_outcomes,course_code,major_name,major_structure)
-            VALUES (%s, %s, %s, %s, %s)""", 
-            (overview,ILOs,course_code,major_name,structure))
-            
+                overview = convert_list_into_text(data['overview'])
+                ILOs = data['ILOs']
+                structure = json.dumps(data['structure'])
+
+                # Insert information from file to table for each prerequisite option
+                cur.execute("""
+                    INSERT INTO majors(overview,learning_outcomes,course_code,major_name,major_structure)
+                        VALUES (%s, %s, %s, %s, %s)""", 
+                        (overview,ILOs,course_code,major_name,structure))
+                
    
 #Commit the transaction    
 conn.commit()
