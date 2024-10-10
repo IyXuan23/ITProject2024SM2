@@ -1,9 +1,5 @@
 #ignores the virtual environment file
-venv/
 *.venv
 .DS_Store
 Notes
-subjectInfoTest
-myenv
 node_modules
-api/
