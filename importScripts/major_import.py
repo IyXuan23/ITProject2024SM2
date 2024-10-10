@@ -20,16 +20,17 @@ folder_path = 'majorInfo'
 
 # Open file and load data from file
 for file_path in glob.glob(os.path.join(folder_path, '*.json')):
-    if file_path != 'courseMajorPairing.json':
+    if file_path != 'majorInfo/courseMajorPairing.json':
         with open(file_path) as file:
             data = json.load(file)
 
-            with open ('courseMajorPairing.json') as pairing_file:
+            with open ('majorInfo/courseMajorPairing.json') as pairing_file:
                 pairing_data = json.load(pairing_file)
                 
-                # Get subject code from file
+                # Get major name from file
                 major_name = data['major name']
 
+                
                 course_name = None
                 for info in pairing_data:
                     if major_name in info:
@@ -44,9 +45,9 @@ for file_path in glob.glob(os.path.join(folder_path, '*.json')):
 
                 # Insert information from file to table for each prerequisite option
                 cur.execute("""
-                    INSERT INTO majors(overview,learning_outcomes,course_code,major_name,major_structure)
+                    INSERT INTO majors(overview,learning_outcomes,course_name,major_name,major_structure)
                         VALUES (%s, %s, %s, %s, %s)""", 
-                        (overview,ILOs,course_code,major_name,structure))
+                        (overview,ILOs,course_name,major_name,structure))
                 
    
 #Commit the transaction    
