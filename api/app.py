@@ -27,7 +27,6 @@ vanna_api_key = os.environ.get('VANNA_API_KEY')
 vanna_model_name = os.environ.get('VANNA_MODEL_NAME')
 
 
-
 CORS(app, resources={r"/api/*": {"origins": "*"}})
 app.secret_key = secrets.token_hex()
 
@@ -107,14 +106,13 @@ def generate_sql():
         else:
             print("RESET")
             previous_convo = [{"role": "system",
-                "content": "You are a university handbook assistant chatbot, you help student find subject information, you are providing formal and precise response corresponding to the user input, you are now asked to convert the following text into a more colloquial response and do not include 'sure', response in markdown format."},]
+                "content": "You are a university handbook assistant chatbot, you help student find subject information, you are providing formal and precise response corresponding to the user input, you are now asked to convert the following text into a more colloquial response and do not include 'sure', response in markdown format."}]
             save_conversation(previous_convo)
             rephrased_question = user_question
     else:
         messages=[
                 {"role": "system",
-                "content": "You are a university handbook assistant chatbot, you help student find subject information, you are providing formal and precise response corresponding to the user input, you are now asked to convert the following text into a more colloquial response and do not include 'sure', response in markdown format."},
-                ]
+                "content": "You are a university handbook assistant chatbot, you help student find subject information, you are providing formal and precise response corresponding to the user input, you are now asked to convert the following text into a more colloquial response and do not include 'sure', response in markdown format."}]
         previous_convo.extend(messages)
         save_conversation(previous_convo)
         rephrased_question = user_question
@@ -125,8 +123,9 @@ def generate_sql():
     print(sql)
     valid = is_sql_valid(sql)
     generate_popup_query(rephrased_question)
+    print(valid)
     if valid:
-
+        
         # Fetch info from database
         conn = psycopg2.connect(database="postgres",user="postgres.seqkcnapvgkwqbqipqqs",password="IT Web Server12",host="aws-0-ap-southeast-2.pooler.supabase.com",port=6543)
         cur = conn.cursor()
@@ -138,6 +137,7 @@ def generate_sql():
         client = OpenAI(
             api_key=openai_api_key)
         
+
         # Pass the user's query and fetched data to LLM
         previous_convo.append({"role": "user", "content": f"User input: {rephrased_question}"})
         previous_convo.append({"role": "assistant", "content": f"System output: {result}"})
@@ -155,7 +155,7 @@ def generate_sql():
             "response": response,
         })
     return jsonify({
-        "response": sql,
+        "response": "Sorry, I can't provide any information. Please try again.",
     })
 
 
