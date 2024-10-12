@@ -57,69 +57,82 @@ def correct_query(key_field, key_subject):
     """
     Generate a corrected query statement based on user input for fields, subjects, majors, or courses.
     """
-    key_subject_cleaned = clean_input(key_subject)
-
-    # Retrieve all subject names and codes
-    all_subject_names = [data['subject name'] for data in subjects.values()]
-    all_subject_codes = [subject_code for subject_code in subjects.keys()]
-
-    # Retrieve all major names
-    all_major_names = [major_name for major_name in majors.keys()]
-
-    # Retrieve all course names
-    all_course_names = [course_name for course_name in courses.keys()]
-
-    # Combine names and codes of subjects, majors, and courses
-    all_names = all_subject_names + all_subject_codes + all_major_names + all_course_names
-
-    # Retrieve available fields
-    sample_data = next(iter(subjects.values()))
-    available_fields = [field for field in sample_data.keys()]
-
-    # Add fields from majors
-    if majors:
-        sample_major_data = next(iter(majors.values()))
-        available_fields += [field for field in sample_major_data.keys()]
-
-    # Add fields from courses
-    if courses:
-        sample_course_data = next(iter(courses.values()))
-        available_fields += [field for field in sample_course_data.keys()]
-
-    available_fields = list(set(available_fields))
-
-    # Match field name
-    closest_field = get_best_match(key_field, available_fields)
-    if not closest_field:
-        closest_field = key_field
-
-    # Match subject/major/course code or name
-    closest_subject = get_best_match(key_subject_cleaned, all_names)
-    if closest_subject:
-        # Check if found in subjects
-        for subject_code, data in subjects.items():
-            if data['subject name'] == closest_subject or subject_code == closest_subject:
-                corrected_subject = data['subject name'] if data['subject name'] == closest_subject else subject_code
-                break
+    # First, check how many digits are in key_subject
+    num_digits = sum(c.isdigit() for c in key_subject)
+    if num_digits == 5:
+        # key_subject has exactly 5 digits
+        # Now, check if key_subject exists in the database
+        if key_subject in subjects.keys() or key_subject in majors.keys() or key_subject in courses.keys():
+            # key_subject exists in the database, proceed normally without correction
+            return f"Please provide information about {key_field} for {key_subject}."
         else:
-            # Check if found in majors
-            for major_name in majors.keys():
-                if major_name == closest_subject:
-                    corrected_subject = major_name
+            # key_subject does not exist in database
+            return f"{key_subject} is not available."
+    else:
+        # Proceed with the normal correction process
+        key_subject_cleaned = clean_input(key_subject)
+    
+        # Retrieve all subject names and codes
+        all_subject_names = [data['subject name'] for data in subjects.values()]
+        all_subject_codes = [subject_code for subject_code in subjects.keys()]
+    
+        # Retrieve all major names
+        all_major_names = [major_name for major_name in majors.keys()]
+    
+        # Retrieve all course names
+        all_course_names = [course_name for course_name in courses.keys()]
+    
+        # Combine names and codes of subjects, majors, and courses
+        all_names = all_subject_names + all_subject_codes + all_major_names + all_course_names
+    
+        # Retrieve available fields
+        sample_data = next(iter(subjects.values()))
+        available_fields = [field for field in sample_data.keys()]
+    
+        # Add fields from majors
+        if majors:
+            sample_major_data = next(iter(majors.values()))
+            available_fields += [field for field in sample_major_data.keys()]
+    
+        # Add fields from courses
+        if courses:
+            sample_course_data = next(iter(courses.values()))
+            available_fields += [field for field in sample_course_data.keys()]
+    
+        available_fields = list(set(available_fields))
+    
+        # Match field name
+        closest_field = get_best_match(key_field, available_fields)
+        if not closest_field:
+            closest_field = key_field
+    
+        # Match subject/major/course code or name
+        closest_subject = get_best_match(key_subject_cleaned, all_names)
+        if closest_subject:
+            # Check if found in subjects
+            for subject_code, data in subjects.items():
+                if data['subject name'] == closest_subject or subject_code == closest_subject:
+                    corrected_subject = data['subject name'] if data['subject name'] == closest_subject else subject_code
                     break
             else:
-                # Check if found in courses
-                for course_name in courses.keys():
-                    if course_name == closest_subject:
-                        corrected_subject = course_name
+                # Check if found in majors
+                for major_name in majors.keys():
+                    if major_name == closest_subject:
+                        corrected_subject = major_name
                         break
                 else:
-                    corrected_subject = key_subject
-    else:
-        corrected_subject = key_subject
-
-    # Return corrected query statement
-    return f"Please provide information about {closest_field} for {corrected_subject}."
+                    # Check if found in courses
+                    for course_name in courses.keys():
+                        if course_name == closest_subject:
+                            corrected_subject = course_name
+                            break
+                    else:
+                        corrected_subject = key_subject
+        else:
+            corrected_subject = key_subject
+    
+        # Return corrected query statement
+        return f"Please provide information about {closest_field} for {corrected_subject}."
 
 def main(user_input):
     try:
