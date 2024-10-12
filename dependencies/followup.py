@@ -9,8 +9,9 @@ File:           followup.py
 Description:    This file contains all necessary functions to detect follow - up questions and rephrase them
 """
 
-MAX_MESSAGES = 5
+MAX_MESSAGES = 4
 openai_api_key = os.environ.get('OPENAI_API_KEY')
+
 
 
 def get_conversation ():
