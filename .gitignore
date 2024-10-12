@@ -10,4 +10,14 @@ env/
 venv/ 
 ENV/ 
 env.bak/ 
-venv.bak/ 
+venv.bak/
+
+node_modules/
+public/
+types/
+utils/
+env.sample
+vercel.json
+.idea/
+.next/
+app/
