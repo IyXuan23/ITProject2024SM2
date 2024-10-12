@@ -5,7 +5,7 @@ import glob
 import json
 import os
 import psycopg2
-from utils import convert_to_daterange, convert_to_date, convert_listdict_to_list
+from utils import *
 
 
 # Connect to the database
@@ -30,7 +30,12 @@ for file_path in glob.glob(os.path.join(folder_path, '*.json')):
 
     # For debugging
     print("Importing data for " + subject_code)
-    
+
+    non_allowed = None
+    if data['non-allowed subjects'] != 'None':
+        non_allowed = clean_lines(data['non-allowed subjects'])
+    print()
+
     # Initialize variables to store informations from 'further info'
     subject_texts = None
     subject_notes = None
@@ -69,7 +74,6 @@ for file_path in glob.glob(os.path.join(folder_path, '*.json')):
     if ses != None:
         subject_ses = '. '.join(ses)
         
-    
 
     # Collect and import info in "dates and times"
     for sem_info in data['dates and times']:
@@ -122,12 +126,12 @@ for file_path in glob.glob(os.path.join(folder_path, '*.json')):
                 INSERT INTO subject_info(subject_code, semester, principal_coordinator, delivery_mode, contact_hours, 
                         teaching_period, total_time_commitment, last_self_enrol_date, census_date, 
                         last_date_to_withdraw_without_fail, assessment_period_ends, contact_information, 
-                        subject_texts, subject_notes, community_access_program, oversea_study_program)
-                VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
+                        subject_texts, subject_notes, community_access_program, oversea_study_program, non_allowed_subjects)
+                VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
                 ON CONFLICT (subject_code,semester) DO NOTHING """
                 ,(subject_code, sem, p_coordinator, delivery_mode,
                   contact_hours, teaching_period, hours, last_self_enrol, census, last_date_withdraw, assessment_end, emails,
-                  subject_texts, subject_notes, subject_cap, subject_ses 
+                  subject_texts, subject_notes, subject_cap, subject_ses, non_allowed
                 ))
     
             
