@@ -188,6 +188,15 @@ def generate_questions():
         "header": "Here are some questions you can ask:"
         })
 
+@app.route('/api/v0/generate_popup_questions', methods=['GET'])
+def generate_popup_questions():
+    user_question = flask.request.args.get('question')
+    popup_questions = generate_popup_query(user_question)
+    return jsonify({
+        "questions": popup_questions,
+    })
+
+
 @app.route('/api/v0/generate_followup_questions', methods=['GET'])
 @requires_cache(['df', 'question', 'sql'])
 def generate_followup_questions(id: str, df, question, sql):
