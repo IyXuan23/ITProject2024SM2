@@ -26,6 +26,7 @@ app = Flask(__name__, static_url_path='')
 openai_api_key = os.environ.get('OPENAI_API_KEY')
 vanna_api_key = os.environ.get('VANNA_API_KEY')
 vanna_model_name = os.environ.get('VANNA_MODEL_NAME')
+
  
 
 
@@ -111,6 +112,9 @@ def generate_sql():
         else:
             messages = construct_rephrasev2(previous_convo, user_question,keywords)
             rephrased_question = rephrase_question(messages)
+            if ("again" in rephrased_question):
+                messages = construct_rephrase(previous_convo, user_question)
+                rephrased_question = rephrase_question(messages)
             print("RESET")
             previous_convo = [{"role": "system",
                 "content": "You are a university handbook assistant chatbot, you help student find subject information, " 
@@ -122,6 +126,9 @@ def generate_sql():
     else:
         messages = construct_rephrasev2(previous_convo, user_question,keywords)
         rephrased_question = rephrase_question(messages)
+        if ("again" in rephrased_question):
+                messages = construct_rephrase(previous_convo, user_question)
+                rephrased_question = rephrase_question(messages)
         messages=[
                 {"role": "system",
                 "content": "You are a university handbook assistant chatbot, you help student find subject information, " 
