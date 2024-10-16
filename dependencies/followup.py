@@ -75,7 +75,7 @@ def construct_rephrasev2(conversation_history: dict, followup_question: str, key
     # Add the user's follow-up question and keywords
     messages.append({
         "role": "user",
-        "content": (f"Based on the conversation above, correct my last question to include the following corrected keywords: \"{keywords}\"."
+        "content": (f"Based on the conversation above, correct my last question by replacing keywords in my last question with following corrected keywords: \"{keywords}\"."
                     f"My last question was: \"{followup_question}\".\n\nRephrased question:")
     })
     
