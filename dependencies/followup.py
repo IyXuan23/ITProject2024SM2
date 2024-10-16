@@ -14,6 +14,8 @@ openai_api_key = os.environ.get('OPENAI_API_KEY')
 
 
 
+
+
 def get_conversation ():
     return session.get('conversation_history',[])
 
@@ -35,7 +37,7 @@ def is_followup_question(conversation_history : dict, new_question : str) -> boo
     messages = [
         {
             "role": "system",
-            "content": "You are an AI assistant that determines if a user's new question is related to the previous conversation. Two questions are considered unrelated if they are about different subjects (with different subject names or codes) or if they pertain to different courses (a course is a program of study, and a subject is a specific unit within a course). Note every course has CRISCO code (do not confuse with course code)"
+            "content": "You are an AI assistant that determines if a user's new question is related to the previous conversation. Two questions are considered related if they are about the same subject or if they pertain to the same courses (a course is a program of study, and a subject is a specific unit within a course). Note every course has CRISCO code (do not confuse with course code)"
         }
     ]
     messages.extend(conversation_history)
@@ -57,6 +59,27 @@ def is_followup_question(conversation_history : dict, new_question : str) -> boo
     else:
         return False
 
+def construct_rephrasev2(conversation_history: dict, followup_question: str, keywords: str) -> dict:
+    messages = [
+        {
+            "role": "system",
+            "content": ("You are an assistant that corrects the user based on the corrected keywords provided, such as the subject code or course code, and information from the conversation. Remember, "
+                        "'course' and 'subject' are not interchangeable: a course is a program of study, while a subject refers to a specific "
+                        "class or unit within a course. Additionally, every course has a CRISCO code, which should not be confused with a course code.")
+        }
+    ]
+    # Add conversation history to the message
+    messages.extend(conversation_history)
+
+    # Add the user's follow-up question and keywords
+    messages.append({
+        "role": "user",
+        "content": (f"Based on the conversation above, correct my last question to include the following corrected keywords: \"{keywords}\". "
+                    f"My last question was: \"{followup_question}\".\n\nRephrased question:")
+    })
+    
+    return messages
+
 def construct_rephrase(conversation_history : dict, followup_question : str) -> dict:
     messages = [{"role": "system",
     "content": "You are an assistant that rephrases user questions to include necessary context, such as the subject code or course code, based on the conversation. Remember, 'course' and 'subject' are not interchangeable: a course is a program of study, while a subject refers to a specific class or unit within a course. Note every course has CRISCO code (do not confuse with course code)"}]
@@ -68,6 +91,7 @@ def generate_popup_query(user_question: str, LLMkey=openai_api_key) -> list:
     message = [{"role": "system",
                 "content": "You are an AI assistant that generates a list of similar questions based on the user's input. If the user asks about a specific subject (such as a subject code), generate short 3 variations that include different aspects of the subject, such as prerequisites, overview and availability, without any additional explanations or introductory text. Ensure that the generated questions are relevant to the subject or course being asked about."}]
     message.append({"role": "user", "content": f"My question: {user_question}"})
+    
     response = OpenAI(api_key=LLMkey).chat.completions.create(
         model="gpt-4o",
         messages=message
