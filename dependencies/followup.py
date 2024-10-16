@@ -14,8 +14,6 @@ openai_api_key = os.environ.get('OPENAI_API_KEY')
 
 
 
-
-
 def get_conversation ():
     return session.get('conversation_history',[])
 
@@ -82,14 +80,23 @@ def construct_rephrasev2(conversation_history: dict, followup_question: str, key
 
 def construct_rephrase(conversation_history : dict, followup_question : str) -> dict:
     messages = [{"role": "system",
-    "content": "You are an assistant that rephrases user questions to include necessary context, such as the subject code or course code, based on the conversation. Remember, 'course' and 'subject' are not interchangeable: a course is a program of study, while a subject refers to a specific class or unit within a course. Note every course has CRISCO code (do not confuse with course code)"}]
+    "content": "You are an assistant that rephrases user questions to include necessary context, such as the subject code or course code, based on the conversation. Remember, 'course' and 'subject' are not interchangeable: a course is a program of study, while a subject refers to a specific class or unit within a course. Note every course has CRISCO code (do not confuse with course code). "
+    "Don't include 'course' or 'subject' or 'major' or 'program' or 'degree' or 'curriculum', 'track' in the rephrased question."}]
     messages.extend(conversation_history)
     messages.append({"role": "user", "content": f"Based on the above conversation, rephrase my last question\n\nMy last question: \"{followup_question}\"\nRephrased question:"})
     return messages
 
 def generate_popup_query(user_question: str, LLMkey=openai_api_key) -> list:
-    message = [{"role": "system",
-                "content": "You are an AI assistant that generates a list of similar questions based on the user's input. If the user asks about a specific subject (such as a subject code), generate short 3 variations that include different aspects of the subject, such as prerequisites, overview and availability, without any additional explanations or introductory text. Ensure that the generated questions are relevant to the subject or course being asked about."}]
+    message = [{
+    "role": "system",
+    "content": (
+        "You are an AI assistant that generates 2 similar questions based on the user's input. Ensure that the generated questions do not include the words 'course', 'program', 'major', or 'subject' or 'degree' or 'curriculum', 'track'. "
+        "The format for the questions should follow these examples: "
+        "1. What are the prerequisites of _______? "
+        "2. What are the requirements of _______? "
+        "Fill in the blanks based on the user's input."
+    )
+    }]
     message.append({"role": "user", "content": f"My question: {user_question}"})
     
     response = OpenAI(api_key=LLMkey).chat.completions.create(
