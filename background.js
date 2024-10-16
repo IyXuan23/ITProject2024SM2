@@ -7,6 +7,9 @@ chrome.runtime.onMessage.addListener((message, sender) => {
                 path: 'sidepanel.html',
                 enabled: true
             });
+            setTimeout(() => chrome.runtime.sendMessage({
+                type: 'UPDATE_GREETING'
+            }), 1000);
             updateButtonTexts(sender.tab.id);
         }
     })();

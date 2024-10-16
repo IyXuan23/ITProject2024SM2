@@ -19,7 +19,7 @@ function updateButtonTexts(subjectCode, courseCode) {
         button3text.textContent = `How many assessments does ${subjectCode} have?`;
     }
     else if (courseCode) {
-        button1text.textContent = `Tell me what's the entry requirement for ${courseCode}?`;
+        button1text.textContent = `Tell me what's the requirement for ${courseCode}?`;
         button2text.textContent = `What are the learning outcomes for ${courseCode}?`;
         button3text.textContent = `whats the course structure of ${courseCode}?`;
     }
@@ -46,21 +46,25 @@ function updateGreeting() {
 }
 
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
+    if (message.type === 'UPDATE_GREETING') {
+        updateGreeting();
+        sendResponse({ received: true });
+    }
+});
+
+chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     if (message.type === 'UPDATE_BUTTON_TEXT_SUBJECT') {
         const subjectCode = message.subjectCode;
         updateButtonTexts(subjectCode, null);
-        updateGreeting();
         sendResponse({ received: true });
     }
     if (message.type === 'UPDATE_BUTTON_TEXT_COURSE') {
         const courseCode = message.courseCode;
         updateButtonTexts(null, courseCode);
-        updateGreeting();
         sendResponse({ received: true });
     }
     if (message.type === 'UPDATE_BUTTON_TEXT_SAMPLE') {
         updateButtonTexts(null, null);
-        updateGreeting();
         sendResponse({ received: true });
     }
     return true;
