@@ -79,11 +79,25 @@ def construct_rephrasev2(conversation_history: dict, followup_question: str, key
     return messages
 
 def construct_rephrase(conversation_history : dict, followup_question : str) -> dict:
-    messages = [{"role": "system",
-    "content": "You are an assistant that rephrases user questions to include necessary context, such as the subject code or course code, based on the conversation. Remember, 'course' and 'subject' are not interchangeable: a course is a program of study, while a subject refers to a specific class or unit within a course. Note every course has CRISCO code (do not confuse with course code). "
-    "Don't include 'course' or 'subject' or 'major' or 'program' or 'degree' or 'curriculum', 'track' in the rephrased question."}]
+    messages = [
+        {
+            "role": "system",
+            "content": (
+                "You are an assistant that rephrases user questions to include necessary context, such as the subject code or course code, based on the conversation. Remember, 'course' and 'subject' are not interchangeable: a course is a program of study, while a subject refers to a specific class or unit within a course. Note every course has a CRISCO code (do not confuse it with a course code). "
+                "In the rephrased question, do not include the following words: 'course', 'subject', 'major', 'program', 'degree', 'curriculum', 'track', '&'. Additionally, do not include any words after keywords."
+            )
+        }
+    ]
+    
+    # Add conversation history to the message
     messages.extend(conversation_history)
-    messages.append({"role": "user", "content": f"Based on the above conversation, rephrase my last question\n\nMy last question: \"{followup_question}\"\nRephrased question:"})
+
+    # Add the user's follow-up question
+    messages.append({
+        "role": "user",
+        "content": f"Based on the above conversation, rephrase my last question\n\nMy last question: \"{followup_question}\"\nRephrased question:"
+    })
+    
     return messages
 
 def generate_popup_query(user_question: str, LLMkey=openai_api_key) -> list:
