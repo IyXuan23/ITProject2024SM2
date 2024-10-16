@@ -10,6 +10,7 @@ from dependencies.cache import MemoryCache
 from dependencies.vanna import VannaDefault
 from dependencies.followup import *
 import secrets
+#from dependencies.correct import subject_detect 
 
 
 """
@@ -25,6 +26,8 @@ app = Flask(__name__, static_url_path='')
 openai_api_key = os.environ.get('OPENAI_API_KEY')
 vanna_api_key = os.environ.get('VANNA_API_KEY')
 vanna_model_name = os.environ.get('VANNA_MODEL_NAME')
+
+
 
 
 CORS(app, resources={r"/api/*": {"origins": "*"}})
@@ -106,13 +109,21 @@ def generate_sql():
         else:
             print("RESET")
             previous_convo = [{"role": "system",
-                "content": "You are a university handbook assistant chatbot, you help student find subject information, you are providing formal and precise response corresponding to the user input, you are now asked to convert the following text into a more colloquial response and do not include 'sure', response in markdown format."}]
+                "content": "You are a university handbook assistant chatbot, you help student find subject information, " 
+                "you are providing formal and precise response corresponding to the user input, " 
+                "you are now asked to convert the following text into a more colloquial response and do not include 'sure', response in markdown format. " 
+                "Please use the context provided in the system output to answer " 
+                "(If system output is empty or none, inform user that there is no available information)."}]
             save_conversation(previous_convo)
             rephrased_question = user_question
     else:
         messages=[
                 {"role": "system",
-                "content": "You are a university handbook assistant chatbot, you help student find subject information, you are providing formal and precise response corresponding to the user input, you are now asked to convert the following text into a more colloquial response and do not include 'sure', response in markdown format."}]
+                "content": "You are a university handbook assistant chatbot, you help student find subject information, " 
+                "you are providing formal and precise response corresponding to the user input, " 
+                "you are now asked to convert the following text into a more colloquial response and do not include 'sure', response in markdown format. " 
+                "Please use the context provided in the system output to answer "
+                "(If system output is empty or none, inform user that there is no available information)."}]
         previous_convo.extend(messages)
         save_conversation(previous_convo)
         rephrased_question = user_question
@@ -126,29 +137,59 @@ def generate_sql():
     print(valid)
     if valid:
         
-        # Fetch info from database
-        conn = psycopg2.connect(database="postgres",user="postgres.seqkcnapvgkwqbqipqqs",password="IT Web Server12",host="aws-0-ap-southeast-2.pooler.supabase.com",port=6543)
+        # Establish the database connection
+        conn = psycopg2.connect(
+        database="postgres",
+        user="postgres.seqkcnapvgkwqbqipqqs",
+        password="IT Web Server12",
+        host="aws-0-ap-southeast-2.pooler.supabase.com",
+        port=6543
+        )
+
         cur = conn.cursor()
         cur.execute(sql)
-        result = cur.fetchall()
+        rows = cur.fetchall()
+
+        # Get column names from the cursor description
+        column_names = [desc[0] for desc in cur.description]
+
+        # Initialize a dictionary with column names as keys and empty lists as values
+        result_dict = {col_name: [] for col_name in column_names}
+
+        # Populate the dictionary with data
+        for row in rows:
+            for col_name, value in zip(column_names, row):
+                result_dict[col_name].append(value)
+
+        # Close the cursor and the connection
         cur.close()
         conn.close()
-        
+
+        #subject_name = subject_detect(rephrased_question)
+        #print(subject_name)
+        # Remove columns that have no data (all values are None or empty)
+        filtered_result_dict = {}
+        for col_name, data_list in result_dict.items():
+            if any(value not in (None, '', []) for value in data_list):
+                filtered_result_dict[col_name] = data_list
+
+        # print the processed dict
+        print(filtered_result_dict)
+
         client = OpenAI(
             api_key=openai_api_key)
-        
-
         # Pass the user's query and fetched data to LLM
         previous_convo.append({"role": "user", "content": f"User input: {rephrased_question}"})
-        previous_convo.append({"role": "assistant", "content": f"System output: {result}"})
+        previous_convo.append({"role": "assistant", "content": f"System output: {filtered_result_dict}"})
         response = client.chat.completions.create(
-            model="gpt-4o-mini",
+            model="gpt-4o",
             messages=previous_convo
         ).choices[0].message.content
         previous_convo.append({"role": "assistant", "content": response})
 
         # Save conversation
         save_conversation(previous_convo)
+
         
         # Return the OpenAI response as a JSON response
         return jsonify({
