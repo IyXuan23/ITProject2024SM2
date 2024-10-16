@@ -60,11 +60,12 @@ def correct_query(key_field, key_subject):
     # First, check how many digits are in key_subject
     num_digits = sum(c.isdigit() for c in key_subject)
     if num_digits == 5:
+
         # key_subject has exactly 5 digits
         # Now, check if key_subject exists in the database
         if key_subject in subjects.keys() or key_subject in majors.keys() or key_subject in courses.keys():
             # key_subject exists in the database, proceed normally without correction
-            return f"Please provide information about {key_field} for {key_subject}."
+            return key_subject
         else:
             # key_subject does not exist in database
             return f"{key_subject} is not available."
@@ -132,7 +133,8 @@ def correct_query(key_field, key_subject):
             corrected_subject = key_subject
     
         # Return corrected query statement
-        return f"Please provide information about {closest_field} for {corrected_subject}."
+        return corrected_subject
+
 
 def main(user_input):
     try:
@@ -150,14 +152,10 @@ def main(user_input):
 
         key_field = lines[0].replace('Key Field: ', '').strip()
         key_subject = lines[1].replace('Key Subject: ', '').strip()
-
-        # Display extracted field and subject/major/course
-        print(f"Key Field: {key_field}")
-        print(f"Key Subject: {key_subject}")
         
         # Correct query statement
         corrected_query = correct_query(key_field, key_subject)
-        print(f"Corrected Query: {corrected_query}")
+        print(corrected_query)
 
         # Log user query and corrected result
         logging.info(f"User Input: {user_input} | Corrected Query: {corrected_query}")
