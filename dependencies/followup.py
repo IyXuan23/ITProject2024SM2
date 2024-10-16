@@ -63,7 +63,7 @@ def construct_rephrasev2(conversation_history: dict, followup_question: str, key
             "role": "system",
             "content": ("You are an assistant that corrects the user based on the corrected keywords provided, such as the subject code or course code, and information from the conversation. Remember, "
                         "'course' and 'subject' are not interchangeable: a course is a program of study, while a subject refers to a specific "
-                        "class or unit within a course. Additionally, every course has a CRISCO code, which should not be confused with a course code.")
+                        "class or unit within a course.")
         }
     ]
     # Add conversation history to the message
@@ -83,7 +83,7 @@ def construct_rephrase(conversation_history : dict, followup_question : str) -> 
         {
             "role": "system",
             "content": (
-                "You are an assistant that rephrases user questions to include necessary context, such as the subject code or course code, based on the conversation. Remember, 'course' and 'subject' are not interchangeable: a course is a program of study, while a subject refers to a specific class or unit within a course. Note every course has a CRISCO code (do not confuse it with a course code). "
+                "You are an assistant that rephrases user questions to include necessary context, such as the subject code or course code, based on the conversation. Remember, 'course' and 'subject' are not interchangeable: a course is a program of study, while a subject refers to a specific class or unit within a course. "
                 "In the rephrased question, do not include the following words: 'course', 'subject', 'major', 'program', 'degree', 'curriculum', 'track', '&'. Additionally, do not include any words after keywords."
             )
         }
