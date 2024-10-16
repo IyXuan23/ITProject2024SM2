@@ -101,6 +101,10 @@ def generate_sql():
     print(previous_convo)
     
     keywords = correct_subject(user_question)
+
+    if ("again" not in keywords) and ('course' not in keywords) and ('major' not in keywords):
+        keywords = keywords + '(subject)'
+    
     print(keywords)
     if previous_convo:
         # Determine whether the question is a follow - up question
@@ -110,12 +114,14 @@ def generate_sql():
         
         # If the user change topic, the convo history will be reset
         else:
-            messages = construct_rephrasev2(previous_convo, user_question,keywords)
-            rephrased_question = rephrase_question(messages)
-            if ("again" in rephrased_question):
+            print("RESET")
+            previous_convo = []
+            if ("again" not in keywords):
+                messages = construct_rephrasev2(previous_convo, user_question,keywords)
+                rephrased_question = rephrase_question(messages)
+            else:
                 messages = construct_rephrase(previous_convo, user_question)
                 rephrased_question = rephrase_question(messages)
-            print("RESET")
             previous_convo = [{"role": "system",
                 "content": "You are a university handbook assistant chatbot, you help student find subject information, " 
                 "you are providing formal and precise response corresponding to the user input, " 
@@ -124,9 +130,10 @@ def generate_sql():
                 "(If system output is empty or none, inform user that there is no available information)."}]
             save_conversation(previous_convo)
     else:
-        messages = construct_rephrasev2(previous_convo, user_question,keywords)
-        rephrased_question = rephrase_question(messages)
-        if ("again" in rephrased_question):
+        if ("again" not in keywords):
+                messages = construct_rephrasev2(previous_convo, user_question,keywords)
+                rephrased_question = rephrase_question(messages)
+        else:
                 messages = construct_rephrase(previous_convo, user_question)
                 rephrased_question = rephrase_question(messages)
         messages=[
@@ -141,85 +148,84 @@ def generate_sql():
         
 
     # Generate the SQL query from the user REPHRASED question
-    if "not available" not in keywords:
-        sql = vn.generate_sql(rephrased_question)
-        valid = is_sql_valid(sql)
+    sql = vn.generate_sql(rephrased_question)
+    valid = is_sql_valid(sql)
 
-        # Debugging    
-        print("The rephrased question is: " + rephrased_question)
-        print("The validity of sql is: " + str(valid))
-        print("The sql query is: ")
-        print(str(sql))
+    # Debugging    
+    print("The rephrased question is: " + rephrased_question)
+    print("The validity of sql is: " + str(valid))
+    print("The sql query is: ")
+    print(str(sql))
 
-        generate_popup_query(rephrased_question)
+    #generate_popup_query(rephrased_question)
 
 
-        if valid:
+    if valid:
+        
+        # Establish the database connection
+        conn = psycopg2.connect(
+        database="postgres",
+        user="postgres.seqkcnapvgkwqbqipqqs",
+        password="IT Web Server12",
+        host="aws-0-ap-southeast-2.pooler.supabase.com",
+        port=6543
+        )
+
+        cur = conn.cursor()
+        cur.execute(sql)
+        rows = cur.fetchall()
+
+        # Get column names from the cursor description
+        column_names = [desc[0] for desc in cur.description]
+
+        # Initialize a dictionary with column names as keys and empty lists as values
+        result_dict = {col_name: [] for col_name in column_names}
+
+        # Populate the dictionary with data
+        for row in rows:
+            for col_name, value in zip(column_names, row):
+                result_dict[col_name].append(value)
+
+        # Close the cursor and the connection
+        cur.close()
+        conn.close()
+
+        #subject_name = correct_subject(rephrased_question)
+        #print(subject_name)
+        # Remove columns that have no data (all values are None or empty)
+        filtered_result_dict = {}
+        for col_name, data_list in result_dict.items():
+            if any(value not in (None, '', []) for value in data_list):
+                filtered_result_dict[col_name] = data_list
+
+        # print the processed dict
+        print(filtered_result_dict)
+
+        client = OpenAI(
+            api_key=openai_api_key)
+        # Pass the user's query and fetched data to LLM
+        previous_convo.append({"role": "user", "content": f"User input: {rephrased_question}"})
+        previous_convo.append({"role": "assistant", "content": f"System output: {filtered_result_dict}"})
+
+
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=previous_convo,
+        ).choices[0].message.content
+        previous_convo.append({"role": "assistant", "content": response})
             
-            # Establish the database connection
-            conn = psycopg2.connect(
-            database="postgres",
-            user="postgres.seqkcnapvgkwqbqipqqs",
-            password="IT Web Server12",
-            host="aws-0-ap-southeast-2.pooler.supabase.com",
-            port=6543
-            )
+        previous_convo = [
+            msg for msg in previous_convo 
+            if not (msg["role"] == "assistant" and msg["content"] == f"System output: {filtered_result_dict}")]
+        
+        # Save conversation
+        save_conversation(previous_convo)
 
-            cur = conn.cursor()
-            cur.execute(sql)
-            rows = cur.fetchall()
-
-            # Get column names from the cursor description
-            column_names = [desc[0] for desc in cur.description]
-
-            # Initialize a dictionary with column names as keys and empty lists as values
-            result_dict = {col_name: [] for col_name in column_names}
-
-            # Populate the dictionary with data
-            for row in rows:
-                for col_name, value in zip(column_names, row):
-                    result_dict[col_name].append(value)
-
-            # Close the cursor and the connection
-            cur.close()
-            conn.close()
-
-            #subject_name = correct_subject(rephrased_question)
-            #print(subject_name)
-            # Remove columns that have no data (all values are None or empty)
-            filtered_result_dict = {}
-            for col_name, data_list in result_dict.items():
-                if any(value not in (None, '', []) for value in data_list):
-                    filtered_result_dict[col_name] = data_list
-
-            # print the processed dict
-            print(filtered_result_dict)
-
-            client = OpenAI(
-                api_key=openai_api_key)
-            # Pass the user's query and fetched data to LLM
-            previous_convo.append({"role": "user", "content": f"User input: {rephrased_question}"})
-            previous_convo.append({"role": "assistant", "content": f"System output: {filtered_result_dict}"})
-
-
-            response = client.chat.completions.create(
-                model="gpt-4o",
-                messages=previous_convo,
-            ).choices[0].message.content
-            previous_convo.append({"role": "assistant", "content": response})
-                
-            previous_convo = [
-                msg for msg in previous_convo 
-                if not (msg["role"] == "assistant" and msg["content"] == f"System output: {filtered_result_dict}")]
-            
-            # Save conversation
-            save_conversation(previous_convo)
-
-            
-            # Return the OpenAI response as a JSON response
-            return jsonify({
-                "response": response,
-            })
+        
+        # Return the OpenAI response as a JSON response
+        return jsonify({
+            "response": response,
+        })
     return jsonify({
         "response": "Sorry, I can't provide any information. Please try again.",
     })
