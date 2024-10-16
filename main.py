@@ -52,6 +52,18 @@ def correct_query(key_field, key_subject):
     """
     Generate a corrected query statement based on user input for fields, subjects, majors, or courses.
     """
+     # First, check how many digits are in key_subject
+    num_digits = sum(c.isdigit() for c in key_subject)
+    if num_digits == 5:
+
+        # key_subject has exactly 5 digits
+        # Now, check if key_subject exists in the database
+        if key_subject in subjects.keys() or key_subject in majors.keys() or key_subject in courses.keys():
+            # key_subject exists in the database, proceed normally without correction
+            return key_subject
+        else:
+            # key_subject does not exist in database
+            return f"{key_subject} is not available."
     # No input cleaning is performed here
     key_subject_raw = key_subject.strip().lower()
 
@@ -80,7 +92,7 @@ def correct_query(key_field, key_subject):
     if best_match:
         corrected_subject = best_match
         # Return the desired output format
-        return f"what about {corrected_subject}({best_category})"
+        return corrected_subject+"("+best_category+")"
     else:
         corrected_subject = key_subject
         return f"Sorry, we couldn't find any information matching '{corrected_subject}'. Please check your input and try again."
