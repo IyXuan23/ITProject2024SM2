@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', async(event) => {
     chatElement.requestInterceptor = async (requestDetails) => {
         const userQuery = requestDetails.body.messages[requestDetails.body.messages.length - 1].text;
         const encodedQuery = encodeURIComponent(userQuery);
-        const newUrl = `https://api-test-gamma-nine.vercel.app/api/v0/generate_sql?question=${encodedQuery}`;
+        const newUrl = `https://it-project2024-sm-2.vercel.app/api/v0/generate_sql?question=${encodedQuery}`;
         chatElement.connect.url = newUrl;
         return requestDetails;
     };
@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', async(event) => {
             console.log(suggestions);
             let j = 0;
             for (let i = 0; i < 3; i++) {
-                if (suggestions[j] !== null) {
+                if (suggestions[j] !== '') {
                     const button = chatElementRef.shadowRoot.querySelector(`#suggestion${i + 1}`);
                     button.textContent = suggestions[j];
                     j++;
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', async(event) => {
 async function fetchSimilarQuestions() {
     const userQuery = chatElement.getMessages()[chatElement.getMessages().length - 1].text;
     const encodedQuery = encodeURIComponent(userQuery);
-    const url = `https://api-test-gamma-nine.vercel.app/api/v0/generate_popup_questions?question=${encodedQuery}`;
+    const url = `https://it-project2024-sm-2.vercel.app/api/v0/generate_popup_questions?question=${encodedQuery}`;
     try {
         const response = await fetch(url);
         if (!response.ok) {

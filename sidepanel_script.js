@@ -16,7 +16,7 @@ function updateButtonTexts(subjectCode, courseCode) {
     if (subjectCode) {
         button1text.textContent = `Does ${subjectCode} have any prerequisites?`;
         button2text.textContent = `What can I learn from ${subjectCode}?`;
-        button3text.textContent = `How many assessments does ${subjectCode} have? Which weight the most?`;
+        button3text.textContent = `How many assessments does ${subjectCode} have?`;
     }
     else if (courseCode) {
         button1text.textContent = `Tell me what's the entry requirement for ${courseCode}?`;
