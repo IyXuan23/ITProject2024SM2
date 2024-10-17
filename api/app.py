@@ -158,8 +158,6 @@ def generate_sql():
     print(str(sql))
 
     #generate_popup_query(rephrased_question)
-    valid = False
-
     if valid:
         
         # Establish the database connection
