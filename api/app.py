@@ -158,7 +158,7 @@ def generate_sql():
     print(str(sql))
 
     #generate_popup_query(rephrased_question)
-
+    valid = False
 
     if valid:
         
@@ -218,16 +218,29 @@ def generate_sql():
             msg for msg in previous_convo 
             if not (msg["role"] == "assistant" and msg["content"] == f"System output: {filtered_result_dict}")]
         
-        # Save conversation
-        save_conversation(previous_convo)
+    
+    if (valid == False) or len(filtered_result_dict) == 0:
+        print("No SQL query generated. Activated back-up protocol")
+        client = OpenAI(
+            api_key=openai_api_key)
+        # Pass the user's query and fetched data to LLM
+        previous_convo.append({"role": "assistant", "content": f"System output: Use the informations above (ONLY INFORMATIONS FROM ABOVE) to answer. Inform user that there is no available information if no information is found"})
 
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=previous_convo,
+        ).choices[0].message.content
+        previous_convo.append({"role": "assistant", "content": response})
+            
+        previous_convo = [
+            msg for msg in previous_convo 
+            if not (msg["role"] == "assistant" and msg["content"] == f"System output: Use the informations above (AND ONLY INFORMATIONS FROM ABOVE) to answer. Inform user that there is no available information if no information is found")
+        ]
         
-        # Return the OpenAI response as a JSON response
-        return jsonify({
-            "response": response,
-        })
+    # Save conversation
+    save_conversation(previous_convo)
     return jsonify({
-        "response": "Sorry, I can't provide any information. Please try again.",
+        "response": response,
     })
 
 
