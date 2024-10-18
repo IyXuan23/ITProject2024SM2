@@ -14,33 +14,33 @@ document.addEventListener('DOMContentLoaded', async(event) => {
         return response;
     };
 
-    chatElement.onMessage = async (message) => {
-        if (message.message.role === 'ai' && !message.isHistory) {
-            chatElement.addMessage({
-                html: `
-                <div class="deep-chat-temporary-message" id = "suggestions-button" style="display: none">
-                    <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion1" style="margin-top: 5px; boxShadow: '0px 0.3px 0.9px rgba(0, 0, 0, 0.12), 0px 1.6px 3.6px rgba(0, 0, 0, 0.16)'; borderRadius: 20px"></button>
-                    <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion2" style="margin-top: 6px; boxShadow: '0px 0.3px 0.9px rgba(0, 0, 0, 0.12), 0px 1.6px 3.6px rgba(0, 0, 0, 0.16)'; borderRadius: 20px"></button>
-                    <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion3" style="margin-top: 6px; boxShadow: '0px 0.3px 0.9px rgba(0, 0, 0, 0.12), 0px 1.6px 3.6px rgba(0, 0, 0, 0.16)'; borderRadius: 20px"></button>
-                </div>`, 
-                role: "user"
-            });
-            const suggestions = await fetchSimilarQuestions();
-            console.log(suggestions);
-            let j = 0;
-            for (let i = 0; i < 3; i++) {
-                if (suggestions[j] !== '') {
-                    const button = chatElementRef.shadowRoot.querySelector(`#suggestion${i + 1}`);
-                    button.textContent = suggestions[j];
-                    j++;
-                } else {
-                    j++;
-                }
-            }
-            const suggestionsButton = chatElementRef.shadowRoot.querySelector('#suggestions-button');
-            suggestionsButton.style.display = "block";
-        }
-    };
+    // chatElement.onMessage = async (message) => {
+    //     if (message.message.role === 'ai' && !message.isHistory) {
+    //         chatElement.addMessage({
+    //             html: `
+    //             <div class="deep-chat-temporary-message" id = "suggestions-button" style="display: none">
+    //                 <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion1" style="margin-top: 5px; boxShadow: '0px 0.3px 0.9px rgba(0, 0, 0, 0.12), 0px 1.6px 3.6px rgba(0, 0, 0, 0.16)'; borderRadius: 20px"></button>
+    //                 <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion2" style="margin-top: 6px; boxShadow: '0px 0.3px 0.9px rgba(0, 0, 0, 0.12), 0px 1.6px 3.6px rgba(0, 0, 0, 0.16)'; borderRadius: 20px"></button>
+    //                 <button class="deep-chat-button deep-chat-suggestion-button" id = "suggestion3" style="margin-top: 6px; boxShadow: '0px 0.3px 0.9px rgba(0, 0, 0, 0.12), 0px 1.6px 3.6px rgba(0, 0, 0, 0.16)'; borderRadius: 20px"></button>
+    //             </div>`, 
+    //             role: "user"
+    //         });
+    //         const suggestions = await fetchSimilarQuestions();
+    //         console.log(suggestions);
+    //         let j = 0;
+    //         for (let i = 0; i < 3; i++) {
+    //             if (suggestions[j] !== '') {
+    //                 const button = chatElementRef.shadowRoot.querySelector(`#suggestion${i + 1}`);
+    //                 button.textContent = suggestions[j];
+    //                 j++;
+    //             } else {
+    //                 j++;
+    //             }
+    //         }
+    //         const suggestionsButton = chatElementRef.shadowRoot.querySelector('#suggestions-button');
+    //         suggestionsButton.style.display = "block";
+    //     }
+    // };
 });
 
 
