@@ -11,6 +11,7 @@ document.addEventListener('DOMContentLoaded', async(event) => {
     chatElement.responseInterceptor = (response) => {
         result = response.response;
         response = { text: result};
+        chatElement.scrollToBottom();
         return response;
     };
 
@@ -71,11 +72,11 @@ chatElementRef.htmlClassUtilities = {
         },
         styles: {
             default: {
-                marginLeft: '15px',
-                marginRight: '15px',
+                marginLeft: '18px',
+                marginRight: '18px',
                 backgroundColor: '#ffffff',
                 borderRadius: '20px',
-                padding: '8px',
+                padding: '9px',
                 cursor: 'pointer',
                 textAlign: 'center',
                 marginTop: '12px',

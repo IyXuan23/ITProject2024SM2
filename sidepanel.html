@@ -7,7 +7,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
-      href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,500;0,600;0,700;1,400;1,500;1,900&family=Shippori+Mincho:wght@400;500;600;700;800&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap"
       rel="stylesheet">
     <link rel="stylesheet" href="/styles.css">
 </head>
@@ -15,11 +15,11 @@
 <script src="./microsoft.cognitiveservices.speech.sdk.bundle.js"></script>
 <body>
     <deep-chat id="chat-element"
-        style="font-family: 'Poppins'; font-size: small; width: 100vw; height: calc(100vh); border-radius: 10px; position: fixed; bottom: 0px; z-index: 999; padding-top: 10px; border-color: #e4e4e4; background: linear-gradient(90deg, rgb(239, 242, 247) 0%, rgb(237, 240, 249) 15.2057%, rgb(235, 239, 248) 26.297%, rgb(231, 237, 249) 47.585%, rgb(228, 236, 249) 57.6029%, rgb(227, 234, 250) 65.4741%, rgb(222, 234, 250) 72.093%, rgb(219, 230, 248) 79.4275%, rgb(216, 229, 248) 86.2254%, rgb(210, 226, 249) 94.2755%, rgb(208, 224, 247) 100%)"
+        style="font-family: 'Source Sans 3'; font-size: 15px; width: 100vw; height: calc(100vh); border-radius: 10px; position: fixed; bottom: 0px; z-index: 999; padding-top: 10px; border-color: #e4e4e4; background: linear-gradient(90deg, rgb(239, 242, 247) 0%, rgb(237, 240, 249) 15.2057%, rgb(235, 239, 248) 26.297%, rgb(231, 237, 249) 47.585%, rgb(228, 236, 249) 57.6029%, rgb(227, 234, 250) 65.4741%, rgb(222, 234, 250) 72.093%, rgb(219, 230, 248) 79.4275%, rgb(216, 229, 248) 86.2254%, rgb(210, 226, 249) 94.2755%, rgb(208, 224, 247) 100%)"
         textInput='{
     "styles": {
       "container": {"borderRadius": "20px", "border": "1px solid #969696", "boxShadow": "unset", "width": "78%", "marginLeft": "-15px"},
-      "text": {"padding": "10px", "paddingLeft": "15px", "paddingRight": "34px"}
+      "text": {"padding": "9px", "paddingLeft": "15px", "paddingRight": "34px"}
     },
     "placeholder": {"text": "Ask me anything...", "style": {"color": "#bcbcbc"}}
   }'
@@ -41,7 +41,7 @@
     "webSpeech": {"language": "en-US"},
     "button": {
       "default": {
-        "container": {"default": {"bottom": "1.2em", "right": "0.6em", "borderRadius": "20px", "width": "1.9em", "height": "1.9em"}},
+        "container": {"default": {"bottom": "1.0em", "right": "0.6em", "borderRadius": "20px", "width": "1.9em", "height": "1.9em"}},
         "svg": {"styles": {"default": {"bottom": "0.35em", "left": "0.35em"}}}
       },
       "position": "inside-right"
@@ -51,7 +51,7 @@
     "position": "outside-right",
     "submit": {
       "container": {
-        "default": {"bottom": "1.1em", "borderRadius": "25px", "padding": "6px 5px 4px", "backgroundColor": "#f3f6fc"},
+        "default": {"bottom": "1.0em", "borderRadius": "25px", "padding": "6px 5px 4px", "backgroundColor": "#f3f6fc"},
         "hover": {"backgroundColor": "#b0deff4f"},
         "click": {"backgroundColor": "#b0deffb5"}
       },
@@ -83,19 +83,19 @@
   "stream": {"simulation": 8}
   }'>
         <div style="display: none">
-            <div class="greeting-text" style="padding-bottom: 10px; padding-left: 15px">
+            <div class="greeting-text" style="padding-bottom: 10px">
               <div id="greetingWrapper">
-                <div class="text" id="greetingText" style="display: block; font-family: 'Libre Baskervill'; font-size: 30px; font-style: italic; font-weight: 700; text-align: justify">Hello,</div>
+                <div class="text" id="greetingText" style="display: block; font-family: 'Fraunces', serif; font-size: 30px; font-weight: 500; font-style: normal; font-variation-settings:'SOFT' 0, 'WONK' 0; text-align: justify">Hello,</div>
               </div>
-              <div class="text" style="display: block; font-family: 'Libre Baskervill'; font-size: 20px; font-style: italic; font-weight: 400; text-align: justify"> How can I assist you today?</div>
+              <div class="text" id="greetingText2" style="display: block; font-family: 'Fraunces', serif; font-size: 20px; font-weight: 400; font-style: normal; font-variation-settings:'SOFT' 0, 'WONK' 0; text-align: justify"> How can I assist you today?</div>
             </div>
-            <div class="custom-button" id = "button1" style="display: block; font-family: 'Poppins'; font-size: 13px">
+            <div class="custom-button" id = "button1" style="display: none; font-family: 'Source Sans 3'; font-size: 15px">
                 <div class="custom-button-text" id="button1text"></div>
             </div>
-            <div class="custom-button" id = "button2"  style="display: block; font-family: 'Poppins'; font-size: 13px">
+            <div class="custom-button" id = "button2"  style="display: none; font-family: 'Source Sans 3'; font-size: 15px">
                 <div class="custom-button-text" id="button2text"></div>
             </div>
-            <div class="custom-button" id = "button3"  style="display: block; font-family: 'Poppins'; font-size: 13px">
+            <div class="custom-button" id = "button3"  style="display: none; font-family: 'Source Sans 3'; font-size: 15px">
                 <div class="custom-button-text" id="button3text"></div>
             </div>
         </div>

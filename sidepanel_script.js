@@ -32,6 +32,9 @@ function updateButtonTexts(subjectCode, courseCode) {
 
 function updateGreeting() {
     const greetingText = chatElementRef.shadowRoot.querySelector('#greetingText');
+    const greetingText2 = chatElementRef.shadowRoot.querySelector('#greetingText2');
+    greetingText.style.paddingLeft = '15px';
+    greetingText2.style.paddingLeft = '15px';
     const greetings = ["Wominjeka,", "Hola,", "Bonjour,", "Ciao,", "Hello,"];
     let index = 0;
     function fadeOutIn() {
