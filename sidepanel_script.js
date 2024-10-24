@@ -35,17 +35,17 @@ function updateGreeting() {
     const greetingText2 = chatElementRef.shadowRoot.querySelector('#greetingText2');
     greetingText.style.paddingLeft = '15px';
     greetingText2.style.paddingLeft = '15px';
-    const greetings = ["Wominjeka,", "Hola,", "Bonjour,", "Ciao,", "Hello,"];
-    let index = 0;
-    function fadeOutIn() {
-        setTimeout(() => {
-            greetingText.textContent = greetings[index];
-            setTimeout(() => {
-                index = (index + 1) % greetings.length;
-            }, 500);
-        }, 500);
+    const now = new Date();
+    const hour = now.getHours();
+    let greeting = "";
+    if (hour >= 5 && hour < 12) {
+        greeting = "Good morning,";
+    } else if (hour >= 12 && hour < 18) {
+        greeting = "Good afternoon,";
+    } else {
+        greeting = "Good evening,";
     }
-    setInterval(fadeOutIn, 5000);
+    greetingText.textContent = greeting;
 }
 
 chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
