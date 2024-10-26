@@ -7,7 +7,7 @@
 This is a chatbot API integrated with OpenAI and Vanna AI, connected through a Chrome extension that provides users with real-time assistance based on the UoM Student Handbook.
 
 ## System Architecture Overview
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/6b068dd3-4826-413b-840b-f909c36c811d)
 
 - **User Interaction**: Users interact through a Chrome extension that pops up when they access the UoM Student Handbook in their browser.
 - **Chrome Extension**: This extension, comprising HTML, JavaScript, and manifest files, triggers the UoM Handbook Chatbot popup.
