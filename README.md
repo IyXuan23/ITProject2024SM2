@@ -17,6 +17,17 @@ This is a chatbot API integrated with OpenAI and Vanna AI, connected through a C
 
 ## Getting Started
 
+### Prerequisites
+
+- **OpenAI:** 
+   Obtain an API key from the [OpenAI website](https://platform.openai.com/signup/). This key is required for integrating OpenAI services.
+ 
+- **Vanna AI Keys:**
+   Obtain an API key from [Vanna AI](https://vanna.ai/). This key is required for interacting with Vanna AI services.
+
+- **PostgreSQL Database:**
+   Set up your own PostgreSQL database to store the necessary data. You can use cloud providers like AWS RDS, Google Cloud SQL, or any other preferred method to host your PostgreSQL database.
+
 ### Step 1: Clone the repository
 
 ```bash
