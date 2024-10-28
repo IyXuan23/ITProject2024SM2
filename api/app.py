@@ -287,8 +287,3 @@ def root():
 @app.route('/api/v0/get_question_history', methods=['GET'])
 def get_question_history():
     return jsonify({"type": "question_history", "questions": cache.get_all(field_list=['question']) })
-
-                        ####################### CONTROL #######################
-
-if __name__ == '__main__':
-    app.run(debug=True)
