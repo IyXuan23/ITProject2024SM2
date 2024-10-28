@@ -1,0 +1,150 @@
+{
+    "subject name": "Earth Sciences Research Project Pt2",
+    "subject code": "ERTH40010",
+    "subject availability": [
+        "Semester 1 (Early-Start)",
+        "Semester 2 (Early-Start)"
+    ],
+    "overview": [
+        "The School of Earth Sciences is home to a large and diverse range of research programs. Interests include the solid Earth, the fluid Earth (including our atmosphere and oceans) and processes that operate at the interface between these upon which all life on Planet Earth depends. Current research activities include: Climate Variability and Change, Atmosphere and Ocean Dynamics, Synoptic and Mesoscale Meteorology, Hydrogeology and Aqueous Biogeochemistry, Sedimentary Geology and Palaeontology, Palaeoclimate and Palaeoenvironmental Reconstruction, Thermochronology, Neotectonics and Landscape Evolution, Ore Deposit Geology, Geochemistry and Geochronology, Structural Geology, Tectonics and Geodynamics, Thermodynamics of Metamorphic Systems (THERMOCALC), Geochemistry and Geochronology of Magmatic Systems, Noble Gas Geochronology and Geochemistry, Computer Simulation of Geological and Geophysical Fluid Dynamics, Physics and Chemistry of the Earth's Deep Interior, and Energy: Resources and Futures.",
+        "This subject comprises a major piece of original supervised research on a topic as agreed by the student and their supervisor. A literature review is conducted in the first six months of candidature and includes a research proposal describing the aims, significance and approach of the project.",
+        "Students enrol in a total of 75 points of research project across the duration of the Honours program. This is achieved by enrolling in two of subjects across two consecutive semesters to achieve a total 75 credit points. Students enrol in a Part 1 subject in the first semester and a Part 2 subject in the second semester of the program.",
+        "This subject (ERTH40010 Earth Sciences Research Project Pt 2) is a 25 point version for one semester."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Knowledge of the existing literature in Earth Sciences on the topic of interest and the address key outstanding questions in this field.",
+        "The ability to plan an appropriate program of data acquisition and manipulation (e.g. modelling) in order to constrain the questions being addressed.",
+        "The ability to interpret the results of their work, suggesting further avenues for research beyond the scope of their project.",
+        "Laboratory and/or computing skills required to create new research results in the chosen field of the research project.",
+        "High-level report writing and oral presentation skills.",
+        "The ability to plan and conduct a program of research and exercise critical judgement and rigorous, independent thinking, adopting a problem-solving approach to new and unfamiliar tasks.",
+        "The ability to Interrogate, synthesized and interpret the published literature.",
+        "Research skills in field work.",
+        "The ability to complete a large research project.",
+        "Critical evaluation skills and the ability to interpret complex quantitative information."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "A major in a field relevant to the research project being conducted.",
+                "Enrolment in the subject will only be approved if the student has met entry requirements for the course, including having a supervisor who has agreed to supervise this research project.",
+                "Permission of the Honours coordinator in the School of Earth Sciences."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A literature review of no more than 4,000 words. 4000 words",
+            "timing": "Due around the end of the first semester of study",
+            "percentage": "12.5%"
+        },
+        {
+            "description": "A 15-minute long project-related oral presentation within two months of the conclusion of the project (hurdle requirement). 15 minutes. Hurdle requirement",
+            "timing": "Due within two months of the conclusion of the project",
+            "percentage": "5%"
+        },
+        {
+            "description": "A thesis of no more than 15,000 words due at the end of the course. 15000 words",
+            "timing": "Due at the end of the course",
+            "percentage": "57.5%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Coordinator": "Josephine Brown"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Coordinator": "Josephine Brown"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "josephine.brown@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "josephine.brown@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

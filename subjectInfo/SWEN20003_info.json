@@ -1,0 +1,227 @@
+{
+    "subject name": "Object Oriented Software Development",
+    "subject code": "SWEN20003",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "Developing medium and large scale software systems requires analysis and design prior to implementation. This subject introduces students to software design, with specific focus on object-oriented design, and the implementation of designs using an object-oriented programming language. The subject aims to lay the foundations to software design, and is the first subject of a sequence of subjects that teaches the students the concepts in software design."
+    ],
+    "indicative content": [
+        "Topics covered include:",
+        "Object-oriented programming techniques",
+        "Object-oriented design concepts and modelling",
+        "Design patterns and their applications",
+        "Object-oriented frameworks",
+        "Please view this video for further information:Object Oriented Software Development"
+    ],
+    "intended learning outcomes": [
+        "Apply software design principles to object-oriented design",
+        "Develop object-oriented models for a medium-sized software system",
+        "Evaluate design trade-off of different designs",
+        "Implement an object-oriented design in a suitable language",
+        "Use commonly available object-oriented design frameworks for application development",
+        "Apply knowledge of basic science and engineering fundamentals"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP10002",
+                    "COMP20005"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-SOFTENG Master of Software Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "COMP90041"
+    ],
+    "assessments": [
+        {
+            "description": "Project work during semester. This consists of two projects. The first one is due around week 7 (10%). The second project is due around week 11 (20%).\r\nIntended Learing Outcomes (ILO's) 1 to 6 are addressed in the project work.. 30-35 hours (of work required). Hurdle requirement:. To pass the subject, students must obtain at least 50% overall, and 15/30 in project work.",
+            "timing": "From Week 7 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "Workshop attendance and participation  during semester (2 hours per week).\r\nILO's 1, 2, 4 and 6 are addressed.. 24 hours",
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "description": "12 weekly quizzes throughout the semester.  \r\nILO's 1, 2 and 6 are addressed in the weekly quizzes.. 20 minutes (each)",
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "description": "A mid-semester test. ILO's 1, 2 and 6 are addressed in the mid-semester test.. 40 minutes. Hurdle requirement:. To pass the subject, students must obtain at least 50% overall, and 30/60 in the mid-semester test and end of semester written examination combined.",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "One 2 hour written examination. ILO's 1, 2, 3, 4 and 6 are addressed in the end of semester examination.. 2 hours. Hurdle requirement:. To pass the subject, students must obtain at least 50% overall, and 30/60 in the mid-semester test and end of semester written examination combined.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Andrew Valentine"
+                },
+                {
+                    "Coordinator": "Bach Le"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours, comprising of two 1-hour lectures and one 2-hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Andrew Valentine"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours, comprising of two 1-hours lectures and one 2-hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Andrew Valentine"
+                ],
+                "email": [
+                    "andrew.valentine@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Andrew Valentine"
+                ],
+                "email": [
+                    "andrew.valentine@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available as breadth in the following Bachelors courses: Arts, Commerce, Environments and Music.",
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees).",
+            "LEARNING AND TEACHING METHODS",
+            "The subject comprises two one lectures and one two hour workshop each week. Weekly readings are assigned from the textbook. The subject also includes two individual projects and a mid-semester examination.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "At the beginning of the year, the coordinator will propose a textbook that will be made available through University Book Shop and library. The current suggested textbook is Walter Savitch:Absolute Java. Pearson Education International. 4th Edition (or 5th Edition). Additional learning material will be made available on the learning management system (LMS) site for the subject.",
+            "CAREERS / INDUSTRY LINKS",
+            "The software industry is a large and steadily growing industry, and is constantly looking for competent software engineers. This subject teaches the software engineering design principles and lays the foundation for developing core software design skills required by industry practitioners."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,220 @@
+{
+    "subject name": "Biochemistry and Molecular Biology",
+    "subject code": "BCMB20002",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is an introduction to the field of Biochemistry and Molecular Biology, building on 1st year chemical principles relating molecular structure to biological function. The content includes a detailed introduction to the structure of biological building blocks (amino acids, nucleic acids, carbohydrates and lipids). The subject covers the structure and function of proteins, including the properties of enzymes, their regulation and kinetic behaviour. How nucleic acids replicate information, are maintained and repaired and serve as a template for the synthesis of RNAs and proteins (i.e. molecular biology) is addressed. The structure of lipids is examined to show their major biological roles, particularly as components of cell membranes. Metabolic pathways (glycolysis, gluconeogenesis, glycogen metabolism, TCA cycle and oxidative phosphorylation) will complete this core coverage of essential biochemistry. The subject is a prerequisite for lecture-based level-3 subjects in the Biochemistry and Molecular Biology. The subject is designed to stand alone, but it complements the laboratory experiences in the subject BCMB20005 \u201cTechniques in Molecular Science\u201d, Each of these level-2 subjects can be taken independently, concurrently or in either order."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the covalent, non-covalent and thermodynamic contributions to the structure and function of biomolecules (proteins, nucleic acids, lipids & carbohydrates).",
+        "Generate and interpret pictorial representations of biomolecules.",
+        "Apply mathematical models to analyse the function of biomolecules (e.g. chemical equilibria, ligand binding, enzyme kinetics and hydropathy index).",
+        "Analyse nucleic acid and amino acid sequences to predict structural properties and evolutionary relationships.",
+        "Discuss the molecular basis of chromosome structure, heredity, gene transcription and translation, DNA repair and cell cycle.",
+        "Describe how extracellular signals are transmitted across membranes and become amplified in the cell",
+        "Describe how lipid and protein composition affect the structural and functional properties of biological membranes.",
+        "Explain how the linkage of monosaccharides gives rise to the structural and functional diversity of oligosaccharides and polysaccharides",
+        "Compare and contrast cellular energy metabolism under anaerobic and aerobic conditions.",
+        "Predict the changes in flow of metabolites in response to hormonal regulation and gene mutations."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "BIOL10004:",
+                "BIOL10005:"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BIOL10002",
+                    "BIOL10008",
+                    "BIOL10009"
+                ],
+                [
+                    "CHEM10003",
+                    "CHEM10004",
+                    "CHEM10006",
+                    ""
+                ]
+            ],
+            "additional pre-requisite": [
+                "Biology of Cells and Organisms",
+                "Genetics & The Evolution of Life",
+                "Candidates who have taken chemistry subjects at other universities may be accepted for BCMB20002 if their studies are equivalent to a full first year of chemistry with basic organic chemistry well covered. Contact the coordinator to ask for a waiver of the prerequisites (include previous chemistry subject details, the institution, the year(s) of study and the grades achieved)."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "Bachelor of Biomedicine students taking the below subject are excluded from this subject:",
+        "BIOM20001",
+        "Passing BCMB20002 Biochemistry and Molecular Biology precludes subsequent credit for AGRI20043 Biochemistry in Agricultural Systems."
+    ],
+    "assessments": [
+        {
+            "description": "Mid Semester Test 1. 45 minutes",
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Mid Semester Test 2. 45 minutes",
+            "timing": "Week 9",
+            "percentage": "15%"
+        },
+        {
+            "description": "Weekly quiz and written assessments.. 400 words",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written Exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Terry Mulhern"
+                },
+                {
+                    "Coordinator": "Heather Verkade"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x 1 hour online lectures, and one x 1 hour face-to-face tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Terry Mulhern"
+                },
+                {
+                    "Coordinator": "Heather Verkade"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x 1 hour online lectures, and one x 1 hour face-to-face tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "BCMB-20002@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "BCMB-20002@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Nelson and Cox,Lehninger Principles of Biochemistry, 7th edn. 2017"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "BCMB20002 satisfy the Biochemistry prerequisites for progression in the Animal Health and Disease major.",
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and New Generation degrees).",
+            "This subject is not available to students enrolled in the Bachelor of Biomedicine.",
+            "Students undertaking this subject will be expected to regularly access an internet-enabled computer."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

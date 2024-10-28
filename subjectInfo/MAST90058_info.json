@@ -1,0 +1,126 @@
+{
+    "subject name": "Elements of Statistics",
+    "subject code": "MAST90058",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The analysis of data arising in Bioinformatics and Biostatistics requires the use of sophisticated statistical techniques and computing packages.  This subject introduces the basic elements of statistical modelling, computation and data analysis. Students will develop the ability to fit statistical models to data, estimate parameters of interest and test hypotheses.  Both classical and Bayesian approaches will be covered.  The importance of the underlying mathematical theory of statistics and the use of modern statistical software will be emphasised.",
+        "Concepts covered include: descriptive statistics, random sample, statistical inference, point estimation, interval estimation, properties of estimators, maximum likelihood, confidence intervals, hypothesis testing, Bayesian inference.  Applications covered include: exploratory data analysis, inference for samples from univariate distributions, simple linear regression, correlation, goodness-of-fit tests, analysis of variance.",
+        "The lectures in this subject are co-taught with MAST20005 Statistics; the practice classes are separate."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Be familiar with the basic ideas of estimation and hypothesis testing",
+        "Be able to carry out many standard statistical procedures using a statistical computing package",
+        "Develop the ability to fit statistical models to data by both estimating and testing hypotheses about model parameters."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST20004",
+                    "MAST20006",
+                    "MAST90057"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Or equivalent"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "Students who have taken second year level subjects in Statistics or its equivalent may not take this subject."
+    ],
+    "assessments": [
+        {
+            "description": "Three written assignments due at regular intervals amounting to a total of up to 50 pages. 50 pages",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "A computer laboratory test. 45 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Robert Maillardet"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours: Three 1-hour lectures per week, one 1-hour tutorials per week, and one 1-hour computer laboratory classes per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "rjmail@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students undertaking this subject are required to regularly use computers with the statistics package R installed.",
+            "Students undertaking this subject are not assumed to have any special computer skills at the beginning. They will learn the basic skills of using R in the subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

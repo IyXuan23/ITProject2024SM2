@@ -1,0 +1,109 @@
+{
+    "subject name": "Leading in Data Driven Organisations",
+    "subject code": "MGMT90244",
+    "subject availability": [],
+    "overview": [
+        "As organisations become more sophisticated in how they seek to use analytics to inform business decision making, managers face several challenges in how to facilitate the creation of the best environment in which to deploy analytics.  This subject equips students with the necessary insights to formulate an organisation\u2019s vision and goals around the use of business analytics, along with specific tools to implement and manage the change processes required to achieve this.  In addition, students will be exposed to frameworks that will support their abilities in managing complex analytics projects and teams of data scientists, as well as how to effectively communicate, through various modes, topics in business analytics with the range of stakeholders in an organisation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop an organisation's vision, goals and ethical framework for how to use business analytics more effectively",
+        "Identify what changes are needed within an organisation to achieve the vision and goals",
+        "Drive change processes under the ethical framework that will facilitate the implementation of the vision and goals in an organisation",
+        "Build and lead a team of data scientists that can support the organisation's vision and goals around business analytics usage",
+        "Manage complex analytics projects and relevant stakeholders within an organisation",
+        "Communicate effectively (through written, oral and visual channels) the role that business analytics can play when proposing new projects, influencing colleagues, and reporting data-based insights that inform managerial decision making"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Completion of 112.5 credit points of core subjects and 70% or plus in Data Analysis"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "212PN Master of Business Administration",
+                "MC-BA Master of Business Administration",
+                "MC-BA218 Master of Business Administration",
+                "MC-BAEV Master of Business Administration",
+                "MC-BAMKTG Master of Business Administration/Master of Marketing",
+                "MC-BAPROF Master of Business Administration (Professional)",
+                "MC-BAOL Master of Business Administration",
+                "MC-BAPT Master of Business Administration",
+                "MC-BAPTME Master of Business Administration",
+                "794NF Juris Doctor/Master of Business Administration",
+                "MC-BUSAIS Master of Business Administration/Master of Information Systems"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Syndicate assignment. 500 words (equivalent)",
+            "timing": "Week 5",
+            "percentage": "25%"
+        },
+        {
+            "description": "Individual assignment. 1500 words",
+            "timing": "Week 8",
+            "percentage": "35%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours. Hurdle requirement:. Students are required to pass the exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "30"
+                },
+                {
+                    "Total time commitment": "150 hours"
+                },
+                {
+                    "Pre teaching start date": "12 February 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students are required to complete approximately 10 hours of reading to prepare for the subject during pre-teaching period."
+                },
+                {
+                    "Teaching period": "19 February 2024 to 23 March 2024"
+                },
+                {
+                    "Last self-enrol date": "14 January 2024"
+                },
+                {
+                    "Census date": "26 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "15 March 2024"
+                },
+                {
+                    "Assessment period ends": "30 March 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

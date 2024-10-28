@@ -1,0 +1,116 @@
+{
+    "subject name": "Computational Geotechnical Engineering",
+    "subject code": "CVEN90074",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "21stcentury - geotechnical engineering is undergoing a revolution, embracing the strength of computer-based site characterisation, investigation and performance analysis methods. Site-specific computer simulations elucidate the pros and cons of long-standing empirically established engineering solutions and finally permit their rigorous scientific analysis. New algorithms and hardware enable the simulation of complex interacting subsurface processes even in intricate structures. In concert with much improved measurement, imaging, modelling and visualisation tools, \u201cmultiphysics\u201d simulation software greatly increase the ability of engineers to get accurate answers to What-If? engineering design questions.",
+        "This subject provides the essential foundations for an informed, successful and effective application of process simulation software that now gets routinely applied in geotechnical engineering projects, site investigation, and performance and risk assessment of engineering measures.",
+        "The subject covers essentials like the formulation of conceptual models for subsurface (heat flow, fluid flow, geomechanics), numeric modelling techniques, development, programming and incorporation of constitutive relationships, construction and parameterisation of site-specific models, experimental design of simulations (numeric experiments), and visualisation and analysis of results.",
+        "Theoretical foundations are applied in hands-on model building \u2013 configuration \u2013 calibration - simulation \u2013 analysis exercises conducted with freely available and commercial software tools, including proprietary ones used by industry."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "ILO 1 \u2013 Apply computational analysis to a geotechnical engineering problem, including development of the model concept and constitutive relationships, the construction, parameterisation, and calibration of a site-specific model, simulation and sensitivity analysis;",
+        "ILO2 \u2013 Select and apply suitable finite element (FEM) and finite volume (FVM) formulations to discretise governing equations and site-specific models;",
+        "ILO3 \u2013 Work with and create algorithmic representations of the typical constitutive relationships in geotechnical engineering and understand how linear, quasi-linear and non-linear relationships are handled and how errors are estimated;",
+        "ILO4 \u2013 Process simulation results, visualise and analyse them to validate the model, and to derive answers to central geotechnical engineering questions presenting outcomes to peers;",
+        "ILO5 \u2013 Evaluate risks, pitfalls and limitations of numeric analysis, as is necessary to apply these tools responsibly."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "ENGR30002 Fluid Mechanics"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Deliverable: Construction, meshing, and parameterisation of a geomodel for seepage; testing that model is ready for simulation.\r\nAddressing Intened Learning Outcomes (ILOs) 2 and 5.. 20 hours (of work required)",
+            "timing": "From Week 3 to Week 5",
+            "percentage": "20%"
+        },
+        {
+            "description": "Oral Presentation: Analysis of a contamination problem with seepage model. 10 minute oral presentation plus Q&A by peers. Addressing ILOs 1-5.. 10 hours (of work required)",
+            "timing": "From Week 6 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Report: Write-up of contamination study, incorporating the feedback from oral presentation. 2500 word report. Addressing ILOs 1-5.. 30 hours (of work required). Hurdle requirement:. Result of 50% is required to pass the Hurdle.",
+            "timing": "From Week 9 to Week 11",
+            "percentage": "40%"
+        },
+        {
+            "description": "Other-deliverable: Design and implementation of a code module for a slope stability analysis program. Teamwork Addressing ILOs 1-5.. 20 hours (of work required)",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Stephan Matthai"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "72 hours total (Lectures 12 x 2 hours; Practicals/computer labs 24 x 2 hours)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Stephan Matthai"
+                ],
+                "email": [
+                    "stephan.matthai@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

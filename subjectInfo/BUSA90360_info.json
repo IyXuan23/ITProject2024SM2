@@ -1,0 +1,120 @@
+{
+    "subject name": "Business Law",
+    "subject code": "BUSA90360",
+    "subject availability": [],
+    "overview": [
+        "This subject is an introduction to core legal concepts and current legal issues that impact on Australian business. Accordingly, it will provide a basic understanding of the underlying legal basis of many commercial issues which are faced in various facets of business life, ranging from how business enterprises commence and end. It also draws on key legislation and court cases as a means to illustrate the interaction between business and law. The subject also provides a general outline of legal methodology and legal reasoning."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "describe how law is created, applied and enforced in Australia;",
+        "outline the impact of contract law, company law and trade practices law upon commerce;",
+        "identify common legal issues which are found in select business transactions;",
+        "analyse potential legal consequences in specific business situations;",
+        "evaluate when and how lawyers are to be briefed to assist with business transactions."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90480",
+                    "BUSA90481",
+                    "BUSA90060",
+                    "BUSA90243",
+                    "BUSA90224",
+                    "BUSA90093",
+                    "BUSA90193",
+                    "BUSA90001",
+                    "BUSA90026",
+                    "BUSA90227",
+                    "BUSA90482",
+                    "BUSA90483"
+                ],
+                [
+                    "BUSA90026",
+                    "BUSA90227"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "BUSA90026 or BUSA90227 can be done concurrently with the subject"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Contribution to class learning",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Syndicate Project; Report (equivalent of individual 1,000 word assessment) (10%) and Presentation (equivalent of individual 1,500 word assessment) (15%). 2500 words (equivalent)",
+            "timing": "From Week 8 to Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours. Hurdle requirement:. Students are required to pass the exam to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "65%"
+        }
+    ],
+    "dates and times": [
+        {
+            "April": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "1 April 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during the pre-teaching period"
+                },
+                {
+                    "Teaching period": "8 April 2024 to 14 June 2024"
+                },
+                {
+                    "Last self-enrol date": "4 February 2024"
+                },
+                {
+                    "Census date": "19 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "24 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students admitted to MC-BA, MC-BAPT, or students with permission of the MBA course coordinator"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

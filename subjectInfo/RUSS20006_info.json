@@ -1,0 +1,160 @@
+{
+    "subject name": "Russian 5",
+    "subject code": "RUSS20006",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject is designed to provide students with a thorough exposure to pre-20th-century historical and social issues in Russia. Drawing on the dual meaning of the Russian word istorija (i.e., history and story), the theme-oriented instructional units emphasise personal and public stories in Russian history, while connecting oral narratives with written narratives. Students improve their ability to narrate, compare and contrast and establish causal relationships in speaking and writing. Through the integration of all modalities, this course promotes accuracy, fluency and complexity in language use. The development of advanced reading and writing is considered the primary means for expanding students\u2019 language abilities at this stage of language instruction.",
+        "In this theme-based subject, students gain background knowledge about public events in pre-20th-century Russian history and then read and view personal narratives about these events for the purposes of examining the intersection of the public and private spheres of contemporary Russian society. The texts themselves provide the textual, informational, and lexico-grammatical features that serve as the basis for developing students\u2019 abilities as advanced learners of Russian."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Be able to interpret and analyse written texts and public genres of a moderate level of complexity from Russian 19th-century literature (in English or Russian) and history texts",
+        "Be able to engage with and discuss Russian films based on 19th-century works of literature",
+        "Be able to deploy specialised vocabulary and complex linguistic and grammatical structures to express opinions and feelings as well as to summarise the opinions of others",
+        "Be able to use analytical and expository language to produce written discourse about historical topics",
+        "Have developed research skills to find information from various sources, including dictionary, library and the internet."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "RUSS20005"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "RUSS30001"
+    ],
+    "assessments": [
+        {
+            "description": "Weekly language assignments. 1000 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Two essays (one in Russian) due in week 5 and 10. 1000 words (equivalent)",
+            "timing": "From Week 5 to Week 10",
+            "percentage": "25%"
+        },
+        {
+            "description": "Oral (10%) and written exam (40%). 2000 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. 1.\tAttendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Robert Lagerberg"
+                },
+                {
+                    "Coordinator": "Natalia Batova"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours: 2 x 2 hour tutorials per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "robertjl@unimelb.edu.au",
+                    "natalia.batova@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Olga Kagan, Frank Miller, Anna Kudyma.,V Puti: Russian Grammar in Context,2nd edition, 2021, Routledge.Olga Kagan, Frank Miller, Anna Kudyma .,V Puti: Student Activities Manual, 2nd edition, 2021, Routledge."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/soll"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Language Placement Test required",
+                    "Language Placement Test required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,153 @@
+{
+    "subject name": "Optimisation for Industry",
+    "subject code": "MAST90014",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The use of mathematical optimisation is widespread in business, where it is a key analytical tool for managing and planning business operations. It is also required in many industrial processes and is useful to government and community organizations. This subject will expose students to operations research techniques as used in industry. A heavy emphasis will be placed on the modelling process that turns an industrial problem into a mathematical formulation. The focus will then be on how to solve the resulting mathematical problem with mixed-integer programming techniques."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate a critical understanding of Operations Research techniques and their applications in industry and public decision-making;",
+        "Formulate mathematical optimisation models for industrial decision-making problems;",
+        "Identify appropriate solution methods for mixed-integer programming models;",
+        "Solve optimisation problems arising in industrial frameworks using Python and appropriate black-box solvers."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST10007",
+                    "MAST10008",
+                    "MAST10022"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-SCIMAT Master of Science (Mathematics and Statistics)"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-DATASC Master of Data Science"
+            ]
+        },
+        {
+            "option": "Option 4",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-ELECENG Master of Electrical Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A written assignment including a computational implementation of an industrial optimisation model. 20 hours",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "One group project: consisting of six students to a group including one group written report and one 10-minute group presentation, due late in semester. Each student should contribute 40 hours of work towards the report and presentation.. 40 hours",
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "A written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Alysson Machado Costa"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours comprising one 2-hour lecture per week and one 1-hour computer lab/practical class per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "alysson.costa@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Optimization Over Integers,",
+                    "By Dimitris Bertsimas and Robert Weismantel",
+                    "Integer and Combinatorial Optimization",
+                    "by Laurence A. Wolsey,\u200e George L. Nemhauser",
+                    "Integer Programming",
+                    "by Laurence A. Wolsey"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

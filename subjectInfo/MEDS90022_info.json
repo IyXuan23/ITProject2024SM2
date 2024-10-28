@@ -1,0 +1,98 @@
+{
+    "subject name": "Student Conference 3",
+    "subject code": "MEDS90022",
+    "subject availability": [
+        "June"
+    ],
+    "overview": [
+        "The Student Conference is a one-week intensive subject that brings together students across all Doctor of Medicine (MD) years and sites for a student led and driven conference. The aim of the Student Conference is to allow students to learn from each other, experts in various fields and other health professionals in topic areas suited to a conference format. In third year students will attend, actively participate in the conference program and provide peer review, as well as having the opportunity to teach, present and be actively involved in conference organisation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Critique how conference learning informs the integration of the roles of scientist and scholar to improve the delivery of care to specific patient population."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDS90004",
+                    "MEDS90005"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Hurdle requirement:. 100% attendance for four days of conference period.",
+            "timing": "During the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Must maintain a satisfactory standard in professional behaviour, as demonstrated by observed Professional Behaviour Assessment.",
+            "timing": "During the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Student Conference ePortfolio: A student curated compilation that responds to prescribed tasks aligned with conference themes and subject intended learning outcomes.. 2000 words (equivalent). Hurdle requirement:. In order to pass this hurdle, students are required to achieve a satisfactory standard.",
+            "timing": "During the assessment period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Oral Group Presentation (Groups of 4 students with a total presentation time of 15 minutes). 500 words (equivalent). Hurdle requirement:. In order to pass this hurdle, students are required to achieve a satisfactory standard.",
+            "timing": "During the assessment period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "June": [
+                {
+                    "Principal coordinator": "Justin Bilszta"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "8 hours per day for four days (32)"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "24 June 2024 to 28 June 2024"
+                },
+                {
+                    "Last self-enrol date": "23 June 2024"
+                },
+                {
+                    "Census date": "19 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "30 August 2024"
+                },
+                {
+                    "Assessment period ends": "27 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "No prescribed texts. An online volume of proceedings will be available at the end of the conference."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

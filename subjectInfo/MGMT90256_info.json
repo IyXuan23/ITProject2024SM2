@@ -1,0 +1,185 @@
+{
+    "subject name": "Supply Chain Frameworks",
+    "subject code": "MGMT90256",
+    "subject availability": [
+        "Summer Term - Online",
+        "July - Online"
+    ],
+    "overview": [
+        "Topics will include the core elements of supply chain analysis, beginning with models for analysing purchasing, procurement and supplier evaluation. Inventory management will be treated as a core element of supply chain management, lending itself to useful models. Modelling of logistics and transport networks will be covered, with the aim normally being to achieve lowest cost solutions while at specified service levels. Additional topics to be covered are models of sustainability in supply chains and risk management within supply contexts. Case studies will be used to apply all these topics in practical settings."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop and apply models for analysing procurement decisions",
+        "Use and analyse data in supply chain models",
+        "Develop and apply inventory management models",
+        "Analyse transport and logistics networks",
+        "Analyse and evaluate models of supply chain sustainability",
+        "Evaluate supply chain risks and their mitigation"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "PR-SCM Professional Certificate in Supply Chain Management",
+                "MC-SCM150 Master of Supply Chain Management"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Approval of Subject Coordinator",
+                "Note when seeking Subject Coordinator approval you will need to meet the following criteria:",
+                "An undergraduate degree or equivalent;",
+                "A minimum of at least 3 years of full-time documented relevant professional experience;  OR  professional experience of at least 5 years of full-time documented relevant work experience."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Multiple choice quizzes. (3 x 15-minute quizzes). 750 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Reflection on online discussion board participation. (Requires participation in discussion activities in all four weeks). 250 words",
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written assignment. 1500-2000 words",
+            "timing": "End of the assessment period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term - Online": [
+                {
+                    "Coordinator": "William Ho"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "In total:  12 hours of online contact, 28 hours of case study analyisis, 10 hours of online forum discussion activity, 35 hours of online activies, participation in simulations and other related analyses of supply chain challenges"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Pre teaching start date": "22 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are given the opportunity to get used to the online platform and become familiar with how to access resources before the teaching period starts."
+                },
+                {
+                    "Teaching period": "29 January 2024 to 25 February 2024"
+                },
+                {
+                    "Last self-enrol date": "23 January 2024"
+                },
+                {
+                    "Census date": "2 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "23 February 2024"
+                },
+                {
+                    "Assessment period ends": "3 March 2024"
+                }
+            ]
+        },
+        {
+            "July - Online": [
+                {
+                    "Principal coordinator": "William Ho"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "In total: 12 hours of online contact, 28 hours of case study analysis, 10 hours of online forum discussion activity, 35 hours of online activities, participation in simulations, and other related analyses of supply chain challenges."
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Pre teaching start date": "8 July 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are given the opportunity to get used to the online platform and become familiar with how to access resources before the teaching period starts."
+                },
+                {
+                    "Teaching period": "15 July 2024 to 11 August 2024"
+                },
+                {
+                    "Last self-enrol date": "9 July 2024"
+                },
+                {
+                    "Census date": "19 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "9 August 2024"
+                },
+                {
+                    "Assessment period ends": "18 August 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "william.ho@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "July": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us",
+                    "william.ho@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

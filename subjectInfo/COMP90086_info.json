@@ -1,0 +1,141 @@
+{
+    "subject name": "Computer Vision",
+    "subject code": "COMP90086",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "From self-driving cars to automatic processing of medical scans, vision is a key sensory modality for a variety of artificial intelligence tasks. However, extracting meaning from images poses various computational challenges. In this subject, students will learn the basic principles of image formation and computational methods for interpreting images. Students will develop an understanding of the standard frameworks used in computer vision algorithms and their applications in tasks such as object recognition, target detection, and three-dimensional reconstruction. The programming language used is Python."
+    ],
+    "indicative content": [
+        "Topics covered may include:",
+        "Basics of image formation",
+        "Illumination and reflectance models",
+        "Colour spaces",
+        "Feature detectors and descriptors",
+        "Stereo correspondence",
+        "Methods for recovering three-dimensional shape",
+        "Image segmentation",
+        "Categorical and instance-level recognition"
+    ],
+    "intended learning outcomes": [
+        "Identify basic challenges involved in interpreting image data",
+        "Understand and articulate the mathematical and/or algorithmic basis of common techniques used in computer vision",
+        "Analyse, design, and implement relevant techniques in computer vision to given problems",
+        "Undertake end-to-end research experiments, including evaluation with image datasets, including reporting results",
+        "Communicate technical solutions to computer vision problems"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP30027",
+                    "COMP90049"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Three individual programming assignments. Intended Learning Outcomes (ILO's) 3 and 4 are addressed in the individual assignments.. 30-40 hours",
+            "timing": "From Week 3 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final, open-ended group research project, requiring 40-50 hours of work per student. ILO's 1, 3, 4 and 5 are addressed in the group research project.. 40-50 hours",
+            "timing": "From Week 11 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Final examination. ILO's 1 and 2 are addressed in the final examination.. 2 hours. Hurdle requirement:. The examination is a hurdle and must be passed to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Kris Ehinger"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising two 1-hour lectures and one 1-hour tutorial per week. Some computer lab classes will require you to bring your own device."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Krista A. Ehinger"
+                ],
+                "email": [
+                    "kris.ehinger@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures and tutorials."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

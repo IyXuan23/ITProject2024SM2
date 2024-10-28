@@ -1,0 +1,115 @@
+{
+    "subject name": "Sound and Innovative Solutions B",
+    "subject code": "AUDI90058",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject builds on Sound and Innovative Solutions A exploring hearing devices, communication strategies and alternative rehabilitation solutions. Students will gain an understanding of patient-centred practices, gaining an understanding of the complex rehabilitation options available. Throughout the subject, students will work through cases in workshop-style classes, allowing students to explore the different aural rehabilitation options available and tailor the technology and settings to be specific to individual needs. By the end of this subject, students will be able to create, perform and evaluate individualised rehabilitation solutions for clients."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Discuss using plain and inclusive language how hearing devices function and how they can be fitted, adjusted and monitored.",
+        "Investigate client outcomes using theoretical frameworks, client reported measures and/or objective measures.",
+        "Adapt aural rehabilitation techniques in the development and implementation of individualised rehabilitation programs.",
+        "Describe client and clinician characteristics that influence aural rehabilitation processes and outcomes.",
+        "Construct client-centred approaches for designing, implementing, and communicating rehabilitation solutions (including audiological therapy, technology modifications and further referrals) to meet the specific needs of each client, including those with differing needs and from diverse backgrounds."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AUDI90053",
+                    "AUDI90055",
+                    "AUDI90057",
+                    "AUDI90059"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Two online tests. 30 minutes (each)",
+            "timing": "Test 1 in the first half of the Semester and Test 2 in the second half of the Semester.",
+            "percentage": "20%"
+        },
+        {
+            "description": "Case study. 1000 words",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "OSCE. 20 minutes",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written exam. 1.5 hours. Hurdle requirement:. Examination must be passed",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Julien Zanin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 hours of lectures and 2 hours of tutorials/workshops per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Dr Julien Zanin"
+                ],
+                "email": [
+                    "julien.zanin@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

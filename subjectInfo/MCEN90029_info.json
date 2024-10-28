@@ -1,0 +1,156 @@
+{
+    "subject name": "Advanced Solid Mechanics",
+    "subject code": "MCEN90029",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "This course will expand on the basic principles established previously in Solid Mechanics.",
+        "Methods of three-dimensional stress and strain analysis will be extended to allow the student to obtain solutions using analytical and/or numerical methods. These will include the analyses of principal stresses and strains, three dimensional Mohr\u2019s circles, strain gauge experimentation and failure criteria. In addition, this unit will focus on plastic deformation of solids, including the analysis of residual stresses and the collapse load of structures. The responses of materials to fatigue and fracture, as well as their creep and viscoelastic behaviour, will also be explored. Finally, this unit will provide a number of examples of experimental applications of solid mechanics analysis based on modern research techniques.",
+        "The goal of Advanced Solid Mechanics is to consolidate the solid mechanics principles presented in the student\u2019s Engineering degree, and the equip students with skills required to solve a range of engineering problems they have not seen before. In addition, this subject seeks to teach a number of modern research methods, techniques and skills by drawing on biomechanical research in the field of solid mechanics, and the major challenges in the field.",
+        "INDICATIVE CONTENTThe following topics, delivered through lectures, guest seminars, group problem solving activities, and tutorials, will be assessed:",
+        "Three dimensional stress-strain analysis (weeks 1-2)",
+        "Strength theories and yield criteria (weeks 3-4)",
+        "Plastic behaviour of materials (weeks 5-6)",
+        "Fracture Mechanics(weeks 7-8)",
+        "Contact (weeks 9-10)",
+        "Creep and Viscoelasticity (week 11)",
+        "Biomechanics (week 12)",
+        ""
+    ],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand advanced stress/strain correlations",
+        "Obtain simple mathematical and physical relationships between mechanics and materials",
+        "Model the plastic behaviour, as well as the fatigue, fracture and creep response, of common engineering materials",
+        "Model an engineering structure without detailed instruction",
+        "Establish links between theoretical and practical applications; identify problems and formulate solution strategies",
+        "Expand their analytical and cognitive skills through learning experiences in a diverse range of solid mechanics topics",
+        "Develop skills in collaborative leaning through small-group problem solving and communication",
+        "Understand contemporary issues in solid mechanics research."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MCEN90026"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One small-group problem solving activity assessed in class. Assesses ILO 7.. 15 hours (of work required)",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Two assignments of equal weight totalling no more than 1000 words, due in weeks 7 and 10 (2 x 20%), requiring approximately 25-30 hours work each. Assesses ILOs 4, 5, 6.. 50-60 hours (of work required)",
+            "timing": "From Week 7 to Week 10",
+            "percentage": "40%"
+        },
+        {
+            "description": "One written exam, assesses ILOs 1, 2, 3.. 3 hours. Hurdle requirement:. students must pass the end of semester exam to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "David Ackland"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures and workshops, and 12 hours of tutorials."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "dackland@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    [
+                        "Ugural & Fenster 5th Edition,Advanced Mechanics of Materials and Applied Elasticity",
+                        "Benham, Crawford and Armstrong, 2nd edition,Mechanics of Engineering Materials",
+                        "Juvinall and Marshek, 5th edition,Fundamentals of Machine Component Design",
+                        "Budynas, 2nd edition,Advanced Strength and Applied Stress Analysis",
+                        "Boresi and Schmidt, 6th edition,Advanced Mechanics of Materials",
+                        "Anderson, 3rd edition, Fracture Mechanics"
+                    ]
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The end of semester examination will gauge students\u2019 ability to synthesise stress/strain correlations and mathematically model a common engineering design problem, for example, determining the correct geometry of a loaded body to avoid crack propagation (ILO 1 and 2). The exam will assess student\u2019s ability to describe a contemporary issue in biomechanics research (ILO 8). The examination will also evaluate the student\u2019s capacity to model material behaviour, for example, stresses and strains of materials under loading (ILO 3).",
+            "The two assignments focus on problem solving in the context of a specific engineering principle presented in the lectures. Students will be expected to analyse an engineering structure using mathematical modelling (ILO 4), and to formulate analytical solutions to loading a loading problem (ILO 5). In so doing, they will expand their capacity to think laterally and gain a degree of independence in the overall learning experience (ILO 6). The small-group problem solving activity (set in laboratory classes) aims to encourage peer-to-peer communication, expression of ideas, team-building, and development of oral skills (ILO 7). In order to evaluate the effectiveness of the group learning experience, the group activity will be assessed based on an inter-group peer-review evaluation and a short self-reflection piece. Feedback for the solution to the problem solving activity will be provided formatively by the lecturer. It is intended that this activity and the feedback prepare students for the two assignments tasks.",
+            "ASSESSMENT CRITERIA",
+            "Students will be assessed relative to the following criteria:",
+            [
+                "Ability to undertake problem identification, formulation, and solution.",
+                "Ability to critically think and critical judge assumptions adopted.",
+                "Ability to interpretation and analysis of data.",
+                "Ability to apply knowledge of science and engineering fundamentals.",
+                "Ability to reflect on the work of others during group activities."
+            ],
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students will have access to all lecture slides, lecture example problems and worked solutions as well as tutorial problem solutions through the LMS. The LMS will also contain links to electronic resources relevant to the course, publications, and will host active discussion forums where students may interact in a thread-forum-style medium."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

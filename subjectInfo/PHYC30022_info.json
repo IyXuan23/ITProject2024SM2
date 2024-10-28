@@ -1,0 +1,113 @@
+{
+    "subject name": "Theoretical Physics 3",
+    "subject code": "PHYC30022",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject will introduce topics in Theoretical Physics, including:",
+        "Classical Field Theory: Action Principles and Noether\u2019s Theorem. Electrodynamics and wave equations from action principle. Applications selected from: waves in media, dispersion relations, solitons, Kramers-Kronig relations, the Optical Theorem.",
+        "Fluid Mechanics: Euler\u2019s equation, the continuity equation and the Navier-Stokes equation. Rotational and irrotational flows. Turbulence and Reynolds\u2019 numbers, and the onset of chaos. The Rayleigh-Taylor and other instabilities. Shock waves. The Kutta-Joukowski theorem and aerodynamics.",
+        "Symmetry: Crystallography, point groups and space groups. Quasicrystals. Vibrational modes of molecules and molecular electronic structure. Crystal field theory. The uses of SU(2) in quantum mechanics. The SO(4) solution of the hydrogen atom. Relativistic invariance: the Lorentz and Poincare groups."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "apply action principles to the physics of the fields involved in electrodynamics and continuous media.",
+        "solve the basic equations of fluid flow, turbulence and aerodynamics.",
+        "apply symmetry principles to problems involving  a diverse range of physical systems and describe their connection to  conservation laws."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHYC20014",
+                    "PHYC30016",
+                    "PHYC30018"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written Assignment requiring approximately 20 hours of preparation, study and writing to complete.. 20 hours",
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written Assignment requiring approximately 20 hours of preparation, study and writing to complete.. 20 hours",
+            "timing": "Week 11",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 to 4 hours per week, 36 in total, lectures and problem-solving classes"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "PHYC30022@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Methods of Theoretical Physics, Morse and Feshbach;",
+                    "Mathematical Methods for Physicists,Arfken and Weber;",
+                    "Classical Field Theory,Landau & Lifschitz;",
+                    "Group Theory and Physics,Sternberg"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

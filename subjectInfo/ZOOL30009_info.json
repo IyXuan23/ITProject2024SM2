@@ -1,0 +1,159 @@
+{
+    "subject name": "Field Ecology",
+    "subject code": "ZOOL30009",
+    "subject availability": [],
+    "overview": [
+        "This is a largely field-based subject, based in one of several possible locations, though generally in the Daintree Rainforest in northern Queensland.  The subject provides a capstone research experience in which students undertake a field-based research project around a problem in ecology or evolution.  Students will design and execute the project, and will gain hands on experience in basic ecological field methods.  They will then analyse their data, and report on their results, in written and oral reporting styles",
+        "Students should be aware that this course entails an additional cost associated with travel and accommodation; typically between $1500-$2000.",
+        "Students who require this subject in order to complete a major in Ecology and Evolutionary Biology, but who are experiencing financial difficulty should contact the subject coordinator toenquireabout the possibility of scholarship support."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "translate a general question in ecology or evolutionary biology to a specific context and research question;",
+        "develop a sound experimental or sampling design by eliciting and incorporating group feedback;",
+        "work in a team to apply field research methods to collect and record data;",
+        "apply statistical methods to analyse and interpret data against stated hypotheses;",
+        "communicate research results in both oral and written form, making use of scientific literature to support and contextualise;",
+        "articulate the value that ecological and evolutionary research brings to our basic understanding as well as to the issues faced by human societies; and",
+        "articulate the deep cultural and biogeographic history that shapes Australian landscapes."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ECOL20003",
+                    "MAST20031",
+                    "ZOOL20005",
+                    "ZOOL20006"
+                ],
+                "From 2024 onwards",
+                [
+                    "MAST20031"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ECOL20003",
+                    "ZOOL20005",
+                    "BIOL20001"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "Students who complete this subject cannot also gain credit for 654-309 Field Biology of Australian Wildlife (prior to 2010)."
+    ],
+    "assessments": [
+        {
+            "description": "Individual written report on two focal species. 1000 words",
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Group (5-8 students per group) in-class oral presentation. 15 minutes (total). Hurdle requirement:. Students are required to complete the group presentation.",
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual research project report. 3000 words",
+            "timing": "During the examination period",
+            "percentage": "75%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Michael Kearney"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Four lectures, 60 hours practical work and an oral presentation during a week-long Field-trip held in the mid-semester break in late September. One pre-camp meeting, two tutorials (one pre-camp and one post-camp) and an oral presentation on campus after the camp."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "8 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "m.kearney@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Commerce",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Quota limit applied - UoM students will be given preference over CAP applicants",
+                    "Quota limit applied - UoM students will be given preference over CAP applicants"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

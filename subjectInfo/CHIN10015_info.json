@@ -1,0 +1,171 @@
+{
+    "subject name": "Chinese 3",
+    "subject code": "CHIN10015",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This is a post-elementary subject in Chinese. By the end of this subject students should know 650 Chinese characters and should have a good grasp of basic grammatical structures as well as furthering their knowledge of Chinese cultural practices."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Have a knowledge of 650 Chinese characters",
+        "Will have good knowledge of basic grammatical structures",
+        "Be able to conduct a conversation in Chinese on a range of everyday topics",
+        "Further develop their knowledge of Chinese cultural practices",
+        "Make use of the diversified knowledge of intercultural communication practices."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Link"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "All students enrolling in Chinese for the first time are required to complete the online language questionnaire/placement test at the link below. This applies to all students, from total beginners through to formal study, such as VCE or equivalent, or informally through family or overseas travel.\nUpon completion of the placement test, students will receive an email with the outcome and entry point. Within 5 working days of receiving the email, study plans will be updated and students will be able to self-enrol into the first subject of their entry point. The results of the test are binding and enrolment can only be changed with approval from the coordinator of the language major.",
+                "It is recommended that students undertake the language placement test at least two weeks prior to the commencement of semester."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CHIN20001"
+    ],
+    "assessments": [
+        {
+            "description": "A mid-semester test. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "A composition test. 1 hours",
+            "timing": "Week 11",
+            "percentage": "5%"
+        },
+        {
+            "description": "A listening comprehension test. 30 minutes",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "An oral exam. 8 minutes",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Class participation",
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "description": "A written exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Zhenyi Guo"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "A total of 48 hours:  One 2-hour lecture and One 2- hour practical per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "guoz@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Wu Zhongwei, Gao Shunquan and Tao Lian.10 Level Chinese - Level 2, Integrated Textbook, Beijing Language and Culture University Press, 2015."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Language Placement Test required",
+                    "Language Placement Test required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

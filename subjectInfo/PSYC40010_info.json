@@ -1,0 +1,116 @@
+{
+    "subject name": "Research Project",
+    "subject code": "PSYC40010",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "This subject runs over two semesters (25 credit points per semester). There are no scheduled classes for this subject. Instead students meet regularly with their supervisor and undertake a research project to obtain experience in all aspects of conducting and reporting an empirical research project. The thesis project will be submitted as two documents. The first comprises a draft introduction to the research report submitted as a hurdle requirement for formative feedback from the supervisor at the beginning of Semester 2. The second comprises a 9000 word research report submitted at the end of Semester 2, worth 100% of the marks for the subject."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "The relationship between research design and ethical research practices;",
+        "The theories, models, methods, and key-research findings within the sub-discipline of psychology relevant to individual research project."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "GDA-PSYCH Graduate Diploma in Psychology (Advanced)",
+                "Psychology specialisation (formal) in the BH-ARTS Bachelor of Arts (Degree with Honours)",
+                "Psychology informal specialisation in the BH-SCI Bachelor of Science (Degree with Honours)",
+                "Psychology informal specialisation in the BH-BMED Bachelor of Biomedicine (Degree with Honours)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Draft introduction to research report for formative assessment. 3000 words. Hurdle requirement",
+            "timing": "Due at the beginning of Semester 2",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Research Report. 9000 words",
+            "timing": "Due at the end of Semester 2",
+            "percentage": "100%"
+        },
+        {
+            "description": "Mini-conference oral presentation of research project. 15 minutes. Hurdle requirement",
+            "timing": "Delivered mid-Semester 2",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. All tasks must be completed to enable a passing grade for this subject",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Principal coordinator": "Adam Osth"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular meetings with supervisor."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [
+                    "Principal Coordinator:"
+                ],
+                "email": [
+                    "adam.osth@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no prescribed texts"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Publication manual of the American Psychological Association. 6th Edition, July 2009"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

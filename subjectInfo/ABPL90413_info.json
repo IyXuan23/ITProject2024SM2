@@ -1,0 +1,136 @@
+{
+    "subject name": "Construction Cost Planning",
+    "subject code": "ABPL90413",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to give students the knowledge of the cost planning processes involved in establishing and maintaining a client\u2019s budget within the multiple constraints of time, cost and quality. It provides students with the skills needed to effectively monitor the budget for a building project as design evolves prior to actual construction.",
+        "This subject examines the allocation of costs to individual building elements as well as developing student\u2019s appreciation of costs, overheads and allowances that are attributed to the overall project cost.",
+        "Topics covered include design economics, building morphology, sources and uses of cost data, the cost planning of engineering services, functional analysis, computerised estimating, cash flow forecasting, and the basics of costing sustainable building design features.",
+        "Prescribed software programs with a costRiB CostX 6.9Details of software availability and pricing are captured athttps://edsc.unimelb.edu.au/student-experience/it-support",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Apply cost planning techniques and control measures throughout the building process",
+        "Evaluate the cost efficiency of designs and value for money considerations",
+        "Describe the relationship between building cost, external works and gross project cost",
+        "Use appropriate computer software for cash flow and cost modelling of buildings",
+        "Describe the basic principles of costing for environmental sustainability as applied to buildings"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "200pt Program course entry point in the MC-CM Master of Construction Management",
+                "300pt Program course entry point in the MC-ARCHCM Master of Architecture/Master of Construction Management",
+                "300pt Program course entry point in the MC-CMPROP Master of Construction Management/Master of Property",
+                "400pt Program Course entry in the MC-ARCHCM ( Master of Architecture /Master of Construction Management  - Construction background)",
+                "400pt Program Course entry in the MC-CMPROP  (Master of Construction Management /Master of Property - Construction background)"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ABPL90312",
+                    "ABPL90313"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Simple Cost Plan. 1000 words (equivalent)",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Detailed priced cost Plan (group work),\u00a0equivalent to 2000 words per student. 2000 words (each)",
+            "timing": "Week 10",
+            "percentage": "40%"
+        },
+        {
+            "description": "One written examination. 2 hours",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Timothy O'Leary"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1X2 hour lecture  and 1X2 hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinator"
+                ],
+                "email": [
+                    "oleary.t@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Jim Smith, Building Cost Planning for the Design Team 3rd Edition",
+                    "Routledge Publishing",
+                    "ISBN-13: 978-1138907379",
+                    "ISBN-10: 9781138907379"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students need to purchase RiB CostX Educational software (ver 6.9),  cost  is AUS $ $20 1 yr licence"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

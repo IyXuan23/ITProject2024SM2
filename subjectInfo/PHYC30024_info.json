@@ -1,0 +1,109 @@
+{
+    "subject name": "Condensed Matter Physics 3",
+    "subject code": "PHYC30024",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject will introduce basic concepts in Condensed Matter Physics, the physics of solids and liquids, from a theoretical and experimental perspective. In particular, it will address the most fundamental concepts and techniques which are required to gain a basic understanding of materials. These concepts and techniques include crystal structure, reciprocal space, adiabatic approximation, free electrons, electrons in a periodic potential, insulators, conductors, semi-conductors and mean-field theory. The subject further aims to introduce some of the most basic experimental techniques in solid state physics and material research. Finally, this subject will provide a phenomenological introduction to one of the most fascinating states of matter: superconductors."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Classify crystals, identify their symmetries and explain the notion of point and space groups;",
+        "Model the solid state using the principles of quantum mechanics;",
+        "Distinguish between conductors, insulators and semi-conductors with respect to their electronic properties;",
+        "Apply Bloch's theorem and understand the notion of band structures;",
+        "Examine the phenomenology of superconductors."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHYC30016",
+                    "PHYC30018"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST20009",
+                    "MAST20032"
+                ],
+                [
+                    "MAST10009",
+                    "MAST20026",
+                    "MAST20030",
+                    "PHYC20014",
+                    "MAST20033"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written Assignment 1. 20 hours (of work required)",
+            "timing": "Friday 5.00pm, Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written Assignment 2. 20 hours (of work required)",
+            "timing": "Friday 5.00pm, Week 11",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written examination. 3 hours",
+            "timing": "During the assessment period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Stephan Rachel"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total of 44 hours: 36 hours lectures (3 x 1 hour lectures per week) and 8 hours a mixture of problem-solving classes and computational lab (four 2-hours classes in weeks 3,5,7,9)."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "to be confirmed"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

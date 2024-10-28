@@ -1,0 +1,136 @@
+{
+    "subject name": "Colour Studio",
+    "subject code": "GDES20002",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This studio subject assists students to develop an understanding of the optical, perceptual and expressive possibilities of the use of colour in the design process, and through studio exercises to develop sensibility and experience in the manipulations and pictorial uses of colour elements.",
+        "Supported by customised feedback and individual tuition, students will be inspired to develop considered conceptual approaches to using colour in their practical work through a range of colour theories and cultural influences from contemporary art and design history.",
+        "The students will undertake a series of studio exercises that build competence in a range of mediums including paint, printing materials and through electronic colour spectrums. Students will work hands on in the studio and in the computer lab during contact hours and independently, in the completion of critical and informed design possibilities through a series of studio-based projects.",
+        "Materials and SoftwareAdobe CC is required software for this subject. Please note that Adobe CC software is available in the labs on campus for all Breadth and Graphic Design students."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "understand key theories of design, sustainable design and other approaches to the contemporary design profession, with an emphasis on histories of colour usage and properties;",
+        "understand developments of art and design, from a broadly cross-cultural perspective to specific uses of colour;",
+        "demonstrate an understanding of colour and its properties, and integrate this knowledge into design propositions in a studio setting;",
+        "understand the physical, social, cultural, historical uses of colour, and its importance in design outputs;",
+        "work with a range of design studio methods relevant to the specifics of a brief."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ARCH10001",
+                    "FINA10026"
+                ],
+                "Note: the following subject/s can also be taken concurrently (at the same time)",
+                [
+                    "FINA10032"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "GDES10001"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "FINA10040 Graphic Design Studio 1: Image and Text"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Project 1\r\nFolio consisting of colour exercises, draft poster, and resolved A1 poster.. 1000 words (equivalent)",
+            "timing": "Mid teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "Project 2\r\nFinal folio consisting of a self-directed colour project responding to a brief, and reflective essay of 500 words.. 3000 words (equivalent)",
+            "timing": "From Week 7 to Week 12",
+            "percentage": "75%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend 80% of scheduled classes and attempt all elements of assessment to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Anna Hoyle"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising one 3-hour studio class per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Anna Hoyle:"
+                ],
+                "email": [
+                    "anna.hoyle@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Materials and SoftwareAdobe CC is required software for this subject. Please note that Adobe CC software is available in the labs on campus for all Breadth and Graphic Design students."
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Design"
+            ]
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

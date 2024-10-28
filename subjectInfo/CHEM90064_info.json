@@ -1,0 +1,109 @@
+{
+    "subject name": "Advanced Environmental Analysis",
+    "subject code": "CHEM90064",
+    "subject availability": [
+        "July"
+    ],
+    "overview": [
+        "This subject explores the major historical developments of persistent organic pollutants (POPs) and the role of analytical chemistry in environmental monitoring, assessment and regulation. This subject provides an overview of trace level pollutant measurement using isotope surrogate dilution with measurement performed on LCMS and GCMS instrumental techniques. Organochlorine pesticides (OCPs), polychlorinated biphenyls (PCBs), brominated flame retardants and per and poly fluoroalkyl substances (PFAS) will be used as case studies to explain the relationship between chemical properties with analytical measurements as well as environmental fate, behaviour and ecological impact."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Define persistent organic pollutants (POPs) and explain historical developments for these chemicals in the environment using appropriate examples;",
+        "Explain the environmental fate, behaviour and impact of a range of persistent organic pollutants (POPs) with varying chemical properties;",
+        "Explain the principles of LCMS and GCMS analytical chemistry for environmental monitoring and the association between measurement techniques and environmental regulation;",
+        "Apply investigative skills and critical thought to evaluate information to provide defensible assessments of risks from chemicals to public health and the environment."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "CHEM30012",
+                    "CHEM30016"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of:",
+                "\u2022\tMaster of Science (Chemistry) (MC-SCICHE)",
+                "\u2022\tMaster of Industrial Research (Chemistry) (MR-IRCHEM)",
+                "\u2022\tMaster of Environmental Science (MC-ENVSC)",
+                "\u2022\tBachelor of Science (Degree with Honours) - Chemistry Specialisation (BH-SCI)",
+                "\u2022\tGraduate Diploma in Science (Advanced) - Chemistry Specialisation (GDA-SCI)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written assignment. 1000 words",
+            "timing": "Due after the lecture 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "Written report. 1500 words",
+            "timing": "End of the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Class presentation based upon written report. 120 minutes",
+            "timing": "During the assessment period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "July": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 16 August 2024"
+                },
+                {
+                    "Last self-enrol date": "26 July 2024"
+                },
+                {
+                    "Census date": "2 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "16 August 2024"
+                },
+                {
+                    "Assessment period ends": "6 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

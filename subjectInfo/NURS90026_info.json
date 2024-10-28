@@ -1,0 +1,163 @@
+{
+    "subject name": "Independent Study Project",
+    "subject code": "NURS90026",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "The subject provides opportunities to extend, deepen and apply knowledge, skills and attributes in the context of a research project. This subject enables students to engage in the design and implementation of a research project that demonstrates their advanced theoretical knowledge and critical reflection skills. It provides the opportunity for integration of their prior learning from the course, and demonstration of their advanced nursing practice and research capacity. The subject is designed to facilitate the student\u2019s eligibility for a PhD."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Apply an evidence-based approach to exploring a topic of enquiry",
+        "Formulate a viable research question arising from their clinical practice",
+        "Develop a personal learning plan to enable the conduct of a research project",
+        "Design and conduct a research project, or elements of a project, in the area of nursing practice",
+        "Collect, manage, analyse and interpret data",
+        "Present research outcomes in a written form suitable for publication in the research literature, and in oral form"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "NURS90070",
+                    "NURS90120"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "NURS90059",
+                    "HLTH90002"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Students will normally be required to achieve at least an average of 80% across:",
+                "Course Coordinator approval is required.",
+                "If student achieves an average of =>78, they will be invited to state their case and their proposed project to Principal Coordinator."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written assessment. 2000 words",
+            "timing": "First half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Oral presentation. 20 minutes",
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Project Report including scholarly work suitable for publication. 6000 words",
+            "timing": "During the assessment period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Rebecca Jarden"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Rebecca Jarden"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "rebecca.jarden@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "rebecca.jarden@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Links to additional information": [
+            "http://www.nursing.unimelb.edu.au/"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "major name": "Communication Infrastructure",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "The Communication Infrastructure specialisation is completed by undertaking:",
+            [
+                "50 credit points of Year 3 specialisation selectives"
+            ]
+        ],
+        "Subject options": [],
+        "Year 3 specialisation selectives": [
+            {
+                "ELEN90054": "Probability and Random Models Credits",
+                "ELEN90057": "Communication Systems Credits",
+                "ELEN90061": "Communication Networks Credits",
+                "ELEN90088": "System Optimisation & Machine Learning Credits",
+                "MCEN90032": "Sensor Systems Credits"
+            }
+        ]
+    }
+}

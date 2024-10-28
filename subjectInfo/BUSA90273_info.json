@@ -1,0 +1,296 @@
+{
+    "subject name": "Negotiations",
+    "subject code": "BUSA90273",
+    "subject availability": [],
+    "overview": [
+        "Negotiation is the art and science of securing agreements between two or more interdependent parties. The central issues of this course deal with understanding the behavior of individuals, groups, and organizations in the context of competitive situations. The purpose of this course is to understand the theory and processes of negotiation as it is practiced in a variety of settings. The course is designed to be relevant to the broad spectrum of negotiation problems that are faced by the manager and professional, often in a global context.",
+        "This course is designed to complement the technical and diagnostic skills learned in other courses at MBS. A basic premise of the course is that while a manager needs analytical skills to discover optimal solutions to problems, a broad array of negotiation skills is needed in order for these solutions to be accepted and implemented. The course will give you the opportunity to develop these skills experientially and to understand negotiation in useful analytical frameworks."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "analyse the negotiation context",
+        "develop an effective plan based on this analysis",
+        "select appropriate negotiation strategies for a specific context",
+        "effectively implement these strategies",
+        "effectively manage the negotiation process",
+        "negotiate effectively across diverse negotiation settings"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90480",
+                    "BUSA90481",
+                    "BUSA90060",
+                    "BUSA90224",
+                    "BUSA90243",
+                    "BUSA90001",
+                    "BUSA90193",
+                    "BUSA90093"
+                ],
+                "25 credit points from",
+                [
+                    "BUSA90026",
+                    "BUSA90227"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "87.5 credit points from",
+                "Note: these subjects may be taken concurrently (at the same time)"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90482",
+                    "BUSA90483"
+                ],
+                "25 credit points from",
+                [
+                    "BUSA90026",
+                    "BUSA90227"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "106.25 credit points from"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following: MC-ENTRPSP Master of Entrepreneurship, MC-ETRENH Master of Entrepreneurship (Enhanced)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Contribution to class learning. 1500 words (equivalent)",
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "description": "2 Individual assignments due end of week 4 & 6. 1000 words (each). Hurdle requirement:. Students are required to pass the assignment to pass the subject",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "45%"
+        },
+        {
+            "description": "Syndicate project; Presentation (10 minutes) and Report (2,000 words) end of Week 9 (4 - 5 students per group). 2000 words (each)",
+            "timing": "Week 9",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. 80% attendance and attendance to 1st class and other classes as specified in the subject outline",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "13 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during the pre-teaching period"
+                },
+                {
+                    "Teaching period": "20 January 2024 to 17 February 2024"
+                },
+                {
+                    "Last self-enrol date": "10 December 2023"
+                },
+                {
+                    "Census date": "2 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "9 February 2024"
+                },
+                {
+                    "Assessment period ends": "17 February 2024"
+                }
+            ]
+        },
+        {
+            "April": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "1 April 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during the pre-teaching period"
+                },
+                {
+                    "Teaching period": "8 April 2024 to 14 June 2024"
+                },
+                {
+                    "Last self-enrol date": "4 February 2024"
+                },
+                {
+                    "Census date": "19 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "24 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "August": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "30 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "9 August 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of reading to prepare for the subject during pre-teaching period."
+                },
+                {
+                    "Teaching period": "16 August 2024 to 24 August 2024"
+                },
+                {
+                    "Last self-enrol date": "21 April 2024"
+                },
+                {
+                    "Census date": "16 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "19 August 2024"
+                },
+                {
+                    "Assessment period ends": "24 August 2024"
+                }
+            ]
+        },
+        {
+            "September": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "21 September 2024"
+                },
+                {
+                    "Pre teaching requirements": "Students are required to complete approximately 15 hours of readings to prepare for the subject during the pre-teaching period."
+                },
+                {
+                    "Teaching period": "28 September 2024 to 26 October 2024"
+                },
+                {
+                    "Last self-enrol date": "14 July 2024"
+                },
+                {
+                    "Census date": "4 October 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "11 October 2024"
+                },
+                {
+                    "Assessment period ends": "26 October 2024"
+                }
+            ]
+        },
+        {
+            "November": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "6 hours intensive teaching in a day x 5 days"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "26 October 2024"
+                },
+                {
+                    "Pre teaching requirements": "students are required to complete approximately 15 hours of readings to prepare for the subject during the pre-teaching period"
+                },
+                {
+                    "Teaching period": "2 November 2024 to 30 November 2024"
+                },
+                {
+                    "Last self-enrol date": "11 August 2024"
+                },
+                {
+                    "Census date": "8 November 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "15 November 2024"
+                },
+                {
+                    "Assessment period ends": "30 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "August": {
+                "name": [],
+                "email": [
+                    "programservices@mbs.edu"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students admitted to MC-BA, MC-BAPT, GD-MKTG, 294PN, or students with permission of the MBA course coordinator"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

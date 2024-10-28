@@ -1,0 +1,172 @@
+{
+    "major name": "Accelerated Mode",
+    "overview": [
+        "The Accelerated mode is for Teacher Candidates wishing to accelerate their study by taking a higher load over 1.5 years (18 months). The credit point load is 62.5 points in first semester, 75 points in second semester, and 62.5 points in third semester.",
+        "Last updated: 6 August 2024"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "200 credit points",
+            "The Accelerated Mode is completed over 1.5 years.",
+            "Subject sequencing for the Accelerated Mode is detailed below. Overall course rules can be found on theCourse Structure pagefor the Master of Teaching (Secondary)."
+        ],
+        "Subject Options": [],
+        "FIRST YEAR SUBJECTS (ACCELERATED MODE)": [],
+        "SECOND YEAR SUBJECTS (ACCELERATED MODE)": [
+            "Total credit point load this half year: 62.5"
+        ],
+        "LEARNING AREA SUBJECTS": [],
+        "Foundations Electives": [
+            {
+                "EDUC91183": "Foundations: Arts Teaching Credits",
+                "EDUC91184": "Foundations: DigiTech Teaching Credits",
+                "EDUC91185": "Foundations: English Teaching Credits",
+                "EDUC91186": "Foundations: Health & Phys Ed Teaching Credits",
+                "EDUC91187": "Foundations: Humanities Teaching Credits",
+                "EDUC91188": "Foundations: Languages Teaching Credits",
+                "EDUC91189": "Foundations: Mathematics Teaching Credits",
+                "EDUC91190": "Foundations: Science Teaching Credits"
+            }
+        ],
+        "Subjects undertaken in first semester of the program": [
+            "Total credit point load this semester: 62.5",
+            [
+                "Two Learning Area 1 subjects; and",
+                "The three subjects below."
+            ],
+            {
+                "EDUC91092": "Engaging and Assessing Learners (Sec) 1 Credits",
+                "EDUC91047": "First Nations in Education Credits",
+                "EDUC91181": "Promoting Wellbeing in Secondary Schools Credits"
+            }
+        ],
+        "Subjects undertaken in second semester of the program": [
+            "Total credit point load this semester: 75",
+            [
+                "Two Learning Area 2 subjects;",
+                "One Foundations elective; and",
+                "The three subjects below."
+            ],
+            {
+                "EDUC91121": "Engaging and Assessing Learners (Sec) 2 Credits",
+                "EDUC91122": "Literacies, Languages, and Learners Credits",
+                "EDUC91182": "Leadership in Schools Credits"
+            }
+        ],
+        "Subjects undertaken in Summer Term": [
+            [
+                "Enrol in the January study-period of EDUC91301 \u2018Professional Learning Capstone (Sec Acc)\u2019. The subject continues into Semester 1."
+            ],
+            {
+                "EDUC91301": "Professional Learning Capstone (Sec Acc) Credits"
+            }
+        ],
+        "Subjects undertaken in third semester of the program": [
+            [
+                "Two Learning Area 3 subjects;",
+                "Continue EDUC91301 \u2018Professional Learning Capstone (Sec Acc)\u2019; and",
+                "The subject below."
+            ],
+            {
+                "EDUC91151": "Engaging and Assessing Learners (Sec) 3 Credits"
+            }
+        ],
+        "Learning Area 1 subjects": [
+            {
+                "EDUC91093": "Learning Area Accounting 1 Credits",
+                "EDUC91094": "Learning Area Biology 1 Credits",
+                "EDUC91095": "Learning Area Business Management 1 Credits",
+                "EDUC91096": "Learning Area Chemistry 1 Credits",
+                "EDUC91097": "Learning Area Commerce 1 Credits",
+                "EDUC91098": "Learning Area Drama A1 Credits",
+                "EDUC91099": "Learning Area Drama B1 Credits",
+                "EDUC91100": "Learning Area Economics 1 Credits",
+                "EDUC91101": "Learning Area English 1 Credits",
+                "EDUC91102": "Learning Area Environmental Science 1 Credits",
+                "EDUC91103": "Learning Area Health Education 1 Credits",
+                "EDUC91104": "Learning Area History 1 Credits",
+                "EDUC91105": "Learning Area Humanities 1 Credits",
+                "EDUC91106": "Learning Area Humanities Additional 1 Credits",
+                "EDUC91107": "Learning Area Languages 1 Credits",
+                "EDUC91108": "Learning Area Legal Studies 1 Credits",
+                "EDUC91109": "Learning Area Mathematics 1 Credits",
+                "EDUC91110": "Learning Area Media Studies 1 Credits",
+                "EDUC91111": "Learning Area Music A1 Credits",
+                "EDUC91112": "Learning Area Music B1 Credits",
+                "EDUC91113": "Learning Area Physical Education 1 Credits",
+                "EDUC91114": "Learning Area Physics 1 Credits",
+                "EDUC91115": "Learning Area Politics 1 Credits",
+                "EDUC91116": "Learning Area Psychology 1 Credits",
+                "EDUC91117": "Learning Area Science 1 Credits",
+                "EDUC91118": "Learning Area TESOL 1 Credits",
+                "EDUC91119": "Learning Area Visual Arts and Design A1 Credits",
+                "EDUC91120": "Learning Area Visual Arts and Design B1 Credits"
+            }
+        ],
+        "Learning Area 2 subjects": [
+            {
+                "EDUC91123": "Learning Area Accounting 2 Credits",
+                "EDUC91124": "Learning Area Biology 2 Credits",
+                "EDUC91125": "Learning Area Business Management 2 Credits",
+                "EDUC91126": "Learning Area Chemistry 2 Credits",
+                "EDUC91127": "Learning Area Commerce 2 Credits",
+                "EDUC91128": "Learning Area Drama A2 Credits",
+                "EDUC91129": "Learning Area Drama B2 Credits",
+                "EDUC91130": "Learning Area Economics 2 Credits",
+                "EDUC91131": "Learning Area English 2 Credits",
+                "EDUC91132": "Learning Area Environmental Science 2 Credits",
+                "EDUC91133": "Learning Area Health Education 2 Credits",
+                "EDUC91134": "Learning Area History 2 Credits",
+                "EDUC91135": "Learning Area Humanities 2 Credits",
+                "EDUC91136": "Learning Area Humanities Additional 2 Credits",
+                "EDUC91137": "Learning Area Languages 2 Credits",
+                "EDUC91138": "Learning Area Legal Studies 2 Credits",
+                "EDUC91139": "Learning Area Mathematics 2 Credits",
+                "EDUC91140": "Learning Area Media Studies 2 Credits",
+                "EDUC91141": "Learning Area Music A2 Credits",
+                "EDUC91142": "Learning Area Music B2 Credits",
+                "EDUC91143": "Learning Area Physical Education 2 Credits",
+                "EDUC91144": "Learning Area Physics 2 Credits",
+                "EDUC91145": "Learning Area Politics 2 Credits",
+                "EDUC91146": "Learning Area Psychology 2 Credits",
+                "EDUC91147": "Learning Area Science 2 Credits",
+                "EDUC91148": "Learning Area TESOL 2 Credits",
+                "EDUC91149": "Learning Area Visual Arts and Design A2 Credits",
+                "EDUC91150": "Learning Area Visual Arts and Design B2 Credits"
+            }
+        ],
+        "Learning Area 3 subjects": [
+            {
+                "EDUC91153": "Learning Area Accounting 3 Credits",
+                "EDUC91154": "Learning Area Biology 3 Credits",
+                "EDUC91155": "Learning Area Business Management 3 Credits",
+                "EDUC91156": "Learning Area Chemistry 3 Credits",
+                "EDUC91157": "Learning Area Commerce 3 Credits",
+                "EDUC91158": "Learning Area Drama A3 Credits",
+                "EDUC91159": "Learning Area Drama B3 Credits",
+                "EDUC91160": "Learning Area Economics 3 Credits",
+                "EDUC91161": "Learning Area English 3 Credits",
+                "EDUC91162": "Learning Area Environmental Science 3 Credits",
+                "EDUC91163": "Learning Area Health Education 3 Credits",
+                "EDUC91164": "Learning Area History 3 Credits",
+                "EDUC91165": "Learning Area Humanities 3 Credits",
+                "EDUC91166": "Learning Area Humanities Additional 3 Credits",
+                "EDUC91167": "Learning Area Languages 3 Credits",
+                "EDUC91168": "Learning Area Legal Studies 3 Credits",
+                "EDUC91169": "Learning Area Mathematics 3 Credits",
+                "EDUC91170": "Learning Area Media Studies 3 Credits",
+                "EDUC91171": "Learning Area Music A3 Credits",
+                "EDUC91172": "Learning Area Music B3 Credits",
+                "EDUC91173": "Learning Area Physical Education 3 Credits",
+                "EDUC91174": "Learning Area Physics 3 Credits",
+                "EDUC91175": "Learning Area Politics 3 Credits",
+                "EDUC91176": "Learning Area Psychology 3 Credits",
+                "EDUC91177": "Learning Area Science 3 Credits",
+                "EDUC91178": "Learning Area TESOL 3 Credits",
+                "EDUC91179": "Learning Area Visual Arts and Design A3 Credits",
+                "EDUC91180": "Learning Area Visual Arts and Design B3 Credits"
+            }
+        ]
+    }
+}

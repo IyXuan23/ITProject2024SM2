@@ -1,0 +1,134 @@
+{
+    "subject name": "Farm Management Economics",
+    "subject code": "AGRI30033",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The aim of this subject is for students of agricultural science and agricultural economics to understand the principles of management economics applied to the operation of agricultural business; to understand decision analysis under risk and uncertainty; to be able to model and analyse agricultural systems; to be able to analyse agricultural investment and evaluate the profitability and sources, and business risk and financial risk of alternative resource uses in agricultural businesses; evaluate business growth strategies; and understand agricultural price risk management strategies.",
+        "The content of the subject is as follows:",
+        "The whole farm approach",
+        "Farm business management",
+        "Farm activity analysis",
+        "Production economic and financial analysis",
+        "Agricultural systems analysis",
+        "Farm benefit cost analysis",
+        "Risky decision analysis",
+        "Agricultural risk management",
+        "A number of case studies will be completed based on real farm business situations."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Collect and interpret financial and economic agricultural systems data",
+        "Demonstrate appropriate knowledge and ability to critically evaluate economic and financial information",
+        "Demonstrate practical economic and risk management as well as decision making skills",
+        "Undertake risk analysis for agricultural businesses and agricultural investments",
+        "Interpret, analyse and evaluate the financial and economic performance of an agricultural business",
+        "Identify appropriate strategies for agribusiness analysis by interpreting management objectives, resource implications, risk factors and applying optimisation techniques",
+        "Analyse profitability, cash flows and business structures",
+        "Use computer-based techniques and tools of farm management analysis and risk analysis"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AGRI20042"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Case study. 600 words",
+            "timing": "Approximately Week 5",
+            "percentage": "22.5%"
+        },
+        {
+            "description": "Case study. 600 words",
+            "timing": "Approximately Week 11",
+            "percentage": "22.5%"
+        },
+        {
+            "description": "Examination. 3 hours. Hurdle requirement:. Students must achieve a minimum of 50% in the examination to pass the subject",
+            "timing": "End of semester",
+            "percentage": "55%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend 80% of scheduled workshops/practical classes, and all scheduled farm visits",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Alex Sinnett"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 3 hour workshop each week, excluding weeks where field trip occurs; 3 x one day field trips (7 hours per day), throughout the semester"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "a.sinnett@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Malcolm, Bill, Makeham, Jack & Wright, Vic. (2005)The Farming Game: Agricultural Management and Marketing. Cambridge University Press."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

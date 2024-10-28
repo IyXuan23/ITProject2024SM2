@@ -1,0 +1,134 @@
+{
+    "subject name": "Green Infrastructure Technologies",
+    "subject code": "ENST30003",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject explores and evaluates green infrastructure technologies, including green roofs, green walls, green facades and water-sensitive urban design installations. Students study the underpinning science that supports these technologies and their use in urban environments to achieve environmental, social and economic outcomes, including plant ecology, horticulture, hydrology and the science of growing media including soils and green-roof substrates. There is a strong emphasis on understanding the functions of different design systems and the engineering applications of green infrastructure in landscape and building installations. The subject also uses case studies, field visits and industry practitioners to investigate, analyse and evaluate green infrastructure technologies and systems."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the underpinning science and evidence of benefits of green infrastructure",
+        "Evaluate the types, elements, roles, functions and green infrastructure technologies and associated design applications",
+        "Investigate and analyse green infrastructure technologies that address site, environmental, function and management considerations",
+        "Design a green-infrastructure installation that performs multiple functions, including the provision of relevant ecosystem services"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "BIOL10001",
+                    "BIOL10002",
+                    "BIOL10008",
+                    "BIOL10009",
+                    "BIOL10010",
+                    "BIOL10011",
+                    "LARC10001"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Practical report. 500 words",
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Green-infrastructure design project. 1500 words",
+            "timing": "Week 10",
+            "percentage": "35%"
+        },
+        {
+            "description": "Final exam. 120 minutes",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Nicholas Williams"
+                },
+                {
+                    "Mode of delivery": "On Campus (Burnley)"
+                },
+                {
+                    "Contact hours": "44 hours in total, comprising 12 hours lectures (weekly), 12 hours practicals (weeks 2, 6, 9, 12 x 3 hours), 12 hours tutorials (weeks 1, 3, 5, 7, 8, 11 x 2 hours) and 8 hours field visits (weeks 4, 10 x 4 hours)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Professor Nicholas Williams"
+                ],
+                "email": [
+                    "nsw@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ]
+    }
+}

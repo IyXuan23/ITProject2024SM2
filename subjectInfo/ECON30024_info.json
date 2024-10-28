@@ -1,0 +1,170 @@
+{
+    "subject name": "Economics of Financial Markets",
+    "subject code": "ECON30024",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The subject is a combination of principle and practice. It provides an overview of the economic principles governing financial markets; then provides insights into some important empirical and practical issues concerning the operation of financial markets; and concludes with a discussion of some practical issues associated with Australian financial markets."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain and analyse the role of capital markets in consumption and investment decision-making under conditions of certainty and uncertainty",
+        "Explain how economic theory applies to financial markets",
+        "Describe how economic theory can provide testable restrictions on financial data",
+        "Analyse the main empirical results that have been established for financial markets",
+        "Critically evaluate economic policy issues associated with financial markets",
+        "Synthesise different theories and ideas, such as alternative models of asset pricing and portfolio allocation",
+        "Apply theories to the real world - how the shape of yield curves can be used to forecast inflation in Australia for example",
+        "Evaluate the relevance of competing theories. For instance, the extent to which alternative analyses can be used to predict the market price of different countries"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1 - Standard quantitative path",
+            "necessary pre-requisite": [
+                [
+                    "ECON20001",
+                    "ECON20002"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ECOM20001",
+                    "ECON20003"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2 - Mathematics quantitative path",
+            "necessary pre-requisite": [
+                [
+                    "MAST20005"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST20004",
+                    "MAST20006"
+                ]
+            ],
+            "alternate pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment 1. 600 words",
+            "timing": "Week 5",
+            "percentage": "6%"
+        },
+        {
+            "description": "Mid-semester examination. 45 minutes",
+            "timing": "Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assignment 2. 600 words",
+            "timing": "Week 11",
+            "percentage": "9%"
+        },
+        {
+            "description": "Tutorial Participation",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours. Hurdle requirement:. To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "May Li"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2-hour lecture and a 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "shuyunl@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

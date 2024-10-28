@@ -1,0 +1,134 @@
+{
+    "Course name": "Diploma in Computing",
+    "Course code": "D-COMP",
+    "Overview text": [
+        "The Diploma in Computing will provide students in almost all areas of study with the option of complementing theirprincipal undergraduate majorwith a program in the IT area, designed to give them familiarity with a range of data manipulation and presentation techniques. The delivery format via a concurrent diploma is designed to build on and extend students\u2019 main study, with the expectation that students will contribute problems and challenges from their main study area to their Diploma subjects.",
+        "A concurrent diploma must be undertaken at the same time as your substantive degree (e.g. Bachelor of Arts)and is considered to be a combined course for the purposes of theStudent Assistance (Education Institutions and Courses) Determination 2019. More information on concurrent diplomas is foundhere.",
+        "Last updated: 30 January 2024"
+    ],
+    "Overview table": {
+        "Award title": "Diploma in Computing",
+        "Year & campus": "2024\u2014 Parkville",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Undergraduate Coursework",
+        "AQFlevel": "5",
+        "Credit points": "100 credit points",
+        "Duration": "12 months full-time or 24 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "1. In order to be considered for entry, applicants must have:",
+            "Concurrent enrolment in a University of Melbourne undergraduate degree (see Note below); and",
+            "A weighted average of at least 65% in their current study; and",
+            "Successfully completed a minimum of 50 points of University study including the core subject COMP10001 Foundations of Computing.",
+            "Meeting these requirements does not guarantee selection",
+            "2. In ranking applications, the Selection Committee will consider:",
+            "Prior academic performance.",
+            "3. The Selection Committee may seek further information to clarify any aspect of an application in accordance with the Academic Boardruleson the use of selection instruments.",
+            "4. Applicants will satisfy the University\u2019s English language requirements for the Diploma by meeting the English Language requirements for the Bachelor degree in which they are enrolled concurrently.",
+            "Notes:",
+            "Entry to the Diploma excludes the following students: Bachelor of Science students majoring in any of: Computing and Software Systems, Data Science or Informatics, or students in the Bachelor of Design majoring in Computing, Computing and Software Systems, Digital Technologies or User Experience Design.",
+            "Students are permitted to enter the Diploma at the start of any semester before the completion of the companion undergraduate degree.",
+            "Students may cross-credit 50 points for Diploma subjects taken as part of the undergraduate degree.",
+            "The mode of undertaking the diploma, either Fast Track or by addition of a full year to their degree will depend on each student\u2019s particular circumstances (i.e. the overload policy requires a particular level of performance/achievement be attained for permission to overload).",
+            "Course advice need to be sought prior to applying for the Diploma.",
+            "A concurrent diploma must be undertaken at the same time as your substantive degree (e.g. Bachelor of Arts) and is considered to be a combined course for the purposes of the Student Assistance (Education Institutions and Courses) Determination 2019. More information on concurrent diplomas is found here.",
+            "Diploma places cannot be deferred and you cannot be admitted in the Diploma if you are within the last 50 points of your undergraduate degree."
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "For the purposes of considering a request for Reasonable Adjustments under the Disability Standards for Education (2005), and Students Experiencing Academic Disadvantage Policy, academic requirements for this subject are articulated in the Subject Description, Subject Objectives, Generic Skills and Assessment Requirements of this entry.The University is dedicated to providingsupport to those with special requirements. Further details on the disability support scheme can be found at the Disability Liaison Unit website.http://www.services.unimelb.edu.au/disability/"
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "The Diploma in Computing requires the successful completion of 100 credit points.",
+                "100 credit points of compulsory, selective and elective subjects including",
+                [
+                    "12.5 credit points of Level 1 compulsory subjects",
+                    "12.5 credit points of Level 3 selectives",
+                    "A maximum of 50 credit points of Level 1 and Level 2 electives",
+                    "Between 25 and 75 credit points of Level 3 electives",
+                    "Up to 50 points can be cross-credited from the student\u2019s main or underlying degree. To graduate with an undergraduate degree and the Diploma, students must complete between 350 and 400 points across both programs."
+                ],
+                "Pathways",
+                "Depending on a student\u2019s individual circumstances and their personal desire, the Diploma may be taken in a variety of \u201cFast Track\u201d modes or by adding the full 100 points (i.e. one full year) to their degree.",
+                "Fast Track modes will involve cross-crediting of up to 50 points and/or overloading in one, two or all three years of the course. All students undertaking a Diploma must complete a minimum of 350 points and a maximum of 400 points for the degree plus the diploma.",
+                "Students in the BSc majoring in any of Computing and Software Systems, Data Science, or Informatics, and students in the BDes majoring in Computing, are not allowed to enroll in the Diploma in Computing."
+            ],
+            "Subject Options": {
+                "overview": [],
+                "Level 1 compulsory subjects": {
+                    "overview": [
+                        [
+                            "COMP10001"
+                        ],
+                        "(approved alternate is INFO10001 Informatics 1: Data on the Web, completed prior to 2012)"
+                    ]
+                },
+                "Level 3 selectives": {
+                    "overview": [
+                        [
+                            "SWEN30006",
+                            "INFO30005"
+                        ]
+                    ]
+                }
+            },
+            "Electives (Subjects from the following areas of study: COMP, INFO, ISYS, SWEN)": {
+                "overview": [],
+                "Level 1 electives": {
+                    "overview": [
+                        [
+                            "ISYS10001",
+                            "INFO10003",
+                            "COMP10003",
+                            "COMP10002",
+                            "COMP10001"
+                        ]
+                    ]
+                },
+                "Level 2 electives": {
+                    "overview": [
+                        [
+                            "SWEN20003",
+                            "COMP20003",
+                            "INFO20004",
+                            "COMP20008",
+                            "COMP20005",
+                            "INFO20003",
+                            "INFO20005",
+                            "COMP20007",
+                            "INFO20002",
+                            "ISYS20006"
+                        ]
+                    ]
+                },
+                "Level 3 electives": {
+                    "overview": [
+                        [
+                            "ISYS30008",
+                            "INFO30008",
+                            "COMP30026",
+                            "COMP30022",
+                            "COMP30020",
+                            "COMP30019",
+                            "SWEN30007",
+                            "INFO30009",
+                            "COMP30027",
+                            "INFO30006",
+                            "INFO30005",
+                            "COMP30024",
+                            "COMP30023",
+                            "COMP30013",
+                            "SWEN30006"
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": []
+}

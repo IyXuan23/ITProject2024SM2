@@ -1,0 +1,132 @@
+{
+    "subject name": "Educational Theory for Surgical Training",
+    "subject code": "MEDS90008",
+    "subject availability": [
+        "Semester 2 (Early-Start) - Online"
+    ],
+    "overview": [
+        "This subject introduces participants to education theory and its application in medical and surgical training. Participants will gain a broad appreciation of the \u2018educational landscape\u2019 with an opportunity to pursue one theory in detail. Both teacher and learner perspectives will be explored and participants will critically reflect on their experiences from both perspectives. The subject is intentionally theoretical as it provides essential grounding for all subsequent subjects in which there will be opportunities to apply theory to practice.",
+        "The overall aims of this subject are:",
+        "To provide participants with a working knowledge of key contemporary education theory including teacher and learner perspectives",
+        "To consider the application of these theories in surgical education"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Define commonly used terms in education literature.",
+        "Demonstrate knowledge of contemporary education theories.",
+        "Discuss the relevance of selected theories to medical and surgical education.",
+        "Reflect on their own teaching practice in relation to selected educational theories."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "GC-SURGED Graduate Certificate in Surgical Education",
+                "GD-SURGED Graduate Diploma in Surgical Education",
+                "MC-SURGED Master of Surgical Education",
+                "Students enrolling in this subject as a single subject under the Community Access Program must meet the entrance requirements for the MC-SURGED.",
+                "This subject is not available for students admitted in any other courses."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Oral Presentation. The aim of this assessment is for students to present and apply an educational theory to surgical education.. 15 minutes",
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Essay. The aim of this assessment is for students to explore in some depth a key issue in contemporary surgical education (choice of three essay topics), to use resources for supporting their arguments and to practise writing skills in a scholarly activity.. 3500 words",
+            "timing": "End of semester",
+            "percentage": "70%"
+        },
+        {
+            "description": "Reflective writing. The\r\nreflections will document the\r\nfollowing: reactions to reading\r\neducational theory; what is\r\neasy and why; what is hard\r\nand why; how does it align\r\nwith your ideas about theory\r\n(usually shaped by biomedical\r\nscience notions of theory).\r\nThis hurdle requirement will\r\nprime students with concepts\r\nand language relevant to\r\ntheory that informs\r\neducational practice.\r\nReflections will be used as a\r\nbasis for discussion in the\r\nworkshop in the first session.\r\nStudents are required to read\r\nthe essential references and\r\nwrite reflections (1000 words). Students must\r\ndemonstrate a genuine\r\nattempt at addressing the\r\nrequirements of the task. This\r\nassignment is due prior to the\r\nworkshop.. 1000 words. Hurdle requirement:. In this assignment students are required to read the essential references and write reflections (1000 words). Students must demonstrate a\r\ngenuine attempt at addressing the requirements of the task. This is a hurdle assessment. This assignment is due prior to the workshop",
+            "timing": "Due prior to the workshop at the beginning of semester.",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 (Early-Start) - Online": [
+                {
+                    "Coordinator": "Debra Nestel"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "8 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "19 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Illeris, K (Ed.) 2009, Contemporary Theories of Learning. Routledge: Oxon",
+                    "Reading materials online"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "IT requirements:Participants will require access to the internet with a minimum connection speed of 256Kbps to access course materials and to participate in on-line discussions and presentations forums. Faster connection speeds are preferred. Participants will also need to verify that their internet connection is configured to allow them to view streamed audio and video files. Test files will be made available for students to test their connections.",
+            "Participants are expected to have a headset and microphone connected to their computer for participation in on-line activities.",
+            "Participants will be expected to have access to the following Microsoft Office products to fully participate:",
+            [
+                "MS Word",
+                "MS Powerpoint"
+            ],
+            "All online applications will be web-based and no special software is required."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

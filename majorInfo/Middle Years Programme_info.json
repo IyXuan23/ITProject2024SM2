@@ -1,0 +1,23 @@
+{
+    "major name": "Middle Years Programme",
+    "overview": [
+        "Prerequisites for the core subjects in the Middle Years Programme specialisation:",
+        [
+            "1. EDUC90333 Introduction to the IB is a prerequisite for EDUC90968 Curriculum Frameworks in the IB MYP",
+            "2. EDUC90331 Assessment & Reporting in the IB is a prerequisite for EDUC90969 IB MYP Advanced"
+        ]
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "Completion of all of the following subjects:",
+            {
+                "EDUC90333": "Introduction to the IB Credits",
+                "EDUC90968": "Curriculum Frameworks in the IB MYP Credits",
+                "EDUC90331": "Assessment & Reporting in the IB Credits",
+                "EDUC90969": "IB MYP Advanced Credits"
+            }
+        ]
+    }
+}

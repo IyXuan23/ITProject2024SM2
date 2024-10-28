@@ -1,0 +1,142 @@
+{
+    "subject name": "Enterprise Management",
+    "subject code": "AGRI20040",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject will be integrated with and support the other Semester 2 Subjects offered at the Dookie Campus. This subject will build on students\u2019 knowledge of production systems gained in first year and develop their ability to make management decisions relating to a variety of enterprises."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Establish production objectives",
+        "Identify inputs and resources required for the project enterprise",
+        "Coordinate resources to achieve production objectives",
+        "Plan implement and evaluate activities of the project enterprise",
+        "Monitor project enterprise performance by keeping relevant accurate records",
+        "Perform skills specific to the enterprise",
+        "Recognise the scientific environmental and social implications of management decisions",
+        "Identify possibilities for changes to enterprises",
+        "Develop report writing skills"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AGRI10047",
+                    "AGRI10048",
+                    "AGRI10049"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Progress Report generated from the online farm management platform. Hurdle requirement:. Submission of progress report",
+            "timing": "Week 6",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Written assignment based on farm enterprise visits. 1500 words",
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "Group Oral Presentation",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Field Trips Journal with final submission due in week 12",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final report generated from online farm management platform",
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "Examination. 1.5 hours",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum 80% of scheduled workshops/practical classes",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Ros Gall"
+                },
+                {
+                    "Mode of delivery": "On Campus (Dookie)"
+                },
+                {
+                    "Contact hours": "70 hours. 2 hours seminar workshops per week, 3 hour weekly practical activities, 2 hours of field trips."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "rosgall@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "subject name": "Electrophysiological Assessment A",
+    "subject code": "AUDI90012",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject introduces students to the basic concepts of bioengineering and signal processing relevant to electrophysiological measures used in audiology; the measurement and analysis of the auditory brainstem response; the theory and application of basic vestibular assessment including patient history and the Caloric, Vestibular Myogenic Evoked Potential (VEMP) and Hallpike tests; and the theory and application of Otoacoustic Emission (OAE) testing."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify the basic concepts of bioengineering and signal processing relevant to electrophysiological measures used in Audiology;",
+        "Describe the measurement and analysis of the Auditory Brainstem Response (ABR) and its use in infant hearing screening and diagnostic hearing assessment;",
+        "Demonstrate the developing ability to obtain, analyse and interpret ABR results, and to write accurate ABR reports;",
+        "Describe the theory and application of basic vestibular assessment including patient history and the Caloric, Vestibular Myogenic Evoked Potential (VEMP) and Hallpike tests;",
+        "Demonstrate developing skills in administering vestibular function tests; analysing, interpreting and integrating these test results; and writing accurate vestibular assessment reports;",
+        "Apply the knowledge and skills obtained in the subject to determine appropriate electrophysiological assessment techniques for patients;",
+        "Summarise the theory and application of Otoacoustic Emission (OAE) testing; and",
+        "Demonstrate developing skills in administering OAE tests and analysing, interpreting and integrating OAE results with other audiological test results."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ANAT90004",
+                    "AUDI90016",
+                    "AUDI90050"
+                ],
+                "For students completing 1st Year prior to 2021",
+                [
+                    "ANAT90004",
+                    "AUDI90016"
+                ],
+                "AUDI90015 Acoustics"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "For students completing 1st Year from 2021 onwards"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written exam. 1 hours. Hurdle requirement:. Students must pass the written examination in order to pass this subject overall.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Written assignment. 250 words",
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "6 online MCQ tests (5 minutes each), Weeks 2,4,6,8,10,12. 30 minutes (total)",
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Group case presentation (group size around 6 students, requiring 1-2 hours preparation per student). 10 minutes",
+            "timing": "Week 11",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Donella Chisari"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "28 hours of lectures, tutorials and practical sessions."
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "chisarid@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Nil"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Nil"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

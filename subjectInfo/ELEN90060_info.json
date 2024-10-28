@@ -1,0 +1,141 @@
+{
+    "subject name": "Power System Analysis",
+    "subject code": "ELEN90060",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject provides an insight into the fundamental elements to analyse electrical power transmission and distribution systems, with both analytical and simulation tools for analysis of operations of these systems. Problems related to power flow and use of Newton-Raphson and other algorithms such as backward-forward sweep will be discussed. Fault calculation and analysis, symmetrical components, and analytical methods for solving symmetrical (balanced) faults will be covered. Principles, concepts and problems related to power system dynamics and control, particularly for frequency and voltage regulation, will be discussed and analysed in detail. Finally, small-signal, transient, voltage and frequency stability will be introduced and exemplified. Focus will be put on real-world examples, particularly to prepare the student for the ongoing transition towards a low-carbon grid dominated by renewables and distributed energy resources."
+    ],
+    "indicative content": [
+        "Power flow calculations, Newton-Raphson, Gauss-Seidel and backward-forward sweep methods;",
+        "Fault calculations, balanced and unbalanced, symmetrical components, fundamentals of protection;",
+        "Frequency regulation and frequency stability,",
+        "Voltage regulation in transmission and distribution networks, including use of flexible AC transmission systems (FACTS);",
+        "Voltage stability, small-signal stability, transient stability;",
+        "Computer simulations.",
+        ""
+    ],
+    "intended learning outcomes": [
+        "1.  Interpret the behaviour of the basic components of power systems",
+        "2. Compute power flow in transmission systems",
+        "3. Compute fault quantities, such as voltage, current and power in transmission systems under normal and fault conditions",
+        "4. Ascertain the stability of power systems from operating conditions",
+        "5. Use software tools to simulate and study the steady-state and dynamic behaviour of electrical power systems"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ELEN90074"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One written 90 minutes examination at the end of semester. ILOs 1,2,4, part of 3 are addressed in this assessment.. 90 minutes. Hurdle requirement:. To pass the subject, students must exceed a hurdle on the sum of the mid-semester and end-of-semester exams.",
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "One written 90 minutes examination at mid-semester. ILOs 1,2, part of 3 are addressed in this assessment.. 90 minutes. Hurdle requirement:. To pass the subject, students must exceed a hurdle on the sum of the mid-semester and end-of-semester exams.",
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Three workshop reports completed in groups, (approximately 45-50 hours of work per student). Reports  (15 % each) to be submitted in weeks 7, 10 and 14. ILOs 1-5 are addressed in this assessment.. 25-30 hours (of work required)",
+            "timing": "From Week 7 to Week 14",
+            "percentage": "45%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinators": "Pierluigi Mancarella and Nando Ochoa Pizzali"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures plus 36 hours of combined workshops/tutorial/consultations"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Luis (Nando) Ochoa"
+                ],
+                "email": [
+                    "luis.ochoa@unimelb.edu.au",
+                    "pierluigi.mancarella@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "TBA"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "This mode of delivery of this subject is through lectures supported by tutorials and practical hands-on workshops.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Full set of lecture notes, tutorial sets and model solutions as well as workshops reports are provided. Students also have access to past examination papers and solutions.",
+            "CAREERS / INDUSTRY LINKS",
+            "Two guest speakers from power industry are usually invited to give seminars on technical issues related to their respective companies and how these issues relate to the content of this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

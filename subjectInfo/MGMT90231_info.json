@@ -1,0 +1,123 @@
+{
+    "subject name": "BioDesign Innovation",
+    "subject code": "MGMT90231",
+    "subject availability": [
+        "February"
+    ],
+    "overview": [
+        "BioDesign Innovation is a \u201creal world\u201d, team-based subject in creating successful medical devices. Teams will consist of 2-3 students from the MBA program and 2-3 students from engineering disciplines, along with individuals with medical and law backgrounds to conceive and design an innovative medical device, taking it through all steps of development. The teams will create an engineering prototype of their invention, draft a provisional patent application, and compose a detailed business plan; team members are expected to contribute primarily according their specialisation.",
+        "BioDesign Innovation is given over three terms of one academic year and is composed of frontal lectures, practical training, and a guided project. The subject is taught by a combination of academics and guest speakers such as medical device entrepreneurs, corporate executives, intellectual property attorneys and venture capitalists. As such, it provides a unique opportunity to gain real world experience while still in an academic environment.",
+        "This subject is only available to students admitted to MC-BAPT, or students with permission of the MBA course coordinator. There is an application process for this subject, and students are required to have achieved a H2B average or better in their course."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Search, analyse and document clinical practice, engineering science and relevant literature in order to determine the need for further research and development in a chosen clinical area.",
+        "Devise a methodology of investigation to improve knowledge or understanding of a chosen interdisciplinary topic.",
+        "Collect and analyse a range of data (both qualitative and quantitative) to improve collective understanding of a chosen topic.",
+        "Build a device or write software that helps to technologically address a clinical need.",
+        "Develop a business plan, including market overview, regulation and reimbursement strategies and intellectual property (IP) strategies.",
+        "Write a project report that follows good engineering science practice.",
+        "Present an oral presentation of the findings of an investigation to an audience of peers or lay people."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90026",
+                    "BUSA90074",
+                    "BUSA90227"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One team-based written assignment on a clinical need, due in Week 8 or 9. 2000 words (each)",
+            "timing": "From Week 8 to Week 9",
+            "percentage": "10%"
+        },
+        {
+            "description": "One team-based written assignment on the proposed medical device, due in Week 12 or 13. 2000 words (each)",
+            "timing": "From Week 12 to Week 13",
+            "percentage": "10%"
+        },
+        {
+            "description": "One team-based oral presentation. 15 minutes (each)",
+            "timing": "Week 22",
+            "percentage": "20%"
+        },
+        {
+            "description": "A technical oral presentation (including Q&A), due in Week 32 or 33. 30 minutes",
+            "timing": "From Week 32 to Week 33",
+            "percentage": "10%"
+        },
+        {
+            "description": "A lay person oral presentation, due in Week 33 or 34. 10 minutes",
+            "timing": "From Week 33 to Week 34",
+            "percentage": "10%"
+        },
+        {
+            "description": "A professional project report. 5000 words",
+            "timing": "Week 34",
+            "percentage": "34%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Principal coordinator": "Kwang Lim"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "90 hours"
+                },
+                {
+                    "Total time commitment": "510 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 August 2024"
+                },
+                {
+                    "Last self-enrol date": "2 April 2024"
+                },
+                {
+                    "Census date": "5 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "28 June 2024"
+                },
+                {
+                    "Assessment period ends": "7 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [],
+                "email": [
+                    "programservices@mbs.edu"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

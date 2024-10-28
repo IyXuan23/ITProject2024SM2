@@ -1,0 +1,149 @@
+{
+    "subject name": "Corporations Law",
+    "subject code": "LAWS50035",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is designed to provide students with an understanding of the fundamental characteristics of companies and the legal principles that regulate the establishment, management and dissolution of companies in Australia. The subject is organised around 10 core concepts:",
+        "Introduction to companies and the regulatory scheme;",
+        "Incorporation and its effects;",
+        "Managing companies;",
+        "Duties and liabilities of directors and officers \u2013 framework of duties, duty to act in good faith and duty to act for a proper purpose;",
+        "Duties and liabilities of directors and officers \u2013 duty of care;",
+        "Duties and liabilities of directors and officers \u2013 loyalty;",
+        "Shareholder actions;",
+        "Corporate liability;",
+        "Share capital; and",
+        "Introduction to corporate insolvency.",
+        "Particular emphasis is placed in this subject on the management and control of companies. This necessarily involves an exploration of two key questions:",
+        "These questions are derived from the overwhelming concern of scholarship in the field of company law, which is to investigate the nature and ramifications of the relationships between those who manage or control companies, those who have supplied capital to companies and those who otherwise contract with companies."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "the key elements of the legal framework governing the regulation of companies.",
+        "the legal nature of the company and the incidents of incorporation, including the separate legal personality of the company, limited liability and the situations in which courts will pierce the corporate veil.",
+        "corporate authority.",
+        "liability for corporate wrong-doing.",
+        "corporate finance.",
+        "corporate governance, including the conduct of meetings, the duties and liabilities of the directors and other officers entrusted with the oversight and management of companies, and the constraints on the power of majority shareholders.",
+        "shareholder remedies and litigation.",
+        "the key elements of corporate insolvency."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "LAWS50023",
+                    "LAWS50024",
+                    "LAWS50025",
+                    "LAWS50026",
+                    "LAWS50028",
+                    "LAWS50029",
+                    "LAWS50030",
+                    "LAWS50032",
+                    "LAWS90140"
+                ],
+                [
+                    "LAWS50033"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Mid-semester test. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "90%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Rosemary Langford"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours"
+                },
+                {
+                    "Total time commitment": "144 hours"
+                },
+                {
+                    "Pre teaching requirements": "Please refer to the Reading Guide on the LMS subject page for confirmation of which resources need to be read and what other preparation is required before the teaching period commences."
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    [
+                        "Specialist materials will be made available via the LMS;",
+                        "Redmond's Corporations and Financial Markets Law(Thomson Reuters, 2023, 8th edition by Fady Aoun, Emma Armson, Olivia Dixon and Marina Nehme);",
+                        "Corporations Act(latest edition). This legislation is available in the following formats (any of the below is sufficient for this subject):LexisNexis Butterworths: publishes a single volume \"Australian Corporations Legislation\" annually;LawBook Co (Thomson): publishes a single volume \"Corporations Legislation\" annually;CCH: publishes a two-volume \"Australian Corporations and Securities Legislation Pack\" annually. Volume 1 (which is sufficient for this subject) is available for separate purchase.",
+                        "LexisNexis Butterworths: publishes a single volume \"Australian Corporations Legislation\" annually;",
+                        "LawBook Co (Thomson): publishes a single volume \"Corporations Legislation\" annually;",
+                        "CCH: publishes a two-volume \"Australian Corporations and Securities Legislation Pack\" annually. Volume 1 (which is sufficient for this subject) is available for separate purchase."
+                    ],
+                    [
+                        "LexisNexis Butterworths: publishes a single volume \"Australian Corporations Legislation\" annually;",
+                        "LawBook Co (Thomson): publishes a single volume \"Corporations Legislation\" annually;",
+                        "CCH: publishes a two-volume \"Australian Corporations and Securities Legislation Pack\" annually. Volume 1 (which is sufficient for this subject) is available for separate purchase."
+                    ]
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "If required, please contactlaw-admissions@unimelb.edu.aufor subject coordinator approval.",
+                    "If required, please contactlaw-admissions@unimelb.edu.aufor subject coordinator approval."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

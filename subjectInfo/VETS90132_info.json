@@ -1,0 +1,109 @@
+{
+    "subject name": "Veterinary Professional Practice 1",
+    "subject code": "VETS90132",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Veterinary Professional Practice 1 centres on developing the skills and competencies required for veterinary employability. Students will integrate aspects of anatomy, clinical skills and imaging to enable understanding and implementation of the diagnostic process and treatment procedures. Students will also gain and apply an understanding of the essential employability attributes, including developing effective relationships, enhancing procedural and client communication skills, considering financial, ethical and legal aspects of practice, and curating psychological resources including mindfulness and self-compassion. Students will learn about relationship-centred care and will use ethical frameworks to analyse and address professional ethical challenges. Upon completion of this and the subsequent related subject (Veterinary Professional Practice 2), students will be prepared for their transition into work-integrated curricular experiences in the profession (clinical intra- and extra-mural placements)."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate the psychomotor and professional skills required for entry to a clinical teaching environment in order to safely participate in intra- and extramural clinical experiences",
+        "Work collaboratively, communicate effectively, and combine regional and systemic anatomical knowledge with clinical skills in order to apply these to diagnostic, surgical and therapeutic procedures in animals",
+        "Utilise psychological resources to develop and sustain mindfulness and self-compassion, and to understand the difference between well-being and success",
+        "Employ adaptive and professional communication skills to manage a consultation, focusing on appropriate history-taking and empathetic rapport-building with the client",
+        "Use knowledge of ethical decision-making frameworks to address common and important clinical and professional problems"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Satisfactory completion of all subjects at DVM 1 level"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written peer review of two student mock consultations\r\n150 words (each)\r\n300 words (total). 150 words (each). Hurdle requirement:. Students must submit by the due date.",
+            "timing": "Due one week after communications practical",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Transcription of the recording of student's own mock consultation. 750 words (equivalent). Hurdle requirement:. Students must submit by the due date.",
+            "timing": "Due two weeks after communication practical",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Written reflection on student's own mock consultation using peer feedback from two students and transcribed text. 400 words. Hurdle requirement:. Students must achieve a minimum mark of 50% for the written reflection on the mock consultation.",
+            "timing": "Due two weeks after communication practical",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Written examination. 1 hours. Hurdle requirement:. Students must achieve a minimum mark of 50% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "Janine Hofmann and Christina Marth"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "51 hours of lectures, seminars and practical classes"
+                },
+                {
+                    "Total time commitment": "100 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "christina.marth@unimelb.edu.au",
+                    "hofmann.j@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

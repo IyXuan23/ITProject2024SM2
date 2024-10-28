@@ -1,0 +1,125 @@
+{
+    "subject name": "Music Theatre Studio 2",
+    "subject code": "MUST10016",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject progresses from Music Theatre Studio 1 to deepen the knowledge of the core disciplines of acting, singing and dancing. Students will identify through skills-based performances and reflection, students will further develop their knowledge of acting, singing, and dancing."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "identify appropriate technical skills to demonstrate an interpretation of a stimulus;",
+        "demonstrate skills in multiple dance genres and styles within the context of technical execution and in choreography;",
+        "model independence in the ability to musically harmonise, phrase and blend within an ensemble singing context;",
+        "develop techniques in combining acting and singing skills;",
+        "demonstrate a series of creative responses, interpreting stimulus that accurately serves story within an individual and ensemble context;",
+        "reflect on acting, singing and dancing skills at an intermediate level."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MUST10013",
+                    "MUST10014"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MUST10005 Dance Skills 2",
+        "MUST10006 Acting Skills 2",
+        "MUST10007 Voice Skills 2",
+        "MUST10008 Music Theatre Combination Class 1"
+    ],
+    "assessments": [
+        {
+            "description": "Technical Skills Presentation (Acting, MT Dance Technique), accumulative 15-25 minutes solo and group presentation, requiring approximately 40 hours of work to complete. 15-25 minutes",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Skills Presentation (Movement, Spoken Voice), accumulative 15-25 minutes solo and group presentation requiring approximately 40 hours of work to complete. 15-25 minutes",
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Formal Skills Presentation (Acting The Song, Production, One to One Singing, MT Dance Choreography) accumulative 30-40 minutes solo and group presentation requiring approximately 80 hours of work to complete. 30-40 minutes",
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "description": "Reflection report. 1600 words",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum of 75% of all scheduled classes and submit all elements of assessment to be eligible for a pass in this subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Peter Rutherford"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "261 hours, comprising 6.25 hours of Singing (one 45-minute Individual Lesson; one 1.5-hour Large Ensemble class; one 2-hour Acting through Song class; one 2-hour Spoken Voice class), 8 hours of Acting (two 2-hour Acting classes; one 2-hour Movement class;  one 2-hour Text Study class), and 7.5 hours of Dance (two 1.5-hour Ballet classes; two 1.5-hour Jazz classes; one 1.5-hour Production class) per week for 12 weeks."
+                },
+                {
+                    "Total time commitment": "408 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Peter Rutherford:",
+                    ""
+                ],
+                "email": [
+                    "peter.rutherford@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

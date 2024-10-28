@@ -1,0 +1,151 @@
+{
+    "subject name": "Investment Management",
+    "subject code": "FNCE90056",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is designed to equip students with the tools necessary to enable them to make the core investment management decisions that managers face on a daily basis as well as the knowledge as to where they can find the information necessary to apply those tools. This subject is an introduction to investment analysis, with emphasis on equity securities and fixed income securities. The topics covered focus on issues fundamental to financial managers, money managers, risk managers, financial advisors and regulators. These topics include fundamental ideas in asset pricing; modern portfolio theory and its applications; equilibrium theories of asset pricing; portfolio performance evaluation; and key issues in the pricing and portfolio allocation of fixed income assets."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Discuss core concepts in investment management, including risk, return, risk premium and risk aversion;",
+        "Analyse the portfolio selection problem, with emphasis on the mean variance framework;",
+        "Explain the benefits of diversification and the main drivers of those benefits;",
+        "Critically evaluate alternative theories of asset pricing and their application in the valuation of securities;",
+        "Develop techniques to evaluate the performance of portfolio managers;",
+        "Analyse critical issues in the valuation of fixed income securities and the management of fixed income portfolios;",
+        "Critically evaluate the theories of the term structure of interest rates and their application to fixed income portfolio management."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "MC-MGMTAFN Master of Management (Accounting and Finance)",
+                "150pt Program course entry point in the MC-MGMTFIN Master of Management (Finance)"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "FNCE90060"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "10 Weekly Online Quizzes (1% each). 1000 words (equivalent)",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Mid-semester examination. 90 minutes",
+            "timing": "From Week 5 to Week 9",
+            "percentage": "35%"
+        },
+        {
+            "description": "End-of-semester examination.. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "55%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Minsoo Kim"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 3 hour lecture per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Andrea Lu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 3 hour lecture per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

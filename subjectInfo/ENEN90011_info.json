@@ -1,0 +1,134 @@
+{
+    "subject name": "Energy Efficiency Technology",
+    "subject code": "ENEN90011",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "AIMSThis subject explores the scope and methods for improving energy efficiency across a range of sectors. Improving energy efficiency is one of the key responses to increasingly scarce natural resources and problems caused by pollutants arising from energy production and use. A range of energy supply and usage scenarios will be considered including transport, manufacturing, commercial and domestic sectors. Collection of information by auditing and then using this information for planning, demand management and impact assessment will be investigated.Knowledge gained in this subject will allow graduates to practice in the area of energy efficiency. This subject draws on students\u2019 fundamental understanding of engineering efficiency, as well as their ability to use mathematics and statistics to analyse data to inform innovative solutions. The subject complements other subjects offered in the energy theme of the Department such as Energy for Sustainable Development and Sustainable Infrastructure Engineering.INDICATIVE CONTENTAreas of study include: potential for improvements in energy efficiency in petrol and diesel vehicles; energy efficiency technologies for the manufacturing, commercial and domestic sectors; demand side management; integrated resource planning; energy auditing; and economic and environmental impacts.",
+        "These are applied to the following thematic areas;",
+        "Introduction: fundamentals, energy conversion, supply, distribution and utilisation of energy, Indices, indicators and measurements",
+        "Advanced energy systems",
+        "Energy audits",
+        "Manufacturing sector",
+        "Commercial sector (office & retail)",
+        "Residential sector",
+        "Transport sector",
+        "Life cycle energy analysis",
+        "Developing countries & remote areas",
+        "Energy policy and planning"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify the basic issues in energy efficient technologies and their implementation",
+        "Discuss the current possibilities for improving the ratio of energy used per unit of output (energy intensity) in the main sectors of society, i.e. transportation, manufacturing, commercial, domestic, and energy supply industries",
+        "Analyse the social, economic and environmental implications for the adaption of these technologies."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One written examination. Intended Learning Outcomes (ILOs) 1, 2 and 3 are addressed in this examination. 3 hours",
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "One group report 2000 words per student. ILOs 1, 2 and 3 are addressed in this report. 60 hours (of work required)",
+            "timing": "End of semester",
+            "percentage": "35%"
+        },
+        {
+            "description": "One 1000 word per student group report. ILOs 1, 2 and 3 are addressed in this report. 25 hours (of work required)",
+            "timing": "Mid semester",
+            "percentage": "15%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Behzad Rismanchi"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours (Lectures: 2 hours per week; Set task and discussion: 1 hour per week)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Dr Behzad Rismanchi"
+                ],
+                "email": [
+                    "behzad.rismanchi@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject is based on presentations by lecturer and experienced industry professionals who present case studies in their area of expertise. In addition each student prepares and presents group research papers on a topic of their interest selected from an extensive list.INDICATIVE KEY LEARNING RESOURCESJournals:\u2022 Energy conversion and management\u2022 Energy, The International Journal\u2022 Renewable & Sustainable Energy ReviewsCAREERS / INDUSTRY LINKSSustainable Energy Association of Australia (SEA)Guests from industry present case studies."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

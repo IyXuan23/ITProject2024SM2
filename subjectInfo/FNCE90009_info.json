@@ -1,0 +1,94 @@
+{
+    "subject name": "Research Report (Finance)",
+    "subject code": "FNCE90009",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The subject involves the development of students\u2019 skills in accessing large financial databases, computer programming to manipulate and analyse, critical thinking, and writing skills. The required  assignments should demonstrate mastery of the skills of accessing large financial databases, manipulating data and analytical writing."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop a research question to address a financial issue;",
+        "Determine the data necessary data to conduct the research;",
+        "Access and manipulate common financial databases using SAS and R;",
+        "Undertake a research project;",
+        "Effectively communicate the results both orally and in writing"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-COMFIN Master of Commerce (Finance)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "4 programming and database assignments. 2500 words (equivalent)",
+            "timing": "From Week 1 to Week 4",
+            "percentage": "30%"
+        },
+        {
+            "description": "2 x 500 word written assignments. 1000 words",
+            "timing": "From Week 5 to Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Literature review paper (due final exam period). 2000 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Shuang Chen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three hours of lectures and seminars per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

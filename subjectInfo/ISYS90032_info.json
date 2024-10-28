@@ -1,0 +1,151 @@
+{
+    "subject name": "Emerging Technologies and Issues",
+    "subject code": "ISYS90032",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [],
+    "aims": [
+        "As with many other forms of technology, information technologies have lifecycles ranging from initial conception, to possible adoption, and widespread use, to eventual obsolescence.",
+        "This subject will examine emerging information technologies and the issues that relate to them, including: how they evolve and, enter usage, and their likely future effects on people and social structures."
+    ],
+    "indicative content": [
+        "The subject provides an understanding of both technical and managerial issues, as well as strategic implications of emerging technologies and issues. Upon completion of the subject, students should be able to (a) understand key enabling technologies and become an effective participant in technology-enabled business endeavours and initiatives; (b) recognise ways of leveraging the technology to improve intra and inter-organisational processes and enhance a firm\u2019s competitive position; (c) gain skills for building careers and taking advantage of entrepreneurial opportunities through emerging technologies, and (d) understand the factors that influence how relevant an emerging technology will be in the long run."
+    ],
+    "intended learning outcomes": [
+        "Evaluate ways technological innovations emerge, are widely adopted, and are ultimately superseded",
+        "Explain why some technological innovations are more successful than others",
+        "Analyse the factors that drive the adoption of technological innovations by individuals, organisations, and society",
+        "Describe ways of leveraging new technologies to improve intra and inter-organisational processes and enhance a firm's competitive position",
+        "Describe how to take advantage of opportunities through emerging technologies, and explain the factors that influence how relevant an emerging technology will be in the long run"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 50 credit points of study"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the 200pt Program course entry point in the MC-IS Master of Information Systems"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following: 100pt Program course entry point in the MC-IS Master of Information Systems, 150pt Program course entry point in the MC-IS Master of Information Systems"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Group Assessment/Project - One group presentation. Intended Learning Outcomes (ILO's) 1 and 2 are addressed in the group presentation.. 20-30 hours",
+            "timing": "Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Group Assessment/Project - One group based case study (35%) with 3-5 group members, of approximately 4500-5000 words, due mid-semester. ILO's 3 and 4 are addressed in the group based case study.. 35-50 hours",
+            "timing": "Week 10",
+            "percentage": "35%"
+        },
+        {
+            "description": "Discussion forum activities with fortnightly feedback tutorial. ILO's 1 to 3 are addressed in the fortnightly discussion forum activities.. 18-24 hours (of work required)",
+            "timing": "From Week 3 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written take-home examination during exam period. Exam will be comprised of three-five sections with four-six extended answer questions. ILO's 1 to 5 are addressed in the examination.. 15-20 hours. Hurdle requirement:. To pass the subject, students must obtain at least 50% (20/40) in the written take-home examination.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Simon Coghlan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 1-hour lecture per week and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Simon Coghlan"
+                ],
+                "email": [
+                    "simon.coghlan@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Learning and Teaching Methods",
+            "The subject is delivered in 3-hour classes, with each class containing: lectures on theoretical concepts and tutorial work and an interactive debrief on the outcomes of the tutorial work. Outside class students will study theory and cases through reading and continuing their group activities.",
+            "Indicative Key Learning Resources",
+            "A list of key articles will be provided on the LMS. Materials from real-world cases are provided in class.",
+            "Careers/Industry Links",
+            "This subject is relevant to careers as IT analyst and consultant. Students will work on real-world cases of people and organisations trying to extract value from their IT investments. There will be one or two lectures from invited practitioners from industry."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.cis.unimelb.edu.au"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "subject name": "Applications of Genetics and Genomics",
+    "subject code": "GENE20004",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides an introduction to the theory, experimental design and practice of techniques used in molecular biology and genetic analysis. Students work collaboratively to perform a series of laboratory-based practicals to explore fundamental principles in genetics and molecular genetic analysis of microorganisms and higher organisms.  A key component of this subject is the development of analytical skills associated with the interpretation of genetic data and the communication of results."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "describe the theoretical basis of techniques used in molecular biology and genetic analysis;",
+        "perform experiments to investigate gene function, test gene interactions and characterise gene expression;",
+        "analyse and interpret experimental data and apply appropriate statistical analyses to complex datasets",
+        "collate and present data in a scientific format; and",
+        "evaluate and solve molecular and genetics-based problems"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "GENE20001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Participation in pre-workshop preparation by submitting multiple choice/short answer quiz responses (x10), 10 minutes per quiz, weekly throughout semester. 10 minutes (each). Hurdle requirement:. Participation in 80% of preparation activities",
+            "timing": "Throughout the teaching period",
+            "percentage": "0%"
+        },
+        {
+            "description": "Three individual written tasks related to practical material due in week 4, 8 and 12 (10% each). 600 words (each)",
+            "timing": "Weeks 4,8,12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Group Assignment involving the preparation of a poster. 20 hours (of work required)",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "A 2-hour written exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "An individual in-class or online multiple-choice/short-answer test. 50 minutes (total)",
+            "timing": "Week 6",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "John Golz"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of workshops (1 x two hour workshop per week); 36 hours of practical classes (1 x three hour practical class per week); 24 hours of online work (two hours per week) including preparation for workshops, practical classes, independent learning tasks and non-assessed quizzes."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "jgolz@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course.This subject is available for credit in the Bachelor of Biomedicine.Both GENE20001 Foundations of Genetics and Genomics and either GENE20004 Applications of Genetics and Genomics or BIOM20001 Molecular and Cellular Biomedicine are prerequisites for third year level genetics subjects."
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

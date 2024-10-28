@@ -1,0 +1,158 @@
+{
+    "subject name": "Composition 6",
+    "subject code": "MUSI30214",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides a capstone for the undergraduate composition sequence. Students bring together the skills acquired across the preceding semesters in a folio of original music (scores and recordings) including works for large ensembles, and for electronic media. Assessment also includes a concert presentation of their music in collaboration with their peers."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "demonstrate advanced development of individual musical ideas and working methods;",
+        "communicate with performers through elegantly presented music notation;",
+        "apply new ideas to the creation of musical works through practice and experiment;",
+        "write idiomatically and creatively for large ensembles;",
+        "use electronic music hardware and software fluently and creatively;",
+        "work collaboratively with performers and peers on the curation and presentation of their music;",
+        "critique and respond creatively to recent developments in musical composition, both aesthetic and technical;",
+        "contextualise their own compositional practice through awareness of contemporary music repertoire."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MUSI30213"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "10-minute presentation of original music in concert. 400 words (equivalent)",
+            "timing": "Late in the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "20-minute folio of compositions. 2800 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        },
+        {
+            "description": "2 reviews of new music performances (200 words each). 400 words (total)",
+            "timing": "During the examination period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Composition process journal with reflection. 400 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Miriama Young"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "34 hours, comprising eight 45-minute lessons, four 1-hour group lessons, and twelve 2-hour seminars per semester."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Miriama Young"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "34 hours, comprising eight 45-minute lessons, four 1-hour group lessons, and twelve 2-hour seminars per semester."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Miriama Young:"
+                ],
+                "email": [
+                    "miriama.young@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Miriama Young:",
+                    ""
+                ],
+                "email": [
+                    "miriama.young@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "major name": "Finance",
+    "overview": [
+        "The Finance major is the study of money management. Finance professionals manage assets to create wealth for investors or companies. When dealing with investments, it's about considering the time between investment and future payoff - and the risks attached to these future payoffs. The finance discipline examines how these organisations raise funds to implement investment strategies, and how they allocate these funds to a variety of investment opportunities. This involves the application of economic analysis, accounting concepts and quantitative methods to solve financial problems, assess risks and make financial decisions.",
+        "The discipline of finance covers three key areas:",
+        [
+            "Capital markets and financial institutions refers to the operations and decisions of banks and other financial institutions, such as managed funds, and includes the optimal design of securities.",
+            "Investments and derivative securities involves financial decision making by investors; i.e., the valuation and risk characteristics of securities; the optimal construction and management of investment portfolios; and the role of financial markets in trading these securities.",
+            "Corporate finance consists of financial decision making by companies, project evaluation, capital structure (the mix of debt and equity to fund investment projects), and payout decisions (how much profit should be returned to shareholders)."
+        ],
+        "These \u2018core\u2019 subject areas may be supplemented with elective subjects in financial planning (personal finance), banking, international finance, entrepreneurial finance, ethics in finance and FinTech. Studying finance will prepare you for a career in the finance sector and as finance specialists in industry and government.",
+        "The University of Melbourne is a Program Partner of the CFA Institute, which awards the Chartered Financial Analyst (CFA) designation. Recognition as a CFA Program Partner means the Commerce Finance major is tied to professional practice and helps prepare you for the CFA exams."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "37.5 credit points",
+            "To obtain a major in Finance students need to complete:",
+            [
+                "12.5 credit points of Capstone subjects",
+                "12.5 credit points of Level 3 Core major subjects",
+                "12.5 credit points of Level 3 Finance electives"
+            ],
+            "Notes:",
+            [
+                "Students wishing to undertake Honours in Finance must include ECOM30002 Econometrics 2 in their study plan."
+            ]
+        ],
+        "Subject lists": [],
+        "Capstone Subject": [
+            {
+                "FNCE30001": "Investments Credits"
+            }
+        ],
+        "Level 3 major Core subjects": [
+            {
+                "FNCE30007": "Derivative Securities Credits"
+            }
+        ],
+        "Level 3 Finance electives": [
+            {
+                "FNCE30003": "International Finance Credits",
+                "FNCE30006": "Entrepreneurial Finance Credits",
+                "FNCE30008": "Street Finance Credits",
+                "FNCE30009": "Ethics in Finance Credits",
+                "FNCE30010": "Algorithmic Trading Credits",
+                "FNCE30011": "Essentials of Corporate Valuation Credits",
+                "FNCE30012": "Foundations of FinTech Credits",
+                "FNCE30013": "Essentials of Sustainable Investing Credits"
+            }
+        ]
+    }
+}

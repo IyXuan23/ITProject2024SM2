@@ -1,0 +1,352 @@
+{
+    "subject name": "Biomedical Science Research Project",
+    "subject code": "BIOM30003",
+    "subject availability": [
+        "Summer Term - On Campus",
+        "Summer Term - Off Campus",
+        "Semester 1 (Early-Start) - On Campus",
+        "Semester 1 (Early-Start) - Off Campus",
+        "Semester 2 (Early-Start) - Off Campus",
+        "Semester 2 (Early-Start) - On Campus"
+    ],
+    "overview": [
+        "In this subject students participate in an individual program of supervised research within the School of Biomedical Sciences, or elsewhere within the faculty, at a research institute or overseas institution in which the student contributes to the design of a research project, in consultation with a supervisor\u037e conducts the research\u037e and presents the findings of the project. The project may be self contained or form a component of a larger research program. Each student will receive feedback on their progress through ongoing consultation with their supervisor.",
+        "Where a student is conducting the research external to the School of Biomedical Sciences, a School of Biomedical Sciences academic staff member who has allied research expertise co-supervises the project and coordinates the assessment requirements. Detailed assessment requirements, including due dates of individual assessment items, are determined through consultation between the supervisor, the co-supervisor and the Biomedical Science Research Project Coordinator(s) in the relevant department.",
+        "The subject may incur additional costs such as travel and accommodation. Students may be eligible for University funding. Where the host institution is located in the IndoPacific, Australian citizens for whom this subject is part of a full time semester of study may consider applications through the New Colombo Plan scholarship funding."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Locate and synthesise information available in scientific (and in some cases other) literature in order to establish the need for, and potential scope and context of, a research project",
+        "Design a research project to meet particular research outcome(s) or to answer particular research question(s)",
+        "Develop creative ways of solving unfamiliar problems by devising a methodological approach to address the research question being raised",
+        "Collect and analyse data (qualitative and quantitative) including appropriate statistical analyses of the research results",
+        "Communicate the research results in written form, requiring critical analysis, synthesis and organisation of knowledge, and the construction of a rational and lucid scientific argument",
+        "Communicate the research results in another form \u2013 either through an oral presentation or poster presentation",
+        "Manage the time allocated to completing specific tasks",
+        "Depending on the project, students may also find they achieve other outcomes such as learning how to take account of ethical considerations in designing a project."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Approval of the relevant Department Coordinator."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Excellent results in a discipline appropriate to the project (normally an average of at least 75% in relevant 2nd and 3rd year subjects)",
+                "Department specific details are listed in the link below:",
+                "Link"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "PATH30004"
+    ],
+    "assessments": [
+        {
+            "description": "written report. 3000 words",
+            "timing": "End of semester",
+            "percentage": "60%"
+        },
+        {
+            "description": "oral report or poster presentation requiring an equivalent amount of preparation. 15 minutes",
+            "timing": "Late in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "supervisor assessment of research competence, based on student's contributions to project design and completion (5% around mid semester, 5% at the end of semester)",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term - On Campus": [
+                {
+                    "Principal coordinator": "Laura Edgington-Mitchell"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor but an overall weekly commitment of 10 hr per week is expected."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "4 December 2023 to 16 February 2024"
+                },
+                {
+                    "Last self-enrol date": "19 December 2023"
+                },
+                {
+                    "Census date": "5 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "23 February 2024"
+                }
+            ]
+        },
+        {
+            "Summer Term - Off Campus": [
+                {
+                    "Principal coordinator": "Laura Edgington-Mitchell"
+                },
+                {
+                    "Mode of delivery": "Off Campus"
+                },
+                {
+                    "Contact hours": "Distribution of time betwen specific tasks will be decided in negotiation with the supervisor, but an overall weekly commitment for 10 hrs per week is expected."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "4 December 2023 to 16 February 2024"
+                },
+                {
+                    "Last self-enrol date": "19 December 2023"
+                },
+                {
+                    "Census date": "5 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "23 February 2024"
+                }
+            ]
+        },
+        {
+            "Semester 1 (Early-Start) - On Campus": [
+                {
+                    "Coordinator": "James Ziogas"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor but an overall weekly commitment of 10 hr per week is expected."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "5 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "16 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 1 (Early-Start) - Off Campus": [
+                {
+                    "Coordinator": "James Ziogas"
+                },
+                {
+                    "Mode of delivery": "Off Campus"
+                },
+                {
+                    "Contact hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor, but an overall weekly commitment of 10hrs is expected."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "5 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "16 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start) - Off Campus": [
+                {
+                    "Coordinator": "James Ziogas"
+                },
+                {
+                    "Mode of delivery": "Off Campus"
+                },
+                {
+                    "Contact hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor but an overall weekly commitment of 10 hr per week is expected."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "12 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start) - On Campus": [
+                {
+                    "Coordinator": "James Ziogas"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Distribution of time between specific tasks will be decided in negotiation with the supervisor but an overall weekly commitment of 10 hr per week is expected."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "1 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "12 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [],
+                "email": [
+                    "laura.edgingtonmitchell@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        },
+        {
+            "Summer Term": {
+                "name": [],
+                "email": [
+                    "laura.edgingtonmitchell@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        },
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "jamesz@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        },
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Subject Coordinator"
+                ],
+                "email": [
+                    "jamesz@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "jamesz@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "jamesz@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This undergraduate research project subject is available to BBiomed and BSc students who are interested in undertaking a research project in the following MDHS disciplines: Anatomy, Biochemistry & Molecular Biology, Cell Biology, Immunology, Microbiology, Neuroscience, Pathology, Pharmacology and Physiology.",
+            "Enrolment in the subject is contingent on the availability of a supervisor. A suitable supervisor may not be available in any particular semester.",
+            "Students wishing to be considered for this subject must follow the process outlined on theBIOM30003 information page."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Students applying through CAP will need to submit the subject application form (available on below web link) with their online CAP application.Different application dates may apply depending on which department you wish to complete your project in.For department contacts and application details, please see the Biomedical Science webpage -http://biomedicalsciences.unimelb.edu.au/study/current-student-information/biom30003-biomedical-science-research-project.",
+                    "Students applying through CAP will need to submit the subject application form (available on below web link) with their online CAP application.",
+                    "Different application dates may apply depending on which department you wish to complete your project in.",
+                    "For department contacts and application details, please see the Biomedical Science webpage -http://biomedicalsciences.unimelb.edu.au/study/current-student-information/biom30003-biomedical-science-research-project."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

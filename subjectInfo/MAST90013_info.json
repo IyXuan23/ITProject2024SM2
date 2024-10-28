@@ -1,0 +1,116 @@
+{
+    "subject name": "Network Optimisation",
+    "subject code": "MAST90013",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Many practical problems in management, operations research, telecommunication and computer networking can be modelled as optimisation problems on networks. Here the underlying structure is a graph. This subject is an introduction to optimisation problems on networks with a focus on theoretical results and efficient algorithms. It covers classical problems that can be solved in polynomial time, such as shortest paths, maximum matchings, maximum flows, and minimum cost flows. Other topics include complexity and NP-completeness, matroids and greedy algorithms, approximation algorithms, multicommodity flows, and network design. This course is beneficial for all students of discrete mathematics, operations research, and computer science."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "be able to understand aspects of network optimisation problems and the methodologies to solve them;",
+        "develop the abilities needed to design combinatorial algorithms for solving other network problems not covered in the subject;",
+        "have the ability to pursue further studies in this and related areas."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST30011"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Or equivalent"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Up to 50 pages of written assignments (two assignments worth 15% each, due mid and late in semester). 50 pages",
+            "timing": "Second half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Mark Fackrell"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "fackrell@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Lecture notes prepared by Dr Sanming Zhou, and the textbook by B. Korte and J. Vygen, Combinatorial Optimiation: Theory and Algorithms. 2nd Edition, Springer, Berlin, 2002"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "TBA"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "major name": "Clinical Pathology",
+    "overview": [
+        "The Pathology Honours program in the Department of Clinical Pathology provides an introduction to the challenging area of investigation of disease at the cellular and molecular level. Students will undertake a full-time research project based in a laboratory within the Department or at one of our affiliated institutions. A student undertaking Honours in the Department will have a strong interest in investigating and understanding the mechanisms of disease. Most students begin their studies in the start-year entry (February), although mid-year entry (August) is also a possibility. The course is only available full time.",
+        "Admission requirements",
+        "In addition to satisfying the Bachelor of Science (Degree with Honours) entry requirements, students are required to have completed stream specific prerequisites. Details of stream specific prerequisites can be found at the Bachelor of Science (Degree with Honours) entry and participation requirements page."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "The Honours program consists of 100 credit points completed over 12 months full time (or part time equivalent) comprising of two (2) Advanced Coursework subjects and a Research Project.",
+            "To be awarded Honours with a specialisation in Pathology, students must successfully complete the following:",
+            [
+                "BIOM40001 - Introduction to Biomedical Research (12.5 points)",
+                "PATH40010 - Exploring Research in Clinical Pathology (12.5 points)",
+                "PATH40006 and PATH40007 OR PATH40008 and PATH40009 - Clinical Path Research Project (75 points)"
+            ],
+            "There are no elective subjects in this Honours program."
+        ],
+        "Subject Options": [],
+        "Coursework Component": [
+            "Students must complete 25 credit points of advanced coursework subjects. This is achieved by enrolling in the following subjects in the appropriate semesters.",
+            {
+                "BIOM40001": "Introduction To Biomedical Research Credits",
+                "PATH40010": "Exploring Research in Clinical Pathology Credits"
+            }
+        ],
+        "Research Component": [
+            "Students must complete a total of 75 credit points of research across the duration of the Honours program. This is achieved by enrolling in a combination of the following subjects in the appropriate semesters.",
+            "For students starting inFebruary (start-year intake)will complete:",
+            {
+                "PATH40006": "Clinical Path Research Project Part 1 Credits",
+                "PATH40007": "Clinical Path Research Project Part 2 Credits"
+            },
+            "For students starting inAugust (mid-year intake)will complete:",
+            {
+                "PATH40008": "Clinical Path Research Project Part 1 Credits",
+                "PATH40009": "Clinical Path Research Project Part 2 Credits"
+            }
+        ],
+        "Links": [
+            "https://medicine.unimelb.edu.au/school-structure/clinical-pathology/study/honours-and-masters"
+        ]
+    }
+}

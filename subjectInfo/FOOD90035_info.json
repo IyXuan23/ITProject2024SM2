@@ -1,0 +1,145 @@
+{
+    "subject name": "Plant Food Products",
+    "subject code": "FOOD90035",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Plant-based foods are the most important source of energy and micronutrients in the human diet. Over 200 species of plant are farmed and are processed to varying degrees for human consumption and Australian agriculture has a tradition of thousands more.",
+        "The challenge is to meet the food demands of an increasing human population and to maintain the nutritional composition of raw food materials. Thus, the need for food professionals who understand the science behind the sustainable processing and supply of food along with the right balance of nutrition and food safety has never been greater.",
+        "This subject will provide students with an advanced understanding of the processing and preservation of grain, fruit and vegetable produce into food products through an integrated approach of science and technology. Students will study and connect with the origin of plant-based food produce, the original chemical and nutritional composition, food technology, changes in the nutritional profile during processing and preservation.",
+        "Students will understand the  connection between food quality and processing; the science behind processing and the quality maintenance of the processed products. Students will develop skills in critical-thinking, analysing and applying interactions of chemical compositions of plant produce and applied technology to achieve desired processed food products; industry visits; discussion; written review and examination.",
+        "The subject will include topics such as:",
+        "The variety of plant-based produce",
+        "the chemical and nutritional composition of plant-based produce",
+        "Pre-processing handling of plant produce",
+        "Cereal and legumes processing technology",
+        "Fruit and vegetable processing technology",
+        "Quality assurance"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Interpret the interactions of ingredients of plant-based produce and their functional role during processing",
+        "Describe how the quality of plant food products is assured through the food processing chain",
+        "Interpret the demand of certain types of processed food products based on the production of food products and ingredients of plant origin with technological advancement to the future",
+        "Perform experiments to demonstrate how composition and processing techniques affect the structure and quality of food"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "AGRI90019 Fruit and Vegetable Technology",
+        "FOOD90009 Cereal, Legume and Oilseed Technology"
+    ],
+    "assessments": [
+        {
+            "description": "Written review. 1500 words",
+            "timing": "Week 4",
+            "percentage": "15%"
+        },
+        {
+            "description": "Practical report. 1500 words",
+            "timing": "Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "Mid semester test. 1 hours",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum 90% of scheduled workshops/practical classes",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Laboratory operations flow chart to be written before practical class",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Kate Howell"
+                },
+                {
+                    "Coordinator": "Sophie Selby-Pham"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours - 33 hours lectures, an industry tour of three hours, and 12 hours of practical activities"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "khowell@unimelb.edu.au",
+                    "s.selby@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

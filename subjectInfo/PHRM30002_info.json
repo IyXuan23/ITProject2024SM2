@@ -1,0 +1,165 @@
+{
+    "subject name": "Drugs Affecting the Nervous System",
+    "subject code": "PHRM30002",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The working of the brain and nervous system is an important frontier of modern medicine and nerves are the target for many important drugs. This subject will address how drugs modulate the processes of neuronal communication and survival in the context of the management of mood and emotional disorders, addictive behaviours, neuro-degenerative diseases, pain and epilepsy. This subject will also discuss strategies for the development of future therapeutics. Students will gain an appreciation of how a detailed understanding of pathophysiological processes is important for the rational development of new therapeutics."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate a solid understanding of the nature of, and drug treatments for, a range of central nervous system diseases",
+        "Discuss the nature of research into central nervous system disorders and of the therapeutic and the undesirable actions of key therapeutic and recreational drugs",
+        "Outline, using examples, how knowledge of pathophysiological processes is important for rational drug development",
+        "Integrate key pharmacological and other medical research principles as they relate to neuropharmacology",
+        "Critically examine, synthesise and evaluate knowledge pertaining to drugs",
+        "Employ skills in collaborative learning"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHRM20001"
+                ],
+                [
+                    "BIOM20002"
+                ],
+                "Breadth students:"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "BSc students:",
+                "BBiomed students:",
+                "Students wishing to undertake this subject as breadth will need the approval of the subject co-ordinator."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "534-302 Neuropharmacology"
+    ],
+    "assessments": [
+        {
+            "description": "3  multi-choice online quizzes.  Quizzes held in weeks 3-4; 6-8; 9-11. 20 minutes (each)",
+            "timing": "Throughout the semester",
+            "percentage": "9%"
+        },
+        {
+            "description": "Written assignment. 300 words",
+            "timing": "From Week 8 to Week 10",
+            "percentage": "6%"
+        },
+        {
+            "description": "2 mid semester tests. Tests held in Weeks 5-7; 9-11. 30 minutes",
+            "timing": "Mid semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "55%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Peter Crack"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x one hour lectures per week (total contact hours: 36)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Subject Coordinator"
+                ],
+                "email": [
+                    "pcrack@unimelb.edu.au",
+                    "robyn.brown@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Nestler, Hymen & Malenka, Molecular Neuropharmacology McGraw Hill.",
+                    "Golan et al., Principles of Pharmacology, 3rd Edition. Lippincott Williams and Wilkins."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available to students enrolled in the BSc, Biomedicine degree."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,191 @@
+{
+    "subject name": "Intermediate Microeconomics",
+    "subject code": "ECON20002",
+    "subject availability": [
+        "Summer Term",
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject examines the development of the microeconomic theory of the behaviour of economic agents and how the behaviour of economic agents and government influence the efficiency of the economy. Topics include perfect competition, general equilibrium, market power, intertemporal decision making, decision making under uncertainty and imperfect information."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the core microeconomic theories of the consumer and the firm;",
+        "Identify the usefulness and limitations of these theories;",
+        "Apply microeconomic theories to economic problems faced by business, government and other decision makers under different assumptions about market structure and under different assumptions about available information;",
+        "Critically evaluate the role of markets and governments in solving the economic problems facing societies;",
+        "Apply economic tools to the analysis and solution of selected decision problems facing businesses; and",
+        "Synthesise theory and practice in the context of selected public policy issues."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ECON10004"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Lecture participation and activities",
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "description": "Tutorial preparation",
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "description": "Weekly online quizzes. 1000 words (total)",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Mid-semester Test. 1 hours",
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester Examination. 2 hours. Hurdle requirement:. To pass this subject students must pass the end of semester examination.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Principal coordinator": "Svetlana Danilkina"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 2-hour lectures and two 1-hour tutorials per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 16 February 2024"
+                },
+                {
+                    "Last self-enrol date": "11 January 2024"
+                },
+                {
+                    "Census date": "19 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "24 February 2024"
+                }
+            ]
+        },
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Joshua Miller"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [
+                    "Svetlana Danilkina:"
+                ],
+                "email": [
+                    "sdanilki@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 1": {
+                "name": [
+                    "Joshua Miller:"
+                ],
+                "email": [
+                    "joshua.miller@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

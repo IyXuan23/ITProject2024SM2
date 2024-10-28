@@ -1,0 +1,46 @@
+{
+    "major name": "Ecology and Evolutionary Biology",
+    "overview": [
+        "The Ecology and Evolutionary Biology major will provide the springboard for students entering careers or research in the following areas: Ecology, Conservation Biology, Evolutionary Biology, Systematics and Biodiversity, and Environmental Consulting. Graduates will be prepared for these pathways by developing skills in survey, experimentation and quantitative modelling of ecological and evolutionary processes.  This prepares students to make contributions in research, education, or in consulting roles in natural resources management and environmental consulting industries.",
+        "This major will integrate knowledge from a range of disciplines from genetics through organismal biology and ecosystem science.  Students will draw on this background and use skills in sampling and data analysis to solve current problems in evolution, ecology and biodiversity. Students will gain experience preparing them for the workplace by participating in group research projects and working groups."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "Completion of:",
+            {
+                "BOTA30002": "Plant Evolution Credits",
+                "BOTA30006": "Field Botany Credits",
+                "BOTA30004": "Vegetation Management and Conservation Credits",
+                "ECOL30005": "Applied Ecology Credits",
+                "ECOL30007": "Marine Biodiversity and Biogeography Credits",
+                "EVSC30006": "Ecology of Urban Landscapes Credits",
+                "GENE30001": "Evolutionary Genetics and Genomics Credits",
+                "SCIE30001": "Science Research Project Credits",
+                "ZOOL30004": "Evolutionary Applications Credits",
+                "ZOOL30006": "Animal Behaviour Credits",
+                "ZOOL30007": "Experimental Animal Behaviour Credits",
+                "ZOOL30009": "Field Ecology Credits",
+                "ECOL30006": "Ecology in Changing Environments Credits"
+            },
+            "Including:",
+            {
+                "ECOL30005": "Applied Ecology Credits",
+                "ECOL30006": "Ecology in Changing Environments Credits"
+            },
+            "AND",
+            {
+                "GENE30001": "Evolutionary Genetics and Genomics Credits",
+                "ZOOL30004": "Evolutionary Applications Credits"
+            },
+            "AND",
+            {
+                "ZOOL30007": "Experimental Animal Behaviour Credits",
+                "ZOOL30009": "Field Ecology Credits",
+                "SCIE30001": "Science Research Project Credits"
+            },
+            "Students who require ZOOL30009 in order to complete the major in Ecology and Evolutionary Biology, but who are experiencing financial difficulty should contact the subject coordinator to enquire about the possibility of scholarship support."
+        ]
+    }
+}

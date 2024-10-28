@@ -1,0 +1,86 @@
+{
+    "Course name": "Graduate Diploma in Perioperative Medicine",
+    "Course code": "GD-PERIMED",
+    "Overview text": [
+        "The Graduate Diploma of Perioperative Medicine is a stacked program that will teach multiple uses of clinical ultrasound which will be integrated with medical knowledge of managing patients in the perioperative environment. The first half of the program is comprised of the Graduate Certificate of Clinical Ultrasound. The second half of the program integrates this knowledge of clinical ultrasound into the perioperative setting. It critically evaluates current medical knowledge and clinical applications of ultrasound specific to perioperative medicine, in particular patient management prior to surgery, enhanced recovery after surgery pathways, diagnosis and management of perioperative complications, and patient centred quality of recovery, patient safety and team leadership.",
+        "Last updated: 8 February 2024"
+    ],
+    "Overview table": {
+        "Award title": "Graduate Diploma in Perioperative Medicine",
+        "Year & campus": "2024\u2014 Parkville",
+        "Fees information": "Subject EFTSL, level, discipline and census date",
+        "Study level & type": "Graduate Coursework",
+        "AQFlevel": "8",
+        "Credit points": "100 credit points",
+        "Duration": "12 months full-time or 24 months part-time"
+    },
+    "Entry and participation requirements": {
+        "Entry requirements": [
+            "1. In order to be considered for entry, applicants must have completed:",
+            "-A Bachelor of Medicine/Bachelor of Surgery (MBBS) or equivalent",
+            "Meeting these requirements does not guarantee selection.",
+            "2. In ranking applications, the Selection Committee will consider:",
+            "-Post vocational training achievements relevant to Perioperative Medicine",
+            "3. The Selection Committee may seek further information to clarify any aspect of an application inaccordance with the Academic Board rules on the use of selection instruments.",
+            "4. Applicants are required to satisfy the university\u2019s English language requirements for graduatecourses. For those applicants seeking to meet these requirements by one of the standard testsapproved by the Academic Board, performance band 6.5 is required."
+        ],
+        "Inherent requirements (core participation requirements)": [
+            "Completion of all tutorials and case studies and assessments. In subject 4 for the Diploma level there is additional requirement to maintain a log book of 50 cases of clinical activity."
+        ]
+    },
+    "Attribute, outcomes and skills": {},
+    "Course Structure": {
+        "Course structure": {
+            "overview": [
+                "The course will consist of two sets of subjects both of which have as their focus the use of clinical ultrasound in the perioperative period. The first set of subjects relate to Clinical Ultrasound (50 points). The second set consists of four subjects related specifically to medical management and the role of clinical ultrasound in the perioperative environment (50 points).",
+                "In order to progress to the second stack of subjects, a participant must have successfully completed 50 credit points from this first set of Clinical Ultrasound subjects. Successful completion of this part of the program might lead to the award of Graduate Certificate of Clinical Ultrasound as an exit award only."
+            ]
+        },
+        "Subject options": {
+            "overview": [],
+            "Year 1 or Semester 1": {
+                "overview": [
+                    "(50 credit points)"
+                ],
+                "Core Subject": {
+                    "overview": [
+                        [
+                            "MEDI90049"
+                        ]
+                    ]
+                },
+                "Elective Subjects": {
+                    "overview": [
+                        "3 subjects (37.5 credit points) from the following:",
+                        [
+                            "MEDI90050",
+                            "MEDI90051",
+                            "MEDI90054",
+                            "MEDI90100",
+                            "MEDI90101",
+                            "MEDI90102"
+                        ]
+                    ]
+                }
+            },
+            "Year 2 or Semester 2": {
+                "overview": [
+                    "(50 credit points)",
+                    "The second set consists of the four subjects all of which must be successfully completed for the award of the Graduate Diploma."
+                ],
+                "Core Subjects": {
+                    "overview": [
+                        [
+                            "MEDI90103",
+                            "MEDI90104",
+                            "MEDI90105",
+                            "MEDI90106"
+                        ]
+                    ]
+                }
+            }
+        }
+    },
+    "Majors, minors and specialisations": {},
+    "Further Study": []
+}

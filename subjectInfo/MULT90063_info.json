@@ -1,0 +1,106 @@
+{
+    "subject name": "Introduction to Quantum Computing",
+    "subject code": "MULT90063",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject will introduce students to the world of quantum information technology, focusing on the fast developing area of quantum computing. The subject will cover basic principles of quantum logic operations in both digital and analogue approaches to quantum processors, through to quantum error correction and the implementation of quantum algorithms for real-world problems. In lab-based classes students will learn to use state-of-the-art quantum computer programing and simulation environments to complete a range of projects."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Have acquired a basic knowledge of quantum computers and quantum algorithms.",
+        "Have developed a detailed knowledge of quantum logic operations in both digital and analogue approaches to quantum computing.",
+        "Have developed detailed knowledge and practical experience in programming quantum computers to perform high-level algorithmic tasks.",
+        "Understood and be able to communicate advances in quantum computer technology."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST10006",
+                    "MAST10007",
+                    "MAST10008",
+                    "MAST10009",
+                    "MAST10021",
+                    "MAST10022"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignnment 1. 1500 words",
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "description": "Assignment 2. 1500 words",
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinators": "Lloyd Hollenberg and Lucas Fabian Hackl"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total of 60 contact hours:  2 x 1 lectures, and 1 x 3 hour computer laboratory session per week"
+                },
+                {
+                    "Total time commitment": "150 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "An Introduction to Quantum Computing 1st Edition",
+                    "by Phillip Kaye, Raymond Laflamme, and Michele Mosca",
+                    "Quantum Computing: A Gentle Introduction",
+                    "by Eleanor G. Rieffel and Wolfgang H. Polak"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

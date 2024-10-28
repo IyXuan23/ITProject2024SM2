@@ -1,0 +1,122 @@
+{
+    "subject name": "Soil Science and Management",
+    "subject code": "AGRI90066",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject will examine the major current issues in the management of soils under various land uses in Australia. The dynamic nature of soils will be explored through study of the chemical, physical and biological processes in the soil environment, particularly those which impact directly on plant growth. The subject should develop an understanding of how soils can be managed to optimise plant growth and minimise adverse effects on the environment and present practical solutions to soil management."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Recognise the major issues affecting the sustainable management of soils under various land uses in Australia",
+        "Appreciate the dynamic nature of soils and apply practical solutions to soil management problems",
+        "Understand the physical, chemical and biological processes that control nutrient and contaminant availability in soils",
+        "Understand the role of soil/agriculture in mitigation greenhouse gas emissions",
+        "Be familiar with the principles underlying the analysis of soils and plants for assessing soil nutrient availability",
+        "Understand the principles used in soil survey and conduct a basic land capability assessment"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into an honours or postgraduate degree."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Online test due approximately week 4. 1 hours",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment associated with land capability, due approximately week 9. 1000 words",
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Class presentation. 10 minutes",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Tony Weatherley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "up to 48 hours of lectures, tutorials, praticals and workshops\r\nOne whole day field trip"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "anthony@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Not Available"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

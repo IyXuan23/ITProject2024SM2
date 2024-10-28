@@ -1,0 +1,34 @@
+{
+    "major name": "Geology",
+    "overview": [
+        "Please note that this major is no longer being offered to students from 2024 onwards. Students who commenced this major prior to 2024 and are planning to complete the Geology major may continue to do so. Students interested in geology are encouraged to explore the Geoscience major.",
+        "A Geology major will provide a breadth of training for students entering careers or research in any area in which an understanding of how the planet functions is required. This includes fundamental research into geological processes, including palaeoclimate change, geodynamics, ore deposit formation, and the environment.",
+        "Careers in geology can be wide-ranging and include environmental consulting, environmental management, government, minerals exploration and the energy industry. Graduates will be prepared for these pathways by having developed skills in the acquisition and interpretation of geological information. Such skills are crucial to make contributions in laboratories, in consulting roles in industry, or in policy/decision making in management.",
+        "This major will integrate knowledge from a range of disciplines from field-based studies to more theoretical aspects of rocks, minerals and their behaviour during Earth processes. Students will complete a sequence of specialist subjects as well as integrated subjects in which they develop an understanding of how these may be applied to solve outstanding questions about how the Earth works, including the competing problems of resource consumption (water, minerals, energy) and the environment. The Geology major capstone subject, Earth\u2019s Resources for a Sustainable Future, is an advanced synthesis of a broad range of sustainability issues that impact on society and its relationship with the finite resources provided by our planet.",
+        "Students will gain experience preparing them for the workplace by participating in hands-on project work that requires careful time management and the clear communication of results."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "Completion of:"
+        ],
+        "Notes": [
+            "The topic of the Science Research Project must be related to geology."
+        ],
+        "": [
+            {
+                "ERTH30002": "Applied Geoscience Credits"
+            },
+            "AND",
+            {
+                "GEOL30002": "Tectonics and Geophysics Credits",
+                "GEOL30003": "Sedimentary Geology and Hydrogeology Credits",
+                "GEOL30004": "Geochemistry Credits",
+                "GEOL30007": "Geobiology Credits",
+                "GEOL30009": "Field Geology Credits",
+                "SCIE30001": "Science Research Project Credits"
+            }
+        ]
+    }
+}

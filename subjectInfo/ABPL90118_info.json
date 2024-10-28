@@ -1,0 +1,201 @@
+{
+    "subject name": "Applied Architectural Technology",
+    "subject code": "ABPL90118",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject focuses on the architectural design development of complex building types (e.g. highly bespoke high-rise, large commercial or institutional buildings), which generally are not studied in detail at undergraduate level. Students explore and translate their own complex design propositions into an architectural proposal that considers:",
+        "Economic feasibility;",
+        "Programme-based technical requirements;",
+        "Regulatory inputs to architectural design;",
+        "Assembly of structural construction systems;",
+        "Environmental design;",
+        "Building enclosure and materiality;",
+        "Current industry practice and innovation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Communicate architectural ideas through documentation of large and complex projects and procurement methods.",
+        "Apply knowledge of construction technology and environmental sciences in the development and coordination of architectural design proposals.",
+        "Demonstrate understanding of building materials, structural and construction systems, including their terminology and the role of consultants and contractors.",
+        "Demonstrate an appreciation of relevant regulatory principles and controls and their material implications on architectural design and project documentation.",
+        "Resolve and present detailed design solutions with the appropriate selection and consideration for quality and purpose of building systems, materials, components, and finishes."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-ARCH2Y Master of Architecture",
+                "200pt Program course entry point in the MC-ARCH Master of Architecture"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ABPL90286",
+                    "ABPL90287"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-ARCHENG Master of Architectural Engineering",
+                "MC-ARCHUCH Master of Architecture/Master of Urban Cultural Heritage",
+                "MC-ARCHCM Master of Architecture/Master of Construction Management",
+                "MC-ARCPROP Master of Architecture/Master of Property",
+                "MC-ARCH3Y Master of Architecture",
+                "300pt Program course entry point in the MC-ARCH Master of Architecture"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Group Project Submission 1 (3 students per group) | 3x A1 sheets. 500 words (equivalent)",
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group Project Submission 2 (3 students per group), 3x A1 sheets. 500 words (equivalent)",
+            "timing": "Week 5",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group Project Submission 3 (3 students per group),  3x A1 sheets + Model. 1000 words (equivalent)",
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Individual Project Detailing ,  3x A1 sheets. 1500 words (equivalent). Hurdle requirement:. A grade of 40% or higher is required in the Individual Project Detailing, in order to pass the subject overall.",
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Quiz, Online. 750  words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Individual Project Detailing (Final), 2x A1 sheets. 750 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "15%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Giorgio Marfella"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "12 hours of weekly lecture/seminars ( 1 hour per week) , \tPre-recorded video-lectures: 12 hours, delivered via LMS,  and 1X2 hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Giorgio Marfella"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "12 hours of weekly lecture/seminars ( 1 hour per week) , \tPre-recorded video-lectures: 12 hours, delivered via LMS,  and 1X2 hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "giorgio.marfella@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "giorgio.marfella@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Lecture slides complemented by a range of learning resources available on the Learning Management System (LMS)."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Teaching methods:",
+            "Lectures, face to face and pre-recorded video-tutorials supported by practical work handouts and guidelines provided via LMS;Tutorials run by active practitioners, focused on large and complex design project reviews and feedback with emphasis on documentation, regulatory, technical, and design aspects."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

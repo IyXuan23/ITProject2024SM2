@@ -1,0 +1,135 @@
+{
+    "subject name": "Microprocessor Design Clinic",
+    "subject code": "ELEN90093",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Students in this subject will be introduced to computer architectures, microprocessors, microcontrollers, operating systems, compilers and software design. The proposed course will cover a broad range of topics necessary to make students knowledgeable in the art of microprocessor design including advanced concepts such as in line and out of order execution and execution unit resource optimisation. Students in this course will learn to design execution units, arithmetic logic units, memory hierarchies and learn strategies for cache sizing. As part of this, students will become proficient in microcode and instruction set design, multi-processor and multi core theory and design, including new design methodologies such as chiplet design. Upon completion, students will be familiar with the specification and synthesis of microprocessor systems using high level generator languages such as Chisel and Scala. The course will also introduce students to compiler and linker design, enhancements to instruction sets, c-language and the theory of operating systems."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "ILO 1 - Demonstrate a depth of knowledge in microprocessor operation;",
+        "ILO 2 - Articulate the differences in RISC versus CISC systems;",
+        "ILO 3 - Apply knowledge of execution accelerator units to specify requirements to meet system objectives;",
+        "ILO 4 - Design a microprocessor using high level descriptor languages;",
+        "ILO 5 - Evaluate the functionality of the major components of a microprocessor and evaluate performance and design choices in the design of a microprocessor;",
+        "ILO 6 - Critically evaluate the interdependencies between processor instruction sets, compilers, and operating systems and apply subject knowledge;",
+        "ILO 7 - Articulate the major components of an operating system such as Linux and be able to target the operating system so that it can be deployed to a target microprocessor;",
+        "ILO 8 - Critically evaluate design decisions and provide analytical and simulation results to support design decisions."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "COMP20005",
+                    "ELEN90066"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ELEN20006",
+                    "ELEN30014"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One-hour mid-semester test. Intended Learning Outcomes (ILOs) 1-3 are addressed in this assessment.. 1 hours",
+            "timing": "From Week 6 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group design/brief report for group of 2-3 students, not exceeding 5 pages, approximately  5 hours of work per student. ILOs 1-3 are addressed in this assessment.. 5 hours (of work required)",
+            "timing": "Week 7",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group design report for group of 2-3 students, not exceeding 30 pages, approximately 40 hours of work per group. ILOs 3-8 are addressed in this assessment.. 40 hours (of work required)",
+            "timing": "Week 14",
+            "percentage": "50%"
+        },
+        {
+            "description": "Oral presentation (individually assessed), 1 hour (per group of 2-3 students) approximately 20-30 minutes per student. ILOs 1-8 are addressed in this assessment. 20-30 minutes (each). Hurdle requirement:. Oral presentation must be passed to pass the subject.",
+            "timing": "Week 14",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Stan Skafidas"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "45 hours (9 hours lectures; 36 hours workshops)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Stan Skafidas"
+                ],
+                "email": [
+                    "sskaf@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "The subject is delivered through a combination of lectures and workshop classes for hands-on laboratory activities."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

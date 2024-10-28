@@ -1,0 +1,107 @@
+{
+    "subject name": "Clinical Path Research Project Part 1",
+    "subject code": "PATH40006",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The Honours program in the Department of Clinical Pathology provides an introduction to the challenging area of investigation of disease processes at the cellular and molecular level. This program involves candidates undertaking a full-time research project based in a laboratory within the Department of Clinical Pathology or at one of our affiliated institutions. A student undertaking the Pathology Honours Research Project will have an interest in understanding the mechanisms of disease.",
+        "This subject is delivered in two consecutive parts. Whilst these have separate subject codes, they are considered to be a single continuing subject of 75 credit points. At the end of the first part, students will receive a CNT (Continuing \u2013 ongoing) grade. At the completion of the second part, students will receive an overall result for the subject.",
+        "Information provided here applies to both parts of the subject:",
+        "Clinical Pathology Research Project Part 1",
+        "Clinical Pathology Research Project Part 2"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Select, summarise and critically appraise published research in basic or translational pathology.",
+        "Formulate a research hypothesis based upon a synthesis of the published research evidence.",
+        "Design and undertake appropriate research experiments to answer a research hypothesis in the field of pathology.",
+        "Conduct supervised research in a specific area of basic or translational pathology research.",
+        "Communicate the method and findings of a research project in oral and written form."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOM40001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written literature review. 20 pages. Hurdle requirement:. Satisfactory progress of review assessed by coordinator",
+            "timing": "Due in Week 11, Semester One",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Oral presentation of introduction to research project (10 minutes presentation + 5 minutes questions). 15 minutes",
+            "timing": "During Semester One examination period",
+            "percentage": "5%"
+        },
+        {
+            "description": "Research thesis. 60 pages. Hurdle requirement:. Must be passed",
+            "timing": "Due in Week 12, Semester Two",
+            "percentage": "80%"
+        },
+        {
+            "description": "Oral presentation of final research project (20 minutes presentation + 5 minutes questions). 25 minutes",
+            "timing": "During Semester 2 examination period",
+            "percentage": "15%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Frederic Hollande"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary but must be agreed with your supervisor"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Links to additional information": [
+            "Students must be enrolled in the Bachelor of Biomedicine (Honours) or the Bachelor of Science (Honours) to enrol in this subject."
+        ]
+    }
+}

@@ -1,0 +1,114 @@
+{
+    "subject name": "Genetics and Animal Breeding",
+    "subject code": "ANSC90006",
+    "subject availability": [
+        "August"
+    ],
+    "overview": [
+        "This subject covers recent advances in the application of genetics and breeding technologies to commercial animal improvement programs including: advanced reproductive technologies, quantitative and molecular genetics. Students will develop the skills to evaluate the potential impact of recent breeding technologies on breeding program design. Practical sessions aim to develop skills in the interpretation of genetic data and to gain knowledge of how reproductive systems can be manipulated to implement advanced breeding technologies, such as multiple ovulation and embryo transfer, cloning and transgenesis.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Express the meaning and application of a range of genetic parameters",
+        "Estimate breeding values and use genetic tools to determine the impact of selection and crossbreeding",
+        "Identify the contraints to production gain using genetic selection programmes and the impact of inbreeding",
+        "Evaluate a range of genetic tools (including geonomic and reproductive technologies) for the design of breeding stratergies in the animal industries"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Oral presentation and abstract (500 words) at the end of the block intensive. 10 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written assignment due within three weeks from the end of the block intensive. 1500 words",
+            "timing": "3 Weeks after the end of teaching",
+            "percentage": "30%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "August": [
+                {
+                    "Principal coordinator": "Tina Chamberlain"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Up to 45 hours of lectures/practicals/tutorials and off-site field trips"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "5 August 2024 to 16 August 2024"
+                },
+                {
+                    "Last self-enrol date": "7 August 2024"
+                },
+                {
+                    "Census date": "30 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "11 October 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "August": {
+                "name": [],
+                "email": [
+                    "tcham@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

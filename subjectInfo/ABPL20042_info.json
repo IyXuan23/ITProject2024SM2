@@ -1,0 +1,163 @@
+{
+    "subject name": "Construction of Residential Buildings",
+    "subject code": "ABPL20042",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject was formerly known as Residential Construction and Structures.",
+        "A major portion of the general public has aspirations for home ownership and this continues to drive the residential market in Australia. This subject provides an introduction to residential and multi-unit residential low rise construction systems with an emphasis on materials selection, usage and construction methods. The various structural systems and design concepts currently in use are incorporated and interlinked into all the topics, which include an introduction to footing, floor, wall and roof framing systems and their compliance with Australian Standard Codes. The structural considerations include the analysis of loads, load paths, lateral stability, timber column and beam design for strength and stiffness, and general beam behaviour and statics analysis. The issue of materials technology, its application and performance are incorporated throughout the lecture series leading to an awareness of building pathology and maintenance. The subject also provides an introduction to residential services."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the design principles underpinning housing shelter \u2013 structure, enclosure, services;",
+        "Understand and interpret residential documentation including architectural, construction and shop drawings;",
+        "Understand and use the Building Code of Australia and key Australian Standards to design housing elements such as concrete slabs, floors, walls and roof systems;",
+        "Understand the roles of the various actors in housing production, clients, builders, sub-contractors, building inspectors, product manufactures;",
+        "Link basic structural design concepts with current residential construction practices;",
+        "Identify design and construction solutions on building sites through critical observation;",
+        "Communicate those design and construction solutions by means of sketches and drawings;",
+        "Identify and evaluate alternative design and construction systems."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ENGR10004"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "CONS10001",
+                    "ENGR10005"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Four minor assignments due in week 3, 6, 9, and 12. 800 words (equivalent)",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Major assignment. 800 words (equivalent)",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "An examination. 3 hours",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Andrew Martel"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2X1 hour lectures  and 1 hour torial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "aamartel@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Coursework notes available."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "R. Barry (1999),The Construction of Buildings, Vol. 1, Ed. 7, Wiley-Blackwell.",
+                    "A. Hanaor (1998),Principles of Structures, Wiley-Blackwell.",
+                    "G. Wilkie (2003),Building Your Own Home, New Holland."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students who were admitted in the BEnvs pre-2013 and have completed ENVS10003 Constructing Environments, may seek approval for a prerequisite waiver from the subject coordinator."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

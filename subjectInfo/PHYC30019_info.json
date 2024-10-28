@@ -1,0 +1,155 @@
+{
+    "subject name": "Astrophysics",
+    "subject code": "PHYC30019",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject provides an introduction to astrophysics discussing the basic structure of stars, our galaxy, and the universe and introducing the most recent research questions.",
+        "Topics covered include:",
+        "structure and evolution of stars, degenerate stars, black holes, the structure of the Milky Way and other cosmic objects, emission processes in astrophysics, high energy astrophysics, relativistic cosmology and cosmological models"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "explain the structure and evolution of stars, the Milky Way and other cosmic objects and cosmological models;",
+        "explain the physics underlying emission processes in astrophysics, high energy astrophysics and cosmology, and",
+        "demonstrate an understanding of emission processes, degenerate stars, black holes, accretion processes and relativistic cosmology;",
+        "solve problems relevant to these topics."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Physics:",
+                "Mathematics:"
+            ],
+            "one of pre-requisite": [
+                [
+                    "PHYC20012",
+                    "PHYC20015"
+                ],
+                [
+                    "MAST20009",
+                    "MAST20032"
+                ],
+                [
+                    "MAST20026",
+                    "MAST20030",
+                    "PHYC20014",
+                    "MAST20033"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Students are required to meet both Physics and Mathematics prerequisites below"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "3 x 1500 word equivalent written assignments, written in groups of 2-3; due in Weeks 4, 8 and 11 (each assignment will be the outcome of 4 x1-hour problem workshops in each of these weeks). 4500 words (total)",
+            "timing": "From Week 4 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "Examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance of at least 9 of the problem workshops held in Weeks 4, 8 and 11",
+            "timing": "From Week 4 to Week 11",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Rachel Webster"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 to 4 hours per week, 36 in total, lectures and problem-solving classes"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "PHYC30019@physics.unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Dan Maoz,Astrophysics in a Nutshell, Princeton University Press, 2007"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Commerce",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

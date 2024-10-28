@@ -1,0 +1,92 @@
+{
+    "subject name": "Criminology Thesis Part 2",
+    "subject code": "CRIM40009",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Refer toCRIM40008 Criminology Thesis Part 1for details."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the process of research, including compliance with any ethical requirement of the university concerning research",
+        "Develop a comprehensive understanding of the criminological literature relevant to their research",
+        "Be able to integrate theory and method in a logical manner."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CRIM40008"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [
+        "CRIM40007 Criminology Thesis"
+    ],
+    "assessments": null,
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Liam Gillespie"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular, documented consultations over two semesters with the supervisor(s) as arranged. Meetings should normally occur at least fortnightly and should be at least of half an hour duration."
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "liam.gillespie@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/ssps"
+        ]
+    }
+}

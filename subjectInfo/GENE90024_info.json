@@ -1,0 +1,94 @@
+{
+    "subject name": "Frontiers in Genomics 2",
+    "subject code": "GENE90024",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject will focus on translational genomics in public health and the community. Community engagement and education strategies will be considered using current workforce examples, with attention to cultural competence, education in the field of genomics and communication about genomics. The role of personalised genomics and precision medicine will also be explored, using examples of emerging treatments for a variety of genetic conditions.",
+        "The subject will be delivered via a combination of asynchronous on-line content and synchronous tutorials that adopt a problem-based approach to meet the intended learning outcomes."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the integration of translational genomic initiatives into public health practice",
+        "Reflect on the contribution of the genomics workforce in community engagement",
+        "Implement effective examples of how to communicate about genomics to general community",
+        "Apply cultural competence in addressing topics relevant to public health and genomic issues within the community",
+        "Illustrate the relevance and utility of advances in technology to a particular healthcare setting"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "GENE90027"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written task. 750 words",
+            "timing": "First half of the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Fact sheet / brochure. 1000 words (equivalent)",
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Group Presentation (2000 words equivalent). 20 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinators": "Gabrielle Reid Vogl, Linda Cicciarelli Riddington, and Jan Hodgson"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "4 x 3- hours face-to-face on-campus tutorials"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,112 @@
+{
+    "subject name": "Critical Care Research Project Part 1",
+    "subject code": "BMSC40009",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Students will undertake an original research project in an area of critical care medicine, gaining an advanced understanding of experimental design and statistical considerations while addressing their own research question and evaluating the research of others.",
+        "Students undergo extensive research training with their own individually-supervised research project, acquiring skills in experimental design, technical expertise in clinical and translational research methodologies, critical thinking, analysis, project management and communication.",
+        "Being part of a clinical hospital site, students also have the opportunity to learn about the broader significance of research translation as it relates to human health and disease and how research can change and improve the clinical management of patients."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Select, summarise and critically appraise published research in an area of critical care medicine.",
+        "Formulate a research question based upon a synthesis of the published research evidence.",
+        "Identify, plan, organise and implement research methodologies and techniques.",
+        "Conduct supervised research on a chosen research project and work effectively both in teams and autonomously.",
+        "Communicate the method and findings of a research project in oral and written form."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOM40001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Literature review and research plan. 2000 words",
+            "timing": "Semester 1 Week 6-8",
+            "percentage": "10%"
+        },
+        {
+            "description": "Research abstract describing the research findings to date. 250 words",
+            "timing": "Semester 2 - Week 6 - 8",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written research thesis. 10000 words",
+            "timing": "End of October",
+            "percentage": "75%"
+        },
+        {
+            "description": "Oral presentation of research project (15 minutes presentation and 5 minutes questions). 20 minutes",
+            "timing": "End of October",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Yasmine Ali Abdelhamid"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "Yasmine.Aliabdelhamid@mh.org.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

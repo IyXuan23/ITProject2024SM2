@@ -1,0 +1,194 @@
+{
+    "subject name": "Principles of Business Law",
+    "subject code": "BLAW10001",
+    "subject availability": [
+        "Semester 1 - Online",
+        "Semester 2 - Online"
+    ],
+    "overview": [
+        "This subject provides an introduction to law from a business perspective. This subject is available as a level 1 breadth subject to students in all faculties.",
+        "Topics include:",
+        "The nature and purpose of law;",
+        "how law develops and changes;",
+        "how new law is made;",
+        "how to read and understand legislation and case law;",
+        "how legally binding agreements (contracts) are created and enforced;",
+        "remedies for breach of contract;",
+        "consumer protection law;",
+        "property law;",
+        "liability in tort law for negligence; and",
+        "the law of agency.",
+        "Note 1: Principles of Business Law is a prerequisite for Corporate Law and Taxation Law.",
+        "Note 2: This subject is recommended to students in any faculty and in any year of study who would like to study an introductory law subject."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "describe the sources of Australian law;",
+        "find, interpret and apply case-law and legislation;",
+        "explain and apply the principles of contract law in business situations;",
+        "explain and apply the basic principles of liability in tort law;",
+        "explain and apply statutory consumer protection legislation;",
+        "explain and apply the law of agency; and",
+        "understand the basic principles of property law."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Two x 1-hour open-book Canvas quizzes  (10% each). 2 hours",
+            "timing": "From Week 4 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Open-book exam (multiple choice and short-answer questions). 1.5 hours",
+            "timing": "During the examination period",
+            "percentage": "80%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Principal coordinator": "Arlen Duke"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "Students do not need to select a set time to access pre-recorded lectures, workshops and consultation sessions."
+                },
+                {
+                    "Total time commitment": "136 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - Online": [
+                {
+                    "Principal coordinator": "Tanya Josev"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "Students do not need to select a set time to access pre-recorded lectures, workshops and consultation sessions."
+                },
+                {
+                    "Total time commitment": "136 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "Contact Stop 1"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "Contact Stop 1"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Subject materials, other than the prescribed texts, will be available via the LMS.",
+                    [
+                        "Michael Lambiris and Laura Griffin,First Principles of Business and Company Law(12thedition, 2023, Lawbook Co)"
+                    ]
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "If required, please contactlaw-admissions@unimelb.edu.aufor subject coordinator approval.",
+                    "If required, please contactlaw-admissions@unimelb.edu.aufor subject coordinator approval."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,228 @@
+{
+    "subject name": "Advanced Database Systems",
+    "subject code": "COMP90050",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "Many applications require reliability in access to data, and data should not be lost even in the presence of hardware failures. The ability to retrieve and process the data very efficiently is also paramount even when multiple users access the data from remote sites simultaneously. With the increasing size of data used in these applications, advanced techniques for data management have emerged to make many such advanced requirements for access to data a reality. The subject covers the technologies used in advanced database systems that use these techniques. Topics covered will include: transactions, concurrency control, reliability, ACID properties, performance, indexing of both structured and unstructured data, query processing, and further topics on different database types and database architectures."
+    ],
+    "indicative content": [
+        "Topics covered include:",
+        "Introduction to High Performance Database Systems",
+        "Issues of Performance and Reliability",
+        "Transaction Processing",
+        "Recovery from Failures",
+        "Map Reduce Models"
+    ],
+    "intended learning outcomes": [
+        "Evaluate performance and reliability in building applications involving large-scale database systems",
+        "Investigate and analyse database technologies used in large-scale applications such as search engines",
+        "Apply the concepts and technologies underpinning new forms of Web data to database systems",
+        "Understand algorithms associated with transaction processing and recovery from failures and concepts employed in modern database systems"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "INFO20003",
+                    "INFO90002"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Completion of 50 points of third year computing study or equivalent"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following: MC-CS Master of Computer Science, MC-SCICMP Master of Science (Computer Science)"
+            ]
+        },
+        {
+            "option": "Option 4",
+            "necessary pre-requisite": [
+                "Selection of one of the following: Distributed Computing specialisation (formal) in the MC-IT Master of Information Technology, Artificial Intelligence specialisation (formal) in the MC-IT Master of Information Technology"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Both of:",
+                "Admission into one of the following: 100pt Program course entry point in the MC-IT Master of Information Technology, 150pt Program course entry point in the MC-IT Master of Information Technology"
+            ]
+        },
+        {
+            "option": "Option 5",
+            "necessary pre-requisite": [
+                "Selection of the Computing specialisation (formal) in the MC-IT Master of Information Technology"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Both of:",
+                "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            ]
+        },
+        {
+            "option": "Option 6",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of:",
+                "\u2022 Master of Data Science (MC-DATASC) - Data Science Background Stream",
+                "\u2022 Master of Data Science (MC-DATASC) - Computer Science Background Stream"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Five quizzes worth 2% each, run in weeks 3, 5, 7, 9, 11,   during the semester.  ILOs 1~4 are addressed in this assessment.. 20 minutes (each)",
+            "timing": "From Week 3 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "One written group assignment, due in approximately week 12, approximately 3600 words long, requiring approximately 50 - 55 hours and approximately 1200 words per student. \r\n\r\nThe assignment is an extensive survey of a research topic related to database technologies and requires an oral presentation of 25-30 minutes to the class, worth 15%. The assignment is designed to address Intended Learning Outcomes (ILOs) 1-4 and all general skills. 50-55 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "40%"
+        },
+        {
+            "description": "A written examination. This test assesses all topics covered in the subject.. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Egemen Tanin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, made up of 24 one-hour lectures (two per week) and 12 one-hour tutorials (one per week). Some computer lab classes will require you to bring your own device (capable of running MySQL community edition)."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Farhana Choudhury"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, made up of 24 one-hour lectures (two per week) and 12 one-hour tutorials (one per week). Some computer lab classes will require you to bring your own device (capable of running MySQL community edition)."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Egemen Tanin"
+                ],
+                "email": [
+                    "etanin@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Farhana Choudhury"
+                ],
+                "email": [
+                    "farhana.choudhury@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "This course is taught over 12 weeks, each week with two one hour formal lectures and a one hour workshop. During the workshops the students are given problems to solve to reinforce the previous week\u2019s lecturing material. The problem solving nature of the workshops is geared for the students to learn and understand the concepts of the subject material.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "CAREERS / INDUSTRY LINKS",
+            "The concepts developed in the subject are relevant to many fields including IT, Engineering, Commerce, Government Organizations, Research Institutes and Institutions in Medicine where large scale database are used. Many industries are moving their applications to Cloud Platforms and understanding performance issues will be key to success to such transformations."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

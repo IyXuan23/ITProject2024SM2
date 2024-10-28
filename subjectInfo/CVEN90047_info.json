@@ -1,0 +1,186 @@
+{
+    "subject name": "IE Research Project 2",
+    "subject code": "CVEN90047",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is only available to students with approval from the subject coordinator."
+    ],
+    "aims": [
+        "This subject provides a capstone experience for students in Infrastructure Engineering. Students will combine their expertise in interdisciplinary groups or as individuals to address real-world problems, typically in contact with industry.",
+        ""
+    ],
+    "indicative content": [
+        "Project topics will be advertised well in advance of commencement of the subject so that students can make an informed choice of topic and enrol early. Students must register their topic preference before the subject commences.",
+        "This subject is a semester long capstone research project taken over one semester. It is less suited to research projects that are dependent on methodologies requiring experiments that take longer than 6 weeks to complete, field work, and problems involving research on humans (for example surveys). It is more suited to methodologies involved computer simulations, analysis of pre-existing data, theoretical studies and shorter experimental programs.",
+        "The first half of semester addresses research training and comprises online lectures and tutorials on topics such as project development, literature review, methodology development, skill development, critical thinking, project documentation and scientific writing. Students will practise these skills throughout their project topics with supervisors providing feedback on the results.",
+        "Students then continue their project within their group, or individually, with regular progress meetings with their supervisor for the remainder of the semester. The project culminates with students presenting their project findings as a poster at a student expo, via an oral presentation, and also in written form in the style of a conference paper.",
+        "This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practice Hurdle (EPH).",
+        "Notes",
+        "Note 1: Students and their supervisors must adhere to the University Code of Conduct for research, which may include obtaining human or animal research ethics approval.",
+        "Note 2: Students working in University laboratories must comply with OH&S requirements and may be required to undertake additional training such as Workshop Tools Training before access the labs.",
+        "Note 3: Students are advised to enrol in the subject at the earliest opportunity to ensure ease of communication prior to the start of semester.",
+        "",
+        ""
+    ],
+    "intended learning outcomes": [
+        "1. Search, analyse and document engineering science and other literature in order to determine the need for further research in a chosen area",
+        "2. Synthesize an hypothesis to be tested",
+        "3. Devise a methodology of investigation to test the hypothesis",
+        "4. Collect and analyse a range of data (qualitative and/or quantitative) and/or undertake computer modelling and simulation to implement the methodology",
+        "5. Write project reports that follow good engineering science practice",
+        "6. Present a poster of the findings of an investigation.",
+        "7. Make an oral presentation of the findings of an investigation."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "This is a Capstone subject and may only be taken in the final year (112.5 points) of study.\nThe subject is only available to students with approval from the subject coordinator."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Group assessment with individual components. (60 hrs per student). Addressing Learning Outcomes,  ILO's, 1-3 & 5.. 60 hours (of work required)",
+            "timing": "From Week 5 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group assessment with individual components. (240 hrs of work per student).\r\nILO's 1-5.. 240 hours",
+            "timing": "Week 12",
+            "percentage": "50%"
+        },
+        {
+            "description": "Non-technical (poster) presentation to lay-audience.\r\n(individual assessment).  15 hours total work.  ILO  6. 15 hours",
+            "timing": "From Week 6 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Oral exam. Individual Assessment . (15 - 20 minutes per student)\r\nILOS's 1-7.. 20 minutes",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Murray Peel"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "18 hours (Workshops: 6 hours per semester; Progress meetings/feedback by academic supervisors: 12 hours per semester)"
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Patricia Sauri Lavieri"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "18 hours (Workshops: 6 hours per semester; Progress meetings/feedback by academic supervisors: 12 hours per semester)"
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Murray  Peel"
+                ],
+                "email": [
+                    "mpeel@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Patricia Sauri Lavieri"
+                ],
+                "email": [
+                    "patricia.saurilavieri@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "David Evans, Paul Gruba and Justin Zobel (2011)How to write a better thesis, Melbourne University Press, Carlton, Vic."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSOnline lectures and tutorials on research techniques. Fortnightly meetings with mentors and other students to discuss progress and problems. Independent research on a project, and communication of the results of that research.INDICATIVE KEY LEARNING RESOURCESDavid Evans, Paul Gruba and Justin Zobel (2011) How to write a better thesis. Melbourne University Press. Carlton, Vic.CAREERS / INDUSTRY LINKSSome topics available for investigation are sponsored and supervised by industry partners. For students intending to develop a career in research, this subject represents a key subject and opportunity to demonstrate their talents."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

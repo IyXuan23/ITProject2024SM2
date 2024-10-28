@@ -1,0 +1,30 @@
+{
+    "major name": "Computational Biology",
+    "overview": [
+        "Please note that this major is no longer being offered to students from 2022 onwards. Students who commenced this major prior to 2022 and are planning to complete the Computational Biology major may continue to do so.",
+        "This is an interdisciplinary major that provides education in using computational and quantitative methods to address scientific questions at the interface of the life, mathematical, and computational sciences. There is great demand for computational and mathematical biologists in academia, industry, and government, where they are investigating problems as diverse as identifying the genetic basis of disease, to predicting how ecological systems will respond to climate change.",
+        "In addition to completing core units that provide essential education in computational biology, students have the opportunity to specialise in one of computational biology\u2019s core disciplines \u2013 the life sciences, mathematics and statistics, or computer science.",
+        "The major prepares students for graduate studies in either computational biology or traditional disciplines, as well as for entry into the job market."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "MAST30032": "Biological Modelling and Simulation Credits",
+                "MAST30033": "Statistical Genomics Credits"
+            },
+            "AND",
+            "Completion of a minimum of 25 credit points ofLevel 3 Electives",
+            "Level 3 electives may be selected from the following Areas of Study:",
+            "Anatomy (ANAT), Biochemistry and Molecular Biology (BCMB), Bioengineering Systems (BMEN), Botany (BOTA), Computer Science (COMP), Cell and Developmental Biology (CEDB), Environmental Science (EVSC), Ecology (ECOL), Genetics (GENE), Informatics (INFO), Mathematics and Statistics (MAST), Microbiology and Immunology (MIIM), Neuroscience (NEUR), Pathology (PATH), Pharmacology (PHRM), Physiology (PHYS), Zoology (ZOOL)",
+            "Students are encouraged to consider enrolling in SCIE30001 if they are seeking a research project experience. Please visit the following webpage for further information relating to the subject's application process -https://science.unimelb.edu.au/students/research-project-subjects"
+        ],
+        "Notes": [
+            "Students will be encouraged to complete a complementary study sequence in either biological/biomedical science, mathematics and statistics, or computer science. A third year subject in this complementary sequence or from a list of electives makes up the computational biology major."
+        ],
+        "PLEASE NOTE:": [
+            "This major is no longer being offered to students from 2022 onwards. Students who commenced this major prior to 2022 and are planning to complete the Computational Biology major may continue to do so."
+        ]
+    }
+}

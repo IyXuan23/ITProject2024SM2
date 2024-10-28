@@ -1,0 +1,103 @@
+{
+    "subject name": "Advanced Accounting 1",
+    "subject code": "ACCT90044",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "Advanced Accounting 1 is a year-long subject in the second year of the Master of Commerce (Accounting) program. This subject provides a rigorous review and critical analysis of the theory and methodology underlying economics-based research in a specific area of accounting that was of interest to students during their first year of the Master of Commerce (Accounting) Program. The objective is to provide students with more advanced understanding of research topics, developments, and methodologies in the specific area of accounting. The specific area of accounting that students choose should relate to any of the subdisciplines covered in one of the core accounting subject taken in the first year of coursework and/or align with the research interests of academic staff in the Department. Students should notify the Director of the Doctoral Program or nominee of their specific area of interest. This is due by the end of January to allow sufficient time for the approval of the student\u2019s chosen area of interest and allocation of appropriate academic staff advisor."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Evaluate critically the theoretical frameworks used in the chosen area of accounting research.",
+        "Recognise and understand important features of empirical design in the chosen area of accounting research",
+        "Critically assess research design choices in the context of specific research questions in the chosen area of accounting research."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Completion of coursework requirements in the first year of the Master of Commerce (Accounting) Program, MC-COMACT"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Participation (active participation in workshop discussions)",
+            "timing": "Throughout the year (12 x 3-hour workshops)",
+            "percentage": "15%"
+        },
+        {
+            "description": "Indiviudal Assignment. 1500 words",
+            "timing": "Due at the end of the Semester 1 examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Formal Presentation. 45 minutes",
+            "timing": "In the final workshop held in the second last week of Semester 2",
+            "percentage": "15%"
+        },
+        {
+            "description": "Research Proposal. 4000 words",
+            "timing": "Due at the end of the Semester 2 examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Principal coordinator": "Vic Naiker"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Periodic workshops throughout the semester"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [],
+                "email": [
+                    "vic.naiker@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

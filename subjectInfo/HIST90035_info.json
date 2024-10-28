@@ -1,0 +1,138 @@
+{
+    "subject name": "International Relations Thesis Part 2",
+    "subject code": "HIST90035",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "Refer to HIST90034 International Relations Thesis Part 1 for details"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate a specialist understanding of the subject being studied",
+        "Show advanced skills of analysis pertinent to the subject",
+        "Demonstrate advanced research methods skills",
+        "Show a detailed sense of the theroretical debates in the subject area",
+        "Demonstrate a capacity to communicate research effectively and persuasively in a written form."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "HIST90034"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ASIA90012",
+        "ASIA90013",
+        "POLS90009",
+        "POLS90054",
+        "POLS90055",
+        "ASIA90010/HIST90031/POLS90027 International Relations Minor Thesis"
+    ],
+    "assessments": null,
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Angel Alcalde Fernandez"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Refer to HIST90034 International Relations Thesis Part 1 for details"
+                },
+                {
+                    "Total time commitment": "250 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Kate McGregor"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Refer to HIST90034 International Relations Thesis Part 1 for details"
+                },
+                {
+                    "Total time commitment": "250 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "angel.alcalde@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "k.mcgregor@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Links to additional information": [
+            "http://government.unimelb.edu.au/degrees/22-master-of-international-relations"
+        ]
+    }
+}

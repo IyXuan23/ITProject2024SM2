@@ -1,0 +1,137 @@
+{
+    "subject name": "Mental Ill-health in Young People 2",
+    "subject code": "PSYT90100",
+    "subject availability": [
+        "February - Online"
+    ],
+    "overview": [
+        "This unit will provide a comprehensive overview of psychotic, personality, behavioural and neurodevelopmental disorders in young people.  Lectures will focus on the epidemiology, aetiology and typical features of these disorders in young people, their impact on health and functioning, and evidenced-based interventions. Course content includes:",
+        "The first episode of psychosis",
+        "Psychotic disorders",
+        "Personality disorders & borderline personality disorder",
+        "Bipolar disorder I and II",
+        "Attention deficit hyperactivity disorder (ADHD)",
+        "Autism spectrum disorders",
+        "Intellectual disability and mental ill-healh"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe different forms of mental ill-health in young people.",
+        "Describe the epidemiology of different forms of mental ill-health in young people.",
+        "Identify best practice biopsychosocial interventions for different forms of mental ill-health in young people",
+        "Identify the aetiology and risk and protective factors associated with different forms of mental ill-health in young people",
+        "Describe the functional impact of different forms of mental ill-health in young people"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the GD-MHNP Graduate Diploma in Mental Health Nursing Practice"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "PSYT90096",
+                    "PSYT90097",
+                    "PSYT90098",
+                    "PSYT90099"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Online Quizzes of learning content \u2013 two multiple choice quizzes with 10 questions each = 20 questions in total (1% per question). 1000 words (equivalent)",
+            "timing": "Week 3 and Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Graded discussion board \u2013 posting fortnightly reflections on learning content and responding to fellow students, with a minimum of 7 posts in total. 1500-1975 words",
+            "timing": "From Week 1 to Week 6",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written assignment. 2500 words",
+            "timing": "End of the assessment period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February - Online": [
+                {
+                    "Principal coordinator": "Stefanie De Silva"
+                },
+                {
+                    "Coordinator": "Paul Badcock"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "Online equivalent to 20 contact hours is made up of 10 hours of lectures and live consultation sessions, and 10 hours of asynchronous discussions and structured online tasks."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 12 April 2024"
+                },
+                {
+                    "Last self-enrol date": "6 March 2024"
+                },
+                {
+                    "Census date": "15 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "5 April 2024"
+                },
+                {
+                    "Assessment period ends": "21 April 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

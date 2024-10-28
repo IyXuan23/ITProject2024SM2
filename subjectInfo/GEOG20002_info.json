@@ -1,0 +1,168 @@
+{
+    "subject name": "Landscapes and Environmental Change",
+    "subject code": "GEOG20002",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The subject focuses on the dynamic surface of our planet and the environments it sustains. The Earth\u2019s surface is shaped by a complex interaction of physical and biological processes operating over a range of spatial and temporal scales. Understanding these processes in the present day, as well as reconstructing landscape and ecological change in the past, enables us to predict their future response to climate change and human activity. In this subject, students will study the processes and spatial patterns that shape natural landscapes and learn about approaches of reconstructing their evolution. Students will gain an appreciation of the ways that the dynamics of natural landscapes need to be incorporated into environmental management and the conservation of biodiversity.",
+        "This includes an in-depth understanding of the wide spectrum of landforms (including mountains and hillslopes, glaciers, rivers, dunes, and coasts) and the processes contributing to their formation and decay.  In addition, the subject addresses the geographic patterns and dynamics of life on the Earth\u2019s surface and investigates the way in which certain landscapes support particular types of ecosystems (such as rainforest, grassland, desert, estuarine and marine communities). Finally, the factors that may cause change in natural landscapes are explored to assess the roles played by climate, tectonics and humans over various timescales.",
+        "Through lectures, practicals and multiple days of field work, students will develop skills in a range of field and lab-based analytical techniques, as well as the use of GIS, for investigating our environment. This subject includes a four-day field trip in Victoria set to take place during the mid-semester break.",
+        "Students must submit 80% of the lab practical assignments and attend the field trip to be eligible to pass the subject."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the development of key theories in geomorphology and their application to different landforms and settings",
+        "Recognise how physical, biological, and human processes interact to shape natural landscapes and ecosystem diversity over a range of scales",
+        "Identify natural processes of change in landscapes and ecosystems and how human activity may modify these processes",
+        "Analyse geomorphic data to interpret change and recognise how this can be applied and integrated into future planning and policy",
+        "Obtain a skill set of real world analytical techniques that are used to analyse and classify natural landscapes, measure the dynamics of processes and change, and reconstruct longer-term landscape evolution"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ENVS10001",
+                    "",
+                    "ERTH10002",
+                    "EVSC10001"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "ENVS10002\t Reshaping Environments"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "a minimum of 25 credit points ofLevel 1 Geography, Environmental Studies or Earth sciences subjects"
+            ]
+        },
+        {
+            "option": "Option 4",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "An equivalent approved by the subject coordinator."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "GEOG20009  Landscapes and Diversity"
+    ],
+    "assessments": [
+        {
+            "description": "Practicals and submission of all tasks completed within these sessions. 500 words. Hurdle requirement:. Students must submit 80% of the lab practical assignments and attend the virtual field trip to be eligible to pass the subject.",
+            "timing": "Throughout the semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Individual field report. 1600 words",
+            "timing": "Week 10",
+            "percentage": "40%"
+        },
+        {
+            "description": "Final exam. 90 minutes",
+            "timing": "During the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Jan-Hendrik May"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Two x 1-hour lectures per week; 5 x 3-hour practical classes (in weeks 2, 3, 4, 5 and 6); and a four-day field trip during the mid-semester break."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "janhendrikmay@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Relevant texts and chapters will be provided from multiple textbooks"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students enrolled in the BSc (both pre-2008 and new degrees), or a combined BSc course (except for the BA/BSc) receive science credit on the completion of this subject.",
+            "BSc students receive second year level credit for this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Commerce",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

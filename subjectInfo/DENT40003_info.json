@@ -1,0 +1,136 @@
+{
+    "subject name": "Advances in Oral Health Research",
+    "subject code": "DENT40003",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject aims to introduce students to research in the field of oral health sciences. Through engaging with current research in the field, students will learn about major advances and research gaps in oral health sciences and be exposed to a range of research approaches. Students will develop their understanding of research design and skills in critical evaluation and scientific communication."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Critically assess and effectively summarise published research in an area of oral health.",
+        "Articulate the scientific and technical basis of advanced techniques in oral health research.",
+        "Defend the importance of applying intellectual integrity and ethical principles in the conduct of research with animals and humans.",
+        "Develop skills in scientific writing.",
+        "Critically evaluate  scientific data, including manuscripts."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOM40001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A mock grant application. 1000 words",
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Scientific critique of a journal article. 2000 words",
+            "timing": "Second half of the Semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "An article based on research presented at the MDS Seminar Series. 1000 words",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Catherine Butler"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "At least 1 hour per week to attend a seminar or consult with their supervision about assignments."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Catherine Butler"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "At least 1 hour per week to attend a seminar or consult with their supervision about assignments."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students must be enrolled in the Bachelor of Biomedicine (Honours) or Bachelor of Science (Honours) to complete this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.dent.unimelb.edu.au/"
+        ]
+    }
+}

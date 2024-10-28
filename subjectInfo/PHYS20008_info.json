@@ -1,0 +1,229 @@
+{
+    "subject name": "Human Physiology",
+    "subject code": "PHYS20008",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "Physiology is an integrative study of the control of normal body function. The specialised organ systems to be studied include the nervous, cardiovascular, muscular, respiratory, kidney and digestive systems. During this subject students will learn that physiology is an experimental science with many key concepts arising from qualitative and quantitative observation and analysis of living organisms. The lectures will incorporate active interaction between students and lecturers using live polling software to answer questions during lectures."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate a depth of knowledge in human physiology",
+        "Integrate their understanding across multiple physiological systems and how they interact",
+        "Apply their understanding of physiological systems to novel scenarios",
+        "Communicate their understanding to others in a meaningful and impactful way"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "One of the following subject sets (A, B, C or D)",
+                "BIOL10005\t Genetics and The Evolution of Life",
+                "Set B"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BIOL10010",
+                    "BIOL10011"
+                ],
+                [
+                    "BIOL10008",
+                    "BIOL10009"
+                ],
+                [
+                    "BIOL10008",
+                    "BIOL10009"
+                ],
+                [
+                    "BIOL10010",
+                    "BIOL10011"
+                ]
+            ],
+            "alternate pre-requisite": [
+                "A minimum of 12.5 credit points ofLevel 1 quantitative science subject (e.g. Chemistry, Physics, Maths, Psychology, Statistics)",
+                "Set A",
+                "BIOL10004\t Biology of Cells and Organisms",
+                "BIOL10004\t Biology of Cells and Organisms",
+                "Set C",
+                "BIOL10005\t Genetics and The Evolution of Life",
+                "Set D"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-SCIBIF Master of Science (Bioinformatics)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BIOM20002",
+        "Exemption to enrol may be granted to Biomedicine students seeking to undertake exchange programs in semester 2 of the second year of their program."
+    ],
+    "assessments": [
+        {
+            "description": "Weekly online quizzes  (2% per quiz, 1 hour per week). 10 hours",
+            "timing": "From Week 2",
+            "percentage": "20%"
+        },
+        {
+            "description": "Mid-semester take home exam 1 (completed within 24 hour window). 900 words (equivalent)",
+            "timing": "From Week 5 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "Mid-semester take home exam 2 (completed within 24 hour window. 900 words (equivalent)",
+            "timing": "From Week 9 to Week 11",
+            "percentage": "15%"
+        },
+        {
+            "description": "Group project to produce a 3-minute learning activity (self-selected groups of up to 6 students; ~10-15 total hours of work required). 3 minutes",
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Take-home Written Examination (completed within 72-hour time window). 2000 words (equivalent)",
+            "timing": "Week 1 of the examination period",
+            "percentage": "35%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Charles Sevigny"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3x1 hour lecture per week plus 1x1 hour optional workshop"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Charles Sevigny"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3x1 hour lecture per week plus 1x1 hour optional workshop"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "sevignyc@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "sevignyc@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Principles Of Human Anatomy And Physiology 2nd Asia-Pacific Edition Gerard J Tortora -Wiley Direct"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course.",
+            "This subject is not available to Bachelor of Biomedicine students.",
+            "Students undertaking this subject will be expected to regularly access an internet-enabled computer."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "subject name": "Plant Systems",
+    "subject code": "AGRI10044",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject introduces students to plant science with particular emphasis on crop and pasture species. Students will gain an understanding of plant growth and development to achieve desired levels of yield and quality. This subject considers how crop and pasture canopies grow by acquiring resources from the environment, how plants allocate resources to different growth processes, and how management and environment (including climate change) affect plant production in Australia and worldwide."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "The relationship between structure and physiology of plants at cell, tissue, organ, whole plant and community levels",
+        "Plant growth and development",
+        "Root growth and function, nutrient uptake, nitrogen fixation and the importance of plant nutrition in managing crops and pastures, as well as implications for nutrient run-off and water quality",
+        "Water uptake, transpiration, xylem flow, stomatal control and the implications of these processes for managing crop transpiration and soil evaporation in dryland cropping and under irrigation",
+        "The growth phases of pastures and crops and how to monitor and measure these growth stages",
+        "The determinants that drive plant growth and yield of pastures and crops",
+        "How to develop a pre-season plan for crops and pastures including forecasting potential yields",
+        "The major constraints to plant growth including soil limitations, plant disease, insect and weed management",
+        "Harvesting/grazing methods of crops and pastures and why they are used"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Mid semester test. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "6x practical/field reports, due fortnightly throughout semester. 1500 words (total)",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend at least 90% of practicals to pass this subject",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Sabine Tausz-Posch"
+                },
+                {
+                    "Mode of delivery": "On Campus (Dookie)"
+                },
+                {
+                    "Contact hours": "55 hours - 24 hours of lectures, 21 hours of practicals and 10 hours of tutorials/workshops/field trips"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "sposch@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

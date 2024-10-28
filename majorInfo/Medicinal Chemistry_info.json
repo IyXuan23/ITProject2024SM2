@@ -1,0 +1,44 @@
+{
+    "major name": "Medicinal Chemistry",
+    "overview": [
+        "Students who complete the Graduate Diploma (Medicinal Chemistry specialisation) will develop the capacity to view the world from a molecular perspective and will have the ability to solve complex problems that span the breadth of chemistry and other sciences with a focus on medicinal chemistry. The pharmacology component introduces students to the unified study of the interaction between chemical agents and living matter. Pathways for Graduate Diploma (Medicinal Chemistry specialisation) students will include careers in research (through further study including MSc and PhD programs in chemistry and allied areas), teaching, government and professional positions."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "125 credit points",
+            "Completion of 125 points:",
+            [
+                "50 points of study at Level 2 or above;",
+                "50 points of study at Level 3;",
+                "25 point of study at Level 9"
+            ]
+        ],
+        "Subject Options": [
+            "Subject prerequisites:Details of stream specific requirements can be found at the Graduate Diploma in Science entry and participation requirements page."
+        ],
+        "Level 2": [
+            "Students should select 50 points of level 2 options to meet the pre-requisites for their level 3 choices.",
+            "Students must take all of:",
+            {
+                "CHEM20018": "Chemistry: Reactions and Synthesis Credits",
+                "CHEM20019": "Practical Chemistry 2 Credits",
+                "CHEM20020": "Chemistry: Structure and Properties Credits",
+                "PHRM20001": "Pharmacology: How Drugs Work Credits"
+            }
+        ],
+        "Level 3": [
+            "Students must select 50 points of level 3 subjects.",
+            "Students must take all of:",
+            {
+                "CHEM30015": "Advanced Practical Chemistry Credits",
+                "CHEM30016": "Reactivity and Mechanism Credits",
+                "PHRM30008": "Drugs: From Discovery to Market Credits",
+                "PHRM30009": "Drugs in Biomedical Experiments Credits"
+            }
+        ],
+        "Level 9": [
+            "Plus 25 points of level 9 subjects selected from listed discipline subjects in theMaster of Science (Chemistry)program."
+        ]
+    }
+}

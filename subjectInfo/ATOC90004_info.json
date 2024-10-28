@@ -1,0 +1,115 @@
+{
+    "subject name": "Current Topics in Climate Science",
+    "subject code": "ATOC90004",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject will address current topics in the area of physical climate science. Topics will vary from year to year depending on developments in the field but may focus on new research discoveries, areas of scientific debate, or recent climate events. The subject brings together knowledge from previous studies in climate science and related areas to discuss and critically analyse up to date knowledge of the field and its application to the world around us."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain current research topics in several areas of atmospheric, oceanic and climate science;",
+        "Synthesise and interpret the current literature in the area of atmospheric, oceanic and climate science;",
+        "Judge and assess scientific evidence in cases of ambiguity or conflicting arguments;",
+        "Evaluate interrelationships between different drivers of atmospheric and oceanic processes;",
+        "Convey complex theories and arguments using clear and concise oral and written communication."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Master of Climate Science:",
+                "This subject is a capstone requirement and should be taken towards the end of the course along with either the Climate Science Industry Project or Climate Science Research Project."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Participation in weekly two-hour workshops to discuss papers identified by the cohort. Students are assessed on active participation (e.g. taking part in discussions, asking and answering questions) in workshops. 500 words (equivalent). Hurdle requirement:. Attendance at 7 of 10 workshops is required.",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "20 minute - Group presentation. 1000 words (equivalent)",
+            "timing": "Week 11",
+            "percentage": "20%"
+        },
+        {
+            "description": "Essay. 3500 words",
+            "timing": "During the assessment period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Robert Ryan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 contact hours: 10 x 2 hours workshops + 1 x 4 hours group presentations"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "rryan1@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "major name": "German Studies",
+    "overview": [
+        "German has more than 100 million native speakers and is the third most popular foreign language world-wide. Knowledge of German opens up the rich culture of German-speaking Europe as well as its history, philosophy, literature, music and scientific traditions. The German Studies program has a proud history of more than half a century at the University of Melbourne and provides students with the opportunity to complete part of their studies overseas through scholarships and exchange programs.German language subjects are organised in a progressive sequence of units from German 1 through to German 10 and has four entry points (German Studies 1, 3, 5 and 7). Placement in the correct entry point is determined by the German Studiesprogram, based on the results of the online placement test. Hence all students who enrol in German at The University of Melbourne for the first time need to undertake the placement test. Thereafter students normally progress through the sequence in consecutive order. Accelerated progression is possible with the permission of the course convenor. Mid-year entry is also possible into subjects with even numbers."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "Students will have their appropriate entry point determined by the German Studies program, based on the results of the online placement test. Please refer to the following link for further information:",
+            "Link",
+            "The entry points for this major are:",
+            [
+                "German Studies 1 entry point: for students who have very little or no background in the German language",
+                "German Studies 3 entry point: usually for students who have undertaken four or five years of secondary school German or who have obtained a low VCE German score",
+                "German Studies 5 entry point: usually for VCE German students",
+                "German Studies 7 entry point: usually for native speakers or near-native speakers of German, or for candidates who have spent a number of years in a German speaking country"
+            ],
+            "This major requires the completion of either:"
+        ],
+        "Links": [
+            "http://languages-linguistics.unimelb.edu.au/"
+        ],
+        "Entry Point 1": [
+            [
+                "25 credit points of EP1 Level 1 Core subjects",
+                "37.5 credit points of EP1 Level 2 Core subjects",
+                "25 credit points of EP1 Level 3 Core subjects",
+                "12.5 credit points of Capstone subject"
+            ],
+            "OR"
+        ],
+        "Entry Point 3": [
+            [
+                "25 credit points of EP3 Level 1 Core subjects",
+                "37.5 credit points of EP3 Level 2 Core subjects",
+                "25 credit points of EP3 Level 3 Core subjects",
+                "12.5 credit points of Capstone subject"
+            ],
+            "OR"
+        ],
+        "Entry Point 5": [
+            [
+                "25 credit points of EP5 Level 1 Core subjects",
+                "37.5 credit points of EP5 Level 2 Core subjects",
+                "25 credit points of EP5 Level 3 Core subjects",
+                "12.5 credit points of Capstone subject"
+            ],
+            "OR"
+        ],
+        "Entry Point 7": [
+            [
+                "25 credit points of EP7 Level 1 Core subjects",
+                "37.5 credit points of EP7 Level 2 Core subjects",
+                "12.5 credit points of EP7 Level 3 Core subject",
+                "12.5 credit points of Capstone subject",
+                "12.5 credit points of Level 3 elective subject"
+            ]
+        ],
+        "Subject Options": [],
+        "German Studies Entry Point 1": [],
+        "German Studies Entry Point 3": [],
+        "German Studies Entry Point 5": [],
+        "German Studies Entry Point 7": [],
+        "Level 1 Core subjects - Entry Point 1": [
+            {
+                "GERM10004": "German 1 Credits",
+                "GERM10005": "German 2 Credits"
+            }
+        ],
+        "Level 2 Core subjects - Entry Point 1": [
+            {
+                "GERM20004": "German 3 Credits",
+                "GERM20005": "German 4 Credits",
+                "GERM20006": "German Cultural Studies A Credits"
+            }
+        ],
+        "Level 3 Core subjects - Entry Point 1": [
+            {
+                "GERM30005": "German 5 Credits",
+                "GERM30006": "German 6 Credits"
+            }
+        ],
+        "Level 3 Capstone Subject": [
+            {
+                "GERM30025": "Staging German Credits"
+            }
+        ],
+        "Level 1 Core subjects - Entry Point 3": [
+            {
+                "GERM10001": "German 3 Credits",
+                "GERM10002": "German 4 Credits"
+            }
+        ],
+        "Level 2 Core subjects - Entry Point 3": [
+            {
+                "GERM20003": "German Cultural Studies B Credits",
+                "GERM20008": "German 6 Credits",
+                "GERM20007": "German 5 Credits"
+            }
+        ],
+        "Level 3 Core subjects - Entry Point 3": [
+            {
+                "GERM30021": "German 7 Credits",
+                "GERM30022": "German 8 Credits"
+            }
+        ],
+        "Level 1 Core subjects - Entry Point 5": [
+            {
+                "GERM10006": "German 5 Credits",
+                "GERM10007": "German 6 Credits"
+            }
+        ],
+        "Level 2 Core subjects - Entry Point 5": [
+            {
+                "GERM20001": "German 7 Credits",
+                "GERM20003": "German Cultural Studies B Credits",
+                "GERM20002": "German 8 Credits"
+            }
+        ],
+        "Level 3 Core subjects - Entry Point 5": [
+            {
+                "GERM30003": "German 9 Credits",
+                "GERM30004": "German 10 Credits"
+            }
+        ],
+        "Level 1 Core subjects - Entry Point 7": [
+            {
+                "GERM10008": "German 7 Credits",
+                "GERM10009": "German 8 Credits"
+            }
+        ],
+        "Level 2 Core subjects - Entry Point 7": [
+            {
+                "GERM20003": "German Cultural Studies B Credits",
+                "GERM20009": "German 9 Credits",
+                "GERM20010": "German 10 Credits"
+            }
+        ],
+        "Level 3 Core subjects - Entry Point 7": [
+            {
+                "GERM30002": "German Cultural Studies C Credits"
+            }
+        ],
+        "Level 3 Electives - Entry Point 7": [
+            {
+                "LANG30001": "Languages at Work Credits",
+                "GERM30024": "Berlin and Beyond Credits",
+                "EURO30002": "Memory & Memoirs of 20th Century Europe Credits",
+                "EURO30001": "Language and Society in Europe Credits",
+                "EURO30003": "European Modernism Credits",
+                "EURO30004": "Screening Europe: Image and Identity Credits",
+                "EURO30005": "Europe and its Others Credits",
+                "ARTS30002": "Introduction to Language Translation Credits"
+            }
+        ]
+    }
+}

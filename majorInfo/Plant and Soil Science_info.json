@@ -1,0 +1,52 @@
+{
+    "major name": "Plant and Soil Science",
+    "overview": [
+        "This major will provide graduates with a depth and breadth of understanding in plant and soil science in the context of agricultural production systems. Students of this major will study subjects in soil management, agronomy, plant health for growth and production and crop management. Students will also gain a detailed understanding of the drivers of plant industries and how management strategies can optimise yield and product quality."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "37.5 credit points",
+            "To obtain a major in Plant and Soil Science students need to complete:",
+            [
+                "12.5 credit points of Core subjects",
+                "a minimum of 12.5 credit points of Plant and Soil Science selectives",
+                "a minimum of 12.5 credit points of Plant and Soil Science electives"
+            ],
+            "Note:",
+            "AGRI30016 is taught at Dookie Campus as an intensive in the break between Semester 1 & 2"
+        ],
+        "Subject options": [],
+        "Recommended Level 2 Electives": [
+            "Please note the below subjects are recommended based on your intended major. Some of these may be prerequisites for Level 3 subjects in this major.",
+            {
+                "AGRI20003": "Sustainable Food Systems Credits",
+                "AGRI20036": "Ecology and Grazing Management Credits",
+                "AGRI20044": "Microbiology in Agriculture Credits",
+                "AGRI20026": "Plant Growth Processes Credits",
+                "AGRI20037": "Crop Production and Management Credits"
+            }
+        ],
+        "Core subject": [
+            {
+                "AGRI30046": "Agronomy Credits"
+            }
+        ],
+        "Plant and Soil Science selectives": [
+            {
+                "AGRI30037": "Soil Management Credits",
+                "AGRI30042": "Plant Pathology Credits",
+                "AGRI30048": "Plant Breeding and Genetics Credits"
+            }
+        ],
+        "Plant and Soil Science electives": [
+            {
+                "AGRI30016": "Irrigation and Water Management Credits",
+                "AGRI30037": "Soil Management Credits",
+                "AGRI30042": "Plant Pathology Credits",
+                "AGRI30045": "Applications in Precision Agriculture Credits",
+                "AGRI30048": "Plant Breeding and Genetics Credits"
+            }
+        ]
+    }
+}

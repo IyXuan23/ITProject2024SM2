@@ -1,0 +1,25 @@
+{
+    "major name": "Endodontics",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "225 credit points",
+            "225 points of core subjects"
+        ],
+        "Subject Options": [
+            "Year 1:",
+            {
+                "DENT90087": "Endodontics 1 Credits"
+            },
+            "Year 2:",
+            {
+                "DENT90088": "Endodontics 2 Credits"
+            },
+            "Year 3:",
+            {
+                "DENT90089": "Endodontics 3 Credits"
+            }
+        ]
+    }
+}

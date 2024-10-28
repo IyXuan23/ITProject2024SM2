@@ -1,0 +1,186 @@
+{
+    "subject name": "Epidemiology Research Project Part 1",
+    "subject code": "POPH90278",
+    "subject availability": [
+        "Semester 1 - Dual-Delivery",
+        "Semester 2 - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject provides students with the opportunity to plan and execute substantial research-based projects under supervision. Specific research projects will depend upon the availability of appropriate expertise, but may address a broad range of epidemiological issues.",
+        "Students will be required to undertake two projects from two of the following categories: (i) a systematic literature review, (ii) a protocol design, (iii) an analysis of an existing data set, and (iv) a meta-analysis. They can complete these in any order. Students will give two oral presentations, one for each of their projects describing their findings and analyses.",
+        "Students enrolled in the Master of Science (Epidemiology program) are required to complete a major 50-point Research Project. Students will need to discuss and receive approval for their proposed combination of Research Project subjects (as indicated below) with the course coordinator to ensure they will have completed a total of 50 points by the end of their course."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Plan and execute a substantial research-based project;",
+        "Critically appraise a body of epidemiological literature;",
+        "Design epidemiological studies;",
+        "Analyse and interpret data from epidemiological studies;",
+        "Write scientific reports; and",
+        "Present results of epidemiological investigations to a non-expert audience."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "POPH90013",
+                    "POPH90014",
+                    "POPH90144",
+                    "POPH90242"
+                ],
+                [
+                    "POPH90243"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "",
+        "",
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "Research Project Progress Review. Hurdle requirement:. Pass/Fail",
+            "timing": "Due late in the first semester of this subject",
+            "percentage": "0%"
+        },
+        {
+            "description": "Supervisor's Evaluation based on: \r\n-\tResearch skills\r\n-\tCommitment\r\n-\tInteractions. 1 pages",
+            "timing": "Due late in the first semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Oral presentation. 20 minutes",
+            "timing": "Other - Due late in the second semester of this subject",
+            "percentage": "10%"
+        },
+        {
+            "description": "Supervisor's Evaluation based on:\r\n-\tResearch skills\r\n-\tCommitment\r\n-\tInteractions. 1 pages",
+            "timing": "During the examination period of the second semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written Assignment 1 - written report for the project. 10000 words",
+            "timing": "Due late in the second semester of this subject",
+            "percentage": "40%"
+        },
+        {
+            "description": "Written Assignment 2 \u2013 based on draft journal article approved by supervisor. 3500 words (total)",
+            "timing": "Due in the assessment period of the second semester of this subject",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Andrew Lau"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "44 hours over 2 consecutive semesters: attendance at a half-day research training skills workshop (week 1 of semester), attendance at 2 full-day sessions for student oral presentations (week 11: of each semester) and fortnightly supervisor meetings"
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Andrew Lau"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "44 hours over 2 consecutive semesters: attendance at a half-day research training skills workshop (week 1 of semester), attendance at 2 full-day sessions for student oral presentations (week 11: of each semester) and fortnightly supervisor meetings"
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "andrew.lau@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "andrew.lau@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "For students enrolled in the Master of Science - Epidemiology"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "subject name": "Studies in Empirical Finance",
+    "subject code": "FNCE90007",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The subject involves a study of the principal empirical research papers that form the foundations of both asset pricing and corporate finance.",
+        "Topics may include OLS, GLS, nonlinear least squares, panel data models, maximum likelihood estimation, probit, tobit, logit, GMM, time series models, and endogeneity issues."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand how to replicate the fundamental empirical studies in investments and corporate finance",
+        "Understand the types of questions in investments and corporate finance that have subsequently been examined using the empirical techniques in these fundamental studies",
+        "Understand the types of questions in investments and corporate finance that have required more advanced forms of empirical design and techniques."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-COMFIN Master of Commerce (Finance)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Mid-semester examination. 2 hours",
+            "timing": "From Week 6 to Week 8",
+            "percentage": "40%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Michele Garagnani"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 3-hour lecture per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students may not gain credit for both FNCE90007 Advanced Investments and FNCE40002 Advanced Investments."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,117 @@
+{
+    "subject name": "Professionalism and Clinical Processes B",
+    "subject code": "AUDI90056",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject allows students to consolidate the knowledge developed in Professionalism and Clinical Processes A in the context of their developing clinical audiology skills. Reflective practice underpins all elements of this subject. On completion of the subject, students will have further developed and be able to demonstrate their reflective practice skills in clinical environments and on clinically-relevant topics. They will be aware of and be able to describe the overlap between hearing and balance health outcomes in the context of the individual and their community. They will also be able to critically reflect on and describe their own future growth requirements for clinical practice."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Accurately and professionally perform routine audiological clinical duties in a timely manner using a client-centred approach.",
+        "Modify and reflect on their own performance in developing accurate audiological practice skills.",
+        "Implement communication strategies to appropriately respond to client behaviours and attributes, and to optimise client engagement.",
+        "Illustrate awareness of culturally safe approaches, to build trust and relationships with clients from diverse backgrounds, including Aboriginal and Torres Strait Islander peoples and those from other culturally and linguistically diverse backgrounds."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AUDI90053",
+                    "AUDI90055",
+                    "AUDI90057",
+                    "AUDI90059"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Two written assignments. 1000 words (each)",
+            "timing": "Assignment 1: Week 1-6   \r\nAssignment 2: Week 7-12",
+            "percentage": "40%"
+        },
+        {
+            "description": "Group presentation. 20 minutes (total)",
+            "timing": "Between Weeks 3-9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Portfolio. 1500 words. Hurdle requirement:. Portfolio must be passed",
+            "timing": "End of semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Roleplay OSCE. 10 minutes",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Clinic placements. Hurdle requirement:. Attendance at 85% of placements",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Michelle Todorov"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Lectures (2 hours), workshops (2 hours), and clinical placements (5 hours) per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "michelle.todorov@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

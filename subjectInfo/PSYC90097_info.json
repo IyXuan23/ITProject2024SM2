@@ -1,0 +1,121 @@
+{
+    "subject name": "Mind, Brain & Behaviour 1",
+    "subject code": "PSYC90097",
+    "subject availability": [
+        "Summer Term"
+    ],
+    "overview": [
+        "Mind, Brain & Behaviour 1 provides an introduction to how we uniquely sense and perceive our world to construct our own internal psychological experience. The subject explores how we learn, think, remember, and operate within our constructed worlds; and explains the neural mechanisms that underpin psychological processes and experiences.",
+        "The subject is designed to raise significant questions, prompting students to think about their own individual experiences and the experience of others. Students are introduced to the tools used in psychology to find answers to these questions. A common research-centred framework is adopted, and the methodological and statistical tools that support this framework are introduced and developed as an integral part of the subject.",
+        "The subject comprises 4 topic areas: Behavioural Neuroscience; Sensation and Perception; Learning and Cognition; and Psychological Research Methods."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "The fundamental principles of behavioural neuroscience, including the structure and function of the nervous system;",
+        "The mechanisms underpinning human sensation and perception;",
+        "Cognitive processes of learning and memory;",
+        "Psychological research methods;",
+        "Psychologically informed approaches to maintaining wellbeing and mental health in the context of tertiary study."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "PSYC10003",
+        "PSYC10006"
+    ],
+    "assessments": [
+        {
+            "description": "A written assignment. 2000 words",
+            "timing": "The week following the lectures for the relevant section.",
+            "percentage": "25%"
+        },
+        {
+            "description": "3 multiple choice answer tests (25% each). 40 minutes (each)",
+            "timing": "The week following the lectures for the relevant section.",
+            "percentage": "75%"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance of at least 80% of laboratory classes.  In case of failure  to meet the attendance requirement, additional work related to the missed class activities (e.g., short 500 word essay on missed topic) will be required before a passing grade can be awarded.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Principal coordinator": "Simon Cropper"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 19 January 2024"
+                },
+                {
+                    "Last self-enrol date": "4 January 2024"
+                },
+                {
+                    "Census date": "12 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "19 January 2024"
+                },
+                {
+                    "Assessment period ends": "24 January 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [
+                    "Dr Simon Cropper"
+                ],
+                "email": [
+                    "scropper@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no prescribed texts."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Eysenck, M.W. (2009)Fundamentals ofPsychology. Hove, Sussex, UK: Psychology Press/Palgrave Macmillan.Smyth, T.R. (2004) The Principles of Writing in Psychology Basingstoke, Hampshie, UK: Palgrave MacmillanRanzijn, R. McConnochie, K. & Nolan W. (2009)Psychology and indigenous Australians: Foundations of cultural competence.Palgrave MacmillanGravetterF.J. & Wallnau L.B. (2009) Statistics for the Behavioural Sciences (7th ed.). Belmont CA: Wadsworth/Thomson Learning"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is not available as a breadth subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "https://handbook.unimelb.edu.au/view/current/340AA"
+        ]
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "subject name": "Science: A Study of Life and Environment",
+    "subject code": "SCIE10001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Science provides a view of the living world and its environment that uses observation and measurement to build an understanding of the function of parts of a system and the interactions between them. This subject aims to develop students\u2019 understanding of this evidence-based approach, integrating the contributions of biology, chemistry, earth sciences and physics.",
+        "Careful development of students\u2019 academic skills is embedded in this subject.",
+        "Topics include:",
+        "Matter and interactions:an understanding of the basis of matter (atoms and molecules) and the organisation of matter at an atomic level, within living organisms and their environment;",
+        "Energy transfers and transformations:Types of energy and relevance to the environment; mechanical and thermal energy transfers and transformations, behaviour of light and other electromagnetic radiation;",
+        "The global environment:The global energy system and evolving global climates, atmosphere, ocean and water cycles, global ecology;",
+        "The living world:What is life? Observations of the interactions of living things with their environment, the cycling of energy through living systems and their environment;",
+        "The consequences of change in the environment:Living things and selective pressures, speciation and evolution.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "explain the principles underpinning our understanding of the living world and interactions with the physical environment;",
+        "apply these principles using logical reasoning, together with appropriate mathematical reasoning, to a variety of familiar and novel situations and problems in the biological, chemical, physical and environmental sciences; and",
+        "acquire experimental data using a range of measurement instruments and interpret these data."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the B-SCIEXT Bachelor of Science (Extended)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Ongoing assessment of class activities, including practical and laboratory work, assessed regularly.. 1500 words (equivalent). Hurdle requirement:. Satisfactory completion of this assessment, including 75% attendance, is required for a pass",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Two tests with a total duration of one hour, held in Week 4 and Week 9 or 10. 1 hours",
+            "timing": "From Week 4 to Week 10",
+            "percentage": "15%"
+        },
+        {
+            "description": "Two written assignments, each equivalent to 500 words, due in Week 6 or 7 and Week 12. 1000 words (equivalent)",
+            "timing": "From Week 6 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "An examination. 2 hours. Hurdle requirement:. Satisfactory completion of this assessment is required for a pass",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Mick Moylan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x 2-hour classes per week, including approximately 16 hours of practical and/or laboratory work per semester"
+                },
+                {
+                    "Total time commitment": "160 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "mmoylan@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Reassessment may be offered to students admitted into the B-SCIEXT who fail this subject with a result of 40-49 and have no other fails in the same semester."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Please note that this subject is only available to Indigenous students whose eligibility to undertake the subject has been approved.",
+                    "Please note that this subject is only available to Indigenous students whose eligibility to undertake the subject has been approved."
+                ]
+            }
+        ]
+    }
+}

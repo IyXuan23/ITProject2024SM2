@@ -1,0 +1,64 @@
+{
+    "major name": "Jazz & Improvisation",
+    "overview": [
+        "Jazz & Improvisation is a program that balances skills with creativity to encourage the development of the personal voice and advanced technical skills through contemporary performance practice and creation of original compositions.",
+        "Jazz & Improvisation students learn performance skills in a range of individual and ensemble performance contexts, including close performance-based collaborations with music staff.",
+        "This major embraces studio-intensive pedagogy across jazz, world music, pop, rock, folk, indie, funk, experimental, electronica, big band, crossover music, a cappella and multimedia."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "225 credit points",
+            "To obtain a major in Jazz & Improvisation students will need to complete:",
+            [
+                "212.5 credit points of Jazz & Improvisation core subjects including\n75 credit points of Level 1 Jazz & Improvisation core subjects\n75 credit points of Level 2 Jazz & Improvisation core subjects\n62.5 credit points of Level 3 Jazz & Improvisation core subjects\n\n",
+                "75 credit points of Level 1 Jazz & Improvisation core subjects",
+                "75 credit points of Level 2 Jazz & Improvisation core subjects",
+                "62.5 credit points of Level 3 Jazz & Improvisation core subjects",
+                "12.5 credit points of Level 2 or 3 Music elective subjects"
+            ],
+            [
+                "75 credit points of Level 1 Jazz & Improvisation core subjects",
+                "75 credit points of Level 2 Jazz & Improvisation core subjects",
+                "62.5 credit points of Level 3 Jazz & Improvisation core subjects"
+            ]
+        ],
+        "Subject Lists": [],
+        "Music Electives": [
+            "https://handbook.unimelb.edu.au/components/b-mus-infspc-4"
+        ],
+        "Music Ensemble Electives": [
+            "https://handbook.unimelb.edu.au/components/b-mus-infspc-6"
+        ],
+        "Level 1 core subjects": [
+            {
+                "MUSI10180": "Contextual Studies 1 Credits",
+                "MUSI10181": "Ensemble Studies 1 Credits",
+                "MUSI10182": "Individual Performance Studies 1 Credits",
+                "MUSI10192": "Ensemble Studies 2 Credits",
+                "MUSI10193": "Contextual Studies 2 Credits",
+                "MUSI10197": "Individual Performance Studies 2 Credits"
+            }
+        ],
+        "Level 2 core subjects": [
+            {
+                "MUSI20175": "Individual Performance Studies 3 Credits",
+                "MUSI20176": "Ensemble Studies 3 Credits",
+                "MUSI20177": "Contextual Studies 3 Credits",
+                "MUSI20178": "Individual Performance Studies 4 Credits",
+                "MUSI20179": "Ensemble Studies 4 Credits",
+                "MUSI20180": "Contextual Studies 4 Credits"
+            }
+        ],
+        "Level 3 core subjects": [
+            {
+                "MUSI30225": "Ensemble Studies 5 Credits",
+                "MUSI30227": "Individual Performance Studies 5 Credits",
+                "MUSI30226": "Ensemble Studies 6 Credits",
+                "MUSI30228": "Individual Performance Studies 6 Credits",
+                "MUSI30272": "Research in Context Credits"
+            },
+            "Please refer to the following pages for all available music elective subjects:"
+        ]
+    }
+}

@@ -1,0 +1,107 @@
+{
+    "subject name": "Individual Research Project",
+    "subject code": "BUSA90504",
+    "subject availability": [
+        "August"
+    ],
+    "overview": [
+        "This subject provides those students wishing to progress to a higher research degree the opportunity to conduct individual research in either the development of theory and methods or the application of business analytics techniques. This subject is an alternative to the subjectIndustry Practicumand a student choosing this subject is disallowed fromIndustry Practicum."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Produce original individual work in an appropriate format which demonstrates research skills in the application or development of business analytic techniques;",
+        "Present their research professionally in a way that demonstrates the impact of their research."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90543",
+                    "BUSA90542",
+                    "BUSA90541",
+                    "BUSA90540",
+                    "BUSA90539",
+                    "BUSA90538",
+                    "BUSA90536",
+                    "BUSA90537"
+                ],
+                "Students will need to organise approval from the Academic Director before enrolling in this research pathway subject"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "BUSA90502",
+        "BUSA90502 Industry Practicum"
+    ],
+    "assessments": [
+        {
+            "description": "Research Report for projects being undertaken by individuals. 7000 words (equivalent). Hurdle requirement",
+            "timing": "Final week of the subject",
+            "percentage": "70%"
+        },
+        {
+            "description": "Individual Oral Presentation. 30 minutes",
+            "timing": "Final week of the subject",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "August": [
+                {
+                    "Principal coordinator": "Pete Manasantivongs"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "320 hours"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "5 August 2024 to  6 December 2024"
+                },
+                {
+                    "Last self-enrol date": "29 August 2024"
+                },
+                {
+                    "Census date": "30 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "25 October 2024"
+                },
+                {
+                    "Assessment period ends": "6 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "August": {
+                "name": [
+                    "Program Services"
+                ],
+                "email": [
+                    "programservices@mbs.edu"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

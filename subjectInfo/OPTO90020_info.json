@@ -1,0 +1,123 @@
+{
+    "subject name": "Project in Vision Science",
+    "subject code": "OPTO90020",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject involves laboratory experimental research in an area of Vision Science. The project will be based in the laboratory of an academic staff member in the Department of Optometry & Vision Sciences. Specific research projects will depend upon the availability of appropriate expertise, but may address a broad spectrum of vision science issues. The research project aims to develop a range of experimental and technical skills, a capacity to set goals and to design and plan experiments. Apart from the help and guidance from their supervisor(s) each student also has a committee which regularly meets with them and provides additional help and expertise. This committee is responsible for assessment of the research project."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "conducting research in vision science;",
+        "planning and executing laboratory based experimental research;",
+        "in data collection and analysis, and postulating testable hypotheses based on this data;",
+        "preparing and giving an oral and written presentation of the results;",
+        "expressing persuasive intellectual, scientific arguments;",
+        "assimilating and critically evaluating existing knowledge within a scientific paradigm"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A literature review. 3000 words. Hurdle requirement:. Pass/Fail",
+            "timing": "Toward the end of the first semester of the project",
+            "percentage": "N/A"
+        },
+        {
+            "description": "A grant proposal/project brief (10%) and corresponding oral presentation of grant proposal/project brief\u00a0(10 minutes, 5%). 2000 words",
+            "timing": "Both due early in the second semester of the project",
+            "percentage": "15%"
+        },
+        {
+            "description": "A final oral presentation. 20 minutes. Hurdle requirement:. Pass/Fail",
+            "timing": "Towards the end of the final semester of\u00a0the project",
+            "percentage": "N/A"
+        },
+        {
+            "description": "A major research report. 20,000 words",
+            "timing": "Towards the end of the final semester of\u00a0the project",
+            "percentage": "85%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Trichur Vidyasagar"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Trichur Vidyasagar"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

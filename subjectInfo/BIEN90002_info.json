@@ -1,0 +1,160 @@
+{
+    "subject name": "Biochemical Engineering Design Project",
+    "subject code": "BIEN90002",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "This unit requires the students to undertake a major design task utilising the knowledge gained throughout the Biochemical engineering course. This comprises the following tasks: design of a process to meet a specified requirement; feasibility study of alternative processes which meet the specification; determination of sequence for investigation of a chemical manufacturing project and preparation of a report; consideration of environmental impacts and sustainability issues; preparation of flowsheets; confirmation of effects of market forecasts; economic evaluation; preparation of estimates for the minimisation of capital and production costs; specification of equipment; selection of construction materials; and specification of instrumentation location, staff and labour requirements and safety precautions. The HYSYS simulation package will be utilised where appropriate. There will also be a series of lectures on various aspects of design.",
+        "This subject forms the major capstone design project for the Chemical engineering Discipline and closely simulates the design procedures the graduate students will undertake in chemical industry process and design engineers. The pre-requisites ensure that the students bring together all of the undergraduate knowledge and skills imparted in earlier years of the degree program. All aspects of the safe and environmentally responsible design of a chemical process plant are covered in this unit through project based learning. Through a careful sequential approach, the students develop a feasibility study, an initial process scoping and development report, and finally, a detailed design report. Team work is emphasized throughout to mimic the typical team environment the students will encounter in the work place."
+    ],
+    "indicative content": [
+        "No new topics of a technical nature are introduced into this unit. The unit requires the students to integrate their skills and knowledge from earlier units into a single, design project executed in a team environment. The content therefore includes:",
+        "A feasibility study which includes market analysis, plant location and health and safety assessment and preliminary economic evaluation of the proposal",
+        "A process development report which includes the assessment of technology options to produce the required product, a mass and energy balance of the proposed process, as evaluation of the environmental impact of the process, a safety analysis, and a detailed process flow diagram of the proposed process",
+        "A detailed design report including the detailed process and mechanical design of a unit operation with the process, the full process control and operation as well as process and instrumentation diagram of the process, specification of all minor equipment items in the process, a full HAZOP of a section of the plant, a full economic analysis and sensitivity study of the proposed plant.",
+        "This subject has been integrated with the Skills Towards Employment Program (STEP) and contains activities that can assist in the completion of the Engineering Practice Hurdle (EPH)."
+    ],
+    "intended learning outcomes": [
+        "Complete a chemical engineering feasibility study for a proposed product/process",
+        "Conduct a process development assessment and mass and energy balances to determine the overall scope and intent of the project",
+        "Carry out the integrated process and equipment design for an industrial chemical process, which is initially poorly-defined and for which much of the design data is not available",
+        "Function as part of a team and manage their time effectively",
+        "Apply all of the hard and soft skills acquired in earlier units in an integrated way to develop a full chemical plant design package"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "CHEN40005 Process Equipment Design (prior to 2010)",
+                [
+                    "CHEN90007"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "CHEN90012"
+                ],
+                [
+                    "CHEN90013"
+                ]
+            ],
+            "additional pre-requisite": [
+                "CHEN40007 Process Engineering (Prior to 2010)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CHEN90022",
+        "CHEN40009 Design Project",
+        "BIEN40002 Biomolecular Engineering Design Project"
+    ],
+    "assessments": [
+        {
+            "description": "Part A: Group Assessment / Project- First Report: Team report submission of a feasibility study of up to 30 pages. Peer assessment is required and considered in the marking of these reports. Due approximately one third of the way through the semester (on or around week 4). Part B: An Individual closed-book proctored questionnaire (in class, in-person) where students are asked about the content of their report. Intended Learning Outcomes (ILOs) 1, 4 and 5 are addressed.. 30-40 hours (of work required)",
+            "timing": "Part A in Week 4, and Part B in Week 5",
+            "percentage": "15%"
+        },
+        {
+            "description": "Part A: Group Assessment / Project- Second Report: Team report submission of up to 100 pages (not including supporting material such as appendices, diagrams, tables, computations and computer output). Peer assessment is required and considered in the marking of these reports. Due approximately two thirds of the way through the semester (on or around week 8). Part B: An Individual closed-book proctored questionnaire (in class, in-person) where students are asked about the content of their report. ILOs 2, 4 and 5 are addressed.. 70-80 hours (of work required)",
+            "timing": "Part A in Week 8, and Part B in Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "Part A: Practical Assessment / Project- Final Report: Individual report submission of up to 100 pages (not including supporting material such as appendices, diagrams, tables, computations and computer output). Report includes components generated as a team. Part B: An Individual closed-book proctored questionnaire (in class, in-person) where students are asked about the content of their report. ILOs 3-5 are addressed.. 170-180 hours (of work required). Hurdle requirement:. A mark of 50% or more in the final report is required to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "55%"
+        },
+        {
+            "description": "Hurdle requirement:. An aggregate mark of 50% or more is required to pass the subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Christopher Honig"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 2 hour lecture + 1 x 3 hour consultation session per week"
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Dr Christopher Honig"
+                ],
+                "email": [
+                    "christopher.honig@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is developed through team work and through a series of lectures, guest speakers, and weekly consultancy sessions. The deliverables in the project are managed carefully and teams are expected to meet deadlines as required during the unit. The consultancy sessions include meetings with industry engineers to provide real-work input into the students design and decision making process.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Prior to the start of this unit, a substantial database of technical reports, journal articles, web sites and patents is set up. These are all relevant to the particular chemical/biological process being evaluated. Students have access to this database through the subject LMS site upon the start of the project. In addition, lecture notes and weekly consultancy sessions with experienced engineers provide additional resources for their learning. All lecture notes, discussion, progress updates etc are communicated through the project LMS site.",
+            "CAREERS / INDUSTRY LINKS",
+            "The unit is run in close consultation with industry engineers both with respect to setting up the project as well as weekly consultancy sessions with industry engineers. Guest lecturers from industry are also invited to convey the industry relevance of the project undertaken."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ]
+    }
+}

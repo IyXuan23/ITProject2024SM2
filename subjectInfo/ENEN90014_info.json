@@ -1,0 +1,149 @@
+{
+    "subject name": "Sustainable Buildings",
+    "subject code": "ENEN90014",
+    "subject availability": [
+        "September"
+    ],
+    "overview": [
+        "AIMSThis subject provides a multi-disciplinary overview of the design of sustainable buildings and considers the design from an architectural, services engineering, facade engineering, environmental engineering and structural engineering, tenants and owners perspective. A number of industry based case study examples will be introduced to complement the lectures.This subject uses a project based learning project where students work in teams to design a new or refurbished commercial building to improve the environmental and social performance of the building. Students learn to apply sustainability-rating tools used in industry to their solutions.Students in the subject come from different disciplinary backgrounds, principally engineering and architecture, and are expected to share their knowledge and learn from each other to successfully complete the project work. This stands them in good stead for entering professional practice in the area of sustainability.INDICATIVE CONTENTTopics include: ecological sustainable design, life cycle analysis, planning for sustainable buildings and cities, regulatory environment, barriers to green buildings, green building rating tools, material selection, embodied energy, operating energy, indoor environmental quality (noise, light and air), facade systems, ventilation systems, transportation, water treatment systems, water efficiency, building economics, and staff productivity. These will be covered in the following thematic areas:",
+        "Sustainable Cities",
+        "Sustainable Precincts",
+        "Building Envelope",
+        "Building services - Heating, Ventilation and Air Conditioning",
+        "Building services - Energy",
+        "Building Services - water",
+        "Existing Buildings",
+        "Green Building Rating Tools",
+        "ESD Drivers and Barriers",
+        "ESD Economics",
+        "the process of a green building - 60L CH2",
+        "Business Perspective",
+        "Case Studies."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify the critical sustainability issues that should be addressed in planning a building or new development",
+        "Estimate the green star rating of a new building",
+        "Identify the issues effecting indoor environmental quality",
+        "Select different heating and cooling ventilation systems and justify the selection",
+        "Calculate the embodied energy of different structural systems including recycled material",
+        "Calculate the utilisation energy and greenhouse gas production of different building conceptual designs",
+        "Carry out conceptual designs for the design of a water supply system for a building with a focus on water conservation and recycling measures and estimate the expected water consumption requirements",
+        "Undertake cost studies of different green star rated buildings using life cycle cost analysis techniques."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ABPL90120"
+    ],
+    "assessments": [
+        {
+            "description": "One written exam. Intended Learning Outcomes (ILOs) 1 to 8 are addressed in this examination. 2 hours",
+            "timing": "Conducted during the second semester examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Test",
+            "timing": "1 Weeks after the end of teaching",
+            "percentage": "10%"
+        },
+        {
+            "description": "Written group assignments of approximately 3000 words per person in total, or equivalent. Peer assessment is used. ILOs 1 to 8 are addressed in this assignment. 75 hours (of work required)",
+            "timing": "4 Weeks after the end of teaching",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "September": [
+                {
+                    "Principal coordinator": "Lu Aye"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "35 hours: This is a week long intensive subject held in the mid-semester break of Semester 2. During the mid-semester break there will be 30 hours of lectures and 5 hours of tutorials."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Pre teaching start date": "15 July 2024"
+                },
+                {
+                    "Pre teaching requirements": "An optional introductory lecture will be held during orientation week. Pre-reading material will be made available via the LMS one week prior to the introductory lecture.\r\nStudents are required to complete all pre-reading material during the pre-teaching period prior to the first lecture in September."
+                },
+                {
+                    "Teaching period": "23 September 2024 to 27 September 2024"
+                },
+                {
+                    "Last self-enrol date": "29 July 2024"
+                },
+                {
+                    "Census date": "23 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "4 October 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "September": {
+                "name": [
+                    "Associate Professor Lu Aye"
+                ],
+                "email": [
+                    "l.aye@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject is based on presentations by experienced industry professionals who present case studies in their area of expertise. In addition each student prepares a group assignment paper on refurbishment of a selected office building to improve Green Star rating.INDICATIVE KEY LEARNING RESOURCES\u2022 CH2 Building Learning Construct II on linehttp://people.eng.unimelb.edu.au/lua/CH2/\u2022 Selective Papers from CRC Construction Innovationhttp://www.construction-innovation.info/index1e35.html?id=39\u2022 Your Building Prospering from Sustainabilityhttp://www.yourbuilding.org/\u2022 GBCA rating toolshttp://www.gbca.org.au/green-star/rating-tools/CAREERS / INDUSTRY LINKSPresenters from industry present case studies.Green Building Council Australia"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

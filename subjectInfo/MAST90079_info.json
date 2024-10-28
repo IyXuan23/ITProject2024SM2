@@ -1,0 +1,105 @@
+{
+    "subject name": "AMSI Summer School",
+    "subject code": "MAST90079",
+    "subject availability": [
+        "Summer Term"
+    ],
+    "overview": [
+        "The AMSI Summer School is a four-week program hosted at different Australian universities by the Australian Mathematical Sciences Institute.",
+        "This subject will give students the opportunity to attend subjects taught by eminent lecturers from around Australia, creating an opportunity to study areas of mathematical sciences and cognate disciplines that may not be otherwise available at the University of Melbourne. AMSI Summer School is an exciting opportunity for mathematical sciences students from around Australia to come together over the summer break to develop their skills and networks.",
+        "Students can choose from a selection of available modules. No course within the AMSI Summer School program that substantially covers material available in existing University of Melbourne postgraduate Mathematics and Statistics subjects will be available. The School of Mathematics and Statistics determines the subset of allowed modules that University of Melbourne students can choose from.This subject is only available to students enrolled in the Master of Science (Mathematics and Statistics) or the Graduate Diploma in Science (Advanced) in the Mathematics and Statistics stream.",
+        "Information on modules available at each Summer School is available on theAMSI Summer School website."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "have gained an understanding at postgraduate level of the mathematics and statistics of the selected topic;",
+        "be familiar with the basic mathematical techniques used in the area of the selected topic;",
+        "appreciate the role of the newly learned mathematical results in the broader context of mathematical sciences and their potential applications to solving real world problems;",
+        "have the ability to pursue further studies in the area of the selected topic and related areas."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Subject coordinator approval, upon endorsement by your current supervisor and course coordinator, is required upon application."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Two written assignments of up to 12 pages each due during and at the end of the teaching period (20% each). 24 pages",
+            "timing": "Throughout the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Examination. 3 hours",
+            "timing": "After the teaching period at the School of Mathematics and Statistics",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Coordinator": "James Osborne"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "28 hours over 4 weeks"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 16 February 2024"
+                },
+                {
+                    "Last self-enrol date": "11 January 2024"
+                },
+                {
+                    "Census date": "19 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "24 February 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [],
+                "email": [
+                    "ms-msc-coordinator@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Details of prescibed text will be provided after enrolment."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

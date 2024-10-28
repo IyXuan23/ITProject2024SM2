@@ -1,0 +1,148 @@
+{
+    "subject name": "Honours Composition 2",
+    "subject code": "MUSI40068",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is further directed towards continuing composition majors with demonstrated experience and capabilities commensurate with an honours standard.",
+        "Students create a folio of original music across the semester (scores and recordings) including composition projects, covering areas of compositional philosophy, technique, directed listening and score reading."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "developed their own individual working methods and habits, style, language and goals;",
+        "been introduced to advanced techniques and equipment as required for composition projects;",
+        "further extended their knowledge and awareness of the contemporary orchestral repertoire."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MUSI40067"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "A 25-minute folio of compositions written under supervision across the semester. 4800 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        },
+        {
+            "description": "A concert presentation towards the end of semester of the student's work. 20 minutes",
+            "timing": "Second half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Composition process journal with reflection. 400 words (equivalent)",
+            "timing": "During the examination period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Miriama Young"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "32 hours, comprising eight 1-hour individual lessons per semester and one 2-hour seminar per week."
+                },
+                {
+                    "Total time commitment": "255 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Miriama Young"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "32 hours, comprising eight 1-hour individual lessons per semester and one 2-hour seminar per week."
+                },
+                {
+                    "Total time commitment": "255 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Miriama Young:"
+                ],
+                "email": [
+                    "miriama.young@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Miriama Young:"
+                ],
+                "email": [
+                    "miriama.young@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

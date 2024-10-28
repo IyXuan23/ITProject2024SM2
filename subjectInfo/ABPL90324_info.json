@@ -1,0 +1,109 @@
+{
+    "subject name": "Materials and Structures",
+    "subject code": "ABPL90324",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject is an introduction to engineering materials, statics, mechanics, and structural systems designed for students without a background in engineering, construction or building. It provides a general understanding of engineering materials and discusses how these materials are used in construction. Concepts of mechanic of materials and structural systems will be discussed by drawing on examples in residential and low-rise construction. Various forms of structural systems for timber, reinforced concrete and steel construction will be investigated."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "To develop the capacity to evaluate the effects of loads and actions in the behaviour of structural systems;",
+        "To provide a fundamental understanding of the properties of engineering materials and how these mechanical properties influence the selection of materials for application in contemporary buildings;",
+        "To provide a sound theoretical background in statics, mechanics and structural analysis for understanding the choice of materials and structural systems; and",
+        "To provide an introduction to the basic principles of reinforced concrete design."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Ten individual assignments equivalent to 150 words each due on a weekly basis. 150 words (each)",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "One group assignment equivalent to 1000 words per student. 1000 words (each)",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "One exam. 3 hours. Hurdle requirement:. A minimum mark of 40% must be achieved in the examination in order to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "James Helal"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours per week ( 1X2 hour lecture  and 1X1 hour tutorial)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "James Helal"
+                ],
+                "email": [
+                    "james.helal@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Wayne.Architectural structures, John Wiley and Sons, 2007.Dietmar Gross.Engineering mechanics. 1, Statics[electronic resource], Springer, 2009.Hosford.Solid mechanics[electronic resource], Cambridge University Press, 2010.Foster, Kilpatrick, Warner.Reinforced concrete basics 2E: analysis and design of reinforced concrete structures, Pearson, 2010."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

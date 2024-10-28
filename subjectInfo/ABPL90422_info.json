@@ -1,0 +1,152 @@
+{
+    "subject name": "SI_Lab: Spatial Information",
+    "subject code": "ABPL90422",
+    "subject availability": [],
+    "overview": [
+        "SI_ Lab: Spatial Informationis part of the  Digital Design and Fabrication Electives, which offer students the opportunity to build and demonstrate expertise and competence in the understanding and application of contemporary design tools that inform and shape students\u2019 design process and thinking. Digital Design and Fabrication Electives are based on a culture of experimenting and making \u2013 applying contemporary design and making tools to create advanced physical and digital artefacts and environments.For more detailed information concerning the respective tutors, design approaches and previous examples as well as other offerings in the Digital Design and Fabrication Electives suite please check on the ADD+F Research Hub website under teaching and learning:https://msd.unimelb.edu.au/addf",
+        "",
+        "SI_Labintroduces students to critical engagement with 3D scanning and virtual reality technologies for the creation, reproduction and representation of spatial environments and novel artefacts.Students gain knowledge and develop skills in immersive digital technologies, geometry, media and theory.InSI_Labstudents are introduced to various image making technologies, ranging from 3D-scanning, photography and film, to the use of real-time render engines and Virtual Reality systems, exploring questions of architectural reproduction and representation. While applying new representational technologies students demonstrate a critical understanding and reflection as well as the ability to apply these technologies in a conceptual and designerly manner.",
+        "",
+        "Key architectural sites, situations and events will be chosen to scan, analyse and represent using high resolution 3D point cloud data. Specific training will be provided to develop skills in the analysis and representation of the digital data, with student projects culminating in projects that range from the design of novel representations to virtual reality experiences, generated using real-time rendering engines, to generate innovative tectonic, aesthetic and spatial configurations.",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop skills in the analysis of spatial conditions using advanced 3D imaging technologies.",
+        "Demonstrate a deep understanding of digital reproduction tools such as laser scanning, photography, film and AR/VR.",
+        "Communicate critical views on new mediums for architectural representation.",
+        "Articulate knowledge on the relationship between new media and architectural theory.",
+        "Create a highly resolved and curated 3D image based presentation using real-time rendering engines.",
+        "Evaluate and communicate contemporary theories on architectural and cultural heritage preservation and representation."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "MC-ARCH Master of Architecture",
+                "MC-LARCH Master of Landscape Architecture",
+                "MC-ARCLARC Master of Architecture/Master of Landscape Architecture",
+                "MC-ARCHUP Master of Architecture/Master of Urban Planning",
+                "MC-ARCHUD Master of Architecture/Master of Urban Design",
+                "MC-ARCHCM Master of Architecture/Master of Construction Management"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Design Review 1. 18- 20 hours (of work required)",
+            "timing": "From Week 3 to Week 4",
+            "percentage": "15%"
+        },
+        {
+            "description": "Design Review 2. 18-20 hours (of work required)",
+            "timing": "From Week 7 to Week 8",
+            "percentage": "15%"
+        },
+        {
+            "description": "Final Design Review with verbal presentation. 62-66 hours (of work required). Hurdle requirement:. submission needs to be verbally presented and final design be passed in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Design Journal. 25-27 hours (of work required). Hurdle requirement:. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinators": "Rochus Hinkel and Craig McCormack"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1X3 hour workshop"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "26 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Rochus Hinkel"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 hours per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "22 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "rochus.hinkel@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Incidental costs": [
+            "In combination with prototyping and fabrication students should allow for a minimum of 100-200 AUD to cover material costs; costs often depend on students' choice of material."
+        ]
+    }
+}

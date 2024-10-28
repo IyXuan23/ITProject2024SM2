@@ -1,0 +1,198 @@
+{
+    "subject name": "Rehabilitation Professional Project",
+    "subject code": "REHB90012",
+    "subject availability": [
+        "Semester 1 (Extended) - Online",
+        "Semester 2 (Extended) - Online"
+    ],
+    "overview": [
+        "This 25 credit point subject is a capstone experience that will run over two consecutive terms, and will require students to integrate and apply an advanced body of knowledge and cognitive, technical and creative skills to design and complete a substantial professional project. Building on their previous learning and the University of Melbourne graduate attributes, the subject provides opportunities to extend, deepen and apply knowledge, skills and attributes in the context of a professional project. Students will conduct a professional project based on a needs assessment within their professional practice context, identifying and justifying priority service areas. Selecting a priority area in collaboration with an academic and professional mentor they will design, justify and present a program, service or resource, including a business case, to address the identified area of need and design a project to meet this need.",
+        "This subject provides the opportunity for interdisciplinary networking; dissemination of project outcomes with student peers and colleagues; and peer review prior to submission of the final assessment task."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Fluently and accurately discuss and debate key theoretical concepts in contemporary rehabilitation practices using the language of rehabilitation science.",
+        "Critically review policy and services outcomes within one rehabilitation practice context with a view to identifying gaps to provision of best practice as a basis of a project proposal.",
+        "Design and implement a sustainable new service, policy modification or program that addresses the needs identified.",
+        "Evaluation of their project ensuring sustainability, feasibility and stakeholder value."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "REHB90001",
+                    "REHB90002",
+                    "REHB90003",
+                    "REHB90009",
+                    "REHB90010",
+                    "HLTH90001"
+                ],
+                [
+                    "REHB90001",
+                    "REHB90007",
+                    "REHB90010",
+                    "MEDI90092",
+                    "SMED90001",
+                    "HLTH90001"
+                ],
+                [
+                    "PHTY90002",
+                    "PHTY90003",
+                    "PHTY90004",
+                    "PHTY90097",
+                    "REHB90003",
+                    "REHB90010"
+                ],
+                [
+                    "REHB90003",
+                    "REHB90005",
+                    "REHB90010",
+                    "PHTY90013",
+                    "PHTY90030"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "plus 12.5 credit points"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Professional Development Portfolio Part 1: Literature synthesis. 1500 words",
+            "timing": "Due Week 5, 1st term",
+            "percentage": "20%"
+        },
+        {
+            "description": "Professional Development Portfolio Part 2: Needs analysis report. 1500 words",
+            "timing": "Due Week 8, 1st term",
+            "percentage": "20%"
+        },
+        {
+            "description": "Project Presentation. 20 minutes",
+            "timing": "Due Week 5, 2nd term",
+            "percentage": "10%"
+        },
+        {
+            "description": "Professional Project Report. 6000 words",
+            "timing": "Due Week 9, 2nd term",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Extended) - Online": [
+                {
+                    "Coordinator": "Robyn Brennen"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "32 hrs. Students will meet online with their mentor x 2 hrs per week for the duration of the 2 x 8 week terms."
+                },
+                {
+                    "Total time commitment": "272 hours"
+                },
+                {
+                    "Pre teaching start date": "22 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "There is a one week pre-teaching period during which students are encouraged to view a video presentation of an overview of the subject, assessment requirements and expectations\r\nThese activities serve to prepare the students for commencing in their learning fully informed about the requirements of the subject."
+                },
+                {
+                    "Teaching period": "29 January 2024 to 23 June 2024"
+                },
+                {
+                    "Last self-enrol date": "2 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Extended) - Online": [
+                {
+                    "Coordinator": "Robyn Brennen"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "32 hrs. Students will meet online with their mentor x 2 hrs per week for the duration of the 2 x 8 week terms."
+                },
+                {
+                    "Total time commitment": "272 hours"
+                },
+                {
+                    "Pre teaching start date": "15 July 2024"
+                },
+                {
+                    "Pre teaching requirements": "There is a one week pre-teaching period during which students are encouraged to view a video presentation of an overview of the subject, assessment requirements and expectations\r\nThese activities serve to prepare the students for commencing in their learning fully informed about the requirements of the subject."
+                },
+                {
+                    "Teaching period": "22 July 2024 to  8 December 2024"
+                },
+                {
+                    "Last self-enrol date": "26 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Extended)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        },
+        {
+            "Semester 2 (Extended)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Required reading will be made available online."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

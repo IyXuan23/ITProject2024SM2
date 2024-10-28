@@ -1,0 +1,174 @@
+{
+    "subject name": "Marketing Strategy",
+    "subject code": "MKTG90005",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject serves as a capstone subject for the Master of Management (Marketing) integrating previous knowledge and skills acquired in other marketing subjects. This subject examines the task of preparing, implementing, and adjusting strategic marketing decisions and plans. It also introduces students to the tasks of utilising market information to identify and evaluate marketing strategies and gives students the opportunity to learn, examine and apply strategic decision processes in a business environment. The subject is application-oriented and makes extensive use of a simulation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain and apply marketing thinking and concepts to guide the development of marketing strategies and plans;",
+        "Explain and apply strategic marketing concepts;",
+        "Synthesise strategic marketing concepts and be able to apply these concepts in a business decision-making context (based on a simulation) and in marketing group projects (marketing plan and evaluation of market performance);",
+        "Critically evaluate the appropriateness of marketing strategies and tactics;",
+        "Integrate knowledge and skills acquired in previous marketing subjects."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 62.5 credit points of study"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the 150pt Program course entry point in the MC-MGMTMKT Master of Management (Marketing)"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 112.5 credit points of study"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the 200pt Program course entry point in the MC-MGMTMKT Master of Management (Marketing)",
+                "Students are encouraged to take the subject in their final Semester of study where practical."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Group marketing plan (usually in groups of 4-5). 3000 words",
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "description": "Group presentation to the executive board (15 minutes plus 5 minute Q&A) (usually in groups of 4-5). 20 minutes",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Individual contribution to weekly executive briefings. 15 minutes",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Overall simulation performance (usually in groups of 4-5). 16 hours",
+            "timing": "Week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual assignment. 1000 words",
+            "timing": "End of semester",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Peter Matheis"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36hrs (one 3-hour seminar per week)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Peter Matheis"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36hrs (one 3-hour seminar per week)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Peter Matheis -",
+                    ""
+                ],
+                "email": [
+                    "peter.matheis@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Dr Peter Matheis -"
+                ],
+                "email": [
+                    "peter.matheis@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

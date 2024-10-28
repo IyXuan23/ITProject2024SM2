@@ -1,0 +1,173 @@
+{
+    "subject name": "Design and Property Principles",
+    "subject code": "PROP20002",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces students to the basic principles and business concepts of Property, through examination of the underlying drivers of commercial Property Development and Property Investment, the underlying systems and relationships \u2013 social, commercial, political, economic and environmental - which govern the operation of property markets with particular reference to urban property in Australia. More specifically, the subject examines the nature of property, property and site analysis, the statutory planning process to obtain a planning permit, property market research, and relevance of these processes to development of financial modelling and examination of property productivity, profitability and financial performance. In addition, there is an examination of the participants in the property industry, their roles and how they interact. Topics include:",
+        "the character of property and property interests;",
+        "the nature of markets and exchange;",
+        "property markets and their evolution;",
+        "stakeholders;",
+        "markets and sub-market characteristics;",
+        "highest and best use/most probable use and property potential analysis;",
+        "value and worth in the property context; property classes \u2013 residential, industrial, retail, commercial, other public and private sector interests;",
+        "market maturity;",
+        "property development process;",
+        "property investment;",
+        "site analysis;",
+        "underlying concepts associated with planning, planning policy and the statutory planning process;",
+        "market analysis and marketability analysis;",
+        "market analysis techniques;",
+        "the underlying sources of information that lead to the development of financial feasibility for investment property and property development;",
+        "how research and decisions related to assessments of site analysis, statutory planning and market research relate to the development of financial feasibility models, measurement of a property\u2019s potential productivity, profitability and financial performance;",
+        "relevance of risk assessment, mitigation and management throughout feasibility process;",
+        "examination of data sources, collection, analysis, synthesis and review;",
+        "indicators of market movements.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the role of transdisciplinary design teams in conceptualising property design options;",
+        "Understand the dynamics of urban and regional economics, planning and development, and the emerging digital economy and translate for the design of cities and space creation;",
+        "Understand that macro and micro economic trends and social, cultural, strategic planning and political trends impact on design strategies and concepts for liveable cities and places;",
+        "Analyse strategic and statutory planning systems and their translation into design concepts, feasibility options and project developments;",
+        "Research and analyse property market drivers for the creation of market analysis and marketability studies."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST10012"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ECON10003",
+                    "ECON10004"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "VCE Mathematical Methods 3 and 4, or equivalent"
+            ],
+            "one of pre-requisite": [
+                [
+                    "ECON10003",
+                    "ECON10004"
+                ]
+            ],
+            "alternate pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ABPL20031\t Principles of Property"
+    ],
+    "assessments": [
+        {
+            "description": "Individual Assessment Task: One mid semester examination (approximately 20-25 hours of work). 90 minutes",
+            "timing": "Week 8",
+            "percentage": "25%"
+        },
+        {
+            "description": "Individual Assessment Task: One examination (approximately 40-55 hours of work). 180 minutes",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "description": "Individual Assessment Task: Ten in-lecture tests. 15-20 hours (of work required)",
+            "timing": "From Week 3 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Individual Assessment Task: Attendance at and Participation in Tutorials (Please see below for further details). Hurdle requirement:. Students must attend at least 80% of all tutorial classes",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must achieve a mark of at least 40% in each of the first three assessment tasks",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Dermot McGeown"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

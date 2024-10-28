@@ -1,0 +1,71 @@
+{
+    "major name": "English and Theatre Studies",
+    "overview": [
+        "English and Theatre Studies is a combined program and students can specialise in either area. It offers studies in imaginative writing and dramatic performance, focusing on their form, content, traditions and practices, and on the myriad ways they engage with the everyday world. The program offers subjects in a wide range of areas, from the Medieval and Early Modern to Romanticism, Modernism, and contemporary literature and performance. This includes British, Australian, American and postcolonial writing and theatre, and literary, cultural and performance theory. English and Theatre Studies at the University of Melbourne is recognised nationally and internationally for its innovative teaching, scholarship and research."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "This major requires the completion of:",
+            [
+                "25 credit points of Level 1 subjects, comprising of either:",
+                "\n\n12.5 credit points of Level 1 electives and 12.5 credit points of Arts Discovery (for a single major) OR 25 credit points of Level 1 electives (for a double major)\n",
+                "37.5 credit points of Level 2 electives",
+                "12.5 credit points of Level 3 Capstone Subject",
+                "25 credit points of Level 3 electives"
+            ],
+            "12.5 credit points of Level 1 electivesand12.5 credit points of Arts Discovery (for a single major)",
+            "OR",
+            "25 credit points of Level 1 electives (for a double major)",
+            "*Note:",
+            "Students must undertake the Arts Discovery subject as part of the course requirements and the Arts Discovery can be counted in one major only. For this major, you will need to complete two Level 1 subjects.",
+            "If you are completing a single major the correct enrolment for this major at level 1 is: The Arts Discovery subject and One Level 1 elective subject",
+            "If you are completing a double major the correct enrolment for this major at level 1 is: The Arts Discovery subject and One Level 1 Elective subject OR Two Level 1 Elective subjects"
+        ],
+        "Links": [
+            "https://arts.unimelb.edu.au/school-of-culture-and-communication/discipline-areas/english-and-theatre-studies"
+        ],
+        "Level 1 electives": [
+            {
+                "ENGL10001": "Modern and Contemporary Literature Credits",
+                "ENGL10002": "Literature and Performance Credits"
+            }
+        ],
+        "Level 2 electives": [
+            {
+                "ENGL20009": "The Australian Imaginary Credits",
+                "ENGL20020": "Romanticism, Feminism, Revolution Credits",
+                "ENGL20022": "Modernism and Avant Garde Credits",
+                "ENGL20023": "American Classics Credits",
+                "ENGL20025": "The House of Fiction: Literary Realism Credits",
+                "ENGL20030": "Modern and Contemporary Theatre Credits",
+                "ENGL20031": "Literature, Adaptation, Media Credits",
+                "ENGL20032": "Poetry, Love, and Death Credits",
+                "ENGL20033": "Shakespeare in Performance Credits",
+                "ENGL20034": "The Theatre Experience Credits",
+                "ENGL20035": "Critical Debates Credits",
+                "ENGL20036": "Theatre Histories Credits"
+            }
+        ],
+        "Level 3 Capstone Subject": [
+            {
+                "ENGL30052": "English, Theatre & Contemporary Culture Credits"
+            }
+        ],
+        "Level 3 electives": [
+            {
+                "ENGL30006": "Global Literature and Postcolonialism Credits",
+                "ENGL30016": "Decadent Literature Credits",
+                "ENGL30048": "Performance and the World Credits",
+                "ENGL30007": "Popular Fiction Credits",
+                "ENGL30046": "Romancing the Medieval Credits",
+                "ENGL30047": "Literature, Environment, Crisis Credits",
+                "ENGL30049": "Exploring Irish Literature Credits",
+                "ENGL30051": "Comedy Credits",
+                "ENGL30013": "Gothic Fictions Credits",
+                "ENGL30053": "Renaissance Drama Credits"
+            }
+        ]
+    }
+}

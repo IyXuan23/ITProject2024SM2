@@ -1,0 +1,141 @@
+{
+    "subject name": "Site Tectonics",
+    "subject code": "LARC30001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces landscape as three-dimensional space. Aspects of site grading and earthwork manipulation will be explored, including their experiential and functional implications. The Importance of landform modelling to the design vocabulary of landscape architecture will be introduced, alongside principles of technical implementation and representation techniques.",
+        "Prescribed software programs with no costAutodesk Civil 3DAutodesk 3Ds MaxQGIS (Opensource)Prescribed software programs with a costChaos Group VrayPrescribed software tools (cost varies)Layout software (e.g. Affinity Publisher)Details of software availability and pricing are captured athttps://edsc.unimelb.edu.au/student-experience/it-support"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Use a range of 2D, 3D, manual and digital representation mediums to communicate landform and site grading.",
+        "Articulate the social, cultural, and environmental impact of landscape grading and drainage design decisions.",
+        "Apply an industry typical iterative design development and documentation process to grading and drainage challenges",
+        "Accurately, sensitively, and creatively apply the relevant sections of the Australian standard AS 1428.1 Design for Access and Mobility to the design of equitable access.",
+        "Apply fundamental science and mathematics to technical grading and drainage problems."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "LARC20001"
+                ],
+                [
+                    "ARCH20001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ABPL20047",
+        "ABPL90271"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment 1: Compiled weekly exercises. 1600 words (equivalent)",
+            "timing": "Week 7",
+            "percentage": "40%"
+        },
+        {
+            "description": "Assignment 2: Digital exercises. 800 words (equivalent)",
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment 3: Grading design project. 1600 words (equivalent)",
+            "timing": "Week 12",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Nano Langenheim"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1X1 hour lecture  class and 1X3 hour tutorial and studio per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "nano.langenheim@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

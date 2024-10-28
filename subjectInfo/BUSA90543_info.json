@@ -1,0 +1,83 @@
+{
+    "subject name": "Text Analytics for Business",
+    "subject code": "BUSA90543",
+    "subject availability": [
+        "May"
+    ],
+    "overview": [
+        "This component helps students develop an understanding of the key algorithms used in natural language processing and text retrieval, for use in a diverse range of applications including search engines, cross-language information retrieval, machine translation, text mining, question answering, summarisation, and grammar correction. Topics to be covered include text normalisation, sentence boundary detection, part-of-speech tagging, n-gram language modelling, sentiment analysis, web mining and analysis, network analysis (including social network analysis), and text classification."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Develop and evaluate computational models of language.",
+        "Articulate issues relevant to the efficient implementation of language processing systems and text retrieval systems.",
+        "Apply natural language processing and information retrieval methodologies to textual data."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90537"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Syndicate Project (4 - 5 students per group). 2500 words (each)",
+            "timing": "From Week 2 to Week 8",
+            "percentage": "45%"
+        },
+        {
+            "description": "Final Examination. 2 hours. Hurdle requirement:. Students are required to pass the final examination to pass the subject",
+            "timing": "Week 9",
+            "percentage": "55%"
+        }
+    ],
+    "dates and times": [
+        {
+            "May": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "27 May 2024 to 19 July 2024"
+                },
+                {
+                    "Last self-enrol date": "6 June 2024"
+                },
+                {
+                    "Census date": "14 June 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "5 July 2024"
+                },
+                {
+                    "Assessment period ends": "26 July 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

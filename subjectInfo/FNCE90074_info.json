@@ -1,0 +1,124 @@
+{
+    "subject name": "Laboratory Rotation 2",
+    "subject code": "FNCE90074",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "Students are to participate in the day-to-day operation of a laboratory working on experiments related to human decision-making, actively engaging in its tasks and projects, in order to acquire on-the-job experience with the practical aspects of designing, managing and analysing experiments, become accustomed with team work, and to help create science. To the extent it is practically possible given other coursework, the student is allowed to complete the laboratory assignment overseas in a collaborating laboratory."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Acquire a practical understanding of how science is done",
+        "Plan each stage of a scientific research project",
+        "Work in teams",
+        "Engage in in-depth scientific discourse"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "COMP90049"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students must choose a different laboratory from the one selected in FNCE90073 Laboratory Rotation 1."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written report on the research questions currently being investigated in the lab that is being visited, and positioning of the research questions within the relevant literature.. 2,000 words",
+            "timing": "Week 7",
+            "percentage": "40%"
+        },
+        {
+            "description": "Written report on the research methods being used by the lab being visited to address the research questions described in the first report (see above).. 3,000 words",
+            "timing": "Week 12",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Pablo Franco Ulloa"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Pablo Franco Ulloa"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

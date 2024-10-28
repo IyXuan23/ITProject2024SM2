@@ -1,0 +1,129 @@
+{
+    "subject name": "Sustainable and Life Cycle Engineering",
+    "subject code": "MCEN90060",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Humankind faces global challenges related to economy, ecology and socio-policy, e.g. population growth, climate change, and unequal development.  Unsustainable consumption and production patterns have resulted in substantial economic and social costs and may endanger life on our planet. Engineers and scientists have developed methods and tools to evaluate and implement technological and societal processes to tackle the challenges of sustainability.  Therefore, this subject aims to develop a holistic view of engineering the entire life cycle of a product or service from raw material extraction, production, usage to disposal.",
+        "This subject consists of four main modules 1) sustainable development and life cycle thinking; 2) life cycle analysis tools, 3) eco-design and cleaner production, and 4) closed-loop economy. This subject will engage students with the state-of-the-art research development and leading industrial practices in topics such as product life cycle management, life cycle assessment, sustainable manufacturing, circular economy etc. Guest speakers are also invited to provide broader examples from a global perspective."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "ILO1. Analyse triple bottom line of sustainability in an engineering context;",
+        "ILO2. Evaluate the whole life cycle of a product or service by applying life cycle analysis tools;",
+        "ILO3. Apply eco-design methods to reduce the environmental impact of a product;",
+        "ILO4. \tApply methods and technologies to promote cleaner production;",
+        "ILO5. Analyse end-of-life strategies to promote circular economy."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 100 credit points of study."
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-INDENG Master of Industrial Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 150 credit points of study."
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-MECHENG Master of Mechanical Engineering",
+                "MC-MTRNENG Master of Mechatronics Engineering",
+                "Mechanical specialisation (formal) in the MC-ENG Master of Engineering",
+                "Mechanical with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                "Mechanical with Aerospace specialisation (formal) in the MC-ENG Master of Engineering",
+                "Mechatronics specialisation (formal) in the MC-ENG Master of Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual mid semester test. Intended Learning Outcomes (ILOs) 1 and 2 are addressed in this assessment.. 1 hours",
+            "timing": "From Week 6 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group written report 1. Max. 2500 words for agroup of 4. ILO 2 is addressed in this assessment.. 2500 words",
+            "timing": "From Week 7 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group written report 2. Max. 2500 words for a group of 4. ILO 3 is addressed in this assessment.. 2500 words",
+            "timing": "From Week 9 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final assignment - Individual written report max 2000 words and a short 5-10 minute video presentation. ILOs 1 to 5 are addressed in this assessment.. 2000 words",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Wen Li"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours of lectures and 24 hours of workshops/tutorials"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

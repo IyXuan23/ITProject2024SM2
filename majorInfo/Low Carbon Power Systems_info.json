@@ -1,0 +1,107 @@
+{
+    "major name": "Low Carbon Power Systems",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "112.5 credit points",
+            "The Low Carbon Power Systems specialisation is completed by undertaking nine specific subjects (112.5 credit points).",
+            "Note:",
+            "Students entering the course with advanced standing who plan on completing a specialisation may need to enrol in core specialisation subjects in their commencing semester. Please check and follow the structure outlined for your intended specialisation and seek course planning advice.",
+            "To obtain a specialisation in Low Carbon Power Systems, students must complete:",
+            [
+                "75 credit points of Year 2 core specialisation subjects",
+                "12.5 credit points of Year 3 core specialisation subjects",
+                "25 credit points of Year 3 core specialisation capstone project subjects"
+            ],
+            "25 credit points of Year 3 core specialisation capstone project subjects",
+            "Year 1:",
+            [
+                "100 credit points of Year 1 compulsory subjects"
+            ],
+            "Year 2:",
+            [
+                "75 credit points of Year 2 core specialisation subjects",
+                "12.5 credit points of Year 2 Electrical Engineering selectives",
+                "12.5 credit points of electives"
+            ],
+            "Year 3:",
+            [
+                "37.5 credit points of Year 3 core specialisation subjects",
+                "62.5 credit points of electives"
+            ],
+            "Progression:",
+            "The core subject lists are divided into specific year levels, reflecting the recommended order of completing the course. There is, however, some flexibility between Year 2 and 3 core subjects, depending on the requisites set between them. Check the individual Handbook entries of these subjects for more detail."
+        ],
+        "Subject Options": [
+            "Year 1 compulsory subjects",
+            {
+                "ELEN20005": "Foundations of Electrical Networks Credits",
+                "ELEN20006": "Digital Systems Credits",
+                "MAST20029": "Engineering Mathematics Credits",
+                "COMP20005": "Intro. to Numerical Computation in C Credits",
+                "ELEN30009": "Electrical Network Analysis and Design Credits",
+                "ELEN30011": "Electrical Device Modelling Credits",
+                "ELEN30012": "Signals and Systems Credits",
+                "ELEN30013": "Electronic System Implementation Credits"
+            },
+            "Year 2 core specialisation subjects",
+            {
+                "ELEN90074": "Introduction to Power Engineering Credits",
+                "ELEN90055": "Control Systems Credits",
+                "ELEN90060": "Power System Analysis Credits",
+                "ELEN90092": "Low-carbon Grids: Operation & Economics Credits",
+                "ELEN90066": "Embedded System Design Credits",
+                "ELEN90075": "Power Electronics Credits"
+            },
+            "(Must be completed in Year 2 of the course)",
+            "Year 2 Electrical Engineering selectives",
+            {
+                "ENGR90021": "Critical Communication for Engineers Credits",
+                "ENGR90034": "Creating Innovative Engineering Credits",
+                "ENGR90039": "Creating Innovative Professionals Credits"
+            },
+            "Year 3 core specialisation subjects",
+            {
+                "ELEN90077": "Grid Integration of Renewables Credits",
+                "ENGR90037": "Engineering Capstone Project Part 1 Credits",
+                "ENGR90038": "Engineering Capstone Project Part 2 Credits"
+            },
+            "(Must be completed in Year 3 of the course)",
+            "Low Carbon Power Systems Group A (Electrical Engineering) electives",
+            {
+                "ELEN90026": "Introduction to Optimisation Credits",
+                "ELEN90051": "Advanced Communication Systems Credits",
+                "ELEN90052": "Advanced Signal Processing Credits",
+                "ELEN90053": "Electronic System Design Credits",
+                "ELEN90054": "Probability and Random Models Credits",
+                "ELEN90056": "Electronic Circuit Design Credits",
+                "ELEN90057": "Communication Systems Credits",
+                "ELEN90058": "Signal Processing Credits",
+                "ELEN90059": "Lightwave Systems Credits",
+                "ELEN90061": "Communication Networks Credits",
+                "ELEN90062": "High Speed Electronics Credits",
+                "ELEN90064": "Advanced Control Systems Credits",
+                "ELEN90088": "System Optimisation & Machine Learning Credits",
+                "ELEN90089": "Communication Design Clinic Credits",
+                "ELEN90090": "Autonomous Systems Clinic Credits",
+                "ELEN90091": "Semiconductor Devices Credits",
+                "ELEN90093": "Microprocessor Design Clinic Credits",
+                "ELEN90094": "Large Data Methods & Applications Credits",
+                "ELEN90011": "Directed Studies Credits",
+                "ELEN90095": "AI for Robotics Credits",
+                "ELEN90096": "Hardware Accelerated Computing Credits"
+            },
+            "Group B (Approved) electives",
+            {
+                "MAST90014": "Optimisation for Industry Credits",
+                "COMP90015": "Distributed Systems Credits",
+                "MCEN90017": "Advanced Motion Control Credits",
+                "ENGR90036": "Leadership for Innovation Credits",
+                "BUSA90485": "Global Business Practicum Credits",
+                "ENGR90026": "Engineering Entrepreneurship Credits",
+                "ENGR90033": "Internship Credits"
+            }
+        ]
+    }
+}

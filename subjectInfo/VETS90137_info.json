@@ -1,0 +1,113 @@
+{
+    "subject name": "Veterinary Bacteriology and Mycology",
+    "subject code": "VETS90137",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject introduces students to the study of bacterial and fungal infectious agents as causes of disease in animals. It includes taxonomic and biological considerations of common and important bacterial and fungal pathogens, the host-pathogen interaction and the pathogenesis of disease, disease transmission and epidemiology, methods of diagnosis of bacterial and fungal diseases as well as prevention, control and treatment."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain how the biological characteristics and virulence factors of bacteria and fungi causing common and important diseases of animals contribute to the clinical signs and subclinical effects of these pathogens in infected individuals, and the scientific criteria that must be fulfilled to describe them as the causal agents of these diseases",
+        "Apply an understanding of the pathogenesis and epidemiology of infectious diseases to devise appropriate and effective methods for diagnosing, treating, controlling and preventing these diseases in individual animals and in populations",
+        "Describe the principles underlying therapy with antimicrobial drugs, including the basis for their activity, the pharmacokinetic and pharmacodynamic principals underlying therapy, and the mechanisms conferring intrinsic and acquired antimicrobial resistance and its dissemination, and the principles of antimicrobial stewardship, and apply them to selection of appropriate therapeutic regimens in veterinary settings",
+        "Explain the basis of laboratory microbiological diagnosis and apply this knowledge to detection and identification of a range of specific pathogenic bacteria and fungi",
+        "Describe the sources, modes of transmission, risks to human health and methods for control of zoonotic bacteria and fungi that infect domestic, farmed and wild animals in Australia and internationally"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "VETS90130"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "Practical test. 1 hours",
+            "timing": "Week 8\u201010",
+            "percentage": "30%"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "65%"
+        },
+        {
+            "description": "Pre/post practical assessment. 5 hours (of work required)",
+            "timing": "During the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "description": "Aggregate Mark. Hurdle requirement:. Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinators": "Marc Marenda and Joanne Allen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "43 hours of lectures, practical classes and workshops"
+                },
+                {
+                    "Total time commitment": "100 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "mmarenda@unimelb.edu.au",
+                    "jlallen@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

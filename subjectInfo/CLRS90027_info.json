@@ -1,0 +1,142 @@
+{
+    "subject name": "Principles of Clinical Research",
+    "subject code": "CLRS90027",
+    "subject availability": [
+        "February"
+    ],
+    "overview": [
+        "Medical research studies can be split into five distinct phases\u2014conception, design, execution, analysis, and publication/reporting. The quality of a study is highly dependent on the selection of a proper study design and this in turn is determined by the research question to be answered.",
+        "This subject will introduce participants to the principles of research within a clinical (ie health) setting, in particular:",
+        "turning an idea into a research question that is measurable and evaluable",
+        "examine different study designs used in clinical/medical research",
+        "selecting a study design appropriate to answering the research question",
+        "refining a research question by examining the current literature through the construction of a 'literature review' of published scientific studies",
+        "assessing the strengths, weakness and biases of qualitative and quantitative study designs commonly encountered in the medical literature",
+        "literature searching and critical appraisal of published scientific",
+        "This subject provides individuals from medical and allied health professions (such as nurses, pharmacists, physiotherapists etc) and others with a biomedical science-based background with a conceptual framework in research which is undertaken in clinical and medical settings. This subject serves as a basis for advanced study in the Graduate Certificate in Clinical Research, the Graduate Diploma in Clinical Research and the Master of Clinical Research."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "describe the different types of research questions and the characteristics of a \u2018good\u2019 research question (PICO)formulate an answerable research question and develop a conceptual hypothesis",
+        "compare and contrast different types of quantitative (eg randomized control trial, case-control, experimental, cross-section, cohort, etc) and qualitative (eg ethnography, case studies, in depth interviewing, document analysis etc) study designs at an introductory level",
+        "develop principles for selecting an appropriate research design that best answers the research question",
+        "describe the various tools available to assess the quality of published qualitative and quantitative research studies and critically appraise the quality of published studies",
+        "demonstrate effective use of online literature databases to find relevant published research studies including how to develop and record a search strategy, identify and apply relevant inclusion and exclusion criteria and select appropriate key words and limits",
+        "differentiate between a narrative, systematic and meta-analysis review identifying the strengths and weaknesses of the three different review types",
+        "demonstrate sufficient preparatory knowledge for more detailed study in clinical research at the Diploma level"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "N28AA Professional Certificate in Clinical Research",
+                "N12AA Graduate Certificate in Clinical Research",
+                "N34AA Graduate Diploma in Clinical Research",
+                "N01AA Master of Clinical Research",
+                "This subject is not available for students admitted in any other courses."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Oral presentation (equivalent to 500 words) describing development and justification of a research question. 5 minutes",
+            "timing": "Due midway through the intensive teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Examination (equivalent to 1000 words) due on the last day of the intensive teaching period. 1 hours",
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Development and execution of a systematic search of the medical literature in an area of interest. 1500 words",
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "30%"
+        },
+        {
+            "description": "Quality assessment of two published research articles identified through the systemic search of the medical literature. 1000 words (total)",
+            "timing": "2 Weeks after the end of teaching",
+            "percentage": "20%"
+        },
+        {
+            "description": "Critical analysis of a published literature review. 1000 words",
+            "timing": "4 Weeks after the end of teaching",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Coordinator": "Monira Hussain"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 29 February 2024"
+                },
+                {
+                    "Last self-enrol date": "26 February 2024"
+                },
+                {
+                    "Census date": "8 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "22 March 2024"
+                },
+                {
+                    "Assessment period ends": "9 April 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Students will be provided with articles and references that support the teaching program as part of their course materials."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "https://study.unimelb.edu.au/find/courses/graduate/graduate-certificate-in-clinical-research/"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

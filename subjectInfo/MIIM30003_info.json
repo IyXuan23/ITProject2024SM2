@@ -1,0 +1,145 @@
+{
+    "subject name": "Medical and Applied Immunology",
+    "subject code": "MIIM30003",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject builds on the principles of immunology acquired by students in the pre-requisite subject MIIM30002 and provides a more detailed study of specific aspects of immunology. These include clinical and emerging areas in immunology such as: immune mechanisms that protect against pathogens and the implications for vaccine development and global health; immune system control and the diseases that may arise when that control is compromised; applications of immunology in organ transplantation; and immunotherapies to treat diseases of the immune system and cancers.",
+        "This subject is delivered by specialist research-based and clinical immunologists, who are experts in these areas of immunology. They will discuss the experimental basis of our knowledge of immunology, how laboratory-based research has been translated into clinical practice, and future directions for immunology research and clinical application."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the mechanisms by which various components of the immune system act in concert to provide protection against various infectious agents and cancer.",
+        "Discuss how these responses can be harnessed to develop vaccines and the role of vaccination in global health.",
+        "Describe the aetiology, pathogenesis and treatment of adverse immune responses occurring as a result of immune system dysregulation, such as occurs in autoimmune diseases.",
+        "Explain how immunotherapy modulates immune function leading to improved outcomes for immune disease and cancer patients, and understand the risk of unwanted effects.",
+        "Explain the immunological challenges of organ transplantation and how they are addressed.",
+        "Interpret experimental evidence that supports exemplar immunological concepts.",
+        "Integrate knowledge acquired throughout the subject and apply it to novel scenarios.",
+        "Relate laboratory-based experimental results to translated clinical applications."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MIIM30002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students who have obtained 40% \u2013 49% for MIIM30002 Principles of Immunology are advised to discuss the possibility of being accepted into this subject with the subject coordinators."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "2 X written examinations held at around Week 5 and Week 10 of semester (2 X 20%).. 45 minutes (each)",
+            "timing": "From Week 5 to Week 10",
+            "percentage": "40%"
+        },
+        {
+            "description": "A written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Sammy Bedoui"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three 1-hour lectures per week. Six 1-hour tutorials (approximately fortnightly)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Subject Coordinators"
+                ],
+                "email": [
+                    "MIIM-30003@unimelb.edu.au",
+                    "MIIM-30003@unimelb.edu.au",
+                    "MIIM-30003@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Janeway\u2019s Immunobiology (Murphy et al) 9th Edn, 2017"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students enrolled in the BSc (pre-2008 BSc), BASc or a combined BSc course will receive science credit for the completion of this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "major name": "History",
+    "overview": [
+        "The History curriculum offers students the opportunity to understand the worlds of the past, to reflect on the making of the present, and to develop the capacities to locate information, analyse evidence, think critically, and communicate effectively. The discipline offers both great range and detailed attention to particular places, times, and themes. Courses extend from the medieval world and the great empires to our most immediate past; all offerings reflect the latest developments in historical research and vocational practice."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "100 credit points",
+            "This major requires the completion of:",
+            [
+                "25 credit points of Level 1 subjects, comprising of either:",
+                "\n\n12.5 credit points of Level 1 electives and 12.5 credit points of Arts Discovery (for a single major) OR 25 credit points of Level 1 electives (for a double major)\n",
+                "37.5 credit points of Level 2 electives",
+                "12.5 credit points of Level 3 Capstone Subject",
+                "25 credit points of Level 3 electives"
+            ],
+            "12.5 credit points of Level 1 electivesand12.5 credit points of Arts Discovery (for a single major)",
+            "OR",
+            "25 credit points of Level 1 electives (for a double major)",
+            "*Note:",
+            "Students must undertake the Arts Discovery subject as part of the course requirements and the Arts Discovery can be counted in one major only. For this major, you will need to complete two Level 1 subjects.",
+            "If you are completing a single major the correct enrolment for this major at level 1 is: The Arts Discovery subject and One Level 1 elective subject",
+            "If you are completing a double major the correct enrolment for this major at level 1 is: The Arts Discovery subject and One Level 1 Elective subject OR Two Level 1 Elective subjects"
+        ],
+        "Links": [
+            "http://shaps.unimelb.edu.au/history"
+        ],
+        "Level 1 electives": [
+            {
+                "HIST10012": "The World Since World War II Credits",
+                "HIST10015": "Dictators & Democrats: The Modern World Credits",
+                "HIST10016": "Europe: From Black Death to New Worlds Credits",
+                "HIST10017": "Gender, Rights, and Power in History Credits"
+            }
+        ],
+        "Level 2 electives": [
+            {
+                "HIST20013": "The Holocaust & Genocide Credits",
+                "HIST20034": "Modern Southeast Asia Credits",
+                "HIST20052": "Venice and Cultures of Consumption Credits",
+                "HIST20059": "Slavery & Freedom: US History, 1763-1945 Credits",
+                "HIST20060": "Total War: World War II Credits",
+                "HIST20065": "Rebels and Revolutionaries Credits",
+                "HIST20068": "The French Revolution Credits",
+                "HIST20071": "Protest & Politics: US History, 1945-Now Credits",
+                "HIST20072": "Pirates and their Enemies Credits",
+                "HIST20080": "Witch-Hunting in European Societies Credits",
+                "HIST20084": "Red Empire: The Soviet Union and After Credits",
+                "HIST20086": "China in Global History since 1945 Credits",
+                "HIST20087": "City Visions: Melbourne Intensive Credits",
+                "HIST20088": "Indigenous History Credits",
+                "HIST20089": "Britain's Empire: Power and Resistance Credits",
+                "HIST20090": "Gender in History, 1800 to the Present Credits",
+                "HIST20091": "Migrant Nation: History Culture Identity Credits",
+                "HPSC20002": "A History of Nature Credits"
+            }
+        ],
+        "Level 3 Capstone Subject": [
+            {
+                "HIST30060": "Making History Credits"
+            }
+        ],
+        "Level 3 electives": [
+            {
+                "HIST30004": "A History of Sexualities Credits",
+                "HIST30006": "The Renaissance in Italy Credits",
+                "HIST30010": "Hitler's Germany and Fascism Credits",
+                "HIST30051": "Venice and Cultures of Consumption Credits",
+                "HIST30059": "Race in the Americas Credits",
+                "HIST30064": "Controversies in Australian History Credits",
+                "HIST30065": "US and the World: Rise of a Superpower Credits",
+                "HIST30066": "Cold War Cultures in Asia Credits",
+                "HIST30068": "A History of Violence Credits",
+                "HIST30074": "Global Histories of Indigenous Activism Credits",
+                "HIST30076": "Stalinism Credits",
+                "HIST30077": "Global Diasporas, Hellenic Cultures Credits",
+                "HIST30078": "Urban Indigenous History Credits",
+                "HPSC30034": "Magic, Reason and Science, 1450-1750 Credits"
+            }
+        ]
+    }
+}

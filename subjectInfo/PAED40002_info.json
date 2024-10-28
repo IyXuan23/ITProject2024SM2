@@ -1,0 +1,133 @@
+{
+    "subject name": "Coursework in Paediatrics & Child Health",
+    "subject code": "PAED40002",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "This subject provides students with an introduction to biomedical research via lectures, workshops and tutorials. It comprises a range of coursework to complement the accompanying research subjects (PAED40001andPAED40005). This subject is designed to enhance students\u2019 understanding of the broader areas of contemporary biomedical science, and to encourage the development of independent thinking and critical analytical skills."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify contemporary issues in biomedical and health research.",
+        "Critically appraise and comment on the scientific literature.",
+        "Design and plan research with appropriate hypotheses, controls, sampling and analyses.",
+        "Design and plan research with appropriate ethical and statistical rigor.",
+        "Identify a range of bioinformatics tools that can facilitate biomedical research.",
+        "Correctly use statistical methods, including hypothesis testing, p values and appropriate measures of variability."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOM40001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Mock grant application. 1100 words",
+            "timing": "Due Week 10-12",
+            "percentage": "24%"
+        },
+        {
+            "description": "Short answer test related to grant application. 20 minutes",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Biostatistics group assignment (assessments are submitted and assessed individually). 1000 words",
+            "timing": "Due July/August",
+            "percentage": "33%"
+        },
+        {
+            "description": "Written assignment on 'critical thinking and data analysis'. 1000 words",
+            "timing": "Due mid-semester 1",
+            "percentage": "33%"
+        },
+        {
+            "description": "Literature review. 1500 words. Hurdle requirement",
+            "timing": "Due mid-semester 1",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Oral presentation on research proposal. 5 minutes. Hurdle requirement",
+            "timing": "Due mid-semester 1",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Principal coordinator": "Belinda McClaren"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [],
+                "email": [
+                    "belinda.mcclaren@unimelb.edu.au",
+                    "helen.dcruz@rch.org.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students must be enrolled in the Bachelor of Biomedicine (Honours), Bachelor of Science (Honours) or Postgraduate Diploma in Science to complete this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.paediatrics.unimelb.edu.au/"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

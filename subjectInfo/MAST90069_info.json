@@ -1,0 +1,122 @@
+{
+    "subject name": "Introduction to String Theory",
+    "subject code": "MAST90069",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The first half of this subject is an introduction to two-dimensional conformal field theory with emphasis on the operator formalism and explicit calculations. The second half is an introduction to string theory based on the first half. For concreteness, the representation theory of Virasoro algebra and bosonic strings will be emphasized."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "have learnt the basics of two-dimensional Conformal Field Theory (CFT), including basic representation of Virasoro algebra, the Hilbert space of states, of free bosons, and conformal blocks;",
+        "have learnt the basic theory of bosonic strings, including the origin of the critical dimension, computations of tree amplitudes, etc;",
+        "appreciate the role of role of conformal field theory in string theory;",
+        "have the ability to pursue further studies in these and related areas."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST30021"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST20009",
+                    "MAST20032"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "No disallowed subject combinations among new-generation subjects."
+    ],
+    "assessments": [
+        {
+            "description": "Up to 40 pages of written assignments (two assignments worth 20% each, due mid and late in semester). 40 pages",
+            "timing": "Second half of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "A written examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Thomas Quella"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "thomas.quella@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Lecture notes available online."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Lecture notes available online."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

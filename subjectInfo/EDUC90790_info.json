@@ -1,0 +1,197 @@
+{
+    "subject name": "Capstone in Positive Psychology",
+    "subject code": "EDUC90790",
+    "subject availability": [
+        "February - Online",
+        "July - On Campus"
+    ],
+    "overview": [
+        "The capstone draws on theory, knowledge, and skills gained throughout the Master of Applied Positive Psychology program. Students reflect upon and further explore key learnings, identifying pathways beyond completion of the MAPP program. The subject further explores a variety of research-related approaches and issues affecting study validity.",
+        "Applied to the capstone project, students design a project grounded in the science of positive psychology, wellbeing, or related disciplines, within the context of their choice. Students will be expected to critically review relevant literature, document planning decisions, and consider methods for evaluating intervention/study outcomes. The subject culminates with students sharing their capstone project in written and verbal forms."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Synthesise research employed in positive psychology and the wellbeing sciences",
+        "Translate wellbeing-related research into a context relevant to their professional or personal interests",
+        "Develop an ethically sensitive approach to study or impact upon wellbeing",
+        "Design a research-based project with clear real-world implications",
+        "Demonstrate a capacity to communicate positive psychology and wellbeing-related research clearly, critically and persuasively",
+        "Demonstrate reflective practice regarding learning and professional application"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 50 credit points of study"
+            ],
+            "one of pre-requisite": [
+                "Completion of a minimum of 50 credit points of study",
+                [
+                    "EDUC91041",
+                    ""
+                ]
+            ],
+            "additional pre-requisite": [
+                "Admission into the MC-APP Master of Applied Positive Psychology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Capstone project proposal. 1000 words",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Application insights portfolio. 2000 words",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Capstone oral presentation (1000 words equivalent). 5 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final capstone project. 6000 words",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. A minimum of 75% attendance at all synchronous sessions",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "February - Online": [
+                {
+                    "Principal coordinator": "Gavin Slemp"
+                },
+                {
+                    "Coordinator": "Nikki Rickard"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "48 hours: Comprising 24 hours of synchonous online sessions and 24 hours of asynchronous online sessions"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Pre teaching start date": "26 February 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students will be required to complete reading that will be provided via LMS."
+                },
+                {
+                    "Teaching period": "29 February 2024 to 16 May 2024"
+                },
+                {
+                    "Last self-enrol date": "26 February 2024"
+                },
+                {
+                    "Census date": "22 March 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "6 June 2024"
+                }
+            ]
+        },
+        {
+            "July - On Campus": [
+                {
+                    "Principal coordinator": "Gavin Slemp"
+                },
+                {
+                    "Coordinator": "Nikki Rickard"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours: Comprising 24 hours of on-campus sessions and 24 hours of asynchronous online sessions"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Pre teaching start date": "22 July 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students will be required to complete reading that will be provided via LMS."
+                },
+                {
+                    "Teaching period": "27 July 2024 to 12 October 2024"
+                },
+                {
+                    "Last self-enrol date": "23 July 2024"
+                },
+                {
+                    "Census date": "16 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "31 October 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [
+                    "and"
+                ],
+                "email": [
+                    "gavin.slemp@unimelb.edu.au",
+                    "nrickard@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "July": {
+                "name": [
+                    "Gavin Slemp <",
+                    "> and Nikki Rickard <",
+                    ">"
+                ],
+                "email": [
+                    "gavin.slemp@unimelb.edu.au",
+                    "nrickard@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Gravetter, F. J., & Forzano, L. B. (2018).Research methods for the behavioral sciences(6th ed.). Boston, MA: Cengage."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "Faculty of Education:https://education.unimelb.edu.au/"
+        ]
+    }
+}

@@ -1,0 +1,146 @@
+{
+    "subject name": "Learning & Teaching in Surgical Practice",
+    "subject code": "MEDS90007",
+    "subject availability": [
+        "Semester 1 (Early-Start) - Online"
+    ],
+    "overview": [
+        "This subject introduces participants to a range of educational methods and their application in medical and surgical education. Benefits and challenges of traditional and new methods will be discussed. The subject draws heavily on participants\u2019 experiences and educational theory. During a one-day meeting, participants will \u2018teach\u2019 and \u2018learn\u2019 in simulated activities. In workplace-based activities, participants will be required to design, deliver and reflect on their own teaching.",
+        "The overall aims of this subject are:",
+        "To provide participants with an opportunity to relate educational theory and practice",
+        "To promote critical discussion and reflection of current approaches to educational programs"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Review traditional educational methods (e.g. lectures, tutorials, bedside teaching)",
+        "Review &#39;contemporary&#39; educational methods (Egs. small group teaching, case based learning, problem based learning, simulation based education, peer assisted learning, e-learning, portfolios etc)",
+        "Design training materials underpinned by educational theory",
+        "Outline the role of feedback in learning",
+        "Use feedback to promote learning in a clinical setting",
+        "Discuss ethical issues associated with teaching and learning in clinical settings",
+        "Reflect on their own teaching practice highlighting strengths and areas for development"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "GC-SURGED Graduate Certificate in Surgical Education",
+                "GD-SURGED Graduate Diploma in Surgical Education",
+                "MC-SURGED Master of Surgical Education",
+                "Students enrolling in this subject as a single subject under the Community Access Program must meet the entrance requirements for the MC-SURGED.",
+                "This subject is not available for students admitted in any other courses."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Oral presentation supported by written material\r\n\r\nThe goal of this assessment is to provide students with an opportunity to study in depth and share with colleagues, a specific educational method (e.g. case-based learning, skills-base teaching, problem-based learning, portfolios, e-learning, peer assisted learning, etc) and it's application in surgical education;  In each tutorial group, students will present a different educational method.  10 minutes talk and 5 minutes of questions and answers. 10 minutes",
+            "timing": "Mid semester",
+            "percentage": "25%"
+        },
+        {
+            "description": "Essay session teaching plan \r\n\r\nThe goal of this assessment is to provide students with an opportunity to apply principles of sound educational practice in one teaching session aligned with their current practice; they will be expected to describe learner objectives, specific learning objectives, alignment of the session with curriculum goals, select educational method/s, measure of outcome for students who are recipients of the teaching.. 2000 words",
+            "timing": "Mid semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Essay reflection on session teaching plan \r\n\r\nThe goal of this assessment is for students to reflect on the strengths and areas for development in the teaching plan they implemented. They will be expected to provide an evidence-based rationale for their selection of objectives and methods, to outline why elements of the session worked effectively and how they can achieve this in other sessions. Similarly, why elements of the session need development and how they will make those improvements.. 1500 words",
+            "timing": "End of semester",
+            "percentage": "35%"
+        },
+        {
+            "description": "Reflection. 10 minutes. Hurdle requirement:. Students are expected to reflect on a selected reading from the reference list and prepare a 10-minute structured presentation. See the LMS for details of the structure.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start) - Online": [
+                {
+                    "Coordinator": "Debra Nestel"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "29 January 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period, students should complete pre-readings, which will be made available via Canvas"
+                },
+                {
+                    "Teaching period": "5 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "9 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Reading materials online"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "IT requirements:",
+            "Participants will require access to the internet with a minimum connection speed of 256Kbps to access course materials and to participate in on-line discussions and presentations forums. Faster connection speeds are preferred. Participants will also need to verify that their internet connection is configured to allow them to view streamed audio and video files. Test files will be made available for students to test their connections.",
+            "Participants are expected to have a headset and microphone connected to their computer for participation in on-line activities.",
+            "Participants will be expected to have access to the following Microsoft Office products to fully participate:",
+            [
+                "MS Word",
+                "MS Powerpoint"
+            ],
+            "All online applications will be web-based and no special software is required."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

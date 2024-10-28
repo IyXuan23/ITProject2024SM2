@@ -1,0 +1,117 @@
+{
+    "subject name": "Forensic Business Processes",
+    "subject code": "ACCT90026",
+    "subject availability": [],
+    "overview": [
+        "This subject introduces students to the field of forensic accounting. The subject examines in-depth the elements of forensic accounting investigations in the context of the Australian legal system. Specific issues in dispute analysis are covered including, the quantification of loss, business valuation in the context of disputes, and the preparation of expert witness reports. The legal underpinnings of forensic accounting investigations, such torts, contract law and the law of the expert witness are reviewed. Further, the subject covers the role of the forensic accountant in the investigation of fraud and the management of fraud risk within organisations, including both fraud prevention and detection.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the role of the forensic accountant in fraud investigations and dispute analysis",
+        "Explain the legal requirements and practice considerations of acting as an expert witness",
+        "Describe the Australian legal framework for fraud investigations and dispute analysis",
+        "Explain the procedures for collecting evidence that are consistent with the requirements of courts of law in Australia",
+        "Explain and analyse governance mechanisms and accountability frameworks for the prevention of fraud",
+        "Explain and apply fraud detection mechanisms; and",
+        "Apply the knowledge gained throughout this subject to analyse case studies and produce practical and effective recommendations for the conduct of investigative cases in business forensics"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-MGMTAFN Master of Management (Accounting and Finance)"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ACCT90004"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Group assignment (normally in groups of 2-3 students). 5000 words",
+            "timing": "Late in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Seminar preparation and participation",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester examination. 3 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Winter Term": [
+                {
+                    "Principal coordinator": "Dean Newlan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three 1.5-hour seminars and three 1.5-hour workshops per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "24 June 2024 to 19 July 2024"
+                },
+                {
+                    "Last self-enrol date": "28 June 2024"
+                },
+                {
+                    "Census date": "5 July 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "26 July 2024"
+                },
+                {
+                    "Assessment period ends": "2 August 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Winter Term": {
+                "name": [],
+                "email": [
+                    "accounting-teaching@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

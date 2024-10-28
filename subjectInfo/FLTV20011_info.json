@@ -1,0 +1,118 @@
+{
+    "subject name": "Gaming and the Writer",
+    "subject code": "FLTV20011",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject introduces concepts and practices used by writers in the games industry. Through a series of workshops and exercises, students will be introduced to gaming concepts and learn basic game development and writing skills, including interactive narrative writing. Students will also gain knowledge of the current gaming landscape.",
+        "Working in small groups, students will be required to conceive and develop an original concept for a gaming project. They will pitch and present their game in the appropriate professional format. Students will also be required to write and create a basic online interactive narrative."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "conceive and develop an original concept for a gaming project at an introductory level;",
+        "pitch a gaming concept to an industry panel;",
+        "write an interactive narrative using an online tool;",
+        "discuss and apply industry practices for writers in the computer games industry at an introductory level."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "FLTV20012",
+                    "FLTV20018"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "10-minute group presentation on games writing. 800 words (equivalent)",
+            "timing": "First half of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Interactive narrative practical project. 1600 words (equivalent)",
+            "timing": "Mid teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "10-minute game development group oral pitch and creation of game 'sell' documents. 1600 words (equivalent)",
+            "timing": "During the assessment period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum of 75% of all scheduled classes.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Students must submit all elements of assessment to be eligible for a pass in this subject. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task.\r\nSubmitting only part of an assessment task (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Matt Kazacos"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "40 hours, comprising 4 hours of seminars, workshops, and tutorials per week"
+                },
+                {
+                    "Total time commitment": "204 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Matt Kazacos:"
+                ],
+                "email": [
+                    "matt.kazacos@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

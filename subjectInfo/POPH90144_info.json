@@ -1,0 +1,133 @@
+{
+    "subject name": "Regression Methods in Health Research",
+    "subject code": "POPH90144",
+    "subject availability": [
+        "July - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject is compulsory for students doing a Master of Epidemiology or a Master of Science \u2013 Epidemiology. The subject covers linear regression methods for continuous outcome variables and logistic regression methods for binary outcome variables. The subject equips students with the practical skills to apply these regression methods to data from epidemiological studies using the statistical package Stata. Also covered is how to adjust for confounding and investigate effect modification using regression models. The focus is on the practical interpretation of the measures of association estimated by these regression models.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain how regression methods are used to address common objectives of health research in the three areas of descriptive, causal and predictive analysis",
+        "Discuss the fundamental concepts of regression models as tools for representing patterns of systematic variation in data, including interpretation of parameters and interaction effects",
+        "Estimate different types of causal effects (mean differences, risk ratios, odds ratios) in populations using regression models.",
+        "Describe the assumptions and limitations of the use of regression in estimating causal effects with adjustment for confounding",
+        "Outline key principles involved in building regression models for prediction purposes"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "POPH90013",
+                    "POPH90014"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "POPH90142 Epidemiology & Analytic Methods 1\nPOPH90143 Epidemiology & Analytic Methods 2"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "2 short quizzes (250 words each). 500 words (total)",
+            "timing": "Early in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Major Assignment [Report]. 2250 words",
+            "timing": "Week 6",
+            "percentage": "40%"
+        },
+        {
+            "description": "Major Assignment [Report]. 2250 words",
+            "timing": "Week 9",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "July": [
+                {
+                    "Coordinator": "Eric Au"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "30 hours"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 30 August 2024"
+                },
+                {
+                    "Last self-enrol date": "30 July 2024"
+                },
+                {
+                    "Census date": "16 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "4 October 2024"
+                },
+                {
+                    "Assessment period ends": "9 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "July": {
+                "name": [],
+                "email": [
+                    "eric.au@unimelb.edu.au",
+                    "https://ask.unimelb.edu.au",
+                    "Contact Stop 1",
+                    "https://study.unimelb.edu.au/"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "BR Kirkwood and JAC Sterne, Essential Medical Statistics Second Edition, Blackwell Science, 2003."
+                ]
+            }
+        ],
+        "Subject notes": [],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.mspgh.unimelb.edu.au"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

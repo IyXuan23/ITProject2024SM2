@@ -1,0 +1,150 @@
+{
+    "subject name": "Environmental Design in Housing",
+    "subject code": "ARCH30004",
+    "subject availability": [
+        "Summer Term"
+    ],
+    "overview": [
+        "Environmental Design in Housing forms part of the Environmental Systems specialisation.",
+        "This  subject prioritises the sustainable building design process and assessment tools used in the design ofNCC class 1 \u2013 2 buildings, which include standalone single dwellings and apartment buildings.",
+        "The subject combines theoretical knowledge of the environmental performance of residential buildings (such as energy, comfort, water, daylight, waste, ecology, innovation) with a practical understanding of how the industry assesses them in accordance with Town Planning requirements, the Building Code of Australia, NatHERS and other specialised assessment tools. These skills are closely aligned with industry expectations for positions such as: graduates ESD consultant positions in architecture and engineering companies.",
+        "The subject will maximise industry interaction through guest speakers, case studies and site visits.Prescribed software programs with no costBuilt Environment Sustainability ScorecardWater Usage CalculatorTankulatorFirstRate5HOT2000PVWatts CalculatorDetails of software availability and pricing are captured athttps://edsc.unimelb.edu.au/student-experience/it-support"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Provide general advice on the environmental performance of a range of residential buildings, including potential problems from the design of the building fabric, services, and renewable systems;",
+        "Demonstrate a clear understanding of the industry processes and tools that are used in both town planning and building permit applications;",
+        "Provide general environmental design advice for a project at the concept stage, such as orientation, heating and cooling loads, facade glazing percentage, heating, cooling and ventilation systems, lighting and renewable energy systems;",
+        "Complete assessments of residential buildings for current town planning and current building permit requirements;",
+        "Demonstrate a general understanding of the range of environmental building performance tools, such as Building Environment Sustainability Scorecard, Code for Sustainable Homes, Passivhaus, NatHERS, HOT2000, RETScreen International;",
+        "Demonstrate understanding of the ways to achieve 'nearly net-zero' or 'net-zero' building performance targets."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ABPL20036",
+                    "ABPL10007"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual Simulation Report, due by the beginning of week 2. 500 words",
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group presentation on zero energy housing design and sustainable community development strategies (equivalent to 800 words per student), due by the end of week 2. 20 minutes",
+            "timing": "Week 2",
+            "percentage": "20%"
+        },
+        {
+            "description": "Individual ESD Essay. 3000 words",
+            "timing": "3 Weeks after the end of teaching",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Principal coordinator": "Masa Noguchi"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "40 hours  ( over two weeks )"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching requirements": "Reading materials will be available to students  via LMS"
+                },
+                {
+                    "Teaching period": "8 January 2024 to 19 January 2024"
+                },
+                {
+                    "Last self-enrol date": "10 January 2024"
+                },
+                {
+                    "Census date": "19 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "9 February 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [
+                    "Subject Coordinator"
+                ],
+                "email": [
+                    "masa.noguchi@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is  one of the two subjects which forms Environmental Design Specilisation in B- DES.",
+            "Please note in 2019 this subject will be offered in Winter and from 2020 might be offered in December"
+        ],
+        "Incidental costs": [
+            "Built Environment Sustainability Scorecard - Free web application.\r\nWater Usage Calculator - Free web application.\r\nTankulator - Free web application.\r\nFirstRate5 - Free web application.\r\nHOT2000 - Free web application.\r\nPVWatts Calculator - Free web application."
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

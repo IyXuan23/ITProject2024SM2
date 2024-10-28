@@ -1,0 +1,188 @@
+{
+    "subject name": "User Experience Design Project",
+    "subject code": "INFO90009",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject gives students in the Human-Computer Interaction specialisation of the Master of Information Technology practical experience with the User Experience (UX) Design process. Students will take what they learned about fieldwork, prototyping, and evaluation, and apply it in a hands-on, industry-driven, UX project.",
+        "You will be responsible for identifying and learning about potential stakeholders, exploring a range of design opportunities, and evaluating the success of your ideas. Along the way, you will produce relevant deliverables that support your project, communicate your ideas, and demonstrate your skills. At the end of the project, you will produce a portfolio of your work that you can use when applying for jobs and speaking to potential clients.",
+        "From a brief, you will deconstruct and understand the scope of a client's idea. You will need to identify who their potential users are, how they currently solve similar problems, and what their expectations, challenges, and frustrations are. You will use data collection skills to capture the nuance of your different users and develop high-level requirements for the project. Next, you'll need to translate these requirements into initial sketches and subsequent high-fidelity prototypes (using industry standard tools). These prototypes will need to demonstrate how your ideas work and communicate the experience your users should expect. Finally, you will evaluate your prototypes, working with users to understand the opportunities and limitations of your design ideas. The deliverables you develop throughout this project, will form the foundations for your portfolio, where you concisely present your work, your learnings, and your reflections, to convince future employers that they should hire you."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Conduct fieldwork to understand users' requirements",
+        "Develop prototypes of interface ideas at different levels of fidelity",
+        "Evaluate the user experience of an interface prototype",
+        "Visually communicate the process and outcomes of a user experience design project"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "INFO90003",
+                    "INFO90004",
+                    "INFO90006"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "All of:"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "INFO90008"
+    ],
+    "assessments": [
+        {
+            "description": "A fieldwork report submitted in Week 4 for formative feedback in which students present the findings obtained during the application requirements elicitation in consultation with relevant stakeholders.. 100 hours (of work required)",
+            "timing": "Week 4",
+            "percentage": "0%"
+        },
+        {
+            "description": "A set of interface prototypes in a format appropriate for the design project for formative feedback. 100 hours (of work required)",
+            "timing": "Week 8",
+            "percentage": "0%"
+        },
+        {
+            "description": "An evaluation report for formative feedback in which students present the findings of the evaluation of their prototypes in consultation with relevant stakeholders.. 100 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "0%"
+        },
+        {
+            "description": "Video that summarises the project. 25 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Visual portfolio describing the project. 25 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Arzoo Atiq"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Arzoo Atiq"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "arzoo.atiq@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "arzoo.atiq@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Teaching and Learning Methods",
+            "This subject is delivered through a weekly workshop"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Permission required from the subject coordinator",
+                    "Permission required from the subject coordinator"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

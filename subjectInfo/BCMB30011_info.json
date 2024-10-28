@@ -1,0 +1,134 @@
+{
+    "subject name": "Cellular Metabolism and Disease",
+    "subject code": "BCMB30011",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The interpretation of nutritional information relies on an understanding of how nutrients are metabolised and what can go wrong in disease states. The subject material covers the regulation of blood glucose concentration and the causes of diabetes; the generation of free-radicals and the importance of antioxidants in protecting proteins, lipids and DNA from oxidative damage; metabolic reprogramming in cancer cells, neurons and immune cells; metabolism in the gut: the role of the microbiota; metabolomics and other research methods for the study of metabolism."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the molecular basis of how humans handle nutrients via metabolism and compare these with disease states",
+        "Explain the mechanisms and consequences of metabolic reprogramming in cancer cells, and in neurons and immune cells in both physiological and pathophysiological conditions",
+        "Describe how the emerging field of metabolomics (the study of a range of metabolites in a cell or tissue) is being applied as a diagnostic tool, including a consideration of ethical issues such as study design, sample collection and data usage",
+        "Explain how targeting critical events in metabolic reprogramming of cancer cells as the therapeutic strategy for cancer treatment",
+        "Analyse experimental data to detect changes in metabolism",
+        "Critically analyse of the current scientific literature on metabolomics and metabolic reprogramming in diseases."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Other combinations that provide similar background will be considered by the coordinator."
+            ],
+            "one of pre-requisite": [
+                [
+                    "BCMB20002",
+                    "BIOM20001"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "Students cannot enrol in and gain credit for BCMB30011 Metabolism and Nutrition if they obtained credit for the pre-2010 subject Biochemistry of Metabolism and Nutrition (521-305)."
+    ],
+    "assessments": [
+        {
+            "description": "5-10 written assessments totalling approx. 1600 words and prepared figures. 1600 words",
+            "timing": "Throughout the semester",
+            "percentage": "35%"
+        },
+        {
+            "description": "Mid Semester Test 1. 30 minutes",
+            "timing": "Around week 5",
+            "percentage": "10%"
+        },
+        {
+            "description": "Mid Semester Test 2. 30 minutes",
+            "timing": "Around week 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "description": "Attendance at 70% of workshops. Hurdle requirement:. Attendance at 70% of workshops i.e. 10-11 x 2 hour workshops",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Heather Verkade"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "BCMB-30011@unimelb.edu.au",
+                    "Current Students",
+                    "Past Students, Future Students and General Enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "No prescribed text"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

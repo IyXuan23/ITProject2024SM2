@@ -1,0 +1,92 @@
+{
+    "subject name": "Preclinical Optometry Refresher",
+    "subject code": "OPTO90029",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "Note: This subject is only available to students enrolled in the Doctor of Optometry. Students will only enrol in this subject on the instruction of the OD Progress Committee.",
+        "This subject provides students with the opportunity to maintain the clinical skills developed through the completion of the subject OPTO90024 Preclinical Optometry, by providing further practice and training in the optometric procedures for the examination of the eyes and the treatment of common visual disorders. On completion of the subject, students will be able to investigate a patient\u2019s visual problems, make a diagnosis, and plan an appropriate course of management for common conditions. Practical sessions maintain a student's skill in taking and recording a routine patient history, investigating an ocular complaint, completing a comprehensive refractive examination, and performing a routine screen to detect overt visual dysfunction."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "identify and assess the structure and function of the normal human eye and visual system; and",
+        "conduct a basic clinical ocular examination using key ophthalmic equipment and skills according to current best-practice standards."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "OPTO90024"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "3x 45-min Clinical proficiency examinations. 135 minutes (total). Hurdle requirement:. Satisfactory perfomance in clinical proficiency examinations.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Attendance at all preclinical duties",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Coordinator": "Jia Jia Lek"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "4 hrs pratical and clinical work per week"
+                },
+                {
+                    "Total time commitment": "160 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students should have an approved direct ophthalmoscope and retinoscope, gonioprism, binocular indirect ophthalmoscope, two fundus lenses, white coat, pre-focused pen torch or transilluminator, inter-pupillary rule, cover paddle, and a set of four flippers (lenses and prisms). Students are strongly advised to purchase their own equipment, which they will continue to use during their course and after graduation. However, those students who do not have their own equipment will be able to borrow equipment for classes. Students are required to conform to prescribed dress and conduct requirements when assigned to all clinical duties with patients."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

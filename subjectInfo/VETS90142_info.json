@@ -1,0 +1,107 @@
+{
+    "subject name": "Dogs and Cats A",
+    "subject code": "VETS90142",
+    "subject availability": [
+        "Semester 1 (Early-Start)"
+    ],
+    "overview": [
+        "This subject focuses on both the general principles of veterinary clinical practice and the specific approach to diagnosis, management and prevention of disease in dogs and cats. Content will be delivered in blocks based on clinical presentations related to dermatologic, ophthalmic, reproductive, neonatal, locomotory and respiratory problems in parallel with presentations of the same systems in other species. This approach is designed to support students in the development of their diagnostic reasoning skills, and encourage a comparative view of veterinary medicine and surgery."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Collect and interpret information from clinical history, epidemiological data and clinical examination findings in an individual or groups of dogs and cats in order to develop contextually appropriate prioritised differential diagnoses related to dermatologic, ophthalmic, reproductive, neonatal, locomotory and respiratory presentations",
+        "Choose, perform and interpret diagnostic testing in order to establish a definitive diagnosis in animals with dermatologic, ophthalmic, reproductive, neonatal, locomotory and respiratory presentations",
+        "Formulate and recommend appropriate strategies that promote preventative health and that address common and important medical and surgical conditions in dogs and cats with dermatologic, ophthalmic, reproductive, neonatal, lameness and respiratory presentations, taking into account prognostic, economic, public health and animal welfare considerations"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Satisfactory completion of all subjects at DVM 2 level"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written examination. 2 hours",
+            "timing": "Late in the semester",
+            "percentage": "35%"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "description": "Aggregate Mark. Hurdle requirement:. Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Up to 4 online quizzes, each equally weighted  (15minutes (each); 1 hour (total)). 15 minutes (each)",
+            "timing": "Throughout the semester",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Coordinators": "Rachael-Kate Llewellyn and Jennifer Carter"
+                },
+                {
+                    "Mode of delivery": "On Campus (Werribee)"
+                },
+                {
+                    "Contact hours": "85 hours of lectures, practical classes and workshops"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "5 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "16 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "jennifer.carter@unimelb.edu.au",
+                    "rachaelkate.llewellyn@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

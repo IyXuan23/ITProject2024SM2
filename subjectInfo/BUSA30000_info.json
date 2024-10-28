@@ -1,0 +1,167 @@
+{
+    "subject name": "Business Judgement",
+    "subject code": "BUSA30000",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject serves as a capstone for the Management and Marketing majors within the Bachelor of Commerce. As such, the aim is to integrate students\u2019 knowledge of core business functions and analytical tools and apply these to the problems faced by modern organisations and decision-makers. Students will be exposed to these problems through simulation tasks and case analyses. Students will be challenged to form and act upon judgments around strategic directions, marketing priorities, and entrepreneurial opportunities. There is a strong focus on the need to collectively arrive at decisions within decision groups, and to argue for these choices through typical business communication formats (e.g. business plans, slide packs, formalised reviews)."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate knowledge of the theories and concepts from the fields of management, marketing and business studies in a domestic and international context.",
+        "Apply theories and models from the fields of management, marketing and business studies to business and organisational problems",
+        "Prioritise and justify business judgments",
+        "Analyse and present data to support business judgments",
+        "Evaluate opportunities in light of ethical and sustainability considerations"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MGMT20001"
+                ],
+                "a minimum of 200 credit points ofUndergraduate study"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "This is a level-3 capstone subject. Students in their final year who are wishing to enrol in this subject but have not completed 200 credit points must obtain written permission by emailing the Subject Coordinator with a copy of their academic record."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Business plan for simulation (groups of 4-5 students). 1200 words",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Personal reflection on simulation. 1000 words",
+            "timing": "Week 8",
+            "percentage": "20%"
+        },
+        {
+            "description": "Case challenge slide pack group report (groups of 4-5 students). 4000 words",
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "Peer review of case challenge. 500 words",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Simulation performance result (groups of 4-5 students)",
+            "timing": "Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Additional business case submission. 1500 words",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Andre Sammartino"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2-hour workshop per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Andre Sammartino"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2-hour workshop per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "A/Prof Andre Sammartino:"
+                ],
+                "email": [
+                    "samma@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "A/Prof Andre Sammartino:"
+                ],
+                "email": [
+                    "samma@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

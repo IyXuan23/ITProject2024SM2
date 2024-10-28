@@ -1,0 +1,163 @@
+{
+    "subject name": "Great Chinese Classics",
+    "subject code": "CHIN20006",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject offers an introduction to literary Chinese (wenyan) which was the formal written language of imperial China and the foundation of modern written Chinese. A knowledge of literary Chinese is thus indispensable in attaining higher level literacy in Chinese. Literary Chinese also includes texts written in classical Chinese in antiquity.",
+        "In this subject students will read masterpieces of Chinese philosophy and literature from antiquity to the Tang period. Students will develop skills in reading texts written in full-form characters and acquire a basic knowledge of the particles and syntax of literary Chinese. They will also explore the origin and meaning of Chinese proverbs and the function of wenyan in contemporary usage."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Acquired foundational skills in the reading of classical Chinese through intensive reading of selective texts from the Chinese tradition",
+        "Gained a broad familiarity with the key genres of literary and philosophical texts in ancient China through extensive reading in English translation",
+        "Demonstrated the ability to understand basic syntax and vocabulary in classical Chinese",
+        "The abilty to comprehend the traditional form of the Chinese script that was in use before the contemporary period",
+        "Consolidated skills in time management and organisation through the timely completion of assessment items."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "CHIN10016",
+                    "CHIN20002",
+                    "CHIN10018"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Equivalent"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CHIN30011"
+    ],
+    "assessments": [
+        {
+            "description": "A class presentation and paper due during semester, the paper is due one week after the presentation. 1200 words",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "A test",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "An examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops. There is an expectation that students attend lectures.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Lewis Mayo"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "A total of 36 hours: One two hour lecture and one one hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "lmayo@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Materials supplied by the Asia Institute.",
+                    "Gateway to the Chinese Classics: A Practical Introduction to Literary Chinese,J L Faurot, China Books and Periodicals, 1995"
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Language Placement Test required",
+                    "Language Placement Test required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

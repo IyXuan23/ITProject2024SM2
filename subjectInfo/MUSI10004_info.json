@@ -1,0 +1,111 @@
+{
+    "subject name": "Computing for Musicians",
+    "subject code": "MUSI10004",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Students will acquire basic skills in the use of computers for music notation, composition and music education, and learn the fundamentals of MIDI (Musical Instrument Digital Interface)."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "use notation software to enter, layout and edit music in a variety of formats, including music scored for multiple instruments, keyboard instruments, vocal parts;",
+        "produce audio and MIDI versions of their score;",
+        "produce scores and players' parts that are accurate and legible;",
+        "export graphics from notation software and incorporate them into other types of document, such as a word-processing file, presentation or web page;",
+        "understand the nature of difficulties encountered when transcribing real-time performances into usable notation, and of the issues involved in using combined;",
+        "demonstrate practical skills in using MIDI and sequencing software;"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Two notation exercises due as assigned during the semester (10% each)",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "A 10-minute class presentation and written summary. 500 words (equivalent)",
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "A MIDI sequencing project of 1 minute duration, 4-track minimum",
+            "timing": "During the teaching period",
+            "percentage": "25%"
+        },
+        {
+            "description": "An ensemble scoring project of approximately 30 bars, minimum 4 staves",
+            "timing": "End of the teaching period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Elliott Gyger"
+                },
+                {
+                    "Mode of delivery": "On Campus (Southbank)"
+                },
+                {
+                    "Contact hours": "12 hours, comprising one 1-hour class per week"
+                },
+                {
+                    "Total time commitment": "60 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Elliott Gyger:"
+                ],
+                "email": [
+                    "egyger@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

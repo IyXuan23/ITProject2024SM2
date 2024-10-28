@@ -1,0 +1,149 @@
+{
+    "subject name": "Management & Marketing Special Topics 2",
+    "subject code": "MGMT90207",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is aimed at students undertaking graduate research programs. The overall aim is to provide the students an opportunity to broaden and deepen their understanding of core theoretical concepts within their discipline. This subject consists of a set program of weekly seminars on topics from the discipline within which candidate\u2019s thesis is undertaken or an approved reading course under the direction of academic member (s) of staff within the department."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the key issues associated with the special topic",
+        "Analyse the relationship of the special topic to broader management/marketing principles"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MGMT90206"
+                ],
+                "Admission into or selection of one of the following:"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "MC-COMMGMT Master of Commerce (Management)",
+                "MC-COMMKTG Master of Commerce (Marketing)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual presentation (15 minute presentation plus 5 minute Q&A). 15 minutes",
+            "timing": "From Week 9 to Week 12",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual project report. 5000 words",
+            "timing": "Week 12",
+            "percentage": "90%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Fang-Chi Lu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 contact hours per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Andrew Yu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 contact hours per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Fang-Chi Lu"
+                ],
+                "email": [
+                    "fangchi.lu@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Andrew Yu",
+                    ""
+                ],
+                "email": [
+                    "andrew.yu@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "TBC \u2013 a course of set readings"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

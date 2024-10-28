@@ -1,0 +1,91 @@
+{
+    "subject name": "Causal Analytics for Business",
+    "subject code": "BUSA90540",
+    "subject availability": [
+        "May"
+    ],
+    "overview": [
+        "Data Analytics models can be used to predict a performance variable. But many business decisions are not about predicting performance per se. They are about choosing the values of key inputs, such as price or advertising spend, to optimise performance. This requires that the effects of the inputs, as coded by the model, are causal. This typically requires further assumptions about how the data was generated.",
+        "The gold standard for establishing causality is a randomised experiment, which is becoming more common in business contacts. The course covers basic principles and practice of experimentation from A-B testing to randomised incomplete block designs. All these methods give rise to estimates of causal effects.",
+        "When data is not from an experiment, associations may be entirely spurious. There are several methods that can identify causal effects, such as controlling for known confounders or identifying instrumental variables. When data is collected over time, the so-called error correction model can be used to support the case for causality."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the key reasons that associations in non-experiment data may be spurious and to critique analyses that do not take this into account.",
+        "Be familiar with the key principles of experimental design and how to analyse them.",
+        "Be able to control for confounders and explain why the estimates obtained are more likely to be causal.",
+        "Use the causal estimates to obtain an optimal decision."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90536"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Quiz - two individual in-class quizzes. 1000 words (equivalent)",
+            "timing": "From Week 4 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Syndicate assignments. 1500 words (equivalent)",
+            "timing": "From Week 5 to Week 7",
+            "percentage": "30%"
+        },
+        {
+            "description": "Final Examination. 2 hours. Hurdle requirement:. Students are required to pass the final examination to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "May": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "27 May 2024 to 19 July 2024"
+                },
+                {
+                    "Last self-enrol date": "6 June 2024"
+                },
+                {
+                    "Census date": "14 June 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "5 July 2024"
+                },
+                {
+                    "Assessment period ends": "26 July 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

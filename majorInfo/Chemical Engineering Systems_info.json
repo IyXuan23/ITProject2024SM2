@@ -1,0 +1,23 @@
+{
+    "major name": "Chemical Engineering Systems",
+    "overview": [
+        "Students who have undertaken the Chemical Engineering Systems major will be able to rigorously integrate fundamental science in chemical engineering to provide accurate information and optimum solutions to practical problems involving basic chemical processing systems. More specifically, core skills and knowledge that will be developed include: fundamental scientific comprehension that will lead to accurate computer modelling of process systems, analytical and abstract thinking, problem-solving and design skills, ability to carry out laboratory experiments to eliminate or confirm possible solutions to complex problems. In all levels of this major, we will ensure the development of excellent communication skills that will enable our graduates to deliver complex scientific information in a clear and concise fashion.",
+        "The Chemical Engineering Systems major provides a direct pathway for admission to Master of Chemical Engineering as well as optional specialisations in chemical engineering. These Masters programs are accredited and recognized internationally as professional engineering degrees.",
+        "Students graduating from these programs will be ready to work in a range of chemical and biochemical engineering industries anywhere in the world."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "ENGR30002": "Fluid Mechanics Credits",
+                "CHEN30001": "Reactors and Catalysis Credits",
+                "CHEN30015": "Safety and Sustainability Case Studies Credits",
+                "CHEN30016": "Momentum, Mass and Heat Transfer Credits"
+            }
+        ],
+        "Notes": [
+            "In addition to these four core subjects, students must complete either MAST20029 Engineering Mathematics OR both of MAST20009 Vector Calculus AND MAST20030 Differential Equations at Level 2."
+        ]
+    }
+}

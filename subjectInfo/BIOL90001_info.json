@@ -1,0 +1,102 @@
+{
+    "subject name": "Microscopy for Biological Sciences",
+    "subject code": "BIOL90001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Microscopy is the key technique for imaging fine structure in biological specimens. This subject will introduce the range of methods and capabilities of light microscopy, scanning and transmission electron microscopy, and laser scanning confocal microscopy, as well as the methods of specimen preparation for standard histochemical and immunocytochemical techniques. The principles and scientific basis underpinning the various methods and techniques will be explained, and applications to current cutting-edge science and technology will be discussed. Practical and project work will include demonstration of equipment and analysis of images and data."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Increased knowledge and understanding of the techniques involved with microscopy;",
+        "A theoretical and practical background to permit informed choice of appropriate imaging technology and analysis; and",
+        "Enhanced individual investigative skills, critical thought and the ability to evaluate and analyse microscopy images and data."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Five assignments. 1000 words (each)",
+            "timing": "During the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "One written take home examination. 2 hours",
+            "timing": "End of the teaching period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Allison van de Meene"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours comprising one 1-hour lecture and one 3-hour workshop per week (9 Lectures and 9 workshops over the semester)."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "allison.van@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students undertaking this subject will be expected to regularly access an internet-enabled computer, and will need to be competent computer users. The subject will involve the use of Photoshop, confocal microscope operating software, and other image analysis software."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

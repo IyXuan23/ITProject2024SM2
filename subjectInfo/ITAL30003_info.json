@@ -1,0 +1,166 @@
+{
+    "subject name": "Italian 5A",
+    "subject code": "ITAL30003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "In this subject students will be exposed to, and will work through, a number of different styles and registers. Students will undertake the study of selected literary and non-literary texts for the purpose of extending vocabulary and practising Italian conversation. By the end of the semester, students should have learnt to identify, and correctly use, the main registers of Italian, spoken and written. Students should also have improved their composition skills, and acquired the ability to discuss in Italian, both orally and in writing, extended prose texts."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Be able to interpret and analyse a range of academic, literary, and popular culture texts",
+        "Be able to communicate effectively in Italian in an academic and professional context and with a high degree of fluency and accuracy",
+        "Be specialized in at least one of the five core areas of modern Italian literature, linguistics, history, cinema, and cultural studies",
+        "Have refined analytical skills in the field of Italian studies and improve the ability to research and discuss key aspects of Italian studies with a strong sense of intellectual integrity and the ethics of scholarship",
+        "Have gained the capacity to engage in dialogue (in Italian) taking into consideration the diverse needs of the Italian local and academic community",
+        "Have mastered a differentiated and informed understanding of the self and other and of cross-cultural exchange and gain a sophisticated understanding of the interaction between language and identity",
+        "Be able to apply a wide range of learning techniques (in Italian and English) as autonomous, motivated, self-directed and well-organised learners",
+        "Be able to act confidently in Italian-speaking milieus and target culture, and work effectively in a cooperative way using both Italian and English"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ITAL20008"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Two written assignments. 600 words (each)",
+            "timing": "From Week 5 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "A written test, 1 hours. 800 words",
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "An oral presentation class paper, 10 minutes. 800 words (equivalent)",
+            "timing": "From Week 8 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final project. 1200 words",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject. Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Riccardo Amorati"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total of 36 hours: One 2-hour seminar and one 1-hour tutorial per week for 12 weeks."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "riccardo.amorati@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    [
+                        "Soluzioni, 2nd ed. (Denise De Rome) Hodder Education 2010"
+                    ]
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Links to additional information": [
+            "http://arts.unimelb.edu.au/soll"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Language Placement Test required",
+                    "Language Placement Test required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "major name": "Biochemistry and Molecular Biology",
+    "overview": [
+        "Biochemistry and Molecular Biology are key biological science disciplines. The knowledge and techniques of the disciplines are applied in many biological fields and have fuelled rapid advances in medical research and biotechnology. This major will provide the springboard for students to enter careers including medical research, biotechnology, agricultural and medical support industries, education etc. This major will develop knowledge in key basic biological processes as well as more specialized areas of molecular science. In addition, an emphasis is placed on developing a foundation in practical skills required for a career as a laboratory scientist. The major will also develop skills in communication, team-work and research essential in the modern scientific workplace."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "BCMB30010": "Advanced Techniques in Molecular Science Credits",
+                "BCMB30012": "Current Advances in Molecular Science Credits"
+            },
+            "AND",
+            {
+                "BCMB30001": "Protein Structure and Function Credits",
+                "BCMB30002": "Functional Genomics and Bioinformatics Credits",
+                "BCMB30003": "Molecular Aspects of Cell Biology Credits",
+                "BCMB30004": "Cell Signalling and Neurochemistry Credits",
+                "BCMB30011": "Cellular Metabolism and Disease Credits",
+                "BIOM30003": "Biomedical Science Research Project Credits",
+                "MIIM30017": "Medical Microbiology: Parasitology Credits"
+            }
+        ],
+        "Notes": [
+            "A quota has been applied to a core subject in this major."
+        ]
+    }
+}

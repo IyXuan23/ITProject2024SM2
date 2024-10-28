@@ -1,0 +1,137 @@
+{
+    "subject name": "Specialised Topics in Chemistry B",
+    "subject code": "CHEM30014",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides a series of specialised modules in the areas of organic, inorganic and physical chemistry.",
+        "Students choose three modules from the following selection of topics. Each module consists of 12 lectures.",
+        "Physical Organic Chemistry,",
+        "Methods in Organic Synthesis,",
+        "Quantum Mechanics in Chemistry,",
+        "Computational Chemistry,",
+        "Supramolecular and Structural Inorganic Chemistry",
+        "Metal Ions in Biology and Medicine"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CHEM30016"
+                ],
+                "Exchange students must contact the subject coordinator prior to enrolment"
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One 60 minute exam at the end of the semester (80%) and one or two assignments during the semester which will run concurrently with each of the modules (20%).",
+            "timing": "During the teaching period",
+            "percentage": "100%"
+        },
+        {
+            "description": "Several assignments (written and/or oral) conducted during the semester. The assignments will run concurrently with the module.",
+            "timing": "During the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Trevor Smith"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three modules comprising twelve one hour lectures each throughout the semester; up to two one-hour tutorials per module. Only two modules run simultaneously in 4 week blocks, resulting in a maximum of 8 contact hours in any given week. Total 42 hours."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "trevoras@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "It is recommended that students who plan to major in Chemistry to also have completed the following:",
+            [
+                "Mathematics and Statistics - two semesters of first year mathematics, for example MAST10005 Calculus 1, MAST10006 Calculus 2 and/or MAST10007 Linear Algebra.",
+                "Physics - VCE Units 3/4 12 Physics or equivalent, for example PHYC10005 Physics 1: Fundamentals"
+            ]
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Commerce",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

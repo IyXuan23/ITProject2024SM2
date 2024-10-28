@@ -1,0 +1,160 @@
+{
+    "subject name": "Software Project",
+    "subject code": "COMP90082",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "This subject gives students in the Master of Information Technology experience in analysing, designing, implementing, managing and delivering a software project related to their stream of IT speciality. The aim of the subject is to guide students in being an independent member working within a team over the major phases of IT development, giving hands-on practical application of the topics seen throughout their degree. The subject also gives students a concrete understanding of teamwork processes and tools that underpin the practical aspects of developing software."
+    ],
+    "indicative content": [
+        "Students will work in small teams to conceive, analyse, design, implement, test, and maintain a software product for a group of stakeholders. Workshops are tied closely to the projects and the particular phases of each project and will explore the application of theory to the project, including topics on: requirements analysis, software design, software release, communication, ethical principles, and software project management tools. Students will be required to demonstrate independence while working as part of a team."
+    ],
+    "intended learning outcomes": [
+        "Design, implement, validate, release, and maintain a software product in their stream of speciality that achieves specific project goals using a repeatable process",
+        "Independently research and evaluate technologies for specific problems as part of IT projects",
+        "Work with stakeholders to develop IT systems to meet their needs while applying ethical principles and procedures",
+        "Integrate the knowledge gained in other subjects in designing and building applications for a real-world problem",
+        "Demonstrate effective teamwork and communication skills, including communicating technical outcomes to non\u2010technical stakeholders and using contemporary professional tools"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "SWEN90016"
+                ],
+                "No more than 75 points short of degree completion."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "COMP90055",
+        "GEOM90043",
+        "INFO90008",
+        "INFO90010",
+        "COMP90019 Distributed Computing Project"
+    ],
+    "assessments": [
+        {
+            "description": "Artefacts related to analysis, design, validation, and teamwork, requiring approximately 160-180 hours per student,  due throughout the semester.\r\nAll team members will receive the same team mark, unless there are exceptional circumstances to warrant individual marking. Specific timing of artefacts is dependent on the team's project plan, to be defined in coordination with their supervisor. Addressing Intended Learning  Outcomes (ILO's) 1, 3, 4, & 5.. 180 hours (of work required)",
+            "timing": "Throughout the semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Final product, requiring approximately 80-120 hours per student. All team members will receive the same team mark, unless there are exceptional circumstances to warrant individual marking. Addressing ILO's 1, 3, 4 & 5.. 120 hours (of work required)",
+            "timing": "End of semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Each student's mark will be based on their individual work, including: (1) the student's individual contribution to the project, assessed on the same quality criteria as the artefacts and final product; and (2) demonstration of individual competences on professional tools, processes, and communication skills. Students are expected to participate in team meetings and workshops and contribute towards artefact and product, requiring  80-100 hours per student.  Duet hroughout the semester. Addressing ILO's 1 to 5.. 100 hours (of work required). Hurdle requirement:. Students must receive 20/40 to pass the subject.",
+            "timing": "Throughout the semester",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Eduardo Araujo Oliveira"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising one 1-hour lecture per week and weekly supervisory meetings"
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Lucy Sparrow"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising one 1-hour lecture per week and weekly supervisory meetings"
+                },
+                {
+                    "Total time commitment": "400 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Eduardo Araujo Oliveira"
+                ],
+                "email": [
+                    "eduardo.oliveira@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "lucy.sparrow@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures and weekly supervisory meetings."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

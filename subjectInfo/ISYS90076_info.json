@@ -1,0 +1,139 @@
+{
+    "subject name": "IT Infrastructure for Digital Health",
+    "subject code": "ISYS90076",
+    "subject availability": [
+        "Semester 1 - Online"
+    ],
+    "overview": [
+        "This subject develops technical capabilities required for sound infrastructure decision-making about digital health solutions and management, including telehealth, cloud computing, security and standards. It reviews the digital health building blocks of hardware, hosting platforms and networks. It identifies requirements for designing solutions to support clinical workflows and the need for interoperability of systems, as well as outlining technical management and governance issues.",
+        "Five major topics are covered in lectures and tutorials, as well as demonstrations and site visits where possible: (a) End user computing and the health devices layer; (b) Digital health network connectivity; (c) Health information and communication systems, platforms and hosting; (d) Functional interoperability and secure messaging in healthcare ; (e) Governance and management of health ICT infrastructure."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain current trends in ICT infrastructure and their implications for digital transformation of healthcare services",
+        "Express critical awareness of current digital health governance frameworks and their relevance to the development of health ICT infrastructure plans",
+        "Communicate to diverse stakeholders an understanding of technical requirements and solutions for health data exchange and connected health information systems",
+        "Describe and analyse the current and future roles and responsibilities of the Chief Information / Digital / Technical Officer in healthcare services"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "",
+                    "ISYS90069"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "Two written reports based on individual computer-based learning, tutorials and practical activities done in class, of approximately 1250 words, worth 25% each. First report is due in week 3, 4 or 5 as assigned. Second report is due 3 weeks after first report, in week 6, 7 or 8 as assigned. Intended Learning Outcomes (ILOs) 1 and 2 are addressed in this assessment.. 65-70 hours (of work required). Hurdle requirement:. The written reports must be passed to pass the subject.",
+            "timing": "From Week 3 to Week 8",
+            "percentage": "50%"
+        },
+        {
+            "description": "Project report on a digital health infrastructure design project comprising: one class presentation of approximately 10 minutes duration (equivalent to 500\r\nwords) (10%) due in week 11 or 12 as assigned and one written report  (40%) of approximately 2000 words, due in week 14. ILOs 3 and 4 are addressed in this assessment.. 65-70 hours (of work required). Hurdle requirement:. The project report must be passed to pass the subject.",
+            "timing": "From Week 11 to Week 14",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - Online": [
+                {
+                    "Principal coordinator": "Kathleen Gray"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "1 hour per week of 1-1 tutorials;\r\n2 hours per week of asynchronous learning using resources in Canvas LMS"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Kathleen Gray"
+                ],
+                "email": [
+                    "kgray@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "Classroom teaching is complemented by a subject website in the University Learning Management System. Students unable to attend class on campus can participate each week, by going online to access lecture slides and recordings, undertake practical activities, and complete assessable work.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "This subject has no textbook. Students have access to electronic full-text of recommended readings, including current journal articles, government documents and industry reports. Examples:",
+            "Australian Digital Health Agency, especially Digital Health Foundationshttps://www.digitalhealth.gov.au/implementation-resources/ehealth-foundations; National Infrastructurehttps://www.digitalhealth.gov.au/get-started-with-digital-health/what-is-digital-health/features-of-the-my-health-record-system/national-infrastructure; National eHealth Security and Access Frameworkhttps://www.digitalhealth.gov.au/implementation-resources/ehealth-foundations/national-ehealth-security-and-access-framework",
+            "Cloud Standards Customer Council. 2017. Impact of Cloud Computing on Healthcarehttps://www.omg.org/cloud/deliverables/CSCC-Impact-of-Cloud-Computing-on-Healthcare.pdf",
+            "Coventry, L., & Branley, D. 2018. Cybersecurity in healthcare: A narrative review of trends, threats and ways forward. Maturitas, 113, 48\u201352.https://doi.org/10.1016/j.maturitas.2018.04.008",
+            "Fierce Health IThttp://www.fiercehealthit.com/",
+            "Fjermedal, G. 2020. Best practices for healthcare data centers.https://www.insight.com/en_US/content-and-resources/archive/233382595-best-practices-for-healthcare-data-centers.html",
+            "Health IT Infrastructure Newshttps://hitinfrastructure.com/",
+            "Integrating the Health Enterprise. IHE IT Infrastructure Technical Framework, Volume 2x, Rev 14.0, July 21, 2017http://www.ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_TF_Vol2x.pdf",
+            "The Open Group Architecture Frameworkhttps://www.opengroup.org/togaf/",
+            "UK. National Health Service. Information Governance Alliance. 2015. BYOD Information Governance Guidance.https://digital.nhs.uk/binaries/content/assets/legacy/pdf/a/3/byod.pdf",
+            "Victoria. Department of Health and Human Services, especially Health Design Authorityhttp://www.health.vic.gov.au/designauthority/; Health Design Forumhttps://www2.health.vic.gov.au/hospitals-and-health-services/planning-infrastructure/health-design-authority/health-design-forum; Statewide eHealth Interoperability Maturity Modelhttps://www2.health.vic.gov.au/about/publications/policiesandguidelines/State-wide-eHealth-Interoperability-Maturity-Model; Victorian ICT Frameworkhttp://docs.health.vic.gov.au/docs/doc/Statewide-Health-ICT-Strategic-Framework",
+            "Wani, T., Mendoza, A., & Gray, K. 2019. BYOD in Hospitals-Security Issues and Mitigation Strategies. Proceedings of the Australasian Computer Science Week Multiconference, article 25:1\u201310.https://doi.org/10.1145/3290688.3290729",
+            "CAREERS/INDUSTRY LINKS",
+            "This subject provides advanced knowledge and practical skills to work in digital health. This subject is offered jointly by the Faculty of Engineering and the Faculty of Medicine, Dentistry and Health Sciences, and makes local and international links with accomplished researchers and with experts from public and private sector organisations.",
+            "__________________________________________________________________________"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ]
+    }
+}

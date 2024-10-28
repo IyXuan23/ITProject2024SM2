@@ -1,0 +1,109 @@
+{
+    "subject name": "Veterinary Virology",
+    "subject code": "VETS90130",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces students to the general principles of veterinary microbiology and to the study of viral infectious agents as causes of disease in animals. It includes taxonomic and biological considerations of common and important viral pathogens, the host-pathogen interaction and the pathogenesis of disease. Key aspects of disease transmission and epidemiology are addressed, as well as methods of diagnosis of viral disease and their prevention, control and treatment."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify the key biological characteristics of viruses of veterinary importance and explain how these contribute to infectious disease in animals",
+        "Apply knowledge of the major components of the immune system to explain how they interact to defend animals against infection and how specific pathogens can evade these defences",
+        "Explain how different viruses exert their pathogenic effects and produce clinical signs of disease",
+        "Apply knowledge of viral pathogenesis as the basis of making a microbiological diagnosis, including the collection of appropriate samples and the identification of infections by the detection of common and important viruses, or the detection of antibodies to these pathogens",
+        "Apply knowledge of the pathogenesis and epidemiology of viruses to determine appropriate and effective methods of controlling the spread of viruses and transmissible spongiform encephalopathies in animal populations",
+        "Describe and apply principles of epidemiological, therapeutic and non-therapeutic strategies that are used to prevent, treat or control disease caused by common and important viruses in animals",
+        "Identify animals with clinical signs of diseases of zoonotic or biosecurity significance, and describe the appropriate response of a veterinarian"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Satisfactory completion of all subjects at DVM 1 level"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": [
+        ""
+    ],
+    "assessments": [
+        {
+            "description": "written test. 30 minutes",
+            "timing": "From Week 2 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "5 small assignments based on the practical classes, their content and application to case based scenarios.. 5 words (each)",
+            "timing": "From Week 2 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 2 hours. Hurdle requirement:. Students must achieve a minimum mark of 40% in the written examination to be eligible to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Aggregate Mark. Hurdle requirement:. Students must pass the subject on aggregate mark.",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Carol Hartley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "43 hours of lectures, practical classes and workshops"
+                },
+                {
+                    "Total time commitment": "100 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "carolah@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

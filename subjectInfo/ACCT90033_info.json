@@ -1,0 +1,157 @@
+{
+    "subject name": "Integrated Accounting Studies",
+    "subject code": "ACCT90033",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This capstone subject provides the opportunity for students to prepare for professional careers that will integrate their knowledge across the sub-disciplines of accounting (which may include financial accounting, management accounting, auditing and accounting information systems) by examining actual case studies and current events that cross sub-discipline boundaries. Students will draw on the knowledge, understanding and skills acquired in their coursework program to conduct research, develop findings, make recommendations and complete an in-depth investigation into an accounting topic of interest. The subject is application-oriented with a focus on group-based activities and developing written and oral communications skills expected by employers and clients and that are essential to a successful professional career."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Apply professional judgement, including identification and evaluation of alternatives, to reach well-reasoned decisions/solutions based on relevant case facts and contexts",
+        "Apply a questioning mindset critically to assess financial and non-financial information",
+        "Apply underlying principles and theories from a variety of accounting disciplines to organisational problems/issues presented in given case studies and current events",
+        "Evaluate the impact of trends within the discipline",
+        "Evaluate accounting and business information from a variety of sources and perspectives through research, analysis, and integration",
+        "Assess the role of ethics within the accounting profession and the concept of social responsibility on accountants"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ACCT90009",
+                    "ACCT90012"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Seminar preparation",
+            "timing": "Throughout the semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Seminar participation",
+            "timing": "Throughout the semester",
+            "percentage": "5%"
+        },
+        {
+            "description": "Group-based current event infographics. Due on nominated date through-out the semester. 500 words",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group-based research paper and oral presentation (7 minutes).. 4200 words",
+            "timing": "End of semester",
+            "percentage": "30%"
+        },
+        {
+            "description": "Final Assessment tasks - Consisting of exam (60 minutes), Zoom group discussion\r\n(30 minutes) and individual reflection (500\r\nwords). 2000 words (equivalent). Hurdle requirement:. Students must undertake all three final assessment tasks.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Sarah Yang Spencer"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three 90 minute lectures in week 1, 4 and 12. Along with a 30 minute pre-recorded lecture, 60 minutes of online reading and a 2 hour seminar in weeks 1-4 and weeks 6-10"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Sarah Yang Spencer"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three 90 minute lectures in week 1, 4 and 12. Along with a 30 minute pre-recorded lecture, 60 minutes of online reading and a 2 hour seminar in weeks 1-4 and weeks 6-10"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "s.yangspencer@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "s.yangspencer@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

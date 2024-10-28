@@ -1,0 +1,124 @@
+{
+    "subject name": "Life Insurance Models 2",
+    "subject code": "ACTL90007",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides the groundwork for the capstone subject Life Contingencies. It provides students with a framework for actuarial modelling. The subject also expands students\u2019 existing knowledge of mortality modelling by introducing the important ideas of mortality variation in a population and selection effects, which have implications for the applied topic of pricing life insurance products. Building on this, models used for mortality projections and forecasting, and elementary principles of machine learning are provided."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the principles of actuarial modelling.",
+        "Describe how to estimate transition intensities depending on age, exactly or using the census approximation.",
+        "Describe how to test crude estimates for consistency with a standard table or a set of graduated estimates, and describe the process of graduation.",
+        "Describe the approaches to forecasting mortality rates, including the Lee-Carter, age-period-cohort and p-spline regression models, and, using a computer package, apply these models to a mortality dataset.",
+        "Explain and apply elementary principles of machine learning.",
+        "Apply pre-requisite mathematical and statistical concepts to the solution of problems on the above topics."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ACTL90006"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual Assignment 1. 1000 words",
+            "timing": "First half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Mid-semester test (week 7 or 8). 50 minutes",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual Assignment 2. 1000 words",
+            "timing": "Second half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "End-of-semester exam. 2 hours. Hurdle requirement:. Students must pass end-of-semester exam in order to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Rui Zhou"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "A 2 hour seminar and a 1 hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Rui Zhou:"
+                ],
+                "email": [
+                    "rui.zhou@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

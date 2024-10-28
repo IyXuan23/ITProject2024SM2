@@ -1,0 +1,142 @@
+{
+    "subject name": "Legal AI: Design and Development",
+    "subject code": "LAWS90286",
+    "subject availability": [],
+    "overview": [
+        "Generative AI has rapidly emerged across society, with much speculation about the opportunities and threats it poses.",
+        "As a technology that fundamentally accepts natural language instruction, has an ability to reason on that language, and provides natural language output, there are parallels with the work performed by legal practitioners\u2014 who receive client instructions, apply legal expertise with the intent to achieve some outcome, and ordinarily provide a written output in the form of a contract, an advice or a submission.",
+        "Advancements in tools that abstract away a lot of the underlying complexity mean that you no longer need to be a \"software developer\" to develop powerful, practical programs. Increasingly the focus is on having the domain expertise and imagination, rather than the technical skill.",
+        "To best make use of the current capabilities of this technology, and to form a view on where it might lead, there is no substitute for lifting the hood and using the core components to build practical outputs. This provides a depth of understanding that cannot be obtained by theoretical study alone.",
+        "Society will require legal practitioners who are able to understand, build, and critique the machinations of programs that use artificial intelligence (in particular, Generative AI). Accordingly, this timely and hands-on subject provides a much-needed set of tools for those engaged with law and technology: it steps through how to build Generative AI based programs for legal solutions, giving students an opportunity to put that learning into practice and become leaders in AI within their chosen career area.",
+        "Principal topics will include:",
+        "Overview of Large Language Modelso What is an LLM? How does it work?o How can we effectively prompt engineer LLMs?",
+        "Programmatic Access to Large Language Modelso How do software programs interact with LLMs?o How can we make LLM functionality accessible to legal users?",
+        "Information Architectureo How do LLMs interact with data?o What is legal data and how can it be managed?",
+        "Developing Applicationso How do users interact with LLMs \u2013 data in and out?o How do we build applications that use LLMs?o How can we understand and design systems that do legal work?",
+        "Measuring and Improving Performanceo What concerns should we be aware of in using LLMs?o How can we see if an LLM is working well?o How might LLM performance improve in the future"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the fundamental mechanisms by which a Language Model (LLM) stores information, reasons, and generates content.",
+        "Develop a basic web-based interface that enables users to effectively interact with an LLM-based application to solve legal problems.",
+        "Specify and implement the necessary code logic for an LLM to execute legal tasks and integrate it with a web-based user interface.",
+        "Analyse legal documents and sources as data structures from the perspective of an LLM and demonstrate proficiency in making this data accessible for an LLM.",
+        "Analyse the performance of an LLM-based application in solving legal problems, and enhance its performance through prompt engineering and context augmentation resulting in improved outcomes and usability.",
+        "Hypothesise the ways in which LLM-based technology might affect the legal industry in the short-, medium- and long-term."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Build and deliver a single-document Q&A chatbot.. 1000 words (equivalent)",
+            "timing": "Due Wednesday 16 October 2024.",
+            "percentage": "20%"
+        },
+        {
+            "description": "Build and deliver a legal workflow solution.. 3000 words (equivalent)",
+            "timing": "Due Wednesday 27 November 2024.",
+            "percentage": "50%"
+        },
+        {
+            "description": "Legal workflow solution review: Write a report critiquing the performance of solution created in\r\nAssessment item 2, suggesting potential enhancements. 750 words",
+            "timing": "Due Wednesday 27 November 2024.",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "September": [
+                {
+                    "Principal coordinator": "Jack Stoneman"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject runs over five days as follows:  Monday 30 September to Wednesday 2 October and Thursday 17 October to Friday 18 October."
+                },
+                {
+                    "Total time commitment": "150 hours"
+                },
+                {
+                    "Pre teaching start date": "2 September 2024"
+                },
+                {
+                    "Pre teaching requirements": "Please refer to the Reading Guide on the LMS subject page for confirmation of which resources need to be read and what other preparation is required before the teaching period commences."
+                },
+                {
+                    "Teaching period": "30 September 2024 to 18 October 2024"
+                },
+                {
+                    "Last self-enrol date": "6 September 2024"
+                },
+                {
+                    "Census date": "4 October 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "25 October 2024"
+                },
+                {
+                    "Assessment period ends": "27 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "September": {
+                "name": [],
+                "email": [
+                    "contact the Law School Academic Support Office"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Specialist materials will be made available via the LMS in the pre-teaching period."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject will favor students who have an interest in methodical, systems-driven thinking. Some examples include: having experience or a strong interest in technical, rules-based disciplines (like STEM and languages); or thinking through legal problems using if-then frameworks and flowcharts."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "law.unimelb.edu.au"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "If subject coordinator approval is required, or for further information about Community Access Program study, please contact us(enquiries for current students|enquiries for prospective students).",
+                    "If subject coordinator approval is required, or for further information about Community Access Program study, please contact us",
+                    "(enquiries for current students|enquiries for prospective students)."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

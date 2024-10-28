@@ -1,0 +1,139 @@
+{
+    "subject name": "Human Behaviour and Environment",
+    "subject code": "ENST20001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject explores psychological and social dimensions of environmental sustainability and landscape and ecosystem management. The subject examines the ways humans experience, interact and behave in the physical environment. This is done by exploring psycho-social dimensions of human-environment interactions examining frameworks for understanding environmental concern and environmentally significant behaviour. Topics include: psychological bases for human-environment relationships (considering biological and cognitive needs, social identity and other forms of motivation); frameworks for understanding attitudes to environmental issues and for understanding environmentally significant behaviour; strategies for enhancing, awareness, concern and action for sustainability."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe factors that influence the ways people value and interact with environments.",
+        "Analyse factors that contribute to public support and opposition to environmental practice and policy.",
+        "Analyse factors that encourage or discourage environmentally sustainable behaviour.",
+        "Discuss and suggest strategies for encouraging environmental awareness, concern and behaviour."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written Report. 1500 words",
+            "timing": "Week 5",
+            "percentage": "35%"
+        },
+        {
+            "description": "Written Report. 1500 words",
+            "timing": "Week 10",
+            "percentage": "35%"
+        },
+        {
+            "description": "Take home exam. 1000 words",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Kathryn Williams"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "30 hours; 1 x 1 hr lecture per week, 1 x 1.5 hr tutorials per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "kjhw@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Gardner, G. T., & Stern, P. C. (2002). Environmental problems and human behavior (2nd ed.). Boston, MA: Pearson Custom Publishing.",
+                    "Koger, S. M., & Winter, D. D. N. (2010). The Psychology of Environmental problems: Psychology for Sustainability (3rd ed.). New York: Psychology Press.",
+                    "Steg, L., van den Berg, A.E. and de Groot, J.I.M (2013). Environmental Psychology. Chichester UK: BPS Blackwell."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject replaces 207205 Human Dimensions of Resource Management."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

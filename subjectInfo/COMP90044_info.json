@@ -1,0 +1,175 @@
+{
+    "subject name": "Research Methods",
+    "subject code": "COMP90044",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "Research is a process of acquiring new knowledge by systematically and rigorously applying methods to address well-formulated questions. To be valuable, new knowledge must address a significant theoretical question, it must be supported by evidence and be able to stand up to critical scrutiny, and its presentation to other researchers and/or to the public must be persuasive. This subject is an introduction to research thinking, skills and methodologies as they apply to computing and related disciplines. The subject will foster the development of critical thinking, a sceptical and rigorous approach, and awareness of research ethics. This subject will be particularly useful for students contemplating undertaking a research degree, or for students currently enrolled in a research degree (MPhil or PhD) or a course-work degree with a research project (MIT, MIS)."
+    ],
+    "indicative content": [
+        "Research skills covered will include: surveying relevant literature, developing productive research questions, selecting and designing appropriate methods, analysing data and reasoning about their theoretical implications, communicating research both in writing and through oral presentation, and understanding the ethics of research. Qualitative methods covered include: ethnography, field data collection techniques (interviews, focus groups), thematic analysis, case studies and design-based research. Quantitative methods covered include: statistical thinking and techniques, hypothesis testing, experiment design, survey design, simulation studies."
+    ],
+    "intended learning outcomes": [
+        "Survey relevant literature, identify gaps and formulate productive research questions",
+        "Conduct effective research design and planning",
+        "Communicate research effectively in written form",
+        "Demonstrate knowledge of selected research methodologies",
+        "Apply rigour and skepticism in the analysis, interpretation and evaluation of research findings",
+        "Apply ethical guidelines governing academic research"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "GEOM90016 Advanced Topics in GIScience"
+    ],
+    "assessments": [
+        {
+            "description": "An individual critical literature review of 2000 words. Intended Learning Outcomes (ILOs) 1, 3 and 5 are addressed in this assessment.. 45-50 hours (of work required)",
+            "timing": "Week 7",
+            "percentage": "40%"
+        },
+        {
+            "description": "An individual research methods evaluation and design assignment of 3000 words. ILOs 2, 4 and 6 are addressed in this assessment.. 55-70 hours (of work required)",
+            "timing": "Week 14",
+            "percentage": "50%"
+        },
+        {
+            "description": "Workshop exercises throughout the semester. ILOs 1 - 6 are addressed.. 11 hours",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Chris Ewin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of two 1 hour lectures and one hour tutorial"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Adel Nadjaran Toosi"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of two 1 hour lectures and one hour tutorial"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Chris Ewin"
+                ],
+                "email": [
+                    "cewin@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Adel Nadjaran Toosi"
+                ],
+                "email": [
+                    "adel.toosi@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Zobel, Justin,Writing for Computer Science, second edition, Springer"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Evans, Gruba, Zobel, How To Write A Better Thesis,3rd Edition, Melbourne University Press, 2011"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject will comprise a mixture of lectures and workshops (3 hours each week). A significant amount of project work is assigned throughout the semester.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Evans, D. and Gruba, P. and Zobel, J.How to Write a Better Thesis, 3rd edition, Melbourne University Press, 2011",
+            "Zobel, J.Writing for Computer Science, 2nd edition, Springer, 2004.",
+            "CAREERS / INDUSTRY LINKS",
+            "The subject will provide students with a greater awareness about pathways to and practice for a career in industrial or academic research."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

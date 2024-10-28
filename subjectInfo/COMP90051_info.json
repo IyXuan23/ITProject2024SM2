@@ -1,0 +1,228 @@
+{
+    "subject name": "Statistical Machine Learning",
+    "subject code": "COMP90051",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "With exponential increases in the amount of data becoming available in fields such as finance and biology, and on the web, there is an ever-greater need for methods to detect interesting patterns in that data, and classify novel data points based on curated data sets. Learning techniques provide the means to perform this analysis automatically, and in doing so to enhance understanding of general processes or to predict future events.",
+        "Topics covered will include: supervised learning, semi-supervised and active learning, unsupervised learning, kernel methods, probabilistic graphical models, classifier combination, neural networks.",
+        "This subject is intended to introduce graduate students to machine learning though a mixture of theoretical methods and hands-on practical experience in applying those methods to real-world problems."
+    ],
+    "indicative content": [
+        "Topics covered will include: linear models, support vector machines, random forests, AdaBoost, stacking, query-by-committee, multiview learning, deep neural networks, un/directed probabilistic graphical models (Bayes nets and Markov random fields), hidden Markov models, principal components analysis, kernel methods."
+    ],
+    "intended learning outcomes": [
+        "Describe a range of machine learning algorithms",
+        "Design, implement and evaluate learning systems to solve real-world problems, based on an appreciation of their relative suitability to different tasks"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP90049",
+                    "COMP30027",
+                    "COMP30018"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP20008",
+                    "MAST90105"
+                ]
+            ],
+            "alternate pre-requisite": [
+                "Admission into the MC-DATASC Master of Data Science"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "100pt Program course entry point in the MC-IT Master of Information Technology",
+                "150pt Program course entry point in the MC-IT Master of Information Technology",
+                "Distributed Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                "Computing specialisation (formal) in the MC-IT Master of Information Technology",
+                "Artificial Intelligence specialisation (formal) in the MC-IT Master of Information Technology"
+            ]
+        },
+        {
+            "option": "Option 4",
+            "necessary pre-requisite": [
+                "Selection of the Cyber Security specialisation (formal) in the MC-IT Master of Information Technology"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the 100pt Program course entry point in the MC-IT Master of Information Technology"
+            ]
+        },
+        {
+            "option": "Option 5",
+            "necessary pre-requisite": [
+                "Selection of the Data Science Background Stream"
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-DATASC Master of Data Science"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "433-484 Machine Learning",
+        "433-679 Evolutionary and Neural Computation",
+        "433-680 Machine Learning",
+        "433-684 Machine Learning"
+    ],
+    "assessments": [
+        {
+            "description": "Two projects due around weeks 7 and 11.. 65-70 hours (of work required). Hurdle requirement:. To pass the subject, students must obtain a combined mark of at least 25/50 for the projects.",
+            "timing": "From Week 7 to Week 11",
+            "percentage": "50%"
+        },
+        {
+            "description": "Fortnightly online quizzes, marked based on the best 5 results from 6 quizzes.. 15 minutes (each)",
+            "timing": "Every second week",
+            "percentage": "10%"
+        },
+        {
+            "description": "One 2 hour end of semester examination.. 2 hours. Hurdle requirement:. To pass the subject, students must obtain a mark of at least 20/40 on the exam.",
+            "timing": "End of semester",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Feng Liu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Jean Honorio Carrillo"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Feng Liu"
+                ],
+                "email": [
+                    "feng.liu1@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Jean Honorio Carrillo"
+                ],
+                "email": [
+                    "jean.honorio@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through a combination of lectures and tutorials. One feature of the subject is that the projects are designed to be relatively open-ended and broad enough that students have scope to get hands-on experience implementing the breadth of material covered in the subject, as well as building off the subject content in innovating their own methods/researching related methods from the research literature and implementing them themselves.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students will have access to lecture slides, readings relating to the lecture materials (both from a textbook and conference/journal papers), tutorial worksheets with worked solutions for all numeric problems, and sample reports to use in writing the project reports. Students are permitted to do their programming in Python and any programming environment/OS.",
+            "CAREERS / INDUSTRY LINKS",
+            "Machine learning has been growing rapidly in industry over the past two decades, with key industry players including Google, Microsoft, Amazon and Meta. There have been guest lecturers in the subject from organisations such as NICTA, which has a strong interest in machine learning (indeed one of the primary research groupings within NICTA is based on Machine Learning)."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required.",
+                    "Subject coordinator approval required."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

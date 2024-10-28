@@ -1,0 +1,122 @@
+{
+    "subject name": "Organisation and Management",
+    "subject code": "MGMT10003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The subject examines the business environment and the role of the manager, including an overview of the nature and history of management, the forces affecting contemporary organisations, and the management skills needed to succeed in today's business world. Students should gain an understanding of the definition of management, be able to describe the kinds of managers found in organisations, and identify and briefly explain the four basic management functions. The subject will focus on the roles and skills of management with special attention to managerial responsibility for effective and efficient achievement of goals. Special attention will be given to the importance of managerial ethics and social responsibility in management and how managers can influence their organisations\u2019 ethics and social responsiveness. The concepts and theories related to goal setting and planning, strategy formulation and implementation, management decision-making, and increasing productivity through control systems will be reviewed. Issues relating to designing an effective organisation structure, managing organisational change, and maintaining an effective workforce will also be explored. Considerable reliance is placed on case analysis to refine the capacity of students to apply relevant theory and principles."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Management theories and philosophies",
+        "Functions of management and leadership",
+        "Power and authority in organisations",
+        "Organising the workplace (organisational structures and job design)",
+        "Improving organisation effectiveness",
+        "Change management",
+        "Groups and teams",
+        "Communication and interpersonal skills",
+        "Motivation and job satisfaction",
+        "Conflict management",
+        "Social responsibility of organisations"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Assignment due approximately week 9. 1500 words",
+            "timing": "Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "Tutorial presentation",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Multiple Choice test. 1 hours",
+            "timing": "Mid semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Ros Gall"
+                },
+                {
+                    "Mode of delivery": "On Campus (Dookie)"
+                },
+                {
+                    "Contact hours": "44 hours: 24 hours lectures, 12 hours tutorials and up to 8 hours online discussion and workshops"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "rosgall@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

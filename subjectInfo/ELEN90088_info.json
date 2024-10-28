@@ -1,0 +1,129 @@
+{
+    "subject name": "System Optimisation & Machine Learning",
+    "subject code": "ELEN90088",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject introduces the basic principles, analysis methods, and applications of optimisation and machine learning to engineering systems; encompassing fundamental concepts and practical algorithms. It covers the fundamentals of continuous optimisation followed by machine learning basics for engineering applications.",
+        "The concepts and methods discussed are illustrated in multiple application areas including Internet of Things (IoT), smart grid and power systems, cyber-security, and communication networks.The concepts taught in this subject will allow a better understanding of continuous optimisation and machine learning for systems engineering."
+    ],
+    "aims": [],
+    "indicative content": [
+        "Topics covered may include:",
+        "Fundamentals of continuous optimisation: convex sets and functions; local vs global solutions, constrained optimisation and Lagrange multipliers; linear, quadratic, and nonlinear programming",
+        "Basics of machine learning encompassing supervised and unsupervised learning: binary classification, linear and nonlinear regression, kernel methods, and clustering.",
+        "Specific machine learning methods such as Support Vector Machines (SVMs), Neural Networks (NNs), k-means clustering, and reinforcement learning.",
+        "Applications to Internet of Things (IoT), smart grid and power systems, cyber-security, and communication networks."
+    ],
+    "intended learning outcomes": [
+        "Develop cognitive, technical, and creative skills and an extended understanding to quantitatively analyse and design optimisation and machine learning solutions for systems engineering.",
+        "Apply fundamental engineering modelling methods to analyse and synthesise optimal and learning systems.",
+        "Develop cognitive skills to demonstrate mastery of theoretical knowledge on basic concepts related to system optimisation and machine learning, and their relationship and to reflect critically on their theory and professional practice.",
+        "Apply fundamental techniques from optimisation and machine learning to address problems associated with engineering systems and use numerical and data analysis tools when appropriate while working in a small team.",
+        "Develop communication and technical research skills on optimisation and machine learning to justify and interpret related engineering solutions, methodologies, conclusions, and professional decisions to specialist audiences.",
+        "Communicate effectively with professionals across different engineering disciplines, through media such as concise technical reports and informational videos or live presentations."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A one-hour progress test. ILOs 1, 2 & 3 are assessed in this test. 1 hours. Hurdle requirement:. Total of all individual hurdle assessments must be passed.",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "A one-hour progress test. ILOs 1, 2 & 3 are assessed in this test. 1 hours (of work required). Hurdle requirement:. Total of all individual hurdle assessments must be passed.",
+            "timing": "From Week 10 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "Continuous individual assessment of project work, including peer assessment, not exceeding 50 pages per student over the semester. Approximately 50 hours of work per student. ILOs 1-6 are addressed in this assessment.. 50 hours (of work required). Hurdle requirement:. Total of all individual hurdle assessments must be passed.",
+            "timing": "Throughout the teaching period",
+            "percentage": "55%"
+        },
+        {
+            "description": "Submission of a final team report not exceeding 30 pages, including an individual contribution statement. Approximately 30 hours of work per team (3-4 students). ILOs 4-6 are addressed in this assessment.. 30 hours",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Tansu Alpcan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of lectures, 24 hours of workshops"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "tansu.alpcan@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Recommended texts include:",
+                    "\"Convex Optimization\" by Stephen Boyd and Lieven Vandenberghe, Cambridge University Press",
+                    "\"Pattern Recognition and Machine Learning\" by Christopher Bishop, Springer",
+                    "\"Deep Learning\" by Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "The subject is designed and delivered using a project-based approach. Students  complete a self-designed half-semester project in small teams in addition to two guided workshops in the first half. Teaching team facilitates productive team-work and project-progress in workshop sessions.",
+            "Recorded and interactive lectures, discussion boards, consultation hours, and workshops along with reading suggestions provide students a wide range of resources for their theoretical and practical project-based learning.",
+            "The subject covers topics modern and industry-relevant topics. Students also practice and advance their soft-skills such as report writing, presentation, project scoping. The subject is enriched by a guest lecture from industry every semester showcasing real-world applications of the material covered."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

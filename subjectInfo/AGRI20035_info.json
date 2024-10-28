@@ -1,0 +1,132 @@
+{
+    "subject name": "Applied Crop Production and Horticulture",
+    "subject code": "AGRI20035",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Applied Crop Production and Management explores the science and technology of major Australian food crop production systems, to improve both yield and sustainability, with a particular focus on field crops, and annual and perennial horticulture crops. Topics covered will include the factors that influence yield such as plant genetic make-up, plant functioning, climatic zones, crop management practices including nutrient management, crop rotations, crop protection, and will also focus on measurement of crop yield. Consideration of the impact of climatic uncertainties and management practices will provide students with a sound understanding of the requirements of a profitable and sustainable cropping system, and the competencies needed to manage such a system. This subject will be delivered as combination of lectures, workshops and hands-on field and laboratory activities at the Dookie campus, and will capitalise on the proximity of Dookie to major cropping enterprises of the north central and Goulburn Valley regions."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify the ecological principles underpinning crop production systems",
+        "Understand how the processes of growth and development of plants interact with management operations in a crop production system",
+        "Identify the role and place of selected crops in production systems",
+        "Develop skills in predicting outcomes from particular management practices on economic and environmental benchmarks"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AGRI10048"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "AGRI10050",
+                    "BIOL10008",
+                    "BIOL10009",
+                    "BIOL10010",
+                    "BIOL10011"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "AGRI20037"
+    ],
+    "assessments": [
+        {
+            "description": "Mid-semester test. 45 minutes",
+            "timing": "Mid semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Practical Report due in approximately Week 12. 1200 words",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "65%"
+        },
+        {
+            "description": "Hurdle requirement:. Students must attend a minimum 80% of scheduled workshops/practical classes",
+            "timing": "",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Dorin Gupta"
+                },
+                {
+                    "Mode of delivery": "On Campus (Dookie)"
+                },
+                {
+                    "Contact hours": "52 Hours - 24 hours of lectures, 16 hours of practicals and 12 hours of tutorials/workshops/field trips"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "doring@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Loomis, R. S., & Connor, D. J. (1992)Crop Ecology: Productivity and Management in Agricultural Systems. Cambridge University Press."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

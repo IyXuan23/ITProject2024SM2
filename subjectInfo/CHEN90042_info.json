@@ -1,0 +1,140 @@
+{
+    "subject name": "Thermal and Separation Design",
+    "subject code": "CHEN90042",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to extend the fundamental concepts of heat transfer to include natural and forced convection; boiling and condensation; plate heat exchanger and evaporator design. Fundamental concepts in mass transfer are expanded to the design of separation processes including binary distillation, gas absorption, solvent extraction, membranes and cooling towers."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Apply the principles of heat transfer to solve heat transfer problems, particularly those involving two phase systems",
+        "Assess quantitatively the performance of heat exchanger and evaporation equipment",
+        "Apply the principles of mass transfer to solve mass transfer problems and to membrane separation processes",
+        "Describe the concepts of equilibrium stage and continuous contactor analysis and apply these concepts to distillation and gas absorption problems",
+        "Assess quantitatively the performance of conventional distillation, gas absorption, membrane and cooling tower equipment",
+        "Design heat exchangers, cooling towers and separation equipment"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CHEN30016"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Required"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "CHEN20009"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "CHEN30005"
+    ],
+    "assessments": [
+        {
+            "description": "Written Assignment based on a laboratory class, worth 10%. Intended Learning Outcomes (ILOs) 2, 4 and 6 are addressed in this assessment.. 10 hours",
+            "timing": "Week 6",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written Assignment based on a laboratory class, worth 10%. Intended Learning Outcomes (ILOs) 2, 4 and 6 are addressed in this assessment.. 10 hours",
+            "timing": "Week 9",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written Assignment based on a laboratory class, worth 10%. Intended Learning Outcomes (ILOs) 2, 4 and 6 are addressed in this assessment.. 10 hours",
+            "timing": "Week 12",
+            "percentage": "5%"
+        },
+        {
+            "description": "One written 90-minute test. Intended Learning Outcomes (ILOs) 1 and 2 are addressed in this assessment.. 90 minutes",
+            "timing": "From Week 5 to Week 7",
+            "percentage": "15%"
+        },
+        {
+            "description": "One written 3-hour closed-book end-of-semester exam. Intended Learning Outcomes (ILOs) 1 to 6 are addressed in this assessment.. 3 hours. Hurdle requirement:. The final exam must be passed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Sandra Kentish"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3\u00d7 1-hour lectures per week, 1\u00d7 1-hour tutorial per week, 1\u00d7 1- hour workshop per week, and 12 hours of laboratory work in one semester"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Sandra Kentish"
+                ],
+                "email": [
+                    "sandraek@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

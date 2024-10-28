@@ -1,0 +1,143 @@
+{
+    "subject name": "Geography Research Project",
+    "subject code": "GEOG90012",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "",
+        "The Geography Research Project is designed for students to develop advanced skills in carrying out independent and sustained research in Geography. The thesis should demonstrate a critical application of specialist knowledge and make an independent contribution to existing scholarship in the area of research."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "produce a 25,000-word thesis on a research project dealing with an area of Geography;",
+        "demonstrate an ability to present, argue and demonstrate a coherent hypothesis on an issue in Geography, supported by research and analysis; and",
+        "demonstrate an aptitude for original research at a higher degree level in the future."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A research proposal modelled on a research grant application style",
+            "timing": "At the end of the first 12.5 points",
+            "percentage": "12.5%"
+        },
+        {
+            "description": "A full literature review and research proposal seminar",
+            "timing": "At the end of the first 25 points",
+            "percentage": "12.5%"
+        },
+        {
+            "description": "A thesis and a research results seminar. 25,000 words",
+            "timing": "By the end of the full 100 points (i.e. at the end of year 2)",
+            "percentage": "75%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Russell Drysdale"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular meetings as arranged with supervisors."
+                },
+                {
+                    "Total time commitment": "510 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Russell Drysdale"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular meetings as arranged with supervisors."
+                },
+                {
+                    "Total time commitment": "510 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "rnd@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "rnd@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

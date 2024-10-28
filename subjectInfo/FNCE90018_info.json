@@ -1,0 +1,153 @@
+{
+    "subject name": "Corporate Financial Policy",
+    "subject code": "FNCE90018",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides an extended analysis of capital budgeting, capital structure, dividend policy and corporate risk management. Topics include the effect of the dividend imputation system of taxation on dividend policy, capital structure and capital budgeting; a comprehensive analysis of corporate structure and capital budgeting; a comprehensive analysis of corporate acquisitions and restructuring; a detailed examination of alternative funding mechanisms including leases; and a discussion of current issues in Australia corporate finance."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Recognise the issues pertinent to a firm in making decisions about dividend policy;",
+        "Analyse leasing as a funding alternative;",
+        "Explain the funding alternatives available to firms;",
+        "Discuss the impact of taxes, bankruptcy costs, agency costs and information asymmetries upon the funding decision;",
+        "Apply complex techniques to capital budgeting decisions in order to account for projects with different lives;",
+        "Evaluate the economic consequences of takeover activity."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "Admission into or selection of one of the following:MC-MGMTAFN Master of Management (Accounting and Finance)Admission into or selection of one of the following:150pt Program course entry point in the MC-MGMTFIN Master of Management (Finance)",
+                "MC-MGMTAFN Master of Management (Accounting and Finance)",
+                "150pt Program course entry point in the MC-MGMTFIN Master of Management (Finance)",
+                "MC-MGMTAFN Master of Management (Accounting and Finance)",
+                "150pt Program course entry point in the MC-MGMTFIN Master of Management (Finance)"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "FNCE90060"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual Assignment. 1500 words (equivalent)",
+            "timing": "During the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Mid-term test. 1 hours",
+            "timing": "From Week 7 to Week 9",
+            "percentage": "25%"
+        },
+        {
+            "description": "End-of-semester examination.. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Gil Aharoni"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 3-hour lecture per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Xiaoting Wei"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 3-hour lecture per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

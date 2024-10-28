@@ -1,0 +1,120 @@
+{
+    "subject name": "Environmental Systems",
+    "subject code": "ABPL90086",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides a coverage of the different systems significant in the design of buildings, which are described in terms of 3 interlocking systems: human, mechanical and natural systems.Human Systems\u2022 Concepts of environmental comfort: heat, light and sound\u2022 Occupational Health, Safety and Environment\u2022 Post-Occupancy EvaluationMechanical Systems\u2022 energy efficiency, alternative energy sources and energy management\u2022 active solar heating and cooling systems;\u2022 electrical, telecommunications, transportation and building management systems;\u2022 air-conditioning system designs; refrigeration, heating and air handling plants;\u2022 fa\u00e7ade design, natural ventilation and mixed mode systems;\u2022 displacement ventilation, evaporative cooling and radiant cooling systems;\u2022 special servicing conditions\u2022 acoustical design and noise controlNatural Systems\u2022 passive design techniques for buildings\u2022 waste and water treatment techniques, WSUD (water sensitive urban design)\u2022 green infrastructure and ecological services\u2022 integrated greenery \u2013 green roofs and vertical greenerySustainable building standards like Green Star and NABERS will also be introduced and used in the discourse of the lectures."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Have a fundamental knowledge of issues related to sustainable building design;",
+        "Understand relative importance of human, mechanical and natural system as they apply to building construction;",
+        "Demonstrate familiarity with issues such as : concepts of environmental comfort, post-occupancy evaluation, mechanical system efficiency; and passive design techniques."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "702-465 Environmental Systems"
+    ],
+    "assessments": [
+        {
+            "description": "Passive systems foundation individual report. 750 words (each)",
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "HVAC systems foundation individual report. 500 words (each)",
+            "timing": "Week 8",
+            "percentage": "10%"
+        },
+        {
+            "description": "Class group  presentation, outlining the ESD report that outlines overall environmental system strategies for the delivery of environmentally sound healthy building with zero energy operation (equivalent to 300 words per student, 600 words per presentation from a two-student group). 5 minutes",
+            "timing": "Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "Advanced ESD group report (1250 words per student, 2,500 words per submission from a two-student group). 1250 words (each)",
+            "timing": "Week 11",
+            "percentage": "25%"
+        },
+        {
+            "description": "Individual essay assignment, focusing on the ability to think creatively and research and evaluate the traditional and alternate methodologies that drive social, environmental and economic outcomes,. 2000 words (equivalent)",
+            "timing": "Week 14 ( first  week of examination period)",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Christopher Jensen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1X2 hour of lecture and 1X2 hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Szokolay, S. V.Introduction to Architectural Science: the Basis of Sustainable Design. London : Elsevier/Architectural Press, 2008.Gon\u00e7alves, Joana Carla Soares.The Environmental Performance of Tall Buildings. London: Earthscan, 2010.Kibert, Charles J.Sustainable Construction: Green Building Design and Delivery. 2nd ed. Hoboken, N.J.: Wiley, 2008."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Parlour, R. P.Building Services: a Guide to Integrated Design & Engineering for Architects. Pymble, N.S.W: Integral Publishing, 2000."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

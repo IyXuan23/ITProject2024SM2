@@ -1,0 +1,111 @@
+{
+    "major name": "Conservation and Restoration",
+    "overview": [
+        "Conservation and Restoration is offered as a major field of study in the Master of Environment degree.",
+        "Biodiversity loss is one of the key environmental challenges globally. Sustainable societies depend on successful conservation and restoration of this diversity, at genetic, species, community and landscape scales.",
+        "Students will explore the biophysical and social factors shaping endeavours to conserve and restore wildlife and vegetation. They will develop skills for planning and managing biodiversity at species, community and landscape scales. The cross-faculty teaching program ensures students have a sound understanding of the ecological principles underpinning conservation and restoration, and an appreciation of the political and community dimensions of establishing and implementing these plans.",
+        "The major is suitable for people with undergraduate studies and/or professional work experience in life sciences, forestry, natural resource management, agriculture, parks and wildlife management, and environmental engineering. It is also an appropriate major for government and industry professionals working in conservation and development who are looking to upgrade or link their skills to environmental management.",
+        "Graduates can expect to find employment in regulatory agencies, local and state government authorities, environmental consulting companies, and industries with international interests in developing economies"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "Students will be required to complete the two core subjects, plus choose three subjects from the compulsory specialisation subject list. Students in the 200 point pathway must also take at least 12.5 points of subjects from the compulsory capstone subjects \u2013 these subjects enable students to complete an independent project related to professional practices in ecosystem and species management. Students in the 100 point pathway will not normally be required to complete this component. Students must also undertake electives to make up the balance of the award. The selection of electives is made in consultation with the Conservation and Restoration major coordinator. More information about this stream can be found here:",
+            "http://environment.unimelb.edu.au/study/specialisations/conservation-and-restoration"
+        ],
+        "Subject Options": [],
+        "Core subjects": [
+            "Students must complete the following core subjects:",
+            {
+                "MULT90004": "Environmental Sustainability Credits",
+                "MULT90005": "Partnerships for Sustainable Futures Credits"
+            }
+        ],
+        "Compulsory Specialisation Subjects": [
+            "Students must complete three of the following subjects:",
+            {
+                "FRST90034": "Ecological Restoration Credits",
+                "GEOG90003": "Integrated River & Catchment Management Credits",
+                "NRMT90002": "Biosecurity: Managing Invasive Species Credits",
+                "VETS90016": "Wildlife Management Credits"
+            }
+        ],
+        "Compulsory Capstone Experience": [
+            "Students must complete at least 12.5 points from the following compulsory capstone subjects - please note that if you select either a 25 or 50 point research project that spreads across two semesters you must enrol into the Part 1 and Part 2 subjects over consecutive semesters. Students completing the 100 point pathway will normally be exempt from this requirement.",
+            {
+                "ENST90006": "Environmental Research Review (12.5) Credits",
+                "ENST90007": "Environmental Research Project (25) Credits",
+                "ENST90016": "Environmental Research Project (50) Credits",
+                "ENST90025": "Environmental Industry Research (25) Credits",
+                "ENST90020": "Environmental Industry Research (50) Credits",
+                "DEVT90002": "Internship in Development Credits",
+                "DEVT90008": "International Internship in Development Credits",
+                "FRST90035": "Forest Internship Project Credits",
+                "GEOG90022": "International Internship in Environment Credits",
+                "ENST90035": "Environmental Research Project - 25 Pt1 Credits",
+                "ENST90036": "Environmental Research Project - 25 Pt2 Credits",
+                "ENST90037": "Environmental Research Project - 50 Pt1 Credits",
+                "ENST90038": "Environmental Research Project - 50 Pt2 Credits",
+                "ENST90039": "Environmental Industry Research - 25 Pt1 Credits",
+                "ENST90040": "Environmental Industry Research - 25 Pt2 Credits",
+                "ENST90041": "Environmental Industry Research - 50 Pt1 Credits",
+                "ENST90042": "Environmental Industry Research - 50 Pt2 Credits"
+            }
+        ],
+        "Elective Subjects": [
+            "Students should make up the balance of the award with electives. Subjects in the list below are recommended. Other subjects may be taken with the approval of stream coordinator.",
+            {
+                "AGRI90066": "Soil Science and Management Credits",
+                "BIOL90002": "Applied Statistics for Biologists Credits",
+                "BOTA90005": "Flora of Victoria Credits",
+                "CHEM90007": "Environmental Chemistry Credits",
+                "ENST90002": "Social Impact Assessment and Evaluation Credits",
+                "ENST90005": "Environmental Policy Credits",
+                "EVSC90014": "Environmental Risk Assessment Credits",
+                "EVSC90015": "Environmental Impact Assessment Credits",
+                "GEOL90005": "Hydrogeology/Environmental Geochemistry Credits",
+                "GEOM90008": "Spatial Data Management Credits",
+                "LAWS70068": "Environmental Law Credits",
+                "MAST90007": "Statistics for Research Workers Credits",
+                "NRMT90007": "Communities and Ecosystem Management Credits",
+                "FRST90033": "Farm Trees & Agroforestry Credits",
+                "NRMT90014": "Sustainable Landscapes Credits",
+                "GEOG90021": "Conservation and Cultural Environments Credits",
+                "ECON90016": "Environmental Economics and Strategy Credits",
+                "FRST90015": "Landscape Ecology Credits",
+                "FRST90032": "Ecosystems in a Changing Climate Credits",
+                "FRST90019": "Forest Assessment and Monitoring Credits",
+                "FRST90030": "Forests in the Asia Pacific Region Credits",
+                "FRST90026": "Bushfire & Biodiversity Credits",
+                "FRST90031": "Timber, Sustainable & Renewable Material Credits",
+                "DEVT90002": "Internship in Development Credits",
+                "DEVT90008": "International Internship in Development Credits",
+                "ENST70001": "Environmental Research Proj (50 Long) Credits",
+                "ENST70002": "Environmental Industry Research: 50 Long Credits",
+                "ENST90006": "Environmental Research Review (12.5) Credits",
+                "ENST90007": "Environmental Research Project (25) Credits",
+                "ENST90016": "Environmental Research Project (50) Credits",
+                "ENST90020": "Environmental Industry Research (50) Credits",
+                "ENST90024": "Environmental Research Project - 25 Long Credits",
+                "ENST90025": "Environmental Industry Research (25) Credits",
+                "ENST90026": "Environmental Industry Research: 25 Long Credits",
+                "FRST90035": "Forest Internship Project Credits",
+                "FRST90034": "Ecological Restoration Credits",
+                "GEOG90003": "Integrated River & Catchment Management Credits",
+                "NRMT90002": "Biosecurity: Managing Invasive Species Credits",
+                "VETS90016": "Wildlife Management Credits",
+                "ENST90017": "Environmental Policy Instruments Credits",
+                "ENST90032": "Sustainability and Behaviour Change Credits",
+                "LING90002": "Presenting Academic Discourse Credits",
+                "SCIE90017": "Science and Technology Internship Credits",
+                "EVSC90020": "Environmental Modelling Credits",
+                "SCIE90012": "Science Communication Credits",
+                "EVSC90026": "Modelling Species Distributions & Niches Credits",
+                "ENST90033": "Climate Change Mitigation Credits",
+                "FRST90025": "Patterns and Processes of Landscape Fire Credits",
+                "FRST90022": "Ecosystem Processes of Water and Soil Credits",
+                "FRST90078": "Conserving and Managing Native Forests Credits"
+            }
+        ]
+    }
+}

@@ -1,0 +1,149 @@
+{
+    "subject name": "Property Development",
+    "subject code": "ABPL90026",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to give students the knowledge and skills to be able to operate as a property professional in the area of development advice and decision making in property development. The subject integrates in the context of development climate change risk, sustainability, social and ethical considerations. The core content and competencies focus on:",
+        "the development process and the major players;",
+        "property market research and analysis;",
+        "the decision to build;",
+        "time value of money;",
+        "appreciation of investment and market valuation methods;",
+        "development appraisal including residual analysis and cash flow modelling;",
+        "price and worth; risk, return and risk analysis.",
+        "This subject may involve the following software: ARGUS Estate Master, ARGUS Developer.  Details of software availability and pricing are captured athttps://msd.unimelb.edu.au/graduate-research/resources/it-support#software.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the important factors influencing the decision to build and develop a property;",
+        "Place property in the context of business organizations, property, urban planning, design, construction and quantity surveying;",
+        "Identify a site or property suitable for a major property development;",
+        "Complete a development appraisal for a major property development;",
+        "Model property development cash flow;",
+        "Apply industry standard software to the development process;",
+        "Evaluate the viability of property development proposals."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the 200pt Program course entry point in the MC-PROP Master of Property"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                "Completion of a minimum of 50 credit points of study."
+            ],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into one of the following:",
+                "A course at the Melbourne School of Design",
+                "Admission into or selection of one of the following:",
+                "MC-CMPROP Master of Construction Management/Master of Property",
+                "MC-ARCPROP Master of Architecture/Master of Property",
+                "MC-PROPUP Master of Property/Master of Urban Planning"
+            ]
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Approval from the subject coordinator."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "702-418/702-659 Land Economy",
+        "702-418/702-659 Property Development and Investment",
+        "702-418/702-659 Property Development",
+        "ABPL40009 Property Development"
+    ],
+    "assessments": [
+        {
+            "description": "Assignment 1: One group presentation, (equivalent to 500 words per student). 5 minutes",
+            "timing": "First half of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Assignment 2: group assignment, due around mid-semester. 1000 words",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Assignment 3: group assignment. 1000 words (each)",
+            "timing": "Towards the end of semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Exam. 2 hours. Hurdle requirement:. A minimum mark of 40% must be achieved in the examination in order to pass the subject",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Christopher Heywood"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x 2 hour lecture per week; 1 x 1 hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

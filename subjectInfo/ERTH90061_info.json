@@ -1,0 +1,144 @@
+{
+    "subject name": "Earth Science Research Project 25",
+    "subject code": "ERTH90061",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "The School of Earth Sciences is home to a large and diverse range of research programs. Interests include the solid Earth, the fluid Earth (including our atmosphere and oceans) and processes that operate at the interface between these upon which all life on Planet Earth depends. Current research activities include: Climate Variability and Change, Atmosphere and Ocean Dynamics, Synoptic and Mesoscale Meteorology, Hydrogeology and Aqueous Biogeochemistry, Sedimentary Geology and Palaeontology, Palaeoclimate and Palaeoenvironmental Reconstruction, Thermochronology, Neotectonics and Landscape Evolution, Ore Deposit Geology, Geochemistry and Geochronology, Structural Geology, Tectonics and Geodynamics, Thermodynamics of Metamorphic Systems (THERMOCALC), Geochemistry and Geochronology of Magmatic Systems, Noble Gas Geochronology and Geochemistry, Computer Simulation of Geological and Geophysical Fluid Dynamics, Physics and Chemistry of the Earth's Deep Interior, and Energy: Resources and Futures.",
+        "This subject comprises of a major piece of original supervised research on a topic as agreed by the student and their supervisor."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Synthesise existing literature on a topic of interest and devise an appropriate research project that addresses key outstanding questions in the field;",
+        "Plan an appropriate program of data acquisition and manipulation (eg, modelling) in order to constrain the questions being addressed;",
+        "Interpret research results, and explore avenues for further research opportunities beyond the scope of the project;",
+        "Prepare an oral presentation and written report using scientific arguments to disseminate research results to specialist and non-specialist audiences;"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Selection of the Earth Sciences informal specialisation in the GDA-SCI Graduate Diploma in Science (Advanced)",
+                "Students are to discuss their proposed project with the stream coordinator and have attained a supervisor who has agreed to supervise the research project."
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A literature survey. 2000 words",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Oral presentation. 20 minutes (total)",
+            "timing": "End of semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "A written report. 6000 words",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Josephine Brown"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular meetings as arranged with supervisors."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Josephine Brown"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Regular meetings as arranged with supervisors."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "josephine.brown@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "josephine.brown@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

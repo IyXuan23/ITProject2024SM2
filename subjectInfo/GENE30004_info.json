@@ -1,0 +1,157 @@
+{
+    "subject name": "Genetic Analysis",
+    "subject code": "GENE30004",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The subject provides a capstone experience for students majoring in Genetics. It involves lectures and practical exercises which demonstrate advanced principles and techniques of genetic analysis from classical and population genetics to modern molecular technology. An emphasis is placed on student participation in experimental design and data analysis. Tutorials will be used to illustrate modern aspects of Genetics by the in-depth consideration of current publications in the field."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Discuss the application of genetic principles and different experimental designs in classical, molecular, and genetic analyses;",
+        "Evaluate the advantages and disadvantages of different experimental designs and the techniques associated with them;",
+        "Design and perform a range of laboratory techniques and analytical approaches used in different areas of genetics;",
+        "Analyse and interpret data derived from their own experimentation and that of others;",
+        "Communicate their analyses of scientific data in written and oral presentations; and",
+        "Appraise and critique the scientific literature."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "GENE30001",
+                    "GENE30002",
+                    "GENE20004"
+                ],
+                "Bachelor of Biomedicine students:",
+                [
+                    "GENE30001",
+                    "GENE30002"
+                ],
+                "GENE20003  Experiments in Genetics"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BCMB20005",
+                    "GENE20004",
+                    "MIIM20002"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Bachelor of Science students:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Five equally weighted individual assessments based on the practicals. Two before midsemester break and two after, and one in the exam period.. 20 hours (of work required)",
+            "timing": "Throughout the semester and during the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Individual oral presentation. 20 minutes. Hurdle requirement:. Students must pass (by obtaining 50% pass mark) for this presentation.",
+            "timing": "From Week 3 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual written report on a journal paper. 2000 words",
+            "timing": "Week 10",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Charles Robin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "1 x one hour lecture per week; 1 x one hour tutorial per week; 1 x three hour practical per week."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "crobin@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course.",
+            "This subject is available for credit in the Bachelor of Biomedicine.",
+            "This subject is required for a Genetics major."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "subject name": "Advanced Operations Management",
+    "subject code": "MGMT90196",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject examines state of the art thinking on the productive processes within organisations. The subject will provide an in-depth understanding of topics such as: the strategic importance of operations; planning and controlling the use of resources; ensuring quality of products and services; human issues involved in operations. The subject also considers the evolving context of operations management, with particular focus on globalisation, supply chain innovation, virtual and e-operations, agile/lean operations and mass customisation. This subject delves deeper into the quantitative tools available to managers for getting the most from the operations system."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain the strategic and operating issues and decisions involved in managing the business/operational processes within an enterprise",
+        "Describe the conceptual frameworks and analytical tools available to managers to optimise a firm's operational capacity",
+        "Explain how effective management of operations relates to organisations' strategic decisions, key processes, competitive posture and, ultimately, performance",
+        "Analyse resource allocation decisions"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "MC-COMMGMT Master of Commerce (Management)",
+                "MC-COMMKTG Master of Commerce (Marketing)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Class participation. 36 hours",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual assignment comprising 2000 word written report and 10 minute presentation. 3000 words (equivalent)",
+            "timing": "Week 8",
+            "percentage": "40%"
+        },
+        {
+            "description": "End of semester examination (2000 words equivalent). 3 hours",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "William Ho"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "william.ho@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ]
+    }
+}

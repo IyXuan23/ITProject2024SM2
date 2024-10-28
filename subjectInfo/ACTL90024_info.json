@@ -1,0 +1,101 @@
+{
+    "subject name": "Actuarial Studies Projects - Part 2",
+    "subject code": "ACTL90024",
+    "subject availability": [
+        "Semester 2 (Early-Start)"
+    ],
+    "overview": [
+        "This subject provides students with the experience of carrying out research independently on each of three topics chosen by the subject\u2019s lecturers. For each topic, the student is required, over eight weeks to conduct and present as an extended essay the results of an independent piece of actuarial science research.",
+        "This subject involves a two-semester program of study. Students must enrol in two consecutive semesters,Actuarial Studies Projects - Part 1, Semester 1 and Actuarial Studies Projects - Part 2, Semester 2.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Be able to work independently on prescribed topics in actuarial studies.",
+        "Identify the bibliographic and data sources relevant to the topics.",
+        "Analyse the literature relevant to the topics.",
+        "Apply appropriate actuarial and quantitative methods of analysis.",
+        "Complete written research reports."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "ACTL90013"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-COMACTS Master of Commerce (Actuarial Science)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Written Assignment 1. The word count, includes: footnotes, appendices and the number of words which would take up space used for tables, formulae and charts but excludes bibliography. 3500 words",
+            "timing": "Week 4",
+            "percentage": "35%"
+        },
+        {
+            "description": "Written Assignment 2. The word count includes: footnotes, appendices and the number of words which would take up space used for tables, formulae and charts but excludes bibliography. 4000 words",
+            "timing": "Week 12",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Principal coordinator": "Ping Chen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "29 June 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "12 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "ping.chen@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ]
+    }
+}

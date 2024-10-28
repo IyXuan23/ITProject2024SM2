@@ -1,0 +1,65 @@
+{
+    "major name": "Health Policy, Systems and Practice",
+    "overview": [
+        "Students undertaking subjects from this specialisation will train to work in the fields of health policy development, health program design, and health system strengthening. All health interventions require changes in health systems and policy, and students who undertake this specialisation will: learn approaches to improve health and reduce health inequity through the development and improvement of programs and systems; gain a deep understanding of the role and influence of the broad policy environment;and develop skills to analyse policy options and their impact on health and wellbeing. Within this specialisation students will learn about comparative methods to analyse and respond to a wide range of global public health issues. Possible roles in the field include Policy Officer, Health Promotion Coordinator, Program Coordinator, Project Officer, Community Engagement Officer, Government Health Systems and Policy Advisor, and Health Policy/Systems/Program Researcher. Organisations that employ people with these skills include national, regional, state/provincial, and local governments;globally and locally focused non-government and community based organisations;health care services providers;private sector organisations and research bodies;and international agencies e.g., UN Agencies, World Health Organization.",
+        "Last updated: 17 July 2024"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "Standard 200 Point Program (no Advanced Standing):",
+            "SIX core subjects and NINE elective subjects and the Capstone Selective POPH90227 Public Health in PracticeORSIX core subjects, EIGHT elective subjects and either a Research Project or Professional Practice unit",
+            "175 Point Pathway:",
+            "SIX core subjects and SEVEN elective subjects and the Capstone Selective POPH90227 Public Health in PracticeORSIX core subjects, SIX elective subjects and either a Research Project or Professional Practice unit",
+            "150 Point Pathway:",
+            "SIX core subjects and FIVE elective subjects and the Capstone Selective POPH90227 Public Health in PracticeORSIX core subjects and FOUR elective subjects and either a Research Project or Professional Practice unit"
+        ],
+        "Subject Options": [],
+        "Core Subjects": [
+            {
+                "POPH90217": "Foundations of Public Health Credits",
+                "POPH90013": "Biostatistics Credits",
+                "POPH90014": "Epidemiology 1 Credits",
+                "POPH90218": "Public Health Leadership and Management Credits",
+                "POPH90231": "Qualitative Research in Public Health Credits",
+                "POPH90274": "Prioritising & Planning in Public Health Credits"
+            }
+        ],
+        "Highly Recommended Electives": [
+            {
+                "POPH90206": "Health Policy Credits",
+                "POPH90020": "Health Promotion Credits",
+                "POPH90058": "Health Program Evaluation 1 Credits",
+                "POPH90209": "Comparative Health Systems Credits",
+                "POPH90307": "Health System Transformation Credits"
+            }
+        ],
+        "Other Recommended Electives": [
+            {
+                "POPH90093": "Economic Evaluation 1 Credits",
+                "POPH90094": "Health Economics 1 Credits",
+                "POPH90189": "Health Program Design & Implementation Credits",
+                "FOOD90040": "Nutrition Politics and Policy Credits",
+                "POPH90244": "Health and Human Rights Credits",
+                "POPH90247": "Non Communicable Disease & Global Health Credits",
+                "POPH90205": "Social Determinants of Health Inequality Credits",
+                "POPH90191": "Practice of Public Health Leadership Credits",
+                "POPH90256": "Ageing in Society Credits",
+                "PSYT90092": "Mental Health and Ageing Credits",
+                "POPH90302": "Introduction to Health Services Research Credits",
+                "POPH90088": "Disability in Policy and Practice Credits",
+                "POPH90303": "Climate Change and Health Credits",
+                "POPH90304": "Sustainability and Healthcare Credits",
+                "INFO90011": "Applied Learning Health Systems Credits"
+            }
+        ],
+        "Capstone": [
+            "There are three Capstone options to choose from - please refer to the Course Entry for detailed information on each of these:",
+            [
+                "1. Research Project",
+                "2. Professional Practice Unit",
+                "3. Capstone selective subject & an additional elective"
+            ]
+        ]
+    }
+}

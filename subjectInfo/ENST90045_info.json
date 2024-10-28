@@ -1,0 +1,116 @@
+{
+    "subject name": "Spatial Tools for Ecosystem Management",
+    "subject code": "ENST90045",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "The course covers the fundamentals of spatial analysis for ecosystem management and conservation problems. Students will develop skills in the application of remote sensing and Geographic Information Systems (GIS) for landscape analysis of data. Methodologies for collecting, analysing and interpreting spatial data will be considered through theoretical and practical approaches. These will include data collected by drones through to satellite derived measures at a continental to global scale. Students will learn the spatial skills essential to environmental management by applying industry standard tools and methods. Finally, students will develop an understanding of the emerging technologies in data collection and analysis."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Experience and proficiency in the use of Geographic Information Systems (GIS) on multiple software platforms;",
+        "An ability to collect, analyse and interpret spatial data to address ecosystem management and conservation questions;",
+        "Experience in methodologies to collect spatial data about natural resources and people at multiple scales and critically assess their limitations;",
+        "Knowledge of the current remote sensing technologies and their application; and",
+        "Understand emerging technologies in spatial data collection and analysis."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Four short reports (500 words, and worth 10% each). 2000 words",
+            "timing": "Throughout the semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "One short presentation around week 6, 500 word equivalent 10% total assessment. 500 words",
+            "timing": "During the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "A major research assignment (2500 words). 2500 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Marie Dade"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total 48 hours: 12 x 1 hour lectures (1 hour per week); 12 x 3  hours practicals; (3 hours per week);"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    ""
+                ],
+                "email": [
+                    "marie.dade@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Recommended texts and other resources:",
+                    "http://www.spatialanalysisonline.com/",
+                    "https://pelagicpublishing.com/products/remote-sensing-and-gis-for-ecologists-wegmann-leutner-dech"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

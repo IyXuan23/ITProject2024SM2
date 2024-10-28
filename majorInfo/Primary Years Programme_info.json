@@ -1,0 +1,23 @@
+{
+    "major name": "Primary Years Programme",
+    "overview": [
+        "Prerequisites for the core subjects in the Primary Years Programme specialisation:",
+        [
+            "1. EDUC90333 Introduction to the IB is a prerequisite for EDUC90261 Curriculum Frameworks in the IB PYP",
+            "2. EDUC90331 Assessment & Reporting in the IB is a prerequisite for EDUC90260 IB PYP Advanced"
+        ]
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "Completion of all of the following subjects:",
+            {
+                "EDUC90333": "Introduction to the IB Credits",
+                "EDUC90261": "Curriculum Frameworks in the IB PYP Credits",
+                "EDUC90331": "Assessment & Reporting in the IB Credits",
+                "EDUC90260": "IB PYP Advanced Credits"
+            }
+        ]
+    }
+}

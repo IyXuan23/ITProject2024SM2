@@ -1,0 +1,106 @@
+{
+    "subject name": "Advanced Molecular Biology Techniques",
+    "subject code": "BTCH90005",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject is focussed on the use of molecular techniques to study gene and protein functions in a range of organisms. It aims to provide students with an advanced understanding of the strategies and techniques used in molecular biology of relevance both to the biotechnology industry and to advanced molecular biology research. Topics will be drawn from the current literature and ongoing research in molecular biology."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "a detailed understanding of advanced tools, resources and techniques in molecular biology;",
+        "an understanding of how these techniques are used to study gene and protein functions in cells and organisms;",
+        "an appreciation of how these techniques may be applied both in biotechnology and in advanced research;",
+        "an appreciation of the information resources available to assess the usefulness of a particular technique; and",
+        "acquired the knowledge to enable them to critically appraise new data arising from the use of these techniques and to interpret the implications of such data."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Four practical assignments due  at the end of weeks 3, 5, 7 and 9 (10% each). 500 words (each)",
+            "timing": "From Week 3 to Week 9",
+            "percentage": "40%"
+        },
+        {
+            "description": "One oral presentation, delivered in pairs. 15 minutes",
+            "timing": "End of semester",
+            "percentage": "15%"
+        },
+        {
+            "description": "Examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Lara Grollo"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "18 hours comprising one 2-hour lecture per week (first 9 weeks), 6 hours comprising attendance at oral presentations (final 3 weeks) and four 3-hour practical classes."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "grollo.l@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

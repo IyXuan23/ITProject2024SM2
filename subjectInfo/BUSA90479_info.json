@@ -1,0 +1,166 @@
+{
+    "subject name": "MBA Internship",
+    "subject code": "BUSA90479",
+    "subject availability": [
+        "January",
+        "April",
+        "September"
+    ],
+    "overview": [
+        "This subject involves completion of an 80-100 hour work placement (which may be undertaken as part of a longer period of internship with an organization) integrating academic learning, employability skills and attributes and an improved knowledge of organizations, workplace culture and career pathways.",
+        "The placement is supplemented by career workshops before and after the internship designed to introduce skills for developing, identifying and articulating employability skills and attributes and linking them to employer requirements. The placement is designed to draw on specific discipline skills associated with the Master of Business Administration course content. Internships are normally expected to take place after the core subjects of the MBA are completed. Placements must be approved by the Subject Coordinator.",
+        "On completion of the subject, students will have completed and reported on a course-related project in a workplace. They will also have enhanced employability skills including communication, interpersonal, analytical and problem-solving, organizational and time-management, and an understanding of career planning and professional development."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify and articulate their knowledge and skills and apply them to relevant organizational contexts and work-settings; as well as linking them to specific professions and career pathways.",
+        "Produce original work in an appropriate format which demonstrates analytical, research and problem-solving skills;",
+        "Review and reflect on the process and output of a work project/ placement to articulate their academic and career development learning from the experience;",
+        "Understand the value of industry and professional networks and their importance to self reliance, lifelong learning and career progression."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90487"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual research assignment. 5000 words (equivalent). Hurdle requirement:. Students are required to pass the assessment to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Presentation. 20 minutes",
+            "timing": "End of the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Participation at a minimum of 20 hours of career workshops and satisfactory completion of preparation work, 1000 words. 20 hours",
+            "timing": "Throughout all terms",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "January": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "15 January 2024 to 22 March 2024"
+                },
+                {
+                    "Last self-enrol date": "29 January 2024"
+                },
+                {
+                    "Census date": "2 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "8 March 2024"
+                },
+                {
+                    "Assessment period ends": "29 March 2024"
+                }
+            ]
+        },
+        {
+            "April": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "60 hours"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "1 April 2024 to 21 June 2024"
+                },
+                {
+                    "Last self-enrol date": "17 April 2024"
+                },
+                {
+                    "Census date": "26 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "31 May 2024"
+                },
+                {
+                    "Assessment period ends": "30 June 2024"
+                }
+            ]
+        },
+        {
+            "September": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "23 September 2024 to 29 November 2024"
+                },
+                {
+                    "Last self-enrol date": "7 October 2024"
+                },
+                {
+                    "Census date": "11 October 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "8 November 2024"
+                },
+                {
+                    "Assessment period ends": "6 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "April": {
+                "name": [
+                    "Program Services"
+                ],
+                "email": [
+                    "programservices@mbs.edu"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is only available to students admitted to MC-BA, or students with permission of the MBA course coordinator"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

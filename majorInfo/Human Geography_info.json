@@ -1,0 +1,65 @@
+{
+    "major name": "Human Geography",
+    "overview": [
+        "A specialisation in Human Geography will allow students to investigate and understand the dynamic relationships between societies and environments. Human Geography will study human actions and activities from the local scale to the global scale and it will encompass different ways of knowing - those of science and those of the humanities and social sciences - in its approach to the world\u2019s urgent problems and injustices. As such, it is a globally-minded discipline that seeks to understand the complex connections between people and place in order to work towards a more equitable world.",
+        "Geography is a field-based discipline, enabling students to gain hands-on research experience via practical laboratory classes, field trips, and group project work, whilst also being provided opportunities to develop critical intellectual skills, transferable professional skills, a sense of public responsibility and higher research degree capacities.",
+        "Completion of the Graduate Diploma with a specialisation in Human Geography will allow students to enter careers in the following areas: research institutions, teaching, environmental sciences, resource management and planning, environmental consultancies, industry and all levels of government. The Graduate Diploma (Human Geography specialisation) also provides a pathway into the Master of Geography."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "125 credit points",
+            "Completion of 125 points:",
+            [
+                "50 points of study at Level 2 or above;",
+                "50 points of study at Level 3;",
+                "25 point of study at Level 9"
+            ]
+        ],
+        "Subject Options": [
+            "Subject prerequisites:Details of stream specific requirements can be found at the Graduate Diploma in Science entry and participation requirements page."
+        ],
+        "Level 2": [
+            "Students should select 50 points of level 2 options to meet the pre-requisites for their level 3 choices.",
+            "Students must select four of the following:",
+            {
+                "GEOG20001": "Society and Environments Credits",
+                "GEOG20002": "Landscapes and Environmental Change Credits",
+                "GEOG20003": "Environmental Politics and Management Credits",
+                "GEOG20008": "Inside the City of Diversity Credits",
+                "GEOG20010": "China in Transition Credits",
+                "GEOG20011": "Global Inequalities In The Anthropocene Credits",
+                "GEOG20012": "Post-Conflict Development and Difference Credits",
+                "GEOG20013": "Health Geography Credits",
+                "GEOG20015": "Environmental Change & the Human Journey Credits",
+                "GEOG20016": "Fertility, Mortality and Social Change Credits",
+                "GEOG20017": "Spatial Analysis in Geography Credits",
+                "GEOG20018": "India: Environment, Politics and Society Credits"
+            }
+        ],
+        "Level 3": [
+            "Students must select 50 points of level 3 subjects.",
+            "Students must select four of the following:",
+            {
+                "GEOG30001": "Geomorphology: Catchment to Coast Credits",
+                "GEOG30007": "China Field Class Credits",
+                "GEOG30019": "Sustainable Development Credits",
+                "GEOG30021": "The Disaster Resilient City Credits",
+                "GEOG30022": "Riverine Landscapes: Hydrology & Ecology Credits",
+                "GEOG30023": "Global Climate Change in Context Credits",
+                "GEOG30024": "Africa: Environment, Development, People Credits",
+                "GEOG30026": "East Timor Field Class Credits",
+                "GEOG30027": "Local Sites, Global Connections Credits",
+                "GEOG30028": "Mobile Worlds Credits",
+                "GEOG30029": "Geographies of Migration Credits",
+                "GEOG30030": "Spatial Modelling for Nature and People Credits",
+                "GEOG30031": "Law Space: Geographies of Justice Credits",
+                "GEOG30032": "Risk Management and Citizen Science Credits",
+                "GEOG30033": "Arid Australia Field Class Credits"
+            }
+        ],
+        "Level 9": [
+            "Plus 25 points of level 9 subjects selected from listed discipline subjects in theMaster of Geographyprogram."
+        ]
+    }
+}

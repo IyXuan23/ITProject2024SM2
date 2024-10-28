@@ -1,0 +1,37 @@
+{
+    "major name": "Immunology",
+    "overview": [
+        "This major provides students with a detailed understanding of Immunology, the study of our immune system. The major describes how Immunology is studied and applied to a range of areas in the biomedical sciences. The major opens up careers in infectious diseases, diagnostics, molecular biology, biotechnology, vaccinology, biosafety and regulation as well as providing an avenue towards post-graduate research into infectious agents, their genes, underlying mechanisms of infectious disease and diseases associated with the immune system. It provides a basis for further study into medicine and other paramedical disciplines.",
+        "Students intending to undertake this major should be aware that it requires successful completion of a practical-based subject in which products and reagents derived from animals are used."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "MIIM30002": "Principles of Immunology Credits",
+                "MIIM30003": "Medical and Applied Immunology Credits",
+                "MIIM30015": "Techniques in Immunology Credits"
+            },
+            "AND",
+            {
+                "BCMB30001": "Protein Structure and Function Credits",
+                "BCMB30002": "Functional Genomics and Bioinformatics Credits",
+                "BCMB30003": "Molecular Aspects of Cell Biology Credits",
+                "BCMB30004": "Cell Signalling and Neurochemistry Credits",
+                "BCMB30011": "Cellular Metabolism and Disease Credits",
+                "CEDB30002": "Concepts in Cell & Developmental Biology Credits",
+                "GENE30002": "Genes: Organisation and Function Credits",
+                "MIIM30011": "Medical Microbiology: Bacteriology Credits",
+                "MIIM30014": "Medical Microbiology: Virology Credits",
+                "MIIM30017": "Medical Microbiology: Parasitology Credits",
+                "NEUR30003": "Principles of Neuroscience Credits",
+                "PATH30001": "Mechanisms of Human Disease Credits",
+                "PHRM30003": "Drug Treatment of Disease Credits"
+            }
+        ],
+        "Notes": [
+            "A quota has been applied to a core subject in this major."
+        ]
+    }
+}

@@ -1,0 +1,111 @@
+{
+    "subject name": "Literature Review",
+    "subject code": "PSYC90003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject is intended as part of a student's preparation for writing their postgraduate psychology thesis by ensuring that they have an extensive knowledge of the contemporary literature in that area along with an understanding of the methodology underlying relevant research. This review of the literature will enable them to determine a pertinent research question by identifying a gap in the literature.  Students will conduct their own research projects as outlined in PSYC90095 Thesis (Masters/coursework) Part 1 / PSYC90096 Thesis (Masters/coursework) Part 2."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Acquire a familiarity with the contemporary research literature relating to their thesis topic."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "Admission into or selection of one of the following:527CL Master of Psychology (Clinical Psychology)080CL Master of Psychology (Clinical Psychology)/Doctor of Philosophy527CN Master of Psychology (Clinical Neuropsychology)080CN Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy",
+                "527CL Master of Psychology (Clinical Psychology)",
+                "080CL Master of Psychology (Clinical Psychology)/Doctor of Philosophy",
+                "527CN Master of Psychology (Clinical Neuropsychology)",
+                "080CN Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy",
+                "527CL Master of Psychology (Clinical Psychology)",
+                "080CL Master of Psychology (Clinical Psychology)/Doctor of Philosophy",
+                "527CN Master of Psychology (Clinical Neuropsychology)",
+                "080CN Master of Psychology (Clinical Neuropsychology)/Doctor of Philosophy"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Prepare outline of literature review. 500 words. Hurdle requirement:. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "Week 6",
+            "percentage": "0%"
+        },
+        {
+            "description": "Prepare literature review.. 2000 words. Hurdle requirement:. For the purposes of meeting this hurdle requirement, each submitted assessment must be complete and constitute a genuine attempt to address the requirements of the task. Submitting only part of an assessment (e.g. only the title page) or an assessment on an irrelevant topic will not meet this hurdle requirement.",
+            "timing": "During the assessment period",
+            "percentage": "0%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Isabel Krug"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Principal Coordinator: A/Prof Isabel Krug",
+                    ""
+                ],
+                "email": [
+                    "isabel.krug@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

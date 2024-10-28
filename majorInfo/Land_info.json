@@ -1,0 +1,30 @@
+{
+    "major name": "Land",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "The Land specialisation is completed by undertaking:",
+            [
+                "37.5 credit points of Year 3 specialisation compulsory subjects",
+                "12.5 credit points of Year 3 specialisation selectives"
+            ]
+        ],
+        "Subject options": [],
+        "Year 3 specialisation compulsory subjects": [
+            {
+                "ABPL90041": "Property Law (PG) Credits",
+                "GEOM90041": "Cadastral Surveying Credits",
+                "GEOM90045": "Residential Land Development Credits"
+            },
+            "Please note: GEOM90041 Cadastral Surveying and GEOM90045 Residential Land Development are offered in alternating years. Accordingly, students will need to undertake one of these subjects in the second year of the course, and the other subject in the third year of the course. Please take this into consideration upon planning/completing your enrolment."
+        ],
+        "Year 3 specialisation selectives": [
+            {
+                "ABPL90130": "Planning Law & Statutory Planning Credits",
+                "GEOG90019": "Indigenous Land Management Credits"
+            }
+        ]
+    }
+}

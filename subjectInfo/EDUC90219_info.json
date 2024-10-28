@@ -1,0 +1,130 @@
+{
+    "subject name": "Research Project",
+    "subject code": "EDUC90219",
+    "subject availability": [
+        "Year Long"
+    ],
+    "overview": [
+        "Completion of the research project is intended to give students an appreciation of the processes involved in research, practical skills development, and the capacity to evaluate published research in the field of interest. As advised by the supervisor, the student studies appropriate research methodology and carries out a review of relevant literature and research for an investigative study resulting in the preparation of a report. The project offers students the opportunity to study in more depth themes discussed in previous subjects, and to apply these to an area of particular interest. The work should be a new study or development of an already existing study, which may involve collecting primary data from the field, evaluating or formulating a construct, or making a theoretical contribution. The result should give clear evidence of research skills and critical judgment."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate an understanding of contemporary issues in educational psychology, particularly differential development, learning processes and social processes in development;",
+        "Use assessment and observation procedures and interpret findings to gain accurate information on the cognitive, social, emotional and personality development of children and adolescents;",
+        "Compose reports to other professionals;",
+        "Evaluate critically and interpret research and theory in this field, and carry out research and program evaluation of their own;",
+        "Understand and apply ethical principles and procedures."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "EDUC90220"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Admission into one of the following: 312AA Master of Educational Psychology, MC-PSYCHED Master of Psychology (Educational and Developmental)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Research Proposal. 3000 words. Hurdle requirement:. A minimum of a pass grade is required in this assessment task.",
+            "timing": "Early Semester 1",
+            "percentage": "15%"
+        },
+        {
+            "description": "Hurdle requirement:. Submission of a successful ethics application (with external review) or statement (with internal review)",
+            "timing": "Early Semester 1",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Literature Review. 5000 words. Hurdle requirement:. A minimum of a pass grade is required in this assessment task.",
+            "timing": "End of Semester 1",
+            "percentage": "30%"
+        },
+        {
+            "description": "Oral presentation of abstract (1000 words equivalent). 10 minutes. Hurdle requirement:. A minimum of a pass grade is required in this assessment task.",
+            "timing": "End of Semester 2",
+            "percentage": "5%"
+        },
+        {
+            "description": "Report presented as a publishable article. 8000 words. Hurdle requirement:. A minimum of a pass grade is required in this assessment task.",
+            "timing": "End of Semester 2",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. A minimum of 80% attendance at all tutorials, seminars and workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long": [
+                {
+                    "Coordinator": "Ben Deery"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours including individual supervision"
+                },
+                {
+                    "Total time commitment": "680 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long": {
+                "name": [],
+                "email": [
+                    "b.deery@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "American Psychological Association 2010 Publication manual, (6th ed.). APA Washington DC."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "Faculty of Education:www.education.unimelb.edu.au"
+        ]
+    }
+}

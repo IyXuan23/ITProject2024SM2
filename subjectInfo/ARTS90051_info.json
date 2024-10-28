@@ -1,0 +1,101 @@
+{
+    "subject name": "Time",
+    "subject code": "ARTS90051",
+    "subject availability": [
+        "Semester 1 - Dual-Delivery"
+    ],
+    "overview": [
+        "Does any moment other than the present exist?  Are all moments of time (past, present, and future) equally real or are some moments privileged?  Does special relativity constrain the views of time that it is reasonable to endorse?  How does the way we experience time (both as individuals and as members of a particular cultural) influence our daily lives?  In this subject we will examine various accounts of the nature of time (presentism, eternalism, growing block theory), as well as of our experience of time (i.e. our \"temporal phenomenology\").  Far from being a mere esoteric philosophical matter, which view of time we endorse and which temporal phenomenology we experience has far-reaching consequences.  Special emphasis will be placed upon exploring connections between philosophical accounts of time and ways of conceiving time that have been influential in other disciplines.  This inter-disciplinary approach to understanding time will be particularly relevant to students whose studies involve consideration of events unfolding over time (e.g. the reign of a queen, the evolution of linguistic practices over time) or inter-personal/inter-cultural differences in the perception of time (e.g. does how quick people are to anger vary across cultures?  Are there systematic difference in our perception of time that mirror the systematic personality differences evaluated in the Myers Briggs personality test?)"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Enhanced knowledge of the philosophical, social, and scientific issues surrounding time",
+        "An ability to reflect upon their own research work in a broad, interdisciplinary way",
+        "Enhanced engagement with leading-edge research at the intersection of science and the arts."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "MULT90040 Time",
+        "PHIL90042 Time"
+    ],
+    "assessments": [
+        {
+            "description": "One final paper. 2500 words",
+            "timing": "During the examination period",
+            "percentage": "100%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 20 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Dana Goswick"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": "Total 12 hours \u2013 6 x 2 hour seminars taught fortnightly"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "dgoswick@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

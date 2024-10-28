@@ -1,0 +1,24 @@
+{
+    "major name": "Mobility",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "The Mobility specialisation is completed by undertaking:",
+            [
+                "50 credit points of Year 3 specialisation selectives"
+            ]
+        ],
+        "Subject options": [],
+        "Year 3 specialisation selectives": [
+            {
+                "ABPL90090": "Public Transport Network Planning Credits",
+                "CVEN90048": "Transport Systems Credits",
+                "CVEN90061": "Freight Systems Credits",
+                "CVEN90063": "Transport System Modelling Credits",
+                "MCEN90028": "Robotics Systems Credits"
+            }
+        ]
+    }
+}

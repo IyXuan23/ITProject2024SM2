@@ -1,0 +1,113 @@
+{
+    "subject name": "Data Science Project Pt2",
+    "subject code": "MAST90107",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This capstone project will provide the culmination of the Master of Data Science degree. It will apply the skills developed during the degree to a practical problem of relevance to science, industry, commerce or society in general. Students will continue to work in their teams established in MAST90106 Data Science Project Part 1, again under only general guidance from staff members. They are expected to present technically correct results in a fashion acceptable to industry-based and other clients.Students will be continue to be expected to complete diaries to log their work on the project so that the extent of their contribution to group projects can be determined. In this part of the project students will complete the project and present a group project report and oral presentation."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "The ability to apply contemporary data science techniques to a practical problem.",
+        "The ability to project manage as part of a team in order to design the program of work, complete the analysis of project results and compile the project report",
+        "The ability to present results at a career-ready level"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST90106"
+                ],
+                "Note: the following subject/s can also be taken concurrently (at the same time)",
+                [
+                    "COMP90051",
+                    "MAST90083"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A literature review and project plan completed by the research group. 5 pages. Hurdle requirement",
+            "timing": "End of first semester",
+            "percentage": "N/A"
+        },
+        {
+            "description": "A written report totaling 6,000 words, or equivalent completed by the research group. 6000 words (equivalent)",
+            "timing": "End of second semester",
+            "percentage": "70%"
+        },
+        {
+            "description": "Group oral presentation. 20 minutes",
+            "timing": "End of second semester",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinators": "Michael Kirley, Joyce Zhang, and Feng Liu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Up to 10 hours comprising one initial 2 hour workshop to form groups and discuss the form of the project, one 1 hour workshop on research ethics, one 2 hour workshop towards the end of the first semester to discuss the project\u2019s progress and up to 5 hours informal contact with the subject coordinator."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "lele.zhang@unimelb.edu.au",
+                    "feng.liu1@unimelb.edu.au",
+                    "mkirley@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

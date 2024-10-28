@@ -1,0 +1,164 @@
+{
+    "subject name": "Quantitative Environmental Modelling",
+    "subject code": "ENEN90031",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "AIMSEnvironmental problems are highly complex and challenging to analyse and are often addressed through modelling. Being skilled at environmental modelling is a core professional requirement for an Environmental Engineer. This subject focuses on environmental modelling methodology including the steps of model conceptualisation, model construction, model evaluation and model application using a range of energy, water and waste models. The subject complements ENEN90032 Environmental Analysis Tools and ENEN90028 Monitoring Environmental Impacts which provide other core environmental engineering skills. It provides modelling skills for a wide range of discipline based subjects such as ENEN90006 Solid Wastes, ENEN90034 Environmental Applied Hydrology and ENEN90027 Energy for Sustainable Development. The subject is of particular relevance to all Environmental Engineers but is also of relevance to a range of engineering and environmental analysis disciplines that require advanced modelling skills.",
+        "INDICATIVE CONTENTThe relationship between theoretical and empirical understanding and their use in model conceptualisation and construction will be explored. This subject introduces a range of environmental modelling techniques applicable to different environmental problems. In this subject students will conceptualise and construct, evaluate and utilise their own model to undertake a technical evaluation of a specified range of potential solutions to an environmental problem. Students will also develop professional judgement skills to critically evaluate models and model results.Specific topic areas:",
+        "System conceptualisation",
+        "Model construction and validation (computational accuracy)",
+        "Model evaluation",
+        "Calibration and optimisation",
+        "Model uncertainty assessment techniques",
+        "Issues of appropriate model complexity",
+        "Students will have an opportunity to review a modelling topic of their choice.",
+        "Students will use a numerical programming language to undertake modelling tasks and will be required to learn some programming skills in the subject.",
+        "Please view this video for further information:Quantitative Environmental Modelling"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Select an appropriate approach to quantitative modelling of problems, given existing knowledge and data",
+        "Develop a conceptual model designed to investigate and solve engineering problems",
+        "Apply, calibrate and evaluate a quantitative model of the problem using generic modelling software in a numerical programming environment",
+        "Apply models to investigate problems and synthesise recommendations based on the modelling",
+        "Write and present engineering reports of modelling studies."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "Admission into or selection of one of the following:MC-ENVENG Master of Environmental Engineering206EC Master of Environmental EngineeringMC-ENSYSEN Master of Environmental Systems EngineeringMC-DINFENG Master of Digital Infrastructure EngineeringAdmission into or selection of one of the following:Environmental specialisation (formal) in the MC-ENG Master of Engineering",
+                "MC-ENVENG Master of Environmental Engineering",
+                "206EC Master of Environmental Engineering",
+                "MC-ENSYSEN Master of Environmental Systems Engineering",
+                "MC-DINFENG Master of Digital Infrastructure Engineering",
+                "Environmental specialisation (formal) in the MC-ENG Master of Engineering",
+                "MC-ENVENG Master of Environmental Engineering",
+                "206EC Master of Environmental Engineering",
+                "MC-ENSYSEN Master of Environmental Systems Engineering",
+                "MC-DINFENG Master of Digital Infrastructure Engineering",
+                "Environmental specialisation (formal) in the MC-ENG Master of Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "MAST10005",
+                    "MAST10007"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One computing assignment of approximately 500 words. Intended Learning Outcome (ILO) 3 is addressed in the assignment. 13-15 hours (of work required)",
+            "timing": "Week 3",
+            "percentage": "10%"
+        },
+        {
+            "description": "One modelling report of approximately 1000 words. ILOs 3, 4 and 5 are addressed in the report. 25-30 hours (of work required)",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "One modelling report of approximately 1500 words.  ILOs 3, 4 and 5 are addressed in the report. 35-40 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "30%"
+        },
+        {
+            "description": "One critical literature review of approximately 2000 words. ILOs 1, 2 and 5 are addressed in the review. 35-40 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "One 10-minute oral presentation of the literature review. ILOs 1, 2 and 5 are addressed in the presentation of review.. 13-15 hours (of work required)",
+            "timing": "From Week 11 to Week 12",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Andrew Western"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours (Lectures: 2 hours per week; Computer Laboratories: 2 hours per week)"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Professor Andrew Western"
+                ],
+                "email": [
+                    "a.western@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Beven, K. 2009Environmental Modelling: An Uncertain Future?Routledge"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe learning in this subject is a combination of problem based learning in computer workshops and through assignments and lectures that provide the theoretical background for each. In addition each student undertakes and presents a literature review on an environmental modelling topic of their choice. The modelling assignments allow for choice between water, energy and waste focussed problems.INDICATIVE KEY LEARNING RESOURCESThe subject textbook is Beven, K. 2009Environmental Modelling: An Uncertain Future?Routledge.In addition a range of journal papers, many of which are review papers, are provided.Students are also expected to search the journal and other literature available through the library.MatLab self-paced learning is available athttp://aaee-scholar.pbworks.com/Learn-MATLABCAREERS / INDUSTRY LINKSPresenter(s) from industry present a modelling case study. Students who are already working in industry can base their literature review topic on an aspect of modelling relevant to their workplace."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

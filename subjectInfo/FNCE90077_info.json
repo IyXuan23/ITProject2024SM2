@@ -1,0 +1,109 @@
+{
+    "subject name": "Empirical Investments",
+    "subject code": "FNCE90077",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Students enrol in Empirical Investments after the completion of Empirical Corporate Finance, these subjects are completed in two consecutive semesters. A number of seminars will be held during the semester to discuss various aspects of the program including bibliographic and other resources available to students and a range of analytical and empirical research methods and techniques used in Finance. Among other things, the workshops provide a forum for students to discuss and develop their own research proposals, and to develop seminar and conference presentation ability."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify contemporary issues in finance;",
+        "Identify principles of finance research;",
+        "Formulate and solve financial problems."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "FNCE90076"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-COMFIN Master of Commerce (Finance)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual in-class presentation and discussion leading of required readings.. 20 minutes",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Individual in-class presentation of seminar papers.. 20 minutes",
+            "timing": "From Week 2 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assignment, covering material taught in lectures 1 through 5 inclusive.. 1000 words",
+            "timing": "Week 6",
+            "percentage": "15%"
+        },
+        {
+            "description": "Assignment, covering material taught in lectures 7 through 11 inclusive.. 1000 words",
+            "timing": "Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Examination, covering material taught in lectures 1 through 12 inclusive.. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Joachim Inkmann"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Three hours per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

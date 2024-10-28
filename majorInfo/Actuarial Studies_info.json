@@ -1,0 +1,82 @@
+{
+    "major name": "Actuarial Studies",
+    "overview": [
+        "Actuaries work in the assessment and management of the financial risks faced by insurance companies, superannuation funds and other entities. These risks include illness, disability or death of individuals, as well as risks to property (motor vehicles, buildings, etc.). The actuary\u2019s work is based on a multi-disciplinary background in mathematics, statistics, finance and economics.",
+        "A major in Actuarial Studies will give you a firm grounding in the traditional actuarial skill set of mathematics, statistics, demography, finance and economics. Specifically, you\u2019ll learn from subjects covering actuarial techniques and life insurance modelling, through to the mathematics of finance and insurance risk models. This background, coupled with strong analytical skills, sees actuaries serving as financial advisers to a range of organisations including insurance companies, banks and other financial institutions, superannuation funds and governments",
+        "The Centre for Actuarial Studies is accredited by the Actuaries Institute, which is the professional actuarial body in Australia. This accreditation means that students who complete certain subjects at the University of Melbourne, and achieve a sufficiently high standard, will be recommended for exemption from the corresponding subjects of the Actuaries Institute. Further details are available in the Students\u2019 Guide on the Centre for Actuarial Studies website:fbe.unimelb.edu.au/economics/ACT/courses/current_students",
+        "The Faculty of Business and Economics is also designated as a Center of Actuarial Excellence by the US Society of Actuaries."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "37.5 credit points"
+        ],
+        "Pre-major study": [
+            "In your first and second year you will complete the compulsory BCom subjects, and subjects that are prerequisites or recommended subjects for your major.",
+            "Students who are pursuing a major in Actuarial Studies must follow the mathematics pathway for their quantitative requirement. The first-year mathematics subjects are very important components of your actuarial program. We highly recommend that you enrol in MAST10008 Accelerated Mathematics 1 if you have the prerequisites, as the two Accelerated Mathematics subjects give a better preparation for second and third year Actuarial Studies. Decisions about entry into these and other mathematics subjects are made by the Department of Mathematics and Statistics, not by the Centre for Actuarial Studies. If you are not able to enter MAST10008, it is recommended that you enrol in MAST10006 Calculus 2 in Semester 1, and then MAST10007 Linear Algebra in Semester 2.",
+            "ACTL10001 is not compulsory and is not a prerequisite to any subsequent subject. However, completing this subject will give you a clearer view of actuarial work."
+        ],
+        "Breadth study in the Actuarial major": [
+            "The Level 2 Mathematics subjects that you complete as part of your quantitative requirement (and their Level 1 prerequisites) are counted as breadth. Students completing a major in Actuarial Studies must also compete 12.5 points of non-mathematics breadth."
+        ],
+        "Major study": [
+            "To obtain a major in Actuarial Studies students need to complete:",
+            [
+                "37.5 credit points of Actuarial Studies subjects including\n12.5 credit points of compulsory subject\n12.5 credit points of major capstone subject\n12.5 credit points of other major selective subjects\n\n",
+                "12.5 credit points of compulsory subject",
+                "12.5 credit points of major capstone subject",
+                "12.5 credit points of other major selective subjects"
+            ],
+            [
+                "12.5 credit points of compulsory subject",
+                "12.5 credit points of major capstone subject",
+                "12.5 credit points of other major selective subjects"
+            ],
+            "To obtain a major in Actuarial Studies and begin seeking accreditation from the Actuaries Institute, students need to complete:",
+            [
+                "87.5 credit points of Level 3 Actuarial Studies subjects"
+            ]
+        ],
+        "Gaining exemptions from professional exams (Actuaries Institute)": [
+            "If you wish to gain as many exemptions as possible from the professional exams of the Actuaries Institute, it is recommended that you enrol in all 87.5 points of the Level 3 core major subjects. If you complete additional Level 3 subjects, you will potentially be eligible for further exemptions from the professional exams of the Actuaries Institute. Both ACCT10002 Introductory Financial Accounting and ECON20001 Intermediate Macroeconomics are also required in order to obtain exemptions.",
+            {
+                "ACCT10002": "Introductory Financial Accounting Credits",
+                "ECON20001": "Intermediate Macroeconomics Credits"
+            }
+        ],
+        "Subject lists": [
+            "From 2020, new Level 2 and Level 3 Actuarial subjects are being taught to align with the changes to the professional syllabus. Pre-2019 BCom students who have any queries about their completed prerequisites should contact Stop 1."
+        ],
+        "Level 1 recommended subject": [
+            {
+                "ACTL10001": "Introduction to Actuarial Studies Credits"
+            }
+        ],
+        "Level 2 prerequisite subjects": [
+            {
+                "ACTL20001": "Introductory Financial Mathematics Credits",
+                "ACTL20003": "Stochastic Techniques in Insurance Credits",
+                "ACTL20004": "Topics in Actuarial Studies Credits"
+            }
+        ],
+        "Level 3 compulsory subject": [
+            {
+                "ACTL30001": "Actuarial Modelling I Credits"
+            }
+        ],
+        "Level 3 major capstone subject": [
+            {
+                "ACTL30003": "Contingencies Credits"
+            }
+        ],
+        "Level 3 major selective subjects": [
+            {
+                "ACTL30002": "Actuarial Modelling II Credits",
+                "ACTL30004": "Actuarial Statistics Credits",
+                "ACTL30006": "Intermediate Financial Mathematics Credits",
+                "ACTL30007": "Actuarial Modelling III Credits",
+                "ACTL30008": "Actuarial Analytics and Data I Credits"
+            }
+        ]
+    }
+}

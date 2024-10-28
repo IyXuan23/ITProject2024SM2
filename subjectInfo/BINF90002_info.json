@@ -1,0 +1,124 @@
+{
+    "subject name": "Elements of Bioinformatics",
+    "subject code": "BINF90002",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Bioinformatics is a key research tool in modern agriculture, medicine, and the life sciences in general. It forms a bridge between complex experimental and clinical data and the elucidation of biological knowledge. This subject presents bioinformatics in the context of its role in science, using examples from a variety of fields to illustrate the history, current status, and future directions of bioinformatics research and practice."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Discuss the multidisciplinary nature of bioinformatics and its role in modern scientific research and clinical practice. The multidisciplinary nature of bioinformatics and its role in modern scientific research and in biological practice",
+        "Name and describe the range of data types used in bioinformatics and how they are generated",
+        "Identify and describe the major software tools / analysis pipelines and their application areas",
+        "Review and critique bioinformatics applications in the research literature",
+        "Select an appropriate technology platform and analysis pipeline for a variety of different applications",
+        "Interpolate the application of bioinformatics tools between different scenarios"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Essay. 2000 words",
+            "timing": "From Week 7 to Week 9",
+            "percentage": "30%"
+        },
+        {
+            "description": "Two equally weighted workshop assignments ( 5% each, approx. 2- 3 hours time commitment each assignment). 2-3 hours (of work required)",
+            "timing": "Due in weeks 3 - 5 and weeks 8 - 10",
+            "percentage": "10%"
+        },
+        {
+            "description": "Critical Review. 500 words",
+            "timing": "From Week 5 to Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final Examination. 2 hours. Hurdle requirement:. Students must achieve a mark of 50% to successfully pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Chol-Hee Jung"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Total 36 hours = 24 x lectures (two per week), 12 x one-hour workshops (one per week)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "jungch@unimelb.edu.au",
+                    "Current students",
+                    "Past students, future students, general enquiries"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students need a reliable personal laptop with wifi internet connection and Firefox or Chrome web browser installed. Should also be capable of installing some freely available bioinformatics software for use in workshops. Min operating systems Mac OS 10.6 or greater, Windows 10. See link below for University tech advice:",
+            "https://online.unimelb.edu.au/current-students/online-systems-support/getting-started/technical-requirements-software"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "subject name": "Applied Marine Biology",
+    "subject code": "BIOL30011",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Marine environments are critical to the lives and livelihoods of billions of people across the planet. This subject covers our current understanding of key drivers of environmental change in our oceans and the organisms therein (e.g. climate change, pollution, fishing, aquaculture, and other processes) and how marine scientists assess impacts, manage resources and conserve biodiversity in the face of these challenges."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "construct an argument (written and verbal) for how ecological and evolutionary principles and knowledge are applied to the management of marine resources and ecosystems;",
+        "critically evaluate the strengths and weaknesses of different approaches to assessing marine environmental impacts, managing exploited species and conserving biodiversity;",
+        "demonstrate capacity to read and critique the primary marine scientific literature;",
+        "apply scientific principles to analysing marine restoration, resource management and conservation problems;",
+        "conduct experimental design and data analysis for the management of marine resources and ecosystems; and",
+        "effectively communicate key issues and solutions in marine environmental management through written and oral presentations and class discussion."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "EVSC20004"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "ECOL20003",
+                    "ZOOL20005",
+                    "MAST20031"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Completion of 6 pre-tutorial questionnaires focussed on assigned tutorial readings during semester, biweekly from Week 1. 100 words (each)",
+            "timing": "From Week 1 to Week 11",
+            "percentage": "15%"
+        },
+        {
+            "description": "Mid-term written examination. 50 minutes",
+            "timing": "From Week 6 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group presentation in mini-symposium, assessed based on the individual presentation component (5 min/student) and individual written 300 word talk abstract. 5 minutes",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "15%"
+        },
+        {
+            "description": "Written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinators": "Brendan Lanham and Rebecca Morris"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "42 hours: 24 x 1-hr lectures (2 per week), 6 x 1-hr tutorials (bi-weekly) and 4 x 3-hr practical classes (in weeks 9 - 12)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "and",
+                    ""
+                ],
+                "email": [
+                    "Becki Morris",
+                    "Brendan Lanham"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

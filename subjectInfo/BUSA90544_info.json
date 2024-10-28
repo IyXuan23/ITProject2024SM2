@@ -1,0 +1,91 @@
+{
+    "subject name": "Marketing Analytics",
+    "subject code": "BUSA90544",
+    "subject availability": [
+        "October"
+    ],
+    "overview": [
+        "It has become increasingly important to know how marketing actions translate into revenue and profit growth. The tools that enable this translation are part of a tool-kit called \u201cmarketing analytics.\u201d Marketing analytics is a technology-enabled and model-supported approach to harness customer and market data to enhance marketing decision-making. This component provides students with (i) knowledge of marketing analytics, (ii) the ability to know which analytics tools to use for which marketing problems, (iii) the ability to use those tools to solve marketing problems, and (iv) the ability to influence marketing outcomes such as satisfaction, choice, loyalty, word of mouth, and customer referrals."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Use marketing models and analyses to understand how marketing actions translate into revenue and profit growth.",
+        "Measure customer preferences using conjoint and choice models.",
+        "Map customers' perceptions of brands in a market, and translate the map into different positioning choices,",
+        "Segment markets of customers using a variety of segmentation methods and choose segments to target using a set of criteria.",
+        "Price products using a variety of pricing methods, and optimize pricing of a product portfolio.",
+        "Model the impact of alternative marketing mixes on sales and profit, and optimise the mix, and optimally allocate marketing budgets across brands and segments."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90540"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Syndicate Presentation. 1000 words (equivalent)",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written syndicate assignment. 1500 words (equivalent)",
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "description": "Final examination. 2 hours. Hurdle requirement:. Students are required to pass the final examination to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "October": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "7 October 2024 to 29 November 2024"
+                },
+                {
+                    "Last self-enrol date": "17 October 2024"
+                },
+                {
+                    "Census date": "25 October 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "15 November 2024"
+                },
+                {
+                    "Assessment period ends": "6 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

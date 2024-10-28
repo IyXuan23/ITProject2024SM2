@@ -1,0 +1,145 @@
+{
+    "subject name": "Water Planning & an Uncertain Future",
+    "subject code": "ENEN90040",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "It is widely recognised that we are now managing our water resources in a non-stationary world. Climate change is affecting the timing and volume of water supply and demands, but the scale of these impacts remains uncertain. How do we best manage our water resources given this uncertain future? This subject will provide an introduction to decision making theory under uncertainty. The subject will cover topics such as",
+        "Decision making theory under uncertainty",
+        "Understanding climate change",
+        "Water supply management under climate change",
+        "Climate change and water demands (discussing impact on agriculture, Environment, Urban, First Nations)",
+        "Understanding climate change in the context of natural variability"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "ILO 1. Discover the latest relevant literature and relate literature to real life case studies",
+        "ILO 2.  Identify and characterise major sources of future uncertainty for decision makers",
+        "ILO 3.  Critique existing water policy with reference to current science, decision theory and future uncertainty",
+        "ILO 4. Develop and articulate strategies to manage interests of different stakeholders",
+        "ILO 5. Develop and articulate an appropriate approach to evaluate climate impacts on a water system"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-ENVSC Master of Environmental Science",
+                "MC-GEOG Master of Geography",
+                "MC-ENSYSEN Master of Environmental Systems Engineering",
+                "Earth Observation specialisation (formal) in the MC-ENVENG Master of Environmental Engineering",
+                "Energy Systems specialisation (formal) in the MC-ENVENG Master of Environmental Engineering",
+                "Water Systems specialisation (formal) in the MC-ENVENG Master of Environmental Engineering",
+                "Business specialisation (formal) in the MC-CIVENG Master of Civil Engineering",
+                "Energy specialisation (formal) in the MC-CIVENG Master of Civil Engineering",
+                "Structural specialisation (formal) in the MC-CIVENG Master of Civil Engineering"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "ENEN20002"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Presentation of 5 minutes based on literature review .  Adressing Intended Learning Outcomes (ILO)s, 1,3 and 5. 13 hours (of work required)",
+            "timing": "From Week 2 to Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Literature reviews and discussion: Written analysis of each week's literature (400 words) and contribution to tutorial discussion .  ILO  1,2 and 4. 25 hours (of work required)",
+            "timing": "From Week 4 to Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Major assignment part 1: Individual written report of 1500 words equivalent) . ILO's 2,3 and 4. 30 hours (of work required)",
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "description": "Major assignment part 2: Individual written report of 2000  words equivalent. ILO's 2,4 and 5. 40 hours (of work required)",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Keirnan Fowler"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "30"
+                },
+                {
+                    "Total time commitment": "162 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Keirnan Fowler"
+                ],
+                "email": [
+                    "fowler.k@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,186 @@
+{
+    "subject name": "Design Studio E",
+    "subject code": "ABPL90439",
+    "subject availability": [],
+    "overview": [
+        "This cluster/subject challenges students to design small scale architecture to a high degree of material resolution. This includes consideration of the tectonics \u2013 poetics of construction \u2013 and the whole of life environmental implications of material choices.",
+        "A variety of independent studios will be offered for preferencing by ballot prior to the start of semester (O-week). Programmes will vary and may include civic, urban, housing, institutional, community or commercial typologies. Common to all studios will be small scale architecture resolved to a high degree of detail. A Seminar series and/or workshops and/or online modules will introduce students to design theories, design techniques and digital tools related to the design challenge(s).",
+        "Through a process of careful investigation of materials, study of precedents, and application of contemporary design theories and techniques, students will be expected to develop architectural designs that use materials both poetically and resourcefully. Students will be expected to demonstrate the environmental and material competencies set out in the National Standards of Competency for Architects. Students will also be expected to communicate their design vision in a clear, detailed and professional manner, incorporating models and/or prototypes and/or material investigations as appropriate to their design."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Apply design research techniques to iteratively explore structure, construction, and material design options to a high level of detail using drawings, models, 3D prints, and/or prototypes.",
+        "Demonstrate knowledge of relevant and contemporary design precedents and theories.",
+        "Successfully and imaginatively invent, refine and resolve the design of a of a small-medium scale building to a high level of detail .",
+        "Critically evaluate results in relation to the environmental imperatives for sustainable material approaches, the sophistication of the design tectonics, and relevant design practices and theories .",
+        "Communicate the design vision in a clear and professional manner .",
+        "Demonstrate professional competencies set out in the National Standards of Competency for Architects related to materials and environmental sustainability (PC10, PC28, PC31, PC33, PC35, PC39, PC45) ."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "ABPL90437",
+                    "ABPL90142",
+                    "ABPL90143"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "ABPL90115"
+    ],
+    "assessments": [
+        {
+            "description": "Concept  Design : Design submission comprising oral presentation accompanied by representations appropriate for the design, including site investigations, sketches, drawings, maquettes, documentation of process work, concept test models and/or digital multi-media experiments, as appropriate to the design in development.. 52 hours (of work required)",
+            "timing": "Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "Booklet ( interim): Booklet with completed attempts of Tasks 1 and 2.. 20 hours (of work required)",
+            "timing": "Week 6",
+            "percentage": "0%"
+        },
+        {
+            "description": "Resolved Design; \r\nDesign submission comprising oral presentation accompanied by representations appropriate for the design, and may include drawings, documentation of process work, digital multi-media, and physical models. NSCA Performance Criteria PC39 is met. 156 hours (of work required). Hurdle requirement:. A pass in the Resolved  is required in order to pass the subject overall.",
+            "timing": "During the examination period",
+            "percentage": "60%"
+        },
+        {
+            "description": "Booklet (final): Booklet with completed and finalised tasks demonstrating attainment of NSCA Performance Criteria PC10, PC28, PC31, PC33, PC35, and PC45.. 32 hours. Hurdle requirement:. A pass grade in the Task Booklet is required to pass the subject",
+            "timing": "During the teaching period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term": [
+                {
+                    "Coordinator": "Katie Skillington"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "84 hours,  including   72 hours  studios  and up to 12 hours  pre-recorded lecture material."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "2 January 2024 to 17 February 2024"
+                },
+                {
+                    "Last self-enrol date": "8 December 2023"
+                },
+                {
+                    "Census date": "12 January 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "2 February 2024"
+                },
+                {
+                    "Assessment period ends": "18 February 2024"
+                }
+            ]
+        },
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Coordinator": "Djordje Stojanovic"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "84 hours, including 2x3 studio class per week and up to 12 hours of pre-recorded lecture material ."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "23 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "4 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 (Early-Start)": [
+                {
+                    "Coordinator": "Nancy Ji"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "84 hours, including 2x3 studio class per week and up to 12 hours of pre-recorded lecture material."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "19 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "15 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [
+                    "Subject coordinator"
+                ],
+                "email": [
+                    "yao.ji@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Teaching methods:",
+            "Design studios and pre-recorded lecture material centered on:",
+            [
+                "developing design skills and the creative exploration of building materials and construction methods,",
+                "attaining the NCSA 2021 professional competencies relevant to understanding whole-life carbon implications, and",
+                "integrating information relevant to the environmental impact of architectural projects into design decision-making."
+            ],
+            "The delivery of the subject is by a diverse group of studios each comprising 16 students working on a design project. Each studio is led by industry practitioners and/or academics."
+        ]
+    }
+}

@@ -1,0 +1,172 @@
+{
+    "major name": "Engineering Systems",
+    "overview": [
+        "THE COURSE STRUCTURE BELOW ONLY APPLIES TO RE-ENROLLING STUDENTS WHO COMMENCED THEIR STUDIES PRIOR TO 2016",
+        "Engineering involves the planning, design and construction of the built environment for the provision of essential services and infrastructure in a manner that respects and works with the natural and social environmental contexts in which it occurs. Engineers use their sophisticated understanding of these concepts to create solutions to improve quality of life. This major provides you with the interdisciplinary skills necessary to succeed in this complex and exciting field. Given the critical link engineers create between society, the built and natural environments, this major draws upon one of the key strengths of the Bachelor of Environments \u2013 its interdisciplinary approach to problem solving \u2013 to build your teamwork skills. You will learn how to work with a range of specialists, such as architects, biologists, ecologists, natural resource managers, planners, community groups, farmers and other engineering disciplines, in order to establish sustainable and resilient human-environment systems. This major is based on a strong ability in mathematics and science to learn how to develop predictive models of complex systems to allow design of engineered systems.",
+        "Careers and further study",
+        "Students pursuing a career in engineering will complete the Bachelor of Environments with a major in Engineering Systems, followed by the two-year Master of Engineering (Civil, Environmental or Structural). The five-year Bachelor-Master combination leads to professional accreditation by Engineers Australia, the Washington Accord and Eur-ACE, the European accreditation system for professional engineers. For more information on the Masters of Engineering and graduate careers, please visit the Melbourne School of Engineering web site:www.eng.unimelb.edu.auEnvironmental engineering graduates specialize in land, water, energy or waste management; site contamination; river rehabilitation; soil erosion; renewable energy and other environmental issues. Civil and structural engineering graduates work in construction engineering, building structural design, transport and traffic, earthworks, hydraulic systems, and project management. Many graduate engineers also find demand for their strong analytic problem solving skills in a range of business and management careers.",
+        "Graduates usually work with:",
+        [
+            "Local and international engineering consulting firms \u2028\u2028",
+            "Urban and rural water agencies \u2028\u2028",
+            "Conservation and natural resources departments \u2028\u2028",
+            "Environmental protection agencies \u2028\u2028",
+            "Catchment management authorities \u2028\u2028",
+            "Local, state and federal government agencies\u2028\u2028",
+            "Management consulting firms",
+            "Public transport companies",
+            "Construction contracting companies"
+        ]
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "150 credit points",
+            "112.5 points of Engineering Systems subjects."
+        ],
+        "Subject Options": [
+            "The following description of the Engineering Systems major aligns with the Study Plan Structure viewable on the Portal for students who commenced the Bachelor of Environments in 2015 or later.",
+            "The components within the structure of this major have been designed to enforce the requirements of both this specific major and of the course overall, e.g. the requirement that at least 62.5 points of Environments discipline subjects (which can include subjects taken within the major) are taken at each of Level 2 and Level 3.",
+            "PRE-2015 STUDENTS: Students who commenced the Bachelor of Environments prior to 2015 should refer to the handbook entry for the year they commenced in conjunction with the 2015 handbook listings for Environments elective and Breadth subject listings. View 2014 Bachelor of Environments Handbook entry."
+        ],
+        "Level 1 Environments & Enabling Electives (37.5 points)": [
+            "In order to complete this major, enrol into the following first year subject as an Environment Elective:",
+            {
+                "ENVS10009": " Credits"
+            },
+            "* Please noteENVS10009 will not be offered in 2017. Students majoring in Engineering Systems who have not yet completed ENVS10009 may enrol in ENGR10005 Statics in 2017. For further information and assistance please contactSTOP 1.PLUS",
+            "based on your mathematics background, two subjects as an Enabling Subject:",
+            "Mathematics Background",
+            [
+                "\nVCE Mathematical Methods Units 1 and 2 only: Enrol in MAST10012 Introduction to Mathematics & MAST10005 Calculus 1. Then enrol into MAST10006 Calculus 2 and MAST10007 Linear Algebra as Breadth Subjects (see below)",
+                "\nVCE Mathematical Methods Units 3 and 4 with a study score of 25 or more: Enrol in MAST10005 Calculus 1 & MAST10006 Calculus 2. Then enrol into MAST10007 Linear Algebra as a Breadth Subject (see below)",
+                "\nVCE Specialist Maths Units 3 and 4 with a study score of 30 or more: Enrol in MAST10006 Calculus 2 & MAST10007 Linear Algebra."
+            ],
+            "IMPORTANT: This requirement may be taken as breadth.",
+            {
+                "MAST10012": "Introduction to Mathematics Credits",
+                "MAST10005": "Calculus 1 Credits",
+                "MAST10006": "Calculus 2 Credits",
+                "MAST10007": "Linear Algebra Credits"
+            }
+        ],
+        "Engineering Systems major - core subjects (87.5)": [
+            "All of",
+            {
+                "MAST20029": "Engineering Mathematics Credits",
+                "ENGR20003": "Engineering Materials and Mechanics Credits",
+                "ENGR20004": "Engineering Mechanics Credits",
+                "ENEN20002": "Earth Processes for Engineering Credits",
+                "CVEN30008": "Engineering Risk Management Credits",
+                "CVEN30010": "Geotechnical Modelling and Design Credits",
+                "ENGR30002": "Fluid Mechanics Credits"
+            }
+        ],
+        "Major Electives & Environments Discipline subjects": [
+            "Choose the total of",
+            [
+                "1. 25 points of Major elective subjects;",
+                "2. 37.5 points of Environments Discipline subjects"
+            ],
+            "RULES:",
+            "Please note these rules when choosing the Major electives & Environments Discipline subjects below",
+            [
+                "1. Must complete 12.5 points level 2 subjects",
+                "2. Must complete 12.5 points level 3 subjects\n"
+            ]
+        ],
+        "Major Electives (25 points)": [
+            "IMPORTANT:",
+            [
+                "1. It is strongly recommended that students select two electives from the one discipline, as this will strengthen students' discipline knowledge within the major.",
+                "2. Students wishing to apply for the Master of Engineering (Civil or Structural) MUST enrol into CVEN30009 Structural Theory and Design as a major elective."
+            ],
+            "Chemistry",
+            {
+                "CHEM10004": "Chemistry 2 Credits",
+                "CHEM20011": "Environmental Chemistry Credits"
+            },
+            "Biology",
+            {
+                "ECOL20003": "Ecology Credits",
+                "GEOG20002": "Landscapes and Environmental Change Credits",
+                "HORT20027": "Greening Landscapes Credits",
+                "ATOC30005": " Credits",
+                "ECOL30006": "Ecology in Changing Environments Credits"
+            },
+            "Infrastructure",
+            {
+                "CVEN30009": "Structural Theory and Design Credits",
+                "ABPL30039": "Construction Contract Administration Credits"
+            },
+            "Spatial Systems",
+            {
+                "GEOM20013": "Applying Digital Infrastructure Credits",
+                "GEOM30009": "Imaging the Environment Credits",
+                "GEOM30012": "Digital Infrastructure Systems Capstone Credits",
+                "GEOM20015": "Sensing and Measurement Credits",
+                "GEOM30013": " Credits"
+            },
+            "Environmental Economics and Management",
+            {
+                "IBUS20002": "Business in the Global Economy Credits",
+                "MGMT20001": "Organisational Behaviour Credits",
+                "MGMT20007": "Cross-Cultural Management and Teamwork Credits",
+                "ABPL20042": "Construction of Residential Buildings Credits"
+            }
+        ],
+        "Environments Discipline subjects (37.5 points)": [
+            {
+                "Environments Discipline subjects": " Credits"
+            }
+        ],
+        "Breadth subjects and restrictions for Engineering Systems major students": [
+            {
+                "Restrictions for Breadth Options": " Credits"
+            },
+            "Students undertaking the Engineering Systems major are not permitted to take as breadth:",
+            [
+                "any Chemistry subjects (subject codes beginning CHEM)"
+            ],
+            [
+                "any Civil Engineering subjects (subject codes beginning CVEN)"
+            ],
+            [
+                "any Earth Science subjects (subject codes beginning ERTH)"
+            ],
+            [
+                "any Engineering subjects (subject codes beginning ENGR)"
+            ],
+            [
+                "any Geology subjects (subject codes beginning GEOL)"
+            ],
+            [
+                "any Geomatics subjects (subject codes beginning GEOM)"
+            ],
+            [
+                "any Mathematics and Statistics subjects (subject codes beginning MAST) - with the exception of MAST10006 Calculus 2 and MAST10007 Linear Algebra (and any required prerequisites for these subjects such as MAST10005 Calculus 1 and MAST10012 Introduction to Mathematics)"
+            ],
+            [
+                "any Physics subjects (subject codes beginning PHYC)"
+            ],
+            [
+                "any of the following Level 2 or Level 3 Construction subjects:"
+            ],
+            {
+                "ABPL20033": "Architectural Technology Credits",
+                "ABPL20036": "Environmental Building Systems Credits",
+                "ABPL30039": "Construction Contract Administration Credits",
+                "ABPL30040": "Measurement of Building Works Credits",
+                "ABPL30041": "Architectural Tectonics Credits",
+                "ABPL30055": "Construction Management Credits",
+                "ABPL20041": " Credits",
+                "ABPL30046": "Steel and Concrete Structural Systems Credits",
+                "ABPL20053": "Construction of Concrete Buildings Credits",
+                "ABPL20042": "Construction of Residential Buildings Credits"
+            }
+        ],
+        "Notes": [
+            "For more information on this major and to view a sample course plan please visit:http://edsc.unimelb.edu.au/sample-course-plans-bachelor-environments"
+        ]
+    }
+}

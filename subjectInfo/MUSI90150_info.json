@@ -1,0 +1,163 @@
+{
+    "subject name": "Music Learning, Teaching and Research",
+    "subject code": "MUSI90150",
+    "subject availability": [
+        "Semester 1",
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides students with an overview of the various factors that influence the provision of an effective music education for young people. This includes historical, philosophical, psychological, sociological and methodological factors that provide a context for instrumental music teaching.",
+        "Students are introduced to a wide range of music teaching methodologies that their own future pupils are likely to have experienced: these are the Dalcroze, Orff, Kod\u00e1ly, Suzuki, Yamaha, Musical Futures, Wider Opportunities, SingUp and other contemporary approaches, including the applications of information and communication technologies to music learning.",
+        "Students will be introduced to the role of the music teacher as a researcher with an overview of the nature of scholarly and practitioner-based research, the major paradigms, methods and data collection / analysis techniques, and reporting / dissemination conventions that apply to music performance learning and teaching."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "demonstrate an understanding of and critical responsiveness to a variety of historical, philosophical, psychological, sociological and methodological (including technological) factors that shape students' learning, learning experiences and educational outcomes;",
+        "demonstrate an awareness of the potential role that music performance teachers may have as educational researchers, and acquire skills and knowledge regarding the nature of educational enquiry in the area of music performance together with the principles and methods that may facilitate research in a variety of music performance educational settings."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "A written assignment. 3000 words",
+            "timing": "Mid teaching period",
+            "percentage": "60%"
+        },
+        {
+            "description": "A draft proposal for a small-scale research project. 2000 words",
+            "timing": "End of the teaching period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Hurdle requirement:. 100% attendance is expected, less than 80% will result in a fail in the subject.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Leon de Bruin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours, comprising one 2-hour seminar per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Leon de Bruin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours, comprising one 2-hour seminar per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Leon de Bruin:"
+                ],
+                "email": [
+                    "leon.debruin@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [
+                    "Leon de Bruin:"
+                ],
+                "email": [
+                    "leon.debruin@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Campbell, P.S. (2008), Musician and Teacher: An Orientation to Music Education, New York: W.W. Norton and Company.Readings will be available online through the LMS prior to the commencement of the subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Students must meet the course entry requirements in order to be considered for a CAP enrolment in this subject. Approval to be sought from the course coordinator.",
+                    "Students must meet the course entry requirements in order to be considered for a CAP enrolment in this subject. Approval to be sought from the course coordinator."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

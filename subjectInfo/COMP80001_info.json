@@ -1,0 +1,66 @@
+{
+    "subject name": "PhD Research",
+    "subject code": "COMP80001",
+    "subject availability": [
+        "Time-based Research"
+    ],
+    "overview": [
+        "."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": null,
+    "dates and times": [
+        {
+            "Time-based Research": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Teaching period": "\u2014  to  \u2014"
+                },
+                {
+                    "Last self-enrol date": "\u2014"
+                },
+                {
+                    "Census date": "\u2014"
+                },
+                {
+                    "Last date to withdraw without fail": "\u2014"
+                },
+                {
+                    "Assessment period ends": "\u2014"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "subject name": "Exploration Field Skills",
+    "subject code": "GEOL90045",
+    "subject availability": [
+        "Summer Term - Off Campus"
+    ],
+    "overview": [
+        "Geological mapping, core logging and the recognition of ore-related hydrothermal alteration mineral assemblages are essential skills for all mining industry geologists. This field-based course will examine core and surface exposures of a mixed volcano-sedimentary succession in the highly mineralised Cambrian Mount Read Volcanics and Dundas Group of western Tasmania."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Characterise ore-related hydrothermal mineral alterations and map them in the field",
+        "Describe the succession of minerals and rock textures in cores",
+        "Interpret geophysical core logs in terms of changes in rock types and properties",
+        "Critically evaluate the formation of ore-forming rocks based on field data"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Field maps",
+            "timing": "End of the teaching period",
+            "percentage": "46%"
+        },
+        {
+            "description": "Core logs",
+            "timing": "End of the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "Cross-sections",
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Stratigraphic column",
+            "timing": "End of the teaching period",
+            "percentage": "5%"
+        },
+        {
+            "description": "Stereonets",
+            "timing": "End of the teaching period",
+            "percentage": "8%"
+        },
+        {
+            "description": "Exploration potential memorandum",
+            "timing": "End of the teaching period",
+            "percentage": "6%"
+        },
+        {
+            "description": "Performance/aptitude in the field",
+            "timing": "End of the teaching period",
+            "percentage": "10%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Summer Term - Off Campus": [
+                {
+                    "Principal coordinator": "Ralf Haese"
+                },
+                {
+                    "Mode of delivery": "Off Campus"
+                },
+                {
+                    "Contact hours": "An eight day field trip"
+                },
+                {
+                    "Total time commitment": "85 hours"
+                },
+                {
+                    "Pre teaching requirements": "Reading is expected to be completed in the pre-teaching period."
+                },
+                {
+                    "Teaching period": "4 February 2024 to 11 February 2024"
+                },
+                {
+                    "Last self-enrol date": "5 February 2024"
+                },
+                {
+                    "Census date": "9 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "10 February 2024"
+                },
+                {
+                    "Assessment period ends": "11 February 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Summer Term": {
+                "name": [],
+                "email": [
+                    "ralf.haese@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

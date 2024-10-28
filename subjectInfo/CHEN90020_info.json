@@ -1,0 +1,142 @@
+{
+    "subject name": "Chemical Engineering Management",
+    "subject code": "CHEN90020",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "For long term sustainability, a company must focus on its Triple Bottom Line (Financial performance, Environmental performance and Sociological performance). This subject will cover the key parameters needed to manage performance in each of these areas for both new projects and redevelopments.This is the key chemical engineering economics subject which introduces students to process plant economics. It is a key subject that is required to be mastered before the capstone Design Project can be attempted.",
+        ""
+    ],
+    "indicative content": [
+        "This subject will include the following topics:",
+        "Project Management: The stages of a project; how to conduct a feasibility study; team building; communication; network analysis",
+        "Financial performance: Revenue, capital and operating cost forecasting; simple accounting; profitability analysis and applications",
+        "Environmental performance: Sustainable development; global warming & emission control; water management",
+        "Sociological performance: Safety Management; ethics; intellectual property etc.",
+        ""
+    ],
+    "intended learning outcomes": [
+        "Analyse and evaluate competing economic, environmental and social impacts criteria in generating feasibility studies for new projects and re-developments",
+        "Demonstrate an ability to utilise contemporary project management skills when undertaking large projects",
+        "Defend decisions made relating to safety, ethics and legal requirements made as a practicing engineer"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "CHEN20010"
+                ],
+                "Note: the following subject/s can also be taken concurrently (at the same time)",
+                [
+                    "CHEN20011"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Short quizzes and assignments, not exceeding a total of 3000 words plus accompanying tables and calculations. Intended Learning Outcomes (ILOs) 1 to 3 will be assessed in the assignment. 50-55 hours (of work required)",
+            "timing": "Throughout the teaching period",
+            "percentage": "50%"
+        },
+        {
+            "description": "A 2-hour closed book exam. ILOs 1 to 3 will be assessed in the examination.. 2 hours. Hurdle requirement:. The examination is a hurdle and must be passed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Rebecca McQuillan"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "Maximum of 4 hours of lectures per week + 1 x 1 hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Dr Rebecca McQuillan"
+                ],
+                "email": [
+                    "mcquillan.r@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "None"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject will be delivered through a combination of lectures and tutorials.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students will have access to lecture notes and lecture slides.",
+            "CAREERS / INDUSTRY LINKS",
+            "Speakers from industry are regular contributors to this subject."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

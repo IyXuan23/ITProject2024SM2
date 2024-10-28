@@ -1,0 +1,171 @@
+{
+    "subject name": "Digital Infrastructure Systems Capstone",
+    "subject code": "GEOM30012",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject provides a basis for students in the Digital Infrastructure Systems major to integrate and apply the knowledge they have gained throughout their studies to solve real-world problems. The students will work on projects to use knowledge of sensing, measurement, imaging, information system and information infrastructures. They will apply the acquired knowledge from their fundamental training and demonstrate an ability to design sustainable engineering projects. The subject will also provide ample opportunity for the students to gain experience and skills in how to perform a real-world, client-driven, interdisciplinary project, including important communication and organizational skills."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Formulate a project on digital systems for infrastructures, including time and workload management",
+        "Integrate appropriate technologies to meet the requirements of a digital system for infrastructures.",
+        "Analyse data and information of an infrastructure to enhance its  environmental, economic and social value .",
+        "Communicate these enhancements effectively, through writing and presentation.",
+        "Critically evaluate the process and achievements of a project and the contribution and conduct of a project team."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "GEOM20013",
+                    "GEOM30009",
+                    "CVEN20001"
+                ],
+                [
+                    "GEOM20015"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "COMP20005",
+                    "ENGR20005"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "EVSC30007"
+    ],
+    "assessments": [
+        {
+            "description": "Individual Assessment / Individual project proposal with a workload equivalent to 800 words per student. Intended Learning Outcomes (ILOs) 1 and 4 are addressed in this assessment. 800 words",
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group project report  with a workload equivalent to 2000 words per student. Each group will have 3 students. ILOs 1 to 5 are addressed in this report. 2000 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Written Assignment- \r\nGroup project evaluation blog (150 words each), with an individual assessment of another project (250 words each). Group work  due in week 10, Individual work due in week 11. ILOs 3 and 5 are addressed in this assessment. 400 words",
+            "timing": "From Week 10 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group Assessment / Project- \r\nGroup project seminar presentation (individual presentations). 15 minutes (equivalent to 800 words per student). Addresses ILOs 1 to 4.. 15 minutes",
+            "timing": "Week 12",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Serene Ho"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "48 hours (Lectures: 2 hours per week; Tutorials: 2 hours per week;  Industry contact: 1 hour per fortnight)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Serene Ho"
+                ],
+                "email": [
+                    "serene.ho@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Project manual accessible from the subject\u2019s LMS page.",
+                    "UoM library webpage and Google Scholar for literature search"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The projects will address real-world problems and challenges.",
+            "For approximately half of the semester, lectures will discuss generic project management and communication principles and skills, relating them back to the student projects. In the other half of the semester, workshops and tutorials will introduce specialist topics and skills that the students may need for their project work. Throughout the whole semester, practicals are run that offer students a dedicated time for getting together as a team. These practicals also offer opportunity for in-depth discussion with the lecturers of approaches students may choose or challenges they may face in their projects. Further, students are expected to self-organize project including time line and task management.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Project manual accessible from the subject\u2019s LMS page.",
+            "UoM library webpage and Google Scholar for literature search.",
+            "CAREERS / INDUSTRY LINKS",
+            "A range of industry stakeholders will offer projects to students in this subject. They will introduce their work and the kind of challenges they face at the beginning of the semester (typically week 2). As clients, they will discuss project proposals and meet with individual groups once every fortnight and will participate in the assessment of presentations at the end of the semester."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

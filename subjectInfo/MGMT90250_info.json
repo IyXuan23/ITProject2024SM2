@@ -1,0 +1,113 @@
+{
+    "subject name": "Applied Analytics Capstone Part 1",
+    "subject code": "MGMT90250",
+    "subject availability": [
+        "Term 3 - Online"
+    ],
+    "overview": [
+        "Students undertake an original investigation of a topic relevant to analytics and its application. Under the supervision and guidance of an academic researcher, students are required to design and conduct a practice-oriented investigation. This would typically involve a literature review, data collection, data analysis and critical reflection of real-world practice. The results will be reported as a thesis and in a public presentation. In some instances, it is expected that the results will also be submitted for publication in a conference or journal.",
+        "The project will require an explorative approach, where students will pursue outcomes associated with new knowledge or understanding, within the analytics disciplines, often as an adjunct to existing academic research initiatives. It is expected that the Capstone Project will incorporate findings associated with both well-defined professional practice and research principles.",
+        "Research will be conducted on a topic of mutual interest under the guidance of an experienced researcher."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "apply the knowledge gained in other subjects to successfully investigate a substantially complex analytics research problem, sourcing and collating information associated with disciplines studied in prior coursework, adhering to relevant professional standards,",
+        "and develop hypotheses from which decisions will be made, and communicate and synthesise contributions arising from project and professional practice activities."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MAST90130",
+                    "MGMT90248"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Students are required to have completed 75 points of study in the Master of Applied Analytics before enrolling in Applied Analytics Capstone, including:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "First Term: Project Report. 1200 words",
+            "timing": "Week 9",
+            "percentage": "20%"
+        },
+        {
+            "description": "Second Term: Presentation (10 minutes), plus peer feedback on presentations of  two other students (250 words x 2).. 10 minutes",
+            "timing": "Week 6",
+            "percentage": "10%"
+        },
+        {
+            "description": "Second Term: Thesis\r\nSupervisors will set mid-project milestones as a hurdle\r\nrequirement to determine successful progress.. 8000 words",
+            "timing": "End of term",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Term 3 - Online": [
+                {
+                    "Coordinator": "Adil Bilal"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "15 July 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period students are given the opportunity to get used to the online platform, meet the instructors/tutors and become familiar with how to access resources before the teaching period starts."
+                },
+                {
+                    "Teaching period": "22 July 2024 to 15 September 2024"
+                },
+                {
+                    "Last self-enrol date": "16 July 2024"
+                },
+                {
+                    "Census date": "9 August 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "30 August 2024"
+                },
+                {
+                    "Assessment period ends": "22 September 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Term 3": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,131 @@
+{
+    "subject name": "Marketing Management for Engineers",
+    "subject code": "ENGM90012",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject prepares graduate engineers to practice basic marketing in the engineering profession where there is a mutual need and reliance upon their training and skills in both engineering and marketing to satisfy the needs, wants and demands of the market, internally within the organisation, and through the entire supply chain in a sustainable manner.",
+        "This subject provides an introduction to the basic concepts of marketing, marketing management and marketing engineering. Some of the principal topics include: what is marketing engineering; differences between engineering and consumer products; designing and managing engineering services; sales engineer and managing sales force; online marketing and the internet of things; business-to-business markets; business-to-government markets; company orientation; corporate division and strategic planning; market positioning, segmentation and targeting; marketing mix (product, pricing, place and promotion); marketing plan and strategies; SWOT analysis, understand the legal, economic, sociocultural, natural and technological environments; distribution channels; communications, models and simulations; decision tools; databases and data mining, forecasting; theory and evidence-based decision making; etc. The principles of sustainability will apply throughout the subject."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse the fundamental principles involved in managing engineering and technological markets and apply these to engineering products and services.",
+        "Analyse market problems, engineering data, marketing data, conduct market research, and be capable of applying relevant models, market segmentation, market positioning strategies to generate appropriate solutions and make informed choices to meet challenges in a range of engineering and technological enterprises, in a sustainable manner.",
+        "Analyse and develop product, pricing, placement and promotion strategies for engineering services and technological products, collaboration, joint ventures, diversification, integration, and divestment to enhance the core competencies of engineering and technological companies with aim to identify business opportunities, and build and maintain client networks.",
+        "Analyse the interrelationships between market trends, branding, innovation, sustainability and communication and services in engineering and technological enterprises and engineering consultancies and apply these to appropriate business situations encountered by engineering companies.",
+        "Develop a strategic marketing plan for engineering services and technological products in a range of situations such as consumer marketing, industrial marketing and marketing of engineering services in engineering consultancies, that complies with the code of ethics and professional conduct."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Ongoing class participation . In the form of short weekly tutorial exercises. Intended Learning Outcomes (ILOs) 1- 5 are addressed in class participation.. 25 hours",
+            "timing": "Throughout the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Two individual assignments of a workload equivalent to 750 words each. (20 hours each - 40 hours in total (of work required)) ILOs 1-5 are addressed in this assessment.. 40 hours (of work required)",
+            "timing": "Weeks 4 and 10",
+            "percentage": "30%"
+        },
+        {
+            "description": "One group assignment/project of 5000 words, in 2 parts, completed in groups of 6. ILOs 1-5 are addressed in the group assignment.. 25 hours (of work required)",
+            "timing": "From Week 7 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "One group  oral presentation of 10-20 minutes, assessed as a group of 6. ILOs 1- 5 are addressed in the presentation.. 5-10 hours (of work required)",
+            "timing": "Week 12",
+            "percentage": "5%"
+        },
+        {
+            "description": "One final written exam. ILOs 1 to 5 are addressed in the examination.. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "25%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Felix Hui"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours (Lectures and Tutorials)."
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Dr Felix Hui"
+                ],
+                "email": [
+                    "kin.hui@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Philip Kotler and Kevin Keller,Marketing Management, 15th edition. Pearson Eduation Ltd.",
+                    "Gary L. Lilien and Arvind Rangaswamy,Marketing Engineering, 2nd Edition. Trafford Publishing."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

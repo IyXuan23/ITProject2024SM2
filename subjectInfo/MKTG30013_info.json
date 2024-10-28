@@ -1,0 +1,147 @@
+{
+    "subject name": "Strategic Marketing",
+    "subject code": "MKTG30013",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "Strategic marketing builds on the concepts and skills learned in other marketing subjects. The subject presents an opportunity for students to learn, examine and apply strategic marketing decision processes with the goals of establishing, maintaining, or improving the firm\u2019s competitive advantage. Topics include: strategic analysis (ie.external analysis, competitor analysis, market analysis, product portfolio analysis, environmental analysis and dealing with strategic uncertainty,internal analysis), alternative business strategies (ie. differentiation strategies, growth strategies, strategies in declining and hostile markets), implementation and the planning process."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the foundations on which strategic marketing rests;",
+        "Explain the importance of marketing strategy for superior business performance and value creation;",
+        "Evaluate strategic marketing principles, theories and models and how these link to key marketing concepts;",
+        "Analyse strategic marketing problems and be capable of integrating and applying relevant models/theories to generate appropriate strategic solutions;",
+        "Examine critical issues associated with creating, exiting, analysing and selecting market niches;",
+        "Describe how marketing managers can make informed strategic choices to improve strategic outcomes."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MKTG10001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Tutorial preparation and participation. 1000 words (equivalent)",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group assignment 1 (in groups of 3-4 students). 2000 words",
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group assignment 2 (in groups of 3-4 students). 2000 words",
+            "timing": "Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "End-of-semester examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Peter Matheis"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "One 2-hour lecture and one 1-hour tutorial weekly"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Peter Matheis"
+                ],
+                "email": [
+                    "peter.matheis@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "You will be advised of prescribed texts by your lecturer."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "Students may not gain credit for both 325-302 Strategic Marketing andMKTG20008 Strategic Marketing."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music",
+                "Bachelor of Science"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

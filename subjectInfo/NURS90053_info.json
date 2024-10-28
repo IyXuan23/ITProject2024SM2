@@ -1,0 +1,176 @@
+{
+    "subject name": "Clients with Complex Health States",
+    "subject code": "NURS90053",
+    "subject availability": [
+        "Semester 1 (Early-Start)"
+    ],
+    "overview": [
+        "This subject integrates the knowledge and skills gained in Nursing Science 1 & 2, Nursing Assessment & Care, and Clients with Acute & Chronic Illness. Students will develop skills that focus on processes of nursing care necessary for patients experiencing complex health problems. The aim of this subject is to consolidate, reinforce and expand previously learnt skills in assessment, data collection, problem identification and the selection of relevant nursing interventions. The role of nurses in collaborating with allied disciplines to deliver health care to clients with complex health issues will be discussed. Care of the patient with invasive lines and attachments, complex pain issues and multiple medications will be explored.",
+        "In thesimulated learning laboratorystudents will practice the procedural skills necessary for care of complex patients including venepuncture, blood transfusion, central venous catheters, management of the artificial airway and underwater seal drainage. Students will develop skills in the identification and interpretation of abnormal arrhythmias and cardiac monitoring.",
+        "During theprofessional experience placement,under the guidance of clinical educators and clinical mentors, students will gain experience in settings that enable them to meet the learning objectives of this subject.",
+        "The major focus for the professional experience practicum component of this subject is integration of the principles for holistic nursing, clinical decision making and more complex and advanced nursing interventions. On completion of the subject it is expected that students, while providing therapeutic interventions, are able to incorporate the collection of health assessment data, identify actual and potential patient problems, plan care with the selection of appropriate nursing interventions, implement interventions and evaluate the outcome of nursing care accordingly for 3 to 4 patients."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "identify ethical and legal principles of end of life support and enduring powers of attorney as they apply to nurse-patient interactions;",
+        "demonstrate competence in completing a physical, psychosocial and cultural assessment in Aboriginal and Torres Strait Islander (ATSI) and other populations across the lifespan;",
+        "assess the health education needs of individuals/families/carers in the acute and community setting;",
+        "identify and utilize strategies that facilitate a therapeutic nurse patient relationship;",
+        "incorporate the principles of cultural safety and understanding when developing and implementing care;",
+        "incorporate the principles of evidence-based practice and apply an evidence-based approach to the delivery of nursing care;",
+        "apply clinical reasoning and problem solving skills to care for patients with complex disease processes;",
+        "accurately and professionally document data collected by applying health assessment principles;",
+        "plan, develop, implement, evaluate and revise evidence based comprehensive nursing care plans for patients with acute, chronic and complex illnesses including Aboriginal and Torres Strait Islander and other vulnerable populations across the lifespan;",
+        "utilising therapeutic nurse patient relationship refine patient assessment by using a comprehensive nursing framework and assessment data",
+        "demonstrate knowledge and skills in prioritising care and time management;",
+        "apply the principles to plan, implement and evaluate health teaching programs;",
+        "communicate with patients, their families and other members of the health care team in a professional, culturally safe and appropriate manner",
+        "demonstrate the capacity to work effectively as a member of an inter-professional team in the delivery of health care;",
+        "identify resource use and sustainability issues that require management within the healthcare system.",
+        "demonstrate safe and appropriate use of emerging technologies including digital health records, and medical equipment"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "NURS90066",
+                    "NURS90125",
+                    "NURS90129",
+                    "NURS90130",
+                    "NURS90131"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Pre-2019 version of these subjects: NURS50003 Nursing Science 1, NURS50006 Nursing Science 2, NURS50004 Nursing Assessment & Care, and NURS50007 Clients with Acute and Chronic Illness"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Theoretical Component: Case Study Analysis 1 - online activity. 1000 words",
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "description": "Theoretical Component: Case Study Analysis 2. 1000 words",
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Theoretical Component: Exam (2000 words). 2 hours",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Professional Experience Component: Attendance at all simulated learning laboratory sessions. 12 hours. Hurdle requirement:. Attendance at all simulated learning laboratory sessions is a hurdle requirement to undertake the OSCE",
+            "timing": "During the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Professional Experience Component: Objective Structured Clinical Examination (OSCE); equivalent to 1000 words. 20 minutes. Hurdle requirement:. Pass/Fall.\r\nPassing the OSCE is a hurdle requirement to undertake the Professional Experience placement.",
+            "timing": "Undertaken prior to the Professional Experience Placement",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Professional Experience Component: Attendance at all Professional Experience Placement (PEP) days. 160 hours. Hurdle requirement:. Attendance at all Professional Experience days is a hurdle requirement",
+            "timing": "During the assigned professional experience placement",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Professional Experience Component: Professional Experience Appraisal \r\n(Australian Nursing Standards Assessment tool (ANSAT)). 2500 words. Hurdle requirement:. Pass/Fail",
+            "timing": "Final week of professional experience practice (end of 160 hours)",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Professional Experience Component: \r\nClinical E-portfolio\r\nPart A: Clinical case-note entries to  Electronic Medical Records (EMR) \r\n\r\nPart B: Professional Practice Analysis. 2500 words. Hurdle requirement:. A pass is required to pass the subject.  Subject Assessment Percentage for this component:   Part A- 10%, Part B -20%, total 30%",
+            "timing": "Part A: Completion of 4 EMR entries, one per week, entered during the simulation\r\n\r\nPart B: Due within one week of completion of Professional Experience Placement (PEP)",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 (Early-Start)": [
+                {
+                    "Coordinator": "Jo Martin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "42 lectures/tutorials/seminars, 12 simulated learning laboratory sessions, 160 professional experience placement practicum"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "29 January 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "9 February 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1 (Early-Start)": {
+                "name": [],
+                "email": [
+                    "jo.martin@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Ackley, B, J., & Ladwig, G. B. (2014).Nursing Diagnosis, an evidence based guide to planning care(10thed.). St Louis: Mosby (eBook available through Unimelb)",
+                    "Brown, D., Edwards, H., Seaton, L., Buckley, T., Lewis, S. L., Dirksen, S. R., . . . Bucher, L. (Eds.). (2015).Lewis' medical-surgical nursing.  Assessment and management of clinical problems(4th ed.). Sydney: Mosby Elsevier.",
+                    "Bullock, S., & Manias, E., (2017).Fundamentals of Pharmacology (8thed.).Australia: Frenchs Forest: Pearson Education.",
+                    "Crisp, J., Taylor, C., Douglas, C., & Rebeiro, G. (Eds.). (2013).Potter and Perry's fundamentals of nursing / Australian adaptation(4thed.). Chatswood, N.S.W: Elsevier Australia",
+                    "Intellilearn  (2015) MedSafewww.medsafe.com.au(Medication / Drug calculation)",
+                    "Tollefson, J. (2019).Clinical psychomotor skills: Assessment skills for nurses(7th ed.). Melbourne: Cengage Learning."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Lapham, R. & Agar, H. (2009).Drug calculations for nurses: a step-by-step approach. (3rded.). London: Hodder Arnold.",
+                    "Reid-Searl, K., Dwyer, T., Ryan, J., & Moxham, L. (2008).Student Nurse: Clinical survival guide.Australia: Pearson Education.",
+                    "Weber, J., & Kelly, J. (2011). Health Assessment in Nursing (First Australian and New Zealand Edition). Philadelphia: Wolters Kluwer Lippincott Williams & Wilkins",
+                    "Perrin, R. (2015).Pocket guide to APA style (5thed.).Boston: Houghton Mifflin College.",
+                    "Stedman\u2019s medical dictionary for the health professions and nursing.(7thed.).(2011). Philadelphia: Lippincott, Williams and Wilkins."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "www.nursing.unimelb.edu.au"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

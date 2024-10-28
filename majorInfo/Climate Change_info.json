@@ -1,0 +1,130 @@
+{
+    "major name": "Climate Change",
+    "overview": [
+        "Climate Change is offered as a major field of study in the Master of Environment degree.",
+        "Climate change mitigation and adaptation are increasingly being integrated into business management, government policy and technology design, requiring expertise in a range of fields including international conventions, strategic government and business policy, climate science, energy technology, economic analysis and management. Effective solutions therefore require a new generation of policymakers, managers and scientists equipped with a multidisciplinary understanding of climate change issues.",
+        "The Climate Change major is ideal for students seeking an interdisciplinary perspective on climate change, for work in policy-making or business advisory roles. Graduates will be well-placed to offer leadership through a solid understanding of: theoretical and practical applications of policy and science; technological limits, potentials and risks; and the value of addressing a wide-ranging global environmental issue from a trans-disciplinary perspective.",
+        "Additionally, this major presents an opportunity for students to establish extensive networks with fellow climate change professionals across a broad range of industries, sectors and fields of endeavour.",
+        "Graduates of this major can expect to find employment in State and Federal Government authorities, environmental consulting companies, business advisory and strategic policymaking positions worldwide"
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "Students completing a Climate Change specialisation in the Master of Environment will complete two core subjects and at least three subjects from a list of compulsory specialisation subjects. Students in the 200 point pathway will complete at least 12.5 points of subjects selected from a list of compulsory \u2018capstone\u2019 subjects which will enable students to plan and execute a substantial project in an area related to climate change. Students in the 100 point pathway will not normally be required to complete this component. Students will choose the remainder of subjects from an approved subject list in consultation with the coordinator of the Climate Change stream. More information about this stream can be found here:",
+            "http://environment.unimelb.edu.au/study/specialisations/climate-change"
+        ],
+        "Subject Options": [],
+        "Core Subjects": [
+            "Students must comple the following core subjects:",
+            {
+                "MULT90004": "Environmental Sustainability Credits",
+                "MULT90005": "Partnerships for Sustainable Futures Credits"
+            }
+        ],
+        "Compulsory Specialisation Subjects": [
+            "Students must complete three subjects from the following list of compulsory specialisation subjects:",
+            {
+                "AGRI90057": "Climate Change:Agric.Impacts&Adaptation Credits",
+                "ATOC90002": "Climate Science for Decision-Making Credits",
+                "ENST90004": "Climate Change Politics and Policy Credits",
+                "FRST90032": "Ecosystems in a Changing Climate Credits",
+                "LAWS70293": "Climate Change Law Credits",
+                "EVSC90017": "Global Environmental Change Credits",
+                "ENST90034": "Adapting to Climate Change Credits",
+                "ENST90033": "Climate Change Mitigation Credits"
+            }
+        ],
+        "Compulsory Capstone Experience": [
+            "Students must complete at least 12.5 points from the following compulsory capstone subjects - please note that if you select either a 25 or 50 point research project that spreads across two semesters you must enrol into the Part 1 and Part 2 subjects over consecutive semesters. Students completing the 100 point pathway will normally be exempt from this requirement.",
+            {
+                "ENST90006": "Environmental Research Review (12.5) Credits",
+                "ENST90007": "Environmental Research Project (25) Credits",
+                "ENST90016": "Environmental Research Project (50) Credits",
+                "ENST90025": "Environmental Industry Research (25) Credits",
+                "ENST90020": "Environmental Industry Research (50) Credits",
+                "DEVT90008": "International Internship in Development Credits",
+                "DEVT90002": "Internship in Development Credits",
+                "FRST90035": "Forest Internship Project Credits",
+                "AGRI90076": "Industry Internship Credits",
+                "GEOG90022": "International Internship in Environment Credits",
+                "ENST90035": "Environmental Research Project - 25 Pt1 Credits",
+                "ENST90036": "Environmental Research Project - 25 Pt2 Credits",
+                "ENST90037": "Environmental Research Project - 50 Pt1 Credits",
+                "ENST90038": "Environmental Research Project - 50 Pt2 Credits",
+                "ENST90039": "Environmental Industry Research - 25 Pt1 Credits",
+                "ENST90040": "Environmental Industry Research - 25 Pt2 Credits",
+                "ENST90041": "Environmental Industry Research - 50 Pt1 Credits",
+                "ENST90042": "Environmental Industry Research - 50 Pt2 Credits"
+            }
+        ],
+        "Elective Subjects": [
+            "Students should make up the balance of the award with electives. Subjects in the list below are recommended. Other subjects may be taken with the approval of stream coordinator.",
+            {
+                "ENEN90014": "Sustainable Buildings Credits",
+                "ECON90016": "Environmental Economics and Strategy Credits",
+                "ENEN90005": "Environmental Management ISO 14000 Credits",
+                "ENEN90011": "Energy Efficiency Technology Credits",
+                "ENEN90027": "Energy for Sustainable Development Credits",
+                "ENST90002": "Social Impact Assessment and Evaluation Credits",
+                "ENST90005": "Environmental Policy Credits",
+                "ENST90017": "Environmental Policy Instruments Credits",
+                "EVSC90014": "Environmental Risk Assessment Credits",
+                "EVSC90015": "Environmental Impact Assessment Credits",
+                "EVSC90020": "Environmental Modelling Credits",
+                "FRST90025": "Patterns and Processes of Landscape Fire Credits",
+                "HPSC90010": "Environment and Knowledge Credits",
+                "LAWS70068": "Environmental Law Credits",
+                "NRMT90017": "Leadership Credits",
+                "DEVT90001": "Development Project Management & Design Credits",
+                "POPH90230": "Planetary and Global Health Credits",
+                "FRST90034": "Ecological Restoration Credits",
+                "EVSC90009": "Problem Solving in Environmental Science Credits",
+                "LAWS70219": "International Environmental Law Credits",
+                "GEOM90008": "Spatial Data Management Credits",
+                "FOOD90026": "The Politics of Food Credits",
+                "ENST90032": "Sustainability and Behaviour Change Credits",
+                "FRST90033": "Farm Trees & Agroforestry Credits",
+                "EDUC90006": "Environmental Education Credits",
+                "MGMT90121": "Decision Analysis and Project Management Credits",
+                "NRMT90014": "Sustainable Landscapes Credits",
+                "FRST90032": "Ecosystems in a Changing Climate Credits",
+                "ABPL90120": "Building Sustainability Credits",
+                "ENEN90033": "Solar Energy Credits",
+                "ENGR90028": "Introduction to Energy Systems Credits",
+                "ENGR90030": "Non-Renewable Energy Credits",
+                "GEOG90020": "Participatory Risk Management Credits",
+                "LAWS70141": "Energy Regulation and the Law Credits",
+                "SCIE90014": "Renewable Energy Credits",
+                "AGRI90057": "Climate Change:Agric.Impacts&Adaptation Credits",
+                "ATOC90002": "Climate Science for Decision-Making Credits",
+                "ENST90004": "Climate Change Politics and Policy Credits",
+                "ENST90033": "Climate Change Mitigation Credits",
+                "ENST90034": "Adapting to Climate Change Credits",
+                "EVSC90017": "Global Environmental Change Credits",
+                "LAWS70293": "Climate Change Law Credits",
+                "AGRI90076": "Industry Internship Credits",
+                "DEVT90002": "Internship in Development Credits",
+                "DEVT90008": "International Internship in Development Credits",
+                "ENST90006": "Environmental Research Review (12.5) Credits",
+                "ENST90007": "Environmental Research Project (25) Credits",
+                "ENST90016": "Environmental Research Project (50) Credits",
+                "ENST90020": "Environmental Industry Research (50) Credits",
+                "ENST90025": "Environmental Industry Research (25) Credits",
+                "FRST90035": "Forest Internship Project Credits",
+                "ENST90019": "Consumerism and the Growth Economy Credits",
+                "LING90002": "Presenting Academic Discourse Credits",
+                "SCIE90017": "Science and Technology Internship Credits",
+                "ENST90035": "Environmental Research Project - 25 Pt1 Credits",
+                "ENST90036": "Environmental Research Project - 25 Pt2 Credits",
+                "ENST90037": "Environmental Research Project - 50 Pt1 Credits",
+                "ENST90038": "Environmental Research Project - 50 Pt2 Credits",
+                "ENST90039": "Environmental Industry Research - 25 Pt1 Credits",
+                "ENST90040": "Environmental Industry Research - 25 Pt2 Credits",
+                "ENST90041": "Environmental Industry Research - 50 Pt1 Credits",
+                "ENST90042": "Environmental Industry Research - 50 Pt2 Credits",
+                "HORT90039": "Green Infrastructure for Liveable Cities Credits",
+                "EVSC90001": "Global Environment and Sustainability Credits"
+            }
+        ]
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "major name": "Psychology",
+    "overview": [
+        "Psychology is a broad and intellectually fascinating scientific discipline focussed on understanding behaviour and experience, particularly in humans. The science of psychology involves a wide range of perspectives and approaches, with psychological research findings having important applications in areas such as health, education, business, and commerce, as well as informing us about how human behaviours and motivations relate to a wide range of societal issues.",
+        "Taught at the University since the late 1800s, the Psychology undergraduate program is designed to provide students with flexibility and choice, offering a broad range of subjects that provide a thorough and extensive grounding in the discipline. Studies in psychology prepare graduates for a diverse range of careers that are based on understanding human behaviour, including health, education, industry, commerce, welfare and government.",
+        "Completion of a Psychology major accredited by the Australian Psychology Accreditation Council (APAC) is the first step towards registration as a practicing psychologist, or towards a career as a research psychologist.",
+        "The APAC accredited sequence consists of a prescribed minimum of 125 credit points of Psychology subjects (i.e.,10 subjects), comprising 100 credit points of core psychology subjects across levels 1-3 (i.e., 8 core subjects), and 25 credit points (i.e., 2 subjects) of level 3 Psychology subjects selected from a range of electives.",
+        "The APAC accredited psychology major provides a strong grounding in basic psychological concepts and theories in the areas of biological, cognitive, developmental, social, and clinical psychology. Students will also develop skills in research methods and data analysis, and an advanced knowledge in at least one domain of psychology. A non-APAC-accredited 75 point minor sequence is also available within the Bachelor of Arts."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "125 credit points",
+            "Psychology is available as both a 125 point APAC accredited major and as a 75 point (non-accredited) minor sequence of study within the BA.",
+            "Students wishing to undertake further professional training in Psychology must take the prescribed 125 point APAC accredited Psychology major sequence consisting of 8 core Psychology subjects across levels 1-3, and 2 elective Psychology subjects at level 3. All Psychology undergraduate subjects are worth 12.5 credit points.",
+            "Students intending to complete the APAC accredited Psychology major sequence must note that 25 points of level 2/3 subjects are required to be taken within the breadth component of the degree, and should factor this into their course planning - see sample course plans:",
+            "http://ba.unimelb.edu.au/about/course-structure.html",
+            "This major requires the completion of:",
+            [
+                "12.5 credit points of Level 1 core subjects - Group A",
+                "12.5 credit points of Level 1 core subjects - Group B",
+                "50 credit points of Level 2 core subjects",
+                "25 credit points of Level 3 core subjects",
+                "25 credit points of Level 3 electives",
+                "Note: 25 points of level 2/3 subjects in this major are required to be taken within the breadth component of the degree"
+            ]
+        ],
+        "Links": [
+            "http://www.psychologicalsciences.unimelb.edu.au/"
+        ],
+        "Level 1 core subjects": [],
+        "Level 2 core subjects": [
+            {
+                "PSYC20006": "Biological Psychology Credits",
+                "PSYC20008": "Developmental Psychology Credits",
+                "PSYC20007": "Cognitive Psychology Credits",
+                "PSYC20009": "Personality and Social Psychology Credits"
+            }
+        ],
+        "Level 3 subjects": [],
+        "Level 1 core subjects - Group A": [
+            {
+                "PSYC10003": "Mind, Brain & Behaviour 1 Credits",
+                "PSYC10006": "Mind, Brain and Behaviour A Credits"
+            }
+        ],
+        "Level 1 core subjects - Group B": [
+            {
+                "PSYC10004": "Mind, Brain and Behaviour 2 Credits",
+                "PSYC10007": "Mind, Brain and Behaviour B Credits"
+            }
+        ],
+        "Level 3 core subjects": [
+            {
+                "PSYC30013": "Research Methods for Human Inquiry Credits",
+                "PSYC30021": "Psychological Science: Theory & Practice Credits"
+            },
+            "Note: For mid-year intake full-time students, due to the pre-requisite and subject availability you must undertake PSYC30013 in your fourth semester before you can progress onto PSYC30021."
+        ],
+        "Level 3 electives": [
+            {
+                "PSYC30012": "The Unconscious Mind Credits",
+                "PSYC30014": "The Psychopathology of Everyday Life Credits",
+                "PSYC30016": "Lifespan Social & Emotional Development Credits",
+                "PSYC30017": "Perception, Memory and Cognition Credits",
+                "PSYC30018": "Neuroscience and the Mind Credits",
+                "PSYC30019": "Development of the Thinking Child Credits",
+                "PSYC30020": "The Integrated Brain Credits",
+                "PSYC30022": "Trends in Personality& Social Psychology Credits",
+                "PSYC30023": "Computational Behavioural Science Credits"
+            },
+            "Please note: Students may take no more than 125 points (10 subjects) in any one discipline area in the Bachelor of Arts.",
+            "Level 3 subjects build on the skills and knowledge obtained at Level 2. For example, Trends in Personality and Social Psychology builds on Personality and Social Psychology builds on Personality and Social Psychology at Level 2. Memory, Perception and Cognition builds on Cognitive Psychology at Level 2. Social and Emotional Development and Development of the Thinking Child build on Developmental Psychology at Level 2. Neuroscience and the Mind and The Integrated Brain build on Biological Psychology at Level 2. The remaining Level 3 subjects draw on knowledge acquired across Level 2 subjects.",
+            "Further information on the structure of the accredited psychology sequence is available on the Melbourne School of Psychological Sciences website:",
+            "http://psychologicalsciences.unimelb.edu.au/"
+        ]
+    }
+}

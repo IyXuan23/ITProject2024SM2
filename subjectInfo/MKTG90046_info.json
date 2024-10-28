@@ -1,0 +1,124 @@
+{
+    "subject name": "Content Marketing",
+    "subject code": "MKTG90046",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject will introduce students to the building blocks of content marketing. It will discuss topics including translating the organisational mission and objectives to the strategic context of content, developing a content strategy framework, targeting messages based on buyer personas, and empathy mapping. It will also cover styles of content in various genres and channel planning. Content distribution through content management systems and scheduling software as well as optimization and community management will be covered with input from industry professionals along with governance issues and ethical concerns. The subject also includes how to measure content effectiveness from reach, engagement, as well lead generation and sales conversion linking with marketing & sales force automation systems. Students complete praxis orientated assessments based on best practice guidelines."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Understand the importance and challenges of developing and engaging in effective content marketing using best practice guidelines",
+        "Understand and analyse how to apply appropriate marketing theory and frameworks in formulating a high-level content marketing strategy",
+        "Evaluate current practices in content management systems",
+        "Develop and evaluate effective techniques to measure content marketing strategy effectiveness and to understand how this links to marketing and sales force automation systems",
+        "Describe how digital marketing managers can make informed strategic choices to improve strategic outcomes"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MKTG90041"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "MC-DMKTG Master of Digital Marketing"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "In class participation. 36 hours",
+            "timing": "Throughout the teaching period",
+            "percentage": "10%"
+        },
+        {
+            "description": "Individual assignment. 1000 words",
+            "timing": "Week 4",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group assignment (groups of 3-5). 5000 words",
+            "timing": "Week 10",
+            "percentage": "30%"
+        },
+        {
+            "description": "End of semester exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Scott Tetley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36hrs (one 3-hour seminar per week)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Mr Scott Tetley",
+                    ""
+                ],
+                "email": [
+                    "scott.tetley@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

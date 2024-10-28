@@ -1,0 +1,172 @@
+{
+    "subject name": "Declarative Programming",
+    "subject code": "COMP30020",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [],
+    "aims": [
+        "Declarative programming languages provide elegant and powerful programming paradigms and techniques that every programmer should know. This subject presents declarative programming languages and techniques.",
+        ""
+    ],
+    "indicative content": [
+        "The dangers of destructive update",
+        "Functional programming",
+        "Recursion",
+        "Strong type systems",
+        "Parametric polymorphism",
+        "Algebraic types",
+        "Type classes",
+        "Defensive programming practice",
+        "Higher order programming",
+        "Currying and partial application",
+        "Lazy evaluation",
+        "Monads",
+        "Logic programming",
+        "Unification and resolution",
+        "Nondeterminism, search, and backtracking."
+    ],
+    "intended learning outcomes": [
+        "Apply declarative programming techniques",
+        "Write medium size programs in a declarative language",
+        "Write programs in which different components use different languages",
+        "Select appropriate languages for each component task in a project"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "COMP20003",
+                    "COMP20007",
+                    "COMP90038"
+                ]
+            ],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the GC-CS Graduate Certificate in Computer Science"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "COMP90048"
+    ],
+    "assessments": [
+        {
+            "description": "Project work due in approximately weeks 6 and 11. 30-35 hours (of work required). Hurdle requirement:. Please see below",
+            "timing": "From Week 6 to Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "One examination.. 2 hours. Hurdle requirement:. Please see below",
+            "timing": "End of semester",
+            "percentage": "70%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Peter Schachte"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours, comprising of two 1-hour lectures and one 1-hour tutorial per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "schachte@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "TBA"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "This subject comprises 24 one-hour lectures plus 11 one-hour workshops combining group discussion and individual and small group programming work. Additionally, students develop two medium-size declarative programs for assessment.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "At the beginning of the semester, the coordinator will propose a textbook on declarative programming, which will be made available through University Book Shop and library. The current suggested textbook is Bryan O'Sullivan, John Goerzen & Don Stewart: Real World Haskell, O\u2019Reilly Media. This textbook can also be read online gratis. Lecture notes for the subject are also available online.",
+            "CAREERS / INDUSTRY LINKS",
+            "Over the last few years, the mainstream software industry has become quite interest in functional programming, as it promises more robust software by altogether avoiding many classes of problems common in non-declarative languages. Skills developed in this subject complement skills taught in other subjects, better equipping students for work in software design and implementation."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            },
+            {
+                "Additional information for this subject": [
+                    "Subject coordinator approval required",
+                    "Subject coordinator approval required"
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

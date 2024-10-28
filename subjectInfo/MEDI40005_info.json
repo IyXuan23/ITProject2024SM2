@@ -1,0 +1,131 @@
+{
+    "subject name": "Research Project - SVHM Part 1",
+    "subject code": "MEDI40005",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to provide opportunities for students to gain an understanding in, and extend the practice of translational biomedical research, and to understand the importance of research translation from the bench to the clinic leads to improved clinical management of human health and disease.",
+        "Students will undertake an original research project in a basic, translational or clinical science in laboratories based in the Eastern Hill Academic Centre (from the Dept. of Medicine or Surgery, St Vincents Hospital) or in one of our affiliated research institutes (St Vincents Institute of Medical Research (including O\u2019Brien Institute), Centre for Eye Research Australia and the Bionic Institute).",
+        "Students undergo extensive research training with their own individually-supervised research project, acquiring skills in experimental design, technical expertise in state of the art basic, clinical and translational research methodologies, critical thinking, analysis, project management and communication. Being part of a clinical hospital site, students also have the opportunity to learn about the broader significance of research translation as it relates to human health and disease and how research can change and improve the clinical management of patients. All of the projects offer the opportunity of progression on to higher degrees including a PhD."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Select information, analyse it critically, and integrate it into the current state of knowledge about a broad range of translational biomedical research areas with direct relevance to human health and disease.",
+        "Formulate experimental research questions, and describe specific research methodology including appropriate statistically methods for the evaluation of research outcomes in fields of biomedical research relevant to human health and disease.",
+        "Design and undertake appropriate research experiments to answer research hypotheses in a broad range of fields of biomedical research.",
+        "Collate, present, analyse and discuss experimental data.",
+        "Communicate the method, findings and significance to human health and disease of an original translational biomedical research project in oral and written form to a broad range of audiences.",
+        "Organise, prioritise and manage research time in order to achieve the experimental and written research aims."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "Note: the following subject/s can also be taken concurrently (at the same time)"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BIOM40001"
+                ]
+            ],
+            "additional pre-requisite": [
+                "Admission into or selection of one of the following:",
+                "BH-BMED Bachelor of Biomedicine (Degree with Honours)",
+                "BH-SCI Bachelor of Science (Degree with Honours)"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Literature review. 3500 words",
+            "timing": "Due in Week 8-10 of Semester One",
+            "percentage": "15%"
+        },
+        {
+            "description": "Literature review presentation (10 minute talk plus 5 minute question time). 15 minutes",
+            "timing": "Due in Week 5-7 of Semester One",
+            "percentage": "5%"
+        },
+        {
+            "description": "Thesis. 10000 words",
+            "timing": "Due in Week 12 of Semester Two",
+            "percentage": "65%"
+        },
+        {
+            "description": "Final oral thesis defence: final oral presentation of 15 minutes followed by a 5 minutes thesis defence. 20 minutes",
+            "timing": "Due in Week 9-11 of Semester Two",
+            "percentage": "10%"
+        },
+        {
+            "description": "Supervisor/ laboratory competence: ongoing assessment of student's commitment and competence by supervisor",
+            "timing": "Throughout the teaching period",
+            "percentage": "5%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Amanda Edgley"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "This subject is an individual research project and weekly contact hours will vary depending on the nature of the project."
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Subject Coordinator:",
+                    "Dr Amanda Edgley"
+                ],
+                "email": [
+                    "aedgley@unimelb.edu.au",
+                    "easternhill-gr@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "None"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.medstv.unimelb.edu.au/"
+        ]
+    }
+}

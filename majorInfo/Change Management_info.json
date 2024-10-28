@@ -1,0 +1,19 @@
+{
+    "major name": "Change Management",
+    "overview": [],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "37.5 credit points",
+            "Students must complete three subjects including at least two of the following core subjects:",
+            {
+                "ENGM90015": "Management and Leadership for Engineers Credits",
+                "CVEN90062": "Building Information Modeling Credits",
+                "ISYS90040": "Managing Change for IS Professionals Credits",
+                "ENGR90026": "Engineering Entrepreneurship Credits",
+                "MCEN90059": "Probability, Reliability and Quality Credits"
+            },
+            "Plusup to one subject from the Project Management specialisation."
+        ]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "major name": "Mathematical Physics",
+    "overview": [
+        "This major combines the overviews of the Physics and the Mathematics and Statistics majors.",
+        "NOTE - Students undertaking this major may not be concurrently admitted to the Diploma in Mathematical Sciences (D-MATHSC)."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            {
+                "PHYC30018": "Quantum Physics Credits",
+                "MAST30021": "Complex Analysis Credits"
+            },
+            "AND",
+            {
+                "PHYC30016": "Electrodynamics Credits",
+                "PHYC30017": "Statistical Physics Credits"
+            },
+            "AND",
+            {
+                "MAST30026": "Metric and Hilbert Spaces Credits",
+                "MAST30031": "Methods of Mathematical Physics Credits"
+            }
+        ]
+    }
+}

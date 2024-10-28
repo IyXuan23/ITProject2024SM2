@@ -1,0 +1,166 @@
+{
+    "subject name": "Frontiers in Veterinary Science",
+    "subject code": "VETS20019",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject will introduce students to the broad scope of animal health, and the role of veterinarians in addressing grand veterinary challenges of our time.",
+        "Students will be introduced to the determinants of animal health, as well as the concept of the interconnectedness of the health of humans, animals and the environment.  Key themes that will be explored during the course, with reference to contemporary challenges, will include:",
+        "Animal welfare in the face of intensification of food production systems, and globalisation in animal trade",
+        "Ethical issues surrounding the use of animals in entertainment and sport",
+        "Zoonoses, and the risk factors for the transmission of disease from animals to humans, including emergence of new diseases at the animal-human interface",
+        "Environmental determinants of animal health, and the impact of climate change on animal production systems and animal welfare",
+        "Antimicrobial and other pharmaceutical use in animals, its impact on food residues and on antimicrobial resistance",
+        "Biosecurity, quarantine and surveillance, in the context of global animal and human health",
+        "The role of working animals globally",
+        "The role of veterinarians across a broad range of disciplines in maintaining the health and well-being of animals and hence humans"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe  the determinants of health in animals",
+        "Describe the roles that animals play in the lives and well-being of humans",
+        "Demonstrate a sound understanding of the role of veterinary and animal scientists in ensuring the health of populations of animals",
+        "Explain how the health of animals impacts on the health of human populations",
+        "Critically evaluate complex animal management challenges, with respect to the welfare of animal and human populations"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BIOL10008",
+                    "BIOL10010"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [
+                [
+                    "BIOL10009",
+                    "BIOL10011"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 3",
+            "necessary pre-requisite": [
+                "BIOL10005\tGenetics & The Evolution of Life",
+                [
+                    "BIOL10002",
+                    "CHEM10006",
+                    "BIOM10002"
+                ],
+                [
+                    "BIOM20001"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "BIOL10004\tBiology of Cells and Organisms",
+                "Bachelor of Biomedicine Students:"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written report. 1000 words",
+            "timing": "Week 11",
+            "percentage": "30%"
+        },
+        {
+            "description": "Four online quizzes (15minutes each, equally weighted at 5% each). 60 minutes (total)",
+            "timing": "From Week 4 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written examination. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Ian Bland"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "\u2022\t2 hours online lecture/learning activities per week\r\n\u2022\tOne 2 hour case study per week\r\n\u2022\tOne feedback workshop per week, alternating with a guest lecture or webinar"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "ibland@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

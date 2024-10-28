@@ -1,0 +1,187 @@
+{
+    "subject name": "Supervised Field Placement 1A",
+    "subject code": "SCWK90048",
+    "subject availability": [
+        "February",
+        "May",
+        "September"
+    ],
+    "overview": [
+        "Supervised field education provides a focused practice learning experience. Students will learn to integrate social work theory, knowledge, values, and practice, develop practice skills, increase their knowledge of the interface between policy, research and evidence-based practice and increase their understanding of the organisational contexts and fields of practice. The first placement is comprised of two subjects taken consecutively: SCWK90048 Supervised Field Placement 1A and SCWK90049 Supervised Field Placement 1B. This subject constitutes the first half (250 hours) of the first supervised field placement required within the Master of Social Work course."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe and align contemporary social work theories and research to practice approaches.",
+        "Recall contextual information including legislation, policies, professional values and ethics and recognise how practice decisions are informed by these concepts."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "SCWK90053",
+                    "SCWK90066",
+                    "SCWK90072"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Placement. 250 hours. Hurdle requirement:. Completion of 250 hours of supervised field placement.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Completion of required tasks as set out in the learning and assessment plan, included in the 250 hours of placement. 4500 words (equivalent). Hurdle requirement:. Performance tasks that are completed throughout the placement and are due by the completion of the 250 hours.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. Field education performance report  showing required competency against the  graduate attributes showing required competency against the 8 graduate attributes",
+            "timing": "End of the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "February": [
+                {
+                    "Principal coordinator": "Bronwyn McFadyen"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "The contact hours for this subject represent the first half (250 hours) of a combined 500 hours over two immediately consecutive study periods, comprising the first placement, including 2 sessions of university-based integrative seminars and pre-placement preparation 6 x 1.5 hour seminars. These contact hours are part of the accreditation requirements set by the Australian Association of Social Workers."
+                },
+                {
+                    "Total time commitment": "250 hours"
+                },
+                {
+                    "Teaching period": "12 February 2024 to 29 March 2024"
+                },
+                {
+                    "Last self-enrol date": "21 February 2024"
+                },
+                {
+                    "Census date": "23 February 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "8 March 2024"
+                },
+                {
+                    "Assessment period ends": "29 March 2024"
+                }
+            ]
+        },
+        {
+            "May": [
+                {
+                    "Principal coordinator": "Lisa Wright"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "The contact hours for this subject represent the first half (250 hours) of a combined 500 hours over two immediately consecutive study periods, comprising the first placement, including 2 sessions of university-based integrative seminars and pre-placement preparation 6 x 1.5 hour seminars. These contact hours are part of the accreditation requirements set by the Australian Association of Social Workers."
+                },
+                {
+                    "Total time commitment": "250 hours"
+                },
+                {
+                    "Teaching period": "20 May 2024 to  7 July 2024"
+                },
+                {
+                    "Last self-enrol date": "29 May 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "21 June 2024"
+                },
+                {
+                    "Assessment period ends": "7 July 2024"
+                }
+            ]
+        },
+        {
+            "September": [
+                {
+                    "Principal coordinator": "Lisa Wright"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "The contact hours for this subject represent the first half (250 hours) of a combined 500 hours over two immediately consecutive study periods, comprising the first placement, including 2 sessions of university-based integrative seminars and pre-placement preparation 6 x 1.5 hour seminars. These contact hours are part of the accreditation requirements set by the Australian Association of Social Workers."
+                },
+                {
+                    "Total time commitment": "250 hours"
+                },
+                {
+                    "Teaching period": "2 September 2024 to 18 October 2024"
+                },
+                {
+                    "Last self-enrol date": "11 September 2024"
+                },
+                {
+                    "Census date": "13 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "4 October 2024"
+                },
+                {
+                    "Assessment period ends": "18 October 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "February": {
+                "name": [],
+                "email": [
+                    "sw-placements@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "May": {
+                "name": [],
+                "email": [
+                    "sw-placements@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "September": {
+                "name": [],
+                "email": [
+                    "sw-placements@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Cleak, H., & Wilson, J. (2018).Making the most of field placement (4th ed).Southbank: Thomson Learning."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

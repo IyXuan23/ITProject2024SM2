@@ -1,0 +1,87 @@
+{
+    "subject name": "Decision Making and Optimisation",
+    "subject code": "BUSA90538",
+    "subject availability": [
+        "March"
+    ],
+    "overview": [
+        "There is an assortment of mathematical methods to obtain efficient solutions to a large variety of complex business problems. This component helps student formulate a business problem as a mathematical model and then use computational techniques to estimate and solve the model. Topics covered may include decision making under uncertainty, optimal location allocation of resources in business processes, decision trees, linear programming, integer linear programming, and Monte Carlo simulations."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Appreciate the importance and application of mathematical models for solving several problems in business.",
+        "Understand the most relevant methods and the trade-off between methods required to solve these models including: decision trees, linear programming, integer linear programming, local search and meta-heuristics.",
+        "Perform optimization techniques to solve business problems."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following: MC-BUSANA Master of Business Analytics, GD-BUSANA Graduate Diploma in Business Analytics, GC-BUSANA Graduate Certificate in Business Analytics, PR-BUSANA Professional Certificate in Business Analytics",
+                "Students admitted to the MBA course may enrol in this subject as an elective subject. Students are required to achieve 70% or above in Data Analysis"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Syndicate Project. 1700 words (equivalent)",
+            "timing": "Week 6",
+            "percentage": "30%"
+        },
+        {
+            "description": "Midterm test. 1.25 hours",
+            "timing": "Mid semester",
+            "percentage": "20%"
+        },
+        {
+            "description": "Final Examination. 2.5 hours. Hurdle requirement:. Students need to pass the final exam to pass the subject",
+            "timing": "Week 9",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "March": [
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "11 March 2024 to  3 May 2024"
+                },
+                {
+                    "Last self-enrol date": "21 March 2024"
+                },
+                {
+                    "Census date": "5 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "19 April 2024"
+                },
+                {
+                    "Assessment period ends": "10 May 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

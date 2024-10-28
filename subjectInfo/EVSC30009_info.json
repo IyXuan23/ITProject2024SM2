@@ -1,0 +1,123 @@
+{
+    "subject name": "Energy Pathways to Net-Zero",
+    "subject code": "EVSC30009",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "The transition to net-zero greenhouse gas emissions will involve a significant transformation of the global energy system. This will fundamentally change where energy is generated and how it is consumed. These required changes will have broad economic, socio-environmental, and geopolitical challenges. Such as, the uneven endowment of wind and solar resources in regions that may be rich in biodiversity, with or without large human populations, or existing transmission infrastructure. However, continuing to rely on fossil fuels also exposes nations, businesses, and essential services to geopolitical instabilities and social injustice. A systematic view is needed to analyse, predict and chart viable pathways for our energy transition.",
+        "This subject provides a capstone experience for the Environmental Science major specialisation in Energy Transition, while also providing a sustainability lens for discipline-focused majors in the energy space. This subject builds upon a fundamental understanding of thermodynamics, chemical, mechanical and/or electrical energy to explore the role of energy in nature and human society. Students will learn about the various forms of energy generation with their associated environmental and social impacts, and the degree to which the supply and demand of energy   must be transformed, in order to mitigate climate change while conserving biodiversity and sustainable economic development. Students will evaluate real-world decision-making problems, and develop the skills needed to assess and critique energy transition pathways towards a sustainable future.",
+        "The energy transition is also a key component of environmental, social and governance (ESG) of businesses. Students will learn from industry experiences and potentially present to an industry panel."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Identify the role of the energy system in society and explain how it leads to critical dependencies in our social, economic, and environmental systems.",
+        "Distinguish elements of the energy system that must change in order to reduce overall greenhouse gas emissions to Net-Zero.",
+        "Identify, analyse, and critique transition pathways of the energy system needed to mitigate climate change.",
+        "Apply, examine and compare a range of quantitative and qualitative change frameworks for the energy transition.",
+        "Assess energy transitions across different spatio-temporal scales and consider their global ramifications."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "EVSC20006",
+                    "ATOC20001",
+                    "CHEM20018",
+                    "CHEN20010",
+                    "CHEN20012",
+                    "PHYC20012",
+                    "MAST20029"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Online quiz. 30 minutes",
+            "timing": "Week 2",
+            "percentage": "10%"
+        },
+        {
+            "description": "Group report (3 students per group). 3000 words (total)",
+            "timing": "Week 7",
+            "percentage": "30%"
+        },
+        {
+            "description": "Group presentation (3 students per group). 10 minutes",
+            "timing": "From Week 10 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final exam. 2 hours. Hurdle requirement:. Students must pass this assessment to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Kelvin Say"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "kelvin.say@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design"
+            ]
+        ]
+    }
+}

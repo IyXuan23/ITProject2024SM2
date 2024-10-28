@@ -1,0 +1,96 @@
+{
+    "subject name": "Finance",
+    "subject code": "BUSA90095",
+    "subject availability": [
+        "October - Online"
+    ],
+    "overview": [
+        "This subject addresses the foundations of valuation and financial management. The subject is based on the traditional principle that firms should be managed to increase the wealth of their shareholders, subject to the fulfilment of their contractual and legal obligations to other stakeholders. Some concepts addressed are also relevant for all organisations, as well as for personal financial planning and investments. Key concepts addressed in this subject are the valuation of financial assets (e.g., shares) and selection of investment projects."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Apply a variety of approaches to identify profitable investment projects",
+        "Estimate a firm's cost of capital and apply it in project selection decisions",
+        "Value different types of financial instruments",
+        "Build investment portfolios that reflect the optimal balance of risk and return",
+        "Assess the costs and benefits of different corporate capital structures",
+        "Identify different ways corporations can make distributions to shareholders and identify the associated outcomes and risks"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "BUSA90059",
+                    "",
+                    "BUSA90552"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "3 x syndicate assignments. 1500 words (total)",
+            "timing": "Throughout the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Mid-term test. 1 hours",
+            "timing": "Week 5",
+            "percentage": "25%"
+        },
+        {
+            "description": "Final assignment. 2000 words (equivalent). Hurdle requirement:. students are required to pass this final assignment to pass the subject",
+            "timing": "End of the teaching period",
+            "percentage": "45%"
+        }
+    ],
+    "dates and times": [
+        {
+            "October - Online": [
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "28 October 2024 to  6 December 2024"
+                },
+                {
+                    "Last self-enrol date": "28 October 2024"
+                },
+                {
+                    "Census date": "7 November 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "22 November 2024"
+                },
+                {
+                    "Assessment period ends": "13 December 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

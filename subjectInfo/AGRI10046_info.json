@@ -1,0 +1,133 @@
+{
+    "subject name": "Foundations of Agricultural Sciences 2",
+    "subject code": "AGRI10046",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject, which builds on concepts and knowledge introduced in AGRI10045 Foundations of Agricultural Science 1, aims to provide Bachelor of Agriculture students with an understanding of the underpinning enabling physical sciences, as they relate to agricultural systems. Concepts in physics, chemistry, mathematics and data management will be introduced in the context of the science of earth and soil, water and climate, and plant and animal biology. In particular, this subject introduces students to important underpinning principles in physics and chemistry, in the context of water, solutions, soils and cells. Topics include fluid movement and mechanics, solubility, precipitation reactions, redox reactions and galvanic cells, acid base reactions, salinity and conductivity. The chemistry of selected elements will be discussed in the context of both soils and cells."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Apply an understanding of key concepts in physics and chemistry to describe fundamental processes such as solubility, precipitation, conductivity, redox reactions, cation exchange capacity, capillarity, surface tension, evaporation",
+        "Understand and explain the physics principles of fluids and thermal physics",
+        "Apply principles in physics and chemistry using logical reasoning, together with appropriate mathematical reasoning, to a variety of familiar and novel situations and problems in agricultural sciences",
+        "Integrate the use of numerical data, graphical analysis, basic statistics, and mapping, to represent and interpret events in the natural world"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AGRI10045"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Quiz. 10 minutes",
+            "timing": "Week 3",
+            "percentage": "5%"
+        },
+        {
+            "description": "Written assignment. 500 words",
+            "timing": "Week 4",
+            "percentage": "5%"
+        },
+        {
+            "description": "Intra-semester assessment. 1 hours",
+            "timing": "Week 7",
+            "percentage": "25%"
+        },
+        {
+            "description": "Group practical report (3-4 students per group). 1500 words",
+            "timing": "Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "45%"
+        },
+        {
+            "description": "Attendance. Hurdle requirement:. Students must attend a minimum 80% of scheduled workshops/practical classes.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Sarah Frankland"
+                },
+                {
+                    "Coordinator": "Jeff Yeoman"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "54 hours. Each week students will participate in three 1-hour lectures, and one 2-hour workshop for 12 weeks. There will also be a one-off field trip to Dookie campus in week 6 of semester."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Email:",
+                    ""
+                ],
+                "email": [
+                    "jeff.yeoman@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

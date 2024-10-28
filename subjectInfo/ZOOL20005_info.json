@@ -1,0 +1,171 @@
+{
+    "subject name": "Animal Structure and Function",
+    "subject code": "ZOOL20005",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "Animals are faced with innumerable challenges across their lifetime that must be overcome if individuals are to survive and reproduce, and ultimately for species to persist. Many of these challenges, such as how to move, how to respire, how to sense your environment, how to feed, and how to reproduce, are ubiquitous across the animal kingdom, but have been solved in unique ways by different phyla.",
+        "Animal Structure and Function is a lecture and laboratory-based subject that explores the amazing morphological diversity of life and how this has evolved to meet essential biological functions. The course is structured around a series of key \u2018biological challenges\u2019 within which we will compare and contrast different \u2018biological solutions\u2019 to the same problem across animals ranging from corals through to apes. In the practicals, you will learn how to classify animals and interpret their features, and develop an integrated understanding of animal diversity and the evolutionary forces that drive this."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "explain similarities and differences in the morphology  of animals dealing with the same 'life challenge', and place these in an evolutionary context;",
+        "demonstrate an understanding of the unique adaptations of animals that allow them to occupy diverse habitats;",
+        "identify common organisms to broad groups (e.g. Phyla) using key diagnostic features;",
+        "effectively communicate key scientific concepts through written work; and",
+        "undertake intermediate-level practical laboratory tasks in handling and experimenting with animals and biological specimens."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                "BIOL10004 - Biology of Cells and Organisms",
+                "BIOL10005 - Genetics and the Evolution of Life"
+            ],
+            "one of pre-requisite": [
+                [
+                    "BIOL10002",
+                    "BIOL10008",
+                    "BIOL10009"
+                ],
+                [
+                    "BIOL10010",
+                    "BIOL10011",
+                    "BIOM10002"
+                ]
+            ],
+            "additional pre-requisite": [
+                "BIOL10003 - Genes and Environment"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written Task One: based on practical material. Students will complete a written task for either practical 1 OR 2, on which they will receive written feedback. 600 words",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "12%"
+        },
+        {
+            "description": "Graphical Task One: based on practical material. Students will complete a graphical task for either practical 1 OR 2, on which they will receive written feedback. 300 words (equivalent)",
+            "timing": "From Week 4 to Week 6",
+            "percentage": "8%"
+        },
+        {
+            "description": "Written Task Two: based on practical material. Students will complete a written task for ONE OF practicals 3, 4 or 5, using formative feedback received from Written Task One. 600 words",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "18%"
+        },
+        {
+            "description": "Graphical Task Two: based on practical material. Students will complete a graphical task for ONE OF practicals 3, 4 or 5, using formative feedback received from Graphical Task One. 300 words (equivalent)",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "12%"
+        },
+        {
+            "description": "Multiple choice quiz via online polling, 3-5 mins per week (200 words equivalent). Best 10 of 12 polls. 3-5 minutes (each)",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "A written examination, covering both lecture and practical material. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        },
+        {
+            "description": "Weekly attendance. Hurdle requirement:. Students must attend four of five practicals, and four of five workshops during semester",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Coordinator": "Rebecca Hull"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 x one-hour lectures per week, and 1 x three-hour practical or workshop conducted in the laboratory or collaborative learning space during weeks 2-11 (5 practicals + 5 workshops x 3hr)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "zool20005-info@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Hickman et alIntegrated Principles of Zoology, McGraw Hill"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Environments",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

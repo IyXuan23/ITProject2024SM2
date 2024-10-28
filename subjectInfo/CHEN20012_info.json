@@ -1,0 +1,158 @@
+{
+    "subject name": "Fundamentals of Chemical Engineering",
+    "subject code": "CHEN20012",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "How do you make water safe to drink? How do you capture hazardous emissions to protect the environment? How do you create energy, food, medicines and other products that are essential to our everyday lives?",
+        "This subject begins with a broad overview of the environmental and social challenges facing humanity that require chemical engineering solutions, as well as the wide variety of jobs available to chemical engineers.",
+        "The subject will then focus on a series of foundational competencies that chemical engineers need to understand to address these big picture problems. It will introduce flow diagrams for conceiving processes in new ways, building up to reading detailed engineering schematics. These will draw on real case studies like how chocolate bars are made, how petroleum is refined and how pharmaceuticals are manufactured.",
+        "Students will then investigate a processing facility by building their own bench-scale plant. Students will have the opportunity to use a hands-on tools workshop to build equipment ranging from small valves and temperature sensors up to larger-scale equipment, which can be assembled into a final flow rig. Understanding how the equipment works will drive questions about the underlying physics, such as thermodynamics (for designing heat transfer equipment) and reaction kinetics (for building reactors), which will be discussed in accompanying classes.",
+        "At the end of the subject, all parts will be drawn back together into a single flow rig with an accompanying piping and instrumentation diagram, a detailed schematic for designing and controlling the plant.",
+        "Please view this video for further information:Fundamentals of Chemical Engineering"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Recognise reactions taking place within ideal reactors",
+        "Define and scope engineering problems and formulate suitable problem-solving strategies",
+        "Model real gas behaviour",
+        "Develop and interpret process flow diagrams, process and instrumentation diagrams",
+        "Apply basic thermodynamic relationships to real problems",
+        "Discuss the principles of sustainable design and development",
+        "Recognise the difference between safe and unsafe industrial practices."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST10006",
+                    "MAST10021",
+                    "MAST10009"
+                ],
+                [
+                    "CHEM10003",
+                    "CHEM10006"
+                ]
+            ],
+            "alternate pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "alternate pre-requisite": [
+                "Admission into the MC-CHEMENG Master of Chemical Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Attendance and participation in one tools  training workshop class with an online safety admissions test within the prescribed assessment period.   Intended Learning Outcomes (ILOs) 4 to 7 are addressed in this assessment.. 10-13 hours (of work required)",
+            "timing": "From Week 2 to Week 8",
+            "percentage": "10%"
+        },
+        {
+            "description": "Attendance and participation in one laboratory class with a written assignment based on attendance and participation un one laboratory class.   Intended Learning Outcomes (ILOs) 2 and 4 to 7 are addressed in this assessment.. 10 hours (of work required)",
+            "timing": "From Week 6 to Week 11",
+            "percentage": "10%"
+        },
+        {
+            "description": "One team-based presentation of approximately 15 to 25 minutes, with 3 to 5 team members. Intended Learning Outcomes (ILOs) 2 and 4 to 7 are addressed in this assessment.. 5-7 hours",
+            "timing": "From Week 5 to Week 7",
+            "percentage": "5%"
+        },
+        {
+            "description": "One written assignment .  Intended Learning Outcomes (ILOs) 1 to 5 are addressed in this assessment.. 20 hours",
+            "timing": "From Week 5 to Week 12",
+            "percentage": "20%"
+        },
+        {
+            "description": "One written assignment . Intended Learning Outcomes (ILOs) 1 to 5 are addressed in this assessment.. 5 hours",
+            "timing": "From Week 10 to Week 12",
+            "percentage": "5%"
+        },
+        {
+            "description": "One written closed book examination.  Intended Learning Outcomes (ILOs) 1 to 7 are addressed in this assessment.. 2 hours. Hurdle requirement:. The final exam must be passed to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Christopher Honig"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 \u00d7 1-hour lectures, 11 \u00d7 2-hour workshops, 1 \u00d7 3-hour laboratory class and 1 \u00d7 6-hour tools training workshop"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Christopher Honig"
+                ],
+                "email": [
+                    "christopher.honig@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject will be delivered through a combination of lectures and workshops. Students will also complete an multi-component experiment involving the building of equipment in a maker space and then testing it in a wetlab. Students also undertake introductory process simulation.",
+            "INDICATIVE KEY LEARNING RESOURCESJ Richard Elliott Carl T. Lira Introductory Chemical Engineering Thermodynamics, 2nd edition. Other key resources and multimedia are provided through the LMS.CAREERS / INDUSTRY LINKSThe subject teaches a combination of core introductory chemical engineering content but also develops key 'real world' generic skills including team-working, engineering schematics, key industry software packages and introduction to key unit operations."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

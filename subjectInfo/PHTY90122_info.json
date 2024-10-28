@@ -1,0 +1,118 @@
+{
+    "subject name": "Research and Evidence",
+    "subject code": "PHTY90122",
+    "subject availability": [
+        "Year Long (Extended)"
+    ],
+    "overview": [
+        "This year-long subject will focus on the application of research and its relevance to physiotherapy practice and the process of evidence-based practice. Research principles taught in this subject will be integrated and implemented into concurrent subjects in the Doctor of Physiotherapy program, including core physiotherapy clinical practice streams. Specific content in this subject will focus on exploratory, experimental, systematic reviews and meta-analyses, research design and methodology, incorporating ethics of clinical human research, statistical analysis and critical appraisal. Epidemiological constructs of prevalence, incidence and risk will be introduced in conjunction with applied clinical concepts such as number needed to treat and odds ratios. Qualitative research methodology, including critical appraisal and interpretation of individual perspectives of health and illness will be introduced, and students will be expected to plan, execute and analyse a qualitative interview of individuals' health perspectives. Clinical guidelines will be explored, including how they can be used to inform clinical practice and application of tools available for critical appraisal. Steps involved in developing a research proposal and strategies for incorporating evidence-based practice into daily clinical practice will draw together the curriculum in this subject and strategies for pitching and communicating a research proposal will be mastered."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Search, identify and critique relevant evidence to respond to contemporary physiotherapy clinical enquiry.",
+        "Compute and interpret descriptive statistics for a quantitative data set.",
+        "Understand and apply the fundamental concepts that apply to the ethical conduct of research.",
+        "Critically appraise research including exploratory and experimental studies for the validity of their conclusions and to explain the relevance for patients, the profession, policy makers and funders of physiotherapy services.",
+        "Critically appraise qualitative research and methodologies that relate to an individual's perspectives of health and illness and contrast this to quantitative approaches.",
+        "Plan, conduct and analyse a qualitative interview of an individual's perspectives of health and illness.",
+        "Perform and interpret findings from basic inferential statistical tests, including measures of relative risk and odds ratios, and interpret findings from common statistical approaches relevant to meta-analyses.",
+        "Interpret the clinical relevance of findings from different sources of evidence including systematic reviews and clinical guidelines to inform physiotherapy practice.",
+        "Explore the diversity of populations represented in systematic review data and the generalisability of findings to culturally and ethnically diverse populations.",
+        "Communicate the methodology and findings of a research study for a physiotherapy audience in an oral presentation.",
+        "Identify the sources of funding available for physiotherapy research, and how this funding shapes the research agenda in physiotherapy."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "PHTY90117"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [],
+    "assessments": [
+        {
+            "description": "Critical appraisal essay. 2250 words",
+            "timing": "Mid semester 1",
+            "percentage": "30%"
+        },
+        {
+            "description": "Qualitative interview plan & report (small group), approx. 3 students) Students will be marked as a group.. 3000 words (total)",
+            "timing": "Mid semester 2",
+            "percentage": "25%"
+        },
+        {
+            "description": "Research Proposal Presentation (group). 20 minutes",
+            "timing": "End of semester 2",
+            "percentage": "10%"
+        },
+        {
+            "description": "Research Proposal Report (group). 5000 words (total)",
+            "timing": "End of semester 2",
+            "percentage": "15%"
+        },
+        {
+            "description": "ePortfolio. 1500 words",
+            "timing": "End of Semester 2",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Year Long (Extended)": [
+                {
+                    "Coordinator": "Jennifer Jones"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "255 hours"
+                },
+                {
+                    "Teaching period": "15 January 2024 to 15 November 2024"
+                },
+                {
+                    "Last self-enrol date": "26 January 2024"
+                },
+                {
+                    "Census date": "31 May 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Year Long (Extended)": {
+                "name": [],
+                "email": [
+                    "jennifer.jones@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ]
+    }
+}

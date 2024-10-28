@@ -1,0 +1,112 @@
+{
+    "subject name": "Evidence-Based Practice",
+    "subject code": "AUDI90060",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject will encourage students to use sources along with basic research concepts and design to develop their ability to become evidence-based clinicians. Students will use basic statistics and assessments to make judgements and decisions on best practice forming development of clinical decision making. Students will participate in workshops and interactive sessions that will allow them to develop their analytical skills. On completion, students will be able to critically appraise evidence to establish valid conclusions that assist with interpreting, integrating and managing results and outcomes, ensuring best and safe practice."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Adapt thinking by incorporating the theoretical principles of clinical decision making in the context of audiological practice.",
+        "Evaluate and critically appraise available evidence to inform intervention options/strategies and education programs related to  screenings, referral guidelines and pathways.",
+        "Apply basic research design skills and generate testable hypotheses relating to clinical decision making.",
+        "Select basic statistical tests and be able to interpret statistical results  in clinical decision making."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "AUDI90053",
+                    "AUDI90055",
+                    "AUDI90057",
+                    "AUDI90059"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Four online tests. 30 minutes (each)",
+            "timing": "Tests will be spread evenly across the semester",
+            "percentage": "40%"
+        },
+        {
+            "description": "Written assignment. 1000 words",
+            "timing": "Early in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Group presentation. 20 minutes (total)",
+            "timing": "Late in the teaching period",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written exam. 1 hours. Hurdle requirement:. Exam must be passed",
+            "timing": "During the examination period",
+            "percentage": "20%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Lauren Story"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 hours of Lecturers and 2 hours of Tutorial sessions per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "story.l@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

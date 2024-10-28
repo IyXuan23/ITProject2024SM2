@@ -1,0 +1,107 @@
+{
+    "subject name": "Research in Financial Accounting",
+    "subject code": "ACCT40001",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject provides a rigorous review and critical analysis of the theory and methodology underlying economics-based empirical research in financial accounting."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Apply alternative paradigms to explain financial accounting practice;",
+        "Explain how accounting practice influences decision-making at macro-economic and micro-economic levels;",
+        "Evaluate the role of accounting information in security valuation; and",
+        "Describe how accounting and accounting regulation impact upon firm value due to the use of accounting numbers in contracting and political processes."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the BH-COM Bachelor of Commerce (Degree with Honours)"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Written assignment. 3000 words",
+            "timing": "Late in the teaching period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Seminar participation and presentations",
+            "timing": "",
+            "percentage": "30%"
+        },
+        {
+            "description": "End-of-semester take-home Examination. 1200 words",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Ian Gow"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours of seminars"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Ian Gow:"
+                ],
+                "email": [
+                    "ian.gow@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Selected readings - Research in Financial Accounting- Department of Accounting (current year version)."
+                ]
+            },
+            {
+                "Recommended texts and other resources": []
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

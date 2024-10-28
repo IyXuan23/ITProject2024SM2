@@ -1,0 +1,153 @@
+{
+    "subject name": "Applied Computation in Bioengineering",
+    "subject code": "BMEN20003",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "This subject aims to introduce students to the application of programming and computational methods to solve problems in the context of bioengineering research and industry. It introduces students to the fundamentals of software programming and computational methods via the use of programming languages. These techniques will be explored in the context of problems drawn from different aspects of bioengineering including, but not restricted to, fluid mechanics, image processing, electromagnetism, control systems, biomechanics, biomaterials, biosignals and clinical statistics.",
+        "Please view this video for further information:Applied Computation in Bioengineering"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "1. Read, write and debug small-scale numerical programs in a high-level programming language",
+        "2. Argue for the validity of such programs, from both logical and numeric-soundness perspectives",
+        "3. Translate bioengineering problems into mathematical models and numerical programs",
+        "4. Implement and utilise fundamental numerical methods to solve problems relevant to bioengineering",
+        "5. Undertake independent learning of new programming languages by appreciating and leveraging similarities in syntax and semantics"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [
+                [
+                    "MAST10006",
+                    "MAST10009",
+                    "MAST10021"
+                ],
+                [
+                    "MAST10007",
+                    "MAST10008",
+                    "MAST10022"
+                ]
+            ],
+            "additional pre-requisite": [
+                "MAST10019: \t\n\nCalculus Extension Studies",
+                "MAST10018: \t\n\nLinear Algebra Extension Studies"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Selection of one of the following:",
+                "Biomedical specialisation (formal) in the MC-ENG Master of Engineering",
+                "Biomedical with Business specialisation (formal) in the MC-ENG Master of Engineering",
+                "MC-BIOMENG Master of Biomedical Engineering"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "COMP20005",
+        "BMEN20001 - Biomechanical Physics and Computation"
+    ],
+    "assessments": [
+        {
+            "description": "Two individual programming assignments. 10% each, 10 hours per assignment. Intended Learning Outcomes (ILOs) 1 - 4 are addressed in this assessment.. 20 hours",
+            "timing": "From Week 3 to Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Online quizzes. 30 minutes per quiz, 3% each, 15% total.  10 quizzes held during weeks 2-11 (best 5 scores taken). ILOs 1 - 2 are addressed in this assessment.. 30 minutes",
+            "timing": "Throughout the teaching period",
+            "percentage": "15%"
+        },
+        {
+            "description": "One team-based programming project (in teams of 3 - 4) 25 hours per student. ILOs 1 - 5 are addressed in this assessment.. 25 hours",
+            "timing": "From Week 8 to Week 12",
+            "percentage": "25%"
+        },
+        {
+            "description": "One 2-hour written examination. ILOs 1 - 5 are addressed in this assessment.. 2 hours. Hurdle requirement:. Students must pass the examination to pass the subject.",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Lionel Lam"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "3 x 1-hour lectures per week (total 36 hours)\r\n1 x 2-hour workshop per week (total 24 hours)"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [
+                    "Dr Lionel Lam"
+                ],
+                "email": [
+                    "lionel.lam@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "There are no specifically prescribed or recommended texts for this subject."
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODSThe subject is delivered through lectures, tutorials and workshop classes for hands-on programming activities. Assessment includes weekly low-stakes programming quizzes, two individual programming assignments, one major team-based programming assignment, and a final exam.",
+            "INDICATIVE KEY LEARNING RESOURCESStudents are provided with lecture slides with example problems, tutorial worksheets with suggested solutions, and other reference material (both text and audiovisual) where relevant.",
+            "CAREERS / INDUSTRY LINKSExposure to the applications of programming/computation across the various fields of biomedical engineering via guest lectures."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

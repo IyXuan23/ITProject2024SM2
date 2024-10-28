@@ -1,0 +1,221 @@
+{
+    "subject name": "Concepts in Applied Linguistics",
+    "subject code": "LING90039",
+    "subject availability": [
+        "Semester 1 - On Campus",
+        "Semester 1 - Online",
+        "Semester 2 - Online",
+        "Semester 2 - On Campus"
+    ],
+    "overview": [
+        "Concepts in Applied Linguistics is a compulsory subject for all students on the Master in Applied Linguistics, and should be taken in the first semester of enrolment in the program. This introductory subject teaches students core concepts; current issues and debates; and diverse research methods in applied linguistics. It introduces students to the three principal specialisations of the Master program: Teaching English as a Second Language (TESOL); Language Testing; and English Language. It tracks the origins of these fields from their diverse theoretical inceptions, such as psycholinguistics, pedagogy and sociolinguistics, to their applications in various domains, including, for example, language teaching and learning; language assessment; and language policy and planning. It also shows how advancements in applied linguistics have been applied to real-world problems such as how to train language teachers; how to design fair and effective language tests; how to combat language discrimination; and how minority languages can be revived and maintained. The subject is an essential part of foundational study for the Master and prepares students for more specialised subjects on the program; for further independent research and study; and for professions in public service, teaching, translation and speech pathology."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Demonstrate a depth of knowledge of concepts in core areas of applied linguistics",
+        "Apply library skills to synthesise and evaluate relevant scholarship in diverse areas of applied linguistics",
+        "Understand and evaluate the purpose and applications of selected research methodologies in applied linguistics",
+        "Assess how current issues and debates in applied linguistics may be approached from diverse perspectives."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Report (annotated bibliography) Due in Weeks 3-4. 1000 words",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Oral presentation; Due in Weeks 7-8\r\nOn Campus Students Only. 1500 words",
+            "timing": "Week 8",
+            "percentage": "30%"
+        },
+        {
+            "description": "A video presentation\r\nOnline Students Only. 1500 words (equivalent)",
+            "timing": "From Week 7 to Week 8",
+            "percentage": "30%"
+        },
+        {
+            "description": "Essay. 2500 words",
+            "timing": "During the examination period",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. 1. Attendance hurdle requirement: This subject has a minimum requirement of 80% attendance at tutorials, seminars, or workshops.  There is an expectation that students attend lectures where offered.",
+            "timing": "Throughout the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Hurdle requirement:. 2. Late Penalty and Assessment hurdle requirement: Assessment submitted late without an approved extension will be penalised at five per cent (5%) of the possible marks available for the assessment task per day or part thereof. All pieces of assessment must be submitted to pass the subject.  Each submitted assessment must be complete, constitute a genuine attempt to address the requirements of the task and will not be accepted after 10 University business days from the original assessment due date without written approval.",
+            "timing": "Throughout the semester",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1 - On Campus": [
+                {
+                    "Coordinator": "Lu Yu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "24 hours: a 1-hour lecture and a 1-hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 1 - Online": [
+                {
+                    "Coordinator": "Lu Yu"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "Equivalent of 24 hours: Self-directed activities including following seminar recordings, weekly participation in online discussions and tasks.  There are no classes for online study."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - Online": [
+                {
+                    "Coordinator": "Lu Yu"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": "Equivalent of 24 hours: Self-directed activities including following seminar recordings, weekly participation in online activities as directed by the subject coordinator. There are no classes for online study."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        },
+        {
+            "Semester 2 - On Campus": [
+                {
+                    "Coordinator": "Lu Yu"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "A 1-hour lecture and a 1-hour workshop per week"
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "yu.l6@unimelb.edu.au"
+                ]
+            }
+        },
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "yu.l6@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Adobe Creative Cloud can be used in this subject, it is recommended that you purchase a discounted licence via Student IThttps://studentit.unimelb.edu.au/software#adobecc"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ]
+    }
+}

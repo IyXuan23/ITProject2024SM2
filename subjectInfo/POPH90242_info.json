@@ -1,0 +1,125 @@
+{
+    "subject name": "Epidemiology 2",
+    "subject code": "POPH90242",
+    "subject availability": [
+        "Semester 2 - Dual-Delivery"
+    ],
+    "overview": [
+        "This subject is a core subject within the Master of Science (Epidemiology) and an elective within the Master of Public Health, the Master of Environment, and the Master of Biostatistics.",
+        "Epidemiology 2 is an in-depth exploration of research study design and development. Within this subject, students will learn contemporary approaches to designing studies for clinical and public health research and analysing their results.",
+        "Students will develop the skills to design and critique a variety of experimental and observational studies (cluster randomised controlled trials, randomised controlled trial variants, case control study variants and ecological studies). Complex causal diagrams will be introduced to assist with identifying confounders and assessing bias. Students learn how to apply quantitative bias analyses to quantify the direction and magnitude of bias in clinical and public health studies.",
+        "Additionally, the concept of a target trial will be introduced, and students will learn to apply this method in their future research. Alongside the target trial approach, students will learn the latest analytic strategies to control for confounding, including g-computation and inverse proportional weighting.",
+        "The subject will also cover the concept of effect-measure modification and how it differs from interaction, and its impact on external validity. By the end of the course, students will be able to estimate the potential effects of population and clinical interventions on a wider population."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Judge the impact of effect measure modification on external validity and the implementation of population and clinical interventions",
+        "Assess confounding and collider bias by creating causal diagrams",
+        "Apply standardisation, inverse probability weighting and g-computation to control for confounding",
+        "Apply quantitative bias techniques to quantify the direction and magnitude of bias",
+        "Design experimental and observational epidemiological studies",
+        "Critique experimental and observational epidemiological studies"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "POPH90014"
+                ]
+            ],
+            "one of pre-requisite": [
+                [
+                    "MAST90100",
+                    "POPH90013"
+                ]
+            ],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": [
+        "POPH90146 Study Design in Epidemiology\nPOPH90147 Epidemiology in Practice"
+    ],
+    "assessments": [
+        {
+            "description": "Quiz. 1 hours",
+            "timing": "Week 4",
+            "percentage": "20%"
+        },
+        {
+            "description": "Written Assignment. 2000 words",
+            "timing": "Week 9",
+            "percentage": "40%"
+        },
+        {
+            "description": "Written Assignment. 2000 words",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Melissa Russell"
+                },
+                {
+                    "Mode of delivery": "Dual-Delivery (Parkville)"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [],
+                "email": [
+                    "melissar@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Students need to purchase the Stata statistical software package Survey Design and Analysis Services Pty Ltdwww.survey-design.com.au"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

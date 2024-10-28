@@ -1,0 +1,130 @@
+{
+    "subject name": "Strategy Execution for Engineers",
+    "subject code": "ENGM90013",
+    "subject availability": [
+        "Semester 1"
+    ],
+    "overview": [
+        "In fiercely competitive global and dynamic environments, companies face increasing pressures to exceed customer expectations along multiple performance measures, such as cost, quality, flexibility and innovativeness. To outperform their competitors, many firms make the mistake of mimicking their rivals, rather than focusing on developing the organizational capabilities that competitors will find difficult to match over the long term. And although operations are at the core of a firm\u2019s value adding activities, few firms have sought to build a sustainable competitive advantage around these capabilities.",
+        "As such, this subject emphasises the critical nature of Operations Management as an essential part of a competent engineer\u2019s portfolio of knowledge and skills. Operations deals with the design, management and continuous improvement of business processes. It aims at providing some of the core concepts in operations that are essential for leveraging a firm\u2019s operational capabilities to achieve sustainable competitive advantage. This course provides a logical and rigorous approach to plan and control process structure and managerial levers to achieve desired business process performance."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Analyse real-world processes and evaluate their consistency with the firm strategy.",
+        "Apply process analysis techniques for identification of bottlenecks and suggest approaches for de-bottlenecking.",
+        "Apply core principles of project management to plan, analyse, and schedule activities and resources for simple business projects",
+        "Identify managerial levers for controlling inventory and apply simple analytical models for estimating needed safety stock for a desired service level.",
+        "Identify the drivers of variability in processes and propose solutions to mitigate its ill effects using simple queuing theory concepts.",
+        "Use robust statistical process control techniques to ensure capability and control of a process.",
+        "Apply six-sigma and lean concepts to a wide range of business processes."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "None"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "One group assignment (6 students per group) consisting of 2000 words. Due in weeks 5/6. Intended Learning Outcomes (ILOs) 1, 2 and 4 are addressed in this assessment.. 20-25 hours (of work required)",
+            "timing": "From Week 5 to Week 6",
+            "percentage": "20%"
+        },
+        {
+            "description": "One group assignment (6 students per group) consisting of 2000 words. Due in weeks 9/10. Intended Learning Outcomes (ILOs) 1, 2, 4 and 5 are addressed in this assessment.. 20-25 hours (of work required)",
+            "timing": "From Week 9 to Week 10",
+            "percentage": "20%"
+        },
+        {
+            "description": "Class participation will be worth 10%.",
+            "timing": "Throughout the semester",
+            "percentage": "10%"
+        },
+        {
+            "description": "Final three-hour end-of-semester examination (open book). Intended Learning Outcomes (ILOs) 1 to 7 are addressed in this assessment.. 3 hours. Hurdle requirement:. The examination must be passed to pass the subject.",
+            "timing": "End of semester",
+            "percentage": "50%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 1": [
+                {
+                    "Principal coordinator": "Frank Lai"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours normally delivered as 1 x 3 hour lecture/tutorial per week"
+                },
+                {
+                    "Total time commitment": "200 hours"
+                },
+                {
+                    "Teaching period": "26 February 2024 to 26 May 2024"
+                },
+                {
+                    "Last self-enrol date": "8 March 2024"
+                },
+                {
+                    "Census date": "3 April 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "3 May 2024"
+                },
+                {
+                    "Assessment period ends": "21 June 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 1": {
+                "name": [],
+                "email": [
+                    "fjkpl@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Managing Processes, Customised book prepared by Kannan Sethuraman and Gerardo Berbeglia, 2012, The University of Melbourne, McGraw-Hill Australia Pty Ltd.,"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "LEARNING AND TEACHING METHODS",
+            "The subject is delivered through lectures, tutorials, case studies and workshop sessions.",
+            "INDICATIVE KEY LEARNING RESOURCES",
+            "Students are provided with lecture slides, case studies, tutorial materials and solutions.",
+            "CAREERS / INDUSTRY LINKS",
+            "Exposure to the tolls and techniques that prepare graduate engineers for leadership roles in operations management and business improvement."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

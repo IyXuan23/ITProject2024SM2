@@ -1,0 +1,156 @@
+{
+    "subject name": "Assessment and Evaluation in Surgery",
+    "subject code": "MEDS90018",
+    "subject availability": [
+        "Semester 2 (Early-Start) - Online"
+    ],
+    "overview": [
+        "Assessment and evaluation are critical elements of education. Formative assessments are designed to support learning while summative (high stakes) assessments are used to make judgements about an individual\u2019s success in an educational program. Both types of assessments and their application in medical and surgical education are explored in detail extending knowledge and skills covered in the core subjects.",
+        "Evaluation is the process by which programs are judged to have been successful. Effective program evaluation begins at the planning phase of educational activities. In this subject participants will learn key skills in program evaluation adopting a traditional approach addressing program structure, process and outcomes as well as exploring links between evaluation, decision-making and action and reporting evaluation findings;. Like assessment above, this evaluation topic builds on earlier knowledge and skills of program evaluation from the core subjects.",
+        "Although inextricable linked, assessment and evaluation have different functions.",
+        "This subject provides the basis for detailed studies on these two critical components of curricula.",
+        "The overall aims of the subject are:",
+        "To review the nature and purpose of assessments in professional education",
+        "To explore challenges associated with assessments in professional education",
+        "To explore the range of program evaluation methodologies"
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Describe the role of assessment in professional development",
+        "Identify characteristics of robust assessments",
+        "Discuss assessment approaches for different domains (e.g. knowledge, attitude, skills)",
+        "Describe features of a range of written assessments (e.g. multiple choice questions - single best answer, extended modified; essays)",
+        "Describe features of a range of skill based assessments (e.g. OSCEs, OSATS, DOPS)",
+        "Describe features of a range of professional practice assessments (e.g. long cases, short cases, portfolios)",
+        "Describe features of a range of workplace based assessments (e.g. case based discussion, mini clinical examination, direct observation of procedural skills, multi source feedback)",
+        "Describe the concept of standard setting",
+        "Discuss challenges associated with implementing summative assessments including legal issues involved with recording under performance",
+        "Describe key features of program evaluation",
+        "Design an evaluation strategy for a surgical training program"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "MEDS90006",
+                    "MEDS90007",
+                    "MEDS90008",
+                    "MEDS90009"
+                ],
+                "This subject is not available for students admitted in any other courses."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into one of the following:",
+                "GC-SURGED Graduate Certificate in Surgical Education",
+                "GD-SURGED Graduate Diploma in Surgical Education",
+                "MC-SURGED Master of Surgical Education"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Essay. This assessment requires students to develop an evaluation strategy for a surgical education program. Students are expected to draw on educational theory to support their choice of evaluation strategy.. 3000 words",
+            "timing": "Mid semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Essay. In this essay, students are expected to explore in detail a topic on assessment \u2013 e.g. workplace based assessment, examining feasibility, strengths and weaknesses.. 3000 words",
+            "timing": "End of semester",
+            "percentage": "50%"
+        },
+        {
+            "description": "Hurdle requirement:. Online test. The aim of this online assessment is to provide students with an opportunity to undertake an online test and experience immediate computer generated feedback. The content of the test is assessment theory. This provides students with an opportunity to consider both content and one method of assessment.",
+            "timing": "Early in the teaching period",
+            "percentage": "N/A"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2 (Early-Start) - Online": [
+                {
+                    "Coordinator": "Debra Nestel"
+                },
+                {
+                    "Mode of delivery": "Online"
+                },
+                {
+                    "Contact hours": ""
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Pre teaching start date": "1 July 2024"
+                },
+                {
+                    "Pre teaching requirements": "During the pre-teaching period, students should complete pre-readings, which will be made available via Canvas"
+                },
+                {
+                    "Teaching period": "8 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "12 July 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2 (Early-Start)": {
+                "name": [
+                    "Email:"
+                ],
+                "email": [
+                    "continuing-education@unimelb.edu.au",
+                    "https://unimelb.edu.au/professional-development/contact-us"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Owen, J.,Program Evaluation: Forms and Approaches. Third Edition ed. 2006, Crows Nest: Allen & Unwin.",
+                    "Reading Pack Materials will be provided"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "IT requirements:",
+            "Participants will require access to the internet with a minimum connection speed of 256Kbps to access course materials and to participate in on-line discussions and presentations forums. Faster connection speeds are preferred. Participants will also need to verify that their internet connection is configured to allow them to view streamed audio and video files. Test files will be made available for students to test their connections.",
+            "Participants are expected to have a headset and microphone connected to their computer for participation in on-line activities.",
+            "Participants will be expected to have access to the following Microsoft Office products to fully participate:",
+            [
+                "MS Word",
+                "MS Powerpoint"
+            ],
+            "All online applications will be web-based and no special software is required."
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ]
+    }
+}

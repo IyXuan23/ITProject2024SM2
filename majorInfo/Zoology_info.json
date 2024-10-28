@@ -1,0 +1,40 @@
+{
+    "major name": "Zoology",
+    "overview": [
+        "A zoology major provides a springboard for entering careers or research in many areas of animal biology, from conservation and wildlife management to the biotech, biomedical and bioinformatics industries. Graduates will be prepared for these pathways by developing skills in appropriate zoological concepts, data collection and analysis, and critical evaluation of empirical arguments.",
+        "This major facilitates an understanding of the complexities of animal systems by integrating knowledge from the biology of cells to the behaviour of whole organisms, through a sequence of specialist subjects as well as integrated subjects from a wide range of biological disciplines. Students will gain relevant work-place training by participating first-hand in zoological research."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "Completion of:",
+            {
+                "BIOL30001": "Reproductive Physiology Credits",
+                "BIOL30002": "Experimental Animal Biology Credits",
+                "CEDB30003": "Developmental Biology Credits",
+                "ECOL30007": "Marine Biodiversity and Biogeography Credits",
+                "SCIE30001": "Science Research Project Credits",
+                "ZOOL30006": "Animal Behaviour Credits",
+                "ZOOL30007": "Experimental Animal Behaviour Credits",
+                "CEDB30002": "Concepts in Cell & Developmental Biology Credits",
+                "VETS30033": "Health & Disease in Wildlife Populations Credits"
+            },
+            "Including:",
+            {
+                "BIOL30002": "Experimental Animal Biology Credits",
+                "ZOOL30007": "Experimental Animal Behaviour Credits"
+            },
+            "AND",
+            {
+                "BIOL30001": "Reproductive Physiology Credits",
+                "ZOOL30006": "Animal Behaviour Credits"
+            }
+        ],
+        "Notes": [
+            "The topic of the Science Research Project must be related to zoology.",
+            "This major is available to new generation Bachelor of Science students (B-SCI). It is also available to Bachelor of Science students who commenced prior to 2008. The published structure of this major includes subjects available in the current year. Pre-2008 Bachelor of Science students who completed one or more Level 3 science subjects towards this major prior to 2010 should contact the Science Student Centre for advice on appropriate subjects to complete this major.",
+            "This major has been modified from 2010 to 2011 with the removal of specific specialisations. Students who commenced the major prior to 2011 intending to complete a specific specialisation will not be disadvantaged as the specialisation within a major is not recorded on a student's Academic Transcript."
+        ]
+    }
+}

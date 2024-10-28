@@ -1,0 +1,144 @@
+{
+    "subject name": "Building Earth: Rocks, Minerals, Magmas",
+    "subject code": "GEOL20003",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "How does our planet evolve over time? What is its interior like? These questions were first addressed by looking at rocks, and the study of rocks remains a vibrant field within the geosciences. In this subject you will discover the astonishing diversity and complexity of rocks that appear on Earth\u2019s surface. You will learn to read the stories of planetary change that these rocks record\u2013whether they formed during volcanic eruptions, at the hearts of mountain belts, or in ancient tropical seas.",
+        "The Subject emphasises the practical scientific skills of detailed observation, accurate description, informative classification, and reasoned interpretation. You will develop these skills in the laboratory, and apply them during a field excursion to the Western Victoria Volcanics District."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "Explain where, how and why igneous, metamorphic and sedimentary rocks are formed",
+        "Describe and categorize igneous, metamorphic and sedimentary rocks in hand specimen and thin section, with reference to standard classification schemes",
+        "Explain igneous and metamorphic rocks as products of the drive towards thermodynamic equilibrium.",
+        "Form hypotheses about the conditions of rock formation based on observed mineralogy and texture",
+        "Discuss the links between rock formation and planetary tectonic processes."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Admission into the MC-GEOSC Master of Geoscience"
+            ]
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "12.5 credit points of Level 1 or Level 2 Geoscience, Geography, Chemistry or Biology Subjects"
+            ]
+        }
+    ],
+    "corequisites": "None",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Individual field report, written through field work that may be conducted collaboratively. 1000 words",
+            "timing": "During the field trip in in the non-teaching week, with report due two weeks after the trip",
+            "percentage": "25%"
+        },
+        {
+            "description": "Three  equally weighted practical reports (individually written, though lab work may be conducted collaboratively). 500 words (each)",
+            "timing": "During scheduled practical classes in Weeks 3, 6 and 12",
+            "percentage": "35%"
+        },
+        {
+            "description": "Theory exam. 2 hours",
+            "timing": "During the examination period",
+            "percentage": "40%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Eleanor Green"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "2 x one hour lectures per week; 1 x two hour practical class per week; 1 x 3 days of fieldtrip work, conducted in Western Victoria during the mid-semester break."
+                },
+                {
+                    "Total time commitment": "170 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": []
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Cornelis Klein and Anthony Philpotts,Earth Materials. Cambridge University Press (2017), Second Edition. ISBN 978-1-316-60885-2"
+                ]
+            }
+        ],
+        "Subject notes": [
+            "This subject is available for science credit to students enrolled in the BSc (both pre-2008 and new degrees), BASc or a combined BSc course.",
+            "Previously known as 625-222 Minerals and Magmas (prior to 2009)",
+            "Special Requirements: Geological hammer, hand lens and magnet."
+        ],
+        "Incidental costs": [
+            "This subject involves a 3-day field trip and costs are levied for this, $300 is an indicative cost and will be confirmed prior to the beginning of the teaching semester. More information can be found via the Earth Sciences website: https://earthsci.unimelb.edu.au/study/field-trips"
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Breadth options": [
+            "This subject is available as breadth in the following courses:",
+            [
+                "Bachelor of Arts",
+                "Bachelor of Biomedicine",
+                "Bachelor of Commerce",
+                "Bachelor of Design",
+                "Bachelor of Fine Arts (Acting)",
+                "Bachelor of Fine Arts (Animation)",
+                "Bachelor of Fine Arts (Dance)",
+                "Bachelor of Fine Arts (Film and Television)",
+                "Bachelor of Fine Arts (Music Theatre)",
+                "Bachelor of Fine Arts (Production)",
+                "Bachelor of Fine Arts (Screenwriting)",
+                "Bachelor of Fine Arts (Theatre)",
+                "Bachelor of Fine Arts (Visual Art)",
+                "Bachelor of Music"
+            ]
+        ],
+        "Available through the Community Access Program": [
+            {
+                "About the Community Access Program (CAP)": [
+                    "This subject is available through theCommunity Access Program(also called Single Subject Studies) which allows you to enrol in single subjects offered by the University of Melbourne, without the commitment required to complete a whole degree.",
+                    "Entry requirements including prerequisites may apply. Please refer to theCAP applications pagefor further information."
+                ]
+            }
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

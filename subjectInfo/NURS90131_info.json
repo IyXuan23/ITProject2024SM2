@@ -1,0 +1,151 @@
+{
+    "subject name": "Clients with Acute and Chronic Illness",
+    "subject code": "NURS90131",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This subject introduces students to the concepts of acute and chronic illness in individuals across the life-span. The subject focuses on theNational Health Priorities,givingstudents the opportunity to examine the principles and practices underpinning the sociocultural context of patient care. Knowledge is developed in relation to high risk groups, including patients experiencing cardiovascular disorders, asthma and diabetes. Content includes strategies for injury prevention and control, risk reduction and early detection of key health issues, peri-operative care, admission and discharge planning, self-care management, community health and support services and models of collaborative care. Students will continue to refine and expand their knowledge and competency in patient assessment, problem identification, clinical decision making, nursing intervention selection, medication administration and practice evaluation in the context of acute and chronic illness. Knowledge and skills related to fundamental nursing practices will be consolidated and extended. Concepts are patient focused, evidence based and designed to give students the skills to deliver safe, effective high quality care to individuals with acute and chronic health issues.",
+        "In thesimulated learning laboratorystudents will develop skills relating to specific medical/surgical nursing interventions.",
+        "During theprofessional experience placement,under the guidance of clinical educators and clinical preceptors, students will gain experience in settings that enable them to meet the learning outcomes specific to this subject. The major focus for the professional experience placement component of this subject is the integration of the principles of medical/surgical nursing, clinical decision making, and more complex nursing interventions. On completion of the subject it is expected that students, while providing therapeutic interventions, are able to incorporate the further collection of health assessment data and adjust care accordingly for 2 to 3 patients."
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "identify and be cognisant of the National Health Priorities and integrate clinical practices guidelines where relevant;",
+        "identify ethical and legal principles of autonomy, confidentiality and informed consent as they apply to nurse-patient interactions;",
+        "utilise strategies that facilitate a therapeutic nurse patient relationship, refine patient assessment by using a comprehensive nursing framework and utilise assessment data to develop nursing care plans for patients experiencing acute or chronic illness including Aboriginal and Torres Strait Islander and other vulnerable populations;",
+        "plan, implement and evaluate evidence based care for patients, inclusive of Aboriginal and Torres Strait Islander and other vulnerable populations, across the lifespan",
+        "demonstrate analytical skills by incorporating the theoretical principles of clinical decision making into patient care plans;",
+        "implement appropriate nursing assessment and care for patients requiring pre, peri and post-operative management;",
+        "demonstrate competence in selected nursing skills including administration of selected subcutaneous, intramuscular, intravenous and enteral medications;",
+        "communicate verbally, and in writing, in a professional manner with the patient, their families and other members of the health care team;",
+        "Demonstrate safe and appropriate use of emerging technologies including digital health records, and medical equipment"
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "HLTH90019",
+                    "NURS90066",
+                    "NURS90129",
+                    "NURS90130"
+                ],
+                "Completion of a Level 2 First Aid Certificate prior to clinical placement."
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": [
+        {
+            "description": "Case Study Analysis 1, Online Activity. 1000 words",
+            "timing": "Week 3",
+            "percentage": "20%"
+        },
+        {
+            "description": "Theoretical Component: Case Study Analysis 2, Online Activity. 1000 words",
+            "timing": "Week 7",
+            "percentage": "20%"
+        },
+        {
+            "description": "Theoretical Component: Exam. 2000 words",
+            "timing": "During the examination period",
+            "percentage": "30%"
+        },
+        {
+            "description": "Professional Experience Component: Attendance at all simulated learning laboratory sessions. 18 hours. Hurdle requirement:. Pass/ Fail\r\nAttendance at all simulated learning laboratory sessions is a hurdle requirement to undertake the OSCE.",
+            "timing": "During the teaching period",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Professional Experience Component: Objective Structured Clinical Examination (OSCE)\u00a0\u00a0 (On completion of all simulated laboratory sessions)  (1000 words). 20 minutes. Hurdle requirement:. Pass/Fail",
+            "timing": "Prior to professional placement experience.",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Professional Experience Component: Attendance at  all Professional Experience Placement (PEP) days. 120 hours. Hurdle requirement:. Pass/Fail",
+            "timing": "During the assigned professional experience placement",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Professional Experience Component: Professional Experience Placement Appraisal (PEP)  \r\n(Australian Nursing Standards Assessment Tool (ANSAT)). 2500 words. Hurdle requirement:. Pass/Fail",
+            "timing": "End of 120 hours of Professional Experience Practice",
+            "percentage": "N/A"
+        },
+        {
+            "description": "Professional Experience Component: \r\nClinical E-portfolio\r\nPart A: Clinical case- note entries to Electronic Medical Records (EMR).\r\nPart B: Professional Experience Analysis. 2500-3000 words. Hurdle requirement:. A pass is required to pass the subject. The subject assessment weighting of each part of this assessment is :  Part A - 10%, Part B - 20%.  (30% in total) .",
+            "timing": "Part A: 4 EMR entries, one per week, entered during simulation.\r\nPart B: Due within one week of completion of Professional Experience Placement (PEP)",
+            "percentage": "30%"
+        }
+    ],
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Coordinator": "Philippa Marriott"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "36 hours lectures, 18 hours clinical laboratory sessions, 120 hours clinical practicum"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Ackley, B, J., & Ladwig, G. B. (2014).Nursing Diagnosis, an evidence based guide to planning care(10thed.). St Louis: Mosby (eBook available through Unimelb)",
+                    "Brown, D., Edwards, H., Seaton, L., Buckley, T., Lewis, S. L., Dirksen, S. R., Bucher, L. (Eds.). (2015).Lewis' medical-surgical nursing.  Assessment and management of clinical problems(4th ed.). Sydney: Mosby Elsevier.  (eBook available through Unimelb)",
+                    "Bullock, S., & Manias, E., (2017).Fundamentals of Pharmacology (8thed.).Australia: Frenchs Forest: Pearson Education.",
+                    "Crisp, J., Douglas, C., Rebeiro, G., & Waters, D. (2017).Potter and Perry's Fundamentals of Nursing(5e ed.). Chatswood, NSW: Elsevier.   (eBook available through Unimelb)",
+                    "Intellilearn  (2014) MedSafewww.medsafe.com.au(Medication / Drug calculation)",
+                    "Tollefson, J. (2019).Clinical psychomotor skills: Assessment skills for nurses(7th ed.). Melbourne: Cengage Learning."
+                ]
+            },
+            {
+                "Recommended texts and other resources": [
+                    "Brotto V, Rafferty K. (2015).Clinical dosage calculations: for Australia and New Zealand. (2nded.). Cengage Learning.",
+                    "Perrin, R. (2011).Pocket guide to APA style (4thed.).Boston: Houghton Mifflin College",
+                    "Reid-Searl, K., Dwyer, T., Ryan, J., & Moxham, L. (2008).Student Nurse: Clinical survival guide.Australia: Pearson Education.",
+                    "Lapham, R. & Agar, H. (2009).Drug calculations for nurses: a step-by-step approach. (3rded.). London: Hodder Arnold.",
+                    "Levitt-Jones, T. & Bourgeois, S. (2010).The clinical placement: an essential guide for nursing students(2nded.).Sydney: Churchill-Livingstone/Elsevier.  (eBook available through Unimelb)"
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "http://www.nursing.unimelb.edu.au/"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

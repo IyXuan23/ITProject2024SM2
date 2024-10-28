@@ -1,0 +1,125 @@
+{
+    "subject name": "Nursing as Practice",
+    "subject code": "NURS90055",
+    "subject availability": [
+        "Semester 2"
+    ],
+    "overview": [
+        "This is a capstone subject in which students will further consolidate and apply the knowledge they have acquired from Nursing Science 1, 2 & 3, Nursing Assessment and Care, Clients With Acute and Chronic Illness, Clients with Complex Health States and case-based learning scenarios which feature complex patient health problems.In theclinical skills laboratorystudents will refine and consolidate their procedural skills utilising a self-directed learning approach. Emphasis will also be placed on performing such skills in a time-efficient manner.In theclinical practicum, under the guidance of clinical educators and preceptors, students focus on the transition from nursing student to registered nurse with the goal of achieving readiness to practice as a beginning registered nurse.The major focus for the clinical practicum component of this subject is to further build the student\u2019s knowledge and skills of the assessment and management of patients experiencing specific health problems and to develop an understanding of the accountability requirements of the registered nurse. On completion of the subject it is expected that students is able to carry the expected load of a new graduate by caring for 4 patients independently with minimal supervision.",
+        ""
+    ],
+    "aims": [],
+    "indicative content": [],
+    "intended learning outcomes": [
+        "understand the dimensions of the nursing role in the context of providing complex nursing care in a variety of settings;",
+        "understand key concepts in the assessment and care of complex patients;",
+        "further develop physical, psychosocial, contextual and learning needs and assessment skills;",
+        "further develop clinical reasoning, problem framing and solving skills;",
+        "contribute to planning care for patients incorporating the principles of cultural sensitivity and understanding and an evidence based approach;",
+        "communicate effectively with patients/families, peers and members of the health care team;",
+        "accurately and professionally document assessment findings and therapeutic interventions;",
+        "understand legal requirements for nursing interventions;",
+        "demonstrate competency in the calculation, preparation and administration of drugs;",
+        "further develop knowledge of pharmacological management pertinent to patient care;",
+        "apply the skills of information seeking, retrieval, evaluation critical thinking and problem solving to selected case scenarios."
+    ],
+    "pre-requisites": [
+        {
+            "option": "Option 1",
+            "necessary pre-requisite": [
+                [
+                    "NURS90053",
+                    "NURS90059",
+                    "NURS90066",
+                    "NURS90124",
+                    "NURS90125",
+                    "NURS90129",
+                    "NURS90130"
+                ]
+            ],
+            "one of pre-requisite": [],
+            "additional pre-requisite": []
+        },
+        {
+            "option": "Option 2",
+            "necessary pre-requisite": [],
+            "one of pre-requisite": [],
+            "additional pre-requisite": [
+                "Pre-2019 versions of these subjects: NURS50008 Mental Health & Recovery, NURS50004 Nursing Assessment & Care,  NURS50003 Nursing Science 1 and NURS50006 Nursing Science 2"
+            ]
+        }
+    ],
+    "corequisites": "tempValue",
+    "non-allowed subjects": "None",
+    "assessments": null,
+    "dates and times": [
+        {
+            "Semester 2": [
+                {
+                    "Principal coordinator": "Jo Martin"
+                },
+                {
+                    "Mode of delivery": "On Campus (Parkville)"
+                },
+                {
+                    "Contact hours": "42 lectures/tutorials/seminars, 12 clinical laboratory sessions, 160 clinical practicum, TOTAL: 214 hours"
+                },
+                {
+                    "Total time commitment": "340 hours"
+                },
+                {
+                    "Teaching period": "22 July 2024 to 20 October 2024"
+                },
+                {
+                    "Last self-enrol date": "2 August 2024"
+                },
+                {
+                    "Census date": "2 September 2024"
+                },
+                {
+                    "Last date to withdraw without fail": "20 September 2024"
+                },
+                {
+                    "Assessment period ends": "15 November 2024"
+                }
+            ]
+        }
+    ],
+    "contact information": [
+        {
+            "Semester 2": {
+                "name": [
+                    "Jo-Anne Martin"
+                ],
+                "email": [
+                    "jo.martin@unimelb.edu.au"
+                ]
+            }
+        }
+    ],
+    "further info": {
+        "Texts": [
+            {
+                "Prescribed texts": [
+                    "Stedman\u2019s medical dictionary for the health professions and nursing. Australian and New Zealand Edition (5th ed.). (2005)",
+                    "Perrin, R. (2009). Pocket guide to APA style (3rd ed.). Boston: Houghton Mifflin College.",
+                    "Education Innovations. (2005). Nursing Calculations (Version 6.0.0). ( General Relativity Pty Ltd, CD-ROM 2005 release).",
+                    "Bullock, S., Manias, E., & Galbraith, A. (2007). Fundamentals of pharmacology (5th ed.). Australia: Frenchs Forest: Pearson Education.",
+                    "Crisp, J. & Taylor, C. (2009). Potter and Perry\u2019s Fundamentals of Nursing (3rd ed.). Chatswod, NSW: Elsevier Australia.",
+                    "Lim, A. (ED). (2008). Australia New Zealand Nursing & Midwifery drug handwbook (4th ed.). Broadway, NSW: Lippincott Williams & Wilkins.",
+                    "Elder, R., Evans, K., & Nizette, D. (2009). Psychiatric and mental health nursing (2nd ed.). Sydney: Elsevier Mosby",
+                    "Brown, D., & Edwards, H. (2008). Lewis\u2019 medical-surgical nursing (2nd ed.). Sydney: Elsevier Mosby."
+                ]
+            }
+        ],
+        "Related Handbook entries": [
+            "This subject contributes to the following:"
+        ],
+        "Links to additional information": [
+            "www.nursing.unimelb.edu.au"
+        ],
+        "Available to Study Abroad and/or Study Exchange Students": [
+            "This subject is available to students studying at the University from eligible overseas institutions on exchange and study abroad. Students are required to satisfy any listed requirements, such as pre- and co-requisites, for enrolment in the subject."
+        ]
+    }
+}

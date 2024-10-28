@@ -1,0 +1,29 @@
+{
+    "major name": "Plant Science",
+    "overview": [
+        "A Plant Science major will provide the springboard for students in entering careers or research in all fields requiring a solid understanding of plants and their environments. Graduates will develop a comprehensive integrated knowledge of the biology of plants as well as both field and laboratory skills. This major will include knowledge from all aspects of plant biology from cells to ecosystems, by enabling students to complete an integrated subject on plant evolution or an advanced lab and coursework subject in plant biotechnology and molecular biology combination with a suite of specialist subjects in specific subdiscipline fields."
+    ],
+    "ILOs": [],
+    "structure": {
+        "Structure": [
+            "50 credit points",
+            "Completion of:",
+            {
+                "AGRI30042": "Plant Pathology Credits",
+                "BOTA30001": "Marine Botany Credits",
+                "BOTA30004": "Vegetation Management and Conservation Credits",
+                "BOTA30005": "Plant Molecular Biology & Biotechnology Credits",
+                "BOTA30006": "Field Botany Credits",
+                "ECOL30006": "Ecology in Changing Environments Credits",
+                "FRST30001": "Forest Systems Credits",
+                "SCIE30001": "Science Research Project Credits",
+                "BOTA30002": "Plant Evolution Credits"
+            },
+            "Including:",
+            {
+                "BOTA30002": "Plant Evolution Credits",
+                "BOTA30005": "Plant Molecular Biology & Biotechnology Credits"
+            }
+        ]
+    }
+}
