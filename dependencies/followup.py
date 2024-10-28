@@ -13,6 +13,7 @@ MAX_MESSAGES = 4
 openai_api_key = os.environ.get('OPENAI_API_KEY')
 
 
+
 def get_conversation ():
     return session.get('conversation_history',[])
 
@@ -25,7 +26,7 @@ def save_conversation(conversation_history : dict):
 
 def rephrase_question(convo : dict) -> str:
     response = OpenAI(api_key=openai_api_key).chat.completions.create(
-        model="gpt-4o-mini",
+        model="gpt-4o",
         messages=convo
     ).choices[0].message.content
     return response
@@ -60,30 +61,9 @@ def is_followup_question(conversation_history: list, new_question: str) -> bool:
     else:
         return False
 
-def construct_rephrasev2(conversation_history: dict, followup_question: str, keywords: str) -> dict:
-    messages = [
-        {
-            "role": "system",
-            "content": ("You are an assistant that corrects the user based on the corrected keywords provided, such as the subject code or course code, and information from the conversation. Remember, "
-                        "'course' and 'subject' are not interchangeable: a course is a program of study, while a subject refers to a specific "
-                        "class or unit within a course. Don't include 'program' or 'track'")
-        }
-    ]
-    # Add conversation history to the message
-    messages.extend(conversation_history)
-
-    # Add the user's follow-up question and keywords
-    messages.append({
-        "role": "user",
-        "content": (f"Based on the conversation above, correct my last question by replacing keywords in my last question with following corrected keywords: \"{keywords}\"."
-                    f"My last question was: \"{followup_question}\".\n\nRephrased question:")
-    })
-    
-    return messages
-
 def construct_rephrase(conversation_history : dict, followup_question : str) -> dict:
     messages = [{"role": "system",
-    "content": "You are an assistant that rephrases user questions to EXPLICITLY include necessary context, such as the subject code or course code, based on the conversation. Remember, 'course' and 'subject' are not interchangeable: a course is a program of study, while a subject refers to a specific class or unit within a course."}]
+    "content": "You are an assistant that rephrases user questions to EXPLICITLY include necessary context, such as the subject code or course code or major name, based on the conversation. Remember, 'course', 'subject' and 'major' are not interchangeable and you don't know if the user is referring to a 'course' or 'subject' or 'major'. Therefore, do not include words such as: subjects, course, major or similar words in the rephrased question"}]
     messages.extend(conversation_history)
     messages.append({"role": "user", "content": f"Based on the above conversation, rephrase my last question\n\nMy last question: \"{followup_question}\"\nRephrased question:"})
     return messages
