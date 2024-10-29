@@ -1,21 +1,25 @@
-# Chatbot API
+# Unimelb Handbook Chatbot
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-This is a chatbot API integrated with OpenAI and Vanna AI, connected through a Chrome extension that provides users with real-time assistance based on the UoM Student Handbook.
+This is a chatbot integrated with OpenAI and Vanna AI, connected through a Chrome extension that provides users with real-time assistance based on the UoM Student Handbook.
 
-## System Architecture Overview
-![image](https://github.com/user-attachments/assets/6b068dd3-4826-413b-840b-f909c36c811d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0192a0a2-32b4-4ea6-998d-2370bdb587f2"/>
+</p>
 
-- **User Interaction**: Users interact through a Chrome extension that pops up when they access the UoM Student Handbook in their browser.
-- **Chrome Extension**: This extension, comprising HTML, JavaScript, and manifest files, triggers the UoM Handbook Chatbot popup.
-- **Chatbot API**: The Chrome extension sends user questions to the Flask Python-based chatbot API.
-- **Vanna AI & OpenAI Integration**: The chatbot API sends user questions to Vanna AI for query processing. If natural language understanding or additional processing is needed, OpenAI is used to generate responses.
-- **Supabase**: The data used by Vanna AI is stored in Supabase, which contains information scraped from the University of Melbourne Student Handbook.
+## Try the Chatbot
 
-## Getting Started
+- **Chrome Extension Version**
+   1. Download the package from [Latest Realease page](https://github.com/IyXuan23/ITProject2024SM2/releases/latest) and unzip it.
+   2. Load this directory in Chrome as an [unpacked extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked).
+   3. Open the extension's side panel by clicking the hoverball on the bottom right of your screen to open the side panel.
+
+- **[Website Version](https://www.unimelb-chatbox.quest/) (Not maintaining)**
+
+## Deployment guideline
 
 ### Prerequisites
 
@@ -129,3 +133,13 @@ Vercel automatically detects and builds your project when deploying. However, to
    ```
 
 Vercel will handle the build and deployment processes and provide you with an updated production link.
+
+## System Architecture Overview
+![image](https://github.com/user-attachments/assets/6b068dd3-4826-413b-840b-f909c36c811d)
+
+- **User Interaction**: Users interact through a Chrome extension that pops up when they access the UoM Student Handbook in their browser.
+- **Chrome Extension**: This extension, comprising HTML, JavaScript, and manifest files, triggers the UoM Handbook Chatbot popup.
+- **Chatbot API**: The Chrome extension sends user questions to the Flask Python-based chatbot API.
+- **Vanna AI & OpenAI Integration**: The chatbot API sends user questions to Vanna AI for query processing. If natural language understanding or additional processing is needed, OpenAI is used to generate responses.
+- **Supabase**: The data used by Vanna AI is stored in Supabase, which contains information scraped from the University of Melbourne Student Handbook.
+
